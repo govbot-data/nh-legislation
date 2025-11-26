@@ -1,4 +1,4 @@
-# 🏛️ nh legislation file tree
+# 🏛️ New Hampshire legislation file tree
 
 Download a copy of your states legislation.
 
