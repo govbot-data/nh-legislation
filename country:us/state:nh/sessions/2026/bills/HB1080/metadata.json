@@ -23,6 +23,16 @@
       "_processing": {
         "log_file_created": "2025-12-20T08:20:11Z"
       }
+    },
+    {
+      "description": "Public Hearing: 01/15/2026 01:30 pm GP 229",
+      "date": "2026-01-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-03T12:19:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,6 +109,6 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-20T08:20:11Z"
+    "logs_latest_update": "2026-01-03T12:19:20Z"
   }
 }
