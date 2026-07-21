@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER105
+SB512-FN-FINALVERSION
+03/26/2026 1233s
+2026SESSION
+26-2108
+09/05
+512-FN
+SENATEBILL
+ANACT relative to fees to annul criminal records related to charges that do not result in
+conviction.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Lang, Dist 2; Sen. Innis, Dist 7; Sen. Ward, Dist 8; Sen.
+Pearl,Dist17;Sen.Watters,Dist4;Sen.Sullivan,Dist18;Sen.Gannon,Dist23;Sen.
+Avard,Dist12;Sen.McGough,Dist11
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits a filing feefor certain annulments of criminal records related to arrests and charges
+thatdonotresultinconviction.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER105
+SB512-FN-FINALVERSION
+03/26/2026 1233s 26-2108
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to fees to annul criminal records related to charges that do not result in
+conviction.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 105:1 AnnulmentofCriminalRecords. AmendRSA651:5,II-a(a)toreadasfollows:
+2 II-a.(a)(1) For an offense disposed of on or after January 1, 2019, any person whose arrest has
+3 resultedinafindingofnotguiltyonallchargesthatresultedfromthearrest,orwhosecasewasdismissed
+4 ornotprosecuted,shallhavethearrestrecordandcourtrecordannulled:
+5 [(1)](A) ThirtydaysfollowingthefindingofdismissalifanappealisnottakenunderRSA
+6 606:10orfindingofnotguilty;or
+7 [(2)] (B) Upon final determination of the appeal affirming the finding of dismissal if an
+8 appealistakenunderRSA606:10.
+9 (2)NofilingfeeshallbechargedforanypetitiontoannulbroughtundersubparagraphII-
+10 a(a).
+11 105:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:May28,2026
+EffectiveDate:January01,2027

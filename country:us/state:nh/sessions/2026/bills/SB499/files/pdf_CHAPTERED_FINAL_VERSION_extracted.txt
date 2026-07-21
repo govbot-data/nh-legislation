@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER135
+SB499-FINALVERSION
+02/05/2026 0349s
+2026SESSION
+26-2065
+09/05
+499
+SENATEBILL
+ANACT relative to the membership, duties, and reporting requirements of the traffic safety
+commission.
+SPONSORS: Sen.Birdsell,Dist19
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill adds an additional member and an additional duty and reporting requirement for the traffic
+safetycommission.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER135
+SB499-FINALVERSION
+02/05/2026 0349s 26-2065
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the membership, duties, and reporting requirements of the traffic safety
+commission.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 135:1 New Subparagraph; Traffic Safety Commission; Membership. Amend RSA 21-P:64, I(b) by
+2 insertingaftersubparagraph(11)thefollowingnewsubparagraph:
+3 (12) AmemberofthetraumamedicalreviewcommitteeestablishedunderRSA153-
+4 A:8,appointedbythecommittee.
+5 135:2 New Paragraph; Traffic Safety Commission; Duty Added. Amend RSA 21-P:64 by inserting
+6 afterparagraphIIthefollowingnewparagraph:
+7 II-a. The commission shall review and analyze any available and relevant information and data
+8 relatedtothecauseoftrafficcollisionsinNewHampshire.
+9 135:3 TrafficSafetyCommission;Reports. AmendRSA21-P:64,Vtoreadasfollows:
+10 V. The commission shall report annually, beginning November 1, 2018, to the speaker of the
+11 house of representatives, the president of the senate, and the governor. The reports shall describe the
+12 activities and findings of the commission and any recommendations for proposed legislation. Beginning
+13 November1,2026,thereportsshallincludeaggregateddataonthecausesoftrafficcollisionsinNew
+14 Hampshireforthatyearandrecommendationsonhowtoaddressthesecauses.
+135:4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:June12,2026
+EffectiveDate:January01,2027

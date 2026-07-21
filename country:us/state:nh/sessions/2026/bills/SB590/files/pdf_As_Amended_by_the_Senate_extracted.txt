@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB590-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0083s
+2026SESSION
+26-2167
+06/05
+590-FN
+SENATEBILL
+ANACT relativetoelectricaggregationplans.
+SPONSORS: Sen.Fenton,Dist10;Sen.Lang,Dist2;Sen.Avard,Dist12;Sen.Rosenwald,Dist
+13; Sen. Pearl, Dist 17; Sen. Watters, Dist 4; Rep. Moffett, Merr. 4; Rep. W.
+Thomas,Hills.12
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes municipalities to use revolving funds to support energy services under
+approvedelectricaggregationplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB590-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0083s 26-2167
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoelectricaggregationplans.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph;RevolvingFunds. AmendRSA31:95-h, Ibyinsertingafter subparagraph
+2 (g)thefollowingnewsubparagraph:
+3 (h) Facilitating the provision of energy services pursuant to the approved electric
+4 aggregation plan under RSA 53-E, provided that no funds raised from local taxes shall be used for
+5 suchpurposes.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2167
+02/03/2026
+SB590-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0083s)
+ANACT relativetoelectricaggregationplans.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB418 -ASINTRODUCED
+2026SESSION
+26-2021
+08/05
+418
+SENATEBILL
+ANACT prohibiting municipalities from requiring licenses for the production and sale of
+homesteadfoodproducts.
+SPONSORS: Sen.Sullivan,Dist18;Sen.Lang,Dist2;Sen.Murphy,Dist16;Sen.Innis,Dist7;
+Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Rep. J. Aron, Sull. 4; Rep. Sabourin,
+Rock. 30; Rep. Kesselring, Hills. 18; Rep. Paquette, Hills. 25; Rep. Warden, Hills.
+39
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits municipalities from requiring licenses for the production and sale of
+homesteadfoodproducts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB418-ASINTRODUCED
+26-2021
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting municipalities from requiring licenses for the production and sale of
+homesteadfoodproducts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;LocalRegulations;HomesteadFoodLicenses. AmendRSA147:1byinserting
+2 afterparagraphIIIthefollowingnewparagraph:
+3 IV. Neither the governing body of a municipality nor the health officers of a town or city
+4 shallmakeregulationsrequiringlicensesforactivitiesorproductsexemptunderRSA143-A:12.
+5 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

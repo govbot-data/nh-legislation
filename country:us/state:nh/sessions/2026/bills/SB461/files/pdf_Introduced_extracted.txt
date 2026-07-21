@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB461 -ASINTRODUCED
+2026SESSION
+26-2255
+08/06
+461
+SENATEBILL
+ANACT relativetothedefinitionofhemp.
+SPONSORS: Sen. Fenton, Dist 10; Sen. Reardon, Dist 15; Sen. Birdsell, Dist 19; Rep. W.
+MacDonald,Rock.16
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillincludesthetotaltetrahydrocannabinolconcentrationinthedefinitionofhemp.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB461-ASINTRODUCED
+26-2255
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedefinitionofhemp.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Hemp;Definition. AmendRSA439-A:2,Vtoreadasfollows:
+2 V. "Hemp" means the plant Cannabis sativa L. and any part of the plant, whether growing
+3 ornot, withadelta-9total tetrahydrocannabinol (THC) concentration[(THC)] of notmorethan0.3
+4 percent on a dry weight basis. Total THC concentration shall include the sum of all THC,
+5 includingtetrahydrocannabolicacid(THCA).
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

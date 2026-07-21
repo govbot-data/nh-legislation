@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER64
+SB489-FINALVERSION
+02/05/2026 0346s
+2026SESSION
+26-2054
+08/06
+489
+SENATEBILL
+ANACT alteringtheappointmentprocessfortheboardoftaxandlandappeals.
+SPONSORS: Sen.Avard,Dist12;Rep.Sirois,Hills.32;Rep.Barbour,Hills.35
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillalterstheappointmentprocessfortheboardoftaxandlandappeals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER64
+SB489-FINALVERSION
+02/05/2026 0346s 26-2054
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT alteringtheappointmentprocessfortheboardoftaxandlandappeals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 64:1 BoardofTaxandLandAppeals;Appointment;Term;Chairman. AmendRSA71-B:2toreadas
+2 follows:
+3 71-B:2 Appointment;Term;Chairman. Themembersoftheboardshallbeappointedbyandserveat
+4 thepleasureof thegovernor andcouncil, ratherthanfixedterms. Thegovernorandcouncilshall appoint
+5 one member as chairman to serve in that capacity for the duration of his or her term. The executive
+6 councilshallholdahearingpriortoconfirmationaccordingtotheproceduresunderRSA4:44.
+64:2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:May08,2026
+EffectiveDate:May08,2026

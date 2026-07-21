@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER192
+SB525-FINALVERSION
+2026SESSION
+26-2113
+07/06
+525
+SENATEBILL
+ANACT raisingthemaximumamountofstateguaranteesinforce.
+SPONSORS: Sen. Innis, Dist 7; Sen. Lang, Dist 2; Sen. Watters, Dist 4; Sen. Pearl, Dist 17; Sen.
+Avard,Dist12;Sen.Abbas,Dist22
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillraisesthemaximumamountofstateguaranteesinforce.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER192
+SB525-FINALVERSION
+26-2113
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT raisingthemaximumamountofstateguaranteesinforce.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 192:1 Public Safety and Welfare; Business Finance Authority; Unified Contingent Credit Limit.
+2 AmendRSA162-A:22toreadasfollows:
+3 162-A:22 Unified Contingent Credit Limit. The total amount of state guarantees in force under RSA
+4 162-A:7-a, RSA 162-A:8, RSA 162-A:10, III, RSA 162-A:13, RSA 162-A:13-a, RSA 162-A:17, and RSA
+5 162-I:9-b shall not exceed in the aggregate at any time $50,000,000 plus interest, provided that such
+6 amount shall be increased to $80,000,000 plus interest on January 1, 1993, to $95,000,000 plus interest
+7 on January 1, 1994, and to $115,000,000 plus interest on May 1, 2015, [and] to $200,000,000 plus
+8 interestonJune1,2023,andto$500,000,000plusinterestonMarch1,2026.
+192:2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:June19,2026
+EffectiveDate:June19,2026
