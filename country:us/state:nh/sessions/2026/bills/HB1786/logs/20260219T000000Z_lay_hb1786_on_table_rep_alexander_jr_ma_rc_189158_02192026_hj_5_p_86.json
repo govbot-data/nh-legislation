@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HB1786 on Table (Rep. Alexander Jr.): MA RC 189-158 02/19/2026  HJ 5  P. 86",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2133&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1786"
+}

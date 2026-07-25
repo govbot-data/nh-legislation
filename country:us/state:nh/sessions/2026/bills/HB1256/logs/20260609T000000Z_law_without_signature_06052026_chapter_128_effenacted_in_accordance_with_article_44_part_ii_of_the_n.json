@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Law Without Signature 06/05/2026; Chapter 128; eff.Enacted in accordance with Article 44 Part II of the N.H. Constitutionwithout the signature of the governor June 6",
+    "occurred_at": "2026-06-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1986&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1256"
+}

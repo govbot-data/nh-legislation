@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing: 04/22/2025, Room 103, SH, 09:15 am;  SC 18",
+    "occurred_at": "2025-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB723"
+}

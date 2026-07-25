@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "FLAM # 2026-0033h (Rep. Rice): AA RC 177-176 01/08/2026  HJ 2  P. 13",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB675"
+}

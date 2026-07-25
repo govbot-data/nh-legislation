@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Special Order next order of business (Rep. B. Sullivan): MA RC 167-164 03/11/2026  HJ 7  P. 240",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2371&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1704"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 01/07/2026 and referred to Election Law  HJ 1  P. 27",
+    "occurred_at": "2025-12-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2401&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1601"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Concurs with Senate Amendment 2026-1311s (Rep. Lynn): MA VV 05/21/2026  HJ 14  P. 18",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2337&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1040"
+}

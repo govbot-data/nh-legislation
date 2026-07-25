@@ -149,17 +149,17 @@
       }
     },
     {
-      "description": "Amendment # 2026-1675h: AA VV 05/14/2026  HJ 13",
+      "description": "Amendment # 2026-1675h: AA VV 05/14/2026  HJ 13  P. 6",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1675h: MA VV 05/14/2026  HJ 13",
+      "description": "Ought to Pass with Amendment 2026-1675h: MA VV 05/14/2026  HJ 13  P. 9",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -168,7 +168,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
@@ -224,6 +224,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
       }
+    },
+    {
+      "description": "Signed by the Governor on 07/02/2026; Chapter 267; Effective 08/31/2026",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -274,14 +286,6 @@
       "primary": false,
       "person_id": "~{\"name\": \"Howard Pearl\"}",
       "organization_id": null
-    },
-    {
-      "name": "Jonathan Morton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jonathan Morton\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -329,6 +333,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34100&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -341,7 +356,7 @@
   ],
   "extras": {
     "LSR": "2239",
-    "_code": "2037"
+    "_code": ""
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:nh/government",
@@ -350,7 +365,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:37Z",
     "text_extraction_latest_update": "2026-07-21T19:14:02.612052Z"
   }
 }

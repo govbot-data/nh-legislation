@@ -139,17 +139,17 @@
       }
     },
     {
-      "description": "Amendment # 2026-1484h: AA VV 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1484h: AA VV 04/23/2026  HJ 11  P. 3",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1484h: MA VV 04/23/2026  HJ 11",
+      "description": "Ought to Pass with Amendment 2026-1484h: MA VV 04/23/2026  HJ 11  P. 4",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -158,35 +158,13 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
-      }
-    },
-    {
-      "description": "Referred to Finance 04/23/2026  HJ 11",
-      "date": "2026-05-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
       "description": "Sen. Rochefort Moved to Concur with the House Amendment, MA, VV; 05/07/2026;  SJ 11",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
-      }
-    },
-    {
-      "description": "Referral Waived by Committee Chair per House Rule 47(f) 04/23/2026  HJ 11",
-      "date": "2026-05-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -379,7 +357,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:37Z",
     "text_extraction_latest_update": "2026-07-21T19:18:02.726458Z"
   }
 }

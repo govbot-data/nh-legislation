@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report: Referred to Interim Study, 04/16/2026; Vote 5-0; CC;  SC 14A",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1779&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1431"
+}

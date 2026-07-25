@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Remove from Table (Rep. Wade): MF DV 123-207 03/11/2026  HJ 7  P. 142",
+    "occurred_at": "2026-06-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2076&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1814"
+}

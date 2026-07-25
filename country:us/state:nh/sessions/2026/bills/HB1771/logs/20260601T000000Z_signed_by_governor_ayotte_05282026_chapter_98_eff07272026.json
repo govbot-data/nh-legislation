@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Governor Ayotte 05/28/2026; Chapter 98; eff.07/27/2026",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2344&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1771"
+}

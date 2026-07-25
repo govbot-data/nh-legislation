@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA, VV; OT3rdg; 04/16/2026;  SJ 9",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1532&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1148"
+}

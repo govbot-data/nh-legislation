@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee Work Session: 02/11/2025 01:15 pm LOB 104",
+    "occurred_at": "2025-02-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB451"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report 2026-1774c: Adopted, VV 05/14/2026  HJ 13  P. 43",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB221"
+}

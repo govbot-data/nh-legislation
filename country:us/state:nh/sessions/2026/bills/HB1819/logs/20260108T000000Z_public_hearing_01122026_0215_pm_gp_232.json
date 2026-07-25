@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Public Hearing: 01/12/2026 02:15 pm GP 232",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2229&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1819"
+}

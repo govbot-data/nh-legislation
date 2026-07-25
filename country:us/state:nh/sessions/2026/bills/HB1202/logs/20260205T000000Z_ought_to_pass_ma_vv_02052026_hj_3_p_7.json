@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA VV 02/05/2026  HJ 3  P. 7",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1785&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1202"
+}

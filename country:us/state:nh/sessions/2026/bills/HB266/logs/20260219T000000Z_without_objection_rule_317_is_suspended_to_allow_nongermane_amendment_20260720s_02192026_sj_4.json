@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Without Objection, Rule 3-17 is Suspended to Allow Non-Germane Amendment # 2026-0720s; 02/19/2026;  SJ 4",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB266"
+}

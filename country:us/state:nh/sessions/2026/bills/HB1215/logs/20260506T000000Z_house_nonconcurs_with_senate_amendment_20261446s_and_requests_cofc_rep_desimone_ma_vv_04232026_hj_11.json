@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Non-Concurs with Senate Amendment 2026-1446s and Requests CofC (Rep. DeSimone): MA VV 04/23/2026  HJ 11  P. 84",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2102&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1215"
+}

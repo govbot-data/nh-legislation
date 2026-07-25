@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "FLAM # 2026-1079h  (Rep. N. Germana): AA DV 307-11 03/11/2026  HJ 7  P. 163",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2052&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1275"
+}

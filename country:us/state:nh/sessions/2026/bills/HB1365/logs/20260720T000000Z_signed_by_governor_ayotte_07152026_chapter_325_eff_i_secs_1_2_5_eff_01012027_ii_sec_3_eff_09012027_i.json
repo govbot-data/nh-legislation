@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Governor Ayotte 07/15/2026; Chapter 325; eff. I. Secs 1 2 5  eff 01/01/2027 II. Sec 3 eff 09/01/2027 III. Rem eff 07/15/2026",
+    "occurred_at": "2026-07-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2314&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1365"
+}

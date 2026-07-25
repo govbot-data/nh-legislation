@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA VV 03/26/2026  HJ 9  P. 3",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2081&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1301"
+}

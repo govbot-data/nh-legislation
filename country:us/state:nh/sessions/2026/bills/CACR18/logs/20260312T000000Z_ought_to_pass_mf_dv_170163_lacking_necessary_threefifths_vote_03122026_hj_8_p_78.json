@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass: MF DV 170-163 Lacking Necessary Three-Fifths Vote 03/12/2026  HJ 8  P. 78",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1928&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "CACR18"
+}

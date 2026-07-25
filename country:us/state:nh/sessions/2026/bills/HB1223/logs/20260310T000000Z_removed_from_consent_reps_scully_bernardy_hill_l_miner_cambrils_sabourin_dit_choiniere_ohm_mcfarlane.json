@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Scully, Bernardy, Hill, L. Miner, Cambrils, Sabourin dit Choiniere, Ohm, McFarlane, Porcelli, Kenny) 03/10/2026  HJ 7  P. 1",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1926&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1223"
+}

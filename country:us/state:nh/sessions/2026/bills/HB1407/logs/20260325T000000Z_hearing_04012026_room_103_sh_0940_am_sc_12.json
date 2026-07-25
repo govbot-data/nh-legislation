@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing: 04/01/2026, Room 103, SH, 09:40 am;  SC 12",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2199&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1407"
+}

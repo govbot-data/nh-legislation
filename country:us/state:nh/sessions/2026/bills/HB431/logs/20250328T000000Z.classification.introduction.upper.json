@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 03/27/2025 and Referred to Education;  SJ 10",
+    "occurred_at": "2025-03-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB431"
+}

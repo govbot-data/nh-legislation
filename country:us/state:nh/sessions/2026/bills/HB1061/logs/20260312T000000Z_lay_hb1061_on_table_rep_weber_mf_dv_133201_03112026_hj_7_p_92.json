@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HB1061 on Table (Rep. Weber): MF DV 133-201 03/11/2026  HJ 7  P. 92",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2298&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1061"
+}

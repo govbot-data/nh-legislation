@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Refer for Interim Study: MA DV 175-164 03/12/2026  HJ 8  P. 85",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2022&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1288"
+}

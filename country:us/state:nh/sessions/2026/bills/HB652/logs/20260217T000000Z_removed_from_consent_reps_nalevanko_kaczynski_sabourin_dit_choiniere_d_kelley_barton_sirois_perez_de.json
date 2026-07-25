@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Nalevanko, Kaczynski, Sabourin dit Choiniere, D. Kelley, Barton, Sirois, Perez, DeRoy, Bernardy, Post) 02/16/2026  HJ 5  P. 3",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB652"
+}

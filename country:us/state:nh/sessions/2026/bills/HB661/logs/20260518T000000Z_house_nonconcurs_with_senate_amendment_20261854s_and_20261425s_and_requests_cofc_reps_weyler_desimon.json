@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Non-Concurs with Senate Amendment 2026-1854s and 2026-1425s and Requests CofC (Reps. Weyler, DeSimone): MA VV 05/14/2026  HJ 13  P. 149",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB661"
+}

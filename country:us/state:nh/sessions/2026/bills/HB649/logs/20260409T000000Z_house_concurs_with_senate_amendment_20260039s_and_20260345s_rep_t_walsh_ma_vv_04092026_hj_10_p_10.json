@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Concurs with Senate Amendment 2026-0039s and 2026-0345s (Rep. T. Walsh): MA VV 04/09/2026  HJ 10  P. 10",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB649"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report: Refer for Interim Study  02/18/2026 (Vote 15-0; CC)  HC 10  P. 9",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1828&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1614"
+}

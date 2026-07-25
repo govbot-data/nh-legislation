@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report: Without Recommendation  02/03/2026 (Vote 10-10; RC)  HC 9  P. 46",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2079&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR35"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report Filed, # 2026-2096c; 06/04/2026",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1761&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1187"
+}

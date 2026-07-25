@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report: Referred to Interim Study, 05/14/2026; Vote 3-2; CC;  SC 18",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2174&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1735"
+}

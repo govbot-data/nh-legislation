@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment # 2026-1202h (NT): AA DV 299-49 03/26/2026  HJ 9  P. 36",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1594&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1705"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "==ROOM CHANGE== Hearing: 03/31/2026, Room 100, SH, 01:25 pm;  SC 12",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2308&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1240"
+}

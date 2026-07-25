@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Hearing: 04/07/2026, Room 100, SH, 01:15 pm, on proposed non-germane amendment # 2026-1224s;  SC 13",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2251&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1236"
+}

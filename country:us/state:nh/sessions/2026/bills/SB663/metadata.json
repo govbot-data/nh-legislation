@@ -119,7 +119,7 @@
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1528h: MA VV 05/07/2026  HJ 12",
+      "description": "Ought to Pass with Amendment 2026-1528h: MA VV 05/07/2026  HJ 12  P. 11",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -128,17 +128,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Amendment # 2026-1528h: AA VV 05/07/2026  HJ 12",
+      "description": "Amendment # 2026-1528h: AA VV 05/07/2026  HJ 12  P. 11",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -171,6 +171,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/02/2026; Chapter 276; Effective 07/02/2026",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     }
   ],
@@ -357,6 +369,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34109&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -378,7 +401,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:36Z",
     "text_extraction_latest_update": "2026-07-21T19:23:21.861802Z"
   }
 }

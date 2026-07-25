@@ -186,7 +186,7 @@
       }
     },
     {
-      "description": "Ought to Pass: MA VV 05/07/2026  HJ 12",
+      "description": "Ought to Pass: MA VV 05/07/2026  HJ 12  P. 24",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -195,7 +195,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -228,6 +228,70 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/04/2026  HJ 15",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/04/2026);  SJ 15",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/15/2026; Chapter 337",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "I. Section 5&6 Effective 07/15/2026",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "II. Section 7 Effective 11/01/2026",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "III. Remainder Effective 09/13/2026",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     }
   ],
@@ -350,6 +414,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34184&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -371,7 +446,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:36Z",
     "text_extraction_latest_update": "2026-07-21T19:11:54.539342Z"
   }
 }

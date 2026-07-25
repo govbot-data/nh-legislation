@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "FLAM # 2026-1109h  (Rep. Noble): AA VV 03/11/2026  HJ 7  P. 137",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2220&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1828"
+}

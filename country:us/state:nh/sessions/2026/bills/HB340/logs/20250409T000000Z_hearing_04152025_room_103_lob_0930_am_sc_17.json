@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing: 04/15/2025, Room 103, LOB, 09:30 am;  SC 17",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB340"
+}

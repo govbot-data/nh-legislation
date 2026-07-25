@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Birdsell Moved to suspend all rules necessary to permit the consideration of HB 1091; 2/3 necessary, MA, VV; 06/04/2026;  SJ 14",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1714&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1091"
+}

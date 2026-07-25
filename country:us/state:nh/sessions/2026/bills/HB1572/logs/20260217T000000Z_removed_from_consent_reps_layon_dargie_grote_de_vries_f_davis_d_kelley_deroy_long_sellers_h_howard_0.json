@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Layon, Dargie, Grote, de Vries, F. Davis, D. Kelley, DeRoy, Long, Sellers, H. Howard) 02/16/2026  HJ 5  P. 3",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2068&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1572"
+}

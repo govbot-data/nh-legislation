@@ -139,7 +139,7 @@
       }
     },
     {
-      "description": "Referred to Finance 04/23/2026  HJ 11",
+      "description": "Referred to Finance 04/23/2026  HJ 11  P. 48",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -147,21 +147,21 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Amendment # 2026-1351h: AA VV 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1351h: AA VV 04/23/2026  HJ 11  P. 48",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1351h: MA VV 04/23/2026  HJ 11",
+      "description": "Ought to Pass with Amendment 2026-1351h: MA VV 04/23/2026  HJ 11  P. 48",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -170,17 +170,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Referral Waived by Committee Chair per House Rule 47(f) 04/23/2026  HJ 11",
+      "description": "Referral Waived by Committee Chair per House Rule 47(f) 04/23/2026  HJ 11  P. 72",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -204,23 +204,23 @@
       }
     },
     {
-      "description": "House Accedes to Senate Request for CofC (Rep. Noble): MA VV 05/14/2026  HJ 13",
+      "description": "House Accedes to Senate Request for CofC (Rep. Noble): MA VV 05/14/2026  HJ 13  P. 147",
       "date": "2026-05-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Speaker Appoints: Reps. Noble, Peternel, Erf, Balboni 05/14/2026  HJ 13",
+      "description": "Speaker Appoints: Reps. Noble, Peternel, Erf, Balboni 05/14/2026  HJ 13  P. 147",
       "date": "2026-05-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -283,6 +283,60 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/04/2026  HJ 15",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/04/2026);  SJ 15",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/15/2026; Chapter 336",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "I. Section 1-3 Effective 07/01/2026",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "II. Remainder Effective 07/15/2026",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     }
   ],
@@ -402,6 +456,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34183&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -423,7 +488,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:36Z",
     "text_extraction_latest_update": "2026-07-21T19:01:26.901132Z"
   }
 }

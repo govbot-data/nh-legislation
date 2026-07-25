@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Finance 01/07/2026  HJ 1  P. 114",
+    "occurred_at": "2026-01-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB510"
+}

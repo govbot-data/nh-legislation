@@ -196,17 +196,17 @@
       }
     },
     {
-      "description": "Amendment # 2026-1494h: AA VV 05/07/2026  HJ 12",
+      "description": "Amendment # 2026-1494h: AA VV 05/07/2026  HJ 12  P. 8",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1494h: MA VV 05/07/2026  HJ 12",
+      "description": "Ought to Pass with Amendment 2026-1494h: MA VV 05/07/2026  HJ 12  P. 8",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -215,7 +215,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -248,6 +248,60 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/04/2026  HJ 15",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/04/2026);  SJ 15",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/15/2026; Chapter 335",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "I. Section 24 Effective 07/01/2031",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
+      }
+    },
+    {
+      "description": "II. Remainder Effective 07/01/2026",
+      "date": "2026-07-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     }
   ],
@@ -282,7 +336,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:36Z",
     "text_extraction_latest_update": "2026-07-24T14:03:11.259908Z"
   }
 }

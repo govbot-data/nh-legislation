@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Law Without Signature 07/07/2026; Chapter 279; eff. 9/5/2026",
+    "occurred_at": "2026-07-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2110&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1219"
+}

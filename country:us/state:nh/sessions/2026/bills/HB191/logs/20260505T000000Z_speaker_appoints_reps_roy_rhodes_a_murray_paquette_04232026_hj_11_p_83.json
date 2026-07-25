@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Speaker Appoints: Reps. Roy, Rhodes, A. Murray, Paquette 04/23/2026  HJ 11  P. 83",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB191"
+}

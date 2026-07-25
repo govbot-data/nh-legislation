@@ -119,7 +119,7 @@
       }
     },
     {
-      "description": "Referred to Ways and Means 04/23/2026  HJ 11",
+      "description": "Referred to Ways and Means 04/23/2026  HJ 11  P. 75",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -127,21 +127,21 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Amendment # 2026-1443h: AA VV 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1443h: AA VV 04/23/2026  HJ 11  P. 75",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1443h: MA VV 04/23/2026  HJ 11",
+      "description": "Ought to Pass with Amendment 2026-1443h: MA VV 04/23/2026  HJ 11  P. 75",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -150,7 +150,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -186,7 +186,7 @@
       }
     },
     {
-      "description": "Ought to Pass: MA VV 05/14/2026  HJ 13",
+      "description": "Ought to Pass: MA VV 05/14/2026  HJ 13  P. 26",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -195,7 +195,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -250,6 +250,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:05Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/02/2026; Chapter 257; Effective 08/31/2026",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     }
   ],
@@ -404,6 +416,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34090&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -425,7 +448,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:05Z",
+    "logs_latest_update": "2026-07-25T06:45:36Z",
     "text_extraction_latest_update": "2026-07-21T19:15:51.472024Z"
   }
 }

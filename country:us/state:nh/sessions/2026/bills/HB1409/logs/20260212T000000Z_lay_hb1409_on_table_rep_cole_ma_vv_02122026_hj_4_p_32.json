@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HB1409 on Table (Rep. Cole): MA VV 02/12/2026  HJ 4  P. 32",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2292&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1409"
+}

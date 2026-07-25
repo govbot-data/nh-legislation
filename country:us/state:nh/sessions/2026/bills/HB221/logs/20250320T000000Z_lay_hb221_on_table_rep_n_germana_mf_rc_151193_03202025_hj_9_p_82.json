@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HB221 on Table (Rep. N. Germana): MF RC 151-193 03/20/2025  HJ 9  P. 82",
+    "occurred_at": "2025-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB221"
+}

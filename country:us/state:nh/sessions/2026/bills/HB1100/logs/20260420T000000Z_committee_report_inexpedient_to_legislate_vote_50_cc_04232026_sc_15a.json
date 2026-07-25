@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 04/23/2026;  SC 15A",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1901&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1100"
+}

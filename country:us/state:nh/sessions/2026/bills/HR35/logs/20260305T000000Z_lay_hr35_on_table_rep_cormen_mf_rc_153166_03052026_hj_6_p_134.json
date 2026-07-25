@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HR35 on Table (Rep. Cormen): MF RC 153-166 03/05/2026  HJ 6  P. 134",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2079&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR35"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Governor Ayotte 07/10/2026; Chapter 311; eff. I. Sec 14-19 eff prov sec 21 II. Secs 1-13 eff 9/8/2026 III. Rem eff 7/10/2026",
+    "occurred_at": "2026-07-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2174&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1735"
+}

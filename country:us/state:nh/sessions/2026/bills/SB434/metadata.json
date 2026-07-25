@@ -139,27 +139,27 @@
       }
     },
     {
-      "description": "Amendment # 2026-1815h: AF DV 8-336 05/14/2026  HJ 13",
+      "description": "Amendment # 2026-1815h: AF DV 8-336 05/14/2026  HJ 13  P. 45",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "FLAM # 2026-1937h  (Rep. Noble): AA DV 191-157 05/14/2026  HJ 13",
+      "description": "FLAM # 2026-1937h  (Rep. Noble): AA DV 191-157 05/14/2026  HJ 13  P. 45",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1937h: MA RC 188-161 05/14/2026  HJ 13",
+      "description": "Ought to Pass with Amendment 2026-1937h: MA RC 188-161 05/14/2026  HJ 13  P. 46",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -168,7 +168,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -201,6 +201,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor 07/02/2026",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     }
   ],
@@ -384,7 +396,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:36Z",
     "text_extraction_latest_update": "2026-07-21T19:19:38.656242Z"
   }
 }

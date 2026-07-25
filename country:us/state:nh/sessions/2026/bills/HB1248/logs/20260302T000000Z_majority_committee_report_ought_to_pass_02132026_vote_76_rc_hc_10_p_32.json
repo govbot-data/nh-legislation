@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Ought to Pass  02/13/2026 (Vote 7-6; RC)  HC 10  P. 32",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1959&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1248"
+}

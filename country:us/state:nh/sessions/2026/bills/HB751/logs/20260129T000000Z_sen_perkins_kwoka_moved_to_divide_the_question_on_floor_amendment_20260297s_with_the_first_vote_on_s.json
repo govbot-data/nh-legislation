@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Perkins Kwoka Moved to divide the Question on Floor Amendment #2026-0297s with the first vote on Sections 14; 15; and the effective date and the second vote on the remainder of the amendment; 01/29/2026;  SJ 2",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB751"
+}

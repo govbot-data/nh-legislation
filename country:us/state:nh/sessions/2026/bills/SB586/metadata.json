@@ -154,7 +154,7 @@
       }
     },
     {
-      "description": "Referred to Finance 04/23/2026  HJ 11",
+      "description": "Referred to Finance 04/23/2026  HJ 11  P. 37",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -162,31 +162,31 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Amendment # 2026-1500h (NT): AA VV 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1500h (NT): AA VV 04/23/2026  HJ 11  P. 33",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Amendment # 2026-1625h: AF RC 162-193 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1625h: AF RC 162-193 04/23/2026  HJ 11  P. 34",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1500h: MA DV 195-160 04/23/2026  HJ 11",
+      "description": "Ought to Pass with Amendment 2026-1500h: MA DV 195-160 04/23/2026  HJ 11  P. 37",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -195,17 +195,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Referral Waived by Committee Chair per House Rule 47(f) 04/23/2026  HJ 11",
+      "description": "Referral Waived by Committee Chair per House Rule 47(f) 04/23/2026  HJ 11  P. 72",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
@@ -260,6 +260,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/02/2026; Chapter 272; Effective 07/01/2026",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     }
   ],
@@ -382,6 +394,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34105&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -403,7 +426,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:37Z",
     "text_extraction_latest_update": "2026-07-21T19:23:00.376736Z"
   }
 }

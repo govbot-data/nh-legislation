@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 04/16/2026;  SC 14",
+    "occurred_at": "2026-04-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2096&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1833"
+}

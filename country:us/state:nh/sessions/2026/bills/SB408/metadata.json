@@ -164,7 +164,7 @@
       }
     },
     {
-      "description": "Referred to Finance 04/23/2026  HJ 11",
+      "description": "Referred to Finance 04/23/2026  HJ 11  P. 15",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -172,21 +172,21 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Amendment # 2026-1505h: AA VV 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1505h: AA VV 04/23/2026  HJ 11  P. 3",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1505h: MA VV 04/23/2026  HJ 11",
+      "description": "Ought to Pass with Amendment 2026-1505h: MA VV 04/23/2026  HJ 11  P. 3",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -195,7 +195,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -241,17 +241,17 @@
       }
     },
     {
-      "description": "FLAM # 2026-1929h(NT) (Rep. Farrington): AF RC 159-177 05/14/2026",
+      "description": "FLAM # 2026-1929h(NT) (Rep. Farrington): AF RC 159-177 05/14/2026  HJ 13  P. 91",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Lay SB408 on Table (Rep. Sweeney): MF DV 148-189 05/14/2026  HJ 13",
+      "description": "Lay SB408 on Table (Rep. Sweeney): MF DV 148-189 05/14/2026  HJ 13  P. 94",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -259,11 +259,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
-      "description": "Ought to Pass: MA VV 05/14/2026  HJ 13",
+      "description": "Ought to Pass: MA VV 05/14/2026  HJ 13  P. 94",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -272,7 +272,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     },
     {
@@ -305,6 +305,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/02/2026; Chapter 244; Effective 01/01/2028",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:36Z"
       }
     }
   ],
@@ -531,6 +543,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34077&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -552,7 +575,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-07-25T06:45:36Z",
     "text_extraction_latest_update": "2026-07-21T19:06:16.294731Z"
   }
 }

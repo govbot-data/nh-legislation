@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HB652 on Table (Rep. DeSimone): MA DV 268-66 02/19/2026  HJ 5  P. 113",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB652"
+}

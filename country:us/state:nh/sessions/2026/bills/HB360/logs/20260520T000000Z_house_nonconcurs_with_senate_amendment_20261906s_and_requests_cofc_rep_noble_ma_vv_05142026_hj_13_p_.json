@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Non-Concurs with Senate Amendment 2026-1906s and Requests CofC (Rep. Noble): MA VV 05/14/2026  HJ 13  P. 151",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB360"
+}

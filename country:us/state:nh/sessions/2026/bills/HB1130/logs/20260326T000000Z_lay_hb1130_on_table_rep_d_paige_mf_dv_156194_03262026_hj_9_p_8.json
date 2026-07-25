@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HB1130 on Table (Rep. D. Paige): MF DV 156-194 03/26/2026  HJ 9  P. 8",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1480&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1130"
+}

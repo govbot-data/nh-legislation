@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report: Recommended But To Be Laid Upon The Table Because Of Funding 03/17/2026 (Vote 25-0; CC)",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2341&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1720"
+}

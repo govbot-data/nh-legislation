@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay HB1402 on Table (Rep. Noble): MA DV 184-150 03/05/2026  HJ 6  P. 84",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2457&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1402"
+}

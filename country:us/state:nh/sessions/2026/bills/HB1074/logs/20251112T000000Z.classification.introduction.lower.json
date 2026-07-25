@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 01/07/2026 and referred to Fish and Game and Marine Resources  HJ 1  P. 5",
+    "occurred_at": "2025-11-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1614&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1074"
+}

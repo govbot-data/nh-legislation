@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 01/07/2026 and referred to Resources, Recreation and Development  HJ 1  P. 40",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2459&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR44"
+}

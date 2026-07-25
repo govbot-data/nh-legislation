@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Concurs with Senate Amendment 2026-3113s (Rep. Noble): MA VV 04/09/2026  HJ 10  P. 8",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB222"
+}

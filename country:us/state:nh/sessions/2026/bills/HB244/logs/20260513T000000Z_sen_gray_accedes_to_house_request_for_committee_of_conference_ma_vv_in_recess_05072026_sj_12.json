@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Gray Accedes to House Request for Committee of Conference, MA, VV; (In recess 05/07/2026);  SJ 12",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB244"
+}

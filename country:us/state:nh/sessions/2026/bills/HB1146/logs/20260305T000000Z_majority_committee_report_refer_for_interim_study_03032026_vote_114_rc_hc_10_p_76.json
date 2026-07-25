@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Refer for Interim Study  03/03/2026 (Vote 11-4; RC)  HC 10  P. 76",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1659&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1146"
+}

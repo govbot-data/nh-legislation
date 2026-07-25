@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced (in recess of) 01/07/2026 and referred to State-Federal Relations and Veterans Affairs  HJ 1  P. 39",
+    "occurred_at": "2025-11-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1559&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR20"
+}

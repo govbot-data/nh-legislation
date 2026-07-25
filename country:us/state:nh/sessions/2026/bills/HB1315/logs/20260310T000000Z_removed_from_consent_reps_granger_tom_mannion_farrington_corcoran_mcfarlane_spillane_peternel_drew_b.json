@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Granger, Tom Mannion, Farrington, Corcoran, McFarlane, Spillane, Peternel, Drew, Belcher, Sabourin dit Choiniere) 03/10/2026  HJ 7  P. 1",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2169&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1315"
+}

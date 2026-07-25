@@ -141,17 +141,17 @@
       }
     },
     {
-      "description": "Amendment # 2026-1503h: AA DV 186-158 05/07/2026  HJ 12",
+      "description": "Amendment # 2026-1503h: AA DV 186-158 05/07/2026  HJ 12  P. 22",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1503h: MA RC 186-157 05/07/2026  HJ 12",
+      "description": "Ought to Pass with Amendment 2026-1503h: MA RC 186-157 05/07/2026  HJ 12  P. 22",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -160,7 +160,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
@@ -184,23 +184,23 @@
       }
     },
     {
-      "description": "House Accedes to Senate Request for CofC (Rep. Weyler): MA VV 05/14/2026  HJ 13",
+      "description": "House Accedes to Senate Request for CofC (Rep. Weyler): MA VV 05/14/2026  HJ 13  P. 147",
       "date": "2026-05-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
-      "description": "Speaker Appoints: Reps. Mooney, D. McGuire, Leishman, Packard 05/14/2026  HJ 13",
+      "description": "Speaker Appoints: Reps. Mooney, D. McGuire, Leishman, Packard 05/14/2026  HJ 13  P. 147",
       "date": "2026-05-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     },
     {
@@ -283,6 +283,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:55:05Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/04/2026",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:37Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor 07/10/2026",
+      "date": "2026-07-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T06:45:37Z"
       }
     }
   ],
@@ -418,7 +440,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:05Z",
+    "logs_latest_update": "2026-07-25T06:45:37Z",
     "text_extraction_latest_update": "2026-07-21T19:20:05.573468Z"
   }
 }

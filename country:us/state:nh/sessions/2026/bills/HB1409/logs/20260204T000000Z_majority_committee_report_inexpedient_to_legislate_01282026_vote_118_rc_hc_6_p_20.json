@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Inexpedient to Legislate  01/28/2026 (Vote 11-8; RC)  HC 6  P. 20",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2292&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1409"
+}

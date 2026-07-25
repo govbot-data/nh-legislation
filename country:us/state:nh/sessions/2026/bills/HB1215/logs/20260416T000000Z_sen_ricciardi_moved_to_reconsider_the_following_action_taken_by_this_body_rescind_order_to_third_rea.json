@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sen. Ricciardi Moved to Reconsider the following action taken by this Body: Rescind Order to Third Reading, Reconsider the Vote on Ought to Pass with Amendment and Reconsider the vote on Floor Amendment #2026-1446s, MA VV; 04/16/2026;  SJ 9",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2102&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1215"
+}

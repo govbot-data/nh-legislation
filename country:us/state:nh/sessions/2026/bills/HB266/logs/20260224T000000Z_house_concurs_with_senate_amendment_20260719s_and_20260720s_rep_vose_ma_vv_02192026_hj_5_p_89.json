@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Concurs with Senate Amendment 2026-0719s and 2026-0720s (Rep. Vose): MA VV 02/19/2026  HJ 5  P. 89",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB266"
+}

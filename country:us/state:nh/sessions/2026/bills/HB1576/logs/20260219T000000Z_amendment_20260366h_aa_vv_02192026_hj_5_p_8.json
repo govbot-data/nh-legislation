@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment # 2026-0366h: AA VV 02/19/2026  HJ 5  P. 8",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2099&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1576"
+}

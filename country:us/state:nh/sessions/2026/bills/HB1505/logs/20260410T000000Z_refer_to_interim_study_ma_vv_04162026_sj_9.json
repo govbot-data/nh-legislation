@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Refer to Interim Study, MA, VV; 04/16/2026;  SJ 9",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1706&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1505"
+}

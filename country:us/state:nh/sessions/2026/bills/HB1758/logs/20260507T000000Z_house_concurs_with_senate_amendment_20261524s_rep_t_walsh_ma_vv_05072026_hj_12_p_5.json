@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Concurs with Senate Amendment 2026-1524s (Rep. T. Walsh): MA VV 05/07/2026  HJ 12  P. 5",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1847&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1758"
+}

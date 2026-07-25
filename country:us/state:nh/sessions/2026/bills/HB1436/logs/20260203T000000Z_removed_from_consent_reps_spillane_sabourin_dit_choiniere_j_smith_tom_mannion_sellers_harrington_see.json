@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Spillane, Sabourin dit Choiniere, J. Smith, Tom Mannion, Sellers, Harrington, See, D. McGuire, Love, Polozov) 02/03/2026  HJ 3  P. 6",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1667&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1436"
+}

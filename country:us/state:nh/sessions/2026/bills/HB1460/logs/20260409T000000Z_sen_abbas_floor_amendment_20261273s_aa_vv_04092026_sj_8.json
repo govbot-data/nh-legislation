@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Abbas Floor Amendment # 2026-1273s, AA, VV; 04/09/2026;  SJ 8",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2443&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1460"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "I. Sections 3 and 7 of this act shall take effect as provided in Section 8",
+    "occurred_at": "2026-07-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1418&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB624"
+}

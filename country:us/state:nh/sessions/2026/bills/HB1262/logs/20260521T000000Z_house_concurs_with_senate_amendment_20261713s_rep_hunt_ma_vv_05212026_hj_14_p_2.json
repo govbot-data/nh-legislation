@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Concurs with Senate Amendment 2026-1713s (Rep. Hunt): MA VV 05/21/2026  HJ 14  P. 2",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1636&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1262"
+}

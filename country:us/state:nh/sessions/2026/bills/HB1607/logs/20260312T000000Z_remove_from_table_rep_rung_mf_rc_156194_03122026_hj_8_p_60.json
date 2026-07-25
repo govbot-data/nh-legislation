@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Remove from Table (Rep. Rung): MF RC 156-194 03/12/2026  HJ 8  P. 60",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1609&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1607"
+}

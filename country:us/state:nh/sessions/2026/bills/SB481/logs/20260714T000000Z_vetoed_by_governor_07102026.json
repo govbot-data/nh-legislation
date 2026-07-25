@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vetoed by Governor 07/10/2026",
+    "occurred_at": "2026-07-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1231&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB481"
+}

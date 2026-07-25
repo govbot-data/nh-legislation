@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Executive Session: 01/14/2026 01:45 pm GP 228",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1882&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1440"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Farrington, McFarlane, Tom Mannion, D. Kelley, Popovici-Muller, Mehegan, C. McGuire, Drew, Read, Corcoran) 03/10/2026  HJ 7  P. 1",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2289&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1408"
+}
