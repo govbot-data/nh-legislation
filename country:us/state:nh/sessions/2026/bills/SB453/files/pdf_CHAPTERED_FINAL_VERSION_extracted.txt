@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER253
+SB453-FINALVERSION
+06/04/2026 2019EBA
+2026SESSION
+26-2006
+09/05
+453
+SENATEBILL
+ANACT authorizing advanced practice registered nurses and physician associates to make
+certaincertifications.
+SPONSORS: Sen. Prentiss, Dist 5; Sen. Rosenwald, Dist 13; Sen. Watters, Dist 4; Sen. Birdsell,
+Dist 19; Sen. Avard, Dist 12; Sen. Perkins Kwoka, Dist 21; Sen. Lang, Dist 2; Sen.
+Gannon, Dist 23; Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Sullivan, Dist 18; Sen.
+McGough, Dist 11; Sen. Murphy, Dist 16; Sen. Innis, Dist 7; Sen. Rochefort, Dist 1;
+Sen.Fenton,Dist10
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds advanced practice registered nurses and physician associates as medical professionals
+whocan:
+I. Document a lasting medical necessity, which allows for a vehicle equipment waiver for persons
+withdisabilitiestobegrantedfor4yearsinsteadof2years;and
+II. Exempt a child from certain required immunizations if they find that the immunization may be
+detrimentaltothechild'shealth.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER253
+SB453-FINALVERSION
+06/04/2026 2019EBA 26-2006
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing advanced practice registered nurses and physician associates to make
+certaincertifications.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 253:1 EquipmentWaiverforDisabled. AmendRSA266:61-a,VIItoreadasfollows:
+2 VII. Thewaivergrantedbythecommissionerorhisdesigneeshallbeforaperiodnottoexceed2
+3 years;exceptinanycasewherealicensedphysician,advancedpracticeregisterednurselicensedunder
+4 RSA326-B,orphysicianassociatelicensedunderRSA328-D
+5 documents a lasting medical necessity, in which case the waiver shall be for a period not to exceed 4
+6 years. Theapplicantmayreapplyforthewaiverbeforesuchperiodexpires.
+7 253:2 Communicable Disease; Immunization Exemption. Amend RSA 141-C:20-c, I to read as
+8 follows:
+9 I. AphysicianlicensedunderRSA329,oraphysicianexemptedunderRSA329:21,III,an
+10 advancedpracticeregisterednurselicensedunderRSA326-B,oraphysicianassociatelicensedunder
+11 RSA328-Dcertifiesthatimmunizationagainstaparticulardiseasemaybe
+12 detrimentaltothechild'shealth. Theexemptionshallexistonlyforthelengthoftime,intheopinionofthe
+13 physician, advancedpracticeregisterednurse,orphysicianassociate,such immunization would be
+14 detrimental to the child. An exemption from immunization for one disease shall not affect other required
+15 immunizations.
+253:3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July02,2026
+EffectiveDate:August31,2026

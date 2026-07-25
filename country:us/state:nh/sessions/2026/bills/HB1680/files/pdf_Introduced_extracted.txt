@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1680-FN-ASINTRODUCED
+2026SESSION
+26-3093
+07/09
+1680-FN
+HOUSEBILL
+ANACT relativetointercitybusserviceandpublictransportationfunding.
+SPONSORS: Rep. Salvi, Hills. 9; Rep. Gregg, Hills. 7; Rep. Spier, Hills. 6; Rep. Kluger, Hills. 6;
+Rep. Juris, Hills. 7; Rep. Chourasia, Hills. 11; Rep. R. Newman, Hills. 4; Rep. S.
+Newman, Hills. 4; Rep. Darby, Hills. 11; Sen. Rosenwald, Dist 13; Sen. Watters,
+Dist4;Sen.Fenton,Dist10
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of transportation to take steps to improve Boston express bus
+serviceandtoprepareareportregardingsuchservice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1680-FN-ASINTRODUCED
+26-3093
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetointercitybusserviceandpublictransportationfunding.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Transportation; Boston Express Service Directive. The department of
+2 transportationshall:
+3 I. Take steps to increase the frequency of Boston express bus service from Nashua,
+4 Manchester, and Londonderry, to Boston, Massachusetts, with a particular focus on expanding
+5 optionsduringpeakcommutinghoursandlate-nightperiodsonFridaysandSaturdays.
+6 II. Advocate for increased and consistent funding allocations within existing federal and
+7 statepublictransportationprogramsforBostonexpressbusservice.
+8 III. Takestepstosupporteconomicdevelopment,environmentalsustainability,andregional
+9 connectivity between southern New Hampshire and Boston, Massachusetts by strengthening
+10 affordable,reliable,andefficientpublictransportationoptions.
+11 IV. Allocate a portion of its federal intercity bus program funding to expand Boston express
+12 busserviceinaccordancewithparagraphI.
+13 V. The department of transportation shall prepare a report regarding Boston express bus
+14 service frequency, ridership data, and the impacts on workforce mobility and regional economic
+15 development of the Boston express bus service, and report its findings and any recommendations for
+16 proposed legislation to the speaker of the house of representatives, the president of the senate, the
+17 houseclerk,thesenateclerk,thegovernor,andthestatelibraryonorbeforeNovember1.
+18 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3093
+12/3/25
+HB1680-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetointercitybusserviceandpublictransportationfunding.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) FederalandStateFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Transportation to take steps to increase the frequency of
+Boston Express bus service from Nashua, Manchester, and Londonderry to Boston. No specific
+increasedfrequencyornumber oftrips isidentified, butemphasis onpeak commutinghours and
+late nights on Friday and Saturday. The bill also requires the Department to prepare a report
+regardingsuchservice.
+The Department states the fiscal impact of this bill is indeterminable given the lack of
+specificity, as it requires only that the Department “take steps” to increase bus service.
+However, the table below shows estimated costs based on the assumptions of $6.25 per mile
+(includingvehicledepreciation;doesnotincludefacilityoperatingcostsand365daysofservice:
+RoundTrip EstimatedTotal Estimated
+Miles EstimatedTotal CostPerYearfor YearlyTotalof
+CostPerYearfor EachAdditional OneDaily
+Location (to/from
+EachAdditional Late-NightTrip Commuter
+Boston’s
+DailyRoundTrip Roundtrip+One
+South (thisincludes
+AdditionalFri-
+Station) Friday&Saturday)
+SatLateNight
+
+Trip
+Londonderry 90 $205,000 $58,000 $263,000
+Manchester 110 $250,000 $71,000 $321,000
+Nashua 94 $215,000 $60,500 $275,500
+Salem 68 $155,000 $44,000 $199,000
+Total $825,000 $233,500 $1,058,500
+TheDepartmenthasprovidedthefollowingnotesrelativetothetableabove:
+ Costs shown represent gross operating costs for the bus services only. There would be
+tangential costs associated with facility management/operations at each of the state-
+ownedterminalscommensuratewiththelevelofadditionalservice.
+ The Department has no State funding for its commuter bus services. All funding is
+assumed to be Federal Transit Administration (FTA) Section 5307 funding, which is
+annually apportioned to the Department. All FTA 5307 funding is programmed in the
+NH Statewide Transportation Improvement Program (STIP) and Ten Year
+TransportationImprovementPlan(TYP),withallfundscurrentlyallocatedtotheBoston
+Expressserviceandassociatedcapitalimprovementsatthestate-ownedbusterminals.
+ FTA 5307 funding is generally 80% federal participation, meaning the Department must
+provide 20% non-federal match funding. No State funds are appropriated for Boston
+Express Bus and currently matching funds are achieved via toll credits, which require
+approval of the Capital Project Oversight Committee (CPOC), and which make the
+projecteffectively100%federallyfunded. Tollcreditsareassumedforplanningpurposes
+butarenotguaranteed.
+AGENCIESCONTACTED:
+DepartmentofTransportation

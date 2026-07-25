@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1364-FN-ASINTRODUCED
+2026SESSION
+26-3099
+09/06
+1364-FN
+HOUSEBILL
+ANACT requiring quarterly reports from counties, municipalities, or any other political
+subdivisions of the state that enter into certain agreements with the federal
+governmentconcerningassistancewithfederalimmigrationenforcement.
+SPONSORS: Rep. A. Murray, Hills. 20; Rep. M. Murray, Hills. 37; Rep. Meuse, Rock. 37; Rep.
+TomMannion, Hills. 1; Rep. Tellez, Hills.40; Rep. Manos, Rock. 12; Sen. Watters,
+Dist4
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires any county, municipality, or other political subdivision of this state that has
+entered into an agreement with the United States Immigration and Customs Enforcement through
+the federal 287(g) program to submit a quarterly report to the attorney general. The attorney
+generalisrequiredtosubmitaquarterlyconsolidatedreportbasedontheinformationreceived.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1364-FN-ASINTRODUCED
+26-3099
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring quarterly reports from counties, municipalities, or any other political
+subdivisions of the state that enter into certain agreements with the federal
+governmentconcerningassistancewithfederalimmigrationenforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Participation in Federal Immigration Programs; Report Required. Amend RSA
+2 106-Pbyinsertingaftersection1thefollowingnewsection:
+3 106-P:2 ReportRequired.
+4 I. Any county, municipality, or other political subdivision of this state that has entered into
+5 an agreement with the United States Immigration and Customs Enforcement through the federal
+6 287(g)programpursuantto8U.S.C.section1357(g)shallberequiredtosubmitaquarterlyreportto
+7 the attorney general, which includes measurable program results and a detailed accounting of
+8 program funding and uses. The first report shall besubmitted onor beforeDecember 31, 2026. The
+9 report shall include the following categories: persons detained for any civil immigration violation,
+10 persons cited for any state offense if any, persons subjected to a field stop or warning for any state
+11 offense, and the length of any detention for any civil immigration violation. For persons in each of
+12 the categories, the aggregate data shall also include the municipality and country where each such
+13 person resides. For persons who are detained, the report shall also include the race of such persons
+14 totheextentsuchinformationisindicatedonthecomplaint,summons,orcitation.
+15 II. The attorney general or their designee shall submit a quarterly report to the governor,
+16 senate president, speaker of the house of representatives, county commissioners, and executive
+17 committees of each county summarizing the information received under this section from any
+18 county, municipality, or other political subdivision. The first report from the attorney general shall
+19 besubmittedonorbeforeFebruary1,2027.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3099
+11/5/25
+HB1364-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring quarterly reports from counties, municipalities, or any other political
+subdivisions of the state that enter into certain agreements with the federal
+governmentconcerningassistancewithfederalimmigrationenforcement.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $63,000 $62,000 $64,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 DeMinimusIncrease
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Lessthan$10,000perpoliticalsubdivision
+METHODOLOGY:
+Thisbill requires municipalities, counties, and anyother political subdivisionthat enters intoan
+agreement with United States Immigration and Customs Enforcement (ICE) under the 287 (g)
+program to submit quarterly reports to the Attorney General starting on December 31, 2026.
+Additionally, the Attorney General is required to submit a quarterly consolidated report
+summarizing information received from municipalities, counties, and any other political
+subdivisionstartingonFebruary1,2027.
+The New Hampshire Department of Justice indicates that one additional part-time investigative
+paralegalwouldberequiredtomeetthebill’sreportingobligations. Theestimatedtotalcostsfor
+this position are: FY 2027 $63,000, FY 2028 $62,000, and FY 2029 $64,000. This bill does not
+providefunding,nordoesitauthorizenewpositions.
+
+The New Hampshire Municipal Association (NHMA) notes that if municipalities are required to
+report new data not currently collected, the cost to compile such information would be less than
+$10,000perpoliticalsubdivision.
+The New Hampshire Association of Counties (NHAC) anticipates minimal costs to comply with
+the bill. Some counties may already be able to generate the required reports using existing
+software,whileothersmayincuronlyminorexpensestocompilethenecessarydata.
+AGENCIESCONTACTED:
+Department of Justice, New Hampshire Municipal Association, and New Hampshire Association
+ofCounties

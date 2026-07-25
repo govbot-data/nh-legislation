@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1603-FN-ASINTRODUCED
+2026SESSION
+26-3192
+08/06
+1603-FN
+HOUSEBILL
+ANACT requiring state agencies to provide current and verifiable evidence of a species
+presencebeforeimposinganylanduserestrictionrelatedtothatspecies'habitat.
+SPONSORS: Rep. DeVito, Rock. 8; Rep. Beaulier, Graf. 1; Rep. Litchfield, Rock. 32; Rep. Tom
+Mannion, Hills. 1; Rep. Mazur, Hills. 44; Rep. McGrath, Rock. 40; Rep. Sabourin
+dit Choiniere, Rock. 30; Rep. Harvey-Bolia, Belk. 3; Rep. DeRoy, Straf. 3; Rep.
+MaryMurphy,Hills.27;Sen.Murphy,Dist16
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires state agencies to provide current and verifiable evidence of an endangered or
+threatenedspeciespresencebeforeimposinganylanduserestrictionrelatedtothatspecies'habitat.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1603-FN-ASINTRODUCED
+26-3192
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring state agencies to provide current and verifiable evidence of a species
+presencebeforeimposinganylanduserestrictionrelatedtothatspecies'habitat.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Evidence of Endangered or Threatened Species. Amend RSA 212-A by inserting
+2 aftersection14thefollowingnewsection:
+3 212-A:14-a EvidenceofEndangeredorThreatenedSpecies.
+4 I. Any agency or municipal official evaluating the current presence of endangered or
+5 threatened species or habitat associated with that species, which may result in the restriction of the
+6 use of the land shall provide verifiable evidence of the presence of specific species or habitat before
+7 proposing or requiring restrictions on such land. Data gathered by the agency or municipality prior
+8 totheproposedrestrictionshallonlybevalidforconsiderationifthepropertyownergavepermission
+9 to collect the data or if an administrative search warrant was issued to search the property for such
+10 evidence. Current requests to gather data shall require either written landowner permission or an
+11 administrativesearchwarrantasdescribedinparagraphII.
+12 II. Currentevidenceofthreatenedorendangeredspeciesshallincludethefollowing:
+13 (a) Written landowner permission to search for specific data or an administrative
+14 warrantdetailingthecriticalnecessityofdatacollection.
+15 (b) Thenameandcredentialsoftheobservingofficialorbiologist.
+16 (c) TheGPScoordinatesofthesighting.
+17 (d) Dateandtime-stampedphotographsofthespeciesontheproperty.
+18 III. Land use applications shall not require new biodiversity searches as a precondition of
+19 applicationorasaconditionofsubsequentapproval.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3192
+12/5/25
+HB1603-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring state agencies to provide current and verifiable evidence of a species
+presencebeforeimposinganylanduserestrictionrelatedtothatspecies'habitat.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable-$1,000,000+PerYear
+FundingSource(s) FishandGameFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill requires any agency or municipal official that is considering a restriction on the use of
+land because of the presence of an endangered or threatened species to provide current,
+verifiable evidence of the species’ presence to the landowner before proposing or requiring any
+land use restrictions. The proposed evidence includes four requirements: (a) Written landowner
+permission to search for specific data or an administrative warrant detailing the critical
+necessity of data collection, (b) name and credentials of the observing official or biologist, (c),
+GPS coordinates of the sighting, (d) Date-and time-stamped photographs of the species on the
+property. Section III would prohibit agencies from requiring new biodiversity searches as a
+preconditionofapplicationorasaconditionofsubsequentapproval.
+StateImpact
+
+The Fish and Game Department states there is an existing process to document the presence of
+threatened or endangered species, with information available through the Department of
+Natural and Cultural Resources’ (DNCR) Natural Heritage Bureau. However, this process does
+not specifically require documentation of written landowner permission, photographs or the
+observer to be a Department official/biologist, therefore it would not meet the criteria listed in
+the new section. The Department assumes its staff would need to review wildlife records
+currently in the state database to determine whether they meet criteria a-d. The Department
+states there are thousands of records currently in the database and it anticipates that most
+records would not meet all four proposed criteria. To meet the intent of RSA 212:A (Endangered
+Species Conservation Act) to ensure avoidance, minimization, and mitigation of harm to
+threatened or endangered wildlife, much of the state would need to be resurveyed for threatened
+and endangered species to create records that meet all criteria. Although staff currently survey
+populations, the work is done over a longer time-period and on a broader spatial scale, as staff
+and resources do not allow regular surveying of all species across the state on an individual
+landowner scale. Photographs and other associated information for sightings of threatened and
+endangered wildlife received from the public are currently reviewed and verified by qualified
+wildlife biologists. However, the photographs are not stored in the state database used for
+project screening. From its initial assessment, the Department states that the state database
+currentlyusedtostoreverifiedlocationsofthreatenedandendangeredwildlifedoesnothavethe
+ability to store photographs and does not include documentation of written landowner
+permission. As such, the Department would likely need to create a new database to store this
+informationsothatitcouldbeefficientlyutilizedandavailable.
+The Department states it isn’t clear whether the ‘observing official/biologist’ listed under criteria
+(b) would need to visually observe the actual animal or whether verifying photographic evidence
+provided by others would be acceptable. Many wildlife species are highly cryptic or mobile, and
+it would be extremely difficult to confirm a species record with a biologist follow-up survey given
+wildlife are mobile in nature. The Department states it would require extensive additional staff
+andresourcesandwouldstillnotguaranteebeingabletoobservetheanimal.
+Finally, although it is impossible to estimate the direct fiscal impact, the Department states the
+restrictions imposed through this bill would significantly impair the state’s ability to recover
+threatened or endangered wildlife, which will substantially increase the costs to recover such
+species and likely result in more species being listed over time. Ultimately, this could increase
+the likelihood of additional species becoming federally listed under the Endangered Species Act,
+resultinginadditionalfederalrestrictions.
+
+The Department states additional staff would be required to manage and create a new database,
+review existing records, and survey wildlife populations statewide continuously to ensure
+compliance with the proposed criteria. Additional contracts for specialized surveys would also
+likely be required. The Department has not provided any specific personnel needs or cost
+details, however, believes the impact on state expenditures could be more than $1,000,000 per
+year.
+MunicipalImpact
+The New Hampshire Municipal Associations states RSA 212-A, as it currently exists, does not
+assign any responsibilities to municipalities and vests enforcement of the statute with the New
+Hampshire Fish and Game Department and the New Hampshire Department of Environmental
+Services. The Associationis not aware of anymunicipalities conductingthefunctions referenced
+in RSA 212-A, however, if any municipalities conduct such activities, this bill could create new
+financialobligations:
+ The Association states if there is a concern that a land use restriction is necessary to
+protect an endangered species the municipality only has two options: get landowner
+approval to examine the habitat or seek an administrative warrant. However, since the
+town can't make owner cooperation a necessary condition for new projects, towns are
+goingtobereliantonlandownerswillinglycooperatingwiththem,whencooperationmay
+lead to the person not being able to accomplish their project. Consequently, most cases
+will require an administrative warrant, requiring attorney fees, filing costs, and judicial
+intervention.
+ The Association states a new cost the bill imposes is the requirement of producing
+verifiable evidence of an endangered species. The statute specifically mentions a
+biologist or “observing official.” Since most municipalities are unlikely to have wildlife
+expertsonstaff,theywillneedtocontractouttoabiologisttoprovidethisservice.
+AGENCIESCONTACTED:
+FishandGameDepartmentandNewHampshireMunicipalAssociation

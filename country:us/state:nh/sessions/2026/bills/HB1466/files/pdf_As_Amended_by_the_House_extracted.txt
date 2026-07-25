@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1466-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0382h
+2026SESSION
+26-3073
+06/07
+1466-FN
+HOUSEBILL
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+SPONSORS: Rep. T. Walsh, Merr. 10; Rep. Hill, Merr. 2; Rep. Veilleux, Hills. 34; Rep. Coker,
+Belk.2
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Adds an exemption from certificate of title requirements for boat trailers over 3,001 pounds if
+theirmanufacturer’smodelyearismorethan10yearsold
+.
+II. Allowsapersonwhoownsatitle-exemptvehicletheabilitytovoluntarilyrequestatitle.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1466-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0382h 26-3073
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ExemptedVehicles. AmendRSA261:3,I(j)toreadasfollows:
+2 (j) Trailers with gross weight of less than 3,001 pounds, and any boat trailer over
+3 3,001poundswhosemanufacturer’smodelyearisover10yearsold;
+4 2 New Paragraph; Certificate of Title; Exempted Vehicle; Voluntary Certificate of Title. Amend
+5 RSA261:3byinsertingafterparagraphIIthefollowingnewparagraph:
+6 III. For any vehicle where a certificate of title need not be obtained pursuant to this section,
+7 a person may obtain a voluntary title for such vehicle by submitting to the department a previously
+8 issued, current or expired New Hampshire certificate of registration, a valid out-of-state certificate
+9 of title, an application for a certificate of title, or a current New Hampshire vehicle identification
+10 numberverificationformasprescribedbythedirector. Forthepurposesofthissection,atemporary
+11 registration issued pursuant to RSA 261:57 shall not meet the requirement of a previously issued
+12 NewHampshirecertificateofregistration.
+13 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3073
+02/26/2026
+HB1466-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0382h)
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $190,000DecreasePerYear
+RevenueFund(s) HighwayFund
+Expenditures* $0 $4,000Decrease $26,800DecreasePerYear
+HighwayFundandRestricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource(s)
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriorto
+fundsbeingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $22,800DecreasePerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill would exempt the title requirement of boat trailers that are over 10 years of age per
+manufacturer’s model year and with a gross weight of 3,001 pounds or higher. The Department
+ofSafetystatesthere were5,398original titles issuedin2024forboat trailers withamodel year
+of 2000 to 2013. Therefore, based on the application fee of $35, this bill would result a loss of
+revenue of $188,930, or approximately $190,000, per year. Also, pursuant to RSA 235:23
+(“Apportionment A”), 12 percent of highway fund road toll and motor vehicle fee revenue
+collected is distributed to municipalities in the year following collection. Therefore, this bill
+would also reduce state expenditures and local revenue by approximately $22,800 in FY 2028
+and beyond. Lastly, the Department states that any other potential decrease to state
+expenditures attributable to this bill (i.e., the cost for direct mailing of titles) would be
+immaterial(approximately$4,000peryear).
+
+AGENCIESCONTACTED:
+DepartmentofSafety

@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1041-ASINTRODUCED
+2026SESSION
+26-3145
+06/05
+1041
+HOUSEBILL
+ANACT relative to permitting motor vehicle manufacturers to operate dealerships in
+marketareasalsoservedbyfranchisedealers.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Drew, Hills. 19; Rep. Giasson, Hills. 29; Rep.
+Granger, Straf. 2; Rep. McFarlane, Graf. 18; Rep. Polozov, Merr. 10; Rep. Soti,
+Rock.35
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the prohibition on motor vehicle manufacturers and distributors from directly
+competingwiththeirownfranchisedmotorvehicledealers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1041-ASINTRODUCED
+26-3145
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to permitting motor vehicle manufacturers to operate dealerships in
+marketareasalsoservedbyfranchisedealers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA 357-C:3, III(k), relative to prohibiting motor vehicle manufacturers and
+2 distributorsfromdirectlycompetingwiththeirownfranchisedmotorvehicledealers,isrepealed.
+3 2 EffectiveDate. ThisactshalltakeeffectJune30,2026.

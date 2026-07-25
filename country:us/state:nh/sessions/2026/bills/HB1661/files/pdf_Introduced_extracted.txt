@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1661-FN-ASINTRODUCED
+2026SESSION
+26-2876
+07/06
+1661-FN
+HOUSEBILL
+ANACT relative to expanding the housing finance authority's community heroes program
+andmakesanappropriationtherefor.
+SPONSORS: Rep. Muns, Rock. 29; Rep. Booras, Hills. 8; Rep. de Vries, Rock. 29; Rep. Hegner,
+Hills. 41; Rep. Howland, Straf. 20; Rep. Lane, Merr. 16; Rep. Maggiore, Rock. 23;
+Rep.D.Paige,Carr.1;Rep.Read,Rock.10;Rep.Stavis,Graf.13;Sen.Altschiller,
+Dist24;Sen.PerkinsKwoka,Dist21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilldirectsthehousingfinanceauthoritytoestablishacommunityheroesprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1661-FN-ASINTRODUCED
+26-2876
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to expanding the housing finance authority's community heroes program
+andmakesanappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Housing Finance Authority; Affordable Housing Fund; Annual Appropriation.
+2 AmendRSA204-Cbyinsertingaftersection57-athefollowingnewsection:
+3 204-C:57-b AnnualAppropriation. Thereisherebyappropriatedannuallythesumof$1,500,000
+4 tothehousingfinanceauthorityestablishedinRSA204-C,fordepositintheaffordablehousingfund
+5 established in RSA 204-C:57, for the purpose of establishing the housing finance authority's
+6 community heroes program. The housing finance authority shall not retain more than 10 percent of
+7 such appropriation for the purpose of offsetting administrative expenses of the community heroes
+8 program. The governor is authorized to draw a warrant for said sum out of any money in the
+9 treasurynototherwiseappropriated.
+10 2 Housing Fiance Authority; Community Heroes Directive. The housing finance authority shall
+11 establish a community heroes program to provide financial assistance to support homeownership for
+12 certain essential workers. Eligible borrowers shall be defined through housing finance authority
+13 rulemaking to include health care, daycare, and elder care workers, law enforcement officers,
+14 firefightersandfirstresponders,educators,andactivemembersofthearmedservices.
+15 3 Housing Finance Authority; Appropriation. There is hereby appropriated to the housing
+16 finance authority the sum of $750,000 for the fiscal year ending June 30, 2027 for the purpose of
+17 expanding its community heroes initiative. The housing finance authority shall not retain more
+18 than 10 percent of such appropriation for the purpose of offsetting administrative expenses of the
+19 community heroes program. The governor is authorized to draw a warrant for said sums out of any
+20 moneyinthetreasurynototherwiseappropriated.
+21 4 EffectiveDate.
+22 I. Section1ofthisactshalltakeeffectJuly1,2028.
+23 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2876
+12/1/25
+HB1661-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to expanding the housing finance authority's community heroes program
+andmakesanappropriationtherefor.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $750,000 $1,500,000 $1,500,000
+FundingSource(s) AffordableHousingFund/CommunityHeroesInitiative
+Appropriations* $0 $750,000 $1,500,000 $1,500,000
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Thisbillappropriates$750,000inFY2027and$1,500,000inFY2028andannuallythereafterto
+the Housing Finance Authority to support the expansion of its community heroes initiative. The
+Housing Finance Authority shall not retain more than 10 percent of the appropriation for
+administrativecosts. Italsorequiresanincreaseinbothitsgrantamountandmaximumincome
+eligibility limit, and introduces a new provision allowing recipients to apply grant funds toward
+interestratereductions.
+AGENCIESCONTACTED:
+None

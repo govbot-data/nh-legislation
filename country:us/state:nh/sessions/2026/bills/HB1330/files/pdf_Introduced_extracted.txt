@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1330 -ASINTRODUCED
+2026SESSION
+26-2911
+08/06
+1330
+HOUSEBILL
+ANACT allowing all registered voters to vote in state and presidential primaries
+regardlessofdeclaredpartyaffiliation.
+SPONSORS: Rep. Coker, Belk. 2; Rep. Bridle, Rock. 29; Rep. Girard, Sull. 6; Rep. Hicks, Merr.
+24;Rep.A.Murray,Hills.20;Rep.Veilleux,Hills.34;Rep.Rice,Hills.38
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows all registered voters to vote in state and presidential primaries regardless of
+declaredpartyaffiliation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1330-ASINTRODUCED
+26-2911
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing all registered voters to vote in state and presidential primaries
+regardlessofdeclaredpartyaffiliation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Primary Voting; State and Presidential Primaries; All Voters May Vote. RSA 659:14 is
+2 repealedandreenactedtoreadasfollows:
+3 659:14 Special Provisions for State and Presidential Primary Elections. A person desiring to
+4 vote at a state or presidential primary election shall, at the time of announcing the person’s name,
+5 request the ballot of the party in whose primary the person wishes to vote. Any registered voter,
+6 regardless of declared party affiliation or undeclared status, may choose to vote in the primary
+7 election of any recognized political party. No person shall be permitted to vote in more than one
+8 party’sprimaryduringthesameelection.
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

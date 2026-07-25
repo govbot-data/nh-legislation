@@ -1,0 +1,486 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1825-FN-A-ASINTRODUCED
+2026SESSION
+26-3236
+04/09
+1825-FN-A
+HOUSEBILL
+ANACT relative to the regulation of the practice of law, establishing an independent legal
+licensingboard,andmakinganappropriationtherefor.
+SPONSORS: Rep. Sabourin dit Choiniere, Rock. 30; Rep. Bernardy, Rock. 36; Rep. Comtois,
+Belk. 7; Rep. DeRoy, Straf. 3; Rep. Granger, Straf. 2; Rep. D. Kelley, Hills. 32;
+Rep. Corcoran, Hills. 28; Rep. Moffett, Merr. 4; Rep. Tom Mannion, Hills. 1; Rep.
+Bailey,Straf.2
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillrestructurestheregulationoflegalpracticeinNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1825-FN-A-ASINTRODUCED
+26-3236
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the regulation of the practice of law, establishing an independent legal
+licensingboard,andmakinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Sections; Freedom to Practice Law. Amend RSA 311 by inserting after section 1 the
+2 followingnewsections:
+3 311:1-a FreedomtoPracticeLaw.
+4 I. Inthischapter:
+5 (a) "Barexamination"meanstheuniformexaminationadministeredtotestknowledgeof
+6 NewHampshireandfederallaw.
+7 (b) "Board"meansthelegallicensingboardestablishedunderRSA311:3.
+8 (c) "Good moral character" means the presumptive status of all persons unless
+9 demonstrated otherwise through clear and convincing evidence of conduct incompatible with the
+10 practiceoflaw.
+11 (d) "Legal apprenticeship" means a structured study and practice of law under the
+12 supervisionofalicensedattorneyorjudgeaccordingtostandardsestablishedbytheboard.
+13 (e) "Practice of law" means the application of legal principles and judgment to the
+14 circumstancesorobjectivesofanotherpersonorentity,includingbutnotlimitedto:
+15 (1) Representationofanotherbeforeacourtoradministrativebody;
+16 (2) Preparationoflegaldocumentsthataffectlegalrightsforcompensation;
+17 (3) Provisionoflegaladviceforcompensation;or
+18 (4) Negotiationonbehalfofanotherinlegalmatters.
+19 (f) "Supervised practice" means the practice of law under the direct supervision and
+20 responsibilityofalicensedattorneyorjudgeaccordingtothestandardsestablishedbytheboard.
+21 311:1-b PublicAccesstotheBarExamination.
+22 I. Any member of the public may apply to sit for the New Hampshire bar examination
+23 withoutregardtoeducationalbackground,professionalexperience,orintenttopracticelaw.
+24 II. Theexaminationshalltestknowledgeof:
+25 (a) NewHampshirestatutoryandcommonlaw;
+26 (b) Federalconstitutionallaw;
+27 (c) Professionalresponsibilityandethics;and
+28 (d) Coreareasoflegalpracticeasdeterminedbytheboard.
+29 III. Passingtheexaminationshallnotconfertherighttopracticelawbutmaybe:
+30 (a) Publiclydisclosedbytheexaminee;
+
+HB1825-FN-A-ASINTRODUCED
+-Page2-
+1 (b) Usedasacredentialforacademic,employment,oradvocacypurposes;or
+2 (c) ConsideredasoneelementofeligibilityforlicensureunderRSA311:5.
+3 IV. Theboardshallissuecertificatesdocumentingbarpassagetoanypersonwhopassesthe
+4 examinationandrequestssuchdocumentation.
+5 V. Beingundertheageof18shallnotprecludeapersonfromtakingthebarexamination.
+6 VI. Theboardmaychargereasonablefeestocoverthecostofexaminationadministration.
+7 2 AttorneysandCounselors;LicensetoPractice. AmendRSA311:2toreadasfollows:
+8 311:2 [Admission] License to Practice. – Any [citizen] person of the age of 18 years, of good
+9 moral character and suitable qualifications, on application to [the supreme court] the legal
+10 licensing board shall be [admitted] licensed to practice as an attorney in accordance with the
+11 provisionsofthischapter.
+12 3 Legal Licensing Board Established. RSA 311:3 through 311:13 is repealed and reenacted to
+13 readasfollows:
+14 311:3 LegalLicensingBoardEstablished.
+15 I. There is hereby established an independent legal licensing board consisting of 12
+16 membersappointedasfollows:
+17 (a) Twomembers appointedbytheNew Hampshiresupremecourt,at leastone of whom
+18 shallbearetiredjusticeorjudge;
+19 (b) Twomembersappointedbythegovernorwithconsentoftheexecutivecouncil;
+20 (c) Twomembersappointedbythespeakerofthehouseofrepresentatives;
+21 (d) Onememberappointedbythepresidentofthesenate;and
+22 (e) Five public members who have never been licensed to practice law, appointed by the
+23 governor from a list of at least 10 nominees selected through a public application process
+24 administeredbythesecretaryofstate.
+25 II.(a) Members shall serve staggered four-year terms, except initial appointees who shall
+26 serve terms as follows: 4 members for 2 years, 4 members for 3 years, and 4 members for 4 years, as
+27 designatedbylotatthefirstmeeting.
+28 (b) Membersmayberemovedonlyfor causebytheappointingauthorityafternoticeand
+29 opportunityforhearing.
+30 (c) Nomembermayservemorethan2consecutivefullterms.
+31 III.(a) Theboardshallelectachairandvice-chairannuallyfromamongitsmembers.
+32 (b)Sevenmembersshallconstituteaquorum.
+33 (c) The board shall meet at least quarterly and may hold additional meetings as
+34 necessary.
+35 (d) Members shall receive per diem compensation and reimbursement for necessary
+36 expenses incurred in the performance of their duties, in accordance with RSA 94:1-a and applicable
+37 statetravelpolicies.
+
+HB1825-FN-A-ASINTRODUCED
+-Page3-
+1 IV.(a) No member may participate in any matter in which they have a direct financial
+2 interest.
+3 (b) Members who are licensed attorneys may not represent clients before the board for
+4 twoyearsaftertheirserviceends.
+5 311:4 BoardAuthority.
+6 I. Theboardshallhaveexclusiveauthorityto:
+7 (a) Grant,deny,renew,suspend,andrevokelicensestopracticelawinNewHampshire;
+8 (b) Establishandenforceeducationalandexperientialrequirementsforlicensure;
+9 (c) Determinecharacterandfitnessstandards;
+10 (d) Administerthebarexamination;
+11 (e) Maintainpublicrecordsofalllicensedattorneys;and
+12 (f) Establishfeesnecessarytosupportitsoperations.
+13 II. Theboardshalldeterminecompetencebasedon:
+14 (a) Educationalortrainingstandards;
+15 (b) Examinationresults;
+16 (c) Supervisedpracticeexperience;and
+17 (d) Otherfactorsdemonstratinglegalknowledgeandskillasestablishedbyrule.
+18 III. Theboardshallassessethicalfitnessbasedon:
+19 (a) Backgroundinvestigations;
+20 (b) Moralcharacterevaluation;
+21 (c) Historyofprofessionalconduct;and
+22 (d) Otherrelevantfactorsasestablishedbyrule.
+23 IV. Discipline and disbarment shall be administered pursuant to RSA 311:9 through RSA
+24 311:11ofthissubdivision.
+25 V. TheboardshalladoptrulespursuanttoRSA541-Awithin180daysofitsformation.
+26 311:5 LicensureEligibility.
+27 I. An applicant may qualify for licensure through any one of the following pathways,
+28 providedtheyalsosatisfycharacterandfitnessrequirementsestablishedbytheboard:
+29 (a) Traditionalpath:
+30 (1) Juris doctor degree from an American Bar Association (ABA)-accredited law
+31 school;and
+32 (2) PassageoftheNewHampshirebarexamination.
+33 (b) Apprenticeshippath:
+34 (1) Four years of supervised legal study in a law office or judge's chambers under a
+35 structuredprogramapprovedbytheboard;and
+36 (2) PassageoftheNewHampshirebarexamination.
+37 (c) Directexaminationpathwithsupervision:
+
+HB1825-FN-A-ASINTRODUCED
+-Page4-
+1 (1) Passage of the New Hampshire bar examination without formal law school or
+2 apprenticeship;and
+3 (2) Completion of between one and 2 years of supervised practice under a licensed
+4 attorney, with the specific duration determined by the board based on examination performance and
+5 otherrelevantfactors.
+6 (d) Reciprocitypath:
+7 (1) ActivelicenseingoodstandinginanotherUnitedStatesjurisdictionforatleast2
+8 years;and
+9 (2) Suchotherrequirementsastheboardmayestablishbyrule.
+10 (e) Foreignlegaleducationpath:
+11 (1) Degreefromaforeignlawschool;and
+12 (2) Additional requirements as established by board rules to ensure equivalent
+13 competence.
+14 311:6 TermsofLicensure.
+15 I. Every attorney licensed to practice shall take and subscribe the oaths to support the
+16 constitutionofthisstateandoftheUnitedStates,andtheoathofofficeinthefollowingform:
+17 You solemnly swear or affirm that you will do no falsehood, nor consent that any be done in the
+18 court, and if you know of any, that you will give knowledge thereof to the justices of the court, or
+19 some of them, that it may be reformed; that you will not wittingly or willingly promote, sue or
+20 procure to be sued any false or unlawful suit, nor consent to the same; that you will delay no person
+21 forlucreormalice,andwillactintheprofessionofanattorneyaccordingtothebestofyourlearning
+22 and discretion, and with all good fidelity as well to the court as to your client. So help you God or
+23 under the pains and penalty of perjury. The legal licensing board shall have authority to determine
+24 byadministrativerulethemannerinwhichtheoathsshallbeadministered.
+25 II. Once licensed, an attorney in good standing shall have a perpetual right to practice law
+26 inNewHampshire,subjectonlyto:
+27 (a) Disciplinaryactionforprofessionalmisconduct;or
+28 (b) Voluntaryinactivestatus.
+29 III. Nolicensedattorneyshallberequiredto:
+30 (a) Pay mandatory annual dues or fees beyond initial licensure and optional renewal
+31 fees;
+32 (b) Joinormaintainmembershipinanybarassociationorprofessionalorganization;or
+33 (c) Participate in any activities not directly related to maintaining competence and
+34 ethicalstandards.
+35 IV. Attorneys may voluntarily place their license in inactive status and reactivate it upon
+36 demonstrationofcontinuedcompetenceasdeterminedbyboardrule.
+37 311:7 VoluntaryBarAssociations.
+
+HB1825-FN-A-ASINTRODUCED
+-Page5-
+1 I. The New Hampshire bar association and any other professional legal associations shall
+2 operateasprivate,voluntarymembershiporganizations.
+3 II. Suchassociationsmay:
+4 (a) Offercontinuinglegaleducationprograms;
+5 (b) Providenetworkingopportunities;
+6 (c) Issuevoluntarycertifications;
+7 (d) Engageinadvocacyandpublicservice;
+8 (e) Publishlegalresources;and
+9 (f) Providememberbenefitsandservices.
+10 III. Membershipornon-membershipinanybarassociation:
+11 (a) Shallhavenobearingonlicensureortherighttopracticelaw;
+12 (b) Maybepubliclydisclosedbyattorneysastheychoose;and
+13 (c) Shallnotbeafactorinanydisciplinaryproceedings.
+14 IV. Attorneys may market themselves as members of professional associations or explicitly
+15 asindependentpractitioners.
+16 311:8 RelationshipBetweenLicensureandCourtPractice.
+17 I. Licensure by the board under this chapter constitutes authorization to engage in the
+18 generalpracticeoflawinNewHampshire,includingbutnotlimitedto:
+19 (a) Providinglegaladviceandcounsel;
+20 (b) Draftinglegaldocuments;
+21 (c) Negotiatingonbehalfofclients;and
+22 (d) Representingclientsinadministrativeproceedings.
+23 II. The supreme court retains exclusive authority to determine who may practice before the
+24 courtsofthisstate. Thecourtmaybyrule:
+25 (a) Acceptboardlicensureassufficientqualificationforcourtpractice;
+26 (b) Establishadditionalrequirementsforcourtpractice;or
+27 (c) Maintainseparateadmissionstandardsforcourtpractice.
+28 III. Nothing in this chapter shall be construed to limit the supreme court's inherent
+29 authority to regulate practice before the courts or to discipline attorneys for misconduct in judicial
+30 proceedings.
+31 311:9 Discipline.
+32 I. For purposes of general licensure under this chapter, the board shall establish and
+33 maintain a professional conduct committee consisting of members appointed pursuant to rules
+34 adoptedunderRSA541-A,includingbothattorneysandpublicmembers.
+35 II. This professional conduct committee shall investigate and make recommendations to the
+36 boardregarding:
+37 (a) Violationsofprofessionalconductrules;
+
+HB1825-FN-A-ASINTRODUCED
+-Page6-
+1 (b) Fitnesstomaintainlicensureunderthischapter;and
+2 (c) Complaintsregardingthegeneralpracticeoflaw.
+3 III. The board shall make final determinations on disciplinary matters within its
+4 jurisdiction,subjecttoappealtothesupremecourt.
+5 IV. The supreme court may maintain its own professional conduct procedures for matters
+6 involving practice before the courts. In the interest of efficiency and consistency, the court may by
+7 rule:
+8 (a) Adopttheboard'sdisciplinaryproceduresandfindings;
+9 (b) Delegatecertaindisciplinaryfunctionstotheboard'sprofessionalconductcommittee;
+10 and
+11 (c) Maintainconcurrentorexclusivejurisdictionoverspecifiedmatters.
+12 V. Any felony conviction shall result in automatic suspension of licensure pending board
+13 review,withdisbarmentrequiredunlessextraordinarycircumstancesexist.
+14 311:10 EffectofSuspension.
+15 No person while suspended from practice pursuant to RSA 311:9, or until the person's
+16 restoration to office, shall be permitted to practice as an attorney before any court or magistrate, or
+17 elsewhere; and any writ or other process made by such person for another, while thus disqualified,
+18 shallbevoid.
+19 311:11 AppealsandJudicialReview.
+20 I. Any person aggrieved by a board decision regarding licensure or discipline may appeal to
+21 theNewHampshiresupremecourtwithin30days.
+22 II. Thesupremecourtshallreviewboarddecisionsasfollows:
+23 (a) Constitutionalandlegalquestionsshallberevieweddenovo;
+24 (b) Factualfindingsshallbeupheldifsupportedbysubstantialevidence;and
+25 (c) The court shall give appropriate deference to the board's interpretation of licensure
+26 statutesandruleswithinitsexpertise.
+27 III. Thesupremecourtretainsinherentandexclusiveauthorityto:
+28 (a) Regulatepracticeandprocedurebeforeallcourtsofthisstate;
+29 (b) Admitattorneysprohacviceforspecificcases;
+30 (c) Disciplineattorneysformisconductoccurringinjudicialproceedings;and
+31 (d) Determinefinal admissiontopracticebeforethecourts, whichmayinclude accepting
+32 orrejectingboardlicensure.
+33 311:12 PracticebyCorporationsProhibited.
+34 I. No corporation shall practice or appear as an attorney in any court in the state or before
+35 any judicial body or hold itself out to the public or advertise as being entitled to practice law, and no
+36 corporation shall draw agreements, or other legal documents not relating to its lawful business, or
+37 draw wills, or practice law, or give legal advice or legal information as an attorney, or hold itself out
+
+HB1825-FN-A-ASINTRODUCED
+-Page7-
+1 inanymannerasbeingentitledtodoanyoftheforegoingacts,byorthroughanypersonorallyorby
+2 advertisement, letter, or circular; provided that the foregoing prohibition shall not prevent a
+3 corporation from employing an attorney in regard to its own affairs or in any litigation to which it is
+4 or may be a party. Any person other than a natural person violating any provisions of this section
+5 shallbeguiltyofafelony.Anynaturalperson,includingeveryofficer,agent,oremployeeofanysuch
+6 corporation, who, on its behalf, directly or indirectly engages in any of the acts herein prohibited or
+7 assists such corporation to do such prohibited acts shall be guilty of a misdemeanor. The word
+8 “corporation” as used in this section shall not include a corporation of attorneys organized as a
+9 professionalassociationundertheprovisionsofRSA294-A.
+10 II. NothinginthissectionshallbeconstruedtoprohibitrepresentationunderRSA503:11.
+11 311:13 PermissibleEnforcementAgainstUnauthorizedPracticeofLaw.
+12 I. The attorney general may, upon receiving a credible complaint or on the attorney
+13 general’s own initiative, file a petition in the superior court or supreme court for injunctive relief
+14 againstanypersonwho:
+15 (a) Knowinglyandfalselyrepresentsthemselvestobealicensedattorney;
+16 (b) Knowinglyandfalselyclaimstobeauthorizedtoengageinthepracticeoflaw;or
+17 (c) Appears on behalf of another person before any court, tribunal, or quasijudicial body
+18 withoutlegalauthorizationtodoso,exceptasotherwisepermittedbylaw.
+19 II. Nothing in this section shall be construed to prohibit non-lawyers from providing
+20 assistance with legal forms, legal information, or other services related to the legal system, provided
+21 that:
+22 (a) Theydonotknowinglymisrepresenttheirqualifications;and
+23 (b) Theydonotholdthemselvesoutasattorneysorlicensedlegalrepresentatives.
+24 III. Anyorganizedbarassociationinthestatemay,forgoodcauseshown,intervenein
+25 anyactionbroughtunderthissection.
+26 311:14 PermissiveLienonProceedsofRepresentation.
+27 I. An attorney representing a client in any civil, administrative, or other legal proceeding
+28 may, with the client’s informed written consent, include in the terms of their engagement or fee
+29 agreementaprovisiongrantingtheattorneyalienforreasonablefeesandexpenses. Ifsuchalienis
+30 agreedtoinwriting,itshallattachto:
+31 (a) Theclient’slegalclaimsorcausesofaction;
+32 (b) Anyjudgment,decree,order,orsettlementintheclient’sfavor;and
+33 (c) Anyproceedsderivedtherefrom.
+34 II. Suchalienshallbeenforceableinaccordancewithitsterms,andmaybedeterminedand
+35 enforced upon petition by either the client or the attorney in the court where the proceeding is
+36 pending. If the matter is not before a court, the superior court shall have jurisdiction to determine
+37 andenforcethelien.
+
+HB1825-FN-A-ASINTRODUCED
+-Page8-
+1 III. Nothing in this section shall be construed to create a lien in the absence of a written
+2 agreement, nor shall it apply to matters arising under RSA 282-A, or to any proceeding in which the
+3 methodfordeterminingattorneys’feesisotherwiseexpresslygovernedbystatute.
+4 311:15 AttorneyGeneralInvestigations.
+5 I. Theattorneygeneralmayinvestigateanyallegedviolationofthissection. Inthecourseof
+6 suchinvestigation,theattorneygeneralortheirdesigneemay:
+7 (a) Subpoenawitnesses;
+8 (b) Compeltheattendanceofwitnessesandtheproductionofdocuments;and
+9 (c) Examinewitnessesunderoath.
+10 II. All provisions of law relating to civil subpoenas, witness attendance, and witness fees
+11 shallapplytoinvestigationsunderthissection.
+12 III. If a person fails to comply with a subpoena or refuses to testify, the superior court may,
+13 upon application by the attorney general, issue an order compelling compliance. Failure to obey
+14 suchordermaybepunishedascontemptofcourt.
+15 IV. Upon request, public officers and employees shall cooperate with the attorney general’s
+16 officeininvestigationsunderthissection.
+17 V. Investigations under this section shall remain confidential, except as required for
+18 enforcement or in the discharge of official duties. Any person who knowingly discloses confidential
+19 investigativeinformationwithoutlawfulauthorityshallbeguiltyofamisdemeanor.
+20 VI. Anypersonwhoisthesubjectofaninvestigationunderthissectionshallbeprovided:
+21 (a) Awrittensummaryofthespecificissuesunderinquiry;and
+22 (b) Areasonableopportunitytorespondandtopresentevidence.
+23 311:16 Severability.
+24 If any provision of this act or its application to any person or circumstance is held invalid, such
+25 invalidity shall not affect other provisions or applications of this act that can be given effect without
+26 theinvalidprovisionorapplication,andtothisendtheprovisionsofthisactareseverable.
+27 311:17 ConstitutionalSavingsClause.
+28 If any portion of this chapter is found to violate Part II, Article 73-a regarding the supreme
+29 court's inherent authority over court practice, such finding shall not invalidate the remainder of this
+30 chapter, which shall continue to govern licensure for the general practice of law outside of court
+31 proceedings.
+32 4 TransitionProvisions.
+33 I. BoardFormation:
+34 (a) Appointmentstotheboardshallbemadewithin60daysofthisact'seffectivedate.
+35 (b) Theboardshallholditsfirstmeetingwithin30daysofallappointmentsbeingmade.
+36 (c) Thesecretaryofstateshallprovidetemporaryadministrativesupportuntiltheboard
+37 establishesitsownoperations.
+
+HB1825-FN-A-ASINTRODUCED
+-Page9-
+1 II. ExistingPractitioners:
+2 (a) All persons currently admitted to practice law in New Hampshire as of January 1,
+3 2027,shallautomaticallybedeemedlicensedunderthisactwithoutreapplicationoradditionalfees.
+4 (b) Suchpersonsshallreceivealicensecertificatefromtheboarduponrequest.
+5 II-A. Existing paraprofessionals. Any person authorized to provide legal services under the
+6 paraprofessional provisions in effect prior to January 1, 2027, may continue to provide such services
+7 and shall be deemed enrolled in the apprenticeship path pursuant to RSA 311:5, I(b), with credit for
+8 timealreadyserved.
+9 III. PendingApplications:
+10 (a) Applications for admission pending on January 1, 2027, shall be transferred to the
+11 boardforprocessingunderthenewsystem.
+12 (b) Applicants may elect to have their applications processed under the prior system if
+13 theymakesuchelectionwithin30daysofnoticefromtheboard.
+14 IV. TransferofRecords:
+15 (a) The supreme court shall transfer all records relating to attorney admission to the
+16 boardwithin90daysoftheboard'sformation.
+17 (b) Theprofessionalconductcommitteeshallretainalldisciplinaryrecords.
+18 V. Rulemaking:
+19 (a) Theboardshalladoptinitialruleswithin180daysofformation.
+20 (b) Until such rules are adopted, current supreme court rules regarding bar admission
+21 shallremainineffectasboardregulations.
+22 VI. MandatoryBarAssociationMembership:
+23 (a) Any requirement of membership in the New Hampshire bar association as a
+24 conditionofpracticinglawshallceaseonJanuary1,2027.
+25 (b) Attorneysmayterminatetheirmembershipwithoutpenaltyasofthatdate.
+26 (c) The bar association shall refund any prepaid dues for periods after January 1, 2027,
+27 uponrequest.
+28 VII. Funding:
+29 (a) The board shall operate using funds appropriated under Section 7 until June 30,
+30 2029.
+31 (b) Beginning July 1, 2029, the board shall be self-sustaining through licensure and
+32 examination fees, except that the board may continue to receive additional funding as appropriated
+33 bythelegislature.
+34 VIII. JudicialCoordination:
+35 (a) The chief justice and the board chair shall meet within 90 days of the board's
+36 formationtocoordinateimplementationofthisact.
+
+HB1825-FN-A-ASINTRODUCED
+-Page10-
+1 (b) The supreme court is encouraged to promulgate rules recognizing board licensure as
+2 qualificationforcourtpractice,whileretainingitsconstitutionalauthorityoverjudicialproceedings.
+3 (c) Until the supreme court acts by rule, persons licensed by the board shall be
+4 authorizedtoengageinthegeneralpracticeoflawasdefinedinthischapter.
+5 IX. Existing Disciplinary Structures: Nothing in this act shall be construed to abolish or
+6 supersede existing attorney disciplinary structures maintained by the judicial branch, which may
+7 continuetooperatewithintheirconstitutionalauthority.
+8 5 Appropriation;GeneralFund.
+9 I. The sum of $500,000 is hereby appropriated from the general fund for fiscal year 2027 for
+10 theestablishmentandinitialoperationsofthelegallicensingboard. Thisappropriation:
+11 (a) ShallnotlapseuntilJune30,2029;
+12 (b) Maybeusedforstaff,officespace,equipment,andoperationalexpenses;and
+13 (c) Shall be administered by the secretary of state until the board establishes
+14 independentoperations.
+15 II. The governor is authorized to draw a warrant for said sum from any money in the
+16 treasurynototherwiseappropriated.
+17 6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3236
+Revised1/12/26
+HB1825-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the regulation of the practice of law, establishing an independent legal
+licensingboard,andmakinganappropriationtherefor.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) GeneralFund
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+$1,000,000+ $1,000,000+ $1,000,000+
+FundingSource(s) GeneralFund
+Appropriations* $0 $500,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacomplete fiscalnoteforthisbill,
+as introduced, as it is awaiting information from the Department of State. The Department was
+originally contacted on 11/21/25 and again on 12/17/25 for a fiscal note worksheet. When
+completed,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice
+METHODOLOGY:
+This bill establishes an independent Legal Licensing Board to regulate the general practice of
+law. The bill creates new licensure pathways, authorizes the board to administer the bar
+examination, and provides for attorney discipline through a professional conduct committee,
+while maintaining the Judicial Branch’s constitutional authority over admission to practice
+beforethe courts and attorney discipline. The bill appropriates $500,000 from the General Fund
+to the Department of State in FY 2027 for the establishment and initial operations of the Legal
+LicensingBoard,withfundingnotlapsinguntilJune30,2029.
+The cost to administer the independent Legal Licensing Board and to implement the new
+“freedom to practice law” provisions is unknown at this time. While the bill appropriates
+$500,000 from the General Fund in FY 2027 for the establishment and initial operations of the
+board, the level of ongoing expenditures that will be required once the board is fully operational
+
+is unknown. The bill states that beginning July 1, 2029, the board shall be self sustaining
+throughlicensureandexaminationfees,exceptthattheboardmaycontinuetoreceiveadditional
+fundingasappropriatedbythelegislature. Becausethefeestructure,numberofapplicants,and
+ongoing administrative and enforcement responsibilities are not yet defined, the fiscal impact on
+StateexpendituresbeyondtheinitialappropriationaswellastheimpactonStaterevenuesfrom
+feescannotbedetermined.
+The Judicial Branch states this bill would increase State expenditures by an indeterminable
+amount beginning in FY 2027 and continuing in FY 2028 and FY 2029. Under current law, the
+Judicial Branch administers attorney admission and discipline programs that are cost neutral,
+as these programs are fully supported by bar application fees, annual assessments paid by
+licensed attorneys, and reimbursements associated with disciplinary actions. This bill would
+establish a parallel attorney licensure and discipline system while the Judicial Branch would
+continue to operate its existing admission and disciplinary functions pursuant to its
+constitutional authority. The Judicial Branch states that while the bill appropriates $500,000
+from the General Fund in FY 2027 for the establishment and initial operations of the legal
+licensing board, the bill also eliminates mandatory annual fees for licensed attorneys beyond
+initial licensure and optional renewal fees. As a result, there is no identified ongoing revenue
+source to support a parallel attorney discipline system. The Judicial Branch assumes that while
+initial licensing and examination fees may be sufficient to support the operations of the new
+licensing board through FY 2029, those fees are unlikely to cover the substantially higher costs
+associatedwithattorneydisciplinefunctions.
+The Judicial Branch states that the attorney discipline system is significantly more resource
+intensive than the bar admissions process. In State Fiscal Year 2024, actual expenditures for
+the Attorney Discipline Office for 9.5 employees were approximately $1,560,000, while the Office
+of Bar Admissions for two employees incurred approximately $327,000 in expenditures. The bill
+wouldrequiretheJudicialBranchtocontinuetocoverthecostsfortheparalleldisciplinesystem
+related to staffing, office space, equipment, hearing expenses such as transcripts and
+stenographers, and the transfer and maintenance of thousands of existing disciplinary records.
+The bill would also require the creation and maintenance of a new digital disciplinary records
+system and would increase staff time needed to support the parallel system. Because it is
+unknown how many attorneys would pay initial licensing or examination fees, how
+responsibilities would be divided between the Judicial Branch and the new licensing board, and
+how the parallel discipline systems would function in practice, the Judicial Branch states the
+fiscal impact cannot be precisely determined. However, the Judicial Branch estimates that
+additional expenditures could exceed $1,000,000 and be up to $2,500,000 per fiscal year
+beginninginFY2027forJudicialBranchExpenditures.
+
+The $500,000 appropriation funds the new Legal Licensing Board. The Judicial Branch fiscal
+impact reflects additional unfunded costs the courts believe they would incur by continuing to
+operateattorneyadmissionand disciplinesystems inparallel withthenew board, not thecost of
+runningthenewboarditself.
+AGENCIESCONTACTED:
+JudicialBranchandDepartmentofState

@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1588-FN-ASAMENDEDBYTHESENATE
+05/07/2026 1720s
+2026SESSION
+26-3234
+07/06
+1588-FN
+HOUSEBILL
+ANACT relative to the regulation of accessory parking for vehicles by local legislative
+bodiesandmultifamilyhousingwithincommercialdistrictsbymunicipalities.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Allows local legislative bodies to regulate accessory parking for vehicles so long as they do not
+requirethattheparkingspaceperunitbegaraged.
+II. Prevents municipalities from imposing additional requirements for multifamily housing
+withincommercialdistrictsinexistenceasofJuly1,2026,withsomeexceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1588-FN-ASAMENDEDBYTHESENATE
+05/07/2026 1720s 26-3234
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the regulation of accessory parking for vehicles by local legislative
+bodiesandmultifamilyhousingwithincommercialdistrictsbymunicipalities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Zoning;GrantofPower;ParkingOrdinances. AmendRSA674:16,VIItoreadasfollows:
+2 VII. In its exerciseof the powers granted under this subdivision, thelocal legislative body of
+3 a city, town, or county in which there are located unincorporated towns or unorganized places may
+4 regulate accessory parking for vehicles, but shall not require more than one residential parking
+5 spaceperunitorrequirethattheparkingspaceperunitbegaraged.
+6 2 Multi-Family Residential Development on Commercially Zoned Land; Amendment to Zoning
+7 Regulations; Conversion of Multi-Family Dwelling Units Permitted. Amend RSA 674:80, IV to read
+8 asfollows:
+9 IV. A municipality [shall provide an exemption to any requirements regarding setbacks,
+10 height, or frontage of a building being converted to multi-family or mixed-use through adaptive
+11 reuse, provided that the building's floor area, height, and setbacks do not change] shall not impose
+12 additionalrequirementsformultifamilyhousingproposedtobelocatedwithincommercial
+13 districtsinexistenceasofJuly1,2026,orexpandedorcreatedafterthatdate,beyondthose
+14 specifically allowed under this section, except for frontage, setbacks, and height
+15 requirements; provided that such requirements shall not differ from what is allowed for
+16 commercialdevelopment.
+17 V. A municipality shall allow pre-existing nonconforming structures to be
+18 converted to multi-family dwelling units or mixed use provided that the structure’s
+19 envelopeisnotalteredtofurtherviolatezoningdistrictdimensionalrequirements.
+20 VI. Anyownerofcommercially-zonedpropertyimproperlydeniedanapplicationfor
+21 multi-family housing, or who is subjected to requirements beyond those allowed in this
+22 section, and who is thereby required to file suit against the municipality in order to
+23 exercise the property rights thus recognized, shall be entitled to be reimbursed reasonable
+24 attorney'sfeesincurredasadirectresult.
+25 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3234
+05/08/2026
+HB1588-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1720s)
+ANACT relative to the regulation of accessory parking for vehicles by local legislative
+bodiesandmultifamilyhousingwithincommercialdistrictsbymunicipalities.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+The bill may result in a possible indeterminable increase in municipal expenditures. The bill
+indicates that any owner of commercially-zoned property who is improperly denied an
+application for multi-family housing is entitled to reimbursement of reasonable attorney’s fees if
+legal action is required to exercise the property rights established in the RSA 674:80. Because
+the number of improper denials and amount of reimbursable legal costs cannot be predicted, the
+fiscalimpactonmunicipalitiesisindeterminable.
+AGENCIESCONTACTED:
+None

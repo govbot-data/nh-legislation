@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1747-FN-ASINTRODUCED
+2026SESSION
+26-3137
+07/06
+1747-FN
+HOUSEBILL
+ANACT relativetotreatmentofperinatalmentalhealthconditions.
+SPONSORS: Rep.Beauchemin,Hills.3;Rep.Colby,Merr.9;Rep.Jacobs,Ches.15;Rep.Lucas,
+Graf. 7; Rep. Mandelbaum, Rock. 21; Rep. Tellez, Hills. 40; Rep. Weinstein, Rock.
+10
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresthedepartmentofhealthandhumanservicesandtheinsurancedepartmentto
+developandoperateaseriesofperinatalmentalhealth-relatedprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1747-FN-ASINTRODUCED
+26-3137
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotreatmentofperinatalmentalhealthconditions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 InsuranceDepartment;MentalHealthScreeningReimbursement. Notwithstandinganyother
+2 provision of law to the contrary, the insurance department shall establish a program to reimburse
+3 eligible, pregnant medicaid recipients for one mental health screening during each trimester of their
+4 pregnancy. The insurance department shall adopt rules, pursuant to RSA 541-A, regarding the
+5 creation,administration,andoversightoftheprogram.
+6 2 Insurance Department; Patient Screening Reimbursement. Notwithstanding any other
+7 provision of law to the contrary, the insurance department shall establish a program to reimburse
+8 eligible physicians or other qualified health care providers for time spent advising patients about
+9 resources and next steps upon diagnosing a patient with a perinatal mental health condition. The
+10 insurance department shall adopt rules, pursuant to RSA 541-A, regarding the creation,
+11 administration,andoversightoftheprogram.
+12 3 DepartmentofHealthandHumanServices;PerinatalMentalHealthPrograms.
+13 I. Notwithstanding any other provision of law to the contrary, the department of health and
+14 humanservicesshallestablish:
+15 (a) An outreach program to provide education to providers of perinatal mental health
+16 therapyandthosewithprescribingauthority.
+17 (b) An incentive program to provide loan reimbursements for providers of perinatal
+18 mental health therapy and persons with prescribing authority who become certified in perinatal
+19 mentalhealththerapythroughareputableandvettedorganization.
+20 II. The department shall providefinancial reimbursement for participatingproviders for the
+21 outreach program under subparagraph (a) or the incentive program under subparagraph (b) in
+22 exchange for documented certification of 2 continuous years of employment as a perinatal mental
+23 healththerapyprovider.
+24 4 Insurance Department; Medicaid Reimbursement Rates. The insurance department shall
+25 conduct a review of current Medicaid reimbursement rates for therapy and prescribed psychiatric
+26 medications. Notwithstanding any other provision of law to the contrary, the department shall
+27 determine and offer higher rates of reimbursement for providers who are certified in perinatal
+28 mentalhealththroughareputableandvettedorganization.
+29 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3137
+Revised1/28/26
+HB1747-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotreatmentofperinatalmentalhealthconditions.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill directs the Departments of Insurance and Health and Human Services to establish
+programs and review rates relative to treatment of perinatal mental health conditions. The
+Insurance Department notes that it lacks authority to carry out certain mandates contained in
+thebill. Inparticular, thebillrequirestheDepartment toreviewMedicaidreimbursement rates
+for therapy and prescribed psychiatric medications. As the Medicaid program is overseen by the
+Department of Health and Human Services, the Insurance Department lacks regulatory
+authority over the Medicaid rate setting process. In addition, the bill requires the Insurance
+Department to establish a program to reimburse eligible, pregnant Medicaid recipients for one
+mental health screening per trimester. The link to the Medicaid program makes it unclear
+whether such a program would be better operated by the Department of Health and Human
+Services.
+The bill also requires the Department of Health and Human Services (DHHS) to establish
+outreach and incentive programs relative to perinatal mental health programs. DHHS
+anticipates an increase in state expenditures to implement the outreach program. The program
+would provide education to providers of perinatal mental health therapy and those with
+prescribing authority. The Department estimates annual costs of $150,000-$200,000, depending
+on the scope and delivery method of outreach. These costs include staffing, program
+development, and potential travel or event-related expenses. The bill does not define the scope
+
+or delivery method of the outreach program (e.g., in-person vs. virtual), nor does it specify
+whether participation is mandatory or voluntary. DHHS notes that clarifying these elements
+couldhelprefinecostestimatesandimplementationplanning.
+In addition, DHHS anticipates an increase in state expenditures to implement the loan
+reimbursement incentive program for providers certified in perinatal mental health therapy
+under section 3, subparagraph I(b) of the bill. This program would offer loan repayment to
+eligible behavioral health and prescribing professionals after two years of continuous service,
+modeled after the existing State Loan Repayment Program (SLRP). Loan repayment amounts
+under theSLRParebased onatiered system (Tier 1- $75,000for minimum serviceobligation of
+36months,Tier2-$45,000for aminimumserviceobligationof36months,Tier3-$30,000for a
+minimum service obligation of 36 months). The bill does not appropriate funds or identify the
+number of loans to be provided. Should the program go into effect, the Department expects to
+need a new compliance officer one to manage it, at a cost of $80,000 in FY27, $99,000 in FY28,
+and$103,000inFY29.
+This revised fiscal note assumes that any cost will be paid for exclusively with state general
+funds.
+AGENCIESCONTACTED:
+DepartmentsofInsuranceandHealthandHumanServices

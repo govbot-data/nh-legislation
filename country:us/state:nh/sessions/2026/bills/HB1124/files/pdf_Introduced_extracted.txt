@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1124 -ASINTRODUCED
+2026SESSION
+26-2382
+06/07
+1124
+HOUSEBILL
+ANACT relativetotherighttocompute.
+SPONSORS: Rep. Ammon, Hills. 42; Rep. Corcoran, Hills. 28; Rep. Notter, Hills. 12; Rep.
+Peternel,Carr.6;Rep.Sheehan,Hills.43
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishestherighttocomputeact.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1124-ASINTRODUCED
+26-2382
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotherighttocompute.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Right to Compute Act. Amend RSA by inserting after chapter 507-I the
+2 followingnewchapter:
+3 CHAPTER507-J
+4 RIGHTTOCOMPUTEACT
+5 507-J:1 ShortTitle;Purpose.
+6 I. Thischaptermaybecitedasthe“RighttoComputeAct.”
+7 II. The general court finds that the rights to acquire, possess, and protect property under
+8 part I, article 2 and article 12-a; the rights to free expression under part I, articles 22 and 30; and
+9 the right to privacy under part I, article 2-b of the New Hampshire constitution, also embody a
+10 fundamental right to own and make use of technological tools, including computational resources.
+11 Any restriction placed by a government entity on the ability to privately own or make use of
+12 computational resources for lawful purposes shall be limited to those demonstrably necessary and
+13 narrowlytailoredtofulfillacompellinggovernmentinterest.
+14 507-J:2 RighttoCompute.
+15 I. No government entity shall restrict the ability to privately own or make use of
+16 computational resources for lawful purposes, or otherwise infringe upon a person’s rights to
+17 property,freeexpression,orprivacyregardingsuchresources,exceptasdemonstrablynecessaryand
+18 narrowlytailoredtofulfillacompellinggovernmentinterest.
+19 II. Nothinginthischaptershallbeconstruedtopreemptapplicablefederallaw.
+20 507-J:3 Definitions. Inthischapter:
+21 I. “Compelling government interest” means a government interest of the highest order in
+22 protectingthepublicthatcannotbeachievedthroughlessrestrictivemeans. Suchinterestincludes,
+23 butisnotlimitedto:
+24 (a) Ensuring that a critical infrastructure facility controlled by an artificial intelligence
+25 systemdevelopsariskmanagementpolicy.
+26 (b) Addressingconductthatdeceivesordefraudsthepublic.
+27 (c) Protecting individuals, especially minors, from harm by a person who distributes
+28 deepfakesorotherharmfulsyntheticcontentwithactualknowledgeofthenatureofthatmaterial.
+29 (d) Taking actions to prevent or abate common law nuisances created by physical
+30 datacenterinfrastructure.
+
+HB1124 -ASINTRODUCED
+-Page2-
+1 II. “Computational resources” means any tool, technology, system, or infrastructure,
+2 whetherdigital,analog,existing,orotherwise,thatfacilitatescomputation,dataprocessing,storage,
+3 transmission, manipulation, control, creation, dissemination, or use of information and data. This
+4 includes, but is not limited to, hardware, software, networks, protocols, platforms, services, systems,
+5 cryptography,algorithms,sensors,machinelearning,andquantumapplications.
+6 III. “Government action” means any law, ordinance, regulation, rule, policy, condition, test,
+7 permit, or administrative practice enacted by a government entity that restricts the common or
+8 intendeduseofcomputationalresourcesbytheirownerorinvitees.
+9 IV. “Government entity” means the state or any county, city, town, political subdivision,
+10 branch,department,division,office,orentityofstateorlocalgovernment.
+11 507-J:4 Severability. If any provision of this chapter or its application to any person or
+12 circumstance is held invalid, such invalidity shall not affect other provisions or applications of this
+13 chapter that can be given effect without the invalid provision or application. The provisions of this
+14 chaptershallbeseverable.
+15 507-J:5 Preservation of Intellectual Property. Nothing in this chapter shall be construed to
+16 alter,diminish,orinterferewiththerightsandremediesavailableunderfederalorstateintellectual
+17 propertylaws,includingbutnotlimitedtopatent,copyright,trademark,andtradesecretlaws.
+18 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

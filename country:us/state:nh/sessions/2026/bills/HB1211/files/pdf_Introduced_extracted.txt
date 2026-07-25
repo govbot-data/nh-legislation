@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1211 -ASINTRODUCED
+2026SESSION
+26-2859
+09/06
+1211
+HOUSEBILL
+ANACT relativetothescopeofreviewofstateagencyinterpretations.
+SPONSORS: Rep. Kofalt, Hills. 32; Rep. Granger, Straf. 2; Rep. Slottje, Hills. 13; Rep.
+Ankarberg, Straf. 7; Rep. Layon, Rock. 13; Rep. Alexander Jr., Hills. 29; Rep.
+Sabourin, Rock. 30; Sen. Innis, Dist 7; Sen. Murphy, Dist 16; Sen. Sullivan, Dist
+18
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill states that reviews of state agency rules and guidance shall not defer to the agency's
+interpretations but make any necessary interpretations de novo, and shall resolve doubts in favor of
+limitingagencyaction.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1211-ASINTRODUCED
+26-2859
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothescopeofreviewofstateagencyinterpretations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Standards for Review. Amend RSA 541-A by inserting after section 24 the
+2 followingnewsection:
+3 541-A:24-a StandardsforReview.
+4 I. In interpreting a state statute, regulation, or other subregulatory agency document, a
+5 state court or an officer hearing an administrative action may not defer to a state agency’s
+6 interpretationofit,andmustinsteadinterpretitsmeaningandeffectdenovo.
+7 II. In actions brought by or against state agencies, after applying all customary tools of
+8 interpretation, the court or hearing officer shall exercise any remaining doubt in favor of a
+9 reasonableinterpretationthatlimitsagencypowerandmaximizesindividualliberty.
+10 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

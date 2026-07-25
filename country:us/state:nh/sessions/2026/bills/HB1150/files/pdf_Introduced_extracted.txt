@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1150 -ASINTRODUCED
+2026SESSION
+26-2369
+06/09
+1150
+HOUSEBILL
+ANACT requiringdisclosureofcomplaintstopublicemployeeswithin5businessdays.
+SPONSORS: Rep.S.Pearson,Rock.13
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires employers to notify public employees within 5 business days of receiving a
+complaint against them, including the complaint text and relevant information, unless disclosure is
+restricted by law, confidentiality, safety concerns, or investigative integrity. This bill also authorizes
+thedepartmentoflabortoenforcetherequirementandimposecivilfinesfornoncompliance.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1150-ASINTRODUCED
+26-2369
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringdisclosureofcomplaintstopublicemployeeswithin5businessdays.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;NoticeofComplaintsAgainstPublicEmployees. AmendRSA275-Ebyinserting
+2 aftersection9thefollowingnewsection:
+3 275-E:10 NoticeofComplaintsAgainstPublicEmployees.
+4 I. For the purposes of this section, “complaint” means a written allegation of misconduct or
+5 violation of law, rule, or policy made against a public employee and received by the employer from
+6 anysource,exceptasprovidedinparagraphIV.
+7 II. Any employer that receives a complaint against a public employee shall, within 5
+8 business days of receipt, provide written notice to the employee that a complaint has been received
+9 andthedateofreceipt.
+10 III. The noticetotheemployeeshall include thetext of thecomplaint and theidentityof the
+11 complainant,unless:
+12 (a) Disclosure would violate state or federal law, including but not limited to protections
+13 providedunderwhistleblowerlaws,anti-discriminationstatutes,orfederalprivacyregulations;
+14 (b) Disclosurewouldcompromisethesafetyofthecomplainant,witnesses,orothers;
+15 (c) Disclosure would interfere with an ongoing investigation by law enforcement or a
+16 regulatoryagency;
+17 (d) The complaint relates to allegations of sexual harassment, abuse, or other sensitive
+18 matterswhereconfidentialityislegallyorethicallyrequired;or
+19 (e) Thecomplaintwassubmittedanonymously.
+20 IV. IfparagraphIIIapplies,theemployershallprovide,within5businessdays,noticetothe
+21 employee that a complaint has been received and the general nature of the alleged conduct, to the
+22 extent permissible by law, along with an explanation of the reason for withholding all or part of the
+23 complaintorthecomplainant’sidentity.
+24 V. Nothing in this section shall be construed to require disclosure of information that is
+25 prohibited from disclosure by law, to impede law enforcement or regulatory investigations, or to
+26 contravene protections provided to whistleblowers, complainants, or victims under state or federal
+27 law.
+28 VI. Any employer that fails to provide the notice required under this section, or knowingly
+29 fails to comply with the exceptions in paragraph III, shall be subject to a civil fine, determined and
+30 enforcedbythedepartmentoflabor.
+31 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

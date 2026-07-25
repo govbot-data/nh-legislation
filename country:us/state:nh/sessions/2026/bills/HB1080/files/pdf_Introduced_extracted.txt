@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1080-FN-ASINTRODUCED
+2026SESSION
+26-2593
+08/09
+1080-FN
+HOUSEBILL
+ANACT prohibiting the sale of condoms and personal lubricant that contain intentionally
+addedperandpolyfluoroalkylsubstances.
+SPONSORS: Rep. W. Thomas, Hills. 12; Rep. Seibert, Hills. 21; Rep. Vail, Hills. 6; Rep. N.
+Murphy,Hills.12
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the sale of condoms and personal lubricant that contains intentionally added
+perandpolyfluoroalkylsubstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1080-FN-ASINTRODUCED
+26-2593
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the sale of condoms and personal lubricant that contain intentionally
+addedperandpolyfluoroalkylsubstances.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Consumer Products; PFAS Use Restricted; Condoms and Personal
+2 Lubricants. Amend RSA 149-M:64, IV by inserting after subparagraph (i) the following new
+3 subparagraph:
+4 (j) Condomsandpersonallubricants,includingvaginalandanal.
+5 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2593
+11/6/25
+HB1080-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibiting the sale of condoms and personal lubricant that contain intentionally
+addedperandpolyfluoroalkylsubstances.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

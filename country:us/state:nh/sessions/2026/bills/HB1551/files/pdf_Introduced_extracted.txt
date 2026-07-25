@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1551-FN-ASINTRODUCED
+2026SESSION
+26-2800
+06/09
+1551-FN
+HOUSEBILL
+ANACT relativetopermanentvehicleregistrations.
+SPONSORS: Rep. Granger, Straf. 2; Rep. Spillane, Rock. 2; Rep. Morse, Merr. 3; Rep. Tom
+Mannion,Hills.1;Rep.Giasson,Hills.29;Sen.McGough,Dist11
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes permanent registration for the owner of a vehicle that is 11 years old or
+older, sets associated fees, prohibits transfer of registration uponownership change, and allows non-
+residentsandentitiestoobtainpermanentregistrationwithresidencydisclaimers
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1551-FN-ASINTRODUCED
+26-2800
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopermanentvehicleregistrations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Permanent Registration; Transfer of Vehicle Ownership. Amend RSA 261 by
+2 insertingaftersection182thefollowingnewsection:
+3 261:183 PermanentRegistration;TransferofVehicleOwnership.
+4 I. The owner of a vehicle that is 11 years old or older, subject to the registration fee as
+5 provided in RSA 261:141, III(a) through III(s), III(v), or III(aa) through III(dd), may permanently
+6 registerthevehicleuponpaymentofa$50registrationfee,and:
+7 (a) Anamountequalto3timesthefeestobecollectedunderRSA261:141,III;
+8 (b) An amount equal to 3 times the fees for registration permits under RSA 261:153 and
+9 154,ifapplicable;and
+10 (c) An amount equal to 3 times the electric vehicle registration fees under RSA 261:141-
+11 c,ifapplicable.
+12 II. Notwithstanding any other provisions of law to the contrary, the registration of a vehicle
+13 permanentlyregisteredunderthissectionshallnotexpire.
+14 III. The owner of a motor vehicle that is permanently registered under this section is not
+15 subject to additional registration fees or to other motor vehicle registration fees described in this
+16 sectionforaslongastheownerownsthevehicle.
+17 IV.(a) Thepermanentregistrationofavehicleunderthissectionmaynotbetransferredtoa
+18 new owner. If the vehicle is transferred to a new owner, the department shall cancel the vehicle’s
+19 permanentregistration.
+20 (b) Upon transfer of a vehicle registered under this section to a new owner, the new
+21 owner shall apply for a certificate of title under RSA 261:4 and register the vehicle under RSA
+22 261:40,andmayapplyforanewpermanentregistrationunderthissection.
+23 V.(a) Notwithstanding RSA 261:45 or any other law to the contrary, a permanent
+24 registration may be granted to any natural person, corporation, limited liability company,
+25 partnership, trust, or unincorporated association whether or not the vehicle is garaged in this state,
+26 andtoanynaturalpersonwhetherornottheyarearesidentofthisstate.
+27 (b) If the person is not a resident in this state, the registration granted under this
+28 section shall not be used to establish residency as defined by RSA 21:6 or 21:6-a, nor domicile as
+29 defined by RSA 654:1. Such a registration certificate shall clearly indicate that the person is not a
+30 resident by including the phrase “NON-RESIDENT PERMANENT REGISTRATION” on the face of
+31 thecertificate.
+
+HB1551-FN-ASINTRODUCED
+-Page2-
+1 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2800
+12/2/25
+HB1551-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetopermanentvehicleregistrations.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableDecrease
+RevenueFund(s) HighwayFund
+Expenditures* $0 $0 IndeterminableDecrease
+FundingSource(s) HighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 IndeterminableDecrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill, effectiveJanuary1, 2027, establishes permanent registrationfor theowner of a vehicle
+that is 11 years old or older. The fee for such a registration would be $50, plus three times (3x)
+the amount to be collected under RSA 261:141, III (state registration), and if applicable, three
+times (3x) the fees for RSA 261:153-4 (municipal registration) and RSA 261-141-c (state electric
+vehicle registration). It is assumed that the permanent registration option would be voluntary
+and to the extent registrants who choose the permanent registration would no longer renew
+annually, the Department of Safety states future highway fund and local revenues would
+decrease over time as annual registration fees are no longer collected from those vehicles. The
+total revenue loss is indeterminable, as it would depend on the number of registrants choosing
+the permanent registration option and the timing of their participation. Also, pursuant to RSA
+235:23 (“Apportionment A”), 12 percent of highway fund road toll and motor vehicle fee revenue
+collected is distributed to municipalities in the year following collection. Therefore, this bill
+wouldalsoreducestateexpendituresandlocalrevenuebyanindeterminableamountinFY2028
+
+and beyond. For context, the number of vehicles falling within the parameters of this proposal
+wasasfollows:
+2023:117,418newregistrationsand546,088renewals
+2024:120,861newregistrationsand555,924renewals
+TheDepartmenthasnotidentifiedanycoststoimplementthisbill.
+AGENCIESCONTACTED:
+DepartmentofSafety

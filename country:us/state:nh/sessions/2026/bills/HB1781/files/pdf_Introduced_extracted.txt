@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1781-FN-ASINTRODUCED
+2026SESSION
+26-3075
+09/08
+1781-FN
+HOUSEBILL
+ANACT relativetochildsupportobligationsduringpostsecondaryeducation.
+SPONSORS: Rep.Burton,Straf.10
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill extends parental child support obligations to potentially include payment for post-high
+schooleducation,includingcollegetuition.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1781-FN-ASINTRODUCED
+26-3075
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetochildsupportobligationsduringpostsecondaryeducation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ParentalRightsandResponsibilities;Support. AmendRSA461-A:14,IVtoreadasfollows:
+2 IV. The amount of a child support obligation shall remain as stated in the order until the
+3 dependentchildforwhomsupportisorderedmarries,orbecomesamemberofthearmedservices,or
+4 is emancipated pursuant to an order of emancipation under RSA 461-B, or reaches the age of 18
+5 years,unlessthechildisstillafull-timestudentatasecondaryorelementaryschool,charterschool,
+6 [or] a home education program in conformity with RSA 193-A at the age of 18, or college or other
+7 post-secondary education, subject to paragraph V, then child support shall continue until the
+8 child graduates or until [2 months after] the child reaches the age of [19] 22, whichever is first, at
+9 which time the child support obligation, including all educational support obligations, shall
+10 terminate without further legal action. If the parties have a child with disabilities, the court may
+11 initiate or continue the child support obligation after the child reaches the age of 18. No child
+12 support order for a child with disabilities which becomes effective after July 9, 2013 may continue
+13 after the child reaches age 21 or no longer qualifies as a child with a disability, as defined in RSA
+14 186-C:2, I, who is receiving special education or special education and related services as identified
+15 bythechild'sschooldistrict.
+16 2 ParentalRightsandResponsibilities;Support. AmendRSA461-A:14,Vtoreadasfollows:
+17 V. No child support order shall require a parent to contribute to an adult child's [college
+18 expenses or other] educational expenses beyond the completion of [high school] college, except as
+19 providedinRSA461-A:21.
+20 3 Parental Rights and Responsibilities; Agreement on Post-College Expenses. Amend RSA 461-
+21 A:21toreadasfollows:
+22 461-A:21 Agreement on Post-College Expenses. Parents mayagree to contributeto their child's
+23 post-college educational expenses or other educational expenses beyond the completion of [high
+24 school]collegeaspartofastipulateddecree,signedbybothparentsandapprovedbythecourt. The
+25 agreed-on contribution may be made by one or both parents. The agreement may provide for
+26 contributionstoanaccounttosavefor[college]educationalexpenses,fortheuseofanasset,orfor
+27 payment of educational expenses as incurred. Any such agreement shall specify the amount of the
+28 contribution,apercentage,oraformulatodeterminetheamountofthecontribution.
+29 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3075
+Revised02/10/2026
+HB1781-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetochildsupportobligationsduringpostsecondaryeducation.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$7,000-$17,000
+generalfunds;
+Expenditures* $0 $13,000- $0 $0
+$33,000federal
+funds
+FundingSource(s) Generalfunds,federalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+ThisbillamendsRSA461-Abymakingthefollowingchangestochildsupportlaws. Thebill:
+· Removes the portion of the statute that caps child support at two months after a child’s
+19thbirthday,replacingitwithacapat22yearsold;
+· Provides that support may continue through college or other post-secondary education,
+subjecttoRSA461-A:14,V;
+· States that no child support order shall require a parent to contribute to an adult child’s
+college expenses or other educational expense beyond the completion of college, except as
+providedinRSA461-A:21;and
+· Provideguidanceonhowparentscanagreetocoverpost-collegeeducationalexpense.
+The Department of Health and Human Services anticipates additional costs associated with
+changing agency systems. To fulfill its statutory duty to enforce child support orders, the
+Department relies on various procedures and automated systems to set up and track orders for
+enforcement. Any changes to the Department’s procedure in enforcement remedies may require
+changes to the New England Child Support Enforcement System (NECSES). The Department
+estimates the one-time cost for system changes to be $20,000-$50,000. These costs will be
+fundedwith66percentfederalfundsand34percentstategeneralfunds.
+
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

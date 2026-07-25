@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER275
+SB624-FN-FINALVERSION
+03/05/2026 0843s
+23Apr2026...1499h
+14May2026...1846h
+06/04/2026 2152EBA
+2026SESSION
+26-2219
+09/08
+624-FN
+SENATEBILL
+ANACT restricting access to certain hemp-derived products and establishing the offenses of
+criminaladulterationanddistributionofadulteratedcontrolledsubstances.
+SPONSORS: Sen. Gannon, Dist 23; Rep. Litchfield, Rock. 32; Rep. M. Pearson, Rock. 34; Rep.
+Bernardy,Rock.36
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Prohibitscertainhemp-derivedproducts,directsliquorlicenseestocomplywiththeprohibition,and
+amendsthedefinitionofhemp.
+II. Establishes the offenses of criminal adulteration and distribution of adulterated controlled
+substances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER275
+SB624-FN-FINALVERSION
+03/05/2026 0843s
+23Apr2026...1499h
+14May2026...1846h
+06/04/2026 2152EBA 26-2219
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restricting access to certain hemp-derived products and establishing the offenses of
+criminaladulterationanddistributionofadulteratedcontrolledsubstances.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 275:1 Hemp;Definition. AmendRSA439-A:2,Vtoreadasfollows:
+2 V. "Hemp"meanstheplantCannabissativaL.andanypartoftheplant,[whethergrowingornot,
+3 with a delta-9 tetrahydrocannabinol concentration (THC) of not more than 0.3 percent on a dry weight
+4 basis] includingtheseedsthereofandallderivatives,extracts,cannabinoids,isomers,acids,salts,and
+5 saltsofisomers,whethergrowingornot,withatotaltetrahydrocannabinolsconcentration(including
+6 tetrahydrocannabinolicacid)ofnotmorethan0.3percentonadryweightbasis.
+7 275:2 Hemp;Prohibitions. AmendRSA439-A:4toreadasfollows:
+8 439-A:4 Hemp-DerivedProductsContainingTHCProhibited.
+9 Nothinginthischaptershallbeconstruedtoauthorizethesaleofproductsthatarederivedfromhemp
+10 which contain natural or synthetic tetrahydrocannabinol (THC) greater than 0.3 percent on a dry weight
+11 basis, which appear in any formulation, including delta-8 THC, delta-9 THC,tetrahydrocannabinolicacid
+12 (THCA),oranyotherTHCisomervariant. Suchproductsareprohibited.
+13 275:3 PremisesRestrictions;UnlawfulPurpose. AmendRSA179:50toreadasfollows:
+14 179:50 UnlawfulPurpose.
+15 I.Nolicenseeshalluse,orallowtobeused,hisorherpremisesforanypurposecontrarytolaw.
+16 II.AlllicenseesshallcomplywiththeprovisionsofRSA439-A:4relativetocertainhemp-derived
+17 productscontainingTHCprohibited.
+18 275:4 New Paragraph; Prohibited Sales. Amend RSA 179:5 by inserting after paragraph II the
+19 followingnewparagraph:
+20 III. No licensee, salesperson, nor any other person, shall sell or give away or cause or allow or
+21 procure to be sold, delivered, or given away any product derived from hemp which contains natural or
+22 synthetic tetrahydrocannabinol (THC) in any amount, which appear in any formulation, including delta-8
+23 THC, delta-9 THC, or any other THC isomer variant or tetrahydrocannabinolic acid (THCA), to a person
+24 undertheageof21.
+25 275:5 LegislativeFindings. Withrespecttosection6ofthisact,thegeneralcourtfindsthat:
+26 I. The presence of unapproved substances in the illicit drug supply poses an immediate and
+27 severethreattothehealthandsafetyofthecitizensofNewHampshire.
+28 II. The state of New Hampshire currently provides widespread access to harm-reduction testing
+29 resources.
+
+CHAPTER275
+SB624-FN-FINALVERSION
+-Page2-
+1 III. Theintentionaladulterationofcontrolledsubstanceswithunapprovedadditivesdemonstrates
+2 arecklessdisregardforhumanlife.
+3 IV. Thedistributionofcontrolledsubstanceswithoutverificationofcontents,giventheavailability
+4 oftestingresources,constitutesasignificantpublicsafetyhazardwarrantingenhancedpenalties.
+5 275:6 New Section; Criminal Adulteration and Distribution of Adulterated Controlled Substances.
+6 AmendRSA318-Bbyinsertingaftersection2-ethefollowingnewsection:
+7 318-B:2-f CriminalAdulterationandDistributionofAdulteratedControlledSubstances.
+8 I. A person is guilty of a class B felony if they knowingly combine, mix, or adulterate a controlled
+9 substance with any substance not approved for human consumption, with the intent to distribute the
+10 resultingmixture. Thestatemayestablishintentthroughthepresenceofprocessingequipment,including
+11 but not limited to, scales, cutting agents, blenders, presses, or the simultaneous possession of a
+12 controlledsubstanceandanunapprovedadditiveinamanufacturingcontext.
+13 II. A person is guilty of a class A felony if they possess with intent to distribute, or distribute, any
+14 controlled substance which they know or have reasonable cause to believe contains an unapproved
+15 additive. For the purposes of this section, "reasonable cause to believe" includes the failure to utilize
+16 accessible harm-reduction testing resources or the distribution of substances in a market known to be
+17 contaminatedwithunapprovedadditives.
+18 III. The penalties provided for in this section shall be in addition to, and not in lieu of, any other
+19 penalties or offenses provided for under this chapter or any other provision of law, and shall not be
+20 construedtolimitthestate'sauthoritytoprosecuteanyotherapplicablecriminaloffense.
+21 275:7 NewParagraph; Unlawful Purpose; Hemp-Derived Products. Amend RSA179:50by inserting
+22 afterparagraphIVthefollowingnewparagraph:
+23 V. AlllicenseesshallcomplywiththeprovisionsofRSA439-A:4relativetocertainhemp-derived
+24 productscontainingTHCprohibited.
+25 275:8 Contingency. IfHB1630ofthe2026regularlegislativesessionbecomeslaw,section3ofthis
+26 actshallnottakeeffectandsection7ofthisactshalltakeeffectJanuary1,2027. IfHB1630ofthe2026
+27 regularlegislativesessiondoesnotbecomelaw,section3ofthisactshalltakeeffectJanuary1,2027and
+28 section7ofthisactshallnottakeeffect.
+29 275:9 EffectiveDate.
+30 I. Sections3and7ofthisactshalltakeeffectasprovidedinsection8ofthisact.
+31 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+Approved:July02,2026
+EffectiveDate:
+I.Sections3&7effectiveasprovidedinsection8
+II.RemaindereffectiveJanuary1,2027

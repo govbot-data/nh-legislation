@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1736 -ASINTRODUCED
+2026SESSION
+26-3098
+06/08
+1736
+HOUSEBILL
+ANACT repealing the authority of the public utilities commission to approve alternative
+formsofregulationforutilities.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the public utilities commission authority to approve and implement alternative
+forms of regulation for investor-owned electric and gas utilities outside of traditional cost-of-service,
+ratebase,andrateofreturnmethods.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1736-ASINTRODUCED
+26-3098
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the authority of the public utilities commission to approve alternative
+formsofregulationforutilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA 374:3-a, relative to alternative forms of regulation and incentive regulations, is
+2 repealed.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

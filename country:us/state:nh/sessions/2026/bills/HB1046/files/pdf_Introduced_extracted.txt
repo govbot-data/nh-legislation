@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1046-FN-ASINTRODUCED
+2026SESSION
+26-2406
+08/09
+1046-FN
+HOUSEBILL
+ANACT enabling a person to carry a firearm on a snowmobile being operated on private
+property.
+SPONSORS: Rep.McFarlane,Graf.18;Rep.Spillane,Rock.2;Rep.J.Smith,Carr.5;Rep.
+Farrington,Straf.8;Rep.DeVito,Rock.8;Rep.SabourinditChoinière,Rock.30;Rep.Wherry,Hills.
+13;Rep.Sellers,Graf.10;Rep.Giasson,Hills.29;Sen.Pearl,Dist17;Sen.Murphy,Dist16;Sen.
+Innis,Dist7;Sen.Lang,Dist2;Sen.Sullivan,Dist18
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablesapersontocarryafirearmonasnowmobilebeingoperatedonprivateproperty.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1046-FN-ASINTRODUCED
+26-2406
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling a person to carry a firearm on a snowmobile being operated on private
+property.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 LoadedFirearms;Snowmobiles. AmendRSA215-C:35toreadasfollows:
+2 215-C:35 LoadedFirearmsForbidden. Nopersonshallcarryonasnowmobile,oratrailertowed
+3 by same, any firearms unless said firearm is unloaded. This section shall not apply to law
+4 enforcement officers carrying firearms in the course of duty or to pistols or revolvers carried by any
+5 person who is not prohibited from possessing a firearm by a New Hampshire statute. This section
+6 shall not apply when the snowmobile is being operated on private property where the
+7 operator has the express or implied permission or license of the landowner or lawful
+8 occupant to be present, provided that such permission does not arise solely by way of a
+9 public right-of-way, public trail, or designated snowmobile corridor. For the purposes of
+10 this section, "unloaded" shall mean that the firearm is not loaded as defined in RSA 207:1,
+11 XIV-a. A firearm shall not be considered to be loaded merely because a magazine, tube, or
+12 other ammunition storage device attached to the firearm contains ammunition, so long as
+13 noroundischambered.
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2406
+10/17/25
+HB1046-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enabling a person to carry a firearm on a snowmobile being operated on private
+property.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

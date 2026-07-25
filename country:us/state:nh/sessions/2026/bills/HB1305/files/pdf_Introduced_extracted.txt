@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1305 -ASINTRODUCED
+2026SESSION
+26-2879
+08/09
+1305
+HOUSEBILL
+ANACT enablingtheuseoftelehealthtodeliverveterinarycare.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Pauer, Hills. 36; Rep. Notter, Hills. 12; Rep.
+Peternel, Carr. 6; Rep. L. Miner, Rock. 7; Rep. Moffett, Merr. 4; Rep. S. Smith,
+Sull. 3; Sen. Gannon, Dist 23; Sen. McGough, Dist 11; Sen. Lang, Dist 2; Sen.
+Sullivan,Dist18
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablestheuseoftelehealthtodeliverveterinarycare.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1305-ASINTRODUCED
+26-2879
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enablingtheuseoftelehealthtodeliverveterinarycare.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Veterinary Telehealth. Amend RSA 332-B by inserting after section 20 the
+2 followingnewsection:
+3 332-B:21 VeterinaryTelehealth.
+4 I. As used in this section “veterinary telehealth” means the use of communications
+5 technologiestoprovideveterinarymedicalcareremotely.
+6 II. A veterinarian who holds a current license to practice veterinary medicine in this state
+7 maypracticeveterinarytelehealth.
+8 III. Subject to the judgment of a licensed veterinarian, a veterinarian-client-patient
+9 relationship (VCPR) may be established through veterinary telehealth if the following requirements
+10 aremet:
+11 (a) The veterinarianand client use real-time, audiovisual communicationthrough which
+12 the animal is observed, or the veterinarian obtains current knowledge of the animal patient using
+13 instrumentation and diagnostic equipment through which images and medical records may be
+14 transmitted electronically. Real-time video engagement is not required for the delivery of
+15 telemedicineservicesafteraVCPRisestablished.
+16 (b) If relevant medical records exist from a previous in-person visit and are available to
+17 the client, the records, including diagnostic data if available, may be transmitted electronically to
+18 enabletheveterinariantoobtainhistoricalknowledgeoftheanimal.
+19 (c) The veterinarian obtains from the client a signed and dated statement of consent
+20 includingacknowledgmentofthefollowing:
+21 (1) The same standards of care under the state veterinary practice act and
+22 correspondingregulationsapplytotelemedicineandin-personveterinarymedicalservices;and
+23 (2) The client has the option to choose an in-person visit rather than a telemedicine
+24 service.
+25 IV. If a veterinarian practicing telehealth conducts a patient evaluation sufficient to
+26 diagnose and treat the patient, the veterinarian is not required to research a patient’s medical
+27 historyorconductaphysicalexaminationofthepatientbeforeusingveterinarytelehealthtoprovide
+28 aveterinaryhealthcareservicetothepatient.
+29 V. A veterinarian practicing veterinary telehealth may order, prescribe, or make available
+30 medicinaldrugsprovidedtheprescriptioncomplieswithstateandfederallaw.
+31 VI. Aveterinarianpracticingveterinarytelehealthshalldothefollowing:
+
+HB1305 -ASINTRODUCED
+-Page2-
+1 (a) Maintainconfidentialityandprivacyprotectionfortheclientandpatient;
+2 (b) Provide the client with instructions for how to receive patient follow-up care or
+3 assistance in the event the veterinarian and client are unable to communicate because of a
+4 technologicalorequipmentfailureorifthereisanadversereactiontotreatment;
+5 (c) Inform the client that if medication is prescribed the client may obtain a prescription
+6 thatmaybefilledatthepharmacyofhisorherchoice;
+7 (d) Be familiar with available veterinary resources, including emergency resources, near
+8 thepatient’slocationandbeabletoprovidetheclientwithalistofnearbyveterinarianswhomaybe
+9 abletoseethepatientinpersonupontherequestoftheclient;
+10 (e) Complywithstateandfederallawsandregulations;and
+11 (f) Keep, maintain, and make available a summary of the patient record of a
+12 telemedicine visit in accordance with records requirements for the provision of in-person veterinary
+13 medicalservices.
+14 VII. A veterinarian may not prescribe a controlled substance without an in-person physical
+15 examination of the patient, except for limited dosage deemed essential by the veterinarian for
+16 veterinaryhospiceorpalliativecareor tomaintainananimal’ssafetyduringtransporttoaclinic for
+17 in-personexamination.
+18 VIII. A veterinarian may not use veterinary telehealth to issue an international or
+19 interstatetravelcertificateoracertificateofveterinaryinspection.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage

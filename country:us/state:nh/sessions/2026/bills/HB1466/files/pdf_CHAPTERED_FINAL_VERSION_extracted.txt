@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER169
+HB1466-FN-FINALVERSION
+19Feb2026...0382h
+2026SESSION
+26-3073
+06/07
+1466-FN
+HOUSEBILL
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+SPONSORS: Rep. T. Walsh, Merr. 10; Rep. Hill, Merr. 2; Rep. Veilleux, Hills. 34; Rep. Coker, Belk.
+2
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Adds an exemption from certificate of title requirements for boat trailers over 3,001 pounds if their
+manufacturer’smodelyearismorethan10yearsold.
+II. Allowsapersonwhoownsatitle-exemptvehicletheabilitytovoluntarilyrequestatitle.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER169
+HB1466-FN-FINALVERSION
+19Feb2026...0382h 26-3073
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 169:1 ExemptedVehicles. AmendRSA261:3,I(j)toreadasfollows:
+2 (j) Trailers with gross weight of less than 3,001 pounds,andanyboattrailerover3,001
+3 poundswhosemanufacturer’smodelyearisover10yearsold;
+4 169:2 New Paragraph; Certificate of Title; Exempted Vehicle; Voluntary Certificate of Title. Amend
+5 RSA261:3byinsertingafterparagraphIIthefollowingnewparagraph:
+6 III. For any vehicle where a certificate of title need not be obtained pursuant to this section, a
+7 person may obtain a voluntary title for such vehicle by submitting to the department a previously issued,
+8 current or expired New Hampshire certificate of registration, a valid out-of-state certificate of title, an
+9 application for a certificate of title, or a current New Hampshire vehicle identification number verification
+10 form as prescribed by the director. For the purposes of this section, a temporary registration issued
+11 pursuant to RSA 261:57 shall not meet the requirement of a previously issued New Hampshire certificate
+12 ofregistration.
+13 169:3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June19,2026
+EffectiveDate:August18,2026

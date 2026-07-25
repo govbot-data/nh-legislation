@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1236-FN-VERSIONADOPTEDBYBOTHBODIES
+05/07/2026 1768s
+2026SESSION
+26-3039
+09/06
+1236-FN
+HOUSEBILL
+ANACT relativetotheuseofbody-worncamerasincountydepartmentsofcorrections.
+SPONSORS: Rep.Scherr,Rock.26
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill authorizes a county department of corrections to utilize body-worn cameras in carrying
+outitsfunctionsbothwithinandoutsideacorrectionalfacility.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1236-FN-VERSIONADOPTEDBYBOTHBODIES
+05/07/2026 1768s 26-3039
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofbody-worncamerasincountydepartmentsofcorrections.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; County Department of Corrections; Body-worn Cameras. Amend RSA 30-B:1 by
+2 insertingafterparagraphIIIthefollowingnewparagraph:
+3 IV. A county is authorized to utilize body-worn cameras pursuant to RSA 105-D in carrying
+4 outitsfunctionsbothwithinandoutsideacorrectionalfacility.
+5 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3039
+10/27/25
+HB1236-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetorecordingsofcustodialinterrogations.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund,HighwayFund,andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill, effective January 1, 2027, requires custodial interrogations to be recorded and
+precludes admissibility of unrecorded custodial interrogations in criminal or juvenile matters,
+absent a reasonable justification. Based on information provided by the Department of Safety,
+Department of Corrections, New Hampshire Association of Counties, and New Hampshire
+Municipal Association, there may be costs at all levels (state, local, and county) for law
+enforcement agencies to adequately record all custodial interrogations. Potential costs include
+equipment, information technology, and training. Potential costs would vary by agency,
+dependingonthepoliciestheycurrentlyhaveinplace.
+AGENCIESCONTACTED:
+Department of Safety, Department of Corrections, New Hampshire Association of Counties, and
+NewHampshireMunicipalAssociation

@@ -1,0 +1,740 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1491 -ASINTRODUCED
+2026SESSION
+26-2397
+05/08
+1491
+HOUSEBILL
+ANACT relativetopooledriskmanagementprograms.
+SPONSORS: Rep. Hunt, Ches. 14; Rep. Porcelli, Rock. 19; Sen. Innis, Dist 7; Sen. Perkins
+Kwoka,Dist21
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Provides for regulation of assessment pooled risk management programs by the secretary of
+stateandadvancepremiumpooledriskmanagementprogramsbytheinsurancedepartment.
+II. Requires advance premium pooled risk management programs to be licensed by the
+insurancedepartment.
+III. Requires advance premium pooled risk management programs to seek to maintain certain
+amounts in excess or stop loss coverage, unless the insurance commissioner determines that a lesser
+amountisappropriate.
+IV. Allows the insurance commissioner to examine the financials of advance premium pooled
+riskmanagementprogramsundercertainconditions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1491-ASINTRODUCED
+26-2397
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopooledriskmanagementprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Pooled Risk; Title Change. The chapter heading of RSA 5-B is repealed and reenacted to read
+2 asfollows:
+3 ASSESSMENTPOOLEDRISKMANAGEMENTPROGRAMS
+4 2 AssessmentPooledRiskManagementPrograms. AmendRSA5-B:1toreadasfollows:
+5 5-B:1 Purpose. The purpose of this chapter is to provide for the establishment of assessment
+6 pooled risk management programs and to affirm the status of such programs established for the
+7 benefitofpoliticalsubdivisionsofthestate. Thelegislaturefindsanddeterminesthatinsuranceand
+8 risk management is essential to the proper functioning of political subdivisions; that risk
+9 management can be achieved through purchase of traditional insurance or by participation in
+10 assessment pooled risk management programs established for the benefit of political subdivisions;
+11 that pooled risk management is an essential governmental function by providing focused public
+12 sector loss prevention programs, accrual of interest and dividend earnings which may be returned to
+13 the public benefit and establishment of costs predicated solely on the actual experience of political
+14 subdivisions within the state; that the resources of political subdivisions are presently burdened by
+15 the securing of insurance protection through standard carriers; and that assessment pooled risk
+16 management programs which meet the standards established by this chapter should not be subject
+17 toinsuranceregulationandtaxationbythestate.
+18 3 New Paragraphs; Pooled Risk Management; Definitions. Amend RSA 5-B:2 by inserting the
+19 followingnewparagraphsafterparagraphIV:
+20 V. “Administration”, as used in RSA 5-B:5, I(c), means reasonable expenses for risk
+21 management, including processing, evaluation, and settlement services incurred in the payment of
+22 claims and other related losses, wellness programs, and for auditor, actuarial, and accounting
+23 services for administration of the pooled risk program. The reasonability of an expense for
+24 administration under this chapter may be determined in an examination or administrative hearing
+25 commencedbythesecretaryofstatepursuanttoRSA5-B:4-a.
+26 VI. “Reserves” means claims reserves (case reserves and incurred but not reported (IBNR
+27 reserves)),contributiondeficiencyreserves,andcontingencyreserves. “Contingencyreserves”means
+28 the amount of surplus to be retained by the pooled risk management program for the upcoming plan
+29 year as may be reasonably established and subsequently required to cover expected and unforeseen
+30 orextraordinaryclaimandadministrativelossesandliabilities.
+31 VII. “Excessinsurance”meansreinsurance.
+
+HB1491 -ASINTRODUCED
+-Page2-
+1 VIII. “Assessments” means a provision that, if the assets of the pooled risk management
+2 program are at any time actuarially determined to be insufficient to discharge its claim and
+3 administrativelossesandliabilitiesandotherlegalobligationsoftheplan,theprogramshall,within
+4 30 days of such a determination, draw from the restricted fund balance accounts under RSA 5-B:5,
+5 I(g) or, as necessary under RSA 5-B:4-b, II, collect additional contributions from its participating
+6 membersfortheamountneededtomakeupthedeficiency.
+7 IX. "Restricted fund balance" means an amount, as specified in RSA 5-B:5, I(g), that may be
+8 heldbyapooledriskmanagementprogramforhealthcoverage,permittedthattheamountisheldin
+9 a restricted account and that the amount shall be used only for the specific purpose of funding
+10 assessmentsunderRSA5-B:4-b,II.
+11 X. “Assessment pooled risk management program” means a pooled risk management
+12 programthatissuesassessablepoliciesorotherwiseretainstherighttoassessmemberstoaddressa
+13 capitalinadequacy.
+14 XI. “Assessablepolicy” means acoveragecontract inwhichthepolicyholdermayberequired
+15 to pay additional funds beyond premium payments if the policy issuer experiences losses such that
+16 itscapitalisinsufficient.
+17 XII. “Advance premium pooled risk management program” means a pooled risk
+18 management program that does not issue assessable policies or retain the right to impose
+19 assessmentsonmembersthatareinadditiontopremiumpayments.
+20 4 Limitation to Assessment Pooled Risk Management Programs. Amend RSA 5-B:3 to read as
+21 follows:
+22 5-B:3 AssessmentPooledRiskManagementProgramsAuthorizedandAffirmed;Membership.
+23 I. A political subdivision, by resolution of its governing body, may establish and enter into
+24 agreements for obtaining or implementing insurance by self-insurance; for obtaining insurance from
+25 any insurer authorized to transact business in this state as an admitted or surplus lines carrier; or
+26 for obtaining insurance secured in accordance with any method provided by law; or for obtaining
+27 insurance by any combination of the provisions of this paragraph. Agreements made pursuant to
+28 this paragraph may provide for pooling of self-insurance reserves, risks, claims and losses, and of
+29 administrative services and expenses associated with them among political subdivisions. To
+30 accomplish the purposes of this chapter, 2 or more political subdivisions may form an association
+31 under the laws of this state or affirm an existing association so formed to develop and administer a
+32 risk management program having as its purposes reducing the risk of its members; safety
+33 engineering; distributing, sharing, and pooling risks; acquiring insurance, excess loss insurance, or
+34 reinsurance;andprocessing,payinganddefendingclaimsagainstthemembersofsuchassociation.
+35 II. RSA 53-A shall not apply to an association formed or affirmed under this chapter, nor to
+36 theparticipationinsuchanassociationbyapoliticalsubdivision.
+
+HB1491 -ASINTRODUCED
+-Page3-
+1 III. Assessment pooled risk management programs established for the benefit of political
+2 subdivisionsmayprovideanyorallofthefollowingcoverages:
+3 (a) Casualty, including general and professional liability; errors and omissions; workers'
+4 compensation and employer's liability; medical payments; or unemployment compensation as
+5 authorizedunderfederallaw.
+6 (b) Property, including marine and inland navigation; transportation; boiler and
+7 machinery;fire;theft;ornaturalhazards.
+8 (c) Vehicle, including any liability or loss arising from the ownership or operation of
+9 vehicles.
+10 (d) Suretyandfidelity.
+11 (e) Environmentalimpairment.
+12 (f) Hospital,medical,surgicalordentalbenefitsforemployeesandtheirdependents.
+13 (g) Life, income maintenance, accidental death and dismemberment, vision loss or
+14 impairment,orlegalbenefitsforemployeesandtheirdependents.
+15 (h) Unanticipatedspecialeducationcostrecovery.
+16 IV. This chapter shall not apply to advance premium pooled risk management
+17 programs.
+18 V. RSA420-Rshallnotapplytoassessmentpooledriskmanagementprograms.
+19 5 Limitation to Assessment Pooled Risk Management Programs. Amend RSA 5-B:4 to read as
+20 follows:
+21 5-B:4 Informational Filing Required; Fee. Assessment pooled risk management programs
+22 established for the benefit of political subdivisions shall make an informational filing, as defined in
+23 RSA 5-B:2, II, with the department and shall pay an annual filing fee of $150. The department may
+24 make requests for additional information necessary to exercise regulatory or enforcement authority
+25 pursuantto,butnotlimitedto,thehearingsproceduresunderRSA421-B:6-613overanypooledrisk
+26 management program formed or affirmed in accordance with this chapter. Pooled workers'
+27 compensation and unemployment compensation programs which are regulated by and which report
+28 to the department of labor and the department of employment security, under RSA 281-A and RSA
+29 282-A,respectively,shallbeexemptfromtherequirements ofthissectionas longastheir operations
+30 andreportsconformtothelawsandrulesadoptedbythosedepartments.
+31 6 New Section; Insolvency or Financial Impairment. Amend RSA 5-B by inserting after section
+32 4-athefollowingnewsection:
+33 5-B:4-b InsolvencyorFinancialImpairment.
+34 I. If at the end of any fiscal month, the contingency reserve of an assessment pooled risk
+35 management program for health coverage is at or below 8 percent of annual paid claims or of an
+36 assessment pooled risk management program for workers' compensation and other property and
+37 casualty lines is at or below 20 percent of annual contributions as determined by the prior year's
+
+HB1491 -ASINTRODUCED
+-Page4-
+1 audited fiscal year financial statements, the assessment pooled risk management program shall
+2 notifyitsmembersinwritingwithin30daysthatapotentialassessmentmaybenecessarypursuant
+3 to RSA 5-B:4-b, II if the pooled risk management program's contingency reserve continues to
+4 decrease and shall submit a written proposed course of action to the secretary of state with respect
+5 to alleviating the contingency reserve deficiency. Any such notification to an assessment pooled risk
+6 management program's members under this section shall include an estimate of the amount of that
+7 potentialassessment.
+8 II. If, at the end of any fiscal month, the contingency reserve of an assessment pooled risk
+9 management program for health coverage is at or below 4 percent of annual paid claims or if an
+10 assessmentpooledriskmanagementprogramforworkers'compensationandotherpropertycasualty
+11 lines is at or below 10 percent of annual contributions, the assessment pooled risk management
+12 program shall notify the secretary of state of the contingency reserve deficiency within 5 business
+13 days. The secretary of state shall notify the program's governing board of the deficiency and shall
+14 havethepowertoissuetothegoverningboardanorderrequiringabatementofthedeficiency.
+15 III. If thegoverningboard fails tocomplywiththeorder within 30days after thedateof the
+16 notice, the secretary of state may apply to and seek from the superior court an order requiring the
+17 assessment pooled risk management program to abate the deficiency or receivership of the program,
+18 asthecircumstancesmayrequire,andauthorizingthesecretaryofstateoranyofficerdesignatedby
+19 thesecretaryofstatetooverseetherequiredabatementorreceivership. Theassessmentpooledrisk
+20 managementprogramshallreimbursethesecretaryofstateforthecostincurredforsuchoversight.
+21 IV. If an assessment pooled risk management program is determined to be insolvent,
+22 financially impaired, or otherwise unable to discharge its claim and administrative losses and
+23 liabilities and other legal obligations of the plan, each participating member of the program shall be
+24 assessed on a pro rata basis calculated by the amount of its annual contribution to satisfy the
+25 amountofthedeficiency.
+26 7 StandardsofOrganizationandOperation. AmendRSA5-B:5through5-B:7toreadasfollows:
+27 5-B:5 StandardsofOrganizationandOperation.
+28 I. Each assessment pooled risk management program shall meet the following standards of
+29 organizationandoperation. Eachprogramshall:
+30 (a) ExistasalegalentityorganizedunderNewHampshirelaw.
+31 (b) Be member-owned, but governed by a board the majority of which is composed of
+32 elected or appointed public officials, officers, or employees. Board members shall not receive
+33 compensation but may be reimbursed for mileage and other reasonable expenses. Board members
+34 shall comply with the provisions of RSA 15-A. Board members shall have a fiduciary
+35 responsibility to the member political subdivisions, which includes the duties of good faith
+36 and loyalty, avoiding conflicts of interest, and managing the pooled risk management
+37 program solely for the benefit of the political subdivisions. Board members shall use a
+
+HB1491 -ASINTRODUCED
+-Page5-
+1 standard of care, diligence, prudence, and skill in the management of the pooled risk
+2 managementprogram.
+3 (c) Return all earnings and surplus in excess of any amounts required for
+4 administration, claims, reserves, and purchase of excess insurance to the participating political
+5 subdivisions.
+6 (d) Provide for an annual audit of financial transactions by an independent certified
+7 public accountant. The audit shall be filed with the department and distributed to participants of
+8 eachpooledriskmanagementprogram.
+9 (e) Be governed by written bylaws which shall detail the terms of eligibility for
+10 participationbypoliticalsubdivisions,thegovernanceoftheprogramandothermattersnecessaryto
+11 the program's operation. Bylaws and any subsequent amendments shall be filed with the
+12 department.
+13 (f) Provide for an annual actuarial evaluation of the assessment pooled risk
+14 management program. The evaluation shall [assess the adequacy of] calculate contributions and
+15 assessments required to fund any such program and shall calculate the reserves necessary to be
+16 maintained to meet expenses of all incurred and incurred but not reported claims and other
+17 projected needs of the plan. The annual actuarial evaluation shall be performed by a member of the
+18 American Academy of Actuaries qualified in the coverage area being evaluated, shall be filed with
+19 thedepartment,andshallbedistributedtoparticipantsofeachpooledriskmanagementprogram.
+20 (g) An assessment pooled risk management program for health coverage may
+21 designate a maximum of 4 percent of the previous fiscal year's contributions that, if
+22 designated, shall be sourced from that pooled risk management program's annual
+23 earnings and surplus as defined in RSA 5-B:5, I(c) and shall be kept in a restricted fund
+24 balance for the specific purpose of funding assessments under RSA 5-B:4-b, II. This
+25 restricted fund balance shall not exceed 4 percent of a pooled risk management program's
+26 previous fiscal year's contributions, shall not be considered in the calculation of a
+27 contingencyreserve,andshall beusedpriorto anymember assessmentsunder RSA5-B:4-b,
+28 II.
+29 (h) Provide notice to all participants of and conduct 2 public hearings for the purpose of
+30 advising of potential rate increases, the reasons for projected rate increases, and to solicit comments
+31 from members regarding the return of surplus, at least 10 days prior to rate setting for each
+32 calendaryear.
+33 (i)(1) For workers' compensation and other property and casualty lines of
+34 coverage, assessment pooled risk management programs shall maintain a contingency
+35 reserve with a minimum of 30 percent of member contributions for the then current fiscal
+36 year and a maximum of 40 percent of member contributions for the then current fiscal
+37 year.
+
+HB1491 -ASINTRODUCED
+-Page6-
+1 (2) For a health line of coverage, pooled risk management programs shall
+2 maintain a contingency reserve with a minimum of 12 percent of member contributions for
+3 the then current fiscal year and a maximum of 16 percent of member contributions for the
+4 thencurrentfiscalyear.
+5 (3) At the end of each fiscal year, if a pooled risk management program's
+6 contingency reserves fall below the minimum level as set forth in this section, the program
+7 shall add to the next calculation of annual member contributions a "contingency reserve
+8 replenishment" equal to that shortfall. This contingency reserve replenishment shall only
+9 be collected from members who participated in the fiscal year for which the replenishment
+10 is calculated and such replenishment may be made after a member has discontinued
+11 membershipintheprogram.
+12 (4) By July 1, 2027, and for every 4 years thereafter, the secretary of state or
+13 their designee shall hold a hearing with all pooled risk management programs and any
+14 affected party to receive input and data regarding the contingency reserve rate ranges
+15 outlined in subparagraphs (i)(1) and (i)(2) above. A report of the findings of the hearing,
+16 which shall include all written testimony and reports submitted during the hearing, and
+17 include any recommendations made by the secretary of state or their designee, shall be
+18 delivered to the governor, senate president, speaker of the house, and the chair of any
+19 committeewithjurisdictionoverpooledriskmanagementprogramsbyOctober1,2027.
+20 (5) The board of directors of a pooled risk management program may, after
+21 vote of the board of directors and written notification to the governing bodies of its
+22 members, submit a written request to the secretary of state for a one-year increase to the
+23 maximums stated in RSA 5-B:5, I(i)(1) of an additional 5 percent for workers'
+24 compensation and other property casualty coverage and RSA 5-B:5, I(i)(2) of an additional
+25 2 percent for health coverage. Any written request pursuant to this section with respect to
+26 any increase of the maximum percentage shall include a resolution of the board of
+27 directors, copies of the written notifications made by the pooled risk management program
+28 to its members governing bodies, a report by a certified auditor of the current financial
+29 position of the program, a detailed analysis explaining the purpose of the temporary
+30 increase, and an actuarial analysis conducted by an actuary with qualifications as
+31 detailed in RSA 5-B:5, I(f) of the impact to the contribution and finances of the program.
+32 The secretary of state shall approve or deny the request within 30 days of receipt of any
+33 suchrequest.
+34 II. If [a] an assessment pooled risk management program fails to provide for an annual
+35 audit or an annual actuarial evaluation, the department shall perform or cause to be performed the
+36 requiredauditorevaluationandshallbereimbursedthecostbytheprogram.
+37 5-B:6 DeclarationofStatus;TaxExemption;Liability.
+
+HB1491 -ASINTRODUCED
+-Page7-
+1 I. Any assessment pooled risk management program meeting the standards required under
+2 this chapter is not an insurance company, reciprocal insurer, or insurer under the laws of this state,
+3 and administration of any activities of the plan shall not constitute doing an insurance business for
+4 purposesofregulationortaxation.
+5 II. Any such program operating under this chapter, whether or not a body corporate, may
+6 sue or be sued; make contracts; hold and dispose of real property; and borrow money, contract debts,
+7 andpledgeassetsinitsname.
+8 III. Participation by a political subdivision in [a] an assessment pooled risk management
+9 program formed and affirmed under this chapter shall not subject any such political subdivision to
+10 any liability to any third party for the acts or omissions of the pooled risk management program or
+11 anyotherpoliticalsubdivisionparticipatingintheprogram.
+12 IV. Any such program operating under this chapter shall publicly and
+13 conspicuously disclose by including a written disclaimer in any and all member
+14 agreements, contracts, bylaws, and contribution quotes and renewals between the program
+15 and its prospective and actual member political subdivisions that, at a minimum, notifies
+16 thepoliticalsubdivisionofthefollowing:
+17 (a) The pooled risk management program does not function like an insurance
+18 companyandisnotaninsurer.
+19 (b) The pooled risk management program, to the extent it is self-insured, does
+20 notprovideguaranteedcostorfixedcostcoverages.
+21 (c) The pooled risk management program may collect from participating
+22 members assessments or replenishments whenever required in the event the program’s
+23 assets are insufficient to discharge its claim and administrative losses and liabilities and
+24 other legal obligations of the plan, in the event of insolvency, or in the event contingency
+25 reservesfallbelowtherequiredminimumunderthischapter.
+26 5-B:7 Confidentiality of Certain Claims Information. Notwithstanding any provision of law to
+27 the contrary, any information of any assessment pooled risk management program formed or
+28 affirmed under this chapter pertaining to claims analysis or claims management shall be privileged
+29 andconfidentialandnotsubjecttodisclosuretoanythirdparty.
+30 8 New Subparagraphs; Insurance; Third Party Administrators; Definitions. Amend RSA 402-
+31 H:1,Ibyinsertingaftersubparagraph(m)thefollowingnewsubparagraphs:
+32 (n) ApooledriskmanagementprogramlicensedpursuanttoRSA420-R:4.
+33 (o) AnassessmentpooledriskmanagementprogramlicensedpursuanttoRSA5-B.
+34 9 Insurance; Licensure of Medical Utilization Review Entities; Licensure or Registration
+35 Required. AmendRSA420-E:2,Itoreadasfollows:
+36 I. Any person, partnership or corporation, other than an insurer, nonprofit service
+37 organization, health maintenance organization, assessment or advance premium pooled risk
+
+HB1491 -ASINTRODUCED
+-Page8-
+1 management program, or an employee of those exempt organizations, that performs medical
+2 utilization review services on behalf of commercial insurers, nonprofit service organizations, health
+3 maintenance organizations, assessment or advance premium pooled risk management
+4 programs, third-party administrators or employers, shall apply for a license to be issued by the
+5 department and shall pay an application fee and an annual license fee. No person, partnership or
+6 corporation, other than an insurer, nonprofit service organization, health maintenance organization,
+7 or the employees of exempt organizations shall perform utilization review services or medical
+8 utilization review services unless the person, partnership, or corporation has received a license in
+9 accordancewiththischapter.
+10 10 Insurance; Portability, Availability, and Renewability of Health Coverage; Disclosure.
+11 AmendRSA420-G:11,IVtoreadasfollows:
+12 IV. The data submission requirements of paragraphs II and II-a shall apply with respect to
+13 claims data for all lives covered by a fully-insured health plan in any market in the state, by any
+14 self-funded plan for state or municipal employees, including any plan maintained under RSA 5-B or
+15 RSA420-R, to anyself-funded planmaintained bytheuniversity system of thestate withrespect to
+16 its employees or its students, and to any self-funded student health benefit plan maintained by an
+17 institution of higher education which provides 4-year bachelor's degree programs and graduate or
+18 professionaldegreeprograms.
+19 11 New Chapter; Advanced Premium Pooled Risk Management Program. Amend RSA by
+20 insertingafterchapter420-Qthefollowingnewchapter:
+21 CHAPTER420-R
+22 ADVANCEPREMIUMPOOLEDRISKMANAGEMENTPROGRAMS
+23 420-R:1 Purpose. The purpose of this chapter is to provide for the establishment of advance
+24 premium pooled risk management programs and to affirm the status of such programs established
+25 for the benefit of political subdivisions of the state. The legislature finds and determines that
+26 insurance and risk management is essential to the proper functioning of political subdivisions; that
+27 risk management can be achieved through the purchase of traditional insurance or by participation
+28 inpooled risk management programs established for thebenefit of political subdivisions; that pooled
+29 risk management is an essential governmental function by providing focused public sector loss
+30 prevention programs, accrual of interest and dividend earnings which may be returned to the public
+31 benefit and establishment of costs predicated solely on the actual experience of political subdivisions
+32 within the state; that the resources of political subdivisions are presently burdened by the securing
+33 of insurance protection through standard carriers; and that pooled risk management programs
+34 which meet the standards established by this chapter should not be subject to taxation by the state
+35 and,exceptasspecificallysetforthinthischapter,shouldnotbesubjecttoinsuranceregulation.
+36 420-R:2 Definitions;ScopeofChapter.
+37 I. Inthischapter:
+
+HB1491 -ASINTRODUCED
+-Page9-
+1 (a) “Advance premium pooled risk management program” means a pooled risk
+2 management program that does not issue assessable policies or retain the right to impose
+3 assessmentsonmembersthatareinadditiontopremiumpayments.
+4 (b) “Assessable policy” means a coverage contract in which the policyholder may be
+5 required to pay additional funds beyond premium payments if the policy issuer experiences losses
+6 suchthatitscapitalisinsufficient,
+7 (c) “Assessment pooled risk management program” means a pooled risk management
+8 programthatissuesassessablepoliciesorotherwiseretainstherighttoassessmemberstoaddressa
+9 capitalinadequacy.
+10 (d) “Commissioner”meanstheinsurancecommissioner.
+11 (e) “Department”meanstheinsurancedepartment.
+12 (f) “Employee representative” means an employee of a member, who shall not be in a
+13 positiontomakeparticipationdecisionsforamember.
+14 (g) “Excessinsurance”meansstoplossinsurance.
+15 (h) “Member” means any political subdivision that participates or may participate in a
+16 pooledriskmanagementprogramunderthischapter.
+17 (i) “Member representative” means a representative of a member who is in a position to
+18 makeparticipationdecisionsforamemberandservingineitheranelectedorappointedposition.
+19 (j) "Political subdivision" means any city, town, county, school district, chartered public
+20 school, village district, school administrative unit, or any district or entity created for a special
+21 purposeadministeredorfundedbyanyoftheabove-namedgovernmentalunits.
+22 (k) “Pooledriskmanagementprogram"or“program”meansanassociationformed under
+23 the laws of this state that operates a program in which 2 or more political subdivisions of the state
+24 enterintoagreementsto:
+25 (1) Obtain or implement insurance by self-insurance, or to obtain insurance from
+26 any insurer authorized to transact business in this state as an admitted or surplus lines carrier, or
+27 to obtain insurance secured in accordance with any method provided by law, or to obtain insurance
+28 byanycombinationofthesemethods;
+29 (2) Provide for pooling of self-insurance reserves, risks, claims and losses, and of
+30 administrativeservicesandexpensesassociatedwiththemamongpoliticalsubdivisions;or
+31 (3) Develop and administer a risk management program having as its purposes
+32 reducing the risk of its members; safety engineering; distributing, sharing, and pooling risks;
+33 acquiring insurance, excess loss insurance, or reinsurance; and processing, paying and defending
+34 claimsagainstthemembersofsuchentityorassociation.
+35 (l) “Program covered person” means a person who is covered under pooled risk
+36 managementprogramcoverage.
+
+HB1491 -ASINTRODUCED
+-Page10-
+1 (m) “Public representative” means a representative of the general public who shall not
+2 be:
+3 (1) Anemployeeofamember;
+4 (2) Inapositiontomakeparticipationdecisionsforamember;or
+5 (3) Connected with the management or be the holder of a material number of shares
+6 of any insurer, insurance holding company, insurance agency or broker. Family members of
+7 employees, persons in a position to make membership decisions and family members of persons
+8 connected with management or holders of a material number of shares of any insurer, insurance
+9 holdingcompany,insuranceagencyorbrokermaynotserveaspublicmembers.
+10 (n) "Risk management" means the defense of claims and indemnification for losses
+11 arisingoutoftheownership,maintenance,andoperationofrealorpersonalpropertyandtheactsor
+12 omissions of officials, employees, and agents; the provision of loss prevention services including, but
+13 not limited to, inspections of property and the training of personnel; and the investigation,
+14 evaluation,andsettlementofclaimsbyandagainstpoliticalsubdivisions.
+15 420-R:3 Advance Premium Pooled Risk Management Programs Authorized; Permissible
+16 Coverages.
+17 I. To accomplish the purposes of this chapter, any 2 or more political subdivisions of this
+18 state may, by resolution of its governing body, form an association under the laws of this state and
+19 establish and enter into agreements constituting an advance premium pooled risk management
+20 program.
+21 II. RSA 53-A shall not apply to an association formed or affirmed under this chapter, nor to
+22 theparticipationinsuchanassociationbyapoliticalsubdivision.
+23 III. Advance premium pooled risk management programs established for the benefit of
+24 politicalsubdivisionsmayprovideanyorallofthefollowingcoverages:
+25 (a) Casualty, including general and professional liability; errors and omissions; workers'
+26 compensation and employer's liability; medical payments; or unemployment compensation as
+27 authorizedunderfederallaw.
+28 (b) Property, including marine and inland navigation; transportation; boiler and
+29 machinery;fire;theft;ornaturalhazards.
+30 (c) Vehicle, including any liability or loss arising from the ownership or operation of
+31 vehicles.
+32 (d) Suretyandfidelity.
+33 (e) Environmentalimpairment.
+34 (f) Hospital, medical, surgical or dental benefits for employees and retirees, and their
+35 dependents.
+36 (g) Life, income maintenance, accidental death and dismemberment, vision loss or
+37 impairment,orlegalbenefitsforemployeesandtheirdependents.
+
+HB1491 -ASINTRODUCED
+-Page11-
+1 (h) Unanticipatedspecialeducationcostrecovery.
+2 420-R:4 LicensureRequired.
+3 I. Any person or legal entity that is organized and functions as an advance premium pooled
+4 risk management program shall apply to the department for a license and shall pay an application
+5 fee and annual license fee of $150. No person, entity or association shall, after July 1, 2026, operate
+6 an advance premium pooled risk management program unless such program has been reviewed for
+7 licensure by the department and been determined to be in compliance with the provisions of this
+8 chapter, including organizational, operational, financial, and reporting requirements. License
+9 renewalapplicationsshallbefiledannuallyonorbeforeSeptember1.
+10 II. Pooled risk management programs that have been established and affirmed prior to July
+11 1, 2026, in accordance with RSA 5-B, and that meet the definition of an advance premium pooled
+12 risk management program under this chapter shall apply to be licensed under this chapter rather
+13 than under RSA 5-B. The programs existing prior to July 1, 2026, shall file a license application
+14 containingtheinformationassetforthinRSA420-R:4,III,onorbeforeSeptember1,2026.
+15 III. Priortoprovidingcoverage,alicenseapplicationshallbefiledwiththecommissionerfor
+16 approval of the advance premium pooled risk management program in a form and manner as
+17 establishedbythecommissioner. Theapplicationmaterialsshallincludeatleastthefollowing:
+18 (a) A copy of the constitution or bylaws of association, trust instrument, or articles of
+19 incorporation.
+20 (b) Thenamesandaddressesofthetrustees,directors,orincorporators.
+21 (c) A copy of the bylaws or trust agreement which governs the operation of the pooled
+22 riskmanagementprogram.
+23 (d) A copy of the policy, contract, certificate, summary plan description, or other
+24 evidenceofthebenefitsandcoveragesprovided.
+25 (e) Acopyofthefidelitybondinanamountequaltonotlessthan10percentofthefunds
+26 handled annually and issued in the name of the pooled risk management program covering its
+27 trustees, directors, employees, administrator, or other individuals managing or handling the funds
+28 or assets of the pooled risk management program. In no case may such bond be less than $1,000 or
+29 more than $500,000, except that the commissioner, after due notice to all interested parties and
+30 opportunity for hearing, and after consideration of the record, may prescribe an amount in excess of
+31 $500,000subjecttothe10percentlimitation.
+32 (f) Acopyofthepooledriskmanagementprogram’sexcessinsuranceagreement,ifany.
+33 (g) A business plan setting out the lines of coverage the program intends to write, the
+34 projected membership amount, a plan of capitalization, and such other plan information as the
+35 commissionermayrequire.
+36 (h) Evidence satisfactory to the commissioner showing that the arrangement will be
+37 operated in accordance with sound actuarial principles. The commissioner shall not approve the
+
+HB1491 -ASINTRODUCED
+-Page12-
+1 arrangement unless the commissioner determines that the plan is designed to provide sufficient
+2 revenues, reserves, and surplus to pay current and future liabilities, as determined in accordance
+3 withsoundactuarialprinciplesandriskbasedcapitalstandardsassetoutinRSA404-F.
+4 (i) Suchadditionalinformationasthecommissionermayrequire.
+5 IV. A license renewal applications withsuch form and content as shall be established by the
+6 commissioner and the license renewal fee shall be filed with the commissioner by September 1 of
+7 eachyear.
+8 V. A person, other than a pooled risk management program, shall not sell, solicit, or
+9 negotiate pooled risk management program coverage in this state for any line of coverage permitted
+10 underthischapterunlessthepersonislicensedforthatlineofcoverageinaccordancewiththisRSA
+11 402-J.
+12 420-R:5 ApplicableRegulatoryStandards.
+13 I. Any advance premium pooled risk management program meeting the standards required
+14 under this chapter is not an insurance company, reciprocal insurer, or insurer under the laws of this
+15 state, and administration of any activities of the plan shall not constitute doing an insurance
+16 business for purposes of regulation or taxation. Pooled risk management programs shall not be
+17 subject to the premium tax under RSA 400-A:32 and shall not be subject to assessment with respect
+18 totheadministrationfundunderRSA400-A:39.
+19 II. Advance premium pooled risk management programs shall be governed by this chapter
+20 and shall be exempt from this title, except for the provisions of: RSA 400-A:16, relative to
+21 investigations;RSA400-A:17through24,relativetohearingsandappeals;RSA400-A:37,relativeto
+22 examinations; RSA 401-B, relative to insurance holding companies; RSA 402:28, relative to the
+23 regulation of investments of insurance companies other than life insurance companies; RSA 402-C,
+24 relative to receivership; RSA 402-J, relative to producer licensing, RSA 402-M, relative to
+25 administrative supervision; RSA 404-F, relative to RBC; RSA 420-G:11, II, II-a, and IV, relative to
+26 thesubmissionofclaimsdatatothedepartment;RSA401-B:3,4,and5relativetoinsuranceholding
+27 companies;andRSA411-A,relativetotheregulationofinvestmentsoflifeinsurancecompanies.
+28 III. RSA5-Bshallnotapplytoadvancepremiumpooledriskmanagementprograms.
+29 IV. Thischaptershallnotapplytoassessmentpooledriskmanagementprograms.
+30 420-R:6 RequirementsofOrganizationandOperation.
+31 I. To meet charter requirements for licensure and to maintain an advance premium pooled
+32 riskmanagementprogram,aprogramshallbe:
+33 (a) Anonprofit;
+34 (b) Member-owned;
+35 (c) EstablishedasalegalentityorganizedunderNewHampshirelaw;and
+
+HB1491 -ASINTRODUCED
+-Page13-
+1 (d) Governed by written bylaws which shall detail the terms of eligibility for
+2 participationbypoliticalsubdivisions,thegovernanceoftheprogramandothermattersnecessaryto
+3 theprogram’soperation.
+4 II. The board of directors, who shall manage the business and affairs of the program, shall
+5 becomprisedof:
+6 (a) For programs offering employee health and welfare benefits under RSA 420-R:43, III
+7 (f)and(g),6memberrepresentatives,6employeerepresentativesandupto3publicrepresentatives;
+8 and
+9 (b) Forallotherprograms,12memberrepresentativeand3publicrepresentatives.
+10 III. Any bylaw developed by the board of directors shall require approval of 2/3 of the
+11 directors.Bylawsandanysubsequentamendmentsshallbefiledwiththecommissioner.
+12 IV. Directors shall not receive compensation but may be reimbursed for mileage and other
+13 reasonableexpenses. DirectorsshallcomplywiththeprovisionsofRSA15-A. Directorsshallhavea
+14 fiduciary responsibility to act in the best interest of the advance premium pooled risk management
+15 program,whichshallincludeadutyofcaretoensureprudentinvestmentanduseofassets,adutyof
+16 loyalty to act to further the purposes and mission of the program, and a duty of obedience to comply
+17 withorganizationalbylawsandapplicablelaw.
+18 V. Any coverages issued by the program shall be on an advance premium basis, and the
+19 bylawsshallnotpermittheissuanceofassessablecoverages.
+20 420-R:7 Approval of Rates. Each advance premium pooled risk management program shall file
+21 with the insurance commissioner a full schedule of the rates to be paid by participating members
+22 and shall obtain the commissioner’s approval prior to implementing any rate changes. The
+23 commissioner may refuse such approval if he or she finds the rates are excessive, inadequate, or
+24 unfairly discriminatory. At least 10 days prior to filing rates with the commissioner, each advance
+25 premium pooled risk management program shall provide notice to all members and conduct 2 public
+26 hearingsforthepurposeofadvisingofpotentialratechanges,thereasonsforprojectedratechanges,
+27 and to solicit comments from members and program covered persons regarding the relative
+28 advantages and disadvantages of pursuing goals of rate stabilization, strengthening capitalization,
+29 orreturningsurplus.
+30 420-R:8 FinancialReporting.
+31 I. Eachadvancepremiumpooledriskmanagementprogramshallfilewiththecommissioner
+32 onMarch1areportverifiedbyanappropriateofficialoftheprogramwhichshallinclude:
+33 (a) The program’s financial statements, including its balance sheet and statement of
+34 income and expenditures for the preceding year, certified by an independent certified public
+35 accountant;
+36 (b) Such other financial information relating to the program’s performance as the
+37 commissionermayrequire.
+
+HB1491 -ASINTRODUCED
+-Page14-
+1 II. The commissioner may prescribe a uniform reporting format for the preparation of the
+2 audited financial statements and may also prescribe a uniform accounting system to be used by
+3 advancepremiumpooledriskmanagementprograms.
+4 III. Eachadvancepremium pooled risk management program shall, inaccordancewith RSA
+5 404-F, file with the commissioner on March 1st, a report verified by an appropriate official of the
+6 program, showing its RBC levels as of the end of the calendar year just ended, in a form and
+7 containingsuchinformationas isrequired bytheRBCinstructions. The commissionershall provide
+8 written guidance on how to apply the RBC instructions to advance premium pooled risk
+9 managementprograms.
+10 420-R:9 MinimumCapital.
+11 I. Each advance premium pooled risk management program shall seek to maintain capital
+12 abovetheRBClevelsrequiredforinsurersunderRSA404-F.
+13 II. To protect the interest of participating members, creditors and the public in the event
+14 that an advance premium pooled risk management program is financially impaired, the
+15 commissioner shall apply the corrective measures and take such other actions as deemed
+16 appropriate under RSA 402-C, RSA 402-M, and RSA 404-F in the same manner as may be taken
+17 againstinsurersunderthoseprovisions.
+18 420-R:10 Guaranty Funds Authorized. With prior approval from the commissioner, a program
+19 may voluntarily implement the following guaranty measures to protect from financial impairment.
+20 In addition, the commissioner may require any of the following guaranty measures if a program’s
+21 RBC is above company action level but less than the product of its authorized control level RBC and
+22 3.0withanegativetrend.
+23 I. Any advance premium pooled risk management program may establish a guaranty fund
+24 out of surplus in any amount not to exceed 1/2 its net surplus by appropriation from its net assets.
+25 Suchguarantyfundshallbeconsideredaspaidupcapitalandbeavailabletomeettheobligationsof
+26 theprogram,butnottopaydividendsortobeotherwisedistributedexcepttomeettheobligationsof
+27 theprogramwhenallotherassetsoftheprogramshallbecomeexhausted.
+28 II. Any advance premium pooled risk management program may create not more than one
+29 guaranty fund by borrowing a sum of money not exceeding $1,000,000 by the issue of certificates of
+30 indebtedness upon such terms as the members shall determine, provided that such certificates shall
+31 notbedividedintoclassesinanywayandthattheholdersofsuchcertificatesshallnotbeentitledto
+32 vote in the direction of the affairs of the program and shall not receive a greater return on their
+33 investment than 10 percent per annum. The commissioner, upon notice to the program and after
+34 hearing its objections, if any, may require any guaranty fund established under this section to be
+35 retiredwhenheorsheshallfinditisnolongerneededforprotectionofcoveredpersons,creditors,or
+36 thegeneralpublic.
+
+HB1491 -ASINTRODUCED
+-Page15-
+1 III. Any advance premium pooled risk management program that has created a guaranty
+2 fund under either of the 2 preceding sections may, with the approval of the insurance commissioner,
+3 reduce or retire such fund in whole or in part, but it may not be otherwise distributed except to pay
+4 theobligationsoftheprogram.
+5 420-R:11 Excess Insurance. Each advance premium pooled risk management program shall
+6 seek to maintain aggregate excess insurance or a deposit with the commissioner of unimpaired
+7 surplus which excess insurance or deposit shall be used in the event that the program’s resources
+8 are exhausted in a given fiscal period. The excess insurance or deposit, or combination of excess
+9 insurance and deposit shall be, at a minimum, in the amount of $5,000,000 unless the commissioner
+10 determinesalesseramountwouldbeadequate.
+11 420-R:12 ReturnofCapital.
+12 I. If, on the last day of the calendar year, a program’s RBC, as measured under the
+13 provisions of RSA 404-F, is more than the product of its authorized control level and 6.0, then the
+14 board of directors shall vote, by April 1 of the succeeding year, on the question whether to make a
+15 return of excess surplus to members through the declaration of a dividend, return of capital, or
+16 returnofpremium.
+17 II. Regardless of its RBC level, any dividend, return of capital, or return of premium
+18 proposed by the board of a program shall be reviewed and approved prior to distribution by the
+19 commissioner under such terms of RSA 401-B:5, II, as are applicable to advance premium pooled
+20 riskmanagementprogramsasdeterminedbythecommissioner.
+21 420-R:13 Examination.
+22 I. The commissioner shall make an examination of each advance premium pooled risk
+23 management program under the terms of RSA 400-A:37 as often as he or she deems necessary, but
+24 notlessfrequentlythanonceinevery5years. Allexaminationsshallbeconductedattheexpenseof
+25 theprogram.
+26 II. Each program shall submit its books and records relating to its operations to such
+27 examinations and in every way facilitate them. For the purpose of examinations, the commissioner
+28 mayissuesubpoenas,administeroathsto,andexaminetheofficersandagentsoftheprogram.
+29 420-R:14 Investments. The assets of any advance premium pooled risk management program
+30 shall be invested is those securities and investments permitted for insurers in this state under RSA
+31 402:28andRSA411-Aasapplicable.
+32 420-R:15 AcquisitionofControlorMerger.
+33 I. An advance premium pooled risk management program may acquire control of or merge
+34 with any other advance premium pooled risk management program licensed in this state by
+35 complying with the provisions of this section and with such terms of RSA 401-B:3 as are applicable
+36 toadvancepremiumpooledriskmanagementprogramsasdeterminedbythecommissioner. Itshall
+37 filewiththecommissioner:
+
+HB1491 -ASINTRODUCED
+-Page16-
+1 (a) A certified copy of the written contract containing in full the terms and conditions of
+2 theconsolidationormerger;
+3 (b) A sworn statement by the president and secretary or corresponding officers of each
+4 program showing the financial condition thereof on a date fixed by the commissioner but not earlier
+5 thanDecember31,nextprecedingthedateofthecontract;
+6 (c) A certificate of such officers, duly verified by their respective oaths, that the
+7 consolidation or merger has been approved by a 2/3 vote of the board of each program, such vote
+8 beingconducted at aregular or special meetingof each board, or, if the program's laws so permit, by
+9 mail;
+10 (d) Evidence that at least 60 days prior to the action of the board of each program, the
+11 text of the contract has been furnished to all members of each program either by mail or by
+12 publicationinfullinanofficialpublicationofeachprogram;and
+13 (e) Any information that a domestic insurer is required to file with the commissioner
+14 under RSA 401-B:3, I through V, that the commissioner deems to be applicable to advance premium
+15 pooledriskmanagementprograms.
+16 II. If the commissioner finds that the contract is in conformity with the provisions of this
+17 section, that the financial statements are correct, that the standards set out in RSA 401-B:3, VI(a)
+18 are met, and that the acquisition or merger is just and equitable to the members of each program,
+19 the commissioner shall approve the contract and issue a certificate to such effect. Upon such
+20 approval, the contract shall be in full force and effect. In case such contract is not approved it shall
+21 be inoperative, and the fact of submission and its contents shall not be disclosed by the
+22 commissioner.
+23 III. Upon a merger becoming effective as provided under this section, all the rights,
+24 franchisesandinterestsofthemergedprogramsinandtoeveryspeciesofproperty,real,personalor
+25 mixed, and things in action thereunto belonging shall be vested in the program resulting from or
+26 remaining after the merger without any other instrument, except that conveyances of real property
+27 may be evidenced by proper deeds, and the title to any real estate or interest therein, vested under
+28 the laws of this state in any of the programs merged, shall not revert or be in any way impaired by
+29 reasonofthemerger,butshallvestabsolutelyintheprogramresultingfromorremainingaftersuch
+30 merger.
+31 420-R:16 StandardsandManagementofaProgramWithinaHoldingCompanySystem.
+32 I. Anadvancepremium pooledrisk managementprogram maybepartof aholdingcompany
+33 system only if all affiliates in the system are advance premium pooled risk management programs
+34 licensedunderthischapter.
+35 II. Any advance premium pooled risk management program that is a part of an advance
+36 premium pooled risk management program holding company system shall register with the
+
+HB1491 -ASINTRODUCED
+-Page17-
+1 commissioner under such terms of RSA 401-B:4 as are applicable to advance premium pooled risk
+2 managementprogramsasdeterminedbythecommissioner.
+3 III. All transactions within an advance premium pooled risk management program holding
+4 company system shall be approved by the commissioner under such terms of RSA 401-B:5, I, as are
+5 applicable to advance premium pooled risk management programs as determined by the
+6 commissioner.
+7 420-R:17 Commissioner’sAdditionalEnforcementAuthority.
+8 I. In addition to the solvency enforcement measures authorized in 420-R:9, II, when the
+9 commissioner, upon investigation, finds that: an advance premium pooled risk management
+10 program has failed to comply with any provision of this chapter; or is not fulfilling its contracts in
+11 good faith; or is conducting business fraudulently or in a manner hazardous to its covered persons,
+12 members, creditors, the public, or the business; or is acting outside its authority; or is operating as
+13 an advance premium pooled risk management program without a license, then the commissioner
+14 shall notify the program of such deficiency or deficiencies and state in writing the reasons for his or
+15 herdissatisfactionandrequiringthatthedeficiencyordeficiencieswhichexistbecorrected.
+16 II. After such notice, the program shall have a 30-day period in which to comply with the
+17 commissioner's request for correction or the submission of a corrective action plan. If the program
+18 fails to comply, the commissioner shall notify the program of such findings of noncompliance and
+19 require the program to show cause, on a date named, why: its license should not be suspended,
+20 revoked, or limited to servicing existing business only; or it should not be subject to a cease and
+21 desist order; or it should not be fined in an amount up to $2,500 per violation; or it should not be
+22 orderedtomakerestitutionorrefundtoanaggrievedperson.
+23 III. Upon hearing, the commissioner shall issue such prohibitionary and mandatory orders
+24 as are reasonably necessary to secure compliance with the terms of this chapter and are within his
+25 orherenforcementpowersasspecifiedinRSA420-R:17,II.
+26 420-R:18 Appeals. All orders and decisions of the commissioner concerning matters within his
+27 orher jurisdictionunder this chapter shall besubject tohearingand appeal as provided inRSA400-
+28 A:17 through 24 and RSA 541. RSA 541:18 shall apply to orders and decisions of the commissioner
+29 affectingtheratesoftheprogram.
+30 420-R:19 Rulemaking Authority. The commissioner may adopt rules in accordance with RSA
+31 541-A,whicharereasonableandnecessarytoadministerandenforcetheprovisionsofthischapter.
+32 420-R:20 Powers;Liability.
+33 I. Any program operating under this chapter, whether or not body corporate, may sue or be
+34 sued; make contracts; hold and dispose of real property; and borrow money, contract debts, and
+35 pledgeassetsinitsname.
+36 II. Participation by a political subdivision in an advance premium pooled risk management
+37 program formed and affirmed under this chapter shall not subject any such political subdivision to
+
+HB1491 -ASINTRODUCED
+-Page18-
+1 any liability to any third party for the acts or omissions of the pooled risk management program or
+2 anyotherpoliticalsubdivisionparticipatingintheprogram.
+3 420-R:21 Confidentiality.
+4 I. Notwithstanding any provision of the law to the contrary, any information of any pooled
+5 risk management program formed or affirmed under this chapter pertaining to claims analysis or
+6 claims management shall be privileged and confidential and not subject to disclosure to any third
+7 party.
+8 II. All reports and schedule of rates, to the extent the information therein is not otherwise
+9 required to be publicly available, which are filed with the commissioner constitute information that
+10 might be damaging to the risk pool management program if made available to competitors, and
+11 therefore shall be kept confidential by the commissioner. This information shall not be made public
+12 or be subject to subpoena, other than by the commissioner and then only for the purpose of
+13 enforcementactions takenbythecommissioner pursuanttothis chapter or theapplicableprovisions
+14 ofTitleXXXVIIasprovidedinRSA420-R:5,II.
+15 420-R:22 Severability. If any provision of this chapter, or the application thereof to any person
+16 or circumstance, is held invalid, such determination shall not affect the provisions or applications of
+17 this chapter which can be given effect without the invalid provision or application, and to that end
+18 theprovisionsofthischapterareseverable.
+19 12 ThirdPartyAdministrators;Exemption. AmendRSA402-H:11-btoreadasfollows:
+20 402-H:11-b Exemption. An association administering [a] an assessment pooled risk
+21 management program operated pursuant to RSA 5-B [or conducting business that is exempt from
+22 taxationundertheInternalRevenueCode,section115]shallnotberequiredtoobtainacertificateof
+23 authority or to meet the other requirements of this chapter for services provided in connection with
+24 the administration of its pooled risk management plans [or its section 115 business], but shall be
+25 required to register with the commissioner pursuant to RSA 402-H:11-a. Assessment pooled risk
+26 managementprogramregistrationmaybeaccomplishedbyprovidingthecommissioneracopyof the
+27 informationalfilingrequiredtobefiledwiththedepartmentofstatepursuanttoRSA5-B:4.
+28 13 EffectiveDate.
+29 I. RSA5-B:5,I(i)asamendedbysection7ofthisactshalltakeeffectJuly1,2026.
+30 II. Theremainderofthisactshalltakeeffectuponitspassage.

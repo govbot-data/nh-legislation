@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1417-FN-ASINTRODUCED
+2026SESSION
+26-3186
+07/06
+1417-FN
+HOUSEBILL
+ANACT enabling municipalities, cities, and towns to adopt a land value tax system and
+makinganappropriationtherefor.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables municipalities, cities, and towns to adopt a land value tax system and
+appropriatesmoneytothedepartmentofrevenueadministrationtohelpimplementsuchsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1417-FN-ASINTRODUCED
+26-3186
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling municipalities, cities, and towns to adopt a land value tax system and
+makinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPurpose. Thegeneralcourtherebyfinds thatallowingmunicipalitiestotaxland
+2 values at a higher rate than improvements can promote efficient land use, expand housing supply,
+3 reduceblightandvacancy,andshiftthetaxburdenawayfrombuildinginvestment.
+4 2 New Subdivision; Land Value Taxation System. Amend RSA 76 by inserting after section 21
+5 thefollowingnewsubdivision:
+6 LandValueTaxationSystem
+7 76:22 Definitions. Inthissubdivision:
+8 I. “Landvalue”meanstheassessedvalueofaparcelofrealpropertyexclusiveofthevalueof
+9 anybuildings,structures,orotherimprovementsontheparcel.
+10 II. “Improvement value” means the assessed value attributable to buildings, structures, and
+11 otherimprovementslocatedonaparcel.
+12 III. “Land value tax" or "LVT" means a municipal property tax system under which land
+13 value and improvement value are assessed separately and taxed at different rates as authorized by
+14 thissubdivision.
+15 IV. “Split-rate tax” means an LVT in which land value is taxed at a higher rate than
+16 improvementvalue.
+17 V. “Purelandtax”meansanLVTinwhichimprovementvalueistaxedatarateofzero.
+18 VI. “Municipality”meansatown,city,orvillagedistrictwithtaxingauthority.
+19 VII. “Department”meansthedepartmentofrevenueadministration.
+20 VIII. “BTLA”meanstheboardoftaxandlandappeals.
+21 76:23 AdoptionAuthority.
+22 I. Notwithstanding any other provision of law to the contrary, a municipality may adopt a
+23 LVTbytheprocedureinRSA76:24toapplytothemunicipalportionofthepropertytaxrate.
+24 II. Adoption of a LVT under this subdivision shall not alter, replace, or reduce the statewide
+25 education property tax or any county tax. Such components shall continue to be assessed and
+26 collectedasprovidedelsewhereinlawontotalassessedvalueunlessotherwiseprovidedbystatute.
+27 76:24 LocalAdoption.
+28 I. Notwithstanding any provision of law to the contrary, a municipality may adopt a LVT by
+29 voteofitslegislativebodyfollowing:
+30 (a) Atleastonepublichearingnoticed14daysinadvance;and
+
+HB1417-FN-ASINTRODUCED
+-Page2-
+1 (b) The publication of a plain-language fiscal and distributional impact statement
+2 preparedbythegoverningbody,withassistancefromtheassessingofficials.
+3 II. Thewarrantarticleorordinanceshallspecify:
+4 (a) Whetherthemunicipalityadoptsasplit-ratetaxorapurelandtax;
+5 (b) The initial tax differential, expressed as separate rates on land value and
+6 improvementvalue,subjecttotheparametersofRSA76:27;and
+7 (c) AtransitionscheduleunderRSA76:28.
+8 III. In towns, adoption shall be by majority vote at an annual or special town meeting. In
+9 cities, adoption shall be by majority vote of the city council subject to any charter-required mayoral
+10 approvalorvetoprocedures.
+11 IV. A municipality may rescind a LVT by the same process after at least 3 tax years of
+12 operation,withatransitionplanunderRSA76:28,III.
+13 76:25 AssessmentStandards;DataTransparency.
+14 I. EachmunicipalityadoptingaLVTshallensureseparatelandandimprovementvaluesfor
+15 every taxable parcel using mass appraisal methods consistent with international association of
+16 assessingofficersstandards,departmentrules,andRSA21-J.
+17 II. Assessing officials shall maintain and annually update a land value map or dataset and
+18 make parcel-level land and improvement values publicly available, subject to privacy protections in
+19 law.
+20 III. The department shall adopt rules, pursuant to RSA 541-A, establishing minimum
+21 uniform standards for land/improvement split assessment, modeling, and ratio studies specific to
+22 LVTmunicipalities.
+23 IV. Equalization studies for LVT municipalities shall separately analyze land and
+24 improvementassessmentlevelsanduniformity.
+25 76:26 Exemptions;CurrentUse;SpecialClasses.
+26 I. All exemptions, credits, and deferrals authorized under state law, including veterans,
+27 elderly, disabled, and hardship/tax-deferral programs, shall remain available and shall be applied
+28 first to the improvement tax, then to the land tax, unless a local vote specifies a different sequence
+29 consistentwithdepartmentrules.
+30 II. Land enrolled in current use under RSA 79-A shall continue to be assessed and taxed as
+31 providedinRSA79-A. ALVTshallapplyonlytovaluenotgovernedbyRSA79-A.
+32 III. Public utility property, tax-increment finance districts, and any special assessment
+33 districts shall be treated in accordance with their respective statutes; municipalities may, by vote,
+34 applyaLVTwithindistrictssolongaspledgedrevenuestothedistrictarepreserved.
+35 76:27 RateSetting;Parameters.
+36 I. Each tax year, the governing body shall set two municipal rates: a land rate and an
+37 improvementrate.
+
+HB1417-FN-ASINTRODUCED
+-Page3-
+1 II. In a split-rate system, the land rate shall be greater than the improvement rate. The
+2 improvementrateshallnotexceedthelandrate.
+3 III. Inapurelandtax,theimprovementrateshallbezero.
+4 IV. Municipalities may set the land rate at any level necessary to raise the amount to be
+5 raised by taxes for municipal purposes, taking into account the improvement rate, exemptions, and
+6 overlays.
+7 V. The department shall provide forms and software support for dual-rate tax setting and
+8 taxbills.
+9 76:28 Transition;RevenueNeutrality.
+10 I. In the first fiscal year a LVT is implemented, the combined municipal tax levy raised
+11 under the LVT shall be revenue-neutral relative to what would have been raised under a uniform
+12 rate,excludingnewappropriationsadoptedcontemporaneously.
+13 II. A municipality may phase in its chosen LVT over 2 to 5 tax years by annually adjusting
+14 therelativelandandimprovementratestowardtheadoptedtarget.
+15 III. A municipality adopting a LVT shall establish by ordinance a circuit breaker, reducing
+16 or deferring the municipal tax on eligible low- and moderate-income taxpayers whose property tax
+17 liability exceeds a threshold percentage of household income. Deferred taxes shall constitute a lien
+18 asprovidedbyRSA80.
+19 IV. Nothing in this section shall limit the use of existing deferral and abatement authorities
+20 underRSA72andRSA76.
+21 76:29 Appeals.
+22 I. Taxpayers may appeal land value and improvement value assessments as provided in
+23 RSA75andRSA76:16-a,andtotheBTLAunderRSA71-B.
+24 II. For LVT municipalities, assessment appeals may challenge the apportionment between
+25 landandimprovementvaluesaswellastotalvalue.
+26 76:30 Administration;Training;Grants.
+27 I. The department shall offer technical assistance and training to municipalities considering
+28 orimplementingaLVT,includingmodelordinances,datastandards,andpubliceducationmaterials.
+29 II. Subject to appropriation, the department may award one-time implementation grants to
+30 municipalitiesfordataconversion,modeling,andtaxpayercommunication.
+31 76:31 Reporting;SunsetReview.
+32 I. EachLVT municipalityshall file anannual report with thedepartment summarizing rate
+33 choices, distributional impacts, building permits, vacancy rates, and land use indicators designated
+34 bythedepartment.
+35 II. On January 1, 2032, the department shall submit a report to the fiscal committees of the
+36 general court, and other applicable committees as determined by the department, evaluating fiscal,
+37 housing,andeconomicoutcomesofthissubdivisionandrecommendanystatutorychanges.
+
+HB1417-FN-ASINTRODUCED
+-Page4-
+1 76:32 Contingency for Education Tax. Nothing in this act shall modify the calculation,
+2 assessment, or collection of the statewide education property tax under RSA 76. Municipal adoption
+3 ofaLVTshallapplyonlytothemunicipalportionofthepropertytax.
+4 76:33 Rulemaking. The department of revenue administration shall adopt rules, pursuant to
+5 RSA 541-A, to implement this act, including assessment standards, equalization studies, billing
+6 formats,andtaxpayercommunicationsrules.
+7 3 Department of Revenue Administration; Appropriation. There is hereby appropriated to the
+8 department of revenue administrationthe sum of $1 for the fiscal year ending June 30, 2027, for the
+9 purpose of implementing and supporting the municipal land value tax program established in RSA
+10 76:22 through RSA 76:33. The governor is authorized to draw a warrant for said sum out of any
+11 moneyinthetreasurynototherwiseappropriated.
+12 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3186
+11/24/25
+HB1417-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enablingmunicipalities,cities,andtownstoadoptalandvaluetaxsystem.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable
+Expenditures* $0 Increase Increase $0
+$1,000,000+ $1,000,000+
+FundingSource(s) GeneralFund
+Appropriations* $0 $1 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+Indeterminable
+Increase
+LocalExpenditures $0 morethan IndeterminableIncrease
+$100,000to
+$500,000orless
+METHODOLOGY:
+Thisbillallowsmunicipalitiestoadoptalandvaluetaxsystem(LVT)andappropriates$1tothe
+Department of Revenue Administration to implement and support the municipal land value tax
+program by developing rulemaking, providing assistance and training to municipalities, creating
+asoftwaresystem,andcompletingtheannualreportingrequirement.
+The Department of Revenue Administration (DRA) states that its current Municipal Tax Rate
+Setting Portal cannot support LVT functions. To meet the new requirements, DRA anticipates
+migratingtotheRIMS platform. Aprecisecostestimaterequires definingsystem requirements,
+but DRA roughly estimates the upgrade for municipal and property operations would exceed $2
+
+million. Therefore, the increase in expenditures is deemed indeterminable. DRA also notes the
+billdoesnotspecifythefirstapplicabletaxyear.
+Municipalities that adopt a land value tax (LVT) system will experience a redistribution of the
+tax burden rather than an increase in overall revenue. The New Hampshire Municipal
+Association (NHMA) states implementing either a pure or split-rate LVT requires a
+comprehensive system for accurately and consistently assessing land values separately from
+improvements. This will likely lead to increased municipal expenditures for software and
+potentially additional personnel. The adoption of an LVT is also expected to result in more
+assessment appeals, raising administrative and legal costs. Transition costs may range from
+$100,000 to $500,000 depending on the municipality’s size, while ongoing costs remain
+indeterminableduetoinsufficientdata.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandNewHampshireMunicipalAssociation

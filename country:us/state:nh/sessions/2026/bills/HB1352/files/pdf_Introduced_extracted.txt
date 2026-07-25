@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1352 -ASINTRODUCED
+2026SESSION
+26-3155
+12/06
+1352
+HOUSEBILL
+ANACT relative to payment and dispute resolution for medical bills under workers
+compensation.
+SPONSORS: Rep.MacKenzie,Hills.40
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill extends the amount of time insurance carriers, self-insurers, or payors acting on behalf
+of an insurance carrier or self-insurer have to pay uncontested claims, and establishes an optional
+mediation process where claims are contested. The bill also modifies the reasonable effort standard
+for resolving claims with a good faith standard, and increases civil penalties for failure to engage in
+goodfaitheffortsrelativetopaymentofclaims.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1352-ASINTRODUCED
+26-3155
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to payment and dispute resolution for medical bills under workers
+compensation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Payment for Reasonable Value of Services; Dispute Resolution. Amend RSA 281-A:24, I to
+2 readasfollows:
+3 I.(a) The employer or the employer's insurance carrier shall pay the reasonable value of
+4 medicalservicesprovidedunderthischapter.
+5 (b) The health care provider shall have the burden of establishing that its bill for
+6 servicesisreasonable.
+7 (c) [Effort]Agoodfaitheffortshallbemadetoresolveanydisputeastothereasonable
+8 value of [service] services prior to applying to the commissioner for resolution of such a dispute. To
+9 expedite the resolution of a dispute, either party may request the appointment of an
+10 impartial mediator, whose role shall be to facilitate communication, define issues and
+11 explore alternatives, and remain neutral for the purpose of helping the parties reach a
+12 mutuallyagreeablesolution.
+13 (d) Whenever an injured employee receives medical or hospital service or other remedial
+14 care under the provisions of this chapter and a dispute arises between the employer or the
+15 employer'sinsurancecarrierandtheperson,firm,orcorporationrenderingsuchserviceorcareasto
+16 the reasonable value of the service or care, the commissioner shall have exclusive jurisdiction to
+17 determine the reasonable value of such service or care. Any interested party may petition for a
+18 hearing and all interested parties shall be entitled to notice and hearing if it is determined that all
+19 [reasonable]goodfaitheffortstoresolvethedisputehavefailed.
+20 (e) The commissioner or the commissioner's authorized representative shall make a
+21 findingastothereasonablevalueofsuchservicesorcarerendered.
+22 (f) Any party in interest aggrieved by such a finding may appeal to the compensation
+23 appealsboardunderRSA281-A:43.
+24 (g) The department of labor shall promulgate rules pursuant to RSA 541-A
+25 relativetotheprocessofmediationdescribedinsubparagraph(c).
+26 2 Medical, Hospital, and Remedial Care; Civil Penalties Increased. Amend RSA 281-A:23, V to
+27 readasfollows:
+28 V.(a)(1) The act of the worker in applying for workers' compensation benefits constitutes
+29 authorization to any physician, hospital, chiropractor, or other medical vendor to supply all relevant
+30 information regarding the worker's occupational injury or illness to the insurer, the insurer's
+
+HB1352 -ASINTRODUCED
+-Page2-
+1 representative, the worker's employer, the worker's representative, the worker's employer's
+2 representative, and the department. Medical information relevant to a claim includes a past history
+3 of complaints of, or treatment of, a condition similar to that presented in the claim. Any party
+4 authorized to request medical information under this subparagraph shall include the following
+5 notice in their request for medical records in bold print in a font size at least 2 points larger than
+6 thatusedintherequest:
+7 "This request is strictly limited to medical information relevant to the occupational injury or
+8 illness that underlies the patient's workers' compensation claim, including any past history of
+9 complaintsof,ortreatmentof,aconditionsimilartothatpresentedintheclaim."
+10 (2) Anypersonwhosuppliesinformationinaccordancewiththisparagraphandwith
+11 rules adopted by the commissioner shall be immune from any liability, civil or criminal, that might
+12 otherwise be incurred for such action. The physician may require evidence from the workers'
+13 representative in his or her representative capacity. This authorization shall be valid for the
+14 durationofthework-relatedinjuryorillness.
+15 (3) The commissioner may assess a civil penalty of up to [$2,500] $5,000 on any
+16 insurance carrier, self-insurer, or payor acting on behalf of such insurance carrier or self-insurer if
+17 any recipient of medical records receives a medical record which is clearly irrelevant to the workers'
+18 compensation claim and sends such record, or a copy of it, to another party not authorized to receive
+19 suchrecord.
+20 (b) The commissioner shall develop a form on which health care providers and health
+21 care facilities shall report medical, surgical or other remedial treatment. The report shall include,
+22 but is not limited to, information relative to the up-to-date medical status of the employee, any
+23 medical information relating to the employee's ability to return to work, whether or not there are
+24 physical restrictions, what those restrictions are, the date of maximum medical improvement, and,
+25 where applicable, the percentage of permanent impairment in accordance with the "Guides to the
+26 Evaluation of Permanent Impairment" published by the American Medical Association and as set
+27 forth in RSA 281-A:32, and any other information to enable the employer or insurance carrier to
+28 determine the benefits, if any, that are due and payable. In addition to the report required under
+29 this section, the health care provider shall furnish a statement confirming that the treatment or
+30 services rendered were reasonable and necessary with respect to the bodily injury sustained. The
+31 statement shall read as follows: "I certify that the narrative descriptions of the principal and
+32 secondarydiagnosisandthemajorproceduresperformedareaccurateandcompletetothebestofmy
+33 knowledge." Thehealthcareprovidershalldateandsignthestatement.
+34 (c) The commissioner may assess a civil penalty of up to [$2,500] $5,000 on any health
+35 care provider who without sufficient cause, as determined by the commissioner, bills an injured
+36 employee or his or her employer for services covered by insurers or self-insurers under this chapter.
+37 There shall be no reimbursement for services rendered, unless the health care provider or health
+
+HB1352 -ASINTRODUCED
+-Page3-
+1 care facility giving medical, surgical, or other remedial treatment furnishes the report required in
+2 subparagraph (b) to the employer, insurance company, or claims adjusting company within 10 days
+3 of the first treatment. First aid treatment is excluded from the 10-day reporting requirement.
+4 Additionally,forgoodcause,ahearingofficermaywaivethe10-dayreportingrequirementandorder
+5 remuneration paid. The employer, claims adjustment company, self-insurer or insurer shall pay the
+6 healthcareproviderorhealthcarefacilitywithin[30]45daysofreceiptofabillforservices.
+7 (d) Any employer, insurance carrier, injured employee, or attorney representing any
+8 such person, who receives any medical report, which includes, but is not limited to, information
+9 relative to the remedial treatment, care and attendance of the injured employee, shall file the report
+10 withthecommissionerwithin15daysafterreceiptofsuchreport. Anymedicalreportwhichhasnot
+11 been previously filed with the commissioner shall not be received in evidence in a contested case
+12 unless the party offering the report has furnished a copy thereof to the opposing party or his
+13 attorneyatleast5dayspriortothehearingatwhichitisoffered. Thehealthcareproviderorhealth
+14 care facility shall also provide to the injured employee, or to his attorney, on demand, a copy of each
+15 medical report. The injured employee shall only be charged an amount reflecting the actual cost to
+16 the health care provider or health care facility in furnishing the copy. Each such health care
+17 provider or health care facility shall provide any additional information relating to the remedial
+18 treatment, care, and attendance of an injured employee that the commissioner may reasonably
+19 requestaspartofitsinvestigationofaclaimforbenefitsunderthischapter. Failuretoprovidesuch
+20 reportsmayresultinimpositionbythecommissionerofacivilpenaltyofupto$2,500.
+21 (e) The commissioner [may] shall assess a civil penalty of up to [$2,500] $5,000 on any
+22 insurance carrier, self-insurer, or payor acting on behalf of such insurance carrier or self-insurer,
+23 which without sufficient cause, as determined by the commissioner, fails, within [30] 45 days after
+24 receiptofamedicalbill:
+25 (1) Tomakepaymentofsuchmedicalbillpursuanttothissection;or
+26 (2) To deny such payment, notifying the health care provider, employee, and labor
+27 department of such denial. This denial shall give a valid reason for the denial and shall advise the
+28 claimantoftherighttopetitionthecommissionerforahearing.
+29 (f) Where an insurance carrier, self-insurer, or payor acting on behalf of such
+30 insurance carrier or self-insurer determines they are responsible for medical bill payments
+31 and fails to make such payment in accordance with subparagraph (e)(1), the insurance
+32 carrier, self-insurer, or payor acting on behalf of such insurance carrier or self-insurer
+33 shall be required within 5 days following the 45 day period defined in subparagraph (e) to
+34 electronicallysubmittothecommissioner:
+35 (1) A notice of determination of their responsibility for medical bill
+36 payments;
+37 (2) Astatementofwhentheclaimwasreceived;and
+
+HB1352 -ASINTRODUCED
+-Page4-
+1 (3) Anexplanationofanysufficientreasonthatmayjustifythedelay.
+2 (A) Any insurance carrier, self-insurer, or payor acting on behalf of such
+3 insurance carrier or self-insurer that fails to electronically submit such information
+4 within the 5 day period following the 45 day period defined in subparagraph (e) shall be
+5 required to notify the commissioner of the disposition of the claim and if payment was
+6 requiredthedatetheclaimwaspaid.
+7 (B) Failure to comply with this subparagraph shall result in a civil
+8 penaltyasdeterminedbythecommissionerinaccordancewithsubparagraph(e).
+9 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

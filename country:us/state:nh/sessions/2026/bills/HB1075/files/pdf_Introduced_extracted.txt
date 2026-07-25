@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1075 -ASINTRODUCED
+2026SESSION
+26-2423
+07/05
+1075
+HOUSEBILL
+ANACT classifying recreational vehicles as a motor vehicle in the context of new vehicle
+arbitrationproceedings.
+SPONSORS: Rep.Flanagan,Hills.45
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill classifies recreational vehicles as a motor vehicle in the context of new vehicle
+arbitrationproceedings.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1075-ASINTRODUCED
+26-2423
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT classifying recreational vehicles as a motor vehicle in the context of new vehicle
+arbitrationproceedings.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 TradeandCommerce;NewMotorVehicleArbitration;Definitions. AmendRSA357-D:2,X(d)-
+2 (e)toreadasfollows:
+3 (d) AnyoffhighwayrecreationalvehicleasdefinedinRSA215-A:1,VI[.];or
+4 (e) AnysnowmobileasdefinedinRSA215-C:1,XVandRSA357-C:1,XXVI[.];or
+5 (f) Recreationalvehicles(RVs).
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

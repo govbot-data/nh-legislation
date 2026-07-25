@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER309
+HB1718-FN-FINALVERSION
+19Feb2026...0582h
+05/07/2026 1791s
+05/14/2026 1909s
+4Jun2026...2157EBA
+2026SESSION
+26-3131
+06/08
+1718-FN
+HOUSEBILL
+ANACT relativetoauthorizingenergystorageinconnectionwithnetmetering.
+SPONSORS: Rep. Vose, Rock. 5; Rep. Cormen, Graf. 15; Rep. Bernardy, Rock. 36; Rep.
+Harrington, Straf. 18; Rep. Mattson, Ches. 18; Rep. McGhee, Hills. 35; Rep.
+Schneller, Hills. 2; Rep. D. Thomas, Rock. 16; Sen. Pearl, Dist 17; Sen. Watters, Dist
+4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds rulemaking authority for the department of energy regarding customer energy storage
+systems, updates terminology, and authorizes the PUC to set compensation terms for energy storage
+exportschargedsolelyfromrenewablesources.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER309
+HB1718-FN-FINALVERSION
+19Feb2026...0582h
+05/07/2026 1791s
+05/14/2026 1909s
+4Jun2026...2157EBA 26-3131
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoauthorizingenergystorageinconnectionwithnetmetering.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 309:1 Limited Electrical Energy Producers Definitions. Amend RSA 362-A:1-a, II-b to read as
+2 follows:
+3 II-b. "Eligible customer-generator" or "customer-generator" means an electric utility customer
+4 who owns, operates, or purchases power from an electrical generating facility either powered by
+5 renewable energy or which employs a heat led combined heat and power system, with a total peak
+6 generating capacity,ormaximumnameplaterating,of up to and including one megawatt, except as
+7 provided for a municipal host as defined in paragraph II-c, that is located behind a retail meter on the
+8 customer'spremises,isinterconnectedandoperatesinparallelwiththeelectricgrid,andisusedtooffset
+9 the customer's own electricity requirements. Energystorage,asdefinedinRSA374-H:1,III,maybe
+10 addedtosuchagenerationfacilitywithoutaffectingthegenerationfacility'ssizedeterminationrelatingto
+11 itseligibilitytonetmeter.Suchenergystorage,ifconfiguredtoallowelectricitytobeexportedtothegrid,
+12 shallbechargedonlyfromsuchgenerationfacility,exceptasprovidedforinRSA362-A:9,XXIV.
+13 Incremental generation added to an existing generation facility, that does not itself qualify for net
+14 metering, shall qualify if such incremental generation meets the qualifications of this paragraph and is
+15 meteredseparatelyfromthe[nonqualifying]non-qualifyingfacility.
+16 309:2 NewParagraph;CustomerEnergyStorageDefinitions. AmendRSA374-H:1byinsertingafter
+17 paragraphIIthefollowingnewparagraph:
+18 II-a. "Department"meansthedepartmentofenergy.
+19 309:3 Customer Energy Storage Systems. Amend the introductory paragraph for RSA 374-H:2, I to
+20 readasfollows:
+21 I. The [commission] departmentshall adopt rules [or approve tariffs] clarifying policy for the
+22 installation[,]andinterconnection[, anduse]of energystoragesystemsbycustomersof utilities,whilethe
+23 commissionmayapprovetariffsandissueordersinadjudicatedproceedingsthatareconsistentwithsuch
+24 rulesandpertaintotheuseofandutilitycompensationforsuchenergystoragesystems.Thedepartment
+25 andthecommission[and] shall incorporate the following principles into the rulesandorders,respectively
+26 [orapprovedtariffs]:
+27 309:4 New Paragraph; Net Metering. Amend RSA 362-A:9 by inserting after paragraph XXIII the
+28 followingnewparagraph:
+29 XXIV. The commission may determine terms and conditions for how a customer-generator may
+30 use and be compensated for exports to the grid from energy storage added to renewable energy
+
+CHAPTER309
+HB1718-FN-FINALVERSION
+-Page2-
+1 generation sources in conjunction with net metering and related tariff provisions. The commission shall
+2 requiresuchenergystorage,ifconfiguredtoallowelectricitytobeexportedtothegrid,tobechargedonly
+3 from such generation facility, unless charging is under the control of an entity other than the customer-
+4 generatororasotherwiseauthorizedbythecommissioninanadjudicatedproceeding.
+5 309:5 Customer Energy Storage; Customer Energy Storage Systems. Amend RSA 374-H:2, II to
+6 readasfollows:
+7 II. Nothinginthissectionaltersorsupersedeseither:
+8 (a) The principles of net energy metering under RSA 362-A:9,excepttoclarifythatthe
+9 commissionhastheauthoritytoallowstorageaspartofthenetmetering;or
+10 (b) Any existing electrical permit requirements or any licensing or certification requirements
+11 forinstallers,manufacturers,orequipment.
+12 309:6 Customer Energy Storage Systems; Department Safety Requirements. Amend RSA 374-H:2,
+13 I(b)toreadasfollows:
+14 (b) New Hampshire's consumers of electricity have a right to install, interconnect, and use
+15 energystoragesystemsontheirproperty,subjecttoappropriatesizeandsafetyrequirementsestablished
+16 bythe[commission]department,withouttheburdenofunnecessaryrestrictionsorregulationsandwithout
+17 unduly discriminatory rates or fees, provided that such storage systems conform to local zoning
+18 ordinancesandbuildingcodes.
+19 309:7 Limited Electrical Energy Producers Definitions. Amend RSA 362-A:1-a, II-b to read as
+20 follows:
+21 II-b. "Eligible customer-generator" or "customer-generator" means an electric utility customer
+22 who owns, operates, or purchases power from an electrical generating facility either powered by
+23 renewable energy or which employs a heat led combined heat and power system, with a total peak
+24 generating capacity,ormaximumnameplaterating,of up to and including one megawatt, except as
+25 provided for a municipal host as defined in paragraph II-c, that is located behind a retail meter on the
+26 customer'spremises,isinterconnectedandoperatesinparallelwiththeelectricgrid,andisusedtooffset
+27 the customer's own electricity requirements. Energystorage,asdefinedinRSA374-H:1,III,maybe
+28 addedtosuchagenerationfacilitywithoutaffectingthegenerationfacility'ssizedeterminationrelatingto
+29 itseligibilitytonetmeter.Suchenergystorage,ifconfiguredtoallowelectricitytobeexportedtothegrid,
+30 shallbechargedonlyfromsuchgenerationfacility,exceptasprovidedforinRSA362-A:9,XXV.
+31 Incremental generation added to an existing generation facility, that does not itself qualify for net
+32 metering, shall qualify if such incremental generation meets the qualifications of this paragraph and is
+33 meteredseparatelyfromthe[nonqualifying]non-qualifyingfacility.
+34 309:8 New Paragraph; Net Metering. Amend RSA 362-A:9 by inserting after paragraph XXIV the
+35 followingnewparagraph:
+36 XXV. The commission may determine terms and conditions for how a customer-generator may
+37 use and be compensated for exports to the grid from energy storage added to renewable energy
+38 generation sources in conjunction with net metering and related tariff provisions. The commission shall
+39 requiresuchenergystorage,ifconfiguredtoallowelectricitytobeexportedtothegrid,tobechargedonly
+
+CHAPTER309
+HB1718-FN-FINALVERSION
+-Page3-
+1 from such generation facility, unless charging is under the control of an entity other than the customer-
+2 generatororasotherwiseauthorizedbythecommissioninanadjudicatedproceeding.
+3 309:9 Contingency. IfHB1742ofthe2026regularlegislativesessionbecomeslaw,sections1and4
+4 of this act shall not take effect and sections 7 and 8 of this act shall take effect January 1, 2027. If HB
+5 1742 of the 2026 regular legislative session does not become law, sections 1 and 4 of this act shall take
+6 effectJanuary1,2027andsections7and8ofthisactshallnottakeeffect.
+7 309:10 EffectiveDate.
+8 I. Sections 1,4,7,and8ofthisactshalltakeeffectasprovidedinsection9ofthisact.
+9 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+Approved:July10,2026
+EffectiveDate:
+I.Sections1,4,7,and8effectiveasprovidedinsection9
+II.RemaindereffectiveJanuary1,2027

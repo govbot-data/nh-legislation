@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1326 -ASINTRODUCED
+2026SESSION
+26-2992
+08/06
+1326
+HOUSEBILL
+ANACT relativetospecialelections.
+SPONSORS: Rep.Long,Hills.26
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresthegovernortodeclareaspecialelectiontofilltheofficeofstaterepresentative
+inacitywardorwardsifthevacancyoccursbetween56and77daysbeforeamunicipalprimary.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1326-ASINTRODUCED
+26-2992
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetospecialelections.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Vacancy;StateRepresentative. AmendRSA661:8,IVtoreadasfollows:
+2 IV. Within 21 days after proof of a vacancy or a request that a vacancy be filled, the
+3 governor, in the case of an executive council vacancy, or the governor and council, in the case of any
+4 other vacancy, shall declare that there shall be a special election which shall be held as provided in
+5 RSA 655:81 and 82 or as provided in RSA 661:8, III. Where a vacancy in the office of state
+6 representative in a district consisting of either a city ward or several city wards occurs
+7 between 56 and 77 days before a municipal primary, the governor shall declare the special
+8 electionwithin24hoursofreceiptofarequestfromthegoverningbodyofsuchcity.
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

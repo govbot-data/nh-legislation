@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1742 -ASINTRODUCED
+2026SESSION
+26-2786
+06/08
+1742
+HOUSEBILL
+ANACT relative to the protection of customer-generators from inadvertent enrollment in
+third-partyelectricitysupplyprograms.
+SPONSORS: Rep. Vose, Rock. 5; Rep. Cormen, Graf. 15; Rep. Harrington, Straf. 18; Rep. Hill,
+Merr. 2; Rep. Notter, Hills. 12; Rep. D. Thomas, Rock. 16; Sen. Avard, Dist 12;
+Sen.Pearl,Dist17;Sen.Watters,Dist4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires electric utilities to restore customer-generators who are inadvertently enrolled
+in a third-party electricity supply program to default service and apply net metering credits
+retroactivelyforupto6months.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1742-ASINTRODUCED
+26-2786
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the protection of customer-generators from inadvertent enrollment in
+third-partyelectricitysupplyprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;InadvertentEnrollmentRestorationforCustomer-Generators. AmendRSA362-
+2 Abyinsertingaftersection9thefollowingnewsection:
+3 362-A:9-a InadvertentEnrollment;RestorationandCompensationforCustomer-Generators.
+4 I. Inthissection:
+5 (a) “Customer-generator”meansacustomer-generatorasdefinedinRSA362-A:1-a,II-b.
+6 (b) “Inadvertent enrollment” means an enrollment of a customer-generator in a third-
+7 party electricity supply program, including participation through community choice aggregation
+8 underRSA53-E,withoutthecustomer-generator’sexplicitconsentorduetoinaccurateutilitydata.
+9 (c) “Default service” means the standard electricity supply service provided by the
+10 electricutilityunderRSA374-F.
+11 II. Upon written notification by a customer-generator or an authorized representative
+12 regardinginadvertentenrollment,theelectricutilityshall:
+13 (a) Investigatethecustomer-generator’senrollmentstatuswithin10businessdays;and
+14 (b) If inadvertent enrollment is confirmed, restore the customer-generator to default
+15 servicewithin5businessdaysofconfirmation.
+16 III. For any period up to 6 months prior to the date of restoration to default service, the
+17 electric utility shall retroactively apply net metering credits for exported kilowatt-hours not credited
+18 because of the inadvertent enrollment. Retroactive compensation shall be calculated using the net
+19 metering tariff in effect for the customer-generator during the period of disruption and applied as a
+20 billcreditorrefundattheutility’sdiscretion.
+21 IV. Thepublicutilitiescommissionmayadoptrules,pursuanttoRSA541-A,asnecessaryto
+22 implementthissection.
+23 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

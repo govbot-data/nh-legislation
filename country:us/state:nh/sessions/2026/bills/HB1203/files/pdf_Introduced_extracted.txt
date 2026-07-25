@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1203-FN-ASINTRODUCED
+2026SESSION
+26-2773
+09/05
+1203-FN
+HOUSEBILL
+ANACT relative to the return of firearms following a not guilty verdict or dismissal of the
+proceeding.
+SPONSORS: Rep.Morse,Merr.3;Rep.Love,Rock.13;Rep.McFarlane,Graf.18;Rep.Tenczar,
+Hills.1;Rep.DeVito,Rock.8;Rep.Giasson,Hills.29;Rep.Thibault,Merr.25
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that in criminal prosecutions that result in not guilty verdicts or that are
+discontinued, the court shall immediately order for the return of any seized firearms or ammunition
+andthatthelawenforcementagencyshallreturnthepropertywithin24hours.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1203-FN-ASINTRODUCED
+26-2773
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the return of firearms following a not guilty verdict or dismissal of the
+proceeding.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Return of Firearms following a Not Guilty Verdict or Discontinued Prosecution. Amend the
+2 introductoryparagraphofRSA159-D:4,IItoreadasfollows:
+3 II. A court shall not be required to request, conduct, or receive the results of a background
+4 checkprior toreturningfirearm propertytoits owner. In a case where the firearm property has
+5 been seized or removed solely due to an order pertaining to a criminal proceeding such as
+6 a bail order, and the case terminates through either the state discontinuing the case or the
+7 case resulting in all verdicts of not guilty, the court shall not request or conduct a
+8 background check and shall immediately order the return of the firearm property, and the
+9 lawenforcementagency shall returnsaidproperty within24 hoursof the order. Shouldany
+10 New Hampshire court require, at its discretion, that a background check be conducted on an
+11 individualpriortothereturnofhisorherfirearmproperty,thefollowingconditionsshallapply:
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2773
+11/5/25
+HB1203-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the return of firearms following a not guilty verdict or dismissal of the
+proceeding.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $45,000 $45,000 $45,000
+FundingSource(s) 75%GeneralFundand25%HighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill requires that in criminal prosecutions resulting in a not guilty verdict, or when charges
+are discontinued, the court shall immediately order the return of any seized firearms or
+ammunition. It further requires the law enforcement agency in possession of the property to
+returntheitemswithin24hoursofthecourt’sorder.
+The Department of Safety states this bill will increase state expenditures by approximately
+$45,000 annually, shared 75 percent General Fund and 25 percent Highway Fund, for overtime
+expenses incurred by the Division of State Police. The 24-hour return requirement would
+occasionally necessitate after-hours or weekend work by evidence custodians to ensure timely
+return of seized firearms. The Department notes this represents a new, unfunded obligation not
+includedinitscurrentappropriation.
+
+Similar to what the Department of Safety states, municipal and county law enforcement
+agencies may also incur additional overtime costs to meet the 24-hour firearm return
+requirement. Theoveralllocalimpactwouldvarybyjurisdictionandisindeterminable.
+TheJudicialBranchstatesanyfiscalimpactfromthisbillcouldbeabsorbedintotheirbudget.
+It is assumed the fiscal impact will begin in FY 2027, with any impact in subsequent years
+incorporatedintotheagency’sbudgetrequest.
+AGENCIESCONTACTED:
+DepartmentofSafetyandJudicialBranch

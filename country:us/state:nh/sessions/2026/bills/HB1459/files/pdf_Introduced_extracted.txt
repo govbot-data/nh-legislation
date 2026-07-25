@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1459-FN-ASINTRODUCED
+2026SESSION
+26-3247
+06/08
+1459-FN
+HOUSEBILL
+ANACT standardizing the application of post-retirement part-time hour limits under the
+NewHampshireretirementsystem.
+SPONSORS: Rep.J.MacDonald,Carr.6;Rep.Crawford,Carr.3;Rep.Maggiore,Rock.23;Rep.
+Rung,Hills.12;Rep.J.Smith,Carr.5;Rep.Peternel,Carr.6
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies and standardizes the application of grandfathered part-time hour limits for
+retirees.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1459-FN-ASINTRODUCED
+26-3247
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT standardizing the application of post-retirement part-time hour limits under the
+NewHampshireretirementsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Aligning Hours. Amend RSA 100-A:1 by inserting after paragraph XXXIV
+2 thefollowingnewparagraph:
+3 XXXIV-a.(a) Notwithstanding paragraph XXXIV or any other provision of law to the
+4 contrary, a retired member of the retirement system who was employed in a position qualifying for
+5 the higher grandfathered hourly limit under 2018, 293:6 (HB 561) and who retired prior to January
+6 1, 2019, shall retain the right to work up to 1,664 hours per calendar year for any participating
+7 employer,providedthat:
+8 (1) The retiree had been employed in a part-time position or positions at the 1,664-
+9 hourlimitasofJanuary1,2019;
+10 (2) The retiree continues to be employed by one or more participating employers
+11 withoutabreakinpart-timeemploymentgreaterthan28days;and
+12 (3) The change of employment doesnot include reinstatement toapositionrequiring
+13 mandatorymembershipunderRSA100-A:3.
+14 (b) For purposes of this paragraph and provided that the retiree meets the conditions of
+15 RSA 100-A:1, XXXIV-a, the grandfathered hourly limit shall continue to apply to successive part-
+16 time positions with participating employers, regardless of changes in job title, duties, or employing
+17 entity.
+18 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3247
+11/30/25
+HB1459-FN-FISCALNOTE
+ASINTRODUCED
+ANACT standardizing the application of post-retirement part-time hour limits under the
+NewHampshireretirementsystem.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+Expenditures $0 IndeterminableIncrease
+*The New Hampshire Retirement System states it is not able to separate the fiscal impact
+of this legislation between county and local government, therefore the fiscal impact is
+showntogetheraspoliticalsubdivisions.
+METHODOLOGY:
+Thisbillallowsretireeswhowerealreadyworkingpart-timeatthehighergrandfatheredlimitof
+1,664 hours per year as of January 1, 2019, to retain that limit even if they change positions or
+employers, provided there is no break inpart-timeemployment longer than28 days and the new
+positiondoesnotrequiremandatoryNewHampshireRetirementSystem(NHRS)membership.
+NHRS states that this change would expand the flexibility for “grandfathered” retirees to move
+between part-time positions without losing the higher hour limit. The fiscal impact is deemed
+indeterminable because it is unclear how many retirees would take advantage of this provision.
+Nonewadministrativecostsareexpected.
+
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireRetirementSystem

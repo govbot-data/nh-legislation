@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1435-FN-ASINTRODUCED
+2026SESSION
+26-2345
+07/08
+1435-FN
+HOUSEBILL
+ANACT relativetochangestotheWinnipesaukeeriverbasincontrolreplacementfund.
+SPONSORS: Rep.Bogert,Belk.5;Rep.St.Clair,Belk.5
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillmakeschangestotheWinnipesaukeeriverbasincontrolreplacementfund.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1435-FN-ASINTRODUCED
+26-2345
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetochangestotheWinnipesaukeeriverbasincontrolreplacementfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Water Management and Protection; Winnipesaukee River Basin Control; Replacement Fund
+2 Established. AmendRSA485-A:51,II-VIIItoreadasfollows:
+3 II. The fund shall be capitalized at an amount equal to [5] 2 percent of the value of the
+4 equipment and other depreciable assets of the treatment facilities. The value of the equipment and
+5 other depreciable assets shall be computed every 5 years, beginning in 1990, and shall be based on
+6 current replacement costs. Notwithstanding any other provision of law to the contrary, this
+7 capitalizationvalueshallapplytothevaluationcommencingonJune30,2024.
+8 III. Each member's share of the total fund capital shall be contributed over a period of 10
+9 years after the initial establishment of the fund and shall be paid as a yearly surcharge to the
+10 member's operating charges. Thereafter, each member's surcharge shall be [prorated] adjusted as
+11 membershipand[design]valuationchangesrequire.
+12 IV. Once a member has fully funded its share of the replacement fund capital, the member
+13 shall make no further contributions until the fund is utilized for repair or replacement of a facility
+14 used by that member or the asset valuation increases such that the fund capitalization increases as
+15 established in paragraphs II and III. Following any expenditure from the fund, 50 percent of the
+16 expenditure shall be replenished by contributions from those members that utilize the facilities
+17 receivingfundingbasedoneachmember'sproportionalusagesofsaidfacilities,and50percentofthe
+18 expenditure shall be shared among all members using their respective percentage assessment for
+19 replacementfundcontributionspursuanttoparagraphIII. Theexpendituresshallbereimbursedby
+20 themembers over a10-year period, or over a shorter period at the discretion of the member, in
+21 additiontothemember'syearlycontributiontothefunduntilthemember'sshareofthefundisfully
+22 restored.
+23 V. If a repair or replacement cost exceeds the value of the fund established for that
+24 particular facility, the repair cost shall be paid out of the portion of the fund established for other
+25 facilities, however, reimbursement to the fund shall always be assessed back to members in
+26 accordancewiththeapportionmentsetforthinparagraphIV.
+27 VI. As new facilities, if any, are added to the system, additional assessments shall be made
+28 tothemembersbenefitingfromthesefacilities,proratedonthebasisofprojecteduse.
+29 VII. If a new member joins the system, the assessments shall be modified to reflect the new
+30 member's proportional benefit from the facilities[, and excess prior payments made by other
+31 members,ifany,shallbecreditedtotheiraccounts].
+
+HB1435-FN-ASINTRODUCED
+-Page2-
+1 VIII. [Allcontractspaidforusingthefundshallbesubmittedtothegovernorandcouncilfor
+2 approval] If a member exits the system or there is consolidation of members, the fund shall
+3 be adjusted to reflect modified projected use of the equipment and other infrastructure,
+4 fundbalances,andexpenditurereimbursementobligations.
+5 2 Water Management and Protection; Winnipesaukee River Basin Control; Replacement Fund
+6 Established. AmendRSA485-A:51,IItoreadasfollows:
+7 II. The fund shall be capitalized at an amount equal to 2 percent of the value of the
+8 equipment and other depreciable assets of the treatment facilities. The value of the equipment and
+9 other depreciable assets shall be computed every 5 years, beginning in 1990, and shall be based on
+10 current replacement costs. [Notwithstanding any other provision of law to the contrary, this
+11 capitalizationvalueshallapplytothevaluationthatoccurredonJune30,2024.]
+12 3 EffectiveDate.
+13 I. Section2ofthisactshalltakeeffectJune30,2029.
+14 II. Theremainderofthisactshalltakeeffectuponitspassage.
+
+LBA
+26-2345
+11/24/25
+HB1435-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetochangestotheWinnipesaukeeriverbasincontrolreplacementfund.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue ($994,340) ($994,340) ($994,340) ($994,340)
+RevenueFund(s) WinnipesaukeeRiverBasinReplacementFund
+Expenditures* Indeterminable Indeterminable Indeterminable Indeterminable
+FundingSource(s) WinnipesaukeeRiverBasinReplacementFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures ($994,340) ($994,340) ($994,340) ($994,340)
+METHODOLOGY:
+This bill reduces the capitalization rate for the Winnipesaukee River Basin Replacement Fund
+from 5% to 2% of the value of depreciable assets, collected over a ten-year period. The bill also
+updates statutory language regarding adjustments when members join, exit, or consolidate
+within the system. This bill will take effect upon passage, with the capitalization assessment
+percentage change beginning on June 30, 2024, and the FY 2025 annual assessment based on
+theFY2025toFY2029currentreplacementcostassetvaluation.
+The Department of Environmental Services states this bill will result in a decrease in state
+revenues, an indeterminable impact on state expenditures, and a decrease in local expenditures
+beginning in FY 2026. Under current law, the Replacement Fund is capitalized through
+assessments on the ten Winnipesaukee River Basin communities. The existing capitalization
+rate collects 5% of depreciable asset value over ten fiscal years, effectively a 0.5% annual
+
+assessment. Based on the FY 2025 to FY 2029 valuation of $314,446,852, annual assessments
+totalapproximately$1,657,234.
+The bill reduces the capitalization percentage to 2% collected over ten fiscal years, effectively a
+0.2% annual assessment. Using the same valuation, annual assessments would total
+approximately $662,894, resulting in an annual reduction of $994,340. Because member
+communitiespay100%oftheReplacementFundassessment,thischangereducesstaterevenues
+in Winnipesaukee River Basin Replacement Fund by $994,340 per year and reduces local
+expendituresbythesameamount.
+Replacement Fund expenditures remain indeterminable as they vary yearly based on repair and
+replacement needs at Winnipesaukee River Basin Program facilities. The bill does not change
+the purpose or operation of the Replacement Fund, so expenditure levels will continue to
+fluctuatebasedonsystemconditions.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

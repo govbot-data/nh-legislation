@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1803-FN-ASINTRODUCED
+2026SESSION
+26-2834
+07/06
+1803-FN
+HOUSEBILL
+ANACT rendering a recipient of an education tax credit scholarship ineligible to receive
+educationfreedomaccountfundsinthesameprogramyear.
+SPONSORS: Rep. Fellows, Graf. 8; Rep. Luneau, Merr. 9; Rep. Damon, Sull. 8; Rep. M.
+Murray, Hills. 37; Rep. K. Murray, Rock. 22; Rep. Hakken-Phillips, Graf. 12; Rep.
+Cornell,Hills.22;Sen.Fenton,Dist10
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits students from receiving funds under the education freedom account program
+andtheeducationtaxscholarshipprograminthesameprogramyear.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1803-FN-ASINTRODUCED
+26-2834
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT rendering a recipient of an education tax credit scholarship ineligible to receive
+educationfreedomaccountfundsinthesameprogramyear.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Taxation; Education Tax Credit; Scholarships. Amend RSA 77-G:2 by
+2 insertingafterparagraphIIthefollowingnewparagraph:
+3 III. No student shall be eligible for a scholarship under this chapter during any program
+4 year in which the student is also eligible for or receiving funds under the education freedom account
+5 program established RSA 194-F:2, or has a remaining fund balance from a prior education freedom
+6 accountprogramyear.
+7 2 Education; Education Freedom Accounts; Program. Amend RSA 194-F:2, II(d) to read as
+8 follows:
+9 (d) Services contracted for and provided by a district public school, chartered public
+10 school, including the virtual learning academy charter school authorized pursuant to RSA
+11 194-B:3-a, public academy, or independent school, including, but not limited to, individual classes
+12 andcurricularactivitiesandprograms.
+13 3 New Paragraph; Education; Education Freedom Accounts; Program. Amend RSA 194-F:2 by
+14 insertingafterparagraphIXthefollowingnewparagraph:
+15 X. No student shall be eligible for funds under this chapter during any program year in
+16 which the student is also eligible for or receiving a scholarship pursuant to the education tax credit
+17 scholarship program established RSA 77-G:2, or has a remaining fund balance from a prior
+18 educationtaxcreditscholarshipprogramyear.
+19 4 Education; Chartered Public Schools; Funding. Amend RSA 194-B:11, I(b)(1)(B) to read as
+20 follows:
+21 (B) For the Virtual Learning Academy Charter School authorized pursuant to
+22 RSA 194-B:3-a, the state shall pay tuition amounts pursuant to RSA 198:40-a, II(a)-(c) and (e), plus
+23 an additional grant of $2,036 directly to the Virtual Learning Academy Charter School for each
+24 eligible full-time enrolled pupil in the chartered public school's ADMA. The state shall pay amounts
+25 required pursuant to RSA 198:40-a, II(d) directly to the resident district. The state shall also pay
+26 tuition amounts pursuant to RSA 198:40-a, II(a) plus an additional grant of $2,036 directly to the
+27 Virtual Learning Academy Charter School for [each full-time equivalent pupil] the full-time
+28 equivalent of each part-time student, provided the student was not a participant in the
+29 education freedom account program under RSA 194:1, VII, or the business tax credit
+30 scholarshipprogramunderRSA77-Gduringthedeterminationyear. BeginningJuly1,2017
+
+HB1803-FN-ASINTRODUCED
+-Page2-
+1 and every July 1 thereafter, the department of education shall adjust the per pupil amount of the
+2 additionalgrantpursuanttoRSA198:40-d.
+3 5 Education; Chartered Public Schools; Funding. Amend RSA 194-B:11, I(b)(2) to read as
+4 follows:
+5 (2) For an online chartered public school which receives its initial authorization to
+6 operate from the state board of education pursuant to RSA 194-B:3-a on or after July 1, 2013, the
+7 state shall pay tuition amounts pursuant to RSA 198:40-a directly to the online chartered public
+8 school for each full-time pupil who is aresident of this statein thechartered public school's ADMA.
+9 In this subparagraph, "online chartered public school" means a chartered public school which
+10 providesthemajorityofitsclassesandinstructionontheInternet.
+11 6 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2834
+Revised1/12/26
+HB1803-FN-FISCALNOTE
+ASINTRODUCED
+ANACT rendering a recipient of an education tax credit scholarship ineligible to receive
+educationfreedomaccountfundsinthesameprogramyear.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 IndeterminableDecrease($500K-$1MPerYear)
+FundingSource(s) EducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s)
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill prohibits students from participating in both the Education Freedom Account Program
+(EFA) and the state’s Education Tax Credit (ETC) Program, meaning students in the EFA and
+ETC programs would have to select one of the two. The bill also imposes additional restrictions
+on students participating in either of these programs who wish to access part-time Virtual
+Learning Academy Charter School (VLACS) instruction. Under this bill, the state will no longer
+berequiredtopaytuitiontoVLACSforstudentsenrolledineithertheEFAortheETCprogram.
+The families of these students would be responsible for paying any tuition expenses associated
+withpart-timeenrollmentinVLACS.
+DepartmentofEducation(DOE)
+· ETCandEFARestrictionsonDualParticipation
+o In school year 2023, 70 percent of ETC students were also enrolled in the EFA
+program. In 2024, it was 94.5 percent. The Department of Education (DOE)
+assumes that, under a scenario where they had to choose, families would select
+the program that offered the most financial assistance. In school year 2025, the
+Children’s Scholarship Fund reported the average school scholarship amount for
+the ETC program as $3,405 and the average homeschool scholarship amount as
+$712.50. In contrast, the average EFA grant in school year 2025 was $5,204.
+
+Based on these figures, DOE assumes that all dual-enrolled students would
+remain enrolled in the EFA program and exit the ETC. This would yield no
+savingsforthestatefromtheEducationTrustFund,asthetaxcreditprogram is
+fundedfromcontributionsmadebyindividualsandbusinesses.
+· VLACS
+o DOE evaluated the overlap between EFA students and VLACS and used trends
+from 2025 and 2026 to project potential EFA VLACS participants in school year
+2027 (see below for more information on the calculations). DOE assumes that
+EFA students will continue participating in the EFA program and will either
+terminate their participation in VLACS or continue participating but assume
+responsibility for the costs. Both of these will reduce the amount of adequacy
+paidbythestatetoVLACS. Drawingontheassumptionsoutlinedaboveandthe
+calculations in the table below, the reduction in 2027 will be $888,611. Some of
+the loss in funding for the VLACS program will be offset by tuition funds paid
+directlybystudentstotheorganization. Theamountofthisisunknowable.
+FY2027
+TotalEFAStudents 12,500
+OverlappingEFA/VLACS 622
+VLACSADM 129.8
+VLACSRate $6,846
+ProjectedSavings $888,610.80
+There were 287 EFA students in VLACS in 2025 (4.98%) and 381 in 2026 (3.63%). The per-
+student ADM in 2025 was .21. DOE used the 4.9% value and applied that to the total projected
+number of EFA students in FY 2027 to get the estimate of affected students. DOE selected the
+higher value from the two years because the bill also includes ETC students, and it does not
+haveacountontheoverlapbetweenETCandVLACS. DOEappliedtheper-studentADMvalue
+to the number of overlapping students and multiplied that by the rate to calculate the estimated
+VLACScost,whichwouldbethesavingstothestatefromthisbill.
+DepartmentofRevenueAdministration(DRA)
+TheDepartmentforRevenueAdministration(DRA)statesthisbill:
+· Clarifies that the Virtual Learning Academy Charter School (VLACS) is considered a
+school whose services canbe paid for usingEducation Freedom Account (EFA) funds and
+would further clarify that the state-paid tuition for part-time students attending VLACS
+is not applicable to students participating in either the EFA program or the business tax
+creditscholarshipprogram(a/k/atheEducationTaxCreditprogramorETCprogram).
+
+o The DRA states that while it may not have been intended, as currently drafted
+the proposed clarification applies only with respect to students attending VLACS
+part-time. VLACS would still, arguably, be eligible to receive state-paid tuition
+inadditiontoEFAorETCfunds.
+· Amends both the EFA and ETC statutes, so that students would become ineligible under
+either program if theywere eligiblefor or receivingfunds under or had aremaining fund
+balanceintheotherprograminthesameprogramyear.
+o The DRA states that while it may not have been intended, as currently drafted
+the proposed legislation could make students who meet the eligibility criteria for
+bothprogramsunabletoreceivefundsfromeitherprogram.
+The DRA states it is not involved in administering either the EFA or ETC programs, which are
+administered by a scholarship organization. The scholarship organization provides information
+to DRA regarding ETC program participants and their credit eligibility but provides no
+information to DRA with respect to the EFA program. The DRA assumes that the scholarship
+organizationwouldperformthenecessarycross-checksindeterminingeligibility,sothatthisbill
+isgivenitsintendedeffectandnoETCcreditsareinappropriatelyawarded.
+Based on the above, DRA states this bill would not result in any additional administrative costs
+that could not be absorbed in the DRA operating budget. The fiscal impact of the bill is
+dependent upon how the EFA and ETC program eligibility criteria are currently being applied,
+and whether there are currently students receiving funds under both programs. If and to the
+extent the education tax credit is currently being claimed by businesses that provide
+scholarships for students who would become ineligible under the proposed legislation, and to the
+further extent that these businesses adjust their donations downward as a result, the proposed
+legislation could result in an indeterminable increase to the general and education trust funds.
+Likewise, if and to the extent that education freedom accounts are currently being created for
+students that also are eligible for or receive scholarships under the ETC program, the proposed
+legislation could result in an indeterminable increase to the education trust fund. To the extent
+currentparticipationinboththeEFAandETCprogramsisunknown,DRAisunabletoestimate
+thesepossiblefiscalimpacts.
+AGENCIESCONTACTED:
+DepartmentofEducationandDepartmentofRevenueAdministration

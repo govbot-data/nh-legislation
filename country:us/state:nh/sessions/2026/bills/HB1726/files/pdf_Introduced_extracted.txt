@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1726-FN-ASINTRODUCED
+2026SESSION
+26-2860
+06/09
+1726-FN
+HOUSEBILL
+ANACT directing state agencies to identify and dispose of surplus property for affordable
+housingdevelopment.
+SPONSORS: Rep. Muns, Rock. 29; Rep. Booras, Hills. 8; Rep. de Vries, Rock. 29; Rep. Hegner,
+Hills. 41; Rep. Howland, Straf. 20; Rep. Lane, Merr. 16; Rep. Maggiore, Rock. 23;
+Rep.D.Paige,Carr.1;Rep.Read,Rock.10;Rep.Stavis,Graf.13;Sen.Altschiller,
+Dist24;Sen.PerkinsKwoka,Dist21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs state agencies to identify surplus property for affordable housing and permits
+below-marketconveyancetoqualifieddevelopers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1726-FN-ASINTRODUCED
+26-2860
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT directing state agencies to identify and dispose of surplus property for affordable
+housingdevelopment.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Disposal of Real Estate. Amend RSA 4:40 by inserting after paragraph V
+2 thefollowingnewparagraphs:
+3 VI. Each state agency as defined in RSA 5-D:1, IV shall, as part of its development of the
+4 biennium state budget, identify all state-owned property under its jurisdiction that is, in its
+5 judgment, suitable for development or redevelopment as affordable housing, as defined in RSA 204-
+6 C:56, I. The department shall adopt guidelines to assist agencies in determining the suitability of
+7 state-ownedproperty.
+8 VII. Notwithstanding the provisions of RSA 4:40, III, and III-a, state-owned property so
+9 identified may be made available to qualified developers at below market rates, subject to
+10 competitive solicitation, with the requirement that at least 20 percent of the housing units to be
+11 developed or redeveloped on such property will be affordable to low- and moderate-income
+12 households for a period of not less than 20 years. The department shall convey such property with
+13 the necessary covenants and restrictions to ensure that the property is used for the purpose
+14 development or redevelopment as affordable housing as defined in RSA 204-C:56, I. For the
+15 purposes of these section “qualified developers” means a person or legal entity that can demonstrate
+16 to the state the financial, technical and managerial capability to engage in the re-development,
+17 developmentorconstructionofhousing.
+18 VIII. Anystateagencythatidentifiesanddisposesofunusedorunderutilizedstateproperty
+19 for residential development in compliance with this section shall retain any revenue, proceeds, or
+20 budgetary credit associated with such property for one additional budget cycle following the
+21 disposition.
+22 IX. The department, as part of the existing housing planning and regulation municipal
+23 grant program established in RSA 12-O:72, shall prioritize grant applications from municipalities
+24 that collaborate with state agencies in the identification and rezoning of state property for housing
+25 developmentcompliantwiththissection.
+26 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2860
+12/12/25
+HB1726-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetopromotinghousingonunusedstateland.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncreaselessthan$100,000perFY
+RevenueFund(s) VariousAgencyFunds
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncreaseunder$10,000per
+LocalExpenditures $0
+municipality
+METHODOLOGY:
+This bill directs agencies to identify unused or underutilized state-owned property suitable for
+affordable housing development. It allows the property to be offered to qualified developers at
+below-marketrates, witharequirement that at least20% of thehousingunits remainaffordable
+for low- and moderate-income households for a minimum of 20 years. Additionally, the bill also
+expands municipal grants to support rezoning efforts and prioritizes funding for municipalities
+that collaborate with state agencies in identifying land for housing. Agencies may retain
+revenuefromthesaleofsurpluspropertyforoneadditionalbudgetcyclefollowingthesale.
+The Department of Administrative Services (DAS) estimates that the bill would generate less
+than $100,000 in net sale proceeds in any foreseeable fiscal year, due to the limited number of
+unused and underutilized state-owned properties. A key factor limiting property sales is the
+remotenessofmanyparcelsfrompublicroadsandutilities.
+
+Thebillisalsoexpectedtoincreasestateexpenditures,asadditionalstafforcontractorswiththe
+necessary qualifications and experience would be needed to assess development potential,
+estimatemarketvalueunderaffordablehousingrequirements,andperformrelatedtasks. While
+the Department of Transportation (DOT) has the appropriate expertise, it lacks the staffing
+capacity to support this effort across agencies. DAS projects that state expenditures will remain
+under$100,000annually.
+Atthelocallevel,municipalitiesthatchoosetocollaboratewithstateagenciesmayseeincreased
+expenditures of less than $10,000 each, primarily due to the need for additional staff time or
+contractorsupport.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServices

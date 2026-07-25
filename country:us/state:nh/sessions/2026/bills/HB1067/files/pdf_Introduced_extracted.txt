@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1067-FN-ASINTRODUCED
+2026SESSION
+26-2322
+09/05
+1067-FN
+HOUSEBILL
+ANACT relativetothementalhealthcourts.
+SPONSORS: Rep. M. Pearson, Rock. 34; Rep. D. Mannion, Rock. 25; Rep. Lynn, Rock. 17; Rep.
+Scherr, Rock. 26; Rep. Weber, Ches. 5; Rep. Berch, Ches. 6; Rep. DeSimone, Rock.
+18;Rep.Hartnett,Hills.41;Sen.Gannon,Dist23
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises the processes and requirements for the establishment of mental health courts,
+andrequiresthedevelopmentofagrantprogramtofundnewmentalhealthcourts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1067-FN-ASINTRODUCED
+26-2322
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothementalhealthcourts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MentalHealthCourts;Purpose;PolicyandGoals. AmendRSA490-H:1,I(f)toreadasfollows:
+2 (f) Reducing the costs of incarceration, by reducing the frequency of involuntary
+3 emergency admissions and by lowering recidivism and reducing the long-term costs by
+4 providing alternative interventions to incarceration by improving treatment and
+5 preventionoptionsforthoselivingwithmentalillness;and
+6 2 MentalHealthCourts;Structure RSA490-H:2isrepealedandreenactedtoreadasfollows:
+7 RSA490-H:2 MentalHealthCourt;Structure.
+8 I. Any superior or circuit court may establishone or more mental health courts under which
+9 the courts monitor offenders with mental illnesses for compliance with individual services to change
+10 behavior which would otherwise result in criminal conduct. In this chapter "mental health court"
+11 means a judicial intervention process that incorporates the guidelines for mental health courts as
+12 adoptedbytheNewHampshiresupremecourt.
+13 II. Upon successful completion of a program recommended by the mental health court, an
+14 offender's case may be disposed of by the judge in the manner prescribed by the agreement and by
+15 the applicable policies and procedures adopted by the mental health court. This may include, but is
+16 notlimitedto,withholdingcriminalchargesordismissalofcharges.
+17 III. A person sentenced by a mental health court may, at least one year after successful
+18 completion of all programs and conditions imposed by the mental health court, petition for
+19 annulment of the charges, arrest, conviction, and sentence that relatetosuch person's entryinto the
+20 mentalhealthcourt.
+21 IV. Thementalhealthcourtmayconvenealocalcommitteemadeupofcommunitymembers
+22 whocanprovidesupportforthementalhealthcourt.
+23 3 New Section; Mental Health Court; Implementation. Amend RSA 490-H by inserting after
+24 section3thefollowingnewsection:
+25 490-H:4 MentalHealthCourt;Implementation.
+26 I. Asusedinthischapter:
+27 (a) "Risk assessment" means a formal written evaluative tool approved by the office of
+28 the statewide treatment courts (OSTC) that measures the individual's risk to public safety and to
+29 personalsafety,includingaconsiderationofrecidivism.
+30 (b) "Clinical assessment" means a formal evaluation by a clinician that provides a
+31 clinicaldiagnosisoftheindividual.
+
+HB1067-FN-ASINTRODUCED
+-Page2-
+1 II. The judicial branch, through the administrative office of the courts, OSTC, shall be
+2 responsible for developing an application process by which counties, districts, or non-profits may
+3 apply for a state grant to operate mental health court within their area. Subject to approval of the
+4 chiefjusticeofthesupremecourt,theofficeshall:
+5 (a) Determine approval requirements including the development of a New Hampshire
+6 mental health court approval checklist. Prior to accepting applications for grants, the approval
+7 checklist shall be posted on the judicial branch website. The checklist shall be updated on the
+8 websiteasrevisionsaremade.
+9 (b) Annually review and update, as needed, mental health court guidelines for operating
+10 mentalhealthcourts.
+11 (c) Develop draft policies and procedures including a model participant handbook and
+12 implementationplan.
+13 (d) Measurerecidivismratesandotheroutcomemeasures.
+14 (e) Evaluatecompliancewithrelevantstandards.
+15 (f) Assistincreatingorenhancingmentalhealthcourtswithinthestate.
+16 (g) Assistmentalhealthcourtsinobtainingongoingtraining.
+17 III. Given availability of sufficient funding, the judicial branch shall manage an electronic
+18 information system for performance measurement and accept submission of performance data in a
+19 consistent format from all mental health court divisions. The data collected shall include, but is not
+20 limited to, personal and demographic information; details about the individual's criminal history;
+21 medicaldiagnoses;andprogressinthementalhealthcourtprocess.
+22 IV.(a) The branch shall establish an application and review process and award funds until
+23 the balance of the appropriation and other funds are depleted, or there are no satisfactory
+24 applications.
+25 (b) Toobtainastatementalhealthcourtgrant,acounty,district,ornon-profitshall:
+26 (1) Submit a narrative application that outlines the local need and program
+27 descriptionandimplementationplan.
+28 (2) SubmitabudgetforthetotalcostoftheprogramtotheOSTC.
+29 (3) Submitdraftpoliciesandprocedures,includingaparticipanthandbook.
+30 (4) Agree to obtain and complete mental health court training as approved by the
+31 OSTC.
+32 (5) Establish compliance with the New Hampshire mental health court program
+33 approvalchecklist.
+34 (6) If an existing mental health court, provide a complete accounting of program
+35 activities, expenditures, and outcome measures for the past year including, but not limited to, the
+36 numberofparticipants,numberofgraduates,andthenumberofrecidivists;and
+
+HB1067-FN-ASINTRODUCED
+-Page3-
+1 (7) Establish that the program is cost effective if an existing mental health court or
+2 describehowitwillbecosteffectiveifaproposedmentalhealthcourt.
+3 (c) The OSTC shall award grants to those applicants whose proposals will accomplish
+4 themostgoodforthosewithmentalhealthissuesengagedinthecriminaljusticesystem.
+5 V. If approved, the county, district, or non-profit shall sign a contract which includes the
+6 followingrequirements:
+7 (a) Thecounty,district,or non-profitshallhaveateam approachthatatleastincludes a
+8 judge, a prosecutor, a criminal defense lawyer, a case manager, and a program coordinator, in
+9 additiontoothersdeemedappropriate.
+10 (b) Before an individual is accepted into the mental health court, the individual shall
+11 undergoaformalriskassessmentbyaqualifiedindividualregardingattendantriskstopublicsafety
+12 andpersonalsafetyandthevalueofthementalhealthcourtinreducingrecidivism.
+13 (c) Before an individual is accepted into the mental health court, the individual shall
+14 undergoaclinicalassessmentbyaqualifiedclinicianregardinganymentalhealthdiagnosis.
+15 (d) Before an individual is accepted into the mental health court, the team identified in
+16 subparagraph V(a) above shall decide collectively whether the individual is a good fit for the
+17 programbasedontheriskandclinicalassessmentsandotherrelevantfactors.
+18 (e) The county, district, or non-profit shall collect data as directed by the OSTC and
+19 shalluseanelectronicinformationsystemapprovedbytheOSTC.
+20 (f) The county, district, or non-profit shall monitor the progress of those individuals in
+21 the mental health court program with a regularity as the preliminary risk assessment suggests.
+22 Suchmonitoringmayincludeelectronicmonitoring.
+23 (g) AnyotherrequirementsdeemedappropriatebytheOSTC.
+24 VI. The judicial branch administrative office of the courts is authorized to expend from
+25 appropriated sums and other funds, as available, the amounts necessary to fund the grants certified
+26 by the office. The mental health court coordinator shall prepare a report on the activities,
+27 expenditures, cost effectiveness, and outcome measures for the mental health court grant program
+28 following a 3-year period. The report shall include the information provided by each grant recipient
+29 and additional data that is available. The report shall be submitted within 90 days of the end of the
+30 3-year period by the chief justice to the speaker of the house of representatives, the president of the
+31 senate, and the office of the legislative budget assistant. The office of the legislative budget
+32 assistantshallpostthereportonthewebsiteoftheofficeofthelegislativebudgetassistant.
+33 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2322
+11/5/25
+HB1067-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothementalhealthcourts.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increaseofless Increaseofless Increaseofless
+than$2,500,000 than$4,000,000 than$4,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill revises the statute governing the establishment and operation of mental health courts
+and requires theJudicial Branchtocreateand administer agrant program tofund county-based
+or nonprofit-operated mental health court programs. The bill directs the Office of Statewide
+TreatmentCourts(OSTC)tocertify,oversee,andcollectdatafromparticipatingprograms.
+The Judicial Branch states this bill will result in an increase in state expenditures from the
+General Fund. The fiscal impact depends on how many counties apply for certification and the
+levelofgrantfundingawarded.
+If implemented statewide across all 11 county-based locations (including two in Hillsborough
+County), total estimated expenditures are as follows: $2.0m in FY 2027, $3.8m in FY 2028 and
+FY 2029. Funding is assumed to come primarily from the General Fund, with potential use of
+approximately$250,000infederalorotherfundsduringthestart-upyear.
+Category FY2027 FY2028 FY2029
+MentalHealthCourtCoordinator
+$190,760 $186,558 $188,547
+(Salary,BenefitsandStart-upcosts)
+
+SoftwareLicenses $712 $712 $712
+ConnexisLicenses(10Courts) $45,000 $45,000 $47,250
+StatewideTraining $10,000 $15,000 $15,000
+CoordinatorTravel $5,000 $5,000 $5,000
+Supplies $750 $750 $7500
+11LocalMentalHealthCourtGrants $1,750,000 $3,500,000 $3,500,000
+Total $2,002,222 $3,753,020 $3,757,259
+TheFY2027estimatereflectsapartial-yearimplementationinwhichtheJudicialBranchwould
+establish the statewide Office of Statewide Treatment Courts, hire a coordinator, begin program
+development, and provide limited start-up grants to several pilot counties. These pilot grants
+are expected to range between $100,000 and $150,000 per site for initial case-management staff,
+training,andtechnologysetup.
+The FY 2028 and FY 2029 estimates assume full implementation of 11 mental health court
+programs statewide. Each program is estimated to cost approximately $325,000 per year, which
+includes:
+· Judicial and case-management time (judge participation, program coordinator, and
+casemanager)
+· Participantassessment,treatmentcoordination,anddatacollection
+· Training,certification,andoversightbytheOSTC
+· Technology,evaluation,andreportingrequirements
+These figures also include approximately $225,000 annually for statewide administrative
+support,training,anddata-systemmaintenanceundertheOSTC.
+Because the bill does not include an appropriation or identified funding source, the Judicial
+BranchindicatestheprogramcouldnotbeimplementedwithoutanappropriationtotheJudicial
+Branchtofundthenewcourts.
+It is assumed the fiscal impact will begin in FY 2027, with any ongoing costs incorporated into
+theBranch’sFY2028–FY2029budgetrequest.
+AGENCIESCONTACTED:
+JudicialBranch

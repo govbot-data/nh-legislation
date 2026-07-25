@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1529-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2704
+12/07
+1529
+HOUSEBILL
+ANACT repealingthereadingrecoverytrainingprogram.
+SPONSORS: Rep.Noble,Hills.2;Rep.Belcher,Carr.4;Rep.Corcoran,Hills.28
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrepealsthereadingrecoverytrainingprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1529-VERSIONADOPTEDBYBOTHBODIES
+26-2704
+12/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthereadingrecoverytrainingprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA186:70,relativetothereadingrecoverytrainingprogram,isrepealed.
+2 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

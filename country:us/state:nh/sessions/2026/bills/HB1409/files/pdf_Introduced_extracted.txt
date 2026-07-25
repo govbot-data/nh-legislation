@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1409-FN-ASINTRODUCED
+2026SESSION
+26-3080
+04/09
+1409-FN
+HOUSEBILL
+ANACT modifyingthedepositofrevenuescollectedfromvideolotteryterminals.
+SPONSORS: Rep. Ames, Ches. 13; Rep. Luneau, Merr. 9; Rep. Damon, Sull. 8; Rep. Preece,
+Hills. 17; Rep. Cornell, Hills. 22; Rep. Oppel, Graf. 9; Rep. Spahr, Graf. 12; Rep.
+Almy, Graf. 17; Rep. K. Murray, Rock. 22; Rep. Hakken-Phillips, Graf. 12; Sen.
+Fenton,Dist10
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill reallocates the remainder of the net video lottery terminal revenue to the education
+trustfundforpublicschoolaid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1409-FN-ASINTRODUCED
+26-3080
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifyingthedepositofrevenuescollectedfromvideolotteryterminals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Video Lottery Terminals; Education Trust Fund Deposits. RSA 287-J:6, III(b) is repealed and
+2 reenactedtoreadasfollows:
+3 (b) The remainder of the revenue collected from video lottery terminal gaming collected
+4 under paragraph III, after payment of the necessary state charitable gaming administrative costs,
+5 including the costs of revenue sharing with charities, gaming operator costs, and problem gaming
+6 prevention costs, shall be paid to the commission and distributed 100 percent to the education trust
+7 fundestablishedunderRSA198:39.
+8 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3080
+11/25/25
+HB1409-FN-FISCALNOTE
+ASINTRODUCED
+ANACT modifyingthedepositofrevenuescollectedfromvideolotteryterminals.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue NetZero:DecreaseGFRevenueandIncreaseETFRevenue
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill modifies the revenue distribution of video lottery terminals, after other statutory
+transfers (i.e., Governor’s Commission on Addiction, Treatment and Prevention and charitable
+organizations), from 75% general fund and 25% education trust fund to 0% general fund and
+100%educationtrustfund(ETF). ThisbillwilldecreasegeneralfundrevenueandincreaseETF
+revenue. Budget estimates (June 2025) for the general fund portion of VLT revenue are
+$45,100,000inFY2026and$93,900,000inFY2027(estimatesforFY2028andbeyondwerenot
+made). Since this bill is effective "upon passage", the change would likely occur sometime in the
+endofFY2026orbeginningofFY2027,ifitweretobecomelaw.
+AGENCIESCONTACTED:
+LotteryCommission

@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1588-FN-ASINTRODUCED
+2026SESSION
+26-3234
+07/06
+1588-FN
+HOUSEBILL
+ANACT establishing special assessment districts and expands the housing infrastructure
+grantprogram toallowfor municipal upgradeslinked tonewhousingand making
+anappropriationtherefor.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes special assessment districts and expands the housing infrastructure grant
+programtoallowformunicipalupgradeslinkedtonewhousing.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1588-FN-ASINTRODUCED
+26-3234
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing special assessment districts and expands the housing infrastructure
+grantprogram toallowfor municipal upgradeslinked tonewhousingand making
+anappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter;Special Assessment Districts. Amend RSAbyinsertingafter chapter 162-U the
+2 followingnewchapter:
+3 CHAPTER162-V
+4 SPECIALASSESSMENTDISTRICTS
+5 162-V:1 Authority. Any city or town may, by 2/3 vote of its governing body and a majority vote
+6 of its legislative body, establish one or more special assessment districts for the purpose of financing
+7 publicinfrastructureimprovementsnecessarytoservenewdevelopment.
+8 162-V:2 ImprovementsAuthorized.
+9 I. Infrastructureimprovementseligibleforfinancingunderthischaptershallinclude:
+10 (a) Roads,sidewalks,streetlighting,andtrafficcontroldevices;
+11 (b) Water mains, sewer lines, stormwater management facilities, and related
+12 appurtenances;
+13 (c) Utilityextensionsdirectlyservingthedistrict;and
+14 (d) Streetscapeorparkingimprovementsincidentaltodevelopment.
+15 II. General government buildings, schools, or facilities that do not directly and specially
+16 benefitparcelswithinthedistrictshallnotbefinancedunderthischapter.
+17 162-V:3 ApportionmentofCosts.
+18 I. Assessmentsshallbeleviedonlyagainstpropertiesthatreceiveadirectandascertainable
+19 benefitfromtheimprovements.
+20 II. The governing body shall determine the method of apportionment, which may include
+21 frontage,lotsize,numberofunits,assessedvalue,orotherreasonablemetric.
+22 III. Noparcelshallbeassessedinanamountgreaterthanthespecialbenefitconferredupon
+23 it.
+24 162-V:4 Financing.
+25 I. Municipalities may issue bonds to finance improvements within the district, to be repaid
+26 solelyfromassessmentsleviedunderthischapter.
+27 II. Assessments may be collected in annual installments over a period not to exceed 20
+28 years.
+
+HB1588-FN-ASINTRODUCED
+-Page2-
+1 III. Assessments shall constitute a lien on the property with the same priority and
+2 enforcementaspropertytaxes.
+3 162-V:5 Procedure.
+4 I. Establishmentofadistrictrequires:
+5 (a) Adoptionby2/3voteofthegoverningbodyafterpublicnoticeandhearing;and
+6 (b) Ratification by majority vote of the legislative body at the next regular municipal
+7 election.
+8 II. Notice of the proposed district shall be mailed to each affected property owner and
+9 publishedinanewspaperofgeneralcirculationatleast14dayspriortothehearing.
+10 162-V:6 Appeals. Any property owner subject to an assessment may appeal the apportionment
+11 of costs tothegoverning bodywithin30days of notice, and thereafter tothesuperior court pursuant
+12 toRSA677.
+13 162-V:7 Dissolution. Adistrictshalldissolveuponrepaymentofallobligationsorearlierbyvote
+14 ofthegoverningbody,providedallcostshavebeensatisfied.
+15 2 Department of Business and Economic Affairs; Expansion of Housing Infrastructure
+16 Municipal Grant Program. The department of business and economic affairs shall expand its
+17 housing infrastructure municipal grant program to allow for sewer, water, and road upgrades for
+18 newhousingunits.
+19 3 Department of Business and Economic Affairs, Appropriation. The sum of $1 for the fiscal
+20 yearendingJune30,2027isherebyappropriatedtothedepartmentofbusinessandeconomicaffairs
+21 for the purpose of providing grants for sewer, water, and road upgrades for new housing units under
+22 its housing infrastructure municipal grant program. The governor is authorized to draw a warrant
+23 forsaidsumsoutofanymoneyinthetreasurynototherwiseappropriated.
+24 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3234
+12/8/25
+HB1588-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing special assessment districts and expands the housing infrastructure
+grantprogram toallowfor municipal upgradeslinked tonewhousingand making
+anappropriationtherefor.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $1 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+LocalExpenditures $0
+lessthan$10,000permunicipality
+METHODOLOGY:
+This bill enables municipalities to establish special assessment districts by 2/3 vote of its
+governing body, requires the Department of Business and Economic Affairs (DBEA) to expand
+the housing infrastructure grant program to allow for sewer, water, and road upgrades for new
+housingunits,andappropriates$1infiscalyear2027totheDBEAforthispurpose.
+The New Hampshire Municipal Association states that if a municipality chooses to establish one
+or more special assessment districts, it will incur startup and ongoing administrative,
+accounting, and legal costs estimated at under $10,000 per municipality. However, the total
+impact is indeterminable, as it depends on how many municipalities decide to create such
+districts.
+
+The Department of Business and Economic Affairs states since only $1 is appropriated the
+Department will have to wait for additional funding for the purpose of providing grants for
+sewer, water, and road upgrades for new housing units under its housing infrastructure
+municipalgrantprogram.
+The overall fiscal impact is indeterminable as it is unknown how many municipalities will vote
+toestablishspecialassessmentdistricts.
+AGENCIESCONTACTED:
+DepartmentofBusinessandEconomicAffairsandNewHampshireMunicipalAssociation

@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1209 -ASINTRODUCED
+2026SESSION
+26-2662
+06/07
+1209
+HOUSEBILL
+ANACT relativetoschoolbusstops.
+SPONSORS: Rep.Jacobs,Ches.15;Rep.Newell,Ches.4
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires school districts, school bus operators, and bus drivers to locate stops and
+conduct operations in a manner that prevents students from crossing traffic lanes when boarding or
+exitingschoolbuses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1209-ASINTRODUCED
+26-2662
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoschoolbusstops.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Prohibition on Crossing Traffic at School Bus Stops. Amend RSA 265 by
+2 insertingaftersection57thefollowingnewsection:
+3 265:57-a Prohibition on Crossing Traffic at School Bus Stops. Each school district and school
+4 bus operator shall ensure that school bus stops are located so that boarding and exiting students do
+5 notcrossanylaneoftraffic. Busdriversshallnotpermitchildrentocrossalaneoftraffictoorfrom
+6 thebusforanyboardingordepartingactivity.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

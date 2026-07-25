@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1397 -ASINTRODUCED
+2026SESSION
+26-3216
+12/08
+1397
+HOUSEBILL
+ANACT relativetothenoticetoabuttersfortheintenttocut.
+SPONSORS: Rep. Wheeler, Hills. 33; Rep. Girard, Sull. 6; Rep. Maggiore, Rock. 23; Rep. D.
+Germana, Ches. 1; Rep. Giasson, Hills. 29; Rep. Pauer, Hills. 36; Sen. Fenton,
+Dist10
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds a definition for abutter to the chapter relative to property taxation and requires
+municipal officials to send notice to abutters by verified mail where a cutting operation may impact
+abutters'property.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1397-ASINTRODUCED
+26-3216
+12/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothenoticetoabuttersfortheintenttocut.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Property Taxes; Definition Added. Amend RSA 72:29 by inserting after
+2 paragraphVIIthefollowingnewparagraph:
+3 VIII. Theterm"abutter"shallhavethesamemeaningasdefinedinRSA672:3.
+4 2 NewParagraph;ForestConservationandTaxation;NoticeofIntenttoCut;NoticetoAbutters
+5 Required. AmendRSA79:10byinsertingafterparagraphIIthefollowingnewparagraph:
+6 III. A municipal official shall notify abutters by verified mail, as defined by RSA 21:53.
+7 Abutters shall be afforded a 30-day comment period prior to sign off by the assessing officials. The
+8 costofabutternotificationshallbebornebytheapplicant.
+9 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

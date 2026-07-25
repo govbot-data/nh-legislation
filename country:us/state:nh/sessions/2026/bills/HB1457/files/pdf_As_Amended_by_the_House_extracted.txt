@@ -1,0 +1,472 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0560h
+2026SESSION
+26-2919
+09/08
+1457-FN
+HOUSEBILL
+ANACT relativetonaturalorganicreductionofhumanremains.
+SPONSORS: Rep. LaMontagne, Straf. 17; Rep. Darby, Hills. 11; Rep. Knab, Rock. 12; Sen.
+Watters,Dist4;Sen.Innis,Dist7;Sen.Murphy,Dist16
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows for the natural organic reduction of human remains and provides for regulation
+ofthepractice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0560h 26-2919
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetonaturalorganicreductionofhumanremains.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownasandcitedtoasthe"LiveFreeandDieFreeAct."
+2 2 EmbalmersandFuneralDirectors;BoardDuty. AmendRSA325:8-atoreadasfollows:
+3 325:8-a Board Duty; Crematory Licensing; Natural Organic Reduction Facility Licensing.
+4 The board shall be responsible for the administration and enforcement of RSA 325-A relative to the
+5 cremation of human remains, and RSA 325-B, relative to natural organic reduction of human
+6 remains.
+7 3 New Chapter; Natural Organic Reduction of Human Remains. Amend RSA by inserting after
+8 chapter325-Athefollowingnewchapter:
+9 CHAPTER325-B
+10 NATURALORGANICREDUCTIONOFHUMANREMAINS
+11 325-B:1 Definitions. Inthischapter:
+12 I. "Natural organic reduction" means the contained, accelerated conversion of human
+13 remainstosoil,hereinafterreferredtoasNOR.
+14 II. "Board" means the state board of registration of funeral directors and embalmers
+15 establishedunderRSA325:2.
+16 III. "Disposition container" means a container in which human remains are placed and
+17 means a container made of wood, wicker, grass, cardboard, or other biodegradable container, or a
+18 shroudmadeofcotton,linen,wool,hemporotherbiodegradableorplantmaterial.
+19 IV. "Casket" means a rigid container made of wood, metal, or other similar material,
+20 ornamentedandlinedwithfabric,whichisdesignedfortheencasementofhumanremains.
+21 V. “Alternative container” means a container, other than a casket, designed for encasement
+22 andtransferofhumanremains.
+23 VI. "Reducedremains"meanstheresultsofperformingNORonadeceasedperson.
+24 VII. "Natural organic reduction chamber" means the enclosed space within which NOR will
+25 takeplace.
+26 VIII. "Natural organic reduction facility" means a building or structure or a room or other
+27 spaceinabuildingorstructureorrealpropertywhereNORisfacilitatedandoccurs.
+28 IX. "Natural organic reduction authority" means the legal entity subject to licensure by the
+29 boardtomaintainandoperateaNORfacilityandperformNOR.
+30 X. "Natural organic reduction operator" means a person who is responsible for the operation
+31 ofanaturalorganicreduction.
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 XI. "Authorizing agent" means a person vested with the right to control the disposition of
+2 humanremainspursuanttoRSA290.
+3 XII. "NOR delivery receipt form" means a form provided by a funeral establishment to a
+4 NORfacilitytodocumentthereceiptofhumanremainsbysuchauthorityforthepurposeofNOR.
+5 XIII. “Reduced Remains receipt form" means a form provided by a reduction facility to an
+6 authorizing agent or his or her representative that identifies the reduced remains, and the person
+7 authorizedtoreceivesomeorallofthereducedremains.
+8 XIV. “Natural organic reduction certificate” is a document created by the NOR facility
+9 certifyingNORhasbeencompletedonaspecifieddeceasedperson.
+10 XV. "Funeraldirector"meansfuneraldirectorasdefinedinRSA325.
+11 XVI. "Holding facility" means the area of a NOR facility designated for the retention of
+12 humanremainspriortoNORandincludesarefrigeratedfacility.
+13 XVII. "Human remains" means the body of a deceased person, or a human body part, in any
+14 stage of decomposition and includes limbs or other portions of the anatomy that are removed from a
+15 person or human remains for medical purposes during treatment, surgery, biopsy, autopsy, or
+16 medicalresearch.
+17 XVIII. "Temporary container" means a receptacle made of cardboard, plastic, or other
+18 similarmaterialinwhichreducedremainsareplacedpriortoscattering.
+19 325-B:2 Natural Organic Reduction Facility; License Required. A NOR facility shall not be
+20 established, operated, or maintained in this state except by a natural organic reduction authority
+21 licensed by the board under RSA 325. The board shall issue a license to a NOR authority that
+22 satisfies the requirements for licensure under the chapter. Human remains shall not be naturally
+23 organically reduced in this state except at a NOR facility operated by a NOR authority licensed
+24 underthischapter.
+25 325-B:3 BuildingandLocationRequirements.
+26 I. ANORfacilityshallconformtoallbuildingcodesandenvironmentalregulations.
+27 II. A NOR facility may be constructed at any location consistent with applicable zoning and
+28 environmentalregulations.
+29 325-B:4 License; Application; Requirements. An applicant for an initial or renewal license as a
+30 NOR authority shall file a written application with the board and shall set forth the full name and
+31 addressoftheapplicant,theaddressandlocationoftheNORfacility,nameoftheNORoperator,the
+32 name and address of the owner of the facility, and additional information as required by the board,
+33 including affirmative evidence of the applicant's ability to comply with rules adopted under this
+34 chapter. The application shall include the applicant's social security number if the applicant is an
+35 individual. The social security number shall not be public record and shall only be used for
+36 administrativepurposes.
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 325-B:5 License;Expiration. Exceptasotherwiseprovidedinthischapter,NORlicensesissued
+2 pursuant to this chapter shall expire 5 years after the date of issuance. Licenses shall be issued
+3 onlyfortheNORauthoritynamedintheapplicationandshallnotbetransferableorassignable.
+4 325-B:6 ChangeinLocation,Ownership,orName.
+5 I. A NOR authority desiring to relocate a NOR facility shall file a written application with
+6 the board at least 30 days prior to the designated date of such relocation. The application shall be
+7 accompaniedbyafeeasdeterminedinrulesadoptedunderRSA541-A.
+8 II. A NOR authority desiring to change ownership of a NOR facility shall file a written
+9 application with the board at least 30 days prior to the designated date of such change. The
+10 applicationshallbeaccompaniedbyafeeasdeterminedinrulesadoptedunderRSA541-A.
+11 III. A NOR authority desiring to change its name shall file a written application with the
+12 board at least 30 days prior to such change. The application shall be accompanied by a fee as
+13 determinedinrulesadoptedunderRSA541-A.
+14 325-B:7 Licensure;Fees.
+15 I. The application for an initial or renewal license as a NOR authority shall include a fee
+16 determinedinrulesadoptedunderRSA541-A.
+17 II. If the license application is denied, the license fee shall be returned to the applicant,
+18 except that the board may retain an administrative fee and may retain the entire license fee if an
+19 inspectionhasbeencompletedpriortosuchdenial.
+20 III. The office of professional licensure and certification shall collect a fee for reinstatement
+21 ofalicensethathaslapsedorhasbeensuspended;foraduplicateoriginallicense;andforacertified
+22 statementthatanaturalorganicreductionauthorityislicensedinthisstate.
+23 IV. All fees collected by the office of professional licensure and certification under this
+24 chaptershallbedepositedpursuanttoRSA310:5.
+25 325-B:8 Inspection;Board;Duties;AuthorityforAppointments.
+26 I. Theboard,throughtheofficeofprofessionallicensureandcertification,shallatleastonce
+27 every 3 years inspect or provide for the inspection of any NOR facility operated by a NOR authority
+28 licensed under this chapter in such manner and at such times as provided in rules adopted by the
+29 board.
+30 II. The board shall issue an inspection report and provide a copy of the report to the NOR
+31 authority within 10 working days after the completion of an inspection. The board shall review any
+32 findingsofnoncompliancecontainedinsuchreportwithin20workingdaysaftersuchinspection.
+33 III. If the board determines, after such review, that the evidence supports a finding of
+34 noncompliance by a NOR authority with any applicable provisions of this chapter or rules adopted
+35 under this chapter, the board may send a letter to the NOR authority requesting a statement of
+36 compliance. The letter shall include a description of each alleged violation, a request that the NOR
+37 authoritysubmitastatementofcompliancewithin10workingdays,andanoticethattheboardmay
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 take further action if the statement of compliance is not submitted. The statement of compliance
+2 shall indicate any actions by the NOR authority which have been or will be taken and the period of
+3 time estimated to be necessary to correct each alleged violation. If the NOR authority fails to
+4 submit such statement of compliance or fails to make a good faith effort to correct the alleged
+5 violations,theboardmaytakefurtheractionasprovidedinthischapter.
+6 325-B:9 Deny or Refuse to Renew License; Grounds. The board may deny or refuse to renew a
+7 license under this chapter or take disciplinary action against a NOR authority licensed under this
+8 chapteronanyofthefollowinggrounds:
+9 I. Violationofthischapterorrulesadoptedandpursuanttothischapter;
+10 II. Convictionofanycrimeinvolvingmoralturpitude;
+11 III. Conviction of a misdemeanor or felony under state law, federal law, or the law of
+12 another jurisdiction which, if committed within this state, would have constituted a misdemeanor or
+13 felony and which has a rational connection with the fitness or capacity of the NOR authority to
+14 operateacrematory;
+15 IV. ConvictionofaviolationpursuanttoRSA325-A:15;
+16 V. ObtainingalicenseasaNORauthoritybyfalserepresentationorfraud;
+17 VI. MisrepresentationorfraudintheoperationofaNORfacility;or
+18 VII. Failure to allow access by an agent or employee of the board to a NOR facility operated
+19 by the NOR authority for the purposes of inspection, investigation, or other information collection
+20 activitiesnecessarytocarryoutthedutiesoftheboard.
+21 325-B:10 LicenseReinstatementorRe-licensure.
+22 I. If the license of a NOR authority has lapsed for nonpayment of fees, such license shall be
+23 eligible for reinstatement at any time upon application to the board and payment of the applicable
+24 fee.
+25 II. If the license of a NOR authority has been placed on probation, such license shall be
+26 eligible for reinstatement at the end of the period of probation upon successful completion of an
+27 inspectioniftheboarddeterminesaninspectioniswarranted.
+28 III. If the license of a NOR authority has been suspended, such license shall be eligible for
+29 reinstatementattheendof theperiod ofsuspensionuponsuccessful completionof aninspectionand
+30 paymentoftheapplicablefee.
+31 IV. If the license of a NOR facility has been suspended, such license may be reinstated by
+32 the board prior to the completion of the term of suspension upon petition by the licensee. After
+33 reviewing such petition and any material submitted by the licensee with such petition, the board
+34 may order an inspection or investigation of the licensee. Based on such review and such inspection
+35 or investigation, if any, the board shall grant full reinstatement of the license, modify the
+36 suspension, or deny the petition for reinstatement. The board's decision shall become final 30 days
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 after mailing the decision to the licensee unless the licensee requests a hearing within such period.
+2 Anyrequestedhearingshallbeheldaccordingtorulesoftheboard.
+3 V. If the license of a NOR authority has been revoked, such NOR authority shall not be
+4 eligible for re-licensure until 5 years after the date of such revocation. A reapplication for an initial
+5 licensemaybemadebytheNORauthorityattheendofsuch5-yearperiod.
+6 325-B:11 ActsProhibited;Penalty.
+7 I. Maintaining or operating a NOR facility in violation of this chapter or any rules of the
+8 boardisapublicnuisanceandmaybeabatedasanuisanceasprovidedbylaw.
+9 II. It shall be a class B felony to establish, operate, or maintain a NOR facility subject to
+10 this chapter without beinglicensed as aNORauthorityunder this chapter, tohold oneself out tothe
+11 public as a NOR authority without being licensed, or to perform natural organic reduction without a
+12 NOR authorization form signed by the authorizing agent and a completed permit for transit or NOR
+13 asprovidedbytheboardoraNORpermit.
+14 III. Signing a NOR authorization form with actual knowledge that the form contains false,
+15 incorrect,ormisleadinginformationisaclassBfelony.
+16 IV. Aviolationofanyotherprovisionofthischapterisamisdemeanor.
+17 325-B:12 Injunctions. The board may maintain an action in the name of the state for an
+18 injunctionagainstanypersonforestablishing,operating,ormaintainingaNORfacilitywithoutfirst
+19 obtaining a license as a NOR authority under this chapter. In charging any defendant in a
+20 complaint in such action, it shall be sufficient to charge that such defendant did, upon a certain day
+21 andinacertaincounty, establish, operate, or maintainaNORfacilitywithout obtainingalicense as
+22 a NOR authority under this chapter, without alleging any further or more particular facts
+23 concerningthesame.
+24 325-B:13 Right to Authorize Natural Organic Reduction. The right to authorize the NOR of
+25 human remains and the final disposition of the reduced remains, except in the case of a minor and
+26 unless other directions have been given by the decedent in the form of a testamentary disposition or
+27 apre-needcontract,vestspursuanttoRSA290.
+28 325-B:14 MedicalExaminer'sCertificate.
+29 I. The body of a deceased person shall not be enclosed in a NOR chamber within 48 hours
+30 afterdeath. Ifthedeathoccurredwithinthestate,theNORprocessshouldnotbeginuntiltheNOR
+31 authority has received the certificate of burial permit required by law before burial, and a certificate
+32 from a medical examiner that he or she has viewed the body and made personal inquiry into the
+33 cause and manner of death, and is of the opinion that no further examination or judicial inquiry
+34 concerning the same is necessary. If the death occurred within the state but the body is being
+35 transferred out of state for NOR, the transfer shall not occur until the medical examiner has
+36 conducted such a view and inquiry and has issued a certificate. If the death occurs without the
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page6-
+1 state, the reception and NOR of the body of a deceased person shall be governed by rules adopted by
+2 theboardafterconsultationwiththechiefmedicalexaminer.
+3 II. The NORauthorityshall forward acopy of theNORcertificate, if requested, tothe office
+4 of the chief medical examiner, accompanied by a $60 fee. The fee shall be deposited in the medico-
+5 legalinvestigativefundestablishedpursuanttoRSA611-B:28.
+6 325-B:15 NaturalOrganicReductionAuthority.
+7 I. A NOR authority upon receiving human remains shall sign a delivery receipt form and
+8 shall hold thehumanremains, prior toNOR, as provided inthis section. The form shall include the
+9 name of the deceased, the time and date of delivery of such remains, and the signatures of the
+10 operator of the NOR facility or his or her representative and the funeral director or his or her
+11 representative,orthenext-of-kinordesignatedagentasprovidedinRSA290.
+12 II. If the NOR authority is unable to begin the NOR process immediately upon taking
+13 receipt thereof, the NOR authority shall place the remains in a holding facility. A holding facility
+14 shall be designed and constructed to comply with all applicable public health laws, provide for the
+15 health and safety of persons employed at such facility, and prevent any unauthorized access to such
+16 facility.
+17 III. If the NOR operator is unable to begin the NOR process within 24 hours from the time
+18 of receipt of body, the human remains must be placed within a refrigerated facility in accordance
+19 withthelawsofthisstate.
+20 IV. ANORauthoritymayrefusetoacceptforholdingacasketoralternativecontainer from
+21 which there is any evidence of leakage of body fluids from the remains in the casket or alternative
+22 container.
+23 V. A NOR authority may refuse to accept for holding or refuse to process a body which has
+24 beenembalmed.
+25 325-B:16 NaturalOrganicReductionOperation;Limitations.
+26 I. TheNORauthoritymayrestrictaccesstoaNORfacilitywhileanyhumanremainsarein
+27 theholdingfacilityawaitingplacementinaNORchamber.
+28 II. The human remains of more than one person shall not simultaneously undergo NOR
+29 withinthesameNORchamber unless theNORauthorityhasreceived specific writtenauthorization
+30 fromtheauthorizingagentforthehumanremainstobesoreduced.
+31 325-B:17 NaturalOrganicReductionAuthority;Requirements.
+32 I. A NOR authority shall not accept human remains for NOR without a proper label placed
+33 on the exterior of the casket or alternative container indicating the name of the deceased and the
+34 name and location of the funeral establishment, or the name of the next-of-kin or designated agent
+35 asprovidedinRSA290.
+36 II. IfhumanremainsaredeliveredtoaNORfacilityinacasketoralternativecontainerthat
+37 cannot be placed in the NOR chamber, the NOR operator shall remove the body from the casket or
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page7-
+1 incompatible container. The casket or incompatible container shall be disposed of and an
+2 appropriatedispositioncontainerprovidedfortransferofhumanremainstotheNORchamber.
+3 325-B:18 NaturalOrganicReductionAuthorizationForm.
+4 I. A NOR authority shall not place human remains in a NOR chamber until it has received
+5 a NOR authorization form as provided in paragraph II, a completed and executed permit for transit
+6 or NOR as provided by the board or the appropriate permit from the state from which the human
+7 remains were delivered, indicating that the human remains are to be prepared for NOR, and a
+8 deliveryreceiptform.
+9 II. A NOR authorization form shall be signed by the authorizing agent and shall include,
+10 butnotbelimitedto,thefollowinginformation:
+11 (a) Thenameofthedeceased;
+12 (b) Dateandplaceofdeath;
+13 (c) The identity of the funeral director involved in the preparation of the human
+14 remainsforNOR,ifany;
+15 (d) The name of the authorizing agent and the relationship between the authorizing
+16 agentandthedeceased;
+17 (e) AuthorizationbytheauthorizingagentfortheNORauthoritytoprocesstheremains
+18 inNOR;
+19 (f) A representation that the authorizing agent is aware of no objection to the human
+20 remainsbeingnaturally,organicallyreducedbyanypersonwhohasarighttocontrolthedisposition
+21 ofthehumanremains;
+22 (g) A representation that the human remains do not contain any material, implants, or
+23 conditionsthatmaybepotentiallyhazardoustoequipmentorpersonsoperatingtheNORfacility;
+24 (h) The name of the person authorized to claim the part or all of the reduced remains
+25 fromtheNORauthority;and
+26 (i) Theintendeddispositionofthereducedremains.
+27 III. ANORauthorityshallretain,foratleast7yearsaftertheNOR,inprintedorelectronic
+28 format with suitable backup, copies of the NOR authorization form, permit for transit or NOR as
+29 provided by the permit, NOR remains receipt form, delivery receipt form, and any other records
+30 requiredunderthischapter.
+31 325-B:19 Signature.
+32 I. Any person signing a NOR authorization form shall be deemed to warrant the
+33 truthfulness of any facts set forth on such form, including the identity of the deceased whose
+34 remains are sought to be naturally organically reduced and the authority of the person to authorize
+35 such NOR. Any person signing a NOR authorization form is personally liable for all damages
+36 resultingfromfalse,incorrect,ormisleadinginformationcontainedonsuchform.
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page8-
+1 II. A NOR authority may prepare human remains for NOR upon the receipt of a NOR
+2 authorization form signed by an authorizing agent and a completed and executed permit for transit
+3 forNORorNORpermitasrequiredbylaw.
+4 325-B:20 RemovalofForeignObjects.
+5 I. No human remains shall be placed in an NOR chamber with the knowledge that the
+6 human remains contain jewelry or other valuables unless authorized by the authorizing agent. The
+7 authorizing agent shall take all necessary steps to ensure that any jewelry or other valuables are
+8 removedpriortoNOR. Iftheauthorizingagentinforms thefuneraldirector andtheNORauthority
+9 on the NOR authorization form of the presence of jewelry or other valuables on the human remains,
+10 the funeral director shall ensure that all necessary steps have been taken to remove the jewelry or
+11 other valuables before delivering the human remains to the NOR facility. A funeral director who
+12 knowingly fails to ensure the removal of the jewelry or other valuables prior to delivery and who
+13 knowingly delivers such human remains shall be liable for any damages resulting from such failure.
+14 If human remains with jewelry or other valuables are in the custody of a NOR authority, such
+15 authority shall provide for the removal of such jewelry or other valuables by a licensed funeral
+16 directorandembalmerorhisorheragent.
+17 II. Foreign objects within the human remains, such as artificial limbs and implants will be
+18 removedatlatestagesoftheNORprocess.
+19 325-B:21 Disputes.
+20 I. If a NOR authority or funeral establishment is aware of any dispute concerning the NOR
+21 of human remains, or has a reasonable basis to believe that such a dispute exists or to question any
+22 of the representations made by the authorizing agent with respect to such remains, until the NOR
+23 authority receives a court order that a dispute with respect to such remains has been settled, the
+24 NOR authority or funeral establishment may refuse to accept such human remains for NOR or to
+25 performaNORofsuchremains.
+26 II. If a NOR authority or funeral establishment is aware of any dispute concerning the
+27 releaseor dispositionof reduced remains, the NORauthority or funeral establishment may refuse to
+28 release reduced remains until the dispute has been resolved or the NOR authority or funeral
+29 establishment has been provided with a court order authorizing the release or disposition of the
+30 reducedremains.
+31 325-B:22 ReducedRemains;HowTreated.
+32 I. Insofar as is possible, upon completion of the NOR, all of the recoverable reduced remains
+33 of the NOR shall be removed from the NOR chamber and any foreign matter or anything other than
+34 bone fragments shall be removed from such residue and shall be disposed of by the NOR authority.
+35 The remaining bone fragments shall be processed by pulverization so as to reduce the fragments to
+36 unidentifiable particles. This paragraph shall not apply when the commingling of human remains
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page9-
+1 during NOR is otherwise authorized by law. The presence of incidental and unavoidable residue in
+2 theNORchamberfromapriorNORisnotaviolationofthisparagraph.
+3 II. Some or all of the reduced remains with proper identification shall be placed in a
+4 temporary container selected or provided by the authorizing agent or their representative. If the
+5 authorizingagentchooses,someorallofthereducedremainsmaybestoredatthefacilitytobelater
+6 scattered at a location selected by the NOR authority. The authorizing agent shall consent to the
+7 reduced remains being scattered and the NOR authority shall disclose how and where the reduced
+8 remains will be placed. The authorizing agent shall consent to the reduced remains being
+9 intermixedwithotherreducedremains.
+10 III. If any reduced remains is to be shipped, the temporary container shall be packed
+11 securelyinasuitableshippingcontainerthatcomplieswiththerequirementsoftheshipper. Unless
+12 otherwise directed in writing by the authorizing agent, reduced remains shall be shipped only by a
+13 method which includes an internal tracking system, and which provides a receipt signed by the
+14 personacceptingdeliveryofit.
+15 IV. Some or all of the reduced remains shall be delivered or released by the NOR authority
+16 to the representative specified by the authorizing agent on the NOR authorization form. The owner
+17 of the NOR authority or his or her representative and the party receiving the reduced remains shall
+18 signaNORreceipt form. The form shall include thename of thedeceased, thedate, time, and place
+19 of receipt of the reduced remains, and the signatures of the NOR authority or his or her
+20 representative and the authorizing agent or his or her representative. Upon delivery, the reduced
+21 remainsmaybefurthertransportedwithinthisstateinanymannerwithoutapermit.
+22 325-B:23 FinalDisposition.
+23 I. For purposes of this chapter, the delivery of the reduced remains to the authorizing agent
+24 or his or her representative shall constitute final disposition. The authorizing agent may choose to
+25 receive a portion of reduced remains, with the remainder having a disposition as disclosed in
+26 paragraph V. If, after a period of 60 days after the date the NOR was completed, the authorizing
+27 agent or his or her representative has not directed or otherwise arranged for the final disposition of
+28 thereduced remains orclaimed it forfinal dispositionasprovided inthissection, theNORauthority
+29 may dispose of the reduced remains after making a reasonable attempt to contact the authorizing
+30 agent or his or her representative. This method of dispositionmaybeused byanyNORauthority or
+31 funeral establishment to dispose of all reduced remains in the possession of a NOR authority or
+32 funeralestablishmentonoraftertheeffectivedateofthischapter.
+33 II. The authorizing agent may dispose or scatter reduced remains without permit at their
+34 own property or on private property, with permission. The location of the disposition or scattering of
+35 reducedremainsshallnotconstituteacemetery.
+36 III. The NOR authority may dispose or scatter reduced remains that has been released to
+37 themforfinaldispositiononpublicorprivatelandwithpermissionorcontractualarrangement.
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page10-
+1 IV. Noreducedremainscanbesoldorusedforhumanfoodproduction.
+2 V. The NOR authority shall disclose, on the NOR authorization form, the method and
+3 location for final disposition of unclaimed reduced remains and any unreceived portions of reduced
+4 remains.
+5 325-B:24 Rulemaking. Theboardshalladoptrules,pursuanttoRSA541-Arelativeto:
+6 I. RequirementsforlicensureofNORauthorities.
+7 II. Conditions under whichhumanremains of persons whose deathwas caused bya disease
+8 declared by the board to be infectious, contagious, communicable, or dangerous to the public health
+9 may be transported in this state to a NOR facility for the purpose of NOR. The board shall consult
+10 withthechiefmedicalexamineronrulesadoptedunderthisparagraph.
+11 III. MinimumsanitationstandardsforallNORfacilities.
+12 IV. InspectionproceduresforNORfacilities.
+13 V. Reducedremainsrequirements.
+14 325-B:25 Natural Organic Reduction Authority; Bylaws. An NOR authority may enact
+15 reasonable bylaws not inconsistent with this chapter for the management and operation of a NOR
+16 facility operated by such authority. Nothing in this section shall prevent a NOR authority from
+17 enactingbylawswhichcontainmorestringentrequirementsthanthoseprovidedinthischapter.
+18 325-B:26 Chapter Construed. This chapter shall be construed and interpreted as a
+19 comprehensive natural organic reduction law, and the provisions of this chapter shall take
+20 precedence over any existing laws or rules that govern human remains that do not specifically
+21 addressNOR.
+22 4 Vital Records Administration; Burial Permit Procedures. Amend RSA 5-C:68 to read as
+23 follows:
+24 5-C:68 Burial Permit Procedures. When a body is to be stored, the burial permit shall be
+25 completed by the cemetery sexton where the body is entombed and sent to the clerk of the town or
+26 city where the storage vault is located. When the body is to be moved from entombment for final
+27 disposition, the funeral director, next of kin, or designated agent shall obtain the permit from the
+28 clerk of the town or city to use as the permit for final disposition. When the body is to be cremated,
+29 at least 48 hours shall elapse before cremation can take place in accordance with RSA 325-A and a
+30 separate cremation certificate shall be obtained from the medical examiner and submitted to the
+31 crematory with the burial permit pursuant to RSA 325-A. When the body is to be disposed by
+32 natural organic reduction (NOR), at least 48 hours shall elapse before NOR can take place
+33 in accordance with RSA 325-B and a separate certificate shall be obtained from the
+34 medical examiner and submitted to the NOR facility with the burial permit pursuant to
+35 RSA 325-B. No separate permit shall be required when transporting a body by common carrier or
+36 remainstohisorherfinaldisposition.
+37 5 AssistantDeputyMedicalExaminerAccounts. AmendRSA611-B:27,Itoreadasfollows:
+
+HB1457-FN-ASAMENDEDBYTHEHOUSE
+-Page11-
+1 I. Assistant deputy medical examiners shall be paid at the following rates: telephone
+2 consultations-$25; death investigations involving an external examination of the body-$140, plus
+3 mileage at the state rate; pre-cremation examinations conducted pursuant to RSA 325-A:18-$50;
+4 pre-naturalorganicreductionexaminationsconductedpursuanttoRSA325-B:14-$60.
+5 6 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2919
+2/24/26
+HB1457-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0560h)
+ANACT relativetonaturalorganicreductionofhumanremains.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+($10,000to ($10,000to ($10,000to
+$100,000) $100,000) $100,000)
+RevenueFund(s) OfficeofProfessionalLicensureandCertificationFund
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+($10,000to ($10,000to ($10,000to
+$100,000) $100,000) $100,000)
+FundingSource(s) OfficeofProfessionalLicensureandCertificationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the licensing and regulation under the board of registration of funeral
+directorsandembalmersforthenaturalorganicreductionofhumanremains.
+The Office of Professional Licensure and Certification (OPLC) states this legislation would
+increase licensing, inspections, enforcement, and hearings before the board while also creating
+some processes that are inconsistent with the practices established under RSA 310. While the
+OPLC already has staff that handles licensing, inspections, enforcement, hearings, and
+rulemaking there is no way to determine how much the bill will increase expenditures based on
+thoseneedsthusthefinancialimpactisuncertain.
+The OPLC anticipates an increase in revenue through licensing, inspection fees, and
+administrativefineswhichshouldoffsetsomeofthecostsandhaveoverallfiscalimpactbetween
+$10,000to$100,000.
+ItisassumedthefiscalimpactwillnotoccuruntilFY2027.
+
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertification
+[As this bill is similar to SB 53, 2025 Session, we used the same information the agency
+providedatthattimetopreparetheabovefiscalnote]

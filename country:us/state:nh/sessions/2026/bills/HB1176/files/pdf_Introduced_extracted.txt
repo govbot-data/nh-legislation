@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1176-FN-ASINTRODUCED
+2026SESSION
+26-2473
+06/05
+1176-FN
+HOUSEBILL
+ANACT relativetothedisplayoflicenseplatesonvehicles.
+SPONSORS: Rep. Notter, Hills. 12; Rep. Alexander Jr., Hills. 29; Rep. Labrie, Hills. 2; Rep.
+Aures, Merr. 13; Rep. Aldrich, Belk. 6; Rep. Spillane, Rock. 2; Rep. Ammon, Hills.
+42;Sen.Murphy,Dist16
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillremovestherequirementthatamotorvehicledisplayafrontlicenseplate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1176-FN-ASINTRODUCED
+26-2473
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedisplayoflicenseplatesonvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NumberPlates. AmendRSA261:75,IItoreadasfollows:
+2 II. Everyvehicledriveninoronanywayinthisstate,ifrequiredtoberegisteredhereunder,
+3 shall have displayed conspicuously [thereon] on the rear of the vehicle a single number plate [or
+4 plates] tobefurnished bythedepartment, together withanycurrent validationsticker issued by the
+5 department and which has a changeable designation of their effective period. The director may
+6 make special rules relative to [the number of plates,] the location of said plate [or plates] on the
+7 vehicle, and the material and design thereof, provided, however, that number plates for passenger
+8 vehiclesshallhavethestatemotto"LiveFreeorDie"writtenthereon. Theplateshallbekeptclean.
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2473
+11/5/25
+HB1176-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothedisplayoflicenseplatesonvehicles.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$646,667 $776,000 $776,000
+Revenue $0
+Decrease Decrease Decrease
+RevenueFund(s) ReflectorizedPlateFund(RSA228:25)
+$565,833 $679,000 $679,000
+Expenditures* $0
+Decrease Decrease Decrease
+FundingSource(s) ReflectorizedPlateFund(RSA228:25)
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill removes the requirement that a motor vehicle display a front license plate. Based on
+information provided by the Department of Safety, approximately 194,000 vehicles were
+registered with new plate types in calendar year 2024. The Department states the cost to
+produce a single plate is approximately $3.50, with the current statutory fee set at $4 per plate.
+Therefore, annually this bill could reduce state expenditures and revenue by $679,000 ($3.50 x
+194,000 plates) and $776,000 ($4 x 194,000 plates), respectively. Assuming an effective date of
+September 1, 2026, those amounts would be reduced in FY 2027 to approximately $565,833 and
+$646,667, respectively. It should be noted that motor vehicle registration and licensing
+legislationistypicallyeffectivetobeginacalendaryear(January1).
+AGENCIESCONTACTED:
+DepartmentofSafety

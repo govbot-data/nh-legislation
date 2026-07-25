@@ -1,0 +1,440 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1127-ASAMENDEDBYTHEHOUSE
+11Mar2026...0880h
+2026SESSION
+26-2276
+09/05
+1127
+HOUSEBILL
+ANACT relativetotheuniformvoidabletransactionsact.
+SPONSORS: Rep.Lynn,Rock.17;Rep.Berch,Ches.6
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the uniform fraudulent transfer act and replaces it with the uniform voidable
+transactionsact.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1127-ASAMENDEDBYTHEHOUSE
+11Mar2026...0880h 26-2276
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuniformvoidabletransactionsact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Uniform Voidable Transactions Act. Amend RSA by inserting after chapter
+2 545-Athefollowingnewchapter:
+3 CHAPTER545-B
+4 UNIFORMVOIDABLETRANSACTIONSACT
+5 545-B:1 Definitions. Asusedinthischapter:
+6 I. “Affiliate”means:
+7 (a) A person that directly or indirectly owns, controls, or holds with power to vote, 20
+8 percentor moreof theoutstandingvotingsecurities ofthedebtor, other thanapersonthat holds the
+9 securities:
+10 (1) Asafiduciaryoragentwithoutsolediscretionarypowertovotethesecurities;or
+11 (2) Solelytosecureadebt,ifthepersonhasnotinfactexercisedthepowertovote;
+12 (b) A corporation 20 percent or more of whose outstanding voting securities are directly
+13 or indirectly owned, controlled, or held with power to vote, by the debtor or a person that directly or
+14 indirectly owns, controls, or holds, with power to vote, 20 percent or more of the outstanding voting
+15 securitiesofthedebtor,otherthanapersonthatholdsthesecurities:
+16 (1) Asafiduciaryoragentwithoutsolediscretionarypowertovotethesecurities;or
+17 (2) Solelytosecureadebt,ifthepersonhasnotinfactexercisedthepowertovote;
+18 (c) A person whose business is operated by the debtor under a lease or other agreement,
+19 orapersonsubstantiallyallofwhoseassetsarecontrolledbythedebtor;or
+20 (d) A person that operates the debtor’s business under a lease or other agreement or
+21 controlssubstantiallyallofthedebtor’sassets.
+22 II. “Asset”meanspropertyofadebtor,butthetermdoesnotinclude:
+23 (a) Propertytotheextentitisencumberedbyavalidlien;
+24 (b) Propertytotheextentitisgenerallyexemptundernon-bankruptcylaw;or
+25 (c) Aninterestinpropertyheldintenancybytheentiretiestotheextentitisnotsubject
+26 toprocessbyacreditorholdingaclaimagainstonlyonetenant.
+27 III. “Claim”, except as used in “claim for relief”, means a right to payment, whether or not
+28 the right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured,
+29 disputed,undisputed,legal,equitable,secured,orunsecured.
+30 IV. “Creditor”meansapersonthathasaclaim.
+31 V. “Debt”meansliabilityonaclaim.
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 VI. “Debtor”meansapersonthatisliableonaclaim.
+2 VII. “Electronic” means relating to technology having electrical, digital, magnetic, wireless,
+3 optical,electromagnetic,orsimilarcapabilities.
+4 VIII. “Insider”includes:
+5 (a) Ifthedebtorisanindividual:
+6 (1) Arelativeofthedebtororofageneralpartnerofthedebtor;
+7 (2) Apartnershipinwhichthedebtorisageneralpartner;
+8 (3) Ageneralpartnerinapartnershipdescribedinsubparagraph(a)(2);or
+9 (4) Acorporationofwhichthedebtorisadirector,officer,orpersonincontrol;
+10 (b) Ifthedebtorisacorporation:
+11 (1) Adirectorofthedebtor;
+12 (2) Anofficerofthedebtor;
+13 (3) Apersonincontrolofthedebtor;
+14 (4) Apartnershipinwhichthedebtorisageneralpartner;
+15 (5) Ageneralpartnerinapartnershipdescribedinsubparagraph(b)(4);or
+16 (6) Arelativeofageneralpartner,director,officer,orpersonincontrolofthedebtor;
+17 (c) Ifthedebtorisapartnership:
+18 (1) Ageneralpartnerinthedebtor;
+19 (2) A relative of a general partner in, a general partner of, or a person in control of
+20 thedebtor;
+21 (3) Anotherpartnershipinwhichthedebtorisageneralpartner;
+22 (4) Ageneralpartnerinapartnershipdescribedinsubparagraph(c)(3);or
+23 (5) Apersonincontrolofthedebtor;
+24 (d) Anaffiliate,oraninsiderofanaffiliateasiftheaffiliatewerethedebtor;and
+25 (e) Amanagingagentofthedebtor.
+26 IX. “Lien” means a charge against or an interest in property to secure payment of a debt or
+27 performance of an obligation, and includes a security interest created by agreement, a judicial lien
+28 obtainedbylegalorequitableprocessorproceedings,acommon-lawlien,orastatutorylien.
+29 X. “Organization”meansapersonotherthananindividual.
+30 XI. “Person” means an individual, estate, partnership, association, trust, business or
+31 nonprofit entity, public corporation, government or governmental subdivision, agency, or
+32 instrumentality,orotherlegalorcommercialentity.
+33 XII. “Property”meansanythingthatmaybethesubjectofownership.
+34 XIII. “QualifiedNewHampshiretrust"meansanirrevocabletrustthat:
+35 (a) Expresslyprovidesthatthevalidity,construction,andadministrationofthetrustare
+36 governedbythelawsofthisstate;
+37 (b) Includesaspendthriftprovision;
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 (c) Has at least one trustee who is a resident of or whose place of business is in this
+2 state;and
+3 (d) Providesthatsomeoralloftheadministrationofthetrustisperformedinthisstate.
+4 XIV. “Record” means information that is inscribed on a tangible medium or that is stored in
+5 anelectronicorothermediumandisretrievableinperceivableform.
+6 XV. “Relative” means an individual related by consanguinity within the third degree as
+7 determined by the common law, a spouse, or an individual related to a spouse within the third
+8 degree as so determined, and includes an individual in an adoptive relationship within the third
+9 degree.
+10 XVI. “Sign”means,withpresentintenttoauthenticateoradoptarecord:
+11 (a) Toexecuteoradoptatangiblesymbol;or
+12 (b) To attach to or logically associate with the record an electronic symbol, sound, or
+13 process.
+14 XVII. “Transfer” means every mode, direct or indirect, absolute or conditional, voluntary or
+15 involuntary,ofdisposingoforpartingwithanassetoraninterestinanasset,andincludespayment
+16 ofmoney,release,lease,license,andcreationofalienorotherencumbrance.
+17 XVIII. "Transfer to a qualified New Hampshire trust" means a transfer of an asset by a
+18 debtortoaqualifiedNewHampshiretrust.
+19 XIX. “Valid lien” means a lien that is effective against the holder of a judicial lien
+20 subsequentlyobtainedbylegalorequitableprocessorproceedings.
+21 545-B:2 Insolvency.
+22 I. A debtor is insolvent if, at a fair valuation, the sum of the debtor’s debts is greater than
+23 thesumofthedebtor’sassets.
+24 II. Adebtor that is generallynot payingthedebtor’s debts astheybecomedueother thanas
+25 a result of a bona fide dispute is presumed to be insolvent. The presumption imposes on the party
+26 against which the presumption is directed the burden of proving that the nonexistence of insolvency
+27 ismoreprobablethanitsexistence.
+28 III. Assets under this section do not include property that has been transferred, concealed,
+29 or removed with intent to hinder, delay, or defraud creditors or that has been transferred in a
+30 mannermakingthetransfervoidableunderthischapter.
+31 IV. Debtsunderthissectiondonotincludeanobligationtotheextentitissecuredbyavalid
+32 lienonpropertyofthedebtornotincludedasanasset.
+33 545-B:3 Value.
+34 I. Value is given for a transfer or an obligation if, in exchange for the transfer or obligation,
+35 property is transferred or an antecedent debt is secured or satisfied, but value does not include an
+36 unperformed promise made otherwise than in the ordinary course of the promisor’s business to
+37 furnishsupporttothedebtororanotherperson.
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 II. For the purposes of RSA 545-B:4, I(b) and RSA 545-B:5, a person gives a reasonably
+2 equivalent value if the person acquires an interest of the debtor in an asset pursuant to a regularly
+3 conducted, noncollusive foreclosure sale or execution of a power of sale for the acquisition or
+4 disposition of the interest of the debtor upon default under a mortgage, deed of trust, or security
+5 agreement.
+6 III. A transfer is made for present value if the exchange between the debtor and the
+7 transfereeisintendedbythemtobecontemporaneousandisinfactsubstantiallycontemporaneous.
+8 545-B:4 TransferorObligationVoidableastoPresentorFutureCreditor.
+9 I. Atransfermadeorobligationincurredbyadebtorisvoidableastoacreditor,whetherthe
+10 creditor’s claim arose before or after the transfer was made or the obligation was incurred, if the
+11 debtormadethetransferorincurredtheobligation:
+12 (a) Withactualintenttohinder,delay,ordefraudanycreditorofthedebtor;or
+13 (b) Without receiving a reasonably equivalent value in exchange for the transfer or
+14 obligation,andthedebtor:
+15 (1) Was engaged or was about to engage in a business or a transaction for which the
+16 remainingassetsofthedebtorwereunreasonablysmallinrelationtothebusinessortransaction;or
+17 (2) Intended to incur, or believed or reasonably should have believed that the debtor
+18 wouldincur,debtsbeyondthedebtor’sabilitytopayastheybecamedue.
+19 II. In determining actual intent under subparagraph I(a), consideration may be given,
+20 amongotherfactors,towhether:
+21 (a) Thetransferorobligationwastoaninsider;
+22 (b) The debtor retained possession or control of the property transferred after the
+23 transfer;
+24 (c) Thetransferorobligationwasdisclosedorconcealed;
+25 (d) Beforethetransferwasmadeorobligationwasincurred,thedebtorhadbeensuedor
+26 threatenedwithsuit;
+27 (e) Thetransferwasofsubstantiallyallthedebtor’sassets;
+28 (f) Thedebtorabsconded;
+29 (g) Thedebtorremovedorconcealedassets;
+30 (h) The value of the consideration received by the debtor was reasonably equivalent to
+31 thevalueoftheassettransferredortheamountoftheobligationincurred;
+32 (i) The debtor was insolvent or became insolvent shortly after the transfer was made or
+33 theobligationwasincurred;
+34 (j) The transfer occurred shortly before or shortly after a substantial debt was incurred;
+35 and
+36 (k) The debtor transferred the essential assets of the business to a lienor that
+37 transferredtheassetstoaninsiderofthedebtor.
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 III. Except as provided in paragraph IV, a creditor making a claim for relief under
+2 paragraph I has the burden of proving the elements of the claim for relief by a preponderance of the
+3 evidence.
+4 IV. A creditor making a claim for relief under subparagraph I(a) against a qualified New
+5 Hampshire trust has the burden of proving the elements of the claim for relief by clear and
+6 convincingevidence.
+7 545-B:5 TransferorObligationVoidableastoPresentCreditor.
+8 I. Atransfer madeor obligationincurred byadebtoris voidableas toacreditorwhose claim
+9 arose before the transfer was made or the obligation was incurred if the debtor made the transfer or
+10 incurred the obligation without receiving a reasonably equivalent value in exchange for the transfer
+11 or obligation and the debtor was insolvent at that time or the debtor became insolvent as a result of
+12 thetransferorobligation.
+13 II. A transfer made by a debtor is voidable as to a creditor whose claim arose before the
+14 transfer was made if the transfer was made to an insider for an antecedent debt, the debtor was
+15 insolventatthattime,andtheinsiderhadreasonablecausetobelievethatthedebtorwasinsolvent.
+16 III. Subject to RSA 545-B:2, II, a creditor making a claim for relief under paragraph I or II
+17 hastheburdenofprovingtheelementsoftheclaimforreliefbyapreponderanceoftheevidence.
+18 545-B:6 WhenTransferisMadeorObligationisIncurred. Forthepurposesofthischapter:
+19 I. Atransferismade:
+20 (a) With respect to an asset that is real property other than a fixture, but including the
+21 interest of a seller or purchaser under a contract for the sale of the asset, when the transfer is so far
+22 perfected that a good-faith purchaser of the asset from the debtor against which applicable law
+23 permits the transfer to be perfected cannot acquire an interest in the asset that is superior to the
+24 interestofthetransferee;and
+25 (b) With respect to an asset that is not real property or that is a fixture, when the
+26 transfer is so far perfected that a creditor on a simple contract cannot acquire a judicial lien
+27 otherwisethanunderthischapterthatissuperiortotheinterestofthetransferee;
+28 II. If applicable law permits the transfer to be perfected as provided in subparagraph I(a)
+29 and the transfer is not so perfected before the commencement of an action for relief under this
+30 chapter,thetransferisdeemedmadeimmediatelybeforethecommencementoftheaction;
+31 III. If applicable law does not permit the transfer to be perfected as provided in
+32 subparagraph I(a), the transfer is made when it becomes effective between the debtor and the
+33 transferee;
+34 IV. Atransferisnotmadeuntilthedebtorhasacquiredrightsintheassettransferred;and
+35 V. Anobligationisincurred:
+36 (a) Iforal,whenitbecomeseffectivebetweentheparties;or
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page6-
+1 (b) If evidenced by a record, when the record signed by the obligor is delivered to or for
+2 thebenefitoftheobligee.
+3 545-B:7 RemediesofCreditor.
+4 I. In an action for relief against a transfer or obligation under this chapter, a creditor,
+5 subjecttothelimitationsinRSA545-B:8,mayobtain:
+6 (a) Avoidanceofthetransferorobligationtotheextentnecessarytosatisfythecreditor’s
+7 claim;
+8 (b) An attachment or other provisional remedy against the asset transferred or other
+9 propertyofthetransfereeifavailableunderapplicablelaw;and
+10 (c) Subject to applicable principles of equity and in accordance with applicable rules of
+11 civilprocedure:
+12 (1) Aninjunctionagainstfurtherdispositionbythedebtororatransferee,orboth,of
+13 theassettransferredorofotherproperty;
+14 (2) Appointment of a receiver to take charge of the asset transferred or of other
+15 propertyofthetransferee;or
+16 (3) Anyotherreliefthecircumstancesmayrequire.
+17 II. If a creditor has obtained a judgment on a claim against the debtor, the creditor, if the
+18 courtsoorders,maylevyexecutionontheassettransferredoritsproceeds.
+19 545-B:8 Defenses,Liability,andProtectionofTransfereeorObligee.
+20 I. Atransfer or obligationis not voidableunder RSA545-B:4, I(a) against apersonthat took
+21 in good faith and for a reasonably equivalent value given the debtor or against any subsequent
+22 transfereeorobligee.
+23 II. To the extent a transfer is avoidable in an action by a creditor under RSA 545-B:7, I(a),
+24 thefollowingrulesapply:
+25 (a) Except as otherwise provided in this section, the creditor may recover judgment for
+26 the value of the asset transferred, as adjusted under paragraph III, or the amount necessary to
+27 satisfythecreditor’sclaim,whicheverisless. Thejudgmentmaybeenteredagainst:
+28 (1) The first transferee of the asset or the person for whose benefit the transfer was
+29 made;or
+30 (2) Animmediateormediatetransfereeofthefirsttransferee,otherthan:
+31 (A) Agood-faithtransfereethattookforvalue;or
+32 (B) An immediate or mediate good-faith transferee of a person described in
+33 subparagraphII(a)(2)(A).
+34 (b) Recovery pursuant to RSA 545-B:7, I(a) or II of or from the asset transferred or its
+35 proceeds, by levy or otherwise, is available only against a person described in subparagraph II(a)(1)
+36 or(2).
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page7-
+1 III. If the judgment under paragraph II is based upon the value of the asset transferred, the
+2 judgmentmustbeforanamountequaltothevalueoftheassetatthetimeofthetransfer,subjectto
+3 adjustmentastheequitiesmayrequire.
+4 IV. Notwithstanding voidability of a transfer or an obligation under this chapter, a good-
+5 faith transferee or obligee is entitled, to the extent of the value given the debtor for the transfer or
+6 obligation,to:
+7 (a) Alienonorarighttoretainaninterestintheassettransferred;
+8 (b) Enforcementofanobligationincurred;or
+9 (c) Areductionintheamountoftheliabilityonthejudgment.
+10 V. A transfer is not voidable under RSA 545-B:4, I(b) or RSA 545-B:5 if the transfer results
+11 from:
+12 (a) Termination of a lease upon default by the debtor when the termination is pursuant
+13 totheleaseandapplicablelaw;or
+14 (b) Enforcement of a security interest in compliance with Article 9 of the Uniform
+15 Commercial Code, RSA 382-A:9-101 to 382-A:9-628, other than acceptance of collateral in full or
+16 partialsatisfactionoftheobligationitsecures.
+17 VI. AtransferisnotvoidableunderRSA545-B:5,II:
+18 (a) To the extent the insider gave new value to or for the benefit of the debtor after the
+19 transferwasmade,excepttotheextentthenewvaluewassecuredbyavalidlien;
+20 (b) If made in the ordinary course of business or financial affairs of the debtor and the
+21 insider;or
+22 (c) If made pursuant to a good-faith effort to rehabilitate the debtor and the transfer
+23 securedpresentvaluegivenforthatpurposeaswellasanantecedentdebtofthedebtor.
+24 VII. Thefollowingrulesdeterminetheburdenofprovingmattersreferredtointhissection:
+25 (a) A party that seeks to invoke paragraph I, IV, V, or VI has the burden of proving the
+26 applicabilityofthatparagraph.
+27 (b) Except as otherwise provided in subparagraphs VII(c) and (d), the creditor has the
+28 burdenofprovingeachapplicableelementofparagraphIIorIII.
+29 (c) The transferee has the burden of proving the applicability to the transferee of
+30 subparagraphII(a)(2)(A)or(B).
+31 (d) A party that seeks adjustment under paragraph III has the burden of proving the
+32 adjustment.
+33 VIII. The standard of proof required to establish matters referred to in this section is
+34 preponderanceoftheevidence.
+35 545-B:9 Extinguishment of Claim for Relief. A claim for relief with respect to a transfer or
+36 obligationunderthischapterisextinguishedunlessactionisbrought:
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page8-
+1 I. Under RSA 545-B:4, I(a), not later than 4 years after the transfer was made or the
+2 obligation was incurred or, if later, not later than one year after the transfer or obligation was or
+3 couldreasonablyhavebeendiscoveredbytheclaimant;
+4 II. Under RSA 545-B:4, I(b) or RSA 545-B:5, I, not later than 4 years after the transfer was
+5 madeortheobligationwasincurred;or
+6 III. UnderRSA545-B:5,II,notlaterthanoneyearafterthetransferwasmade.
+7 545-B:10 GoverningLaw.
+8 I. Inthissection,thefollowingrulesdetermineadebtor’slocation:
+9 (a) Adebtorwhoisanindividualislocatedattheindividual’sprincipalresidence.
+10 (b) A debtor that is an organization and has only one place of business is located at its
+11 placeofbusiness.
+12 (c) Adebtorthatisanorganizationandhasmorethanoneplaceofbusinessislocatedat
+13 itschiefexecutiveoffice.
+14 II. Except as provided in paragraph III, a claim for relief in the nature of a claim for relief
+15 underthischapterisgovernedbythelocallawofthejurisdictioninwhichthedebtorislocatedwhen
+16 thetransferismadeortheobligationisincurred.
+17 III. A claim for relief under this chapter arising out of a transfer to a qualified New
+18 Hampshire trust is governed by the law of this state if the transferee was a qualified New
+19 Hampshiretrustwhenthetransferwasmade.
+20 545-B:11 ApplicationtoSeriesOrganization.
+21 I. Inthissection:
+22 (a) “Protected series” means an arrangement, however denominated, created by a series
+23 organization that, pursuant to the law under which the series organization is organized, has the
+24 characteristicssetforthinsubparagraphI(b).
+25 (b) “Seriesorganization”meansanorganizationthat,pursuanttothelawunderwhichit
+26 isorganized,hasthefollowingcharacteristics:
+27 (1) Theorganicrecordoftheorganizationprovidesforcreationbytheorganizationof
+28 one or more protected series, however denominated, with respect to specified property of the
+29 organization, and for records to be maintained for each protected series that identify the property of
+30 orassociatedwiththeprotectedseries.
+31 (2) Debt incurred or existing with respect to the activities of, or property of or
+32 associated with, a particular protected series is enforceable against the property of or associated
+33 with the protected series only, and not against the property of or associated with the organization or
+34 otherprotectedseriesoftheorganization.
+35 (3) Debt incurred or existing with respect to the activities or property of the
+36 organization is enforceable against the property of the organization only, and not against the
+37 propertyoforassociatedwithaprotectedseriesoftheorganization.
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page9-
+1 II. A series organization and each protected series of the organization is a separate person
+2 for purposes of this chapter, even if for other purposes a protected series is not a person separate
+3 fromtheorganizationorotherprotectedseriesoftheorganization.
+4 545-B:12 SupplementaryProvisions.
+5 I. Unless displaced by the provisions of this chapter, the principles of law and equity,
+6 including the law merchant and the law relating to principal and agent, estoppel, laches, fraud,
+7 misrepresentation, duress, coercion, mistake, insolvency, or other validating or invalidating cause,
+8 supplementitsprovisions.
+9 II. The replacement of the term “fraudulent” used in former RSA chapter 545-A with the
+10 term “voidable” in this chapter is a matter of style and has no substantive effect and makes no
+11 changeinmeaning.
+12 III. Althoughthischapterisderived,inpart,fromtheUniformVoidableTransactionsActas
+13 promulgated by the National Conference of Commissioners on Uniform State Laws, the Official
+14 CommentstotheUniformVoidableTransactionsAct,asamendedfromtimetotime,donothavethe
+15 force of law and do not reflect any legislative intent relating to, or provide any other basis for
+16 interpreting or applying, this chapter in a manner that is inconsistent with New Hampshire law, as
+17 judicially interpreted and applied, including without limitation law relating to qualified New
+18 Hampshiretrustsandtheelementsofaclaimforreliefunderthischapter.
+19 545-B:13 Uniformity of Application and Construction. This chapter shall be applied and
+20 construed to effectuate its general purpose to make uniform the law with respect to the subject of
+21 this chapter among states enacting the Uniform Voidable Transactions Act, as promulgated by the
+22 National Conference of Commissioners on Uniform State Laws, but only to make uniform among
+23 states theprovisions of this chapter that conform tothat Act, and not tomake uniform among states
+24 the non-uniform provisions of this chapter that deviate from the provisions of that Act and that
+25 deviate from and make inapplicable the Official Comments to that Act. That general purpose is in
+26 all respects subject to and does not apply to those non-uniform provisions of this chapter and does
+27 not apply to any other provisions of this chapter to the extent that the application would impair or
+28 diminishtheeffectsofthosenon-uniformprovisions.
+29 545-B:14 Relation to Electronic Signatures in Global and National Commerce Act. This chapter
+30 modifies, limits, or supersedes the Electronic Signatures in Global and National Commerce Act, 15
+31 U.S.C. Section 7001 et seq., but does not modify, limit, or supersede Section 101(c) of that act, 15
+32 U.S.C. Section 7001(c), or authorize electronic delivery of any of the notices described in Section
+33 103(b)ofthatact,15U.S.C.Section7003(b).
+34 545-B:15 Short Title; Predecessor References. The predecessor of this chapter, RSA 545-A, was
+35 cited as the uniform fraudulent transfer act, and this chapter, RSA 545-B, may be cited as the
+36 uniformvoidabletransactionsact.
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page10-
+1 2 Creditor'sClaimAgainstaSettlorofanIrrevocableTrust. Amendtheintroductoryparagraph
+2 ofRSA564-B:5-505A,(f)toreadasfollows:
+3 (f) Notwithstanding RSA [545-A:9] 545-B:9, a creditor or assignee of a settlor may not
+4 commence a judicial proceeding with respect to the settlor's transfer of property to an irrevocable
+5 trustthatcontainsaspendthriftprovisionafterthelaterof:
+6 3 Creditor's Claim Against a Settlor of an Irrevocable Trust. Amend RSA 564-B:5-505A, (g) to
+7 readasfollows:
+8 (g) For purposes of subsection (f) and RSA [545-A:4] 545-B:4, a creditor or assignee of a
+9 settlor shall prove that, with respect to the creditor or assignee, the settlor's transfer to the trust
+10 wasfraudulent.
+11 4 Creditor's Claim Against a Settlor of an Irrevocable Trust. Amend RSA 564-B:5-505A, (m)(3)
+12 toreadasfollows:
+13 (3) Except as otherwise provided in this section, RSA [545-A] 545-B or a similar law
+14 ofanotherstatehavingjurisdictionoveratransferofproperty.
+15 5 New Hampshire Worker Adjustment and Retraining Notification Act; Liability. Amend RSA
+16 275-F:8,VIIItoreadasfollows:
+17 VIII. In addition to asserting the lien as provided in subparagraph I(d), the state of New
+18 Hampshire, through the department, shall be deemed to be a creditor under RSA [545-A] 545-B for
+19 the liability of the employer as determined under paragraph I and may assert claims pursuant to
+20 RSA [545-A:4] 545-B:4 and RSA [545-A:5] 545-B:5, as applicable, and shall have the remedies set
+21 forth in RSA [545-A] 545-B for such claims under RSA [545-A] 545-B which are established by the
+22 state.
+23 6 Attachments; Attachable Property and Exemptions; Exemptions. Amend RSA 511:2, XIX to
+24 readasfollows:
+25 XIX. Subject to the [Uniform Fraudulent Transfer Act, RSA 545-A] uniform voidable
+26 transactions act, RSA 545-B, any interest in a retirement plan or arrangement qualified for tax
+27 exemption purposes under present or future acts of Congress; provided, any transfer or rollover
+28 contribution between retirement plans shall not be deemed a transfer which is fraudulent as to a
+29 creditor under the [Uniform Fraudulent Transfer Act] uniform voidable transactions act.
+30 "Retirement plan or arrangement qualified for tax exemption purposes" shall include without
+31 limitation, trusts, custodial accounts, insurance, annuity contracts, and other properties and rights
+32 constituting a part thereof. By way of example and not by limitation, retirement plans or
+33 arrangementsqualifiedfortaxexemptionpurposespermittedunderpresentactsofCongressinclude
+34 defined contribution plans and defined benefit plans as defined under the Internal Revenue Code
+35 (IRC), individual retirement accounts including Roth IRAs and education IRAs, individual
+36 retirement annuities, simplified employee pension plans, Keogh plans, IRC section 403(a) annuity
+37 plans, IRC section 403(b) annuities, and eligible state deferred compensation plans governed under
+
+HB1127-ASAMENDEDBYTHEHOUSE
+-Page11-
+1 IRCsection457. Thisparagraphshallbeinadditiontoandnotalimitationofanyotherprovisionof
+2 New Hampshire law which grants an exemption from attachment or execution and every other
+3 speciesofforcedsaleforthepaymentofdebts. Thisparagraphshallbeeffectiveforretirementplans
+4 and arrangements in existence on, or created after January 1, 1999, but shall apply only to
+5 extensionsofcreditmade,anddebtsarising,afterJanuary1,1999.
+6 7 Repeal. RSA545-A,relativetouniformfraudulenttransferact,isrepealed.
+7 8 Applicability.
+8 I. RSA 545-A shall apply to a transfer made or obligation incurred before the effective date
+9 ofthisact.
+10 II. RSA 545-B, as inserted by section 1 of this act, shall apply to a transfer made or
+11 obligationincurredonoraftertheeffectivedatethisact.
+12 III. RSA 545-B, as inserted by section 1 of this act, shall not apply to a right of action that
+13 hasaccruedbeforetheeffectivedateofthisact.
+14 IV. For purposes of this section, a transfer is made and an obligation is incurred at the time
+15 providedinRSA545-A:6.
+16 9 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

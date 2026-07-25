@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1586-FN-ASINTRODUCED
+2026SESSION
+26-3242
+07/09
+1586-FN
+HOUSEBILL
+ANACT allowing the commissioner of the department of education to withhold funds from
+public schools if such schools are not providing special education services in
+compliancewithstatelaw.
+SPONSORS: Rep.Noble,Hills.2;Rep.Freeman,Belk.8;Sen.Sullivan,Dist18
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the commissioner of the department of education to withhold funds from public
+schoolsifsuchschoolsarenotprovidingspecialeducationservicesincompliancewithstatelaw.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1586-FN-ASINTRODUCED
+26-3242
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing the commissioner of the department of education to withhold funds from
+public schools if such schools are not providing special education services in
+compliancewithstatelaw.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Chartered Public Schools; Establishment; Application; Amendment; Procedure.
+2 AmendRSA194-B:3,VI(c)toreadasfollows:
+3 (c) Nothing in this section shall be construed to limit a school district's obligation to
+4 provide special education services to all qualifying students residing in the district consistent with
+5 the requirements of state and federal law. Should a public school fail to abide by this section,
+6 thecommissioner of the departmentof educationshall haltall sourcesof publicfundingto
+7 that school until such time as the school comes into compliance with this section. The
+8 commissioner shall notify the state treasurer if a public school is not in compliance with
+9 thissection,atwhichtime thetreasurer shall haltall formsof publicfundingto the school
+10 untilthecommissionerhascertifiedtheschoolcomeintocompliancewiththissection.
+11 2 New Subparagraph; Education; Chartered Public Schools; Authority and Duties of Board of
+12 Trustees. Amend RSA 194-B:5, VIII by inserting after subparagraph (c) the following new
+13 subparagraph:
+14 (d) Should a public school fail to abide by this section, the commissioner of the
+15 departmentofeducationandthestatetreasurershallhaltallsourcesofpublicfundingtothatschool
+16 inthesamemannerdescribedinRSA194-B:3,VI(c).
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3242
+12/2/25
+HB1586-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowing the commissioner of the department of education to withhold funds from
+public schools if such schools are not providing special education services in
+compliancewithstatelaw.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $80,000 $84,000 $87,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill requires the Department of Education to withhold funds from public schools if such
+schools are not providing special education services for students in charter schools in compliance
+with state law. The Department has provided the following for interpreting this bill for fiscal
+impactpurposes:
+ This language states that when school districts do not provide services to students with
+disabilities receiving special education the district will have all state and federal funds
+halted until they are complying with this section. Currently school districts can only
+provide services in the student’s Individualized Education Program (IEP). It is unclear
+how it would be determined that a school district is not providing services per the
+student’sIEP.
+ The Department understands this bill to amend language around the implementation of
+a Memorandum of Understanding (MOU) between school districts and charter schools.
+
+The proposed legislation would again withhold a school district’s state and federal
+funding if they do not complete an MOU with the charter school. It is unclear if the
+school district would also have funds withheld if the charter school did not cooperate
+withtheschooldistricttodeveloptheMOUorifthecharterschoolwouldthenhavetheir
+funds withheld. The Bureau of Special Education Support currently tracks MOUs
+betweenschooldistrictsandcharterschoolssothiswouldnotbeanadditionalcost.
+ Itisunclearifastatecanwithholdfederalfundingbasedonstatelaw.
+The Department states as there are many factors that are unclear in this bill, it is unable to
+determine if it would incur a fiscal impact. If the responsibility for determining if a school
+district is providing services falls to the Bureau of Special Education Support, the Department
+states it could potentially require one staff member to oversee this as they would need to be
+tracking all students on IEPs in charter schools to ensure all students are receiving their
+services. The estimated cost for this position (SOC 23-03, step 4) is $80,000 in FY 2027, $84,000
+in FY 2028, and $87,000 in FY 2029. This bill provides neither authorization nor appropriation
+fornewpersonnel.
+It is unknown if this bill will have any direct impact on local school districts to ensure
+complianceCosts,ifany,areindeterminableandwouldvarybydistrict.
+AGENCIESCONTACTED:
+DepartmentofEducation

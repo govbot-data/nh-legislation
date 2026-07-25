@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1252-VERSIONADOPTEDBYBOTHBODIES
+12Mar2026...1010h
+05/07/2026 1736s
+2026SESSION
+26-2768
+12/06
+1252
+HOUSEBILL
+ANACT requiringthedepartmentofsafetytoonlyadministertestsforcommercialdriver's
+licenses in English and prohibiting the assistance of an interpreter during such
+tests.
+SPONSORS: Rep. Gorski, Hills. 2; Rep. T. Walsh, Merr. 10; Rep. Labrie, Hills. 2; Rep.
+Creighton, Hills. 30; Rep. Sabourin dit Choiniere, Rock. 30; Rep. Rice, Hills. 38;
+Sen.Ricciardi,Dist9
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Codifies the recent enforcement of a federal requirement that the administration of the skills
+test for commercial driver's licenses only be conducted in English and that interpreters are not
+permittedfortheadministrationoftheskillstest.
+II. Extends the same requirements for the administration of the knowledge test for commercial
+driver'slicenses.
+III. Directs the department of safety to adopt rules regarding the requirement and to provide
+notice and an opportunity for hearing to current licensees required to pass an examination in
+Englishinordertomaintaintheirlicense.
+IV. Provides an exemption for the use of interpreters for the knowledge and skills test where
+such individual or licensee qualifies or previously qualified for a federal exemption pursuant to 49
+C.F.R.part391.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1252-VERSIONADOPTEDBYBOTHBODIES
+12Mar2026...1010h
+05/07/2026 1736s 26-2768
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringthedepartmentofsafetytoonlyadministertestsforcommercialdriver's
+licenses in English and prohibiting the assistance of an interpreter during such
+tests.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Commercial Driver License Qualification Standards; Testing Requirements; English
+2 Proficiency. AmendRSA263:87toreadasfollows:
+3 263:87 Commercial Driver License Qualification Standards. No person shall be issued a
+4 commercial driver license unless that person is a resident of the state of New Hampshire and has
+5 passedaknowledgeandskillstestfordrivingacommercialmotorvehicle. Theknowledgeandskills
+6 test shall comply with minimum federal standards established by federal regulation, as enumerated
+7 in 49 C.F.R. part 383, [sub-parts] subparts G and A, in addition to other requirements imposed by
+8 state law or federal regulation. The tests shall be prescribed and conducted by the department.
+9 Interpreters are prohibited during the administration of both the knowledge and skills
+10 tests, with the exception of federally mandated exemptions under 49 C.F.R. part 391.
+11 Applicants for a commercial driver's license must be able to understand and respond to
+12 verbalcommandsandinstructionsinEnglishbyaskillstestexaminer. Theknowledgetest
+13 shallbe writtenandadministeredinEnglishonly. Neither theapplicantnor the examiner
+14 may communicate in a language other than English during both the knowledge and skills
+15 tests. The department may authorize a person, including an agency of this or another state, an
+16 employer, a private driver training facility, or other private institution, or a department, agency, or
+17 instrumentality of local government, to administer the skills test in accordance with 49 C.F.R. part
+18 383.
+19 2 New Paragraph; Commercial Licensing; Rulemaking Authority. Amend RSA 263:98 by
+20 insertingafterparagraphXthefollowingnewparagraph:
+21 XI. The procedure and administration of the commercial driver's license examination
+22 requirement of obtaining a passing score on both the knowledge and skills tests in English and
+23 withouttheassistanceofaninterpreter.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+HB1252-VERSIONADOPTEDBYBOTHBODIES
+LBA
+26-2768
+03/20/2026
+HB1252-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1010h)
+ANACT requiringthedepartmentofsafetytoonlyadministertestsforcommercialdriver's
+licenses in English and prohibiting the assistance of an interpreter during such
+tests.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofSafety

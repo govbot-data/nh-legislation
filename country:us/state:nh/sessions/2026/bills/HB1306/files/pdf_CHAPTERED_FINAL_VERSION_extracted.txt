@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER299
+HB1306-FINALVERSION
+11Mar2026...0635h
+04/23/2026 1506s
+4Jun2026...2110CofC
+4Jun2026...2174EBA
+2026SESSION
+26-2881
+08/05
+1306
+HOUSEBILL
+ANACT relativetothecountingofabsenteeballots.
+SPONSORS: Rep. Burnham, Straf. 2; Rep. Wood, Merr. 13; Rep. Wherry, Hills. 13; Rep. DeRoy,
+Straf.3;Sen.Gray,Dist6
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill creates the absentee ballot certificate and requires certain counts of absentee ballots to be
+performedbytheclerkandrecordedontheabsenteeballotcertificate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER299
+HB1306-FINALVERSION
+11Mar2026...0635h
+04/23/2026 1506s
+4Jun2026...2110CofC
+4Jun2026...2174EBA 26-2881
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecountingofabsenteeballots.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 299:1 New Section; Absentee Ballot Certificate. Amend RSA 657 by inserting after section 23 the
+2 followingnewsection:
+3 657:23-a AbsenteeBallotCertificate.
+4 I. The secretary of state shall prepare and distribute to each town or ward clerk 2 copies of the
+5 absenteeballotcertificate. Whentheabsenteeballotsarecounted,theclerkshallcertifyonthecertificate
+6 thetotalnumberofabsenteeballotsreceived,aswellasallcountsrequiredunderparagraphII. Onecopy
+7 shall be retained by the clerk for his or her records; and one copy shall be forwarded by the clerk to the
+8 secretaryofstatewithin72hoursofthecloseofelections.
+9 II. Absenteeballotsshallbecountedforthefollowing:
+10 (a) Totalabsenteeballotsreceivedbytheclerk.
+11 (b) Totalnumberofabsenteeballotsmailed/deliveredbytheclerk.
+12 (c) Totalnumberofabsenteeballotsspoiledbeforetheopeningofthepolls.
+13 (d) TotalnumberofabsenteeballotsemailedtoUOCAVAvoters.
+14 (e) Totalnumberofabsenteeballotsremainingbeforetheopeningofthepolls.
+15 299:2 Pre-ElectionCertificate. AmendRSA658:32toreadasfollows:
+16 658:32 Pre-Election Certificate. The secretary of state shall prepare and distribute to each town or
+17 wardclerk3copiesof thepre-electioncertificate. Whentheballotsarecounted, themoderator andclerk
+18 shallcertifythereonthetotalnumberofofficialandabsenteeballotsreceived. Onecopyshallberetained
+19 bythemoderatorforhisorherrecords;onecopyshallberetainedbytheclerkforhisorherrecords,and
+20 one copy shall be forwarded by the clerk to the secretary of state with the election returns pursuant to
+21 RSA659:75.
+299:3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July10,2026
+EffectiveDate:September08,2026

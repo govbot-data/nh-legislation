@@ -1,0 +1,100 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1343 -ASINTRODUCED
+2026SESSION
+26-2564
+06/05
+1343
+HOUSEBILL
+ANACT allowingremoteandhybridmeetingsforthegoverningbodyoftheorganizationof
+unitowners.
+SPONSORS: Rep. Lucas, Graf. 7; Rep. Almy, Graf. 17; Rep. Weber, Ches. 5; Rep. Bolton, Graf.
+8;Rep.Horrigan,Straf.10
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill updates quorum and meeting procedures for condominium associations by explicitly
+authorizingremoteparticipationandelectronicvotingmechanisms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1343-ASINTRODUCED
+26-2564
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowingremoteandhybridmeetingsforthegoverningbodyoftheorganizationof
+unitowners.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Quorums. AmendRSA356-B:38,Itoreadasfollows:
+2 I. Unless the condominium instruments otherwise provide, a quorum shall be deemed to be
+3 presentthroughout anymeetingof theunit owners' associationuntil adjourned if persons entitled to
+4 cast more than 33 1/3percent of the votes arepresent at the beginning of such meeting. The bylaws
+5 may provide for a smaller percentage, not less than 25 percent, or for a larger percentage for
+6 associations having fewer than 25 units; provided, however, this paragraph shall not apply if the
+7 condominium is comprised of time sharing interests. Notwithstanding any provision of the
+8 declaration or bylaws to the contrary, the governing body of the organization of unit
+9 owners may hold regularly scheduled or special meetings by telephonic, video, or other
+10 interactive electronic communication process, provided that all participants are able to
+11 communicate with each other simultaneously during the meeting. Presence by such
+12 electronic means shall satisfy any applicable quorum requirement. The governing body
+13 may vote on any action properly before it and may approve meeting minutes by electronic
+14 means,including,butnotlimitedto,emailandvideoconferencing.
+15 II. Unless the condominium instruments specify a larger majority, a quorum shall be
+16 deemed to be present throughout any meeting of the board of directors if persons entitled to cast
+17 morethan1/2ofthevotesinthatbodyarepresentatthebeginningofsuchmeeting. Participation
+18 byelectronicmeansshallsatisfyquorumrequirements.
+19 III. The governing body may conduct annual or special meetings of the unit owners
+20 without requiring physical presence. Such meetings may be held by telephonic, video, or
+21 other interactive electronic communication processes as determined by the governing body.
+22 The governing body shall notify all unit owners of such meetings and shall provide access
+23 information to facilitate participation. Participation by electronic means shall satisfy
+24 quorum requirements. The governing body shall take reasonable measures to ensure that
+25 unit owners are able to read or hear the proceedings and to pose questions or comments
+26 during the meeting. If a quorum is not met for an annual meeting, the board shall reschedule the
+27 meetingwithin60daysandprovidepropernoticeandproxies.
+28 IV. In the case of small condominiums, unless the condominium instruments otherwise
+29 provide, a quorum shall be deemed to be present throughout any meeting of the unit owners'
+30 associationuntiladjournedif3persons,orpersonsentitledtocastmorethan33percentofthevotes,
+
+HB1343 -ASINTRODUCED
+-Page2-
+1 whicheverisgreater,arepresentatthebeginningofsuchmeeting. Thisparagraphshallnotapplyif
+2 the condominium is comprised of time sharing interests. If a quorum is not met for an annual
+3 meeting, the board shall reschedule the meeting within 60 days and provide proper notice and
+4 proxies. Participationbyelectronicmeansshallsatisfyquorumrequirements.
+5 2 VotingWithoutaMeeting. AmendRSA356-B:39-a,II(b)toreadasfollows:
+6 (b) Indicate the number of responses needed to meet the quorum requirements.
+7 Participationbyelectronicmeansshallsatisfyquorumrequirements.
+8 3 VotingWithoutaMeeting. AmendRSA356-B:39-a,IVandVtoreadasfollows:
+9 IV. Approval by ballot pursuant to this section is valid only if the number of votes cast by
+10 ballot equals or exceeds the quorum required to be present at a meeting authorizing the action.
+11 Participationbyelectronicmeansshallsatisfyquorumrequirements.
+12 V. All ballots cast in an association vote under this section shall be counted using a tally
+13 sheet for the vote. If more than one ballot item was voted on, the board may elect to keep a
+14 corresponding tally sheet for each ballot item. The ballots and tally sheets shall be made available,
+15 withelectronicversions,forexaminationandrecount,byrequestofanyownerparticipatinginthe
+16 vote, immediately following announcement of the results of the vote taken. During any examination
+17 andrecountoneormoremembersoftheboardofdirectorsandatleastoneadditionalownershallbe
+18 present. Theballotsshallbeexaminedandtalliedtoverifythatthecountandannouncedresultwas
+19 correct.
+20 4 AdoptionofBudgetsandSpecialAssessments. AmendRSA356-B:40-c,Itoreadasfollows:
+21 I. The board of directors, at least annually, shall adopt a proposed budget for the unit
+22 owners' association for consideration by the unit owners. Not later than 30 days after adoption of a
+23 proposedbudget,theboardofdirectorsshallprovidetoalltheunitownersasummaryofthebudget,
+24 including any reserves, and a statement of the basis on which any reserves are calculated and
+25 funded. Simultaneously, the board shall set a date not less than 10 days or more than 60 days after
+26 providing the summary for a meeting of the unit owners to consider ratification of the budget.
+27 Unlessat that meeting2/3ofall unit owners or anylargernumber specified inthedeclarationreject
+28 thebudget,thebudgetisratified,whetherornotaquorumispresent. Participationbyelectronic
+29 means shall satisfy quorum requirements. If a proposed budget is rejected, the budget last
+30 ratifiedbytheunitownerscontinuesuntiltheunitownersratifyasubsequentbudget.
+31 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

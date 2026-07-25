@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1436-FN-ASINTRODUCED
+2026SESSION
+26-2464
+06/08
+1436-FN
+HOUSEBILL
+ANACT relative to the classification and protection of personal digital information and
+cloud-storedfiles.
+SPONSORS: Rep. Spillane, Rock. 2; Rep. Cole, Hills. 26; Rep. Popovici-Muller, Rock. 17; Rep.
+Bernardy, Rock. 36; Rep. Ammon, Hills. 42; Rep. Moffett, Merr. 4; Rep.
+Kesselring, Hills. 18; Rep. Roy, Rock. 31; Rep. Corcoran, Hills. 28; Rep. Notter,
+Hills.12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Establishes property rights in personal digital information, including data stored on cloud
+servers.
+II. Createsalegalpresumptionofbailmentforunpublishedcontent.
+III. Affirms that digital records are protected from unreasonable government searches or
+seizures,requiringawarrantunlessotherwiseauthorizedbylaw.
+IV. Distinguishes private unpublished data from public information for property and privacy
+purposes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1436-FN-ASINTRODUCED
+26-2464
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the classification and protection of personal digital information and
+cloud-storedfiles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act shall be known as the "Common Law Privacy and Consumer Protection
+2 Act."
+3 2 FindingsandPurpose. Thegeneralcourtfindsthat:
+4 I. Advances in technology and business practices involving the transfer of personal
+5 information to third-party platforms and cloud service providers have put consumers and citizens at
+6 considerableriskofbeingdivestedofrightsintheirinformationthattheyactuallyretain.
+7 II. Common law recognition of people's retained rights in information so transferred has not
+8 beensufficientlyrecognized.
+9 III. Recognition of the rights people retain in information they share with others in
+10 controlled contexts, such as providing services or sharing in confidential relationships, will help
+11 protect privacy without hindering information flows or the development of new business models and
+12 services.
+13 IV. Individuals retain property rights in information they share subject to appropriate
+14 controls,sothatitislegallyandconstitutionallytheirinformation.
+15 3 New Subdivision; Privacy and Consumer Protection. Amend RSA 507-H by inserting after
+16 section12thefollowingnewsubdivision:
+17 PrivacyandConsumerProtection
+18 507-H:13 PropertyTreatmentofPersonalInformation.
+19 I. One who takes possession of and places the unpublished personal information of another
+20 intoadigitalrecord,includingbutnotlimitedtothosestoredinacloudserver,ispresumedtocreate
+21 abailmentformutualbenefit,subjecttotermsestablishedbycontract.
+22 II. Personal information that remains identifiable after incorporation in a digital record is
+23 presumedtoremainthepropertyofitsoriginalowner.
+24 III. A digital record derivative of such a record containing no personally identifiable
+25 informationispresumedtobelongtoitscreatorbyrulesofaccession.
+26 IV. Forpurposesofarticle19oftheNewHampshireconstitution,theFourthAmendmentto
+27 the United States Constitution, and RSA 595-A, a digital document or record, whether stored locally
+28 on a device or in a cloud server subject to contractual protections against disclosure, shall be
+29 presumed the person's “papers” or “effects,” and is protected from unreasonable search or seizure.
+30 No government entity shall access, search, or seize the contents of such documents or records except
+
+HB1436-FN-ASINTRODUCED
+-Page2-
+1 pursuant to a warrant issued upon probable cause by a court of competent jurisdiction, or as
+2 otherwisespecificallyauthorizedbylaw.
+3 507-H:14 Exceptions. Unpublished personal information shall be presumed not to include any
+4 information:
+5 I. Whoseownerhasmadeitpublic;
+6 II. Lawfully obtained and disclosed for news reporting or public commentary on matters of
+7 publicconcern;
+8 III. Representing or derived from activities conducted as a public official or agent of the
+9 state;
+10 IV. Theuseofwhichisstrictlynecessarytopreservelifeorpropertyfromimminentthreats.
+11 507-H:15 Severability. If any provision of this subdivision or its application is held invalid, the
+12 invalidity does not affect other provisions or applications that can be given effect without the invalid
+13 provision.
+14 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2464
+11/24/25
+HB1436-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the classification and protection of personal digital information and
+cloud-storedfiles.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $295,000 $267,000 $275,000
+FundingSource(s) ConsumerProtectionEscrowFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Thisbill establishespropertyrights inpersonal digital information,includinginformationstored
+on devices and cloud servers. The bill creates a presumption of bailment for unpublished
+personalinformationplacedintodigitalrecordsandclarifiesownershipofderivativerecordsthat
+no longer contain personally identifiable information. The bill also provides that digital
+documents and records are treated as a person’s papers or effects for constitutional search and
+seizurepurposesandmaynotbeaccessedbyagovernmententitywithoutawarrantissuedupon
+probablecauseorasotherwiseauthorizedbylaw.
+The Department of Justice states this bill will significantly expand the responsibilities of the
+Consumer Protection and Antitrust Bureau’s Data Privacy Unit, which would be newly
+responsiblefor investigatingand enforcingtheindividual propertyrights created bythebill, and
+that its existing resources are not sufficient to absorb the added workload. To implement the
+bill, the Department assumes it will require one additional investigator position and one
+additionalattorneypositionfundedfromagencyincome. TheDepartmentstatestheinvestigator
+position is estimated to cost $158,000 in FY 2027 (includes a car), $128,000 in FY 2028, and
+$135,000 in FY 2029. The attorney position is estimated to cost $137,000 in FY 2027, $139,000
+in FY 2028, and $140,000 in FY 2029. Together, these two positions result in an increase in
+
+General Fund expenditures of $295,000 in FY 2027, $267,000 in FY 2028, and $275,000 in FY
+2029.
+If the positions are authorized, it is assumed the Department of Justices will include the cost of
+thetwopositionsintheirFY2028-FY2029Budgetrequest.
+AGENCIESCONTACTED:
+DepartmentofJustice

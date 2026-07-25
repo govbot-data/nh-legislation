@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1014 -ASINTRODUCED
+2026SESSION
+26-2324
+06/08
+1014
+HOUSEBILL
+ANACT exempting certain retirees from the 28-day waiting period for part-time
+employment.
+SPONSORS: Rep. Petrigno, Hills. 43; Rep. H. Howard, Straf. 4; Rep. Grote, Rock. 24; Rep.
+Long, Hills. 26; Rep. Dargie, Hills. 43; Rep. Veilleux, Hills. 34; Sen. McGough,
+Dist11
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the definition and limitations of part-time employment for retired members of
+the retirement system, including exceptions for emergency service and concurrent employment at
+thetimeofretirement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1014-ASINTRODUCED
+26-2324
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT exempting certain retirees from the 28-day waiting period for part-time
+employment.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Retirement System; Part-time Employment; Exceptions. Amend RSA 100-A:1, XXXIV to read
+2 asfollows:
+3 XXXIV. "Part-time" for purposes of employment of a retired member of the New Hampshire
+4 retirementsystem,butexceptingperdiemcourtsecurityofficersandcourtbailiffs,andtheassistant
+5 director for safety and security of the judicial branch, means employment by one or more
+6 participatingemployersoftheretiredmemberwhichshallnotexceed1,352hoursinacalendaryear,
+7 except as provided in RSA 100-A:7-b. Notwithstanding the foregoing, unless excepted under RSA
+8 100-A:7-b, no retired member shall be employed on a part-time basis by any participating employer
+9 foraperiodof28daysfromthemember'seffectivedateofretirement.
+10 2 Certain Part-Time Employment; Emergency Exception.. Amend RSA 100-A:7-b to read as
+11 follows:
+12 100-A:7-b CertainPart-TimeEmployment;EmergencyException.
+13 I. The annual limitations on part-time employment as defined in RSA 100-A:1, XXXIV shall
+14 be modified for retired members to exclude any hours worked during an emergency under this
+15 section. For purposes of this section, an emergency includes any event declared by the governor or
+16 whileworkingunderthedirectionofthedirectorofthedivisionofforestsandlandsduringwoodland
+17 fire control. Employers shall include hours worked during an emergency as a separate entry in the
+18 reportrequiredinRSA100-A:16,VII(a).
+19 II. A member who retires from active service with an employer, but who at the time
+20 of application for retirement was concurrently employed by a different employer in a part-
+21 time position, shall not be required to comply with the 28-day requirement in RSA 100-A:1,
+22 XXXIV for such part-time employment, provided the other requirements of this chapter are
+23 met.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

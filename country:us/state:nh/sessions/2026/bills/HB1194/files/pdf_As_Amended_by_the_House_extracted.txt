@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1194-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0799h
+2026SESSION
+26-2748
+05/08
+1194-FN
+HOUSEBILL
+ANACT relativetocreditsforassessmentspaidbyinsurers.
+SPONSORS: Rep.Janigian,Rock.25
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsmemberinsurerstouseeligibleassessmentcreditstooffsettaxliability.
+Thebillisarequestoftheinsurancedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1194-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0799h 26-2748
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocreditsforassessmentspaidbyinsurers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Life and Health Insurance Guaranty Association of 2019; Credits for Assessments Paid. RSA
+2 408-F:13isrepealedandreenactedtoreadasfollows:
+3 408-F:13 CreditsforAssessmentsPaid.
+4 I. Inthissection:
+5 (a) “Eligible assessment credits” means credits arising from assessments paid by a
+6 member insurer pursuant to RSA 408-F:9 that are otherwise allowable against tax liability under
+7 RSA400-A.
+8 (b) “Aggregate annual limitation” means the maximum amount of eligible assessment
+9 credits that may be recognized by all member insurers in any calendar year, as established in
+10 paragraphII.
+11 (c) “Deferred credits” means eligible assessment credits that are not recognized in the
+12 calendar year in which they would otherwise be claimable solely by operation of the aggregate
+13 annuallimitation.
+14 (d) "Commissioner"meansthecommissioneroftheinsurancedepartment.
+15 II.(a) The total amount of eligible assessment credits recognized by all member insurers in
+16 anycalendaryearshallnotexceed$10,000,000.
+17 (b) Eligible assessment credits shall be applied only after the full calculation of tax
+18 liabilityunderRSA400-Aandshallnotoperatetoreducetaxliabilitybelowzero.
+19 (c) If eligible assessment credits otherwise claimable in a calendar year exceed the
+20 aggregateannuallimitation,theamountofcreditwhicheachmembercompanyshallbepermittedto
+21 carry forward will be calculated as the percentage of the member company’s deferred credit relative
+22 tothetotaldeferredcredit.
+23 (d) Theportionofeligibleassessmentcreditsexceedingtheaggregateannuallimitation:
+24 (1) Shallconstitutedeferredcredits,and
+25 (2) Shallremainvalideligibleassessmentcreditssubjectsolelytotiminglimitation
+26 underthissection.
+27 (e) Deferredcreditsshallbeappliedintheorderinwhichtheyareaccrued.
+28 (f) Deferred credits shall not be transferred, assigned, or conveyed except as otherwise
+29 expresslyauthorizedbystatute.
+30 III.(a) Deferred credits may be carried forward for recognition for up to 7 consecutive
+31 calendaryearsfollowingtheyearinwhichthecreditsfirstbecamedeferred.
+
+HB1194-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (b) Recognition of deferred credits in any calendar year shall remain subject to the
+2 aggregateannuallimitation.
+3 (c) No member insurer shall recognize more than 14.28 percent of the aggregate annual
+4 limitationinanycalendaryearfromdeferredcredits,unlessthecommissionerdeterminesthatstrict
+5 applicationofthislimitationwouldmateriallyimpairtheorderlyadministrationofthissection.
+6 IV. In any calendar year in which the aggregate annual limitation is not reached, member
+7 insurersmayrecognizeeligibleassessmentcreditsatarateof20percentfor5years.
+8 V.(a) Memberinsurersshallreporteligibleassessmentcreditsanddeferredcreditsinaform
+9 andmannerprescribedbythecommissioner.
+10 (b) Deferred credits shall not be treated as admitted assets except to the extent
+11 permittedunderstatutoryaccountingprinciples.
+12 (c) Deferral of credits pursuant to this section shall not affect the legal status of the
+13 credit.
+14 VI. If a member insurer ceases doing business, any uncredited assessments described above
+15 maybecreditedagainstitstaxliabilityunderRSA400-Afortheyearitceasesdoingbusiness.
+16 VII. Any sums acquired by refund from the association that were previously recognized as
+17 credits shall be remitted to the state in the manner required by the commissioner. The association
+18 shallnotifythecommissionerofsuchrefunds.
+19 VIII. The commissioner may adopt rules under RSA 541-A as necessary to implement and
+20 administertheprovisionsofthissection.
+21 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2748
+03/25/2026
+HB1194-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0799h)
+ANACT relativetocreditsforassessmentspaidbyinsurers.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+ThisbillmodifieshowinsurancecompaniescanclaimtaxcreditsforassessmentspaidtotheNH
+Life and Health Insurance Guaranty Association (NHLHIGA) in an effort to limit large,
+unpredictable revenue losses in years with high NHLHIGA assessments. The NHLHIGA
+protects policyholders if a life or health insurance company becomes insolvent. If insolvency
+occurs, member insurers are assessed fees to cover claims and maintain coverage. These
+assessments can currently be offset against the Insurance Premium Tax (IPT) under RSA 408-
+F:13, up to 20% per year for 5 years (totaling 100%). This bill reduces the annual credit rate
+from 20% to 14.285% per year for 7 years if the eligible credits exceed $10 million in a year,
+reducing the immediate impact on the General Fund. The bill further clarifies when credits can
+betakenandthatthecreditscannotbecarriedforward.
+The Department is not able to predict how much in NHLHIGA assessments will be levied in the
+future. These assessments only occur when an insurance company becomes insolvent, which is
+unpredictable. This bill does not reduce state revenue on its own, but rather limits how much
+theGeneral Fund revenue could be reduced by cappingthe tax credit rate at 14.285% (instead of
+20%) per year for 7 years if total eligible credits exceed $10 million in a year. The actual impact
+depends entirely on the size of the assessments levied by NHLHIGA and the amount of
+credits insurancecompaniesclaimagainsttheirInsurancePremiumTax.
+ItisassumedanyfiscalimpactwouldoccurafterFY2026.
+
+AGENCIESCONTACTED:
+NHInsuranceDepartment

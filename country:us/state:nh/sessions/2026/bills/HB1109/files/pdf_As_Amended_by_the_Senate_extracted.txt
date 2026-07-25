@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1109-ASAMENDEDBYTHESENATE
+11Mar2026...0620h
+05/07/2026 1645s
+2026SESSION
+26-2551
+06/09
+1109
+HOUSEBILL
+ANACT relative to notice requirements regarding public employee suspensions and
+investigations and transferring certain positions in the department of corrections
+togroupIIretirementsystemstatus.
+SPONSORS: Rep.Flanagan,Hills.45
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Requires a public employer to provide written noticeto a public employeeof the cause of their
+suspension and its anticipated duration, if known, requires periodic updates to the public employee
+until a final decision is made, and exempts public employees covered by collective bargaining
+agreementsthatestablishdisciplinaryproceduresfromthenoticerequirement.
+II. Transfers certain positions in the department of corrections to group II retirement system
+status.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1109-ASAMENDEDBYTHESENATE
+11Mar2026...0620h
+05/07/2026 1645s 26-2551
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to notice requirements regarding public employee suspensions and
+investigations and transferring certain positions in the department of corrections
+togroupIIretirementsystemstatus.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Protective Legislation; Notice of Suspension of Public Employees. Amend
+2 RSA275byinsertingaftersection83thefollowingnewsubdivision:
+3 NoticeofSuspensionofPublicEmployees
+4 275:84 SuspensionNoticeandInvestigationUpdatestoPublicEmployees.
+5 I. If any public employee is suspended from duty, with or without pay, the public employee
+6 shallreceivewrittennotice,within7daysofthesuspensiondate,statingthecauseofthesuspension
+7 and anticipated duration, if known. The suspended public employee shall be provided with periodic
+8 updatesregardingthestatusoftheirsuspensionevery90daysuntilafinaldecisionismade.
+9 II. This section shall apply to all public employees unless the public employee is employed
+10 under a collective bargaining agreement negotiated pursuant to RSA 273-A and that agreement
+11 establishesproceduresrelatedtodisciplinaryactionsincludingsuspension.
+12 III. Forthepurposesofthissection:
+13 (a) “Publicemployee”shallhavethesamemeaningasinRSA273-A:1,IX;and
+14 (b) “Publicemployer”shallhavethesamemeaningasinRSA273-A:1,X.
+15 2 DepartmentofCorrections;AuthorizationforTransfertoGroupII.
+16 I. Pursuant tothe provision of RSA 100-A:3, IX, the following positions in the department of
+17 corrections classified as group I positions are deemed to have met the requirement of RSA 100-A:1,
+18 VII(b)andshallbetransferredtogroupIIstatusintheNewHampshireretirementsystem:
+19 PositionTitle PositionNumber
+20 AdministratorIIhazard 41469
+21 ChaplainIIhazard 44264
+22 Clinicalmentalhealthcounselor 12862
+23 Clinicalmentalhealthcounselor 16330
+24 Clinicalmentalhealthcounselor 30338
+25 Clinicalmentalhealthcounselor 40893
+26 Clinicalmentalhealthcounselor 42256
+27 Correctionscounselor/casemanager 44263
+28 Electricianhazard 12940
+29 MediageneralistII 12859
+
+HB1109-ASAMENDEDBYTHESENATE
+-Page2-
+1 MediageneralistIhazard 41531
+2 MediageneralistI 44318
+3 PrisonshopmanagerII 12876
+4 Programcoordinatorhazard 44304
+5 Programcoordinatorhazard 44837
+6 Programcoordinatorhazard 44838
+7 Programcoordinatorhazard 44839
+8 RegisterednurseIIbayweekend 12963
+9 RegisterednurseIIhazard 44326
+10 RegisterednurseIIIhazard 44321
+11 RegisterednurseIIIhazard 44322
+12 RegisterednurseIIIhazard 44323
+13 RegisterednurseIIIhazard 44324
+14 RegisterednurseIIIhazard 44325
+15 RegisterednurseIIIhazard 44327
+16 SupervisorIIhazard 44310
+17 SupervisorIVhazard 44597
+18 TI/collegeprofessorhazard 44335
+19 3 EffectiveDate.
+20 I. Section1ofthisactshalltakeeffectJanuary1,2027.
+21 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.

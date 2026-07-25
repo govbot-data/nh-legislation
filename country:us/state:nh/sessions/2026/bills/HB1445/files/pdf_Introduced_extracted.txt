@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1445-FN-ASINTRODUCED
+2026SESSION
+26-2750
+06/08
+1445-FN
+HOUSEBILL
+ANACT requiring the issuance of enhanced drivers licenses and Real ID compliant cards
+forbordercrossingandproofofcitizenship.
+SPONSORS: Rep. Johnson, Straf. 11; Rep. St. Clair, Belk. 5; Rep. Veilleux, Hills. 34; Rep.
+Potenza, Straf. 19; Rep. Plamondon, Hills. 3; Rep. Miller, Straf. 21; Sen. Watters,
+Dist4;Sen.PerkinsKwoka,Dist21
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the division of motor vehicles to issue enhanced driver licenses and Real ID
+compliant cards to United States citizens who are residents of New Hampshire for use as identity
+andcitizenshipdocumentationwhenenteringtheUnitedStatesbylandorsea.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1445-FN-ASINTRODUCED
+26-2750
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the issuance of enhanced drivers licenses and Real ID compliant cards
+forbordercrossingandproofofcitizenship.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Enhanced Drivers' Licenses and Identification Cards. Amend RSA 263:1-d, I to read as
+2 follows:
+3 I. Thedepartment[may]shall enterintoamemorandumofunderstandingwithanyfederal
+4 agency for the purpose of obtaining approval of an enhanced driver's license or enhanced nondriver's
+5 picture identification card as proof of identity and citizenship for persons entering the United States
+6 atlandandseaports,inaccordancewiththeWesternHemisphereTravelInitiativedevelopedbythe
+7 UnitedStatesDepartmentofStateandtheUnitedStatesDepartmentofHomelandSecurity.
+8 2 Nondriver'sPictureIdentificationCard. AmendRSA260:21,XIItoreadasfollows:
+9 XII. Attherequestofaresidentwhoisotherwiseeligibleforanidentificationcardpursuant
+10 toRSA 260:21, I and II, and is willing and able tomeet theadditional requirements of RSA 260:21-a
+11 or RSA 260:21-b, the department [may] shall issue a nondriver's picture identification card that is
+12 compliant with the standards of the Real ID Act of 2005, Public Law 109-13, and its implementing
+13 regulations, including, but not limited to, 6 C.F.R. part 37, or an enhanced identification card as
+14 proof of identity and citizenship for persons entering the United States at land and sea ports which
+15 meet the standards of the Western Hemisphere Travel Initiative developed by the United States
+16 Department of State and the United States Department of Homeland Security, and its associated
+17 regulations, including but not limited to Documents Required for Travelers Departing From or
+18 Arriving in the United States at Sea and Land Ports-of-Entry From Within the Western
+19 Hemisphere, 73 Fed. Reg. 18,384, Apr. 3, 2008, respectively, in lieu of an identification card defined
+20 inRSA260:21.
+21 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2750
+11/24/25
+HB1445-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the issuance of enhanced drivers licenses and Real ID compliant cards
+forbordercrossingandproofofcitizenship.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+RevenueFund(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Expenditures* $0 $563,000+ IndeterminableIncrease
+HighwayFundandRestricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource(s)
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriortofunds
+beingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 IndeterminableIncrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+ThisbillrequirestheDepartmentofSafetyenterintoamemorandumofunderstandingwithany
+federal agency for the purpose of issuing enhanced driver licenses and nondriver’s identification
+cards. It also requires that anyone applying for an identification card receives a REAL ID
+compliance card, however, does not mandate the REAL ID for driver licenses. New Hampshire
+currently issues both REAL ID compliant driver licenses and identification cards to those that
+choosetooptin.
+To meet the requirements of this bill, the Department states it would need to complete a new
+card design costing approximately $163,000. In addition, system changes would be needed to be
+
+able to issue. Estimated development and testing time for this would be approximately
+$400,000. Lastly, to implement an enhanced driver license, advanced testing with the Federal
+government and borders are required to ensure that the RFID chip can be read at an adequate
+distance,towhichcostsareindeterminable. Inall,theDepartmentestimatescoststobeatleast
+$563,000toimplementthechangesinthisbill.
+The Department states revenue attributable to this bill is indeterminable, as it cannot predict
+the interest NH residents might have for applying for these enhanced licenses/IDs. Typically,
+enhanced licenses are popular in areas that have a large metropolitan area on the border, which
+NH does not have. Additionally, NH currently has a 70% opt in rate to REAL ID compliant
+licenses. The current cost of a REAL ID license is $60, making it only a $20 increase to obtain
+the enhanced license. For illustrative purposes, if 1% to 2% of applications are for enhanced
+licenses/IDs, this could increase state revenue by $76,000 to $152,000 per year. Also, pursuant
+to RSA 235:23 (“Apportionment A”), 12 percent of highway fund road toll and motor vehicle fee
+revenue collected is distributed to municipalities in the year following collection. Therefore, this
+bill would also increase state expenditures and local revenue, beginning in FY 2028, by an
+indeterminableamount.
+The Department notes that this bill’s effective date of January 1, 2027, is likely not feasible as
+testing,andotherimplementationmeasures,couldtakeacoupleofyears.
+AGENCIESCONTACTED:
+DepartmentofSafety

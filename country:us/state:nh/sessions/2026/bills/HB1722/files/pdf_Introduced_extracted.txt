@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1722-ASINTRODUCED
+2026SESSION
+26-2682
+06/08
+1722
+HOUSEBILL
+ANACT relative to consumer protections and energy classifications for large-use electric
+facilities.
+SPONSORS: Rep. McGhee, Hills. 35; Rep. Caplan, Merr. 8; Rep. W. Thomas, Hills. 12; Sen.
+PerkinsKwoka,Dist21
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a regulatory framework for large-energy-use retail electricity facilities, directs
+the public utilities commission to develop a separate classification for such customers, set cost-based
+tariffs,andregulatelong-termcontractstopreventadversecostimpactsonotherratepayers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1722-ASINTRODUCED
+26-2682
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to consumer protections and energy classifications for large-use electric
+facilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Large-Energy-Use Retail Electricity Facilities. Amend RSA by inserting after
+2 chapter374-H:3thefollowingnewchapter:
+3 CHAPTER374-I
+4 LARGE-ENERGY-USERETAILELECTRICITYFACILITIES
+5 374-I:1 Definitions. Inthischapter:
+6 I. “Costs of serving” include, as applicable, the costs incurred by an electric utility in
+7 providing transmission, distribution, interconnection, energy, capacity, or ancillary electricity
+8 services, and any related costs or associated risks in serving a large-energy-use retail electricity
+9 customer.
+10 II. “Facility”meansallbuildings,equipment,structures,andotherstationaryitemsthatare
+11 located on a single site or on contiguous or adjacent sites and that are owned or operated by the
+12 samepersonorentity.
+13 III. “Large-energy-use facility” means a facility that can use 20 megawatts or more at peak
+14 demand and is primarily engaged in providing a service described under code 518210 of the 2022
+15 North American Industry Classification System, including computer processing, data processing
+16 centers,andwebhostingservices.
+17 374-I:2 ClassificationofService.
+18 I. The public utilities commission shall establish a separate classification of retail electric
+19 serviceforlarge-energy-usefacilities.
+20 II. The classification shall be distinct from existing commercial or industrial service classes
+21 andshallhaveitsowntariffschedule.
+22 III. Anytariffscheduleadoptedunderthissectionshall:
+23 (a) Allocate the costs of serving the large-energy-use facilities’ class proportionally to
+24 their actual costs of service, or assign the known costs of serving each customer directly to that
+25 customer;and
+26 (b) Mitigatetheriskof:
+27 (1) Otherretailelectricitycustomerspayingunwarrantedelectriccosts;and
+28 (2) Shifting the costs of service or load-balancing expenses from large-energy-use
+29 facilitiestootherretailelectricitycustomerclasses.
+30 374-I:3 TariffsandRateApproval.
+
+HB1722-ASINTRODUCED
+-Page2-
+1 I. In reviewing or approving a proposed tariff schedule for large-energy-use facilities, the
+2 commissionshallconsiderwhethertheproposedrates:
+3 (a) Could result in increased costs or unwarranted risk to other retail electricity
+4 customers;
+5 (b) Provideforequitablecontributionstosystemefficiency,reliability,andresiliency;
+6 (c) Areconsistentwithstateandfederalenergypolicyrequirements;
+7 (d) Allowreasonableflexibilityforprocurementofgenerationresources;and
+8 (e) Serve the public interest, including consideration of environmental or community
+9 impactssuchaswater,air,ornoisepollution.
+10 II. The commission shall open a docket including all regulated state utilities to develop an
+11 initial tariff schedule under this chapter by January 1, 2028, to facilitate adoption of the new
+12 classification.
+13 374-I:4 ContractingRequirements.
+14 I. The commission shall require an electric utility entering into a contract to serve a large-
+15 energy-use facility to include provisions covering transmission, distribution, interconnection, energy,
+16 capacity,andancillaryservices.
+17 II. Eachcontractshall:
+18 (a) ComplywiththecriteriainRSA374-I:2;
+19 (b) Specifyatermofnotlessthan10years;
+20 (c) Identifythecommencementdateorestimatedservice-startdate;
+21 (d) Obligatethecustomertopayaminimumamountorpercentageofprojectedusage,as
+22 determinedbythecommission,forthedurationofthecontract;and
+23 (e) Include provisions addressing early termination, performance failure, or other risks
+24 thatcouldshiftcoststootherratepayers.
+25 III. A contract may include a charge for excess demand or risk mitigation above the
+26 establishedtariffifnecessarytopreventcost-shifting.
+27 IV. A delay in beginning service that is within the reasonable control of the utility shall
+28 requirenoticetothecustomerandanyotherconditionsthecommissionmayprescribebyrule.
+29 V. Nothing in this chapter shall limit the ability of a large-energy-use facility to contract for
+30 direct supply from a dedicated non-emitting power resource within the host community that is not
+31 interconnectedwiththeregionalgrid.
+32 374-I:5 Applicability. This chapter shall apply to large-energy-use retail electricity customers
+33 that:
+34 I. Enter into a contract for service with a dedicated generation facility after the effective
+35 dateofthissection;
+36 II. Enter into a new contract for service with an electric utility on or after the effective date;
+37 or
+
+HB1722-ASINTRODUCED
+-Page3-
+1 III. Require the electric utility to make significant capital investments or incur costs after
+2 theeffectivedatethatcouldincreasecostsorriskstootherretailelectricitycustomers.
+3 374-I:6 CommissionReporting.
+4 I. No later than June 1 of each odd-numbered year, the public utilities commission shall
+5 submit a report, including any legislative recommendations, to the house science, technology and
+6 energycommitteeandthesenateenergyandnaturalresourcescommittee.
+7 II. The report shall review load and capacity trends, cost-allocation impacts, and other
+8 systemicissuesidentifiedinadministeringthischapter.
+9 III. In preparing the report, the commission shall protect proprietary information consistent
+10 withitsrulesorordersandshallcollaboratewiththedepartmentofenergyincompilingdata.
+11 2 EffectiveDate.Thisactshalltakeeffectuponitspassage.

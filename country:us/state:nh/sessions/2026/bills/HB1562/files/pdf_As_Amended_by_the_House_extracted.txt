@@ -1,0 +1,247 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1562-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0415h
+2026SESSION
+26-2358
+05/08
+1562-FN
+HOUSEBILL
+ANACT relative to licensing requirements for health care facilities that operate on a
+membership-basedbusinessmodel.
+SPONSORS: Rep. McLean, Hills. 15; Rep. Warden, Hills. 39; Rep. Mazur, Hills. 44; Rep.
+Ammon,Hills.42;Rep.Kofalt,Hills.32;Sen.Sullivan,Dist18
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill exempts direct-pay health care facilities from certain licensing requirements and
+policies in RSA 151:2-f. The bill also establishes a patient's bill of right for direct-pay facilities and
+directsthedepartmentofhealthandhumanservicestostudydirect-paymodels.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1562-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0415h 26-2358
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to licensing requirements for health care facilities that operate on a
+membership-basedbusinessmodel.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Patients' Bill of Rights; Definitions; Direct Payment and Membership-Based Facilities.
+2 AmendRSA151:19,IItoreadasfollows:
+3 II. "Facility" means any hospital, building, residence, or other place or part thereof, licensed
+4 under the provisions of RSA 151:2. For the purposes of RSA 151:21, RSA 151:25, and RSA 151:26,
+5 "facility" shall not include home health care providers, or private homes where home care services
+6 areprovided. ForthepurposesofRSA151:21,"facility"shallnotincludedirectpaymentand
+7 membership-basedfacilities.
+8 2 Patients' Bill of Rights; Definitions; Direct Payment and Membership-Based Facilities.
+9 AmendRSA151:19,VItoreadasfollows:
+10 VI. "Patients' rights" or "rights" means those rights established under RSA 151:21, [or] RSA
+11 151:21-b,orRSA151:21-c,asapplicable.
+12 3 ResidentialCareandHealthFacilityLicensing;PoliciesRequired. AmendRSA151:2-ftoread
+13 asfollows:
+14 151:2-f PoliciesRequiredforHealthFacilitiesandSpecialHealthCareServiceLicenses.
+15 I. Every facility licensed under RSA 151:2, I(a) or (d) and every person holding a special
+16 healthcareservicelicenseunderRSA151:2-eshall:
+17 [I.] (a) Adopt and enforce a written policy to assure that the facility provides its services to
+18 all persons who require the services the facility provides regardless of the source of payment for the
+19 servicesprovidedtoanyperson;
+20 [II.](b) Adopt,publicize,andapplyanassistanceplanforpersonswhoareuninsuredorwho
+21 donothavethefinancialresourcestopayforthefacility'sservicesduetofinancialhardship;
+22 [III.] (c) Provide data to the commissioner of the department of health and human services
+23 regardingthevolume,costandoutcomesofservicesprovidedinthefacility;and
+24 [IV.] (d) Payfees under RSA151:2-e, IIIto thecommissioner of thedepartment tocover the
+25 costs of administering the licensing of special health care services, the administration of the quality
+26 and patient safety requirements of this section, and the collection and analysis of the data collected
+27 underthissection.
+28 II. Subparagraph I(a) shall not apply to any facilities that operate on a
+29 membership-based business model or exclusively provide services to persons who make
+30 direct payment for services, and are not nursing homes, skilled nursing facilities,
+
+HB1562-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 intermediate care facilities, or rehabilitation facilities, including rehabilitation hospitals
+2 and facilities offering comprehensive rehabilitation services. For the purposes of this
+3 paragraph, a direct payment is one that is paid directly by the patient and is not
+4 reimbursedorotherwisepaidbyathirdparty.
+5 4 New Section; Residential Care and Health Facility Licensing; Patients' Bill of Rights for
+6 Direct Payment and Membership-Based Facilities. Amend RSA 151 by inserting after section 21-b
+7 thefollowingnewsection:
+8 151:21-c Patients' Bill of Rights for Direct Payment and Membership-Based Facilities. The
+9 policydescribingtherightsandresponsibilitiesofeachpatientadmittedtoafacilitythatoperateson
+10 a membership-based business model or exclusively provides services to persons who make direct
+11 payment for services as defined in RSA 151:2-f, II, except those admitted by a home health care
+12 provider,shallinclude,asaminimum,thefollowing:
+13 I. The patient shall be treated with consideration, respect, and full recognition of the
+14 patient's dignity and individuality, including privacy in treatment and personal care and including
+15 being informed of the name, licensure status, and staff position of all those with whom the patient
+16 hascontact,pursuanttoRSA151:3-b.
+17 II. The patient shall be fully informed of the patient's rights and responsibilities and of all
+18 procedures governing patient conduct and responsibilities. This information shall be provided orally
+19 and in writing before or at admission, except for emergency admissions. Receipt of the information
+20 shall be acknowledged by the patient in writing. When a patient lacks the capacity to make
+21 informedjudgmentsthesigningshallbebythepersonlegallyresponsibleforthepatient.
+22 III. The patient shall be fully informed in writing in language that the patient can
+23 understand, before or at the time of admission and as necessary during the patient's stay, of the
+24 facility's basic per diem rate and of those services included and not included in the basic per diem
+25 rate.
+26 IV. The patient shall be fully informed by a health care provider of his or her medical
+27 condition,healthcareneeds,anddiagnostictestresults,includingthemannerbywhichsuchresults
+28 will be provided and the expected time interval between testing and receiving results, unless
+29 medically inadvisable and so documented in the medical record, and shall be given the opportunity
+30 toparticipateintheplanningofhisorhertotalcareandmedicaltreatment,torefusetreatment,and
+31 to be involved in experimental research upon the patient's written consent only. For the purposes of
+32 this paragraph, "health care provider" means any person, corporation, facility, or institution either
+33 licensed by this state or otherwise lawfully providing health care services, including, but not limited
+34 to, a physician, hospital or other health care facility, dentist, nurse, optometrist, podiatrist, physical
+35 therapist, or psychologist, and any officer, employee, or agent of such provider acting in the course
+36 andscopeofemploymentoragencyrelatedtoorsupportiveofhealthcareservices.
+
+HB1562-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 V. The patient shall be transferred or discharged after appropriate discharge planning only
+2 for medical reasons, for the patient's welfare or that of other patients, if the facility ceases to
+3 operate,orfornonpaymentforthepatient'sstay.
+4 VI. The patient shall be encouraged and assisted throughout the patient's stay to exercise
+5 the patient's rights as a patient and citizen. The patient may voice grievances and recommend
+6 changes in policies and services to facility staff or outside representatives free from restraint,
+7 interference,coercion,discrimination,orreprisal.
+8 VII. The patient shall bepermitted tomanage thepatient's personal financial affairs. If the
+9 patient authorizes the facility in writing to assist in this management and the facility so consents,
+10 theassistance shall be carried out in accordance with the patient's rights under this subdivision and
+11 inconformancewithstatelawandrules.
+12 VIII. The patient shall be free from emotional, psychological, sexual, and physical abuse,
+13 andfromexploitation,neglect,corporalpunishment,andinvoluntaryseclusion.
+14 IX. The patient shall be free from chemical and physical restraints except when they are
+15 authorized in writing by a physician for a specific and limited time necessary to protect the patient
+16 orothers from injury. Inanemergency,restraints maybeauthorizedbythedesignated professional
+17 staff member in order to protect the patient or others from injury. The staff member shall promptly
+18 reportsuchactiontothephysiciananddocumentthesameinthemedicalrecords.
+19 X. The patient shall be ensured confidential treatment of all information contained in the
+20 patient's personal and clinical record, including that stored in an automatic data bank, and the
+21 patient's written consent shall be required for the release of information to anyone not otherwise
+22 authorized by law to receive it. Medical information contained in the medical records at any facility
+23 licensed under this chapter shall be deemed to be the property of the patient. The patient shall be
+24 entitled to a copy of such records upon request. The charge for the copying of a patient's medical
+25 records shall not exceed $15 for the first 30 pages or $.50 per page, whichever is greater; provided,
+26 that copies of filmed records such as radiograms, x-rays, and sonograms shall be copied at a
+27 reasonablecost.
+28 XI. The patient shall not be required to perform services for the facility. Where appropriate
+29 for therapeutic or diversional purposes and agreed to by the patient, such services may be included
+30 inaplanofcareandtreatment.
+31 XII. The patient shall be free to communicate with, associate with, and meet privately with
+32 anyone, includingfamilyand resident groups, unless to dosowould infringe upontherights of other
+33 patients. The patient may send and receive unopened personal mail. The patient has the right to
+34 haveregularaccesstotheunmonitoreduseofatelephone.
+35 XIII. The patient shall be free to participate in activities of any social, religious, and
+36 communitygroups,unlesstodosowouldinfringeupontherightsofotherpatients.
+
+HB1562-FN-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 XIV. The patient shall be free to retain and use personal clothing and possessions as space
+2 permits,provideditdoesnotinfringeontherightsofotherpatients.
+3 XV. The patient shall be entitled to privacy for visits and, if married, to share a room with
+4 his or her spouse if both are patients in the same facility and where both patients consent, unless it
+5 is medically contraindicated and so documented by a physician. The patient has the right to reside
+6 and receive services in the facility with reasonable accommodation of individual needs and
+7 preferences, including choice of room and roommate, except when the health and safety of the
+8 individualorotherpatientswouldbeendangered.
+9 XVI. The patient shall not be denied appropriate care on the basis of age, sex, gender
+10 identity, sexual orientation, race, color, marital status, familial status, disability, religion, national
+11 origin,sourceofincome,orprofession.
+12 XVII. The patient shall be entitled to be treated by the patient's physician of choice, subject
+13 toreasonablerulesandregulationsofthefacilityregardingthefacility'scredentialingprocess.
+14 XVIII. The patient shall be entitled to have the patient's parents, if a minor, or spouse, or
+15 next of kin, unmarried partner, or a personal representative chosen by the patient, if an adult, visit
+16 the facility, without restriction, if the patient is considered terminally ill by the physician
+17 responsibleforthepatient'scare.
+18 XIX. The patient shall be entitled to receive representatives of approved organizations as
+19 providedinRSA151:28.
+20 5 Department of Health and Human Services; Legislative Reporting Requirement. The
+21 commissioner of the department of health and human services shall conduct a study to examine the
+22 impact of direct pay models on the health care system of New Hampshire, with special attention
+23 given to the impact of implementation of the direct primary care law, RSA 329:1-e and 2019, 330
+24 (HB 508). The department shall provide the results of the study to the speaker of the house of
+25 representatives, the senate president, the house clerk, and the senate clerk, on or before June 30,
+26 2027.
+27 6 Patients' Bill of Rights; Definitions; Direct Payment and Membership-Based Facilities.
+28 AmendRSA151:19,IItoreadasfollows:
+29 II. "Facility" means any hospital, building, residence, or other place or part thereof, licensed
+30 under the provisions of RSA 151:2. For the purposes of RSA 151:21, RSA 151:25, and RSA 151:26,
+31 "facility" shall not include home health care providers, or private homes where home care services
+32 are provided. [For the purposes of RSA 151:21, "facility" shall not include direct payment and
+33 membership-basedfacilities.]
+34 7 Patients' Bill of Rights; Definitions; Direct Payment and Membership-Based Facilities.
+35 AmendRSA151:19,VItoreadasfollows:
+36 VI. "Patients' rights" or "rights" means those rights established under RSA 151:21 or RSA
+37 151:21-b,[orRSA151:21-c,]asapplicable.
+
+HB1562-FN-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 8 ResidentialCareandHealthFacilityLicensing;PoliciesRequired RSA151:2-fisrepealedand
+2 reenactedtoreadasfollows:
+3 151:2-f Policies Required for Health Facilities and Special Health Care Service Licenses. Every
+4 facility licensed under RSA 151:2, I(a) or (d) and every person holding a special health care service
+5 licenseunderRSA151:2-eshall:
+6 I. Adopt and enforce a written policy to assure that the facility provides its services to all
+7 persons who require the services the facility provides regardless of the source of payment for the
+8 servicesprovidedtoanyperson;
+9 II. Adopt, publicize, and apply an assistance plan for persons who are uninsured or who do
+10 nothavethefinancialresourcestopayforthefacility'sservicesduetofinancialhardship;
+11 III. Provide data to the commissioner of the department of health and human services
+12 regardingthevolume,costandoutcomesofservicesprovidedinthefacility;and
+13 IV. PayfeesunderRSA151:2-e,IIItothecommissionerofthedepartmenttocoverthecosts
+14 of administering the licensing of special health care services, the administration of the quality and
+15 patient safety requirements of this section, and the collection and analysis of the data collected
+16 underthissection
+17 9 Repeal. RSA 151:21-c, relative to the patients' bill of rights for direct payment and
+18 membership-basedfacilities,isrepealed.
+19 10 Applicability. Sections 6-9 of this act shall take effect on January 1, 2032 if no new facilities
+20 are licensed pursuant to RSA 151 between January 1, 2027 and January 1, 2032. If new facilities
+21 are licensed between January 1, 2027 and January 1, 2032, sections 6-9 of this act shall not take
+22 effect.
+23 11 EffectiveDate.
+24 I. Sections6-9ofthisactshalltakeeffectasprovidedinsection10ofthisact.
+25 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2358
+12/4/25
+HB1562-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to licensing requirements for health care facilities that operate on a
+membership-basedbusinessmodel.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) GeneralFund,LicensingFeeRevenue
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFund,LicensingFeeRevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill provides that the moratorium on licenses issued to certain new health care facilities
+under RSA 151:2, VI shall not apply to any facility that operates on a membership-based
+business model or exclusively provides services to clients who make direct payments. Such
+facilities would be licensed by the Department of Health and Human Services, and would pay
+licensing fees in accordance with RSA 151:2-f, I(d). Per RSA 151:2-e, III, such fees shall "fully
+offset the cost to the department" to process the application and any ongoing expenses. The bill
+willthereforehaveanindeterminableimpactonbothstaterevenuesandstateexpenditures.
+In addition, the bill directs the Department to conduct a study to examine the impact of direct
+paymodelsonthestate'shealthcaresystem. Inresponsetoasimilarbillfromthe2025session,
+the Department stated that it was unable to determine how many additional resources would be
+neededtocompletethestudy. Itisassumedfor thepurposesofthisfiscalnotethatanycost will
+beincurredinFY27only,andwillbepaidforwithstategeneralfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1668-FN-ASINTRODUCED
+2026SESSION
+26-3063
+07/09
+1668-FN
+HOUSEBILL
+ANACT relative to the application of the Internal Revenue Code to provisions of the
+businessprofitstax.
+SPONSORS: Rep. Osborne, Rock. 2; Rep. Labrie, Hills. 2; Rep. Notter, Hills. 12; Rep. Sweeney,
+Rock.25;Rep.Ammon,Hills.42;Rep.Drago,Rock.4
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill updates the effective version of the United States Internal Revenue Code of 1986
+applicable to the business profits tax, subject to certain adjustments. The bill also requires the
+commissioner of revenue administration to report biennially on changes to the Internal Revenue
+Code.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1668-FN-ASINTRODUCED
+26-3063
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the application of the Internal Revenue Code to provisions of the
+businessprofitstax.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Business Profits Tax; Definition; United States Internal Revenue Code.
+2 AmendRSA77-A:1,XXbyinsertingaftersubparagraph(o)thefollowingnewsubparagraph:
+3 (p) For all taxable periods beginning on or after January 1, 2027, the United States
+4 InternalRevenueCodeof1986,asamended,subjecttoRSA77-A:3-a.
+5 2 Business Profits Tax; Adjustments; Internal Revenue Code. RSA 77-A:3-a is repealed and
+6 reenactedtoreadasfollows:
+7 77-A:3-a Adjustments; Internal Revenue CodeProvisions. Indetermininggross business profits
+8 before net operating loss and special deductions, a business organization shall calculate expense
+9 deductions as permitted under section 179 of the Internal Revenue Code as provided in RSA 77-A:1,
+10 XX, except that for property placed in service on or after January 1, 2027, a business organization
+11 shallcalculateexpensedeductionsnottoexceed$500,000.
+12 3 New Paragraph; Duties of the Commissioner of Revenue Administration; Report; Internal
+13 Revenue Code Changes. Amend RSA 21-J:3 by inserting after paragraph XXXIII the following new
+14 paragraph:
+15 XXXIV. File a report at least biennially with the finance committees of the senate and the
+16 houseofrepresentatives informingthecommitteesof changestotheUnited StatesInternal Revenue
+17 Code, related Treasury Regulations, and administrative rulings which would impact New
+18 Hampshire.
+19 4 Applicability.
+20 I. Section1ofthisactshallapplytotaxableperiodsbeginningonorafterJanuary1,2027.
+21 II. Section2ofthisactshallapplytopropertyplacedinserviceonorafterJanuary1,2027.
+22 5 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3063
+12/2/25
+HB1668-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the application of the Internal Revenue Code to provisions of the
+businessprofitstax.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Decrease Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill updates the version of Internal Revenue Code (IRC) used for purposes of the Business
+Profits Tax (BPT) to be the code "as amended" beginning with taxable periods on or after
+January 1, 2027. This change would make every federal amendment to the IRC applicable in
+New Hampshire automatically upon its adoption (rolling conformity). Currently, New
+Hampshire is a static conformity state, using the IRC in effect on December 31, 2018, subject to
+adjustmentsfoundinRSA77-A:3-b.
+The most recent amendment to the IRC was made July 2025 in the One Big Beautiful Bill Act
+(OBBBA). This bill would make the amendments in the OBBBA as well as any other
+amendments to the IRC made in 2026 or 2027 applicable in New Hampshire for Tax Year (TY)
+2027.
+TheDepartmentstatesoneeffectofmovingfromstatictorollingconformityistheonuswouldbe
+placed on the state legislature to review federal law changes and react quickly if it did not wish
+to adopt them. For example, with respect to the OBBBA, which was signed into law on and
+became effective July 4, 2025 for Tax Year 2025, New Hampshire would have had to meet in
+specialsessionifitwishedtodecouplefromoradjustanyofitsprovisions.
+
+With respect to implementation of federal tax law changes, the Department would need to
+quickly incorporate amendments into its tax year change process which begins in August of each
+year in order to be ready with new materials on January 1. Rolling conformity would have the
+Department adapting its materials at the same time the legislature might be considering its
+options, which could result in superseded and/or retroactive materials and guidance which is not
+ideal from a taxpayer perspective. Depending upon the scope and frequency of these events,
+there could be required increases in the Department's operating budget to timely accommodate
+theseadditionalactivities.
+The bill changes the referenced code adjustments from RSA 77-A:3-b to RSA 77-A:3-a. RSA 77-
+A:3-a is New Hampshire’s modified expense deduction provision—an area where New
+Hampshire currently “decouples” from federal law. Under IRC § 179, in effect on December 31,
+2018, taxpayers may elect to treat up to $1 million of the cost to acquire depreciable property as
+adeductiblebusinessexpenseforpropertyplacedinserviceonorafterJanuary1,2018provided
+total capital expenditures do not exceed a defined threshold. New Hampshire limits the amount
+that can be immediately expensed to $500,000. RSA 77-A:3-b maintains the adjustment of a
+$500,000 limit and contains two additional required adjustments. Under RSA 77-A:3-b, I. and
+III., New Hampshire also decouples from IRC §168(k) (Bonus Depreciation) and IRC §181
+(Treatment of Certain Qualified Productions). The Department notes the reference code
+adjustments from RSA 77-A:3-b to RSA 77-A:3-a may be interpreted to eliminate the decoupling
+from IRC §168(k) (Bonus Depreciation) and §181 (Treatment of Certain Qualified Productions),
+even though the bill does not repeal or amend RSA 77-A:3-b. If this is not the intent, language
+mayneedtobeclarifiedandreferencesrestored.
+The Department provides the changes made by OBBBA that would significantly impact New
+Hampshire,andtheirlikelyimpactsasfollows:
+1. GILTI/NCTI
+ApplyingtheIRCasofDecember31,2018(2018IRC),NHincludesGlobalIntangibleLowTaxed
+Income (GILTI) in income and would allow the 50% GILTI deduction through TY2025.
+Beginning in TY2026, the deduction is reduced to 37.5% under the currently applicable IRC.
+GILTI, under the 2018 IRC, excludes QBAI (the Qualified Business Asset Investment exclusion,
+reflecting a 10% imputed return on the value of certain assets). The OBBBA modifies GILTI to
+includeQBAI. NHadditionallyexcludesamountstaxedasGILTIfromtaxableforeigndividends
+in order to avoid double taxation of income. With the QBAI added back to GILTI, the taxable
+foreign income base in NH would increase. The OBBBA renames GILTI to net CFC tested
+income (NCTI). Further, the OBBBA increases the deduction reduction to 40% from 37.5%.
+Beginning in TY2027, NH’s taxbase will increase due to the change from GILTI to NCTI but the
+
+deduction will increase by 2.5%. The net effect of these changes should be an increase to the GF
+and ETF in FY 2027 due to the overall increase in the tax base and acceleration of income
+recognitionwhichwillbegintoproduceadditionalrevenuethatfiscalyear.
+2. ResearchandExperimentalExpenditures
+Under §174 of the 2018 IRC, qualifying Research & Experimental (R&E) expenditures are
+generallyamortizedanddeductedoverafiveyearperiodfordomesticresearchandafifteen-year
+period for foreign research. The OBBBA creates new §174A, permitting full expensing and
+immediate deduction of qualifying domestic R&E expenditures paid or incurred in taxable years
+beginning after December 31, 2024 (treatment of foreign R&E is unchanged). In the short term,
+the impact of this change will be a revenue decrease to the GF and ETF beginning in FY2027.
+Aswithotherdeductionaccelerations,thismaybeatimingissue,sinceoverthefive-yearperiod,
+deductions taken in year one cannot be taken again later. However, given the time value of
+money,businessuncertainty,andchangesinNHapportionment,itislikelythisprovisionisalso
+notrevenue-neutraloverthelongerterm.
+3. QualifiedOpportunityZones
+Under the 2018 IRC, payment of tax on capital gains can be deferred if the gains are reinvested
+in Qualified Opportunity Zones (QOZ). The gain is recognized when the taxpayer sells their
+investment in the QOZ, unless the investment is held for 10 years or more, in which case the
+gain is no longer subject to tax. This provision is set to expire on December 31, 2026. The
+OBBBA makes the QOZ deferral program permanent. With respect to QOZs, conforming to the
+OBBBA would cause a revenue decrease to the GF and ETF beginning in FY2027 because new
+investments beginning in TY2027 will also be subject to the QOZ capital gains deferral and
+potentialexclusion.
+4. FringeBenefitsDeduction
+The deductibility of fringe benefits depends on whether the expenditure is an ordinary and
+necessary business expense. Historically employers could deduct up to 50% of meal and
+entertainment expenses and certain meals provided on premises could be fully deducted as “de
+minimis” fringe benefits. The 2018 IRC disallowed deduction of entertainment expenses, even if
+business related. Meal expenses continued to be deductible, up to 50% and meals on premises
+also became subject to the 50% limitation. The OBBBA disallows any deduction for business-
+relatedmeals(withanexceptionforcertainfishingboatsandfishprocessingfacilities)beginning
+with tax year 2026. Applying this provision of OBBBA would result in a revenue increase to the
+GFandETFbeginninginFY2027.
+5. CommissionandPerformance-BasedEmployeeWages
+
+Employee remuneration is generally deductible as an ordinary and necessary business expense.
+However, in the case of publicly held companies, remuneration in excess of $1million was not
+deductibleunlessitwas“commissionorperformancebased.” The2018IRCdisalloweddeduction
+of all remuneration in excess of $1 million for publicly held companies, regardless of the type of
+remuneration. The OBBBA further expands this deduction limit, by broadening the scope of
+entities affected from the company’s “affiliated group” under §1504, to include all members of a
+corporation’s “controlled group,” including partnerships and other noncorporate entities.
+Adopting this provision of the OBBBA will result in a revenue increase to the GF and ETF
+beginninginFY2027.
+6. QualifiedProductionPropertyDeduction
+The OBBBA adds a new IRC §168(n), allowing first-year expensing for properties tied directly to
+production activities such as manufacturing, processing, or refining tangible goods. The
+provisionallows a100% cost deductioninyear one if thepropertyremains aproductionproperty
+for at least 10 years. Deductions may be recaptured if the ten-year provision is not satisfied.
+Further, properties that partially meet the definition of a qualified production property can take
+a deduction for the portion of the property that is eligible. Under the OBBBA, §168(n) expires
+fortaxableperiodsbeginningafterDecember31,2028. Sincetheproposedlegislationiseffective
+beginning in TY 2027, this provision of the OBBBA would only impact TYs 2027 and 2028.
+However, for any qualified activity, this deduction will result in a revenue decrease beginning in
+FY2027.
+The bill also amends RSA 21-J:3 to require the Commissioner to file a report at least biennially
+with the finance committees of the Senate and House of Representatives informing the
+committees of changes to the IRC, Treasury Regulations, and administrative rulings that would
+impact the state. The Department already produces this report annually for the ways and
+means committees under RSA 21-J:3, XXXIII. and suggests the finance committees be added as
+recipientsofthatreportratherthancreateaseparaterequirementintheinterestofefficiency.
+Overall, the Department anticipates the changes resulting from this bill will result in an
+indeterminable decrease to General Fund and Education Trust Fund revenue beginning in FY
+2027. The Department is unable to quantify the exact impact as it continues to consider the
+potentialimpactandwaystoquantifytheimpacts.
+The Department does not anticipate any additional administrative costs that could not be
+absorbed in its operating budget as long as it is able to update taxpayer materials within the
+normal time frame that begins in August to have all the updates completed and ready by
+January 1. If updates are needed outside of this normal time frame due to changes to the IRC,
+
+theDepartmentmayneedadditionalappropriationsdependingonthescopeandfrequencyofthe
+changes.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

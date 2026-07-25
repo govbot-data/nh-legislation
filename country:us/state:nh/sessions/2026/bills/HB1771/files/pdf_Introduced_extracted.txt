@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1771-FN-ASINTRODUCED
+2026SESSION
+26-3132
+05/08
+1771-FN
+HOUSEBILL
+ANACT removingprospectiverepeal of child care staffingratios and theassociated waiver
+system and requiring the department of health and human services to provide
+certainnoticeregardingavailabilityofthewaiver.
+SPONSORS: Rep.Peternel,Carr.6;Rep.Drye,Sull.7
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the prospective repeal of child care staffing ratios and the associated waiver
+system. Thebillalsorequiresthedepartmentofhealthandhumanservicestoprovideannualnotice
+tochildcareprovidersoftheoptiontorequestawaiverofthechildcarestaffingrequirements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1771-FN-ASINTRODUCED
+26-3132
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removingprospectiverepeal of child care staffingratios and theassociated waiver
+system and requiring the department of health and human services to provide
+certainnoticeregardingavailabilityofthewaiver.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Child Care Licensing; Child Care Staffing Ratios; Notice of Waiver. Amend RSA 170-E:11,
+2 I(c)(5)toreadasfollows:
+3 (5) The department shall provide an annual notice to licensed child care
+4 providers of the option to request a waiver of the child care staffing requirements
+5 establishedunderthissubparagraph.
+6 (6) The department shall make an interim report to the speaker of the house of
+7 representatives and the president of the senate on the number of waivers applied for, granted, and
+8 denied by November 1, 2025. The department shall make a [final] report on the number of waivers
+9 appliedfor,granted,denied,andrenewedbyNovember1,2026andannuallythereafter.
+10 2 Repeal. 2024, 197:3, I, relative to the prospective repeal on December 31, 2026, of RSA 170-
+11 E:11,I(c)relativetochildcarestaffingratiosandthewaiversystem,isrepealed.
+12 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3132
+Revised02/10/2026
+HB1771-FN-FISCALNOTE
+ASINTRODUCED
+ANACT removingprospectiverepeal of child care staffingratios and theassociated waiver
+system and requiring the department of health and human services to provide
+certainnoticeregardingavailabilityofthewaiver.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

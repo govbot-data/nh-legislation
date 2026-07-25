@@ -1,0 +1,118 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1194-FN-ASAMENDEDBYTHESENATE
+12Mar2026...0799h
+04/09/2026 1320s
+2026SESSION
+26-2748
+05/08
+1194-FN
+HOUSEBILL
+ANACT relative to credits for assessments paid by insurers and relative to the application
+ofcriminalgamblingstatutes.
+SPONSORS: Rep.Janigian,Rock.25
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Modifies how insurance companies can claim tax credits for assessments paid to the New
+Hampshire Life and Health Insurance Guaranty Association by providing that, for certain
+assessmentsmadeaftertheeffectivedateoftheact,amemberinsurermayreduceitstaxliabilityby
+claiming10percentoftheassessmentperyearfor10consecutiveyears.
+II. Exempts conduct of a sports book or participation insports wageringfrom criminal gambling
+statutesincertaininstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1194-FN-ASAMENDEDBYTHESENATE
+12Mar2026...0799h
+04/09/2026 1320s 26-2748
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to credits for assessments paid by insurers and relative to the application
+ofcriminalgamblingstatutes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Life and Health Insurance Guaranty Association of 2019; Credits for Assessments Paid.
+2 AmendRSA408-F:13toreadasfollows:
+3 408-F:13 CreditsforAssessmentsPaid.
+4 I. A member insurer may offset against its tax liability under RSA 400-A any assessment
+5 describedinRSA408-F:9,II(b)forthelifeinsuranceandannuityaccount,andforthehealthaccount
+6 for guaranteeing the performance of contractual obligations of an impaired or insolvent insurer [in
+7 regard] solely as to disability income coverages, only[,] to the extent of 20 percent of the amount of
+8 the assessment for each of the 5 consecutive calendar years immediately following the year in
+9 whichtheassessmentwaspaid.
+10 I-a. For assessments made after the effective date of this paragraph, including any
+11 additional assessments made on previously declared impaired or insolvent insurers, a
+12 member insurer may offset against its tax liability under RSA 400-A any assessment
+13 described in RSA 408-F:9, II(b) for the life insurance and annuity account, and for the
+14 health account for guaranteeing the performance of contractual obligations of an
+15 impaired or insolvent insurer solely as to disability income coverages, only to the extent of
+16 10 percent of the amount of the assessment for each of the 10 consecutive calendar years
+17 immediatelyfollowingtheyearinthewhichtheassessmentwaspaid.
+18 I-b. If a member insurer ceases doing business, all uncredited assessments described above
+19 maybecreditedagainstitstaxliabilityunderRSA400-Afortheyearitceasesdoingbusiness.
+20 II. Any sums acquired by refund from the association by member insurers, as stated in RSA
+21 408-F:9,VI,andwhichwerepreviouslyoffsetagainsttaxesasdescribedinparagraphI,shallbepaid
+22 by these member insurers to the state of New Hampshire in the manner required by the
+23 commissioner. Theassociationshallnotifythecommissionerthatrefundshavebeenmade.
+24 III. The commissioner may adopt rules under RSA 541-A as necessary to implement
+25 andadministertheprovisionsofthissection.
+26 2 GamblingOffenses;Gambling. AmendRSA647:2,V(f)toreadasfollows:
+27 (f) [Sports wagering as defined by RSA 287-I:1, XV] The conduct of a sports book, or
+28 participationinsportswagering,authorizedbyRSA287-I.
+29 3 EffectiveDate.
+
+HB1194-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. Section1ofthisactshalltakeeffect60daysafteritspassage.
+2 II. Theremainderofthisactshalltakeeffectuponitspassage.
+
+LBA
+26-2748
+04/14/2026
+HB1194-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1320s)
+ANACT relative to credits for assessments paid by insurers and relative to the application
+ofcriminalgamblingstatutes.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+ThisbillmodifieshowinsurancecompaniescanclaimtaxcreditsforassessmentspaidtotheNH
+Life and Health Insurance Guaranty Association (NHLHIGA) in an effort to limit large,
+unpredictable revenue losses in years with high NHLHIGA assessments. The NHLHIGA
+protects policyholders if a life or health insurance company becomes insolvent. If insolvency
+occurs, member insurers are assessed fees to cover claims and maintain coverage. These
+assessments can currently be offset against the Insurance Premium Tax (IPT) under RSA 408-
+F:13, up to 20% per year for 5 years (totaling 100%). This bill reduces the annual credit rate
+from20%to10%peryearfor10years,reducingtheimmediateimpactontheGeneralFund.
+The Department is not able to predict how much in NHLHIGA assessments will be levied in the
+future. These assessments only occur when an insurance company becomes insolvent, which is
+unpredictable. This bill does not reduce state revenue on its own, but rather limits how much
+the General Fund revenue could be reduced by capping the tax credit rate at 10% (instead of
+20%)peryearfor 10years(insteadof 5years). The actual impactdependsentirely onthe size of
+the assessments levied by NHLHIGA and the amount of credits insurance companies claim
+againsttheirInsurancePremiumTax.
+
+ThebillalsoamendsareferenceincriminalcodeRSA647:2,V(f)toalignitwithsportswagering
+statute RSA 287-I. This change is a "housekeeping measure" to align statutes and will have no
+fiscalimpact.
+ItisassumedanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NHInsuranceDepartment

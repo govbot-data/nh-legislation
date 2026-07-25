@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1785-FN-ASINTRODUCED
+2026SESSION
+26-3157
+06/08
+1785-FN
+HOUSEBILL
+ANACT requiringmileage-basedexitnumbersontier1highways.
+SPONSORS: Rep.Horrigan,Straf.10
+COMMITTEE: PublicWorksandHighways
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresmileage-basedexitnumbersontierIhighways.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1785-FN-ASINTRODUCED
+26-3157
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringmileage-basedexitnumbersontier1highways.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Mileage-Based Exit Numbers on Tier I Highways. Amend RSA 265 by inserting
+2 aftersection22thefollowingnewsection:
+3 265:22-a Mileage-Based Exit Numbers on Tier I Highways. All tier I highways in New
+4 Hampshire, excluding Interstate 393, shall have exit numbering that conforms to the United States
+5 Department of Transportation's exit numbering requirement enumerated in the Manual on Uniform
+6 Traffic Control Devices, section 2E.31, published by the Federal Highway Administration and
+7 adopted by reference in 23 C.F.R. part 655.603. Exit numbers shall be determined based on the
+8 mileage contained in the department of transportation linear referencing system. The department
+9 shallhaveuntiltheyear2038tocompletethereplacementofexistingexitnumbering.
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3157
+12/16/25
+HB1785-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringmileage-basedexitnumbersontier1highways.
+FISCALIMPACT:
+ThisbillisnotexpectedtohaveanimpactuntilFY2031.
+METHODOLOGY:
+This bill requires that all Tier I highways, except I-393, have mile-based exit numbering that
+conforms with the Federal Manual on Uniform Traffic Control Devices (MUTCD), which is
+authorized through lawmaking as applicable to all roadways open to public travel. The bill
+states the Department of Transportation shall have until the year 2038 to complete the
+replacement of existing exit numbering. The Department assumes the state will use the same
+method as nearby states by putting overlay panels on existing signs to show the new exit
+numbers. The Department estimates implementation would occur sometime between FY 2031
+andFY2038withthefollowingestimatedcosts:
+ FY2031PreliminaryEngineering=$132,500
+ FY2033ConstructionandConstructionEngineering=$2,274,000
+The Department states that highway improvement projects of this magnitude are typically
+funded using Federal funds through Federal Highway Administration (FHWA). Changes to
+signage on the Turnpike System would need to be paid with Turnpike Funds available for
+Capital Improvement projects. On the non-Turnpike roads, use of Federal funds would be
+subject to approval in a future Ten-Year Plan and in competition with and potentially displacing
+other planned projects. Similarly with Turnpike Funds – prioritization of this project would
+compete with other needed Turnpike capital projects during a time when Turnpike projects are
+already being deferred to future years for lack of funding. Based upon proportion of work on
+Turnpikes versus Federal eligible locations, an estimated 35% of the cost would be Turnpikes
+withthebalanceFederal.
+The following is a table of Tier 1 highways included in this estimate, along with the quantity of
+interchangesandquantityofexitrampsthatwouldbeaddressedforeachhighway:
+HighwayRoute Interchanges ExitRamps ExitRamps
+
+(Turnpike) (Non-
+Turnpike)
+Interstate93 54 11 97
+Interstate89 22 0 40
+Interstate293 9 13 7
+Interstate95 8 15 0
+FEEverettTurnpike 15 33 0
+(I-93andI-293portionsaddressedabove)
+SpauldingTurnpike 16 33 0
+NHRoute101 17 0 38
+RaymondWieczorekDrive 1 0 4
+Totals 142 105 186
+AGENCIESCONTACTED:
+DepartmentofTransportation

@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1604-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0676h
+2026SESSION
+26-3195
+08/07
+1604-FN
+HOUSEBILL
+ANACT requiring suitable public facilities such as schools and town halls be made
+availableaspollingplacesuponrequestbylocalelectionofficials.
+SPONSORS: Rep. Guzofski, Rock. 1; Rep. Berry, Hills. 44; Rep. Qualey, Ches. 18; Rep. See,
+Merr.26;Rep.Wherry,Hills.13;Rep.Burnham,Straf.2;Rep.Muirhead,Graf.12
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires suitable public facilities such as schools and town halls be made available as
+pollingplacesuponrequestbylocalelectionofficials.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1604-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0676h 26-3195
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring suitable public facilities such as schools and town halls be made
+availableaspollingplacesuponrequestbylocalelectionofficials.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Use of Public Buildings as Polling Places. Amend RSA 658 by inserting after
+2 section9-athefollowingnewsection:
+3 658:9-b UseofPublicBuildingsasPollingPlaces.
+4 I. Upon request by the selectmen of a town or the ward officers of a city ward, any town-,
+5 city-, or school-owned or -operated facility within the town or ward, including any public schools,
+6 town halls, fire stations, or other municipal, school district, or charter school property, that is of
+7 sufficient size and accessibility to meet the requirements of RSA 658:9, shall be made available for
+8 useasapollingplaceforallelections,includingstate,federal,andmunicipalelections.
+9 II. Whendesignated as apollingplace, suchfacilityshall bereserved as necessaryto ensure
+10 the conduct of the election and the free and convenient access of voters, election officials, and
+11 equipment, while permitting the continuation of normal governmental or educational operations,
+12 includingemergencyresponseandpublicsafetyservices.
+13 III. The municipality shall be responsible for reasonable costs directly related to such use,
+14 includingcustodialservices,utilities,andsecurity,unlessotherwiseagreedbytheparties.
+15 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3195
+3/16/26
+HB1604-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0676h)
+ANACT requiring suitable public facilities such as schools and town halls be made
+availableaspollingplacesuponrequestbylocalelectionofficials.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncreasemorethan$10,000to
+LocalExpenditures $0
+$100,000orless
+METHODOLOGY:
+This bill requires any suitable town, city, or school owned/operated facility within the town or
+ward, such as public schools, town halls, fire stations, or other municipal or, school district, or
+charter school property, be made available as polling places upon request by the selectmen of a
+town or the ward officers of a city ward. The municipality would be responsible for reasonable
+costs associated with custodial services, utilities, and security unless otherwise agreed upon by
+therelevantpartiesinvolved.
+The New Hampshire Municipal Association states adding an additional polling location could
+increase local expenditures by approximately $10,000 to $100,000, primarily for staffing and
+essential services. Furthermore, legal expenses may arise if disputes occur between facility and
+municipalofficialsregardingwhatconstitutesreasonablecosts.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

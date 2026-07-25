@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1245-FN-ASINTRODUCED
+2026SESSION
+26-3151
+06/08
+1245-FN
+HOUSEBILL
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Granger, Straf. 2; Rep. Labrie, Hills. 2; Rep.
+Warden,Hills.39;Sen.Innis,Dist7
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a framework for voluntary portable benefit plans for independent
+contractors and allows hiring parties to contribute to benefit arrangements without affecting worker
+classification.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1245-FN-ASINTRODUCED
+26-3151
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose. The purpose of this act is to allow independent contractors and hiring
+2 parties to voluntarily participate in portable benefit plans, providing access to certain benefits
+3 withoutalteringtheclassificationofsuchworkersunderstatelaw.
+4 2 New Chapter; Voluntary Portable Benefit Plans. Amend RSA by inserting after chapter 283
+5 thefollowingnewchapter:
+6 CHAPTER283-A
+7 VOLUNTARYPORTABLEBENEFITPLANS
+8 283-A:1 Definitions. Inthissubdivision:
+9 I. "Independent contractor" means a person who qualifies as such under RSA 275:42, II, (a)
+10 through(g),orapplicablecommonlawtests.
+11 II. "Hiring party" means any individual, business, or marketplace platform that contracts
+12 withanindependentcontractorforservices.
+13 III. "Portable benefit plan" means an arrangement that provides one or more of the
+14 following:
+15 (a) Healthinsurance.
+16 (b) Unemploymentinsurance.
+17 (c) Disabilityinsurance.
+18 (d) Lifeinsurance.
+19 (e) Retirementbenefits.
+20 IV. "Portable benefit plan provider" means an entity authorized to provide or administer a
+21 portablebenefitplanunderthischapter.
+22 283-A:2 VoluntaryContributions.
+23 I. Ahiringpartymaymakevoluntarycontributionstoaportablebenefitplanonbehalfofan
+24 independentcontractor.
+25 II. Such contributions shall not be considered in determining whether an independent
+26 contractorisanemployeeunderNewHampshirelaw.
+27 283-A:3 WithholdingforContributions.
+28 I. A hiring party and an independent contractor may agree in writing that a portion of the
+29 compensation due the independent contractor may be withheld and contributed to a portable benefit
+30 plan.
+31 II. Suchagreementshall:
+
+HB1245-FN-ASINTRODUCED
+-Page2-
+1 (a) Be clear, unambiguous, and prominently displayed in the contract or in a separate
+2 writtennotice;
+3 (b) Requiretheindependentcontractortoaffirmativelyoptin;and
+4 (c) Permittheindependentcontractortooptoutatanytime.
+5 284-A:4 No Effect on Classification. Participation in a portable benefit plan shall not be used to
+6 determinetheemploymentstatusofaworkerunderRSA275,RSA282-A,oranyotherstatelaboror
+7 benefitsstatute.
+8 4 EffectiveDate. Thisactshalltakeeffect60daysafterpassage.
+
+LBA
+26-3151
+11/4/25
+HB1245-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0 (Estimatenot (Estimatenot (Estimatenot
+providedbythe providedbythe providedbythe
+Department) Department) Department)
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill establishes a voluntary framework allowing independent contractors to participate in
+portablebenefitplansthroughauthorizedproviders. Itpermitshiringpartiestomakevoluntary
+contributions or withhold compensation for contributions to such plans. Participation would not
+affectaworker’semploymentclassificationunderstatelaw.
+The New Hampshire Insurance Department states this bill would create a framework for
+independent contractors to access one or more insurance benefits offered through a portable
+benefit plan administered by an authorized plan provider. A hiring party could withhold
+
+compensationfromanindependentcontractorforcontributionstosuchaplan. Participationina
+portable benefit plan would not affect worker classification under RSA 275, RSA 282-A, or any
+otherlabororbenefitsstatute.
+The Department notes it is unclear whether a portable benefit plan would provide access to
+insurance on a group or individual basis, or how the program would be implemented under this
+new chapter. Insurance products and the entities authorized to issue or administer them are
+regulated under Title 37, which defines the types of permissible groups. Depending on
+implementation, enactment could result inthesaleor administrationof new insurance products,
+potentially increasing Insurance Premium Tax or fee revenue, but the amount cannot be
+determined.
+To the extent counties and municipalities purchase health insurance, they could see an increase
+intheirhealthinsurancepremiums.
+AGENCIESCONTACTED:
+NHInsuranceDepartment

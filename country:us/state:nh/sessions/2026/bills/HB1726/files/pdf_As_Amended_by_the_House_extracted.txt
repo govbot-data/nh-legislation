@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1726-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0966h
+2026SESSION
+26-2860
+06/09
+1726-FN
+HOUSEBILL
+ANACT relativetothesaleofsurplusstate-ownedland.
+SPONSORS: Rep. Muns, Rock. 29; Rep. Booras, Hills. 8; Rep. de Vries, Rock. 29; Rep. Hegner,
+Hills. 41; Rep. Howland, Straf. 20; Rep. Lane, Merr. 16; Rep. Maggiore, Rock. 23;
+Rep.D.Paige,Carr.1;Rep.Read,Rock.10;Rep.Stavis,Graf.13;Sen.Altschiller,
+Dist24;Sen.PerkinsKwoka,Dist21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires that proceeds from the sale or lease of surplus state-owned land be credited to
+theoriginatingdepartment'sfund.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1726-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0966h 26-2860
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothesaleofsurplusstate-ownedland.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Acquisition and Disposal of Real Estate. Amend RSA 4:40 by inserting after
+2 paragraphIII-athefollowingnewparagraph:
+3 III-b. Except as otherwise provided in RSA 4:39-c, RSA 228:31-b, and RSA 204-D, proceeds
+4 fromthesale,conveyance,transfer,orleaseunderthissectionshallbecreditedasrestrictedrevenue
+5 tothefundfromwhichthepropertywasoriginallypurchasedorthatsupporteditsacquisition.
+6 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2860
+03/13/2026
+HB1726-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0966h)
+ANACT relativetothesaleofsurplusstate-ownedland.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None

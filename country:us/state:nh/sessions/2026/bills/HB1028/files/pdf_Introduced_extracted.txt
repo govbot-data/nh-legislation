@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1028 -ASINTRODUCED
+2026SESSION
+26-2387
+07/05
+1028
+HOUSEBILL
+ANACT relativetothedefinitionofrenewablegenerationfacility.
+SPONSORS: Rep. Walker, Straf. 19; Rep. J. MacDonald, Carr. 6; Rep. Maggiore, Rock. 23; Rep.
+Bolton,Graf.8
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillamendsthedefinitionofrenewablegenerationfacility.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1028-ASINTRODUCED
+26-2387
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedefinitionofrenewablegenerationfacility.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation; Payment in Lieu of Taxes for Renewable Generation Facilities; Definition of
+2 RenewableGenerationFacility. AmendRSA72:73toreadasfollows:
+3 72:73 Definition of Renewable Generation Facility. In this subdivision, "renewable generation
+4 facility" means a facility which produces electric energy for resale solely by the exclusive use, as a
+5 primary energy source, of geothermal energy, tidal or wave energy, wind energy, solar thermal
+6 energy, photovoltaic energy, landfill gas energy, hydro energy, biomass energy, energy generated
+7 from bio-oil, bio synthetic gas, and biodiesel as defined in RSA 362-A:1-a, I, I-a, and I-b, including
+8 the land, all rights, easements, and other interests thereto, and all dams, buildings, structures, and
+9 otherimprovementssituatedthereonwhicharenecessaryorincidentaltotheproductionofpowerat
+10 thefacility.
+11 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

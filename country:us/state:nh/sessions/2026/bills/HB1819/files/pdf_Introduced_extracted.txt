@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1819-FN-ASINTRODUCED
+2026SESSION
+26-3017
+12/06
+1819-FN
+HOUSEBILL
+ANACT relativetoreviewofeducationfreedomaccountserviceproviders.
+SPONSORS: Rep.Bricchi,Merr.15;Rep.Luneau,Merr.9;Sen.Altschiller,Dist24
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the state board of education to annually review education freedom account
+serviceprovidersforcontinuedcompliancewithallstateandfederalanti-discriminationlaws.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1819-FN-ASINTRODUCED
+26-3017
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoreviewofeducationfreedomaccountserviceproviders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Education Freedom Account Service Providers; Review. Amend RSA 194-F:6
+2 byinsertingafterparagraphIIthefollowingnewparagraph:
+3 III. Education service providers shall develop and implement policies that are required of
+4 school districts and chartered public schools set forth under RSA 193:39. The state board of
+5 education shall annually review all education service providers approved under this section for
+6 continued compliance with all state and federal anti-discrimination laws, including any policies
+7 mandatedbythissection.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3017
+Revised1/12/26
+HB1819-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoreviewofeducationfreedomaccountserviceproviders.
+FISCALIMPACT:
+This bill requires the State Board of Education to annually review Education Freedom Account
+(EFA) service providers for compliance with all state and federal anti-discrimination laws. The
+Department of Education assumes the current scholarship organization will perform the
+administrative tasks required for these reviews after an amendment to the existing contract is
+executed. The scholarship organization’s administrative fees will cover any additional expenses
+incurredfromtheaddedresponsibilities. Therefore, itwillhave noimpact onstateexpenditures
+relativetoimplementation.
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1590-FN-ASINTRODUCED
+2026SESSION
+26-2914
+09/08
+1590-FN
+HOUSEBILL
+ANACT harmonizing the age of personhood under the criminal code and the fetal life
+protectionact.
+SPONSORS: Rep. Scully, Hills. 8; Rep. Burnham, Straf. 2; Rep. Bernardy, Rock. 36; Rep.
+Sellers, Graf. 10; Rep. Potenza, Straf. 19; Rep. Terry, Belk. 7; Sen. Gannon, Dist
+23;Sen.Avard,Dist12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Amends the exemption pertaining to the termination of pregnancy for purposes of application
+ofthehomicidestatutes.
+II. Amends thefetal life protectionact tomatchtheexisting statutoryageof fetal personhood to
+betheendof20weeksofgestationasestablishedinthehomicidestatutes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1590-FN-ASINTRODUCED
+26-2914
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT harmonizing the age of personhood under the criminal code and the fetal life
+protectionact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. This bill clarifies and corrects theexemptionlanguage pertainingtothetermination
+2 of a pregnancy in New Hampshire homicide laws. This bill also corrects a constitutional flaw in
+3 existingNewHampshirelawthatallowsadevelopinghumanidentifiedasapersontobeterminated
+4 withoutdueprocess.
+5 2 Homicide;DeathofAnother;Applicability. AmendRSA630:1-a,V(a)toreadasfollows:
+6 V.(a) NothinginparagraphIVshallapplyto:
+7 (1) Apregnantwoman,for aterminationofher pregnancy,thatisperformed
+8 incompliancewithRSA329:44[Anyactcommittedbythepregnantwoman];
+9 (2) [Any act committed at the request or direction of the pregnant woman or for the
+10 benefitofthepregnantwoman;
+11 (3)] Any act performed by a physician or other medical professional in the course of
+12 such physician's or medical professional's professional duties, including but not limited to, an act
+13 performedincompliancewithRSA329:44thatresultsintheterminationofapregnancy;or
+14 [(4)] (3) Anyact takeninfurtherance of the lawful dispensationor administration of
+15 prescriptionornonprescriptionmedication.
+16 3 FetalLifeProtectionAct;Prohibition. AmendRSA329:44,IandIItoreadasfollows:
+17 I. Except in the case of a medical emergency as specifically defined in paragraph III, no
+18 abortion shall be performed, induced, or attempted by any health care provider unless a health care
+19 providerhasfirst madeadeterminationoftheprobablegestationalageof thefetus. Inmakingsuch
+20 a determination, the health care provider shall make such inquiries of the pregnant woman and
+21 perform or cause to be performed all such medical examinations, imaging studies, and tests as a
+22 reasonably prudent health care provider in the community, knowledgeable about the medical facts
+23 and conditions of both the woman and the fetus involved, would consider necessary to perform and
+24 consider in making an accurate diagnosis with respect to gestational age, provided, however, that
+25 the health care provider shall conduct an obstetric ultrasound examination of the patient for the
+26 purposeofmakingthedetermination. Thisparagraphshallbeconstruedtorequiretheperformance
+27 ofanultrasoundonlyiftheprovidereitherknowsthatthefetushasagestationalageofatleast[24]
+28 20 weeks or is conscious of a substantial risk that the fetus has a gestational age of at least [24] 20
+29 weeks.
+
+HB1590-FN-ASINTRODUCED
+-Page2-
+1 II. Except in the case of fetal abnormalities incompatible with life, or a medical emergency
+2 as specifically defined in paragraph III, no health care provider shall knowingly perform, induce, or
+3 attempt to perform an abortion upon a pregnant woman when the probable gestational age of her
+4 fetus has been determined to be at least [24] 20 weeks or in the absence of a determination by a
+5 healthcareproviderpursuanttoparagraphIastothefetus'probablegestationalage.
+6 4 FetalLifeProtectionAct;CriminalPenalties. AmendRSA329:46toreadasfollows:
+7 329:46 Criminal Penalties. – Any health care provider who knowingly performs or induces an
+8 abortion in violation of this subdivision and knows that the fetus has a gestational age of at least
+9 [24] 20 weeks, or consciously disregards a substantial risk that the fetus has a gestational age of at
+10 least [24] 20 weeks, shall be guilty of a class B felony and, in addition to any other penalties the
+11 courtmayimpose,befinednotlessthan$10,000andnotmorethan$100,000.
+12 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2914
+12/3/25
+HB1590-FN-FISCALNOTE
+ASINTRODUCED
+ANACT harmonizing the age of personhood under the criminal code and the fetal life
+protectionact.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

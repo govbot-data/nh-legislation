@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1279-VERSIONADOPTEDBYBOTHBODIES
+05/14/2026 1545s
+05/14/2026 1944s
+4Jun2026...2115CofC
+4Jun2026...2186EBA
+2026SESSION
+26-2855
+09/08
+1279
+HOUSEBILL
+ANACT relativetotheuseofphysicalforceindefenseofaperson.
+SPONSORS: Rep.Polozov,Merr.10;Rep.Aures,Merr.13;Rep.Avellani,Carr.4;Rep.Giasson,
+Hills. 29; Rep. McFarlane, Graf. 18; Rep. Sabourin dit Choiniere, Rock. 30; Rep.
+Sirois, Hills. 32; Rep. Thibault, Merr. 25; Rep. Roy, Rock. 31; Sen. Sullivan, Dist
+18
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillmodifiesthestandardforwhenforcecanbeusedagainstsomeonelikelytouseunlawful
+forceinthecommissionofafelony.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1279-VERSIONADOPTEDBYBOTHBODIES
+05/14/2026 1545s
+05/14/2026 1944s
+4Jun2026...2115CofC
+4Jun2026...2186EBA 26-2855
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofphysicalforceindefenseofaperson.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PhysicalForceinDefenseofaPerson. AmendRSA627:4,II(d)toreadasfollows:
+2 (d) Is likely to use any unlawful force in the commission of a felony against the actor or
+3 athirdpersonwithinsuchactor'sdwellingoritscurtilage.
+4 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

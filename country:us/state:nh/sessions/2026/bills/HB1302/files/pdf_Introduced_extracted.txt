@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1302 -ASINTRODUCED
+2026SESSION
+26-2873
+09/08
+1302
+HOUSEBILL
+ANACT relativetopost-arrestphotographdistributionbylawenforcementofficers.
+SPONSORS: Rep. Popovici-Muller, Rock. 17; Rep. Spillane, Rock. 2; Rep. Wheeler, Hills. 33;
+Rep.McFarlane,Graf.18
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the release of post-arrest photographs for nonviolent offenses, subject to
+certainexceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1302-ASINTRODUCED
+26-2873
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopost-arrestphotographdistributionbylawenforcementofficers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Findings. Thegeneralcourtfindsthat:
+2 I. The release of post-arrest photographs (commonly known as mugshots) of individuals
+3 accused but not convicted of crimes can cause substantial and lasting reputational harm, even when
+4 theindividualisultimatelyacquittedorthechargesaredismissed.
+5 II. The public dissemination of such photographs for nonviolent offenses before a conviction
+6 serveslittlepublicsafetypurposeandcanunderminetrustinthecriminaljusticesystembycreating
+7 apresumptionofguilt.
+8 III. Limiting public access to post-arrest photographs for nonviolent offenses until after
+9 conviction will help protect the privacy and due process rights of individuals while maintaining
+10 publicconfidenceinlawenforcement.
+11 IV. Exceptions are necessary to allow for the release of post-arrest photographs when there
+12 is an urgent public safety need or when the assistance of the public is necessary to locate a suspect
+13 whoposesadangertothecommunity.
+14 V. These protections are not intended to apply to individuals determined to be unlawfully
+15 present in the United States, for whom different public safety and immigration enforcement
+16 considerationsapply.
+17 2 New Subdivision; Post-Arrest Photograph Distribution. Amend RSA 105 by inserting after
+18 section19thefollowingnewsubdivision:
+19 Post-ArrestPhotographDistribution
+20 105:20 Post-ArrestPhotographDistribution;Limitations.
+21 I. Inthissection:
+22 (a) "Nonviolentoffense"meansanyoffensethatisnotaviolentoffense.
+23 (b) "Violent offense" means any felony or class A misdemeanor that has as an element
+24 theuse,attempteduse,orthreateneduseofphysicalforceagainstaperson.
+25 II. Post-arrest photographs, or mugshots, taken by law enforcement officers of persons
+26 arrested for nonviolent offenses shall be considered records compiled for investigatory purposes and
+27 shall not be subject to RSA 91-A, and shall not be published, released, or disseminated to the public
+28 orthemediaunlessanduntilthesubjecthasbeenconvictedofanoffensearisingoutofthearrest.
+29 III. Law enforcement officers may release post-arrest photographs for nonviolent offenses
+30 priortoconvictionif:
+
+HB1302 -ASINTRODUCED
+-Page2-
+1 (a) The subject presents an immediate threat or danger to the public and release of the
+2 photographisnecessarytoprotectpublicsafety;or
+3 (b) The subject has failed to appear in court after being released on bail or is suspected
+4 of committing a subsequent offense while on bail, and the assistance of the public is necessary to
+5 locatethesubjectafterreasonablenonpublicmethodsoflocationhavebeenexhausted.
+6 IV. The restrictions in this section shall not apply to individuals who are determined by law
+7 enforcement or federal authorities to be unlawfully present in the United States. Law enforcement
+8 agencies maypublish, release, or disseminate post-arrest photographs of suchindividuals regardless
+9 ofconvictionstatus.
+10 V. Any release or dissemination of post-arrest photographs under this section shall be
+11 documented by the releasing agency, including the date of release, the recipient of the photograph,
+12 andthereasonfortherelease.
+13 VI. Nothing in this section shall prohibit the sharing of post-arrest photographs with other
+14 law enforcement agencies, prosecutors, or witnesses as part of a valid law enforcement function.
+15 Nothing in this section shall affect the collection, use, or dissemination of photographs of convicted,
+16 registeredoffendersunderRSA651-B.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1501-FN-ASINTRODUCED
+2026SESSION
+26-2479
+09/07
+1501-FN
+HOUSEBILL
+ANACT limitingjudicialimmunity.
+SPONSORS: Rep. DeRoy, Straf. 3; Rep. Nalevanko, Ches. 9; Rep. D. Kelley, Hills. 32; Rep.
+Bailey, Straf. 2; Rep. Bernardy, Rock. 36; Rep. Potenza, Straf. 19; Rep. Perez,
+Rock. 16; Rep. Sabourin dit Choiniere, Rock. 30; Rep. Sellers, Graf. 10; Rep.
+Kaczynski,Straf.5
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill limits judicial immunity to allow for criminal or civil remedies for actions by members
+ofthejudiciaryforcertainactions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1501-FN-ASINTRODUCED
+26-2479
+09/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT limitingjudicialimmunity.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Judicial Immunity. Amend RSA by inserting after chapter 490-K the following
+2 newchapter:
+3 CHAPTER490-L
+4 JUDICIALIMMUNITY
+5 490-L:1 Definitions. Asusedinthischapter:
+6 I. "Judicial immunity" means the protection from criminal or civil liability granted to judges
+7 foractsperformedintheirofficialcapacity.
+8 II. "Judicialstateactors"meansagovernmentofficialorentitythatholdsjudicialpowerand
+9 is subject to constitutional limitations, and shall include judges and other officials acting within the
+10 judicialbranchofthestate.
+11 490-L:2 Limitation of Judicial Immunity. Judicial immunity shall not serve to indemnify or
+12 hold harmless judicial state actors from criminal prosecution or civil tort proceedings if a judicial
+13 state actor is alleged to have committed an action that goes beyond the scope of their judicial duties
+14 and constitutes either criminal conduct or an intentional tort, or where the act is palpably in excess
+15 ofthejurisdictionofthejudicialstateactorandisdonemaliciouslyorcorruptly.
+16 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2479
+12/2/25
+HB1501-FN-FISCALNOTE
+ASINTRODUCED
+ANACT limitingjudicialimmunity.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+$0to$250,000 $0to$250,000 $0to$250,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill creates RSA 490-L, which limits judicial immunity by allowing criminal prosecution or
+civil tort claims against judges and other judicial stateactors for actions that exceed the scope of
+judicial duties, constitute criminal conduct, intentional torts, or acts that are palpably beyond
+jurisdictionanddonemaliciouslyorcorruptly.
+With the limits on judicial immunity applying broadly to judges, clerks, administrators, and
+judicial staff, the Branch anticipates an increase in requests for legal consultation and
+representation through its Office of General Counsel. Depending on the volume of new claims,
+the Branch may need an additional attorney. The Judicial Branch states this bill will result in
+an indeterminable increase in state expenditures, between $0 to $250,000 depending on the
+volumeofnewclaimsandtheneedforanadditionalattorney,beginninginFY2027.
+
+Additionally, this bill adds, deletes, or modifies a criminal penalty, or changes statute to which
+there is a penalty for violation. Therefore, this bill may have an impact on the judicial and
+correctional systems, which could affect prosecution, incarceration, probation, and parole costs,
+forthestate,aswellascountyandlocalgovernments. Asummaryofsuchcostscanbefound at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

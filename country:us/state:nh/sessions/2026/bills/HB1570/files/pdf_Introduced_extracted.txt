@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1570-FN-LOCAL-ASINTRODUCED
+2026SESSION
+26-2448
+09/05
+1570-FN-LOCAL
+HOUSEBILL
+ANACT relative to governmental budget authority for agreements for law enforcement
+agenciestoparticipateinfederalimmigrationenforcement.
+SPONSORS: Rep. Scherr, Rock. 26; Rep. Berch, Ches. 6; Rep. Meuse, Rock. 37; Rep. Muns,
+Rock.29;Rep.A.Murray,Hills.20
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires local budgetary authority before a law enforcement agency enters into an
+agreement with the federal Immigration and Customs Enforcement to assist in the enforcement of
+federal immigration law, grants the budgetary authority continuing power to terminate the
+agreement,andprovidesforapenaltyforfailuretocomply.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1570-FN-LOCAL-ASINTRODUCED
+26-2448
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to governmental budget authority for agreements for law enforcement
+agenciestoparticipateinfederalimmigrationenforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. The general court recognizes that some law enforcement agencies in New
+2 Hampshire will seek to engage in Section 287(g) agreements with the Immigration and Customs
+3 Enforcement. Because those law enforcement agencies carry the complete cost of their participation
+4 insuchagreements,thegeneralcourtdeemsitessentialtogroundthedecisiontoparticipateinsuch
+5 agreements in the governmental authority that oversees the budget of those law enforcement
+6 agenciesandrepresentsitsconstituents.
+7 2 New Section; ParticipationinFederal ImmigrationPrograms. Amend RSA106-Pbyinserting
+8 aftersection1thefollowingnewsection:
+9 106-P:2 ApprovalofParticipation.
+10 I. Notwithstanding RSA 106-P:1, if a law enforcement agency (LEA) in New Hampshire
+11 intends to apply for a Section 287(g) agreement with United States Immigration and Customs
+12 Enforcement (ICE) pursuant to this chapter, it must first receive permission from the governmental
+13 budget authority (GBA) that has final authority over its budget. It may not apply for a Section
+14 287(g)agreementwithoutsuchpermission.
+15 II. Notwithstanding RSA 106-P:1, as a part of seeking permission from its GBA, the law
+16 enforcementagencyshallprovidetheGBAwithaformalestimateoftheyearlycosttothatagencyof
+17 participation in the Section 287(g) agreement, including an estimate of the number of employee
+18 hours that will be devoted to participation in the agreement. The GBA may decline to approve the
+19 agreementbasedonthecosttothemunicipalityorotherpoliticalentityofsuchanagreement.
+20 III. Notwithstanding RSA 106-P:1, if the LEA receives approval from its GBA for the
+21 applicationandICEapprovestheapplication:
+22 (a) TheLEAmaynotsigntheSection287(g)agreementwithoutitsGBA:
+23 (1) ReviewingtheSection287(g)agreement;
+24 (2) Providing notice to the residents within its jurisdiction of the proposed
+25 agreementanditscost;and
+26 (3) AuthorizingtheLEAtosigntheagreement.
+27 (b) TheLEAshallalsoprovidedocumentednoticetotheGBAofthespecificprovisionsof
+28 theSection287(g)agreementthatitintendstoperformandnotperform.
+29 IV. Uponsigningoftheagreement,theLEAshallprovideaquarterlyreporttoitsGBAof:
+
+HB1570-FN-LOCAL-ASINTRODUCED
+-Page2-
+1 (a) The activityits employees engaged inas Section287(g)agents, includingthenumber
+2 ofdetentionsbasedICEdetainersorwarrantsinwhichtheLEAwasinvolved.
+3 (b) Specificnumber ofhours duringwhicheachofficer operatedunder theSection287(g)
+4 agreement,includingbutnotlimitedto,trainingtime.
+5 (c) Cost to the LEA of each officer’s time spent engaged in Section 287(g) activities,
+6 includingbutnotlimitedtotrainingtime.
+7 (d) Additional costs to the LEA for the time its officers spent conducting Section 287(g)
+8 activities.
+9 (e) Any reimbursement to the LEA from ICE, the Department of Homeland Security, or
+10 other federal agencies for activities conducted by LEA officers while engaged in Section 287(g)
+11 activities.
+12 (f) Identification and number of requests by ICE or the Department of Homeland
+13 Security for participation of officers from the law enforcement agency under the Section 287(g)
+14 agreement,includingthoserequeststhattheLEAdeclined.
+15 V. Notwithstanding RSA 106-P:1, the requirements in subparagraph IV(b) and paragraph V
+16 above shall also include and apply to all LEAs that have engaged in Section 287(g) agreements prior
+17 totheeffectivedateofthissection.
+18 VI. Notwithstanding RSA 106-P:1, the GBA for an LEA shall have the authority to
+19 terminate the Section 287(g) agreement at any time based on the cost to its political entity of
+20 operating under the agreement. This authority shall apply to all LEAs with Section 287(g)
+21 agreements,includingthosewithagreementsthatpre-datedtheeffectivedateofthissection.
+22 VII. Notwithstanding RSA 106-P:1, the state shall withhold all state funding to any LEA
+23 thatfailstoabidewiththissection.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2448
+12/8/25
+HB1570-FN-LOCAL-FISCALNOTE
+ASINTRODUCED
+ANACT relative to governmental budget authority for agreements for law enforcement
+agenciestoparticipateinfederalimmigrationenforcement.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $101,000 $81,000 $83,000
+FundingSource(s) GeneralFundandHighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires local budgetary authority before a law enforcement agency enters into an
+agreement with the federal Immigration and Customs Enforcement (ICE) to assist in the
+enforcement of federal immigration law, grants the budgetary authority continuing power to
+terminatetheagreement,andprovidesforapenaltyforfailuretocomply.
+StateImpact
+The Department of Safety states the Division of State Police (NHSP) already has a working
+287(g) agreement, and any training or notices required by the bill would be negligible. Since
+NHSP only uses their 287(g) authority as part of their normal work, it’s hard to predict any
+added day-to-day costs. The Department states a more significant cost comes from the bill’s
+quarterlyreportingrequirement.NoneoftheStatePolicesystemscurrentlyhaveawaytotagor
+track when Troopers are doing 287(g) work. Creating new codes and having the software
+companies update these systems could cost around $10,000 and take several months. Until
+those updates are in place, the Department states that pulling the needed information by hand
+would be very time-consuming, likely requiring the hire of a new position (account auditor/data
+clerk, SOC 13-02, step 6) at an estimated cost of $91,000 in FY 2027, $81,000 in FY 2028, and
+$83,000 in FY 2029 (75% general fund and 25% highway fund). This bill provides neither
+authorizationnorappropriationfornewpersonnel.
+
+CountyImpact
+The New Hampshire Association of Counties states this bill would require the county delegation
+to vote on any contract that county or county officials enter with ICE, to which it believes would
+havenoaddedcost.
+MunicipalImpact
+The New Hampshire Municipal Association states the bill changes the responsible party in a
+municipality authorized to apply for entry or enter into an agreement with the United States
+Immigration and Customs Enforcement to participate in a federal 287(g) program pursuant to 8
+U.S.C. section 1357(g). As such, the Association states the bill itself does not have an impact on
+localrevenuesorexpenditures.
+AGENCIESCONTACTED:
+Department of Safety, New Hampshire Association of Counties, and New Hampshire Municipal
+Association

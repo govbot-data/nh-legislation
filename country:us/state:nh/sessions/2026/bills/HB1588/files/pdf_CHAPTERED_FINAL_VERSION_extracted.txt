@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER329
+HB1588-FN-FINALVERSION
+05/07/2026 1720s
+4Jun2026...2079CofC
+4Jun2026...2194EBA
+2026SESSION
+26-3234
+07/06
+1588-FN
+HOUSEBILL
+ANACT relative to the regulation of accessory parking for vehicles by local legislative bodies
+and multifamily housing within commercial districts by municipalities; establishing
+special assessment districts; and relative to expanding the housing infrastructure
+municipalgrantprogramandmakinganappropriationtherefor.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Allows local legislative bodies to regulate accessory parking for vehicles so long as they do not
+requirethattheparkingspaceperunitbegaraged.
+II. Allows municipalities to impose limited requirements for multifamily housing within commercial
+districtsinexistenceasofJuly1,2026.
+III. Establishesspecialassessmentdistrictsandexpandsthehousinginfrastructuregrantprogram to
+allowformunicipalupgradeslinkedtonewhousing.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER329
+HB1588-FN-FINALVERSION
+05/07/2026 1720s
+4Jun2026...2079CofC
+4Jun2026...2194EBA 26-3234
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the regulation of accessory parking for vehicles by local legislative bodies
+and multifamily housing within commercial districts by municipalities; establishing
+special assessment districts; and relative to expanding the housing infrastructure
+municipalgrantprogramandmakinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 329:1 Zoning;GrantofPower;ParkingOrdinances. AmendRSA674:16,VIItoreadasfollows:
+2 VII. In its exercise of the powers granted under this subdivision, the local legislative body of a
+3 city,town,orcountyinwhichtherearelocatedunincorporatedtownsorunorganizedplacesmayregulate
+4 accessory parking for vehicles, but shall not require more than one residential parking space per unitor
+5 requirethattheparkingspaceperunitbegaraged.
+6 329:2 Multi-Family Residential Development on Commercially Zoned Land; Amendment to Zoning
+7 Regulations; Conversion of Multi-Family Dwelling Units Permitted. Amend RSA 674:80, IV to read as
+8 follows:
+9 IV. [Amunicipalityshallprovideanexemptiontoanyrequirementsregardingsetbacks,height,or
+10 frontage of a building being converted to multi-family or mixed-use through adaptive reuse, provided that
+11 the building's floor area, height, and setbacks do not change.] Nothinginthissectionshallbeconstrued
+12 toaltermunicipalauthorityunderRSA674:43,Itorequiresiteplanreviewformulti-familydwellingunits.
+13 Consistentwiththepurposeofthissection,formulti-familydwellingunitsproposedincommercialdistricts
+14 existing,created,orexpandedafterJuly1,2026,municipalitiesmayimposefrontage,setbacks,and
+15 heightrequirements;providedthatsuchrequirementsshallnotdifferfromwhatisallowedforcommercial
+16 development.Multi-familydwellingunitsshallbeallowedasamatterofright,andmunicipalitiesshallnot
+17 enforceadditionalrequirementsunlessexpresslyauthorizedbythissection.Nothinginthissectionshall
+18 prohibitenforcementofapplicablestatefire,building,andotherrequirementsunderRSA153,RSA155-A,
+19 andRSA485-A.
+20 V.Amunicipalityshall allowpre-existingnonconformingstructurestobeconvertedtomulti-family
+21 dwellingunitsormixeduseprovidedthatthestructure’senvelopeisnotalteredtofurtherviolatezoning
+22 districtdimensionalrequirements.
+23 VI. Anyownerofcommercially-zonedpropertyimproperlydeniedanapplicationformulti-family
+24 housing,orwhoissubjectedtorequirementsbeyondthoseallowedinthissection,andwhoisthereby
+25 requiredtofilesuitagainstthemunicipalityinordertoexercisethepropertyrightsthusrecognized,shall
+26 beentitledtobereimbursedreasonableattorney'sfeesincurredasadirectresult.
+27 329:3 New Chapter; Special Assessment Districts. Amend RSA by inserting after chapter 162-U the
+28 followingnewchapter:
+29 CHAPTER162-V
+
+CHAPTER329
+HB1588-FN-FINALVERSION
+-Page2-
+1 SPECIALASSESSMENTDISTRICTS
+2 162-V:1 Authority. The governing body of any city or town may enter into special assessment
+3 memorandums of understanding with 60 percent of properties' owners to establish special assessment
+4 districts and spending programs for the purpose of financing public infrastructure improvements
+5 necessarytoservenewdevelopment.
+6 162-V:2 ImprovementsAuthorized.
+7 I. Infrastructureimprovementseligibleforfinancingunderthischaptershallinclude:
+8 (a) Roads,sidewalks,streetlighting,andtrafficcontroldevices;
+9 (b) Watermains,sewerlines,stormwatermanagementfacilities,andrelatedappurtenances;
+10 (c) Utilityextensionsdirectlyservingthedistrict;and
+11 (d) Streetscapeorparkingimprovementsincidentaltodevelopment.
+12 II. General government buildings, schools, or facilities that do not directly and specially benefit
+13 parcelswithinthedistrictshallnotbefinancedunderthischapter.
+14 162-V:3 ApportionmentofCosts.
+15 I. Assessments shall be levied only against properties that receive a direct and ascertainable
+16 benefitfromtheimprovements.
+17 II. Thegoverningbodyshalldeterminethemethodofapportionment,whichmayincludefrontage,
+18 lotsize,numberofunits,assessedvalue,orotherreasonablemetric.
+19 III. Noparcelshallbeassessedinanamountgreaterthanthespecialbenefitconferreduponit.
+20 162-V:4 Financing.
+21 I. Municipalities may issue bonds to finance improvements within the district, to be repaid solely
+22 fromassessmentsleviedunderthischapter.
+23 II. Assessmentsmaybecollectedinannualinstallmentsoveraperiodnottoexceed20years.
+24 III. Assessmentsshallconstitutealienonthepropertywiththesamepriorityandenforcementas
+25 propertytaxes.
+26 162-V:5 Procedure.
+27 I. Establishment of a district shall require the governing body of any city or town to enter into
+28 specialassessmentmemorandumsofunderstandingwith60percentofproperties'owners.
+29 II. Notice of the proposed district shall be mailed to each affected property owner and published
+30 inanewspaperofgeneralcirculationatleast14dayspriortothehearing.
+31 162-V:6 Appeals. Any property owner subject to an assessment may appeal the apportionment of
+32 coststothegoverningbodywithin30daysofnotice,andthereaftertothesuperiorcourtpursuanttoRSA
+33 677.
+34 162-V:7 Dissolution. A district shall dissolve upon repayment of all obligations or earlier by vote of
+35 thegoverningbody,providedallcostshavebeensatisfied.
+36 329:4 Department of Business and Economic Affairs; Expansion of Housing Infrastructure Municipal
+37 Grant Program. The department of business andeconomicaffairsshall expanditshousing infrastructure
+38 municipalgrantprogramtoallowforsewer,water,androadupgradesfornewhousingunits.
+
+CHAPTER329
+HB1588-FN-FINALVERSION
+-Page3-
+1 329:5 DepartmentofBusinessandEconomicAffairs,Appropriation. Thesumof$1forthefiscalyear
+2 ending June 30, 2027 is hereby appropriated to the department of business and economic affairs for the
+3 purpose of providing grants for sewer, water, and road upgrades for new housing units under its housing
+4 infrastructuremunicipalgrantprogram. Thegovernorisauthorizedtodrawawarrantforsaidsumsoutof
+5 anymoneyinthetreasurynototherwiseappropriated.
+6 329:6 Multi-Family Residential Development on Commercially Zoned Land; Amendment to Zoning
+7 Regulations; Conversion of Multi-Family Dwelling Units Permitted. Amend RSA 674:80, V to read as
+8 follows:
+9 V. [A municipality shall provide an exemption to any requirements regarding setbacks, height, or
+10 frontage of a building being converted to multi-family or mixed-use through adaptive reuse, provided that
+11 the building's floor area, height, and setbacks do not change.] Nothinginthissectionshallbeconstrued
+12 toaltermunicipalauthorityunderRSA674:43,Itorequiresiteplanreviewformulti-familydwellingunits.
+13 Consistentwiththepurposeofthissection,formulti-familydwellingunitsproposedincommercialdistricts
+14 existing,created,orexpandedafterJuly1,2026,municipalitiesmayimposefrontage,setbacks,and
+15 heightrequirements;providedthatsuchrequirementsshallnotdifferfromwhatisallowedforcommercial
+16 development.Multi-familydwellingunitsshallbeallowedasamatterofright,andmunicipalitiesshallnot
+17 enforceadditionalrequirementsunlessexpresslyauthorizedbythissection.Nothinginthissectionshall
+18 prohibitenforcementofapplicablestatefire,building,andotherrequirementsunderRSA153,RSA155-A,
+19 andRSA485-A.
+20 VI. Amunicipalityshall allowpre-existingnonconformingstructurestobeconvertedtomulti-
+21 familydwellingunitsormixeduseprovidedthatthestructure’senvelopeisnotalteredtofurtherviolate
+22 zoningdistrictdimensionalrequirements.
+23 VII. Anyownerofcommercially-zonedpropertyimproperlydeniedanapplicationformulti-family
+24 housing,orwhoissubjectedtorequirementsbeyondthoseallowedinthissection,andwhoisthereby
+25 requiredtofilesuitagainstthemunicipalityinordertoexercisethepropertyrightsthusrecognized,shall
+26 beentitledtobereimbursedreasonableattorney'sfeesincurredasadirectresult.
+27 329:7 Contingency. IfHB1010ofthe2026regularlegislativesessionbecomeslaw,section2ofthis
+28 actshallnot takeeffect andsection6ofthisactshall takeeffect 60daysafter itspassage. If HB1010of
+29 the 2026 regular legislative session does not become law, section 2 of this act shall take effect 60 days
+30 afteritspassageandsection6ofthisactshallnottakeeffect.
+31 329:8 Contingent Renumbering. If HB 1433 of the 2026 regular legislative session becomes law:
+32 RSA 162-V as inserted by section 3 of this act shall be renumbered as RSA 162-X. If HB 1433 of the
+33 2026 regular legislative session does not become law: RSA 162-V as inserted by section 3 of this act
+34 shallberenumberedasRSA162-W.
+35 329:9 EffectiveDate.
+36 I. Sections2and6ofthisactshalltakeeffectasprovidedinsection7ofthisact.
+37 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+CHAPTER329
+HB1588-FN-FINALVERSION
+-Page4-
+Approved:July15,2026
+EffectiveDate:
+I.Sections2&6effectiveasprovidedinsection7
+II.RemaindereffectiveSeptember13,2026

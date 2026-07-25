@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1471 -ASINTRODUCED
+2026SESSION
+26-3045
+06/07
+1471
+HOUSEBILL
+ANACT relativetochangestothestateretirementsystem.
+SPONSORS: Rep.Foote,Rock.13;Rep.Bordes,Belk.5;Rep.D.Mannion,Rock.25
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill updates the calculation of “average final compensation” for group II retirement system
+members (police and fire) who began service before July 1, 2011 and were not vested by January 1,
+2012,aligningitwiththeformulaadoptedinHB2(2025).
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1471-ASINTRODUCED
+26-3045
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetochangestothestateretirementsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 RetirementDefinitions. AmendRSA100-A:1,XVIII(c)(1)toreadasfollows:
+2 (c)(1) For group II members who commenced service prior to July 1, 2011 and who have
+3 not attained vested status prior to January 1, 2012, the average annual earnable compensation of a
+4 memberduringhisorherhighest5yearsofcreditableservice,orduringalloftheyearsinhisorher
+5 creditable service if less than 5 years. [For purposes of inclusion in this calculation, the average
+6 percentage of compensation paid in excess of the full base rate of compensation in the highest 5
+7 years shall not exceed the average percentage of compensation paid in excess of the full base rate of
+8 compensation over all the member's years of service on or after January 1, 2012] For purposes of
+9 this calculation, the inclusion of the average annual compensation for extra and special
+10 duty pay in the 5 years shall not exceed the average annual amount of compensation for
+11 extra and special duty paid to the member over the member’s last 5 years of creditable
+12 service on or after January 1, 2012, as reported by the employer in accordance with RSA
+13 100-A:16, VI, or over all of the years in his or her creditable service on or after January 1,
+14 2012,iflessthan5years.
+15 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3045
+1/15/26
+HB1471-FISCALNOTE
+ASINTRODUCED
+ANACT relativetochangestothestateretirementsystem.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantandtheNewHampshireRetirementSystem(NHRS)
+state this bill is aligning the formula for the calculation of average final compensation for
+Group II, Tier B members who commenced service before July 1, 2011 and were not vested by
+January 1, 2012 with the provisions previously adopted in Chapter 142, Laws of 2025 (HB 282)
+and therefore has no additional fiscal impact on state, county and local expenditures or
+revenue. The anticipated fiscal impact of this calculation has already been considered as part
+oftheappropriationcontainedinChapter142:41,Lawsof2025(HB282,section41).
+AGENCIESCONTACTED:
+NewHampshireRetirementSystem

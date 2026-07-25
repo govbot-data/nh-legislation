@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1711-FN-ASINTRODUCED
+2026SESSION
+26-2746
+09/06
+1711-FN
+HOUSEBILL
+ANACT relativetogovernmentallanduses.
+SPONSORS: Rep.Fracht,Graf.16;Rep.Pauer,Hills.36;Rep.Aylward,Merr.5
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill defines agents as it relates to thegovernmental use of certain lands and requires that a
+publichearingbeheldregardingachangeinuseornewuseofthoseproperties.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1711-FN-ASINTRODUCED
+26-2746
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetogovernmentallanduses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Governmental Use of Property; Governmental Land Uses. Amend RSA 674:54, I - II-b to read
+2 asfollows:
+3 I. In this section, "governmental use" means a use, construction, or development of land
+4 owned or occupied, or proposed to be owned or occupied, by the state, university system, the
+5 community college system of New Hampshire, or by a county, town, city, school district, or village
+6 district, or any of their authorized agents, contractors, or subcontractors for any public purpose
+7 whichisstatutorilyortraditionallygovernmentalinnature.
+8 II. Thestate,universitysystem,communitycollegesystemofNewHampshire,county,town,
+9 city, school district, or village district, or any of their authorized agents, contractors, or
+10 subcontractors shall give written notification to the governing body and planning board, if such
+11 exists, of a municipality of any proposed governmental use of property within its jurisdiction, which
+12 constitutes a [substantial] change in use or a [substantial] new use. Written notification shall
+13 contain plans, specifications, explanations of proposed changes available at the time, a statement of
+14 the governmental nature of the use as set forth in paragraph I, and a proposed construction
+15 schedule. Such notification shall be provided at least 60 days prior to the beginning of construction
+16 orthechangeinuse. Eitherthegoverningbodyorplanningboardofthemunicipality[may]shall
+17 conduct a public hearing relative to the proposed governmental use. Any such hearing shall be held
+18 within[30]45daysafterreceiptofnoticebythegoverningbodyorplanningboard. Arepresentative
+19 of the governmental entity or any of their authorized agents, contractors, or subcontractors
+20 which provided notice shall be available to present the plans, specifications, and construction
+21 schedule, change in use, and to provide explanations. The governing body or planning board may
+22 issue nonbinding written comments relative to conformity or nonconformity of the proposal with
+23 normallyapplicablelanduseregulationstothesponsorofthegovernmentalusewithin30daysafter
+24 thehearing.
+25 II-a. Any use, construction, or development of land occurring on governmentally owned or
+26 occupied land, but which is not a governmental use as defined in paragraph I, shall be fully subject
+27 tolocallanduseregulations.
+28 II-b. In this section, “authorized agent” means a person, contractor, or
+29 subcontractorauthorizedtoactonbehalfofthestateorapoliticalsubdivisionofthe state.
+30 The governing body or planningboard of the municipality may request that the authorized
+31 agent provide documentation proving they are authorized to act on behalf of the state or a
+
+HB1711-FN-ASINTRODUCED
+-Page2-
+1 political subdivision of the state, cite any applicable laws relative to the proposed
+2 governmental use, or require proof of any necessary licensure or certification necessary to
+3 carryoutthegovernmentaluse.
+4 II-c. The construction and operation of any solid waste disposal facility on land owned or
+5 occupiedbyanycityortownwithinanothercityortownshallbesubjecttolocallanduseregulations
+6 to the same extent as if the land were owned and occupied by a private entity. Nothing in this
+7 paragraph shall affect the construction and operation of a solid waste facility on land owned by a
+8 solid waste management district formed under RSA 53-A or RSA 53-B or any combination of
+9 municipalities authorized by an act of the general court, if the land is located within a city or town
+10 thatispartofthedistrict.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2746
+12/10/25
+HB1711-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetogovernmentallanduses.
+FISCALIMPACT:
+The Legislative Budget Assistant has determined that this legislation has a total fiscal impact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+Department of Administrative Services, New Hampshire Municipal Association, New
+HampshireAssociationofCounties,andtheUniversitySystemofNewHampshire

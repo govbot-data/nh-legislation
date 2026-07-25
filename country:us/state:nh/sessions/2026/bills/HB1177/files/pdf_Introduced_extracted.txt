@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1177 -ASINTRODUCED
+2026SESSION
+26-2639
+05/06
+1177
+HOUSEBILL
+ANACT adding a definition to the labor laws regarding remote work and defining the
+natureofsuchemployment.
+SPONSORS: Rep.MacKenzie,Hills.40
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill defines remote work and establishes various employment protections for remote
+workers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1177-ASINTRODUCED
+26-2639
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT adding a definition to the labor laws regarding remote work and defining the
+natureofsuchemployment.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; ProtectiveLegislation; RemoteWork. Amend RSA275byinsertingafter section
+2 37-bthefollowingnewsection:
+3 275:37-c RemoteWork.
+4 I. In this section, "remote work" means a flexible work arrangement in which an employee,
+5 under a written remote work agreement, is scheduled to perform work at an alternative worksite
+6 and is not expected to perform work at an agency worksite on a regular and recurring basis. A
+7 remote worker’s official worksite may be within or outside the local commuting area of an agency
+8 worksite.
+9 II. Aremoteworkershallreceivethesameprotectionandrightsasanin-personworker.
+10 III. An employer shall ensure compliance with applicable labor laws for any employee
+11 workingremotely,whichincludesmealandrestbreaks,overtime,paidtimeoff,andanyotherrights
+12 specifictojobperformanceorlocation.
+13 IV. An employer shall indemnify remote workers for all necessary expenditures or losses
+14 incurred by the employee as a direct consequence of the discharge of their duties. These expenses
+15 may include but are not limited to Internet and phone bills, work-related equipment, such as
+16 computersandmonitors,at-hometechexpenses,officesupplies,andmileageortransportationcosts.
+17 V. Anemployershallextendtheircommitmenttoworkplacesafetytoremotesettings.
+18 VI. An employer shall ensure that a remote worker is free from recognized hazards that
+19 could cause harm. This includes providing necessary equipment and ensuring that the work
+20 environmentisadequate,thusensuringsafeandhealthypractices.
+21 VII. An employer is responsible for evaluating and addressing ergonomic factors in remote
+22 workstations. This involves providing suitable furniture, equipment, and accessories to promote
+23 comfortableandsafeworkingconditions.
+24 VIII. An employer should offer appropriate training to remote workers, outlining safety
+25 protocols and guidelines. This may include information on emergencyprocedures, proper equipment
+26 usage,andhazardidentification.
+27 IX. An employer shall establish effective communication channels to stay connected with
+28 remote workers. This ensures that employees can promptly report safety concerns or incidents,
+29 allowingfortimelyresolution.
+
+HB1177 -ASINTRODUCED
+-Page2-
+1 X. Anemployershouldimplementmeasurestosecuresensitiveinformationandupholddata
+2 privacy in remote work settings. This involves secure remote access, data protection training, and
+3 clearpoliciesonhandlingconfidentialinformation.
+4 XI. Remote workers who sustain work-related injuries or illnesses shall be informed about
+5 the procedures for reporting and filing workers’ compensation claims. Employers shall maintain
+6 transparencyabouttheavailablebenefitsandsupportforinjuredorillremoteworkers.
+7 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

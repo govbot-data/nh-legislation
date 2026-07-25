@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1090-FN-ASINTRODUCED
+2026SESSION
+26-2527
+07/05
+1090-FN
+HOUSEBILL
+ANACT subjectingcertainmotorvehiclestomealsandroomstaxes.
+SPONSORS: Rep.Spahr,Graf.12
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill subjects certain water vehicles to meals and rooms taxes and creates a flat gross rental
+receipttaxrate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1090-FN-ASINTRODUCED
+26-2527
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT subjectingcertainmotorvehiclestomealsandroomstaxes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSubparagraphs;Taxation;TaxOnMealsandRooms;Definitions. AmendRSA78-A:3,VI
+2 byinsertingaftersubparagraph(d)thefollowingnewsubparagraph:
+3 (e) Separately stated charges for highway tolls electronically billed to the owner of the
+4 motorvehicle.
+5 2 Taxation;TaxOnMealsandRooms;Definitions. AmendRSA78-A:3,IXtoreadasfollows:
+6 IX. "Motor vehicle" means a self-propelled vehicle designed to transport persons or property
+7 on a public highway or waterway that is required by law to be registered for operation on public
+8 highwaysorwaterways.
+9 3 Taxation; Tax on Meals and Rooms; Imposition of Tax. RSA 78-A:6, II-III is repealed and
+10 reenactedtoreadasfollows:
+11 II. Ataxof8.5percentisimposedfortaxablemeals,providedthatcentsorfractionsofcents
+12 shallberoundeduptothenextwholenickel.
+13 III. A tax of 8.5 percent is imposed upon the gross rental receipts of each rental or motor
+14 vehiclerental.
+15 IV. The operator shall collect the taxes imposed by this section and shall pay them over to
+16 thestateasprovidedinthischapter.
+17 4 Taxation; Tax on Meals and Rooms; Disposition of Revenue. Amend RSA 78-A:26, II to read
+18 asfollows:
+19 II. Beginning on July 1, [1999] 2026, and for each fiscal year thereafter, the department
+20 shall pay over all revenue collected pursuant to RSA 78-A:6, [II-a] III to the state treasurer for
+21 depositintheeducationtrustfundestablishedbyRSA198:39.
+22 5 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+
+LBA
+26-2527
+11/6/25
+HB1090-FN-FISCALNOTE
+ASINTRODUCED
+ANACT subjectingcertainmotorvehiclestomealsandroomstaxes.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Increase Increase
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill expands and makes minor changes to the administration of the Meals and Rooms tax
+(M&R), including exempting from the definition of "gross rental receipts" electronically billed
+highway tolls if the charge is stated separately; amending RSA 78-A:3, IX to expand the
+definition of “motor vehicle” to include registration-required vehicles designed to transport
+persons or property on public waterways as well as on public highways (i.e. motorboats.);
+eliminates thecurrent schedule for taxablemeals under $1.00in price, making all taxable meals
+taxed at the 8.5% rate; and further modifies the current rounding up or down to the next whole
+centtobecomeroundinguptothenextwholenickelfortaxablemeals.
+For the toll charge change, the Department of Revenue Administration does not have sufficient
+data to estimate the fiscal impact. The Department believes that operators may already be
+excluding passed-through pay-by-plate highway toll charges from their reported gross rental
+receipts but should be including their add-on charges with respect to those tolls as well as
+charges for company-owned toll devices that are added to a rental at a flat daily price or other
+similar charges. This is consistent with the tax treatment of motor fuel charges, although the
+Department’s rules are silent with respect to toll charges. The Department would interpret the
+proposed legislation as clarifying and would expand its current rules according to the foregoing
+interpretation.
+
+The application of the M&R tax to motorboat rentals will increase Education Trust Fund
+revenue by an indeterminable amount. The Department does not have data to provide the exact
+impact of this change. Using national data that boat rentals are a $5.3 billion industry and
+assuming the NH share based on population would be $2.2 million in rentals, the estimated
+increaseinrevenuewouldbe$189,000peryear.
+The Department states eliminating the current rounding schedule, will require operators to
+collect tax on every transaction no matter how small and could be required to collect tax of a
+nickel on a penny transaction. The rounding changes will also impact operators’ practices and
+may require modifications to their point of service (POS) systems in order to remain compliant.
+The Department states the bill does not modify rounding for occupancies or gross rental receipts
+which may pose difficulties particularly for operators of hotels that collect M&R for both
+occupanciesandtaxablemeals.
+The Department states General Fund and Education Trust Fund revenue will increase by an
+indeterminable,butnotmaterial,amountbychangingtheroundingontaxablemealstothenext
+whole nickel. The Department estimates a M&R revenue increase of approximately $24,000 per
+year based on the following: 75% of all taxable meal sales and over half of all M&R collected is
+attributable to restaurants and there are 3,406 total businesses with 250 transactions per day.
+The Department did not locate similar transaction data for other types of operators but does not
+believethatnon-restaurantmealsoperatorsoroccupanciesandgrossrentalreceiptsoperators,if
+included, would provide a revenue impact much different than the impact provided for
+restaurantsabove.
+The Department notes the bill amends RSA 78-A:26, II to a beginning date of July 1, 2026;
+however, the effective date of the proposed legislation is currently stated to be April 1, 2027.
+This retroactive change in the distribution of M&R revenue could be interpreted to require the
+Department to recalculate nine months’ worth of distribution of motor vehicle tax revenue to the
+education trust fund, which DRA believes is not intended. The Department suggests the
+effective date and the date of the distribution change be changed to the same date, and suggests
+July 1, 2027 for both, in order to allow DRA time to develop forms and rules and publicize the
+changes in law made by the proposed legislation, as well as to provide operators and their
+vendorstimetoadjusttheirsystemsandpractices,priortoimplementation.
+The Department would need to update forms and information systems to implement this bill.
+The Department does not anticipate this bill will result in any additional administrative costs
+thatcouldnotbeabsorbedwithintheDepartment'soperatingbudget,assuminganeffectivedate
+ofJuly1,2027.
+
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

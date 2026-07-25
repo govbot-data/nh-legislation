@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1427-FN-ASINTRODUCED
+2026SESSION
+26-2546
+12/09
+1427-FN
+HOUSEBILL
+ANACT limitingtheauthorityofamunicipality,county,orschooldistricttoissuebonds.
+SPONSORS: Rep. McFarlane, Graf. 18; Rep. Corcoran, Hills. 28; Rep. Berry, Hills. 44; Rep.
+MaryMurphy,Hills.27;Rep.D.McGuire,Merr.14;Rep.D.Kelley,Hills.32;Rep.
+McGrath,Rock.40;Rep.Bjelobrk,Graf.5
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill limits the authority of municipalities, counties, and school districts to issue bonds to
+onlycircumstancesof declaredemergencies,where essentialinfrastructureis atrisk,for securement
+ofsubstantialmatchingfunds,orwheredirectedbytheexpresswillofthevoters.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1427-FN-ASINTRODUCED
+26-2546
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT limitingtheauthorityofamunicipality,county,orschooldistricttoissuebonds.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownasthe"Sustainable,HonestInvestment,andElimination
+2 ofLocalDebtAct,"orthe"SHIELDAct."
+3 2 Statement of Purpose. The people of New Hampshire have long valued prudence, thrift, and
+4 responsible stewardship of public resources. Given that reliance on debt places an unfair burden on
+5 future generations, who are compelled to pay for obligations which they did not choose, the general
+6 court recognizes that sound governance requires that communities plan ahead, establish capital
+7 reservefunds, and savefor knownneeds rather thanresortingtoborrowing. The purposeof this act
+8 is therefore to restrict the use of bonds to only true emergencies and extraordinary circumstances,
+9 andnotasasubstituteforfiscaldiscipline.
+10 3 New Section; Limitations on Bonding Authority. Amend RSA 33 by inserting after section 3-g
+11 thefollowingnewsection:
+12 33:3-h LimitationsonBondingAuthority.
+13 I. Forthepurposesofthissection:
+14 (a) “Declared emergency” shall include, but not be limited to, emergencies formally
+15 declared by the governor under RSA 4:45, by federal authorities, or by the governing body of the
+16 municipality, county, or school district, provided that a finding by a local governing body made in
+17 bad faith or with fraudulent intent shall subject the members voting in favor to personal liability
+18 underRSA31:39-aandotherapplicablelaws.
+19 (b) “Essentialinfrastructure”shallmeanfacilitiesandsystemsdirectlynecessaryforthe
+20 provision of drinking water, wastewater treatment, emergency services, and public safety, and
+21 closelyrelatedfacilitieswhosefailurewouldposeanimminentthreattopublichealthorsafety.
+22 II. Except as otherwise provided in this section, no municipality, county, or school district
+23 shallissuebondsforanypurposeafterJanuary1,2027.
+24 III. Until January 1, 2031, a municipality, county, or school district may issue bonds which
+25 would otherwise be prohibited by this section with a maturity of not more than 10 years, provided
+26 that the total principal amount of all such bonds shall not exceed 100 percent of the entity’s annual
+27 budget or 50 percent of the entity’s biennial budget as adopted for the fiscal period (annum or
+28 biennium) in which the bonds are issued. Upon expiration of the 4 year period, only bonds meeting
+29 theexemptionsinparagraphIVshallbepermitted.
+30 IV. Theprohibitionsofthissectionshallnotapplytobondsissued:
+
+HB1427-FN-ASINTRODUCED
+-Page2-
+1 (a) For response to or recovery from a declared emergency, including natural disasters,
+2 man-made disasters, public health emergencies, or other events formally declared by the governor,
+3 thefederalgovernment,orthegoverningbodyofthepoliticalsubdivision;or
+4 (b) For repair or replacement of essential infrastructure whose failure poses an
+5 imminentthreattopublichealth,safety,orwelfare;or
+6 (c) For emergency replacement of heating systems, boilers, or other building systems
+7 essentialforthecontinuedsafeoperationofpublicfacilities;or
+8 (d) Securing federal or state matching funds, provided that the value of such matching
+9 funds is at least equal to the principal amount of the bonds issued, and provided further that the
+10 failuretoactwouldresultinforfeitureofsuchfunds;or
+11 (e) Individually and explicitly authorized by warrant article, voted on by the registered
+12 voters of the town, district, or county at a duly warned meeting, provided that at least a majority of
+13 all registered voters participateinthe vote, and approved byat least two-thirds of thosepresent and
+14 voting.
+15 V.(a) Any bond issued in violation of this section shall be voidable upon a successful action
+16 broughtbyataxpayeroftheissuingpoliticalsubdivision.
+17 (b) Thesuperiorcourtshallhavejurisdictionoversuchactionsandmayawardcostsand
+18 reasonableattorney’sfeestotheprevailingtaxpayer.
+19 (c) The state treasurer shall refuse registration of any bond that on its face does not
+20 complywiththissection.
+21 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2546
+11/30/25
+HB1427-FN-FISCALNOTE
+ASINTRODUCED
+ANACT limitingtheauthorityofamunicipality,county,orschooldistricttoissuebonds.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill creates the Sustainable, Honest Investment, and Eliminate Local Debt Act (SHIELD
+Act). The SHIELD Act limits the use of municipal, county, and school district bonds starting in
+2027, allowing them only in emergencies or for critical infrastructure. It encourages saving and
+planning over borrowing, and sets strict conditions for issuing bonds, including voter approval
+andmatchingfunds. Bondsissuedoutsidetheserulescanbechallengedincourtandrejectedby
+thestatetreasurer.
+The New Hampshire Municipal Association states it is hard to predict the exact cost of this
+proposal because many factors are involved. Towns and cities may spend more before 2031 as
+they try to approve important projects before stricter rules kick in, costs could range from
+$100,000 to over $2.5 million depending on the size of the community. After the new limits take
+effect, spending might go downfor awhile. However, waitingto fixor upgradethings like water
+systems, bridges, or emergency buildings until they’re in crisis could end up costing more than
+planning ahead. Additionally, since residents could challenge bond decisions in court and
+officialscouldbeheldpersonallyresponsible,townsmayfacehigherlegalandinsurancecosts.
+The New Hampshire Association of Counties indicates that while the exact costs of the bill are
+indeterminable, they are likely to be significant. The bonding process can be both lengthy and
+expensive, and additional measures will likely be required to manage the costs incurred by the
+counties during this transitional period. Delaying necessary capital projects may lead to higher
+long-term maintenance and operating costs due to aging infrastructure, but the extent of these
+
+costs will vary by county and project and cannot be reliably estimated. Therefore, the NHAC
+findstheoverallfiscalimpactoncountiestobeindeterminable.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociationandNewHampshireAssociationofCounties

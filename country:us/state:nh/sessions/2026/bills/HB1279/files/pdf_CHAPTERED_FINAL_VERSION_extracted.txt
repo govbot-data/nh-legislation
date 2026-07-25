@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER323
+HB1279-FINALVERSION
+05/14/2026 1545s
+05/14/2026 1944s
+4Jun2026...2115CofC
+4Jun2026...2186EBA
+2026SESSION
+26-2855
+09/08
+1279
+HOUSEBILL
+ANACT relativetotheuseofphysicalforceindefenseofaperson.
+SPONSORS: Rep. Polozov, Merr. 10; Rep. Aures, Merr. 13; Rep. Avellani, Carr. 4; Rep. Giasson,
+Hills. 29; Rep. McFarlane, Graf. 18; Rep. Sabourin dit Choiniere, Rock. 30; Rep.
+Sirois,Hills.32;Rep.Thibault,Merr.25;Rep.Roy,Rock.31;Sen.Sullivan,Dist18
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill modifies the standard for when force can be used against someone likely to use unlawful
+forceinthecommissionofafelony.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER323
+HB1279-FINALVERSION
+05/14/2026 1545s
+05/14/2026 1944s
+4Jun2026...2115CofC
+4Jun2026...2186EBA 26-2855
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofphysicalforceindefenseofaperson.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 323:1 PhysicalForceinDefenseofaPerson. AmendRSA627:4,II(d)toreadasfollows:
+2 (d) Islikelytouseanyunlawfulforceinthecommissionofafelonyagainsttheactororathird
+3 personwithinsuchactor'sdwellingoritscurtilage.
+323:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:July15,2026
+EffectiveDate:January01,2027

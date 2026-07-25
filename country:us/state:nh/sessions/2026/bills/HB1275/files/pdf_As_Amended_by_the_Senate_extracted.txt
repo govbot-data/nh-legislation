@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1275-ASAMENDEDBYTHESENATE
+11Mar2026...0925h
+11Mar2026...1079h
+05/07/2026 1593s
+05/07/2026 1792s
+05/14/2026 1879s
+2026SESSION
+26-2843
+08/07
+1275
+HOUSEBILL
+ANACT relative to the effects of per- and polyfluoroalkyl substances on agriculture,
+exempting certain per- and polyfluoroalkyl products from use restrictions, and
+relativetothedefinitionof"drinkingwaterstandard".
+SPONSORS: Rep.W.Thomas,Hills.12;Rep.N.Murphy,Hills.12
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Grants immunity from civil liability to farmers for damages resulting from claims based on
+harms caused by certain per and poly fluorinated alkyl substances present in soil, water, or
+agriculturalproducts.
+II. Requires thedepartmentof environmentalservicestodevelopconcentration-based standards
+forPFASinbiosolidsatland-applicationsites.
+III. Exemptscertainperandpolyfluoroalkylproductsfromuserestrictions.
+IV. Amends the definition of "drinking water standard" as it pertains to maximum contaminant
+levelsincertainwatermanagementandprotectionfundsandprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1275-ASAMENDEDBYTHESENATE
+11Mar2026...0925h
+11Mar2026...1079h
+05/07/2026 1593s
+05/07/2026 1792s
+05/14/2026 1879s
+05/14/2026 1879s 26-2843
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the effects of per- and polyfluoroalkyl substances on agriculture,
+exempting certain per- and polyfluoroalkyl products from use restrictions, and
+relativetothedefinitionof"drinkingwaterstandard".
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; PFAS in Agriculture. Amend RSA 431 by inserting after section 36 the
+2 followingnewsubdivision:
+3 PFASinAgriculture
+4 431:37 Per- and Polyfluorinatedalkyl Substances; Civil Immunity. Any person engaged in the
+5 practice of farming shall be immune from suit and civil liability for any damages resulting from
+6 claims based on harms caused by per and poly fluorinated alkyl substances present in soil, water, or
+7 agricultural products as a result of standard agricultural practices, including the land application of
+8 sludgeorbiosolids.
+9 2 Water Pollution and Waste Disposal; Land Application of Sludge. Amend RSA 485-A:5-d to
+10 readasfollows:
+11 485-A:5-d LandApplicationofSludge.
+12 I. Sludge or biosolids which are to be land applied in New Hampshire shall not exceed the
+13 maximum concentrations for specific chemical contaminants contained in the rules of the
+14 department, or the rules or regulations of the state in which the sludge was generated, whichever
+15 aremorestringent.
+16 II. By June 30, 2027, the department shall initiate rulemaking under RSA 541-A to
+17 develop concentration-based standards for PFAS in biosolids at land-application sites.
+18 Such standards shall be set for those PFAS compounds for which an ambient groundwater
+19 quality standard has been established under RSA 485-C. Such rulemaking shall include
+20 requirements for PFAS soil testing at land-application sites. Beginning January 1, 2028,
+21 land application shall not occur if biosolid or soil PFAS concentrations exceed the
+22 applicablestandards.
+23 3 New Subparagraph; Solid Waste Management; Regulation of Advanced Recycling; Consumer
+24 Products; Per- and Polyfluoroalkyl Substance Use Restricted. Amend RSA 149-M:64, II(a) by
+25 insertingaftersubparagraph(5)thefollowingnewsubparagraph:
+
+HB1275-ASAMENDEDBYTHESENATE
+-Page2-
+1 (6) Products authorized by or under contract with the United States Department of
+2 Defense that are or may be covered by the International Traffic in Arms Regulations (ITAR), 22
+3 C.F.R.parts120-130,ortheExportAdministrationRegulations(EAR),15C.F.R.part730,etseq.
+4 4 Per And Polyfluoroalkyl Substances (PFAS) Fund And Programs; Definitions. Amend RSA
+5 485-H:2,IIItoreadasfollows:
+6 III. "Drinkingwaterstandard"meansthe(PFAS)maximumcontaminantlevels established
+7 pursuant to RSA 485:16-e or, at the discretion of the commissioner, an analogous federal
+8 standard.
+9 5 EffectiveDate.
+10 I. Section4ofthisactshalltakeeffect60daysafteritspassage.
+11 II. Theremainderofthisactshalltakeeffectuponitspassage.

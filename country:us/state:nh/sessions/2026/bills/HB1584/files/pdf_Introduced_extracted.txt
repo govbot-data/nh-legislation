@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1584-FN-ASINTRODUCED
+2026SESSION
+26-3239
+05/08
+1584-FN
+HOUSEBILL
+ANACT directing the department of health and human services to provide notice of
+medical and religious exemptions from immunization requirements and relative
+totheformofsuchexemption.
+SPONSORS: Rep. Potenza, Straf. 19; Rep. Kofalt, Hills. 32; Rep. Layon, Rock. 13; Rep. Mazur,
+Hills.44
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to provide notice of medical and
+religious exemptions from immunization requirements and provides that any written signed
+statementattestingtothereligiousobjectionshallbesufficient. Thebillalsodirectsthedepartment
+toprovideanannualcompliancereporttothelegislature.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1584-FN-ASINTRODUCED
+26-3239
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT directing the department of health and human services to provide notice of
+medical and religious exemptions from immunization requirements and relative
+totheformofsuchexemption.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Noticeof Medical and Religious Exemptions. Amend RSA141-Cby inserting
+2 aftersection20-fthefollowingnewsection:
+3 141-C:20-g NoticeofMedicalandReligiousExemptions.
+4 I. Any communication, publication, posting, advertisement, website, social media post,
+5 printed material, or other location where the department of health and human services promotes
+6 vaccination or immunization shall prominently display, “MEDICAL AND RELIGIOUS
+7 EXEMPTIONS ARE AVAILABLE UNDER NEW HAMPSHIRE LAW” in bold, clearly noticeable,
+8 starredprintonthefrontortopportionofthematerial.
+9 II. This notice shall be at least as prominent as the main headline or promotional text
+10 regardingthevaccinationorimmunizationandshallnotbeplacedsolelyinfootnotes,disclaimers,or
+11 links.
+12 III. The department of health and human services shall adopt rules under RSA 541-A to
+13 implementthissection.
+14 2 New Paragraph; Immunization Required for School Attendance; Grounds and Procedure for
+15 Exemption. AmendRSA141-C:20-c,IItoreadasfollows:
+16 II. A parent or legal guardian objects to immunization because of religious beliefs. The
+17 parent or legal guardian shall sign a form stating that the child has not been immunized because of
+18 religious beliefs; provided however, the parent or legal guardian shall not be required to use
+19 or sign any specific form provided or posted by the department of health and human
+20 services and may instead provide any written signed statement attesting to the religious
+21 objection.
+22 3 Penalty. AmendRSA141-C:21toreadasfollows:
+23 141-C:21 Penalty.
+24 I. Any person who shall violate, disobey, refuse, omit or neglect to comply with any of the
+25 provisionsofRSA141-C,oroftherulesadoptedpursuantto it,shallbeguiltyofamisdemeanorifa
+26 naturalperson,orguiltyofafelonyifanyotherperson.
+27 II. Any officer, employee, or agent of the department of health and human services
+28 who authorizes or distributes promotional material regarding vaccination or
+29 immunization without including the notice required under RSA 141-C:20-g shall be subject
+
+HB1584-FN-ASINTRODUCED
+-Page2-
+1 to a civil penalty not to exceed $1,000 for each violation. Each separate communication or
+2 publication without the required notice shall constitute a separate violation. Civil
+3 penaltiescollectedunderthisparagraphshallbedepositedinthegeneralfund.
+4 4 New Section; Annual Compliance Report. Amend RSA 141-C by inserting after section 21-a
+5 thefollowingnewsection:
+6 141-C:21-b AnnualComplianceReport.
+7 I. On or before December 31 of each year, the department of health and human services
+8 shallsubmitawrittenreporttothechairpersonsofthehouseandsenatehealthandhumanservices
+9 committeesandthelegislativeoversightcommitteeonhealthandhumanservices.
+10 II. The report shall list all promotional campaigns and materials produced or disseminated
+11 during the prior state fiscal year, indicate whether the required notice under RSA 141-C:20-g was
+12 included,andstateanyviolationsandcivilpenaltiesassessedunderRSA141-C:21,II.
+13 III. Thereportshallbeapublicdocumentandpostedonthedepartment’swebsite.
+14 5 EffectiveDate. Thisactshalltakeeffect30daysafteritspassage.
+
+LBA
+26-3239
+12/8/25
+HB1584-FN-FISCALNOTE
+ASINTRODUCED
+ANACT directing the department of health and human services to provide notice of
+medical and religious exemptions from immunization requirements and relative
+totheformofsuchexemption.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s)
+Expenditures* $0 $43,000 $45,500 $47,500
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to provide notice of medical
+and religious exemptions from immunization requirements. Instances of non-compliance will
+result in civil penalties not to exceed $1,000 per violation. The Department assumes it will need
+a part-time medical health services specialist to communicate the changes to providers and
+produce the annual compliance report required by the bill. The cost for this position is
+estimated to be $43,000 in FY27, $45,500 in FY28, and $47,500 in FY29. The Department notes
+that it is unclear what entity will be responsible for assessing the civil penalties established in
+thebill.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

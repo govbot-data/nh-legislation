@@ -1,0 +1,216 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1777-FN-ASINTRODUCED
+2026SESSION
+26-2638
+04/09
+1777-FN
+HOUSEBILL
+ANACT relativetotheenhanced911systemfund.
+SPONSORS: Rep.Hakken-Phillips,Graf.12
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restricts the use of Enhanced 911 system funds to expenditures that directly support
+911 call delivery and dispatch operations, establishes enforcement mechanisms for unauthorized
+use,andenhancedfinancialtransparencyandoversight.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1777-FN-ASINTRODUCED
+26-2638
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheenhanced911systemfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Enhanced 911 Fund; Authorized and Prohibited Uses. RSA 106-H:9, II is repealed and
+2 reenactedtoreadasfollows:
+3 II.(a) Moneysintheenhancedfundsystemshallbeusedsolelyforexpendituresthatdirectly
+4 support the delivery of 911 voice and data information from the point of origin to the public safety
+5 answering point (PSAP), and from the PSAP to dispatch centers and first responders. Allowable
+6 usesinclude,butarenotlimitedto:
+7 (1) OperationalexpensesofPSAPs;
+8 (2) Acquisition, maintenance, and operation of land mobile radio systems and any
+9 communicationsystemsutilizedbythedivisioninconnectionwith911operations;
+10 (3) Technology and support services necessary for the transmission, routing, and
+11 processingof911calls;and
+12 (4) Personnel costs directly supporting 911 operations, including but not limited to
+13 call-taking,dispatch,technicalsupport,andoperationalcoordination.
+14 (b) Prohibitedusesofthefundshallinclude,butarenotlimitedto:
+15 (1) Subsidization of commercial wireless infrastructure not directly supporting 911
+16 services;
+17 (2) Generalpublicsafetyexpendituresunrelatedto911operations;
+18 (3) Administrativeoverheadnotdirectlytiedto911servicedelivery;and
+19 (4) Expenditures for multi-purpose or shared-use systems where the primary or
+20 proportional use does not support 911 operations, or where such expenditures would result in a
+21 materialdiversionoffundsfromcore911functions.
+22 (c) The department of safety shall adopt rules under RSA 541-A to maintain and update
+23 alistofallowableandprohibitedusesoftheenhanced911systemfund.
+24 (d) The department shall maintain a separate accounting of all revenues collected and
+25 expenditures made from the enhanced 911 system fund. Such accounting shall be sufficient to allow
+26 forindependentauditandpublicreportingoffundactivity.
+27 2 NewSections;Enhanced911System;ProhibitiononUnauthorizedUseofE911Funds;Citizen
+28 Enforcement. AmendRSA106-Hbyinsertingaftersection9-athefollowingnewsections:
+29 106-H:9-b ProhibitiononUnauthorizedUseofE911Funds.
+30 I. No funds from theenhanced 911system shall beexpended for anypurposenot authorized
+31 underRSA106-H:9,II.
+
+HB1777-FN-ASINTRODUCED
+-Page2-
+1 II. Any agency or department found to have used E911 funds for purposes not authorized
+2 under state or federal law shall, upon notification, repay the diverted amount from an appropriate
+3 funding source within one year. If repayment is not made within the specified time frame, the
+4 agency or department may be subject to monetary penalties or forfeitures, as determined by the
+5 department of justice, taking into account the amount diverted, the nature of the violation, and
+6 whether it was willful or repeated. No criminal penalties involving incarceration shall apply under
+7 this section. Enforcement shall prioritize notice, opportunity to remediate, and proportional
+8 financialaccountability.
+9 III. The department of safety shall adopt rules in consultation with the enhanced 911
+10 commission,to:
+11 (a) Defineandupdateallowableandprohibiteduses;
+12 (b) Establishproceduresforidentifyingandremedyingunauthorizedexpenditures;and
+13 (c) Provide a 12-month safe harbor period for compliance from the effective date of this
+14 section.
+15 IV. Pursuant to RSA 106-H:9, I(e), the enhanced 911 system fund shall not lapse, and all
+16 unexpended or unencumbered monies shall remain available for future use in accordance with this
+17 chapter.
+18 106-H:9-c CitizenEnforcementofUnauthorizedUseofE911Funds.
+19 I. Anypersonwhohasreasontobelievethatfundsfromtheenhanced911systemfundhave
+20 been used for unauthorized purposes may file a written complaint with the enhanced 911
+21 commissionasestablishedunderRSA106-H:3ortheNewHampshiredepartmentofjustice.
+22 II. The enhanced 911 commission shall review such complaints and may refer substantiated
+23 claims to the New Hampshire department of justice for investigation and enforcement under RSA
+24 106-H:9-b.
+25 III. If the New Hampshire department of justice fails to take action within 90 days of
+26 receiving a referral, the complaint may bring a civil action in superior court to compel compliance
+27 with this chapter, including repayment of misused funds and imposition of penalties as provided in
+28 RSA106-H:9-b,IV.
+29 IV. No action may be brought under this section unless the complainant has first exhausted
+30 theadministrativeremediesprovidedinparagraphsIandII.
+31 V. Nothing in this section shall be construed to authorize the disclosure of 911 call content,
+32 calllocationdata,orpersonallyidentifiableinformationunrelatedtofundadministration.
+33 3 New Subparagraph; Enhanced 911 System; Information Not Subject to Right-to-Know Law;
+34 DisclosureforAudit. AmendRSA106-H:14,IIbyinsertingaftersubparagraph(d)thefollowingnew
+35 subparagraph:
+36 (e) Notwithstanding paragraph I, the department of safety shall disclose financial
+37 records, accounting data, and other fund administration information related to the enhanced 911
+
+HB1777-FN-ASINTRODUCED
+-Page3-
+1 system fund. Disclosures shall be limited to the minimum information necessary to fulfill the audit
+2 or oversight function and shall remain confidential except as required for public reporting of audit
+3 findings or as otherwise provided in this subparagraph. Nothing in this subparagraph shall be
+4 construed to authorize the disclosure of 911 call content, call location data, or personally identifiable
+5 information unrelated to fund administration. The department of safety shall prepare and publish
+6 an annual report summarizing all expenditures from the enhanced 911 system fund. including the
+7 purpose of each expenditure and whether it is considered an eligible or ineligible use under this
+8 chapter. This report shall be made available on the department's public website. The disclosures
+9 shallalsobemadeto:
+10 (1) The office of legislative budget assistant, the department of administrative
+11 services, or any other independent auditing body authorized by law, for the purpose of conducting
+12 auditsorfinancialreviewsofthefund;
+13 (2) The enhanced 911 commission, for the purpose of reviewing fund expenditures
+14 andcompliancewiththischapter;and
+15 (3) The appropriate legislative oversight committees, for the purpose of evaluating
+16 theuseandsolvencyofthefund.
+17 4 New Paragraph; Enhanced 911 Commission; Powers and Duties. Amend RSA 106-H:3 by
+18 insertingafterparagraphIVthefollowingnewparagraph:
+19 V. Membersshallhavethefollowingpowersandduties:
+20 (a) To review the results of independent audits of the enhanced 911 system fund and
+21 evaluatecompliancewiththischapter;
+22 (b) To issue recommendations or corrective action plans to any agency, department or
+23 subdivisionthereoffoundtohaveusedmoniesforunauthorizedpurposes;
+24 (c) To refer to the New Hampshire department of justice any instance of willful or
+25 repeated unauthorized use of fund monies that has not been remedies within the time period
+26 establishedunderRSA106-H:9-b;
+27 (d) To advise the department of safety on the adoption and revision of rules under RSA
+28 541-Arelatedtoallowableandprohibitedusesofthefund;
+29 (e) To provide input on the development and implementation of statewide 911 system
+30 standards,fundingpriorities,andemergingtechnologies;and
+31 (f) To report annually to the appropriate legislative oversight committees on the status
+32 offundexpenditures,auditfindings,andanyenforcementactionstakenunderthischapter.
+33 5 New Paragraphs; Enhanced 911 System; Powers and Duties. Amend RSA 106-H:5 by
+34 insertingafterparagraphIIthefollowingnewparagraphs:
+35 III. The commissioner of the department of safety shall not interfere with, suppress, or
+36 otherwise influence disclosures, audits, or oversight activities related to the enhanced 911 system
+37 fund. The division of emergency services and communications shall maintain administrative
+
+HB1777-FN-ASINTRODUCED
+-Page4-
+1 independence in all matters concerning the use, management, and reporting of the enhanced 911
+2 system fund. This independence shall include the authority to initiate and respond to audits,
+3 publishreports,anddisclosefindingswithoutpriorapprovalfromthecommissioner.
+4 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2638
+Revised1/12/26
+HB1777-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheenhanced911systemfund.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFundandE-911Fund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill restricts the Enhanced 911 System Fund to expenditures that exclusively and directly
+support the transmission, routing, processing, and dispatching of 911 calls. Under current law
+and practice, the Department of Safety states the Division of Emergency Services and
+Communications (DESC) uses the fund to support a broad set of systems, infrastructure,
+personnel, and shared-service platforms that are necessary for statewide 911 operations, but are
+also used by other public-safety agencies. These shared systems include enterprise radio
+networks, IT infrastructure, cybersecurity protections, GIS platforms, and technical support
+services that providemission-critical capabilities to 911while alsosupportingmunicipal, county,
+law enforcement, and fire-rescue partners. The Department states the new restrictions would
+eliminate DESC’s ability to use 911 funds for any system or function that has multipurpose
+value or that provides benefits beyond direct call-taking and dispatch. As a result, all costs
+associated with maintaining, upgrading, securing, and staffing these shared systems must be
+
+reassigned to an alternative funding source or otherwise not be funded. This includes partial
+shares of systems that are used by 911 but not exclusively by 911. Because these platforms are
+integrated, DESC cannot discontinue maintenance or support of the non-911 portions without
+degrading the reliability and functionality of 911 operations themselves. The Department has
+provided the following summary of expenditures currently eligible under existing law and would
+bemadeineligiblebythisbill:
+Description FY2027 FY2028 FY2029
+RadioSystemMaintenanceandResources $4,971,357 $5,120,498 $5,274,113
+DESCLeadershipandAdministrativeStaff $682,698 $703,179 $742,274
+DESCSpecialProjectsUnit(MappingandData
+Management) $608,008 $626,248 $645,036
+BroadbandMicrowaveBackhaulforData
+Transmission $270,876 $279,002 $287,372
+StatewideInteroperabilityCoordinator $184,554 $194,210 $200,037
+DESCGeneralProjectManagement $181,587 $187,035 $192,646
+StatewidePoisonControlContract $25,000 $25,000 $25,000
+Total $6,924,080 $7,135,172 $7,366,478
+The Department states the impact on county and local governments is currently unknown.
+However, it anticipates there may be some effect, as several counties and municipalities are
+connectedtoDESC’sradiocommunicationsnetwork.
+This bill provides the Department of Justice with authority to investigate complaints about
+allegedmisuseofE-911funds. ThefiscalimpacttotheDepartmentwouldbeproportionaltothe
+amountofcomplaints filedwiththeDepartment,however itisnot knownatthis timehow many
+complaints could be filed. The Department states the potential fiscal impact is indeterminable,
+butcouldbebetween$0and$500,000,dependingonwhatresourcesareneeded.
+AGENCIESCONTACTED:
+DepartmentofSafetyandDepartmentofJustice

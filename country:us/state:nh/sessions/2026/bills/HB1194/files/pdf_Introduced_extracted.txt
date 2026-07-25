@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1194-FN-ASINTRODUCED
+2026SESSION
+26-2748
+05/08
+1194-FN
+HOUSEBILL
+ANACT relativetocreditsforassessmentspaidbyinsurers.
+SPONSORS: Rep.Janigian,Rock.25
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsmemberinsurerstouseeligibleassessmentcreditstooffsettaxliability.
+Thebillisarequestoftheinsurancedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1194-FN-ASINTRODUCED
+26-2748
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocreditsforassessmentspaidbyinsurers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Life and Health Insurance Guaranty Association of 2019; Credits for Assessments Paid.
+2 AmendRSA408-F:13toreadasfollows:
+3 408-F:13 CreditsforAssessmentsPaid.
+4 I. A member insurer may offset against its tax liability under RSA 400-A any assessment
+5 describedinRSA408-F:9,II(b)forthelifeinsuranceandannuityaccount,andforthehealthaccount
+6 for guaranteeing the performance of contractual obligations of an impaired or insolvent insurer [in
+7 regard] solely as to disability income coverages, only[,] to the extent of 20 percent of the amount of
+8 the assessment for each of the 5 consecutive calendar years immediately following the year in
+9 whichtheassessmentwaspaid,andasfollows:
+10 (a) If the sum of all eligible assessment credits in any calendar year exceeds
+11 $10,000,000,thecreditinthatyearshallbereducedfrom20percentto10percent;and
+12 (b) Memberinsurersshallbeprohibitedfromcarryingforwardorcarryingback
+13 any unused portion of the tax credit authorized under this section but may amend the tax
+14 returninaccordancewithapplicablelawtoclaimsuchcredit.
+15 II. If a member insurer ceases doing business, all uncredited assessments described above
+16 maybecreditedagainstitstaxliabilityunderRSA400-Afortheyearitceasesdoingbusiness.
+17 [II.]III. Anysumsacquired byrefund fromtheassociationbymemberinsurers, asstated in
+18 RSA 408-F:9, VI, and which were previously offset against taxes as described in paragraph I, shall
+19 be paid by these member insurers to the state of New Hampshire in the manner required by the
+20 commissioner. Theassociationshallnotifythecommissionerthatrefundshavebeenmade.
+21 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2748
+10/27/25
+HB1194-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocreditsforassessmentspaidbyinsurers.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+ThisbillmodifieshowinsurancecompaniescanclaimtaxcreditsforassessmentspaidtotheNH
+Life and Health Insurance Guaranty Association (NHLHIGA) in an effort to limit large,
+unpredictable revenue losses in years with high NHLHIGA assessments. The NHLHIGA
+protects policyholders if a life or health insurance company becomes insolvent. If insolvency
+occurs, member insurers are assessed fees to cover claims and maintain coverage. These
+assessments can currently be offset against the Insurance Premium Tax (IPT) under RSA 408-
+F:13, up to 20% per year for 5 years (totaling 100%). This bill reduces the annual credit rate
+from 20% to 10% if the eligible credits exceed $10 million in a year, reducing the immediate
+impact on the General Fund by half. The bill further clarifies when credits can be taken and
+thatthecreditscannotbecarriedforward.
+The Department is not able to predict how much in NHLHIGA assessments will be levied in the
+future. These assessments only occur when an insurance company becomes insolvent, which is
+unpredictable. This bill does not reduce state revenue on its own, but rather limits how much
+the General Fund revenue could be reduced by capping the tax credit rate at 10% (instead of
+20%) if total eligible credits exceed $10 million in a year. The actual impact depends entirely on
+the size of the assessments levied by NHLHIGA and the amount of credits insurance companies
+claimagainsttheirInsurancePremiumTax.
+
+ItisassumedanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NHInsuranceDepartment

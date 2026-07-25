@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1727-ASAMENDEDBYTHESENATE
+12Mar2026...0847h
+05/07/2026 1748s
+2026SESSION
+26-2965
+05/06
+1727
+HOUSEBILL
+ANACT relativetostudentdatasharingfortheSummerEBTprogram.
+SPONSORS: Rep.Bordes,Belk.5
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill creates a system for automatic enrollment of eligible students into the Summer EBT
+(ElectronicBenefitsTransfer)program,unlesstheirparentorguardianoptsout.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1727-ASAMENDEDBYTHESENATE
+12Mar2026...0847h
+05/07/2026 1748s 26-2965
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetostudentdatasharingfortheSummerEBTprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Food and Nutrition Programs; Summer EBT. Amend RSA 189:11 by
+2 insertingafterparagraphIIIthefollowingnewparagraph:
+3 IV.(a) Consistent with 42 U.S.C. 1762, school districts and school administrative units
+4 (SAUs)shallprovidethedepartmentofhealthandhumanservices withthename, dateofbirth, and
+5 household address of each student eligible for free or reduced-price meals for the purpose of
+6 automaticenrollmentintheSummerEBTprogram.
+7 (b) School districts and SAUs shall provide a distinct notice and opt-out form to the
+8 parent or guardian of each student concurrently with the annual application for free and reduced-
+9 price meals. If the application is provided in a paper format, the opt-out form shall be a separate
+10 physical insert. If provided electronically, the opt-out mechanism shall be a prominent, separate
+11 stepwithintheprocess.
+12 (c) If a student is determined eligible for free or reduced-price meals and the parent or
+13 guardian has not returned the opt-out form, the student shall be automatically enrolled in the
+14 SummerEBTprogram.
+15 2 New Section; Department of Health and Human Services; Summer EBT. Amend RSA 161 by
+16 insertingaftersection14thefollowingnewsection:
+17 161:15 SummerEBTImplementation.
+18 I. The department of health and human services shall establish and maintain a secure
+19 electronic mechanism to receive student data from school districts and school administrative units
+20 (SAUs)forthepurposeofSummerEBTenrollment.
+21 II. The department shall provide standardized language for the notice and opt-out form
+22 required under RSA 189:11, IV. The notice shall inform parents that completing the school meal
+23 applicationmayresultinautomaticSummerEBTenrollmentunlesstheyaffirmativelyoptout.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+HB1727-ASAMENDEDBYTHESENATE
+LBA
+26-2965
+1/15/26
+HB1727-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the inter-agency data sharing for the purpose of distributing summer
+electronicbenefittransfer(EBT)benefits.
+FISCALIMPACT:
+TheDepartmentofHealthandHumanServicesstatesthisbillwillhavenofiscalimpact,asit
+alreadyhasamemorandumofunderstandingwiththeDepartmentofEducationrelativeto
+implementationoftheSummerEBTprogram.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

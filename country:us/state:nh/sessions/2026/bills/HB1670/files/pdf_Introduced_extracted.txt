@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1670-FN-ASINTRODUCED
+2026SESSION
+26-3088
+09/08
+1670-FN
+HOUSEBILL
+ANACT relativetoorganizedretailcrime.
+SPONSORS: Rep. DeRoy, Straf. 3; Rep. Bailey, Straf. 2; Rep. Burnham, Straf. 2; Rep.
+Kaczynski,Straf. 5; Rep. Nalevanko, Ches. 9;Rep. Walker, Straf. 19; Rep. Sellers,
+Graf.10;Rep.D.Kelley,Hills.32
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes criminal offenses for organized retail crime and being the kingpin or leader
+ofanorganizedretailcrimeenterprise.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1670-FN-ASINTRODUCED
+26-3088
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoorganizedretailcrime.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 OrganizedRetailCrime RSA637:10-cisrepealedandreenactedtoreadasfollows:
+2 637:10-c OrganizedRetailCrime.
+3 I. A person is guilty of organized retail crime if he or she acts in concert with one or more
+4 persons to commit theft of retail merchandise from one or more mercantile establishments with the
+5 intent to resell, redistribute, or reenter such retail merchandise into commerce, or if he or she
+6 receives,possesses,orresellssuchretailmerchandiseknowingorbelievingittohavebeenstolen.
+7 II. For purposes of this section, thefts may be aggregated over an 180-day period to
+8 determine value thresholds. Prosecutions may be brought in any county where any part of the
+9 enterpriseactivityoccurred.
+10 2 NewSection;LeaderorKingpinofanOrganizedRetailCrimeEnterprise. AmendRSA637by
+11 insertingaftersection10-dthefollowingnewsection:
+12 637:10-e LeaderorKingpinofanOrganizedRetailCrimeEnterprise.
+13 I. Definitions.
+14 (a) "Organized retail crime enterprise" means 2 or more persons associated in fact,
+15 although not a legal entity, who collaborate in whole or in part to commit organized retail crime
+16 underRSA637:10-c.
+17 (b) "Leader" means any person who knowingly organizes, directs, finances, manages,
+18 supervises, or otherwise controls, or conspires to organize, direct, finance, manage, supervise, or
+19 otherwise control, an organized retail crime enterprise, and who derives pecuniary benefit from the
+20 enterprise or from the disposition of stolen retail merchandise. A person may be convicted under
+21 this even if the person does not directly participate in the thefts, so long as the person intentionally
+22 benefitsfromorfurtherstheorganizedretailcrimeenterprise.
+23 II. A person is guilty of being a leader of an organized retail crime enterprise if, within a
+24 periodof180days,theenterpriseobtainsretailmerchandisewithanaggregateretailvalueof:
+25 (a) $2,500ormore,theoffenseshallbeaclassAfelony.
+26 (b) $10,000 or more, the offense shall be a class A felony, but notwithstanding RSA
+27 651:2,punishablebyupto25yearsimprisonment.
+28 III. In addition to any other penalty, the court shall order forfeiture of property used in or
+29 derived from the enterprise. Such forfeiture may be used to satisfy any restitution owed to the
+30 victim.
+
+HB1670-FN-ASINTRODUCED
+-Page2-
+1 IV.(a) Theft offenses committed by an organized retail crime enterprise may be aggregated
+2 acrossmultiplemercantileestablishmentsandcountiesduringan180-dayperiod.
+3 (b) Venue shall be proper in any county in which any theft or act in furtherance of the
+4 enterpriseoccurred.
+5 V. This section shall not preclude prosecution under any other applicable statute, including
+6 RSA629:3andRSA629:2.
+7 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3088
+12/3/25
+HB1670-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoorganizedretailcrime.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

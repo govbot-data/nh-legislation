@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1698 -ASINTRODUCED
+2026SESSION
+26-2355
+09/05
+1698
+HOUSEBILL
+ANACT relativetoelectroniccredentials.
+SPONSORS: Rep. Tom Mannion, Hills. 1; Rep. Wheeler, Hills. 33; Rep. Slottje, Hills. 13; Rep.
+Sirois,Hills.32;Rep.Drago,Rock.4;Rep.Mehegan,Merr.12
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies that the statute authorizing the division of motor vehicles to establish
+electronic credentials does not grant the authority to compel a person to create, maintain, or display
+anelectroniccredential,nortorequireanybusinesstoacceptthem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1698-ASINTRODUCED
+26-2355
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoelectroniccredentials.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Mobile Drivers' Licenses and Non-Driver Identification Cards; Electronic
+2 Credential; Privacy. Amend RSA 263-A:5 by inserting after paragraph II the following new
+3 paragraph:
+4 III. Nothing in this chapter shall be construed to require a person to obtain an electronic
+5 credential,andnopersonshallbecompelledtocreate,maintain,ordisplayanelectroniccredential.
+6 2 New Paragraph; Acceptance of Electronic Credentials. Amend RSA 263-A:3 by inserting after
+7 paragraphIVthefollowingnewparagraph:
+8 V. Nothing in this chapter shall be construed to require any business to accept an electronic
+9 credential.
+10 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -148,6 +148,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z"
+    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "text_extraction_latest_update": "2026-07-25T07:16:28.629237Z"
   }
 }

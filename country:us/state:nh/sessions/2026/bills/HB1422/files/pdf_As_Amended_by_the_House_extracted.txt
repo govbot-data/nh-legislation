@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1422-ASAMENDEDBYTHEHOUSE
+11Mar2026...0871h
+2026SESSION
+26-2357
+09/08
+1422
+HOUSEBILL
+ANACT relativetothetimetopetitionforanewtrial.
+SPONSORS: Rep.TomMannion,Hills.1;Rep.Corcoran,Hills.28;Rep.SabourinditChoiniere,
+Rock.30;Rep.Berch,Ches.6
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsadditionaltimetopetitionforanewtrialincertaincircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1422-ASAMENDEDBYTHEHOUSE
+11Mar2026...0871h 26-2357
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothetimetopetitionforanewtrial.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewTrials;Time. AmendRSA526:4toreadasfollows:
+2 526:4 Time.
+3 I. Anewtrialshallnotbegrantedunlessthepetitionisfiledwithin[three]3 yearsafterthe
+4 renditionofthejudgmentcomplainedof,orthefailureofthesuit.
+5 II. ThetimelimitinparagraphIshallnotapplyif:
+6 (a) The petitioner seeks a new trial in a criminal case that resulted in a
+7 convictionofafelonyoraclassAmisdemeanor;
+8 (b) The petitioner is either incarcerated, subject to the terms of a sentence, or
+9 subjecttocollateralconsequencesofthesentence;
+10 (c) The petition specifically alleges that there is newly discovered evidence and
+11 whatthatnewlydiscoveredevidenceis;and
+12 (d) Thepetitionspecificallyallegesthatthepetitionerisinnocent.
+13 III. For purposes of this subsection, "newly discovered evidence" includes evidence
+14 that can be subjected to new or additional forensic testing, evidence that can be subjected
+15 to new scientific understanding, or evidence that was not available at the time of trial but
+16 is available at the time the petition is filed. A court may deny a petition for a new trial
+17 thatisduplicativeofapriorpetitionthatwasfinallyruleduponbythecourt.
+18 IV. For petitions filed under paragraph II, the court shall first determine whether
+19 the petition has made a prima facie showing under paragraph II before granting a
+20 hearing under 526:1. If upon review, it is determined that the petition does make a prima
+21 facie showing under paragraph II, the court shall then hold a hearing and, if the
+22 petitioner is indigent, appoint counsel for the petitioner, to determine whether the
+23 requirements of RSA 526:1 have been met. If upon review, it is determined that the petition
+24 doesnotmakeaprimafacieshowing,thecourtmaydismissthepetition.
+25 V. Nothing in this section is intended to supersede the standard for granting a
+26 motion for new trial as set out in RSA 526:1. For DNA evidence, RSA 651-D shall be
+27 followed.
+28 VI. When a petition for a new trial of a criminal conviction is being considered by
+29 thecourt,thestateshall,uponrequest,reactivatevictimservicesforthevictimofthecrime
+30 being reinvestigated during the reinvestigation of the case, during the pendency of the
+
+HB1422-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 proceedings, and, as determined by the court after consultation with the victim or victim
+2 advocate,followingfinaladjudicationofthecase.
+3 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1271 -ASINTRODUCED
+2026SESSION
+26-2835
+06/05
+1271
+HOUSEBILL
+ANACT relativetothird-partycodereviewandinspectionservicesforbuildingpermits.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill changes the state building code law to clarify definitions and expand the role of
+approvedthird-partyinspectionagenciesandsolarenergysystemprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1271-ASINTRODUCED
+26-2835
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothird-partycodereviewandinspectionservicesforbuildingpermits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Definitions. Amend2025,246:3,Itoreadasfollows.
+2 I. Inthisact:
+3 (a) "Applicable codes" means the New Hampshire state building code and any local
+4 technical amendments, excluding fire prevention and fire safety codes except as referenced by the
+5 statebuildingcode.
+6 (b) "Approved agency" means an individual or entity that is authorized as permitted by
+7 this section to perform building code inspection services and construction document reviews as an
+8 alternative to those conducted by local government agencies. Private providers may include
+9 professionals such as engineers, architects, or ICC-certified building officials. For purposes of
+10 solar energy systems, an approved agency may also include licensed master electricians
+11 andICC-certifiedelectricalinspectors.
+12 (c) "Audit" means the process to assess that construction document review and
+13 inspectionserviceshavegenerallybeenperformedproperlybytheprivateprovider.
+14 (d) "Approved agency services" means the review of construction documents and
+15 inspection services to determine compliance with applicable codes, each as required by the state
+16 building code. Approved agency services include the review of solar energy system permit
+17 applicationsandtheinspectionofsolarphotovoltaicarraysandassociatedbatterystorage
+18 systems.
+19 (e) "Construction documents" means written, graphic, and pictorial documents prepared
+20 or assembled for describing the design, location, and physical characteristics of the elements of a
+21 project necessary for obtaining a building permit. Construction documents do not include
+22 applicationsordocumentsgeneratedforzoningorplanningapprovals.
+23 (f) "Building inspection" means the inspection of an improvement to land as required by
+24 the state building code as part of a project to develop or improve an improvement to the land,
+25 building, or structure. The term shall include inspections of solar energy systems, including
+26 photovoltaic arrays and associated battery storage, whether performed in-person or
+27 remotely through photo or video documentation consistent with standards adopted by the
+28 InternationalCodeCouncil(ICC)ortheNationalFireProtectionAssociation(NFPA).
+29 (g) "Building permit or permit" means an official document or certificate issued by the
+30 building official that authorizes performance of a specified activity. For solar energy systems,
+
+HB1271 -ASINTRODUCED
+-Page2-
+1 such permit may be issued through an instant permitting platform approved by the state
+2 buildingcodereviewboard.
+3 (h) "Building official" means the officer or other designated authority charged with the
+4 administrationandenforcementofthisact,oradulyauthorizedrepresentative.
+5 (i) "ICC"meanstheInternationalCodeCouncil.
+6 (j) "Instant permitting platform" means an online platform, approved by the
+7 state building code review board, for submission and automatic review of permit
+8 applications, revisions, and inspection affidavits for solar energy systems. A permit or
+9 revision submitted through such platform shall be deemed approved as a matter of law
+10 unless the building official identifies specific deficiencies in writing within 5 business
+11 days.
+12 2 MunicipalResponsibilities. Amend2025,246:9,IItoreadasfollows.
+13 II.(a) If an owner or an owner’s contractor contracts with an approved agency [to review
+14 construction documents and/or to provide inspections required by this act], including for solar
+15 energy systems pursuant to regular session law 2025, 246:3, the building official shall provide
+16 equal access to all related documents to the approved agency, owner, or owner’s authorized agent
+17 that would be provided to the building official in completing review of construction documents or
+18 inspections.
+19 (b) If such access is normally provided by software that protects exempt records from
+20 disclosure, the regulatory authority shall provide requested permitting or inspection documents and
+21 reports to the independent provider, owner, or contractor within 2 business days of a request in
+22 electronicformat.
+23 (c) Municipalities shall accept applications, plans, revisions, and inspection
+24 affidavits for solar energy systems submitted through the instant permitting platform
+25 approvedbythestatebuildingcodereviewboard.
+26 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

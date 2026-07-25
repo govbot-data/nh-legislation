@@ -1,0 +1,248 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1606-FN-ASINTRODUCED
+2026SESSION
+26-2394
+04/09
+1606-FN
+HOUSEBILL
+ANACT regulating real property ownership by Chinese nationals and providing for civil,
+criminal,andadministrativepenalties.
+SPONSORS: Rep.Belcher,Carr.4;Rep.Perez,Rock.16;Rep.SabourinditChoiniere,Rock.30;
+Rep.Sirois,Hills.32;Rep.Terry,Belk.7;Rep.Sellers,Graf.10
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restricts PRC nationals from acquiring ownership or controlling interests in real
+propertyinNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1606-FN-ASINTRODUCED
+26-2394
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT regulating real property ownership by Chinese nationals and providing for civil,
+criminal,andadministrativepenalties.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known as and cited to as the "New Hampshire Real Property
+2 SecurityAct."
+3 2 New Subdivision; New Hampshire Real Property Security Act. Amend RSA 477 by inserting
+4 aftersection22-fthefollowingnewsubdivision:
+5 NewHampshireRealPropertySecurityAct
+6 477:22-g Purpose Statement. The general court finds that nationals of the People's Republic of
+7 China (PRC), excluding U.S. citizens, pose a presumptive risk of hostile action through asymmetric
+8 warfare perpetrated by the Chinese Communist government against the United States of America
+9 and an existential threat to New Hampshire and its citizenry, including through espionage,
+10 intellectual property theft, technology transfer, and chemical, biological, and cyber terrorism and
+11 warfare via ownership or control of real property. These nationals pose a hostile risk to critical
+12 infrastructure, supply chains, agriculture, and the lives and livelihoods of Granite Staters. This act
+13 aims to protect national security while providing due process. Pursuant to the state's sovereign
+14 police powers under the Tenth Amendment to the United States Constitution, New Hampshire
+15 asserts authority to regulate real property ownership and control to protect against foreign
+16 adversary threats, including asymmetric warfare by the People's Republic of China, without federal
+17 preemption, as this act addresses local public safety, economic security, and infrastructure
+18 protectionwithinthestate'sborders.
+19 477:22-h Definitions. Inthissubdivision:
+20 I. "PRC national" (PRC) means any citizen or agent of the People's Republic of China who is
+21 not a U.S. citizen, including but not limited to those with direct, compromising ties such as
+22 employment by PRC state-owned enterprises, membership in the Chinese Communist Party,
+23 financial links to the PRC government, pledged allegiance to PRC leaders, or acting on orders
+24 originatingfromthePRCgovernment.
+25 II. "Real property" means property consisting of land, buildings, crops, or other resources
+26 still attached to or within the land or improvements or fixtures permanently attached to the land or
+27 astructureonit.
+28 III. "Controlling interest" means ownership, lease, occupancy, or any form of control over
+29 realproperty.
+30 477:22-i OwnershiporControllingInterest;Prohibitions.
+
+HB1606-FN-ASINTRODUCED
+-Page2-
+1 I. No PRC national, as defined in RSA 477:22-h, I, shall acquire or maintain a controlling
+2 interestinrealpropertyinNewHampshire.
+3 II. No entity shall facilitate the acquisition or control of real property by a PRC national,
+4 includingthroughpartnerships,grants,orcollaborationsaffiliatedwiththePRCgovernment.
+5 III. For PRC nationals holding controlling interests as of the date this section becomes law,
+6 a 90-day window from the effective date of this act is provided for voluntary divestment through
+7 sale, during which the PRC national(s) may retain proceeds from sale. Continued controlling
+8 interest by PRC nationals after this period shall create a presumption of hostile intent, triggering
+9 immediate default of property to state control for investigation and remediation of any threats
+10 present in conjunction with relevant federal authorities and resources, after which the state shall
+11 auctiontheproperty.
+12 477:22-j CivilPenalties.
+13 I. Upon a judicial or administrative finding that a PRC national engaged in prohibited
+14 conduct under RSA 477:22-i, a civil penalty of 25 percent of the greater of the fair market value or
+15 actualpricepaidforthepropertyperviolationshallbeassessed.
+16 II. Civil penalties imposed under this section shall be in addition to, and not in lieu of, any
+17 forfeitureorseizureofpropertyunderRSA477:22-l.
+18 477:22-k CriminalPenalties.
+19 I. AcquisitionofpropertyinviolationofRSA477:22-iisa:
+20 (a) ClassAmisdemeanor,whencommittedbyanentitydefinedinRSA477:22-h,I;or
+21 (b) Class A misdemeanor, when committed by a licensed real estate agent who
+22 knowinglyfacilitatesorparticipatesinatransactionthatviolatesRSA477:22-i.
+23 II. The attorney general's office may refer a violation of this section for prosecution to the
+24 countyattorney'sofficeinthecountyinwhichthesubjectpropertyislocated.
+25 III. The attorney general's office may pursue a forfeiture action according to RSA 477:22-l
+26 againstapersonorentityconvictedofanoffenseunderparagraphIofthissection.
+27 IV. The New Hampshire department of homeland security shall facilitate deportation
+28 proceedings at the direction of U.S. Department of Homeland Security Immigration and Customs
+29 Enforcement.
+30 V. Criminal penalties imposed under this section shall be in addition to, and not in lieu of,
+31 anyforfeitureorseizureofpropertyunderRSA477:22-l.
+32 477:22-l ForfeitureofRealProperty.
+33 I. The department of justice may bring a civil forfeiture action under this section against a
+34 personorentitywhohasacquiredormaintainedacontrollinginterestinrealpropertyinviolationof
+35 this subdivision. A criminal conviction shall not be required to initiate or complete forfeiture
+36 proceedings.
+
+HB1606-FN-ASINTRODUCED
+-Page3-
+1 II. Real propertythat is subject under RSA 477:22-i maybe seized bythe state and forfeited
+2 as provided in this section. Property seized under this section may be held by the state to secure it
+3 priortoforfeitureproceedings.
+4 III. The state may seize the subject property by filing in the registry of deeds in the county
+5 where the property is located a notice of attachment stating that the state has attached the
+6 identifiedpropertypursuanttothissection.
+7 IV. The state shall have a lien on any property subject to forfeiture under this section upon
+8 seizure of property. Upon forfeiture, the state's title to the property relates back to the date of
+9 seizure.
+10 V. Within 30 days of the seizure of any real property under paragraph II, the attorney
+11 general shall file a petition in the superior court of the county in which the property was seized,
+12 requesting forfeiture of the property. The court shall issue an order of notice requiring the state to
+13 sendbycertifiedmailacopyofthepetitiontoallownersoftheproperty,includingthosewithpartial
+14 ownership or controlling interests, and to other persons appearing to have an interest in the
+15 property. If no such petition is filed within 30 days of the seizure of the property, the property shall
+16 bereturnedtoitsowners.
+17 VI. The court may order forfeiture of the property seized under paragraph II if the state
+18 establishes,byapreponderanceoftheevidence,that:
+19 (a) The ownership or controlling interest in the property was acquired or maintained in
+20 violationofthissection;and
+21 (b) Thepersonorentityholdingtheinterestkneworshouldhaveknownoftheviolation.
+22 VII. If forfeiture is granted, the attorney general shall provide for the disposition of the
+23 forfeited property in any manner not prohibited by law, including retention of the property for
+24 official use by law enforcement or other public agencies, or by sale at public auction. The attorney
+25 general shall pay the reasonable expenses of the seizure, forfeiture proceeding, and sale of property
+26 from the proceeds of any public auction of forfeited items or from any penalty obtained under this
+27 chapter. All outstanding recorded liens on any property forfeited shall be paid in full within a
+28 reasonabletimefollowingthecourtproceedings.
+29 VIII. If enforcement results in seizure and auction of property, proceeds shall be split 60
+30 percenttothegeneralfundand40percenttothelocalitywherethepropertyislocated.
+31 IX. In cases of shared or partial ownership, only the ownership interest attributable to the
+32 PRC national may be subject to seizure forfeiture. The state shall bear the burden of proving the
+33 extent of the PRC nationals interest by a preponderance of the evidence. Non-PRC co-owners shall
+34 retain their respective interests, and any proceeds from sale or auction shall be distributed
+35 proportionally after deduction of expenses and satisfaction of liens. The attorney general may offer
+36 theforfeitedinterestforsaletoexistingco-ownersatfairmarketvalueatpublicauction.
+
+HB1606-FN-ASINTRODUCED
+-Page4-
+1 477:22-m Bounty Provision. Any person or organization that provides material information
+2 leading to the successful seizure and sale or auction of real property under RSA 477:22-i shall
+3 receive a bounty of not less than 5 percent and not more than 10 percent of the net proceeds
+4 recovered by the state from such sale or auction. The bounty shall be paid from the net proceeds
+5 recovered by the state from such sale or auction. The bounty shall be paid from the general fund
+6 following the conclusion of the forfeiture process. Eligibility for the bounty shall not require a
+7 criminalconvictionandshallbedeterminedadministrativelybytheattorneygeneral.
+8 477:22-n Severability.
+9 Ifanyprovisionofthissubdivisionisdeclaredunconstitutionalortheapplicabilitythereoftoany
+10 person or circumstance is held invalid, the constitutionality of the remainder of the subdivision and
+11 theapplicabilitythereoftootherpersonsandcircumstancesshallnotbeaffectedthereby.
+12 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2394
+12/8/25
+HB1606-FN-FISCALNOTE
+ASINTRODUCED
+ANACT regulating real property ownership by Chinese nationals and providing for civil,
+criminal,andadministrativepenalties.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) GeneralFund
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0 $866,000to $1,,020,000to $1,043,000to
+$1,366,000 $1,520,000 $1,543,000
+(GeneralFund) (GeneralFund) (GeneralFund)
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill prohibits certain “PRC nationals,” as defined in the bill, from acquiring or maintaining
+ownership or controlling interests in real property in New Hampshire. It authorizes the
+Department of Justice (DOJ) to investigate potential violations, bring civil and criminal
+enforcement actions, initiate forfeiture proceedings, file notices of attachment, coordinate with
+federal agencies, and manage the disposition or sale of seized property. The bill also authorizes
+DOJ to determine eligibility for bounty awards related to forfeiture actions. The Division of
+Homeland Security and Emergency Management (HSEM) within the Department of Safety
+wouldberequiredtoestablishanewlawenforcementunittoassistwithenforcementactivity.
+The Department of Justice anticipates a significant increase in its investigative, litigation,
+enforcement, forfeiture administration, and property-management responsibilities under this
+bill.DOJstatesthenumberofpotentialcasesisunknown;however,implementationwill require
+substantial attorney, investigative, and paralegal support. DOJ did not provide a position-by-
+position breakout of staffing needs but indicated that at least five new positions would be
+requiredtomeetthebill’smandates.
+
+For purposes of the fiscal note, DOJ assumes the positions would begin January 1, 2027, which
+results in a partial-year cost in FY 2027 and full-year costs in FY 2028 and FY 2029. The
+estimated combined cost of the five positions is $520,000 in FY 2027, $630,000 in FY 2028, and
+$650,000 in FY 2029. The FY 2027 amount reflects higher start-up costs for investigative
+resources,includingvehicles,andequipment.
+PositionsRequestedbyDOJ FY2027 FY2028 FY2029
+UnclassifiedAttorneyx2 $140,000 $276,000 $280,000
+UnclassifiedInvestigatorx2 $312,000 $256,000 $268,000
+Paralegalx1
+$68,000 $98,000 $102,000
+(23-2010PARALGLS-LGLASSTS-5SOC21-05)
+TotalSalary,BenefitsandOperatingExpenses $520,000 $630,000 $650,000
+In addition to staffing, DOJ notes that enforcement activity may require expenditures for title
+work, expert review, property management, auction costs, and bounty-award processing.
+Because the number and nature of cases cannot be predicted, these additional costs are
+indeterminable. Anyrevenuesfrompenaltiesorforfeiture-relatedactivitycannotbeestimated.
+The Department of Safety, Homeland Security and Emergency Management (HSEM) states that
+it does not currently employ sworn law enforcement personnel. To carry out statutory
+responsibilities created by this bill, HSEM reports that it would need to establish a new
+enforcement section consisting of three State Troopers/Officers, one State Trooper
+Lieutenant/Supervisor,and oneadministrativesupportposition. HSEMprovided total estimated
+costs for these positions as follows: $366,000 in FY 2027, $520,000 in FY 2028, and $543,000 in
+FY2029. ItisassumedthesewouldbeGeneralFundexpenditures.
+PositionsRequestedbyDOS FY2027 FY2028 FY2029
+StateTroopers/Officerx3
+$189,000 $315,000 $330,000
+(33-3050POLICEOFFICERS-P1SOC33P-05)
+StateTrooperLieutenantx3
+$133,000 $126,000 $131,000
+(33-3020DETECTIVES-C1SOC33C-05)
+AdministrativeAssistantx1
+$44,000 $79,000 $82,000
+(43-6010ADMINASSTS-1SOC43-04)
+TotalSalary,BenefitsandOperatingExpenses $366,000 $520,000 $543,000
+This bill does not authorize or fund any of the positions requested by the Department of Justice
+or the Department of Safety. It is assumed if the positions are authorized the costs for the
+positions in FY 2028 and FY 2029 would be included in the Departments' FY 2028 and FY 2029
+budgetrequests.
+
+Additionally, the HSEM notes a technical defect in this bill under RSA 477:22-k,IV, as
+deportation proceedings are a federal matter and the State of New Hampshire does not have
+authoritytoconducttheseactivities.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Justice, Department of Safety, Judicial Branch, Judicial Council, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association

@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1400 -ASINTRODUCED
+2026SESSION
+26-3233
+04/09
+1400
+HOUSEBILL
+ANACT creatingapropertytaxexemptionandcreditopt-outmechanism.
+SPONSORS: Rep. J. Smith, Carr. 5; Rep. Avellani, Carr. 4; Rep. J. MacDonald, Carr. 6; Rep.
+Peternel, Carr. 6; Rep. Spillane, Rock. 2; Rep. Turcotte, Straf. 4; Sen. McConkey,
+Dist3
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows property owners to opt out of contributing toward locally adopted property tax
+credits or exemptions by annually submitting form PA-29, unless they are currently receiving such
+benefits.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1400-ASINTRODUCED
+26-3233
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatingapropertytaxexemptionandcreditopt-outmechanism.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Procedure for Adoption, Modification, or Rescission; Opt Out Procedure.
+2 AmendRSA72:27-abyinsertingafterparagraphIVthefollowingnewparagraph:
+3 V. A property owner may opt out of contributing towards all locally adopted property tax
+4 credits or exemptions by checking the appropriate box on form PA-29 and submitting that form
+5 annually by April 15th. A property owner receiving any locally adopted tax credit or exemption may
+6 notoptout.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

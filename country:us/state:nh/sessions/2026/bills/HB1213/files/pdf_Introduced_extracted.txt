@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1213 -ASINTRODUCED
+2026SESSION
+26-2683
+09/08
+1213
+HOUSEBILL
+ANACT relativetothenumber,selection,andtermsoftownhighwayagents.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Pauer, Hills. 36; Rep. Aures, Merr. 13; Rep. Sellers,
+Graf. 10; Rep. Harvey-Bolia, Belk. 3; Rep. R. Brown, Carr. 8; Rep. Tom Mannion,
+Hills.1
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillmodifiesthemethodsfordeterminingthenumberoftownhighwayagents,theirmethod
+ofselection,andthelengthoftheirterms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1213-ASINTRODUCED
+26-2683
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothenumber,selection,andtermsoftownhighwayagents.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 RepairofHighwaysbyTown;HighwayAgents. AmendRSA231:62toreadasfollows:
+2 231:62 Highway Agents. Unless the town votes to establish a board of public works
+3 commissioners under RSA 38-C to perform the duties of highway agents, also known as road
+4 agents, at the annual meeting, or less often if a town has so provided pursuant to RSA 231:62-a [or
+5 231:62-b], each town shall elect by ballot, or by [major] majority vote authorize the selectmen to
+6 appoint,oneormorehighwayagents,who,underthedirectionoftheselectmen,shallhavechargeof
+7 the construction, maintenance, and repair of all town highways and bridges and the maintenance
+8 andrepairofallsidewalkswithinthetown,exceptasprovidedinthelawspertainingtostateaidfor
+9 highways and bridges and town road and bridge aid, and shall have authority to employ the
+10 necessarymenandequipment,andpurchasetimber,planks,andothermaterialforconstructionand
+11 repairofsuchhighwaysandbridges;andtheymayremovegravel,rocks,orothermaterialsfromone
+12 part of the town to another, doing no damage to adjoining land, for the purpose of grading or
+13 otherwise repairing the same. The town shall have one elected highway agent for a one year
+14 term, unless the town decides by majority vote to change that arrangement, pursuant to
+15 RSA 231:62-a. The terms of highway agents shall be 1, 2, or 3 years, which may be changed
+16 pursuant to RSA 231:62-a. A vote authorizing appointment of highway agents shall continue in
+17 effect until changed by [major] majority vote at an annual [or special] meeting, pursuant to RSA
+18 231:62-a.
+19 2 Number of Highway Agents, Method of Selection, and Terms. RSA 231:62-a is repealed and
+20 reenactedtoreadasfollows:
+21 231:62-a NumberofHighwayAgents,MethodofSelection,andTerms.
+22 I. Atanyannualtownmeetingunderanarticleinthewarrantplacedtherebypetitionorby
+23 the selectmen, the voters may vote to determine if they are in favor of changing the number of town
+24 highway agents. If the town has adopted an official ballot, the clerk shall cause the following
+25 questiontobeprintedonsaidballot: "Areyouinfavorchangingthenumberoftownhighwayagents
+26 from___to___?”
+27 II. At any annual town meeting under an article in the warrant placed there by petition or
+28 by the selectmen, the voters may vote to determine if they are in favor of changing the method of
+29 selectionoftownhighwayagents. Ifthetownhasadoptedanofficialballot,theclerkshallcausethe
+30 following question to be printed on said ballot: "Are you in favor of changing the (elected or
+31 selectmen-appointed) townhighwayagents tobeing(selectmen-appointed or elected bythe voters)?”.
+
+HB1213 -ASINTRODUCED
+-Page2-
+1 If the question is approved, current elected or appointed highway agents maycontinue to serve until
+2 theendoftheirterms.
+3 III. At any annual town meeting under an article in the warrant placed there by petition or
+4 by the selectmen, the voters may vote to determine if they are in favor of changing the length of the
+5 terms for the town highway agents. If the town has adopted an official ballot, the clerk shall cause
+6 the following question to be printed on said ballot: "Are you in favor of changing the term of a town
+7 highway agent from ___ year(s) to ___ year(s), beginning with the term of each town highway agent
+8 at next year's regular town meeting?". If there are more than one town highway agents and the
+9 terms are for 2 or 3 years, the terms of the highway agents shall be staggered as evenly as possible
+10 over the 2 or 3 years. If the question is approved, current highway agents may continue to serve
+11 untiltheendoftheoriginalterms.
+12 IV. SaidquestionsinparagraphsI,II,andIIIshallbeprintedintheformprescribedbyRSA
+13 656:13. If the town has not adopted an official ballot, the clerk shall cause the same question to be
+14 printed upon special ballots which shall be used to determine the vote of the town at the annual
+15 meeting. If a majority of those voting on the question vote in favor of the question, the changes will
+16 takeeffectatthenextannualmeetingafterthevoteofapproval.
+17 3 New Paragraph; Officers Elected; Officers Who May Be Elected. Amend RSA 669:17 by
+18 insertingafterparagraphVIII-athefollowingnewparagraph:
+19 VIII-b Electedhighwayagents(RSA231:62-a).
+20 4 Repeal. RSA231:62-b,relativetorepairofhighwaysbylargetowns,isrepealed.
+21 5 Applicability. RSA 231:62, RSA 231:62-a, and RSA 231:62-b as amended by sections 1, 2, and
+22 4 of this act, shall not change the existing number, method of selection, or terms of town highway
+23 agents,andshallnotrequirelocalamendmentorreadoptionbythetown.
+24 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1532 -ASINTRODUCED
+2026SESSION
+26-2558
+08/07
+1532
+HOUSEBILL
+ANACT relative to the maximum temperature for vape heating coils and other required
+safetymeasures.
+SPONSORS: Rep. Wade, Straf. 15; Rep. Tellez, Hills. 40; Rep. Selig, Straf. 10; Rep. Butler,
+Straf.12;Rep.Newell,Ches.4;Rep.N.Germana,Ches.15
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of health and human services to make rules defining the
+maximumtemperatureforvapeheatingcoilsandotherrequiredsafetymeasures.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1532-ASINTRODUCED
+26-2558
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the maximum temperature for vape heating coils and other required
+safetymeasures.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Vape Product Safety Features. Amend RSA 125:15-a by inserting after
+2 paragraphVIIIthefollowingnewparagraph:
+3 IX. Defining the maximum temperature of a vape heating coil and determine what safety
+4 features must be included in vape products to prevent them from overheating or "dry hitting" where
+5 theheatingcoilheatsupconsiderablyduetothelackofliquid.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1245-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0237h
+2026SESSION
+26-3151
+06/08
+1245-FN
+HOUSEBILL
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Granger, Straf. 2; Rep. Labrie, Hills. 2; Rep.
+Warden,Hills.39;Sen.Innis,Dist7
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes a voluntary framework allowing independent contractors to participate in
+portablebenefitplansthroughauthorizedproviders.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1245-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0237h 26-3151
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose. The purpose of this act is to allow independent contractors and hiring
+2 parties to voluntarily participate in portable benefit plans, providing access to certain benefits
+3 withoutalteringtheclassificationofsuchworkersunderstatelaw.
+4 2 New Chapter; Voluntary Portable Benefit Plans. Amend RSA by inserting after chapter 283
+5 thefollowingnewchapter:
+6 CHAPTER283-A
+7 VOLUNTARYPORTABLEBENEFITPLANS
+8 283-A:1 Definitions. Inthischapter:
+9 I. "Hiring party" means any individual or business that contracts for the performance of
+10 servicesbyanindependentcontractor.
+11 II. "Independent contractor" means a person who qualifies as such under RSA 275:42, II, or
+12 applicablecommonlawtests,whoisfreefromcontrolordirectionovertheperformanceofservices.
+13 III. "Portable benefit account" means an account owned and controlled by an independent
+14 contractor, who may allocate funds to pay for portable benefits such as health insurance, non-state
+15 unemployment insurance, disability insurance, life insurance, or retirement benefits, or other
+16 relatedexpenses.
+17 IV. "Provider" means a bank, financial institution, investment management firm, or other
+18 legalentity.
+19 283-A:2 VoluntaryContributionsandWithholding.
+20 I. A hiring party may voluntarily contribute funds to an independent contractor’s portable
+21 benefitaccount.
+22 II. Contributions may be made using funds withheld from compensation owed to the
+23 contractor,providedthat:
+24 (a) Thewithholdingisexpressedinawrittenagreement;
+25 (b) Theagreementisclear,unambiguous,andprominentlydisplayedinthecontract;
+26 (c) Thecontractoraffirmativelyoptsintothewithholding;and
+27 (d) Thecontractormayoptoutofsuchwithholdingatanytime.
+28 283-A:3 PreservationofWorkerClassification.
+29 I. The following actions shall be excluded from consideration when determining a worker’s
+30 legal status as either an employee or an independent contractor under RSA 275, RSA 282-A, or any
+31 otherstatelabor,tax,orbenefitsstatute:
+
+HB1245-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (a) Theofferof,orcontributionto,aportablebenefitaccountbyahiringparty;
+2 (b) An independent contractor’s participation in or control over such a plan or account;
+3 and
+4 (c) The administrative act of withholding and remitting contractor funds as authorized
+5 under283-A:2,I.
+6 II. A hiring party, worker, or third party may make voluntary contributions to a portable
+7 benefitaccountonbehalfofanindependentcontractor.
+8 III. The provision of voluntary contributions by a hiring party shall not, in and of itself,
+9 establish an employer-employee relationship, nor shall it be construed as evidence of the hiring
+10 party's"controlordirection"overtheindependentcontractor.
+11 3 EffectiveDate. Thisactshalltakeeffect60daysafterpassage.
+
+LBA
+26-3151
+04/03/2026
+HB1245-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0237h)
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+InsuranceDepartmentandDepartmentofLabor

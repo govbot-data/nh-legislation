@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1258 -ASINTRODUCED
+2026SESSION
+26-2790
+08/09
+1258
+HOUSEBILL
+ANACT relativetoperandpolyfluoroalkylsubstances(PFAS)andpublichealthdata.
+SPONSORS: Rep. Vail, Hills. 6; Rep. W. Thomas, Hills. 12; Rep. Meuse, Rock. 37; Rep.
+McGhee, Hills. 35; Rep. N. Murphy, Hills. 12; Rep. Rung, Hills. 12; Rep.
+Mandelbaum,Rock.21;Sen.Altschiller,Dist24
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of environmental services to publish certain data relative to
+PFAStestingresultsonitspublicwebsite.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1258-ASINTRODUCED
+26-2790
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoperandpolyfluoroalkylsubstances(PFAS)andpublichealthdata.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Publication of PFAS Testing Results. Amend RSA 485-A:4 by inserting after
+2 paragraphXVIIIthefollowingnewparagraph:
+3 XIX.(a) To publish on its public website the results of all PFAS sampling and testing
+4 conducted,received,orcompiledbythedepartment,includingbutnotlimitedto:
+5 (1) Publicwatersystems;
+6 (2) Privatewellstestedunderstate-fundedorstate-contractedprograms;
+7 (3) Surface water, groundwater, soil, and sediment sampling conducted or overseen
+8 bythedepartment;
+9 (4) Biosolids, sludge, septage, compost, or other residuals tested or overseen by the
+10 department,includinglandapplicationsites;
+11 (5) Biomonitoring or fish tissue studies conducted or overseen by the department;
+12 and
+13 (6) Airemissions.
+14 (b) To publish results in a format searchable by location, date, and PFAS contaminant,
+15 andtoenabledataexport.
+16 (c) Toupdateandmaintainavailabilityofpublishedreportsevery6months.
+17 (d) To protect the personally identifiable information of private well owners and
+18 residents while providing sufficient location detail to inform the public of the extent of PFAS
+19 contamination.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1714-FN-ASINTRODUCED
+2026SESSION
+26-2966
+07/09
+1714-FN
+HOUSEBILL
+ANACT authorizingthestatetoissuebondstofundpublicschoolexpenses.
+SPONSORS: Rep.Markell,Rock.18;Rep.Korzen,Coos7;Rep.W.MacDonald,Rock.16
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillauthorizesthestatetoissuebondstofundpublicschoolexpenses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1714-FN-ASINTRODUCED
+26-2966
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizingthestatetoissuebondstofundpublicschoolexpenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State and Its Government; State Bonds; Bonds Issued for School Education
+2 Funding. AmendRSA6-Abyinsertingaftersection14thefollowingnewsection:
+3 6-A:15 BondsIssuedforSchoolEducationFunding.
+4 I. Notwithstanding any provision of law to the contrary, the state treasurer shall issue
+5 bonds to fund public schools with such terms and conditions as may be determined by the governor
+6 andexecutivecounsel,inaccordancewithRSA6-A:2.
+7 II. Such bonds shall be issued in amounts sufficient to, but not greater than necessary to,
+8 assist with or assure adequate funding for public schools in this state. The net proceeds from sales
+9 ofsuchbondsshallbedepositedintotheeducationtrustfundestablishedinRSA198:39.
+10 III. Upon a reasonable notice and request by an appropriate state authority, each school
+11 administrative unit shall timely submit to appropriate state authorities all information reasonably
+12 necessary to establish statewide base education adequacy aid payments, which shall include written
+13 documentation detailing the total average daily student membership in residence, the total school
+14 budgetfor theschoolyear, and allother documents thatmaybereasonablyrequired. All documents
+15 submittedshallbesubjecttoapublicauditandreviewtoestablishtheiraccuracyandrelevance.
+16 IV. Nothing in this section shall preclude or limit any municipality, town, or unincorporated
+17 placefromissuingbondsorwarrantsforthisorasubstantiallysimilarpurpose.
+18 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2966
+12/10/25
+HB1714-FN-FISCALNOTE
+ASINTRODUCED
+ANACT authorizingthestatetoissuebondstofundpublicschoolexpenses.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 Indeterminable
+RevenueFund(s) EducationTrustFund
+Expenditures* $0 $0 $0 Indeterminable
+FundingSource(s) GeneralFundandEducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill directs the State Treasurer to issue bonds to fund public schools with such terms and
+conditions as may be determined by the Governor and Executive Council. The bonds shall be
+issued in sufficient amounts, but not greater than necessary, to assist with or assure adequate
+funding for public schools in the state, with bond proceeds deposited into the state education
+trust fund. This bill makes no changes to thestate funding formulacurrently established in law
+to provide adequate education grants. Therefore, the Department of Education assumes no
+changes in state expenditures to school districts will occur due to this bill. The Treasury
+Departmentassumesthefollowingrelativetoissuanceofbonds:
+ Bond size of approximately $1,082,900,000, which is based on the FY 2027 Adequate
+EducationAidbudget($1,082,912,417).
+ Bonds to be issued beginning in the spring of 2028 to fund adequate education
+appropriationsforthe2028-2029bienniumonly.
+ Fixedcouponof5%willbeapplied.
+ Amortization over 20 years with the debt service payments structured to accommodate
+the first principal payment in the following fiscal year after the debt issuance, paying
+60% of the bonded principal amount in the first 10 years and 40% during the remaining
+10years.
+
+For informational purposes, debt service payments (principal and interest), based on the above
+assumptions, would be approximately $119M in FY 2029 and $235M in FY 2030. Payments
+declinefrom$229MinFY2031untilfinalpaymentof$45MinFY2049.
+Inaddition,theTreasuryDepartmentnotesthefollowing:
+ The debt limit pursuant to RSA 6-C may be exceeded if the cost of funding an adequate
+education was bonded. Actual and projected tax-supported debt cannot exceed 10% of
+unrestrictedgeneralfundrevenue.
+ Pursuant to RSA 9:8-b, the state is not to use bonded indebtedness to fund operating
+appropriations.
+Ultimately, this bill’s potential impact on state education trust fund revenue, relative to
+receiving bond proceeds, and state education trust fund or general fund expenditures, relative to
+debt service payments, is indeterminable. Such impacts would be based on actions of the
+Governor and Executive Council, and statutory changes related to education funding aid to
+districts.
+AGENCIESCONTACTED:
+TreasuryDepartmentandDepartmentofEducation

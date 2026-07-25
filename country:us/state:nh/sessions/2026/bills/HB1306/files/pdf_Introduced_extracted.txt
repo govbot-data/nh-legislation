@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1306 -ASINTRODUCED
+2026SESSION
+26-2881
+08/05
+1306
+HOUSEBILL
+ANACT relativetothecountingofabsenteeballots.
+SPONSORS: Rep.Burnham,Straf.2;Rep.Wood,Merr.13;Rep.Wherry,Hills.13;Rep.DeRoy,
+Straf.3;Sen.Gray,Dist6
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates the absentee ballot certificate and requires certain counts of absentee ballots to
+beperformedbythemoderatorandtheclerkandrecordedontheabsenteeballotcertificate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1306-ASINTRODUCED
+26-2881
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecountingofabsenteeballots.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Absentee Ballot Certificate. Amend RSA 657 by inserting after section 23 the
+2 followingnewsection:
+3 657:23-a AbsenteeBallotCertificate.
+4 I. The secretary of state shall prepare an distribute to each town or ward clerk 3 copies of
+5 theabsenteeballotcertificate. Whentheabsenteeballotsarecounted,themoderatorandclerkshall
+6 certify on the certificate the total number of absentee ballots received, as well as all counts required
+7 under paragraph II. One copy shall be retained by the moderator for his or her records; one copy
+8 shall be retained by the clerk for his or her records; and one copy shall be forwarded by the clerk to
+9 thesecretaryofstatewiththeelectionreturnspursuanttoRSA659:75.
+10 II. Absenteeballotsshallbecountedforthefollowing:
+11 (a) Totalabsenteeballotsreceivedbytheclerk.
+12 (b) Totalnumberofabsenteeballotsmailedtoabsenteevotersbytheclerk.
+13 (c) Totalnumberofabsenteeballotsspoiledpriortoelectionday.
+14 (d) Total number of absentee ballots remaining prior to the opening of polls on election
+15 day.
+16 (e) Totalnumberofabsenteeballotscastonelectionday.
+17 (f) Totalnumberofabsenteeballotsusedasofficialelectiondayballots.
+18 (g) Totalnumberofabsenteeballotsremainingatthecloseofthepolls.
+19 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

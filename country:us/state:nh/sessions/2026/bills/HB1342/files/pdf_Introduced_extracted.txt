@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1342 -ASINTRODUCED
+2026SESSION
+26-2952
+08/06
+1342
+HOUSEBILL
+ANACT restricting access to certain information relative to voters subject to the
+UniformedandOverseasCitizensAbsenteeVotingAct.
+SPONSORS: Rep. McGrath, Rock. 40; Rep. Bernardy, Rock. 36; Rep. DeVito, Rock. 8; Rep.
+Mary Murphy, Hills. 27; Rep. Porcelli, Rock. 19; Rep. Sabourin dit Choiniere,
+Rock.30;Rep.Wherry,Hills.13
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows for absentee and UOCAVA voter records to be accessed but prevents certain
+informationrelativetoUOCAVAvotersfrombeingreleased.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1342-ASINTRODUCED
+26-2952
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restricting access to certain information relative to voters subject to the
+UniformedandOverseasCitizensAbsenteeVotingAct.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSubdivision;UniformTransparencyofAbsenteeandUOCAVARecords. AmendRSA657
+2 byinsertingaftersection26thefollowingnewsubdivision:
+3 UniformTransparencyofAbsenteeandUOCAVARecords
+4 657:27 PublicAccesstoVotingRecords.
+5 I. Inthissection:
+6 (a) “Absentee voter” means a voter who has requested or cast a ballot under this
+7 chapter.
+8 (b) “UOCAVA voter” means a voter entitled to protections under the Uniformed and
+9 OverseasCitizensAbsenteeVotingAct,52U.S.C.sections20301–20311.
+10 (c) “Voting record” means information maintained by election officials showing that a
+11 voterhasrequested,beenissued,orreturnedanabsenteeorUOCAVAballot.
+12 II. The following information shall be available for public inspection for each absentee and
+13 UOCAVAvoter:
+14 (a) Voter’sfullname.
+15 (b) TheU.S.addresswhereyouaredomiciledorlastlived.
+16 (c) Voter’scurrentmailingaddress(ifdifferent).
+17 (d) Municipalityandvotingdistrict.
+18 (e) Voteridentificationnumberorstate-assignedvoterregistrationnumber.
+19 (f) DatetheabsenteeorUOCAVAballotwasrequested.
+20 (g) DatetheabsenteeorUOCAVAballotwasissuedbytheclerk.
+21 (h) DatetheabsenteeorUOCAVAballotwasreceivedbytheclerk,ifapplicable.
+22 (i) Statusoftheballot:requested,issued,received,accepted,orrejected.
+23 III. For UOCAVA voters who are members of the uniformed services as defined in 52 U.S.C.
+24 section20310(7),thefollowinginformationshallnotbedisclosed:
+25 (a) Thevoter’soverseasmailingaddress.
+26 (b) The voter’s telephone number, email address, or other electronic contact information
+27 providedforballotdelivery.
+28 IV. Undernocircumstancesshallanyrecorddisclosehowaballotwasvoted.
+29 V. Election officials shall make the records described in this section available for inspection
+30 orelectronicaccesswithinonebusinessdayofreceivingarequest.
+
+HB1342 -ASINTRODUCED
+-Page2-
+1 VI. The secretary of state shall adopt rules under RSA 541-A to provide for secure, uniform,
+2 andtimelypublicaccesstosuchrecordsinbothphysicalandelectronicform.
+3 2 New Section; Failure to Provide Access to Voting Records. Amend RSA 659 by inserting after
+4 section45-athefollowingnewsection:
+5 659:45-b FailuretoProvideAccesstoVotingRecords.
+6 I. Any election official who knowingly refuses or fails to make absentee or UOCAVA voting
+7 records available for public inspection as required under RSA 657:27shall be guiltyof a violation for
+8 thefirstoffenseandsubjecttoacivilfineofnotmorethan$1,000.
+9 II. Anysubsequentoffenseshallbedeemedamisdemeanor.
+10 III. Nothinginthissectionshallprecludetheattorneygeneralfrom seekinginjunctive relief
+11 tocompelcompliancewithRSA657.
+12 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1742-ASAMENDEDBYTHEHOUSE
+5Mar2026...0583h
+2026SESSION
+26-2786
+06/08
+1742
+HOUSEBILL
+ANACT relative to customer-generators inadvertently enrolled in a municipal or county
+aggregationprogram.
+SPONSORS: Rep. Vose, Rock. 5; Rep. Cormen, Graf. 15; Rep. Harrington, Straf. 18; Rep. Hill,
+Merr. 2; Rep. Notter, Hills. 12; Rep. D. Thomas, Rock. 16; Sen. Avard, Dist 12;
+Sen.Pearl,Dist17;Sen.Watters,Dist4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows a customer-generator that is inadvertently enrolled in a municipal or county
+aggregationprogram to request that theelectric distribution utility re-enroll the customer-generator
+intheutility’sdefaultenergyservice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1742-ASAMENDEDBYTHEHOUSE
+5Mar2026...0583h 26-2786
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to customer-generators inadvertently enrolled in a municipal or county
+aggregationprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Limited Electrical Energy Producers Act; Net Energy Metering. Amend RSA
+2 362-A:9byinsertingafterparagraphXXIIIthefollowingnewparagraph:
+3 XXIV.(a) A customer-generator that is inadvertently enrolled in a municipal or county
+4 aggregation program adopted and operating under RSA 53-E by error or without the customer-
+5 generator's consent, if required, may request that the customer-generator's electric distribution
+6 utilityre-enrollthecustomer-generatorintheutility’sdefaultenergyservice.
+7 (b) Upon receipt of the customer-generator’s petition, the electric distribution utility
+8 shall:
+9 (1) Investigatethecustomer-generator'senrollmentstatuswithin20businessdays;
+10 (2) If such inadvertent enrollment is confirmed, restore the customer to default
+11 serviceasofthestartofthenextbillingcycle,providedthatthefinaldeterminationismadewithin2
+12 businessdayspriortothestartofthatbillingcycle;and
+13 (3) Retroactively apply net metering credits for exported kilowatt-hours for a period
+14 of up to 4 monthly billing cycles prior to the effective re-enrollment date, with such credits based on
+15 the applicable net metering tariff in effect during the period of inadvertent dis-enrollment from
+16 utility default energy service. Any credits from energy exported more than 3 months prior to the
+17 customernotifyingtheutilityshallnotberecoverablefromtheutility.
+18 (c) Retroactive credits issued by the utility under this paragraph shall be recoverable
+19 fromallcustomersconsistentwithrecoveryoftheutility’snetmeteringexpenses.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

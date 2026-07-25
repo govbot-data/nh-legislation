@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1149 -ASINTRODUCED
+2026SESSION
+26-2601
+09/08
+1149
+HOUSEBILL
+ANACT relativetoabolishingdaylightsavingtime.
+SPONSORS: Rep.Horrigan,Straf.10;Rep.AlexanderJr.,Hills.29
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides that New Hampshire shall abolish daylight savings time once Massachusetts,
+Vermont,RhodeIsland,andMainehaveallvotedtodoso.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1149-ASINTRODUCED
+26-2601
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoabolishingdaylightsavingtime.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StandardTime. AmendRSA21:36toreadasfollows:
+2 21:36 Standard Time. The standard time within the state[, except as hereinafter provided,]
+3 shall be based on the mean astronomical time of the seventy-fifth degree of longitude west from
+4 Greenwich, known and designated by the federal statute as "Eastern Standard Time." [At 2 o'clock
+5 ante-meridian of the second Sunday in March of each year, the standard time in this state shall be
+6 advanced one hour, at 2 o'clock ante-meridian of the first Sunday in November of each year, the
+7 standard time in this state shall, by the retarding of one hour, be made to coincide with the
+8 astronomical time hereinbefore described as Eastern Standard Time, so that between the second
+9 Sunday in March at 2 o'clock ante-meridian and the first Sunday in November at 2 o'clock ante-
+10 meridian in each year the standard time in this state shall be one hour in advance of the United
+11 States Standard Time.] In all laws, statutes, orders, decrees, rules, and regulations relating to the
+12 timeofperformancebyanyofficerordepartmentofthisstate,orofanycounty,city,town,ordistrict
+13 thereof, or relating to the time in which any rights accrue or determine, or within which any act
+14 shall or shall not be performed by any person subject to the jurisdiction of this state, or of any
+15 county,city,town,ordistrictthereof,andinallcontractsorchosesinactionmadeortobeperformed
+16 inthisstate,itshallbeunderstoodandintendedthatthetimeshallbeassetforthinthissection.
+17 2 Contingency. Section 1 of this act shall take effect on January 1 in the first year following
+18 certification by the secretary of state to the director of the office of legislative services that he or she
+19 has received certifications from the secretaries of state of Vermont, Maine, and Rhode Island, and
+20 the secretary of the commonwealth of Massachusetts, of the enactment by law in each jurisdiction of
+21 apermanentyear-round“EasternStandardTime,”insubstantiallythesameformassection1.
+22 3 EffectiveDate.
+23 I. Section1ofthisactshalltakeeffectasprovidedinsection2ofthisact.
+24 II. Theremainderofthisactshalltakeeffectuponitspassage.

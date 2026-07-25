@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER220
+HB1245-FN-FINALVERSION
+12Mar2026...0237h
+4Jun2026...2138EBA
+2026SESSION
+26-3151
+06/08
+1245-FN
+HOUSEBILL
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Granger, Straf. 2; Rep. Labrie, Hills. 2; Rep. Warden,
+Hills.39;Sen.Innis,Dist7
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishesavoluntaryframeworkallowingindependent contractorstoparticipateinportable
+benefitplansthroughauthorizedproviders.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER220
+HB1245-FN-FINALVERSION
+12Mar2026...0237h
+4Jun2026...2138EBA 26-3151
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetovoluntaryportablebenefitsplansforindependentcontractors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 220:1 Statement of Purpose. The purpose of this act is to allow independent contractors and hiring
+2 parties to voluntarily participate in portable benefit plans, providing access to certain benefits without
+3 alteringtheclassificationofsuchworkersunderstatelaw.
+4 220:2 NewChapter;VoluntaryPortableBenefitPlans. AmendRSAbyinsertingafterchapter283the
+5 followingnewchapter:
+6 CHAPTER283-A
+7 VOLUNTARYPORTABLEBENEFITPLANS
+8 283-A:1 Definitions. Inthischapter:
+9 I. "Hiring party" means any individual or business that contracts for the performance of services
+10 byanindependentcontractor.
+11 II. "Independent contractor" means a person who qualifies as such under RSA 275:42, II, or
+12 applicablecommonlawtests,whoisfreefromcontrolordirectionovertheperformanceofservices.
+13 III. "Portable benefit account" means an account owned and controlled by an independent
+14 contractor, who may allocate funds to pay for portable benefits such as health insurance, non-state
+15 unemployment insurance, disability insurance, life insurance, or retirement benefits, or other related
+16 expenses.
+17 IV. "Provider" means a bank, financial institution, investment management firm, or other legal
+18 entity.
+19 283-A:2 VoluntaryContributionsandWithholding.
+20 I. A hiring party may voluntarily contribute funds to an independent contractor’s portable benefit
+21 account.
+22 II. Contributions may be made using funds withheld from compensation owed to the contractor,
+23 providedthat:
+24 (a) Thewithholdingisexpressedinawrittenagreement;
+25 (b) Theagreementisclear,unambiguous,andprominentlydisplayedinthecontract;
+26 (c) Thecontractoraffirmativelyoptsintothewithholding;and
+27 (d) Thecontractormayoptoutofsuchwithholdingatanytime.
+28 283-A:3 PreservationofWorkerClassification.
+29 I. The following actions shall be excluded from consideration when determining a worker’s legal
+30 statusaseitheranemployeeoranindependentcontractorunderRSA275,RSA282-A,oranyotherstate
+31 labor,tax,orbenefitsstatute:
+32 (a) Theofferof,orcontributionto,aportablebenefitaccountbyahiringparty;
+
+CHAPTER220
+HB1245-FN-FINALVERSION
+-Page2-
+1 (b) Anindependentcontractor’sparticipationinorcontroloversuchaplanoraccount;and
+2 (c) The administrative act of withholding and remitting contractor funds as authorized under
+3 RSA283-A:2,I
+4 II. A hiring party, worker, or third party may make voluntary contributions to a portable benefit
+5 accountonbehalfofanindependentcontractor.
+6 III. Theprovisionofvoluntarycontributionsbyahiringpartyshallnot,inandofitself,establishan
+7 employer-employee relationship, nor shall it be construed as evidence of the hiring party's "control or
+8 direction"overtheindependentcontractor.
+9 220:3 EffectiveDate. Thisactshalltakeeffect60daysafterpassage.
+Approved:July02,2026
+EffectiveDate:August31,2026

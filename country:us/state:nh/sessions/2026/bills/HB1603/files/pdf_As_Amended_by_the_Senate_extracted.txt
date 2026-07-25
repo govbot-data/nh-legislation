@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1603-FN-ASAMENDEDBYTHESENATE
+2026SESSION
+19Feb2026...0518h
+04/09/2026 1305s 26-3192
+08/06
+1603-FN
+HOUSEBILL
+ANACT requiring the executive director of the department of fish and game to adopt rules
+relative to procedures for verifying accuracy of records collected relative to
+threatened and endangered wildlife and ensuring landowner permission is
+grantedforthegatheringofsuchrecord.
+SPONSORS: Rep. DeVito, Rock. 8; Rep. Beaulier, Graf. 1; Rep. Litchfield, Rock. 32; Rep. Tom
+Mannion, Hills. 1; Rep. Mazur, Hills. 44; Rep. McGrath, Rock. 40; Rep. Sabourin
+dit Choiniere, Rock. 30; Rep. Harvey-Bolia, Belk. 3; Rep. DeRoy, Straf. 3; Rep.
+MaryMurphy,Hills.27;Sen.Murphy,Dist16
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the executive director of the department of fish and game to adopt rules
+relative to procedures for verifying accuracy of records collected relative to threatened and
+endangeredwildlifeandensureslandownerpermissionisgrantedforthegatheringofsuchrecord.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1603-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0518h
+04/09/2026 1305s 26-3192
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the executive director of the department of fish and game to adopt rules
+relative to procedures for verifying accuracy of records collected relative to
+threatened and endangered wildlife and ensuring landowner permission is
+grantedforthegatheringofsuchrecord.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Endangered Species Conservation Act; Conservation Program. RSA 212-A:9, III is repealed
+2 andreenactedtoreadasfollows:
+3 III.(a) Allotherstatedepartmentsandagencies,totheextentpossible,consistentwiththeir
+4 authorities and responsibilities, shall take such action as is reasonable and prudent to ensure that
+5 actions authorized, funded, or carried out by them do not appreciably jeopardize the continued
+6 existence of such species or result in the destruction or modification of habitat of such species which
+7 is determined by the executive director to be critical, by requiring that all such action is designed to
+8 avoid, minimize, and mitigate harm to such species and habitat designated as critical. Other
+9 departments and agencies mayconsult withthe executivedirector or hire their owninternal wildlife
+10 biologists to carry out the requirements of this paragraph. The executive director shall assist other
+11 departmentsandagenciesincarryingoutthisparagraph.
+12 (b) The executive director shall adopt rules pursuant to RSA 541-A, not later than one
+13 year after the effective date of this paragraph and not to exceed one year after passage, to establish
+14 procedures requiring all records added to the database after the effective date of this paragraph to
+15 verify the accuracy of records for threatened and endangered wildlife records under this paragraph,
+16 aswellas:
+17 (1) Requiring data to be reviewed and approved by the fish and game department;
+18 and
+19 (2) Notifyinglandownersanewrecordwasaddedtothedatabase.
+20 (c) The executive director shall adopt rules pursuant to RSA 541-A not later than one
+21 year after the effective date of this paragraph, to establish procedures to obtain landowner
+22 permission for entry onto private property for the purposes of gathering by the fish and game
+23 departmentofsite-specificspecieslocationdata.
+24 (d) For the purpose of this statute, "appreciably jeopardize the continued existence of
+25 such species" shall be defined in rules adopted by the executive director pursuant to RSA 541-A.
+26 The provisions of RSA 212-A or any rule promulgated under this chapter shall not be applicable to a
+27 state department or agency when that state department or agency, in the process of undertaking an
+
+HB1603-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 action, is required by federal law or regulation to address the environmental impact on wildlife or
+2 wildlifehabitat,ofthataction.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3192
+05/18/2026
+HB1603-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1305s)
+ANACT requiring the executive director of the department of fish and game to adopt rules
+relative to procedures for verifying accuracy of records collected relative to
+threatened and endangered wildlife and ensuring landowner permission is
+grantedforthegatheringofsuchrecord.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+IndeterminableIncrease,anticipatedtobelessthan
+Expenditures* $0
+$100,000annually
+FundingSource(s) FishandGameFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires state agencies, when possible, to avoid or minimize harm to endangered and
+threatened species and their critical habitats in projects they authorize, fund, or carry out. It
+also requires the Fish and Game Department to adopt rules for verifying species data, notifying
+landowners when records are added, obtaining permission before entering private property to
+collectdata,anddefiningkeystandardsunderthelaw,whileexemptingagenciesalreadysubject
+tofederalwildlifereviewrequirements.
+The Department states the bill would create new administrative and technology costs associated
+with notifying landowners, obtaining permission to access private property, and maintaining
+records related to endangered species data. Overall, the Department states the fiscal impact is
+indeterminable,howeverestimatescostsarelikelytobelessthan$100,000peryear:
+ Annual mailing and notification costs are estimated at approximately $25,000 to
+$45,000, depending on the notification method used, including the potential use of
+certifiedmail.
+ The Department estimates an initial database upgrade would cost approximately
+$15,000 to $25,000, with ongoing secure data storage, IT support, and maintenance costs
+ofapproximately$15,000to$30,000annually.
+
+ The Department estimates the workload would require at least one-half of a full-time
+position, which would need to be absorbed by existing staff, and could impact current
+operations. Thebilldoesnotprovideauthorizationorfundingforadditionalstaffing.
+AGENCIESCONTACTED:
+FishandGameDepartment

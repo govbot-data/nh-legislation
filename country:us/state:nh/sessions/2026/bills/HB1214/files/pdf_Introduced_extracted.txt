@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1214 -ASINTRODUCED
+2026SESSION
+26-2706
+09/08
+1214
+HOUSEBILL
+ANACT relativetopubliclibraries.
+SPONSORS: Rep. Perez, Rock. 16; Rep. Andrus, Merr. 5; Rep. Alexander Jr., Hills. 29; Rep.
+Berry, Hills. 44; Rep. DeVito, Rock. 8; Rep. Giasson, Hills. 29; Rep. Reinfurt,
+Hills.29;Rep.Sellers,Graf.10
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsamunicipality'sgoverningbodytoassumegovernanceofapubliclibrary.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1214-ASINTRODUCED
+26-2706
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopubliclibraries.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PublicLibraries;Definitions. AmendRSA202-A:2,IItoreadasfollows:
+2 II. "Library trustees" shall mean the governing board of a public library, except where the
+3 municipalityadoptstheprovisionsofRSA202-A:26.
+4 2 New Section; Public Libraries. Amend RSA 202-A by inserting after section 25 the following
+5 newsection:
+6 202-A:26 AdoptionbyMunicipality.
+7 A municipality may, according to the provisions of RSA 39:3, elect to have the municipality's
+8 governing body assume control of the governance of the library. If a municipality's governing body
+9 assumes control of the public library, the library trustees shall serve in an advisory role to the
+10 governingbody.
+11 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

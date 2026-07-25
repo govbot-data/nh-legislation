@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1836-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0648h
+2026SESSION
+26-2602
+07/09
+1836-FN
+HOUSEBILL
+ANACT relativetotheinput-basedaccountabilitysystemrequirementsandenforcement.
+SPONSORS: Rep. Ladd, Graf. 5; Rep. Popovici-Muller, Rock. 17; Rep. Peeples, Hills. 14; Rep.
+Kofalt, Hills. 32; Sen. Ward, Dist 8; Sen. Innis, Dist 7; Sen. Murphy, Dist 16; Sen.
+Sullivan,Dist18
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the commissioner of the department of education to withhold grant funds from
+a public school or district until such time as the input-based school accountability system report is
+submittedtothedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1836-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0648h 26-2602
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheinput-basedaccountabilitysystemrequirementsandenforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Adequate Public Education; Accountability for the Opportunity for an Adequate
+2 Education. AmendRSA193-E:3-b,I(d)toreadasfollows:
+3 (d) The input-based school accountability system shall be completed by January 15 of
+4 every even numbered year. The school principal and school district superintendent shall certify in
+5 writing that the responses submitted are accurate. The commissioner, or designee, shall review the
+6 input-based school accountability system responses to each school's self-assessment required under
+7 this section and shall verify that the responses comply with the standards under subparagraph (a).
+8 The commissioner shall notify the governing body of the school district, city, or chartered
+9 public school that all state aid to education shall be withheld until such time as the input-
+10 based school accountability system report is submitted to the department in accordance
+11 withthissubparagraph.
+12 2 Repeal. RSA 193-E:3-b, I(c), relativetoreports filed from New England Associationof Schools
+13 andColleges(NEASC)certifiedschools,isrepealed.
+14 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2602
+03/20/2026
+HB1836-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0648h)
+ANACT relativetotheinput-basedaccountabilitysystemrequirementsandenforcement.
+FISCALIMPACT:
+The bill requires the Department of Education to withhold grant funds from a public school or
+district until such time as the input-based school accountability system report is submitted to
+the Department. While the Department cannot predict future compliance with this report
+requirement, it states that in the most recent year there were no instances of non-compliance
+and therefore this bill would have had no impact. Therefore, it is assumed compliance will
+continueandthisbillwillhavenofiscalimpactinFY2026orbeyond.
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1176-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0197h
+2026SESSION
+26-2473
+06/05
+1176-FN
+HOUSEBILL
+ANACT relativetothedisplayoflicenseplatesonvehicles.
+SPONSORS: Rep. Notter, Hills. 12; Rep. Alexander Jr., Hills. 29; Rep. Labrie, Hills. 2; Rep.
+Aures, Merr. 13; Rep. Aldrich, Belk. 6; Rep. Spillane, Rock. 2; Rep. Ammon, Hills.
+42;Sen.Murphy,Dist16
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill removes the requirement that a motor vehicle display a front license plate unless the
+vehicleisusedforcommercialpurposesoristowingatrailerorotherapparatus.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1176-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0197h 26-2473
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedisplayoflicenseplatesonvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NumberPlates. AmendRSA261:75,IItoreadasfollows:
+2 II. Everyvehicledriveninoronanywayinthisstate,ifrequiredtoberegisteredhereunder,
+3 shall have displayed conspicuously [thereon] on the rear of the vehicle a single number plate [or
+4 plates] tobefurnished bythedepartment, together withanycurrent validationsticker issued by the
+5 department and which has a changeable designation of their effective period, unless excluded by
+6 paragraphs II-a and II-b. The director may make special rules relative to [the number of plates,]
+7 the location of said plate [or plates] on the vehicle, and the material and design thereof, provided,
+8 however, that number plates for passenger vehicles shall have the state motto "Live Free or Die"
+9 writtenthereon. Theplateshallbekeptclean.
+10 II-a. All vehicles used for commercial activities or registered to a business shall
+11 displaybothfrontandrearlicenseplates.
+12 II-b. All vehicles with a trailer or apparatus in tow shall display both front and
+13 rearlicenseplates.
+14 III. The director shall issue 2 license plates, which shall be maintained throughout
+15 the registration period to enable the operator to display both and which may be
+16 transferredupontradeorpurchaseofavehicle.
+17 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2473
+02/24/2026
+HB1176-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0197h)
+ANACT relativetothedisplayoflicenseplatesonvehicles.
+FISCALIMPACT:
+TheDepartmentofSafetystatesitcanimplementtheprovisionsofthisbillwithinitsexisting
+budgetandresources. Therefore,thisbillisnotexpectedtohaveanimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+DepartmentofSafety

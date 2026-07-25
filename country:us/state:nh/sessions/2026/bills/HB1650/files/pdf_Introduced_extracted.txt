@@ -1,0 +1,436 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1650-FN-ASINTRODUCED
+2026SESSION
+26-3111
+12/08
+1650-FN
+HOUSEBILL
+ANACT relativetoanage-appropriatedesigncode.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Nadeau, Rock. 4; Rep. Thibault, Merr. 25; Rep. L.
+Miner,Rock.7;Rep.Terry,Belk.7
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesanage-appropriatedesigncodewhichlimitsbusinesses'abilitytocollectand
+use the personal data of minors in the state. The bill also limits what may be considered publicly
+available information which businesses may collect and use, and authorizes the attorney general to
+establishrulestoenforcesuchprovisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1650-FN-ASINTRODUCED
+26-3111
+12/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoanage-appropriatedesigncode.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Age-Appropriate Design Code Act. Amend RSA 359-C by inserting after
+2 section21thefollowingnewsubdivision:
+3 Age-AppropriateDesignCodeAct
+4 359-C:22 Definitions. Forthepurposesofthissubdivision:
+5 I. "Affiliate” means a legal entity that shares common branding with another legal entity or
+6 controls,iscontrolledby,orisundercommoncontrolwithanotherlegalentity.
+7 II. "Control"or"controlled"means:
+8 (a) Ownershipof,orthepowertovote,morethan50percentoftheoutstandingsharesof
+9 anyclassofvotingsecurityofacompany;
+10 (b)Controlinanymannerovertheelectionofamajorityofthedirectorsorofindividuals
+11 exercisingsimilarfunctions;or
+12 (c) Thepowertoexercisecontrollinginfluenceoverthemanagementofacompany.
+13 III. “Age assurance” encompasses a range of methods used to determine, estimate, or
+14 communicatetheageoranagerangeofanonlineuser.
+15 IV. “Age range” means either an interval with an upper and lower age limit or a label
+16 indicatingageaboveorbelowaspecificage.
+17 V. “Algorithmic recommendation system” means a system that uses an algorithm to select,
+18 filter,andarrangemediaonacoveredbusiness’swebsiteforthepurposeofselecting,recommending,
+19 orprioritizingmediaforauser.
+20 VI.(a) “Biometric data” means data generated from the technological processing of an
+21 individual’s unique biological, physical, or physiological characteristics that allow or confirm the
+22 uniqueidentificationoftheconsumer,including:
+23 (1) Irisorretinascans;
+24 (2) Fingerprints;
+25 (3) Facialorhandmapping,geometry,ortemplates;
+26 (4) Veinpatterns;
+27 (5) Voiceprintsorvocalbiomarkers;and
+28 (6) Gaitorpersonallyidentifyingphysicalmovementorpatterns.
+29 (b) “Biometricdata”doesnotinclude:
+30 (1) Adigitalorphysicalphotograph;
+31 (2) Anaudioorvideorecording;or
+
+HB1650-FN-ASINTRODUCED
+-Page2-
+1 (3) Any data generated from a digital or physical photograph, or an audio or video
+2 recording,unlesssuchdataisgeneratedtoidentifyaspecificindividual.
+3 VII. “Business associate” has the same meaning as in the Health Insurance Portability and
+4 AccountabilityActof1996(HIPAA).
+5 VIII. “Collect” means buying, renting, gathering, obtaining, receiving, or accessing any
+6 personal data by any means. This includes receiving data from the consumer, either actively or
+7 passively,orbyobservingtheconsumer’sbehavior.
+8 IX. “Compulsiveuse”meanstherepetitiveuseofacoveredbusiness’sservicethatmaterially
+9 disrupts one or more major life activities of a minor, including sleeping, eating, learning, reading,
+10 concentrating,communicating,orworking.
+11 X.(a) “Consumer”meansanindividualwhoisaresidentofthestate.
+12 (b) “Consumer” shall not include an individual acting in a commercial or employment
+13 context or as an employee, owner, director, officer, or contractor of a company, partnership, sole
+14 proprietorship, nonprofit, or government agency whose communications or transactions with the
+15 covered business occur solely within the context of that individual’s role with the company,
+16 partnership,soleproprietorship,nonprofit,orgovernmentagency.
+17 XI. “Covered business” means a sole proprietorship, partnership, limited liability company,
+18 corporation,association,otherlegalentity,oranaffiliatethereof:
+19 (a) Thatconductsbusinessinthisstate;
+20 (b) Thatgeneratesamajorityofitsannualrevenuefromonlineservices;
+21 (c) Whose online products, services, or features are reasonably likely to be accessed by a
+22 minor;
+23 (d) That collects consumers’ personal data or has consumers’ personal data collected on
+24 itsbehalfbyaprocessor;and
+25 (e) That alone or jointly with others determines the purposes and means of the
+26 processingofconsumerspersonaldata.
+27 XII. “Coveredentity”hasthesamemeaningasinHIPAA.
+28 XIII. “Covered minor” is a consumer who a covered business actually knows is a minor or
+29 labelsasaminorpursuanttoageassurancemethodsinrulesadoptedbytheattorneygeneral.
+30 XIV. “Default” means a preselected option adopted by the covered business for the online
+31 service,product,orfeature.
+32 XV. “De-identified data”means datathat doesnot identifyand cannotreasonablybeused to
+33 inferinformationabout,or otherwisebelinkedto, anidentified oridentifiableindividual,or adevice
+34 linkedtotheindividual,ifthecoveredbusinessthatpossessesthedata:
+35 (a)(1) Takes reasonable measures to ensure that the data cannot be used to re-identify
+36 anidentified or identifiableindividual or beassociatedwithanindividual or devicethat identifies or
+37 islinkedorreasonablylinkabletoan individualorhousehold;and
+
+HB1650-FN-ASINTRODUCED
+-Page3-
+1 (2) For purposes of subparagraph (a) "reasonable measures” includes the de-
+2 identificationrequirementssetforthunder45C.F.R.§164.514;
+3 (b) Publicly commits to process the data only in a de-identified fashion and not attempt
+4 tore-identifythedata;and
+5 (c) Contractuallyobligatesanyrecipientsofthedatatocomplywithallprovisionsofthis
+6 subdivision.
+7 XVI. “Derived data” means data that is created by the derivation of information, data,
+8 assumptions, correlations, inferences, predictions, or conclusions from facts, evidence, or another
+9 sourceofinformationordataaboutaminororaminor’sdevice.
+10 XVII. “Geneticdata”meansanydata,regardlessofitsformat,thatresultsfromtheanalysis
+11 of a biological sample of an individual, or from another source enabling equivalent information to be
+12 obtained, and concerns genetic material, including deoxyribonucleic acids (DNA), ribonucleic acids
+13 (RNA), genes, chromosomes, alleles, genomes, alterations or modifications to DNA or RNA, single
+14 nucleotidepolymorphisms(SNPs),epigeneticmarkers,uninterpreteddatathatresultsfromanalysis
+15 of the biological sample or other source, and any information extrapolated, derived, or inferred
+16 therefrom.
+17 XVIII. “Identified or identifiable individual” means an individual who can be readily
+18 identified, directly or indirectly, including by reference to an identifier such as a name, an
+19 identificationnumber,specificgeolocationdata,oranonlineidentifier.
+20 XIX. “Known adult” is a consumer who a covered business actually knows is an adult or
+21 labelsasanadultpursuanttoageassurancemethodsinrulesadoptedbytheattorneygeneral.
+22 XX. “Minor”meansanindividualunder18yearsofage.
+23 XXI. “Online service, product, or feature” means a digital product that is accessible to the
+24 publicviatheInternet,includingawebsiteorapplication,anddoesnotmeananyofthefollowing:
+25 (a) Telecommunicationsservice,asdefinedin47U.S.C.§153;
+26 (b) AbroadbandInternetaccessserviceasdefinedin47C.F.R.§54.400;or
+27 (c) Thesale,delivery,oruseofaphysicalproduct.
+28 XXII.(a) “Personal data” means any information, including derived data and unique
+29 identifiers, that is linked or reasonably linkable, alone or in combination with other information, to
+30 an identified or identifiable individual or to a device that identifies, is linked to, or is reasonably
+31 linkabletooneormoreidentifiedoridentifiableindividualsinahousehold;and
+32 (b) Personaldatadoesnotincludede-identifieddataorpubliclyavailableinformation.
+33 XXIII. “Process” or “processing” means any operation or set of operations performed,
+34 whether by manual or automated means, on personal data or on sets of personal data, such as the
+35 collection,use,storage, disclosure,analysis,deletion, modification,orotherwisehandlingof personal
+36 data.
+37 XXIV. “Processor”meansapersonwhoprocessespersonaldataonbehalfof:
+
+HB1650-FN-ASINTRODUCED
+-Page4-
+1 (a) Acoveredbusiness;
+2 (b) Anotherprocessor;or
+3 (c) Afederal,state,tribal,orlocalgovernmententity.
+4 XXV. “Profiling” means any form of automated processing performed on personal data to
+5 evaluate, analyze, or predict personal aspects, including an individual’s economic situation, health,
+6 personal preferences, interests, reliability, behavior, location, movements, or identifying
+7 characteristics.
+8 XXVI.(a) “Publiclyavailableinformation”meansinformationthat:
+9 (1) Is made available through federal, state, or local government records or to the
+10 generalpublicfromwidelydistributedmedia;or
+11 (2) A covered business has a reasonable basis to believe that the consumer has
+12 lawfullymadeavailabletothegeneralpublic.
+13 (b) “Publiclyavailableinformation”doesnotinclude:
+14 (1) Biometric data collected by a business about a consumer without the consumer’s
+15 knowledge;
+16 (2) Information that is collated and combined to create a consumer profile that is
+17 made available to a user of a publicly available website either in exchange for payment or free of
+18 charge;
+19 (3) Informationthatismadeavailableforsale;
+20 (4) An inference that is generated from the information described in subparagraphs
+21 (b)(2)and(b)(3)ofthisparagraph;
+22 (5) Anyobscenevisualdepiction,asdefinedin18U.S.C.§1460;
+23 (6) Personal data that is created through the combination of personal data with
+24 publiclyavailableinformation;
+25 (7) Genetic data, unless otherwisemadepubliclyavailablebytheconsumer towhom
+26 theinformationpertains;
+27 (8) Information provided by a consumer on a website or online service made
+28 available to all members of the public, for free or for a fee, where the consumer has maintained a
+29 reasonable expectation of privacy in the information, such as by restricting the information to a
+30 specificaudience;or
+31 (9) Intimateimages,authenticorcomputer-generated,knowntobenon-consensual.
+32 XXVII. “Reasonably likely to be accessed” means an online service, product, or feature that
+33 isreasonablylikelytobeaccessedbyacoveredminorbasedonanyofthefollowingindicators:
+34 (a) The online service, product, or feature is directed to children, as defined by the
+35 Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501–6506 and the Federal Trade
+36 CommissionrulesimplementingthatAct;
+
+HB1650-FN-ASINTRODUCED
+-Page5-
+1 (b) The online service, product, or feature is determined, based on competent and
+2 reliable evidence regarding audience composition, to be routinely accessed by an audience that is
+3 composedofatleasttwopercentminorstwothrough17yearsofage;
+4 (c) The audience of the online service, product, or feature is determined, based on
+5 internal company research, to be composed of at least two percent minors two through 17 years of
+6 age;or
+7 (d) The covered business knew or should have known that at least two percent of the
+8 audience of the online service, product, or feature includes minors two through 17 years of age,
+9 provided that, in makingthis assessment, thebusiness shall not collect or process anypersonal data
+10 thatisnotreasonablynecessarytoprovideanonlineservice,product,orfeaturewithwhichaminor
+11 isactivelyandknowinglyengaged.
+12 XXVIII.(a) “Social media platform” means a public or semipublic Internet-based service or
+13 application that is primarily intended to connect and allow a user to socially interact within such
+14 serviceorapplicationandenablesauserto:
+15 (1) Constructapublicorsemipublicprofileforthepurposesofsigningintoandusing
+16 suchserviceorapplication;
+17 (2) Populate a public list of other users with whom the user shares a social
+18 connectionwithinsuchserviceorapplication;or
+19 (3) Create or post content that is viewable by other users, including content on
+20 message boards and in chat rooms, and that presents the user with content generated by other
+21 users.
+22 (b) “Social media platform” does not mean a public or semipublic Internet-based service
+23 orapplicationthat:
+24 (1) Exclusivelyprovidesemailordirectmessagingservices;or
+25 (2) Is used by and under the direction of an educational entity, including a learning
+26 managementsystemorastudentengagementprogram.
+27 XXIX “Third party” means a natural or legal person, public authority, agency, or body other
+28 thanthecoveredminororthecoveredbusiness.
+29 359-C:23 Exclusions. Thissubdivisionshallnotapplyto:
+30 I. Afederal,state,tribal,orlocalgovernmententityintheordinarycourseofitsoperation;
+31 II. Protected health information that a covered entity or business associate processes in
+32 accordance with, or documents that a covered entity or business associate creates for the purpose of
+33 complyingwith,HIPAA;
+34 III. Information used only for public health activities and purposes described in 45 C.F.R. §
+35 164.512;
+36 IV. Informationthatidentifiesaconsumerinconnectionwith:
+
+HB1650-FN-ASINTRODUCED
+-Page6-
+1 (a) Activities that are subject to the Federal Policy for the Protection of Human Subjects
+2 assetforthin45C.F.R.Part46;
+3 (b) Research on human subjects undertaken in accordance with good clinical practice
+4 guidelines issued by the International Council for Harmonisation of Technical Requirements for
+5 PharmaceuticalsforHumanUse;
+6 (c) Activities that are subject to the protections provided in 21 C.F.R. Part 50 and 21
+7 C.F.R.Part56;or
+8 (d) Research conducted in accordance with the requirements set forth in subparagraphs
+9 (a),(b),and(c)ofthisparagraphorotherwiseinaccordancewithstateorfederallaw;
+10 V. An entity whose primary purpose is journalism and that has a majority of its workforce
+11 consistingofindividualsengaginginjournalism;and
+12 VI. A financial institution subject to Title V of the Gramm-Leach-Bliley Act and regulations
+13 adoptedtoimplementthatact.
+14 359-C:24 DutyofCare.
+15 I. Acoveredbusinessthatprocessesacoveredminor’sdatainanycapacityowesaminimum
+16 dutyofcaretothecoveredminor.
+17 II. Asusedinthissubdivision,“aminimumdutyofcare”meanstheuseofthepersonal data
+18 ofacoveredminorandthedesignofanonlineservice,product,orfeaturewillnotresultin:
+19 (a) Reasonablyforeseeableemotionaldistresstoacoveredminor;
+20 (b) Reasonably foreseeable compulsive use of the online service, product, or feature by a
+21 coveredminor;or
+22 (c) Discrimination against a covered minor based upon race, ethnicity, sex, disability,
+23 sexualorientation,genderidentity,genderexpression,religion,ornationalorigin.
+24 III. The content of the media viewed by a covered minor shall not establish emotional
+25 distress, compulsive use, or discrimination, as those terms are used in subparagraph (2)(b) of this
+26 section.
+27 IV. Nothing in this section shall be construed to require a covered business to prevent or
+28 precludeacoveredminorfromaccessingorviewinganypieceofmediaorcategoryofmedia.
+29 359-C:25 PrivacySettings.
+30 I. A covered business shall configure all default privacy settings provided to a covered minor
+31 through the online service, product, or feature to the highest level of privacy, including the following
+32 defaultsettings:
+33 (a) Not displaying the existence of the covered minor’s account on a social media
+34 platform to any known adult user unless the covered minor has expressly and unambiguously
+35 allowed a specific known adult user to view their account or has expressly and unambiguously
+36 chosentomaketheiraccount’sexistencepublic;
+
+HB1650-FN-ASINTRODUCED
+-Page7-
+1 (b) Not displaying media created or posted by the covered minor on a social media
+2 platform to any known adult user unless the covered minor has expressly and unambiguously
+3 allowed a specific known adult user to view their media or has expressly and unambiguously chosen
+4 tomaketheirmediapubliclyavailable;
+5 (c) Not permitting any known adult users to like, comment on, or otherwise provide
+6 feedback on the covered minor’s media on a social media platform unless the covered minor has
+7 expresslyandunambiguouslyallowedaspecificknownadultusertodoso;
+8 (d) Not permitting direct messaging on a social media platform between the covered
+9 minorandanyknownadultuserunlessthecoveredminorhasexpresslyandunambiguouslydecided
+10 toallowdirectmessagingwithaspecificknownadultuser;
+11 (e) Not displaying the covered minor’s location to other users, unless the covered minor
+12 expresslyandunambiguouslysharestheirlocationwithaspecificuser;
+13 (f) Not displaying the users connected to the covered minor on a social media platform
+14 unless the covered minor expressly and unambiguously chooses to share the information with a
+15 specificuser;
+16 (g) Disablingsearchengineindexingofthecoveredminor’saccountprofile;and
+17 (h) Notsendingpushnotificationstothecoveredminors.
+18 II. Acoveredbusinessshallnot:
+19 (a) Provide a covered minor with a single setting that makes all of the default privacy
+20 settingslessprotectiveatonce;or
+21 (b) Request or prompt a covered minor to make their privacy settings less protective,
+22 unless the change is strictly necessary for the covered minor to access a service or feature they have
+23 expresslyandunambiguouslyrequested.
+24 III. Acoveredbusinessshall:
+25 (a) Provide a prominent, accessible, and responsive tool to allow a covered minor to
+26 requestthecoveredminor’saccountonasocialmediaplatformbeunpublishedordeleted;and
+27 (b) Honor that request not later than 15 days after a covered business receives the
+28 request.
+29 359-C:26 Transparency. A covered business shall prominently and clearly provide on their
+30 websiteormobileapplication:
+31 I. The covered business’ privacy information, terms of service, policies, and community
+32 standards;
+33 II. Thepurposeofeachalgorithmicrecommendationsysteminusebythecoveredbusiness;
+34 III. Inputsusedbythealgorithmicrecommendationsystemandhoweachinput:
+35 (a) Ismeasuredordetermined;
+36 (b) Usesthepersonaldataofcoveredminors;
+37 (c) Influencestherecommendationissuedbythesystem;and
+
+HB1650-FN-ASINTRODUCED
+-Page8-
+1 (d) Isweighedrelativetotheotherinputsreportedinthisparagraph;and
+2 IV. Descriptions, for every feature of the service that uses the personal data of covered
+3 minors,of:
+4 (a) Thepurposeoftheservicefeature;
+5 (b) Thepersonaldatacollectedbytheservicefeature;
+6 (c) Thepersonaldatausedbytheservicefeature;
+7 (d) Howthepersonaldataisusedbytheservicefeature;
+8 (e) Any personal data transferred to or shared with a processor or third party by the
+9 service feature, the identity of the processor or third party, and the purpose of the transfer or
+10 sharing;and
+11 (f) Howlongthepersonaldataisretained.
+12 359-C:27 ProhibitedDataandDesignPractices.Acoveredbusinessshallnot:
+13 I. Collect, sell, share, or retain any personal data of a covered minor that is not necessary to
+14 provideanonlineservice,product,orfeaturewithwhichthecoveredminorisactivelyandknowingly
+15 engaged;
+16 II. Use previously collected personal data of a covered minor for any purpose other than a
+17 purpose for which the personal data was collected, unless necessary to comply with any obligation
+18 underthischapter;
+19 III. Permitanyindividual,includingaparentorguardianofacoveredminor,tomonitor the
+20 online activity of a covered minor or to track the location of the covered minor without providing a
+21 conspicuoussignaltothecoveredminorwhenthecoveredminorisbeingmonitoredortracked;
+22 IV. Use the personal data of a covered minor to select, recommend, or prioritize media for
+23 thecoveredminor,unlessthepersonaldatais:
+24 (a) Thecoveredminor’sexpressandunambiguousrequesttoreceive:
+25 (1) Mediafromaspecificaccount,feed,oruser,ortoreceivemoreorlessmediafrom
+26 thataccount,feed,oruser;
+27 (2) A specific category of media, such as “cat videos” or “breaking news,” or to see
+28 moreorlessofthatcategoryofmedia;or
+29 (3) More or less media with similar characteristics as the media they are currently
+30 viewing;
+31 (b) User-selectedprivacyoraccessibilitysettings;or
+32 (c) A search query, provided the search query is only used to select and prioritize media
+33 inresponsetothesearch;or
+34 V. Sendpushnotificationstoacoveredminorbetween12:00a.m.(midnight)and6:00a.m.
+35 359-C:28 Age Assurance Privacy. During the process of conducting age assurance, covered
+36 businessesandprocessorsshall:
+37 I. Onlycollectpersonaldataofauserthatisstrictlynecessaryforageassurance;
+
+HB1650-FN-ASINTRODUCED
+-Page9-
+1 II. Immediately upon determining whether a user is a covered minor, delete any personal
+2 datacollectedofthatuserforageassurance,exceptthedeterminationoftheuser’sagerange;
+3 III. Notuseanypersonaldataofausercollectedforageassuranceforanyotherpurpose;
+4 IV. Not combine personal data of a user collected for age assurance, except the
+5 determinationoftheuser’sagerange,withanyotherpersonaldataoftheuser;
+6 V. Notdisclosepersonaldataofausercollectedforageassurancetoathirdpartythatisnot
+7 aprocessor;and
+8 VI. Implementareviewprocesstoallowuserstoappealtheiragedetermination.
+9 359-C:29 Rulemaking.
+10 I. Theattorneygeneralshall,onorbeforeJanuary1,2027,adoptrulespursuanttoRSA
+11 359-C:27 that prohibits data processing or design practices of a covered business that, in the opinion
+12 oftheattorneygeneral,leadtocompulsiveuseorsubvertorimpairuserautonomy,decisionmaking,
+13 or choice during the use of an online service, product, or feature of the covered business. The
+14 attorney general shall, at least once every 2 years, review and update these rules as necessary to
+15 keeppacewithemergingtechnology.
+16 II. Theattorneygeneralshall,onorbeforeJanuary1,2027,adoptrulespursuanttoRSA
+17 359-C:28, II that identify commercially reasonable and technically feasible methods for covered
+18 businesses and processors to determine if a user is a covered minor, describing appropriate review
+19 processes for users appealing their age designations, and providing any additional privacy
+20 protections for age assurance data. The attorney general shall periodically review and update these
+21 rules as necessary to keep pace with emerging technology. In adopting these rules, the attorney
+22 generalshall:
+23 (a) Prioritize user privacy and accessibility over the accuracy of age assurance methods;
+24 and
+25 (b) Consider:
+26 (1) The size, financial resources, and technical capabilities of covered businesses and
+27 processors;
+28 (2) Thecostsandeffectivenessofavailableageassurancemethods;
+29 (3) Theimpactofageassurancemethodsonusers’safety,utility,andexperience;
+30 (4) Whether and to what extent transparency measures would increase consumer
+31 trustinanageassurancemethod;and
+32 (5) Theefficacyofrequiringcoveredbusinessesandprocessorsto:
+33 (i) Usepreviouslycollecteddatatodetermineuserage;
+34 (ii) Adoptinteroperableageassurancemethods;and
+35 (iii) Provideuserswithmultipleoptionsforageassurance.
+
+HB1650-FN-ASINTRODUCED
+-Page10-
+1 III. The attorney general shall adopt rules pursuant to RSA 359-C:30 relative to the
+2 enforcement of this subdivision. Such rulemaking authority shall include the ability to conduct civil
+3 investigations,bringcivilactions,andenterintoassurancesofdiscontinuance.
+4 359-C:30 Enforcement.
+5 I. Acoveredbusinessorprocessorthatviolatesthissubdivisionorrulesadoptedpursuantto
+6 thissubdivisioncommitsanunfairordeceptiveactintradeorcommerceinviolationofRSA358-A:2.
+7 II. Nothinginthissubdivisionshallbeinterpretedorconstruedto:
+8 (a) Imposeliabilityinamannerthatisinconsistentwith47U.S.C.section230;or
+9 (b) Prevent or preclude any covered minor from deliberately or independently searching
+10 for,orspecificallyrequesting,anymedia.
+11 III. Nothing in this subdivision may be construed to infringe on the existing rights and
+12 freedoms of covered minors or be construed to discriminate against the covered minors based on
+13 race, ethnicity, sex, disability, sexual orientation, gender identity, gender expression, religion, or
+14 nationalorigin.
+15 IV. If any provision of this subdivision or the application thereof to any person or
+16 circumstance is held invalid, the invalidity does not affect other provisions or applications of the
+17 subdivision which can be given effect without the invalid provisions or applications, and to this end
+18 theprovisionsofthesubdivisionareseverable.
+19 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3111
+12/1/25
+HB1650-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoanage-appropriatedesigncode.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

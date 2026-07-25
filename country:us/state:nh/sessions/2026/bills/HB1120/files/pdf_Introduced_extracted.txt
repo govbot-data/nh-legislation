@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1120 -ASINTRODUCED
+2026SESSION
+26-2583
+06/08
+1120
+HOUSEBILL
+ANACT allowingsubdivisionregulationsconcerningwatersupply.
+SPONSORS: Rep.McGhee,Hills.35;Rep.B.Boyd,Hills.12;Rep.N.Murphy,Hills.12;Rep.K.
+Murray,Rock.22;Rep.Rung,Hills.12;Rep.Perez,Rock.16
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the adoption of subdivision regulations that require water supply studies,
+determination of adequate water quantity for reasonably anticipated future water uses, and
+minimum on-lot private well testing requirements for subdivisions of 4 or more units. This bill also
+clarifiestheapplicant'sdutytopayassociatedcosts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1120-ASINTRODUCED
+26-2583
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowingsubdivisionregulationsconcerningwatersupply.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraphs; Planning and Zoning; Subdivision Regulations; Water Supply. Amend
+2 RSA674:36,IIbyinsertingaftersubparagraph(o)thefollowingnewsubparagraphs:
+3 (p) Local planning boards may request a water supply study in accordance with local
+4 regulations to ensure water adequacy in subdivisions of 4 or more units. Water studies for new
+5 subdivisionsarediscretionaryandfallunderthejurisdictionoflocalplanningboards. Thisprovision
+6 shallnotapplytocommunitywatersystemsorlargegroundwaterwithdrawalsregulatedunderRSA
+7 485andRSA485-C.
+8 (q) Include provisions to ensure there is an adequate water quantity to support existing,
+9 proposed, and reasonably anticipated future land and associated water uses, and to ensure the
+10 protection of water-dependent natural resources. Such provisions shall be established and
+11 administered in accordance with plans developed and approved under RSA 674:2. This provision
+12 shallnotapplytocommunitywatersystemsorlargegroundwaterwithdrawalsregulatedunderRSA
+13 485andRSA485-C.
+14 (r) Prescribe minimum on-lot private well testing requirements to ensure an adequate
+15 water supply. This provision shall not apply to community water systems or large groundwater
+16 withdrawalsregulatedunderRSA485andRSA485-C.
+17 2 NewParagraph; Planningand Zoning;SubdivisionRegulations;Costs. Amend RSA674:36by
+18 insertingafterparagraphVIthefollowingnewparagraph:
+19 VII. The planning board may, as part of its subdivision regulations, require an applicant to
+20 pay for notifying abutters and may assess reasonable costs for local administrative or investigative
+21 expensesdeemednecessaryformorecomplexapplications.
+22 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

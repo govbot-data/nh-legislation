@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1068-ASAMENDEDBYTHEHOUSE
+12Mar2026...0691h
+2026SESSION
+26-2347
+07/06
+1068
+HOUSEBILL
+ANACT taxing certain occupants who have established permanent residences under the
+mealsandroomstax.
+SPONSORS: Rep. Stavis, Graf. 13; Rep. Burroughs, Carr. 2; Rep. Cloutier, Sull. 6; Rep. Colby,
+Merr. 9; Rep. Gilman, Rock. 11; Rep. Grund, Hills. 34; Rep. Maggiore, Rock. 23;
+Rep.Preece,Hills.17
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill taxes certain occupants who have established permanent residences under the meals
+androomstax.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1068-ASAMENDEDBYTHEHOUSE
+12Mar2026...0691h 26-2347
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT taxing certain occupants who have established permanent residences under the
+mealsandroomstax.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 TaxonMealsandRooms;Definitions. AmendRSA78-A:3toreadasfollows:
+2 XV. "Permanent resident" means any occupant who has [occupied any room in a hotel for at
+3 least 185 consecutive days] made an agreement to occupy any room in a hotel for more than
+4 30consecutivedays.
+5 2 New Section; Taxation. Amend RSA 78-A by inserting after section 26 the following new
+6 section:
+7 78-A:27 TaxationonCertainClassificationsofOccupants.
+8 I. Apermanentresidenceshallbedeterminedatthetimeanoccupancyisinitiatedandshall
+9 not arise afterward, even if the initial term of occupancy is extended so that the total term of
+10 occupancyismorethan30consecutivedays.
+11 II. When a taxable occupancy is extended such that it exceeds 30 consecutive days, only the
+12 first30daysoftheoccupancyshallbetaxable.
+13 III. When an occupancy of a person deemed a permanent resident is shortened to not more
+14 than30days,thatoccupancyshallbecometaxable.
+15 3 Applicability. ThisactshallapplytoalltaxableperiodsendingonorafterJanuary1,2027.
+16 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2347
+03/23/2026
+HB1068-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0691h)
+ANACT taxing certain occupants who have established permanent residences under the
+mealsandroomstax.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableDecrease
+RevenueFund(s) GeneralFund&MealsandRoomsMunicipalRevenueFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 IndeterminableDecrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill changes the definition of a “permanent resident” under the Meals and Rooms Tax from
+someone who has occupied a hotel room for at least 185 consecutive days to someone who makes
+an agreement to stay for more than 30 days. It establishes that permanent resident status is
+determinedatthestartofthestaywithonlythefirst30daysastaxable.
+The Department of Revenue indicates that the bill narrows the Meals and Rooms Tax base by
+removing stays between 30 and 185 days from taxation, leading to an indeterminable negative
+impact on state and local revenues. The change would also eliminate refunds currently issued
+when short stays extend beyond 30 days, which slightly offsets losses but not enough for a net
+gain. BecauseDRAdoesnotcollectdatafromoperatorsregardingthelengthofoccupantsstays',
+theycannotestimatetheextentoftherevenuedecrease.
+AGENCIESCONTACTED:
+
+DepartmentofRevenueAdministration

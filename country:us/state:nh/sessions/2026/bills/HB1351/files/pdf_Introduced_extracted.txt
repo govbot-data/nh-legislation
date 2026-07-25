@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1351 -ASINTRODUCED
+2026SESSION
+26-3153
+06/08
+1351
+HOUSEBILL
+ANACT relativetouniformmunicipalstandardsforregulationofhome-basedbusinesses.
+SPONSORS: Rep. Beaulier, Graf. 1; Rep. Cole, Hills. 26; Rep. Osborne, Rock. 2; Rep. Dumont,
+Hills.13;Rep.Sweeney,Rock.25;Rep. Ulery,Hills.13;Rep.Miles,Hills.12; Rep.
+Farrington,Straf.8;Rep.Reinfurt,Hills.29
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesauniformstatewidestandardforhome-basedbusinesses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1351-ASINTRODUCED
+26-3153
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetouniformmunicipalstandardsforregulationofhome-basedbusinesses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose.
+2 I. The general court finds that thousands of Granite Staters lawfully operate businesses
+3 fromtheir homes withminimal neighborhood impacts;that somemunicipal codes imposecategorical
+4 limits unrelated to actual health or safety (e.g., 2-client caps, family-only staffing, blanket signage
+5 bans,andprohibitionsonscreenedout-doorstorage).
+6 II. It is the purpose of this act to establish uniform, least-restrictive rules for low-impact
+7 homeenterpriseswhilepreservingneutralnuisance,noise,traffic,andsafetystandards.
+8 2 New Subdivision; Home-Based Businesses, Uniform Standard, and Preemption. Amend RSA
+9 674byinsertingaftersection80thefollowingnewsubdivision:
+10 Home-BasedBusinesses,UniformStandard,andPreemption
+11 674:81 Definitions. Inthissubdivision:
+12 I. “Home-based business” means any lawful business, profession, occupation, or trade
+13 conducted wholly or partly within a dwelling or its accessory structures by the occupants as a
+14 secondaryuseoftheresidence.
+15 II. “No-impact”meansahome-basedbusinessthat:
+16 (a) Isnotvisiblefromapublicright-of-way;
+17 (b) Generatesnoon-sitecustomervisits;and
+18 (c) Doesnotexceedtypicalresidentialdeliveries.
+19 III. “Low-impact” means ahome-based business that mayhave limited visibility, employees,
+20 orcustomervisits,butremainsresidentialincharacterandmeetsthestandardsofthissubdivision.
+21 IV. “Residential appearance” means the dwelling retains exterior characteristics typical of
+22 residentialuse;ordinaryresidentialsignage,parking,lighting,andlandscapingarepermitted.
+23 674:82 No-Impact Home-Based Businesses Allowed byRight. Ano-impact home-based business
+24 shall be allowed as an accessory residential use in every zoning district. No municipality or political
+25 subdivision shall require a special exception, variance, conditional use permit, site plan review, or
+26 businesslicenseforano-impacthome-basedbusiness.
+27 674:83 Low-Impact Home-Based Businesses Allowed by Right; Objective Standards. A low-
+28 impact home-based business shall be allowed by right in every zoning district if it meets all of the
+29 following performance standards. Municipalities may require only a ministerial registration, with
+30 nopublichearing,issuedwithin30calendardays,toverifyconformance:
+
+HB1351 -ASINTRODUCED
+-Page2-
+1 I. Up to 4 non-resident employees may work on-site at any time. There shall be no limit on
+2 off-site or remote workers. Independent contractors shall be treated as employees for the purposes
+3 ofthissubdivision.
+4 II. Customer visits shall be permitted between 7:00 a.m. and 9:00 p.m. A business shall be
+5 deemed compliant if it generates no more than 20 customer visits per day and no queuing occurs on
+6 apublicway. Municipalitiesmaybyordinanceadoptahighersafe-harbornumber.
+7 III. Routine parcel deliveries, including those by the United States Postal Service and
+8 commoncarriers,shallbepermitted.
+9 IV. Off-street parking shall be permitted on the lot. On-street parking shall be allowed to
+10 theextentitisavailabletoresidencesgenerallyanddoesnotviolatepostedrestrictions.
+11 V. Onenon-illuminated wall,window, door,or yardsignnotexceeding6square feetshall be
+12 permitted.
+13 VI. Outdoor storage or display not exceeding 200 square feet shall be permitted, provided
+14 materials are kept in good order and screened from direct view of a public right-of-way or located
+15 within a side or rear yard. Storage of hazardous materials shall comply with applicable fire and
+16 buildingcodes.
+17 VII. The business shall comply with generally applicable residential standards for noise,
+18 odor,vibration,glare,andlighting.
+19 VIII. No change to building occupancy classification shall be required unless mandated by
+20 thestatebuildingorfirecodeduetoactualuseoroccupancyload.
+21 IX. Sexually oriented businesses, junkyards, and any use prohibited state-wide by statute
+22 shallnotqualifyashome-basedbusinessesunderthissubdivision.
+23 674:84 Preemption; Prohibited Local Restrictions. Ordinances inconsistent with this
+24 subdivision are preempted and shall be unenforceable to the extent of conflict. A municipality or
+25 politicalsubdivisionshallnot:
+26 I. ImposeanumericalcaponclientsmorerestrictivethanRSA674:83,II;
+27 II. Limitemployeestofamilymembersonly;
+28 III. ProhibitthesignageallowedunderRSA674:83,V;
+29 IV. BanoutdoorstorageordisplaycompliantwithRSA674:83,VI;
+30 V. Require a special exception, variance, conditional use permit, site plan review, or
+31 rezoningforahome-basedbusinessmeetingthestandardsofRSA674:82orRSA674:83;
+32 VI. Impose higher parking, landscaping, or screening standards than apply to a residence of
+33 similarsize;or
+34 VII. Prohibit or restrict Internet sales, mail order, or home-pickup beyond the standards in
+35 RSA674:83.
+36 674:85 Enforcement;Remedies.
+37 I. Enforcementunderthissubdivisionshallbecomplaint-based.
+
+HB1351 -ASINTRODUCED
+-Page3-
+1 II. A municipality shall provide written notice of violation and allow 15 calendar days for
+2 curebeforeanycitationisissued.
+3 III. Penalties shall be civil only and shall not exceed $100 per day of continuing violation
+4 afterthecureperiod. Criminalpenaltiesshallbeprohibited.
+5 674:86 Private Covenants. This subdivision shall not alter or impair private covenants or
+6 homeowners’associationrulesenforceableundercontractlaw.
+7 674:87 Appeals. An aggrieved person may appeal an adverse determination under this
+8 subdivisiontothezoningboardofadjustmentpursuanttoRSA676:5.
+9 3 Preemption. Notwithstanding any ordinance, regulation, or policy to the contrary, the
+10 provisions of this subdivision shall govern home-based businesses statewide. Any municipal
+11 ordinance, regulation, or policy in conflict with this subdivision is preempted and shall be
+12 unenforceabletotheextentofsuchconflict.
+13 4 Severability. If any provision of this act or the application thereof is held invalid, such
+14 invalidityshallnotaffectotherprovisionsorapplicationsthatcanbegiveneffectwithouttheinvalid
+15 provisionorapplication,andtothisendtheprovisionsofthisactaredeclaredtobeseverable.
+16 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

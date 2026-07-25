@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1569-FN-ASINTRODUCED
+2026SESSION
+26-2481
+05/06
+1569-FN
+HOUSEBILL
+ANACT repealing the directive that the state sell the Anna Philbrook Center for Children
+propertyinConcord.
+SPONSORS: Rep. Wallner, Merr. 19; Rep. Seibert, Hills. 21; Rep. Nagel, Belk. 6; Rep. Preece,
+Hills. 17; Rep. Stringham, Graf. 3; Rep. Erf, Hills. 28; Rep. Telerski, Hills. 11;
+Rep.M.Pearson,Rock.34;Sen.Altschiller,Dist24;Sen.Rosenwald,Dist13
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the requirement that the state sell the Anna Philbrook Center property located
+inConcord,NewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1569-FN-ASINTRODUCED
+26-2481
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the directive that the state sell the Anna Philbrook Center for Children
+propertyinConcord.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. 2025, 141:317, directing the state to sell the Anna Philbrook Center property, is
+2 repealed.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2481
+12/5/25
+HB1569-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealing the directive that the state sell the Anna Philbrook Center for Children
+propertyinConcord.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 ($5million) $0 $0
+RevenueFund(s) GeneralFund
+($75,000-
+Expenditures* $0 $0 $0
+$90,000)
+FundingSource(s) GeneralFund,OtherFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill repeals Chapter 141:317, Laws of 2025, which directs the state to sell the Anna
+Philbrook Center for Children by June 30, 2027. The budget assumed the state would collect $5
+million from the sale of the facility, which will no longer be collected should the section be
+repealed. The Department of Health and Human Services states the facility is currently being
+used as both an adult transitional housing center and as office space for approximately 40 state
+staff who perform back office functions for NH Hospital. The Department assumes that
+repealing the section will save $75,000 - $90,000 in renovation and other costs associated with
+sale of the property and movement of equipment to other locations. These savings would be a
+mixtureofgeneralandotherfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

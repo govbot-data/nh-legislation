@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER231
+HB1555-FN-FINALVERSION
+19Feb2026...0668h
+05/07/2026 1650s
+2026SESSION
+26-2830
+06/08
+1555-FN
+HOUSEBILL
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+SPONSORS: Rep. Layon, Rock. 13; Rep. Popovici-Muller, Rock. 17; Rep. Sabourin dit Choiniere,
+Rock. 30; Rep. C. McGuire, Merr. 27; Rep. Polozov, Merr. 10; Sen. Innis, Dist 7; Sen.
+Murphy,Dist16;Sen.Sullivan,Dist18
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows the state fire marshal to hear de novo appeals of local fire chief decisions within set
+timelines and grants them statewide authority to approve, deny, or allow project-specific alternatives and
+codemodificationsunderthestatebuildingcode.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER231
+HB1555-FN-FINALVERSION
+19Feb2026...0668h
+05/07/2026 1650s 26-2830
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 231:1 New Paragraph; State Boardof FireControl; Approval of Plans for Construction or Revision of
+2 all State Buildings Required. Amend RSA 153:8-a by inserting after paragraph II the following new
+3 paragraph:
+4 III. Thestatefiremarshalshallalsoberesponsibleforhearingappealsofanydecisionissuedby
+5 thelocal firechief,or thefirechief’sdulyauthorizedsubordinates, inaccordancewithRSA154:2,II. The
+6 state fire marshal shall hold a hearing within 40 days of the receipt of an appeal, unless an extension of
+7 time has been granted by the state fire marshal at the written request of one of the parties, and shall
+8 render a decision in writing within 30 days of the conclusion of the hearing. The review of the state fire
+9 marshal shall be de novo. The hearing shall not be bound by the formal rules of evidence, and the state
+10 fire marshal may consider the evidence in the record transmitted by the fire chief or such other relevant
+11 evidence as may be admitted by the state fire marshal. In considering the appeal, the state fire marshal
+12 mayaffirm,modify,orreverseanydecisionissuedpursuanttoRSA154:2,II(b). Anypartyaggrievedbya
+13 decision of the state fire marshal may appeal that decision to the building code review board in
+14 accordancewithRSA155-A:11.
+15 231:2 New Paragraph; State Building Code; Enforcement Authority. Amend RSA 155-A:7 by
+16 insertingafterparagraphVthefollowingnewparagraph:
+17 VI. The state fire marshal shall have the power to approve, disapprove, or allow alternative
+18 materials,designandmethodsofconstructionandequipmentandcodemodificationstothestatebuilding
+19 codeforallmunicipalities.
+20 231:3 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+Approved:July02,2026
+EffectiveDate:July01,2027

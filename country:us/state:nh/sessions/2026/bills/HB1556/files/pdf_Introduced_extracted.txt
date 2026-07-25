@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1556-FN-ASINTRODUCED
+2026SESSION
+26-2837
+09/08
+1556-FN
+HOUSEBILL
+ANACT relativetothecommissionofdomesticviolenceoffensesinthepresenceofachild.
+SPONSORS: Rep. Korzen, Coos 7; Rep. A. Davis, Coos 2; Rep. Love, Rock. 13; Rep. Ouellet,
+Coos3;Sen.Murphy,Dist16
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes enhanced penalties for the commission of a domestic violence offense in the
+presenceofachildunder18yearsofage,andprovidesformandatoryreportingandtrainingonsuch
+offenses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1556-FN-ASINTRODUCED
+26-2837
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecommissionofdomesticviolenceoffensesinthepresenceofachild.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownasandcitedtoasthe"SafeHome,SilentVictimsAct.”
+2 2 LegislativeFindings. Thegeneralcourtherebyfindsthat:
+3 I. Children exposed to domestic violence suffer significant psychological, emotional, and
+4 developmentalharmthatcanpersistthroughouttheirlives.
+5 II. Domestic violence committed in the presence of children constitutes a particularly
+6 egregious form of harm that warrants enhanced criminal penalties to reflect the additional victim
+7 impact.
+8 III. Enhanced penalties for crimes committed in the presence of children serve important
+9 deterrentandprotectivepurposeswhilemaintainingconstitutionalproportionality.
+10 IV. This enhancement focuses solely on the perpetrator's conduct and does not criminalize
+11 thevictimizedparent'sinabilitytopreventtheabuse.
+12 3 New Paragraph; Sentences and Limitations. Amend RSA 651:2 by inserting after paragraph
+13 II-hthefollowingnewparagraph:
+14 II-i.(a) Any person convicted of an offense under RSA 631:2-b, where the state also proves
+15 that the offense was committed in the presence of a child under 18 years of age, shall be subject to
+16 thefollowingenhancedpenalties:
+17 (1) If the underlying domestic violence offense is a class A misdemeanor, the
+18 maximumtermofimprisonmentshallbeincreasedfromoneyearto18months;
+19 (2) IftheunderlyingdomesticviolenceoffenseisaclassBfelony,theminimumterm
+20 of imprisonment shall be increased by 6 months, and the maximum term shall be increased by one
+21 year;
+22 (3) The court shall impose a mandatory minimum sentence of not less than 30 days
+23 imprisonment.
+24 (b) Asusedinthisparagraph,"inthepresenceofachild" meansthechildwasphysically
+25 present at the location where the domestic violence occurred, or was in a location where the child
+26 could reasonably be expected to see or hear the acts constituting domestic violence, regardless of
+27 whetherthechildactuallyobservedthespecificincidentofabuse.
+28 (c) Nothinginthisparagraphshallbeconstruedto:
+29 (1) Criminalizetheconductofthedomesticviolencevictim;
+30 (2) Createanypresumptionregardingthefitnessofthevictimizedparent;or
+
+HB1556-FN-ASINTRODUCED
+-Page2-
+1 (3) Require removal of the child from the care of the nonoffending parent based
+2 solelyonthecommissionoftheenhancedoffense.
+3 (d) In determining the appropriate sentence within the enhanced range, the court shall
+4 consider:
+5 (1) Theageanddevelopmentallevelofthechildpresent;
+6 (2) Thenatureandseverityofthedomesticviolenceoffense;
+7 (3) Thedefendant'spriorhistoryofdomesticviolenceorchild-relatedoffenses;
+8 (4) Thepsychologicalimpactonthechild,ifavailablethroughcompetentevidence;
+9 (5) Thedefendant'sparticipationincourt-orderedtreatmentorcounseling;
+10 (6) Any other factors relevant to the protection of children and the prevention of
+11 domesticviolence.
+12 (e) Courts shall provide information about available victim services and child trauma
+13 counseling resources to both the adult victim and any children present during sentencing
+14 proceedings.
+15 4 MandatoryReporting. AmendRSA169-C:29toreadasfollows:
+16 169-C:29 Persons Required to Report. Any physician, surgeon, county medical examiner,
+17 psychiatrist, resident, intern, dentist, osteopath, optometrist, chiropractor, psychologist, therapist,
+18 registered nurse, hospital personnel (engaged in admission, examination, care and treatment of
+19 persons),ChristianSciencepractitioner,teacher,schoolofficial,schoolnurse,schoolcounselor,social
+20 worker, day care worker, any other child or foster care worker, law enforcement official, priest,
+21 minister, or rabbi or any other person having reason to suspect that a child has been abused or
+22 neglected shall report the same in accordance with this chapter. In addition, a law enforcement
+23 official who responds to a scene where they determine that there is probable cause that a
+24 domestic violence offense, as defined by RSA 631:2-b, was committed in the presence of a
+25 child,asdefinedbyRSA651:2,II-i,shallimmediatelyreportthesame.
+26 5 Directive; Police Standards and Training Council. The police standards and training council
+27 shallincorporatetrainingonidentifyingand documentingchild presenceat domestic violence scenes
+28 within12monthsoftheeffectivedateofthisact.
+29 6 Directive; Attorney General. The attorney general shall develop guidelines for prosecutors
+30 regardingtheapplicationofthisenhancementwithin6monthsoftheeffectivedateofthisact.
+31 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2837
+12/2/25
+HB1556-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothecommissionofdomesticviolenceoffensesinthepresenceofachild.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

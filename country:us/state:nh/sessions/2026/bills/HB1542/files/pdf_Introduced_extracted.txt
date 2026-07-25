@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1542-FN-ASINTRODUCED
+2026SESSION
+26-2766
+07/05
+1542-FN
+HOUSEBILL
+ANACT relativetorenewableenergyfundcompliancepayments.
+SPONSORS: Rep. Notter, Hills. 12; Rep. Ammon, Hills. 42; Rep. Bernardy, Rock. 36; Rep.
+Berry, Hills. 44; Rep. Sabourin dit Choiniere, Rock. 30; Rep. D. Thomas, Rock. 16;
+Rep.Vose,Rock.5
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillsetsthepaymentcostforthealternativeoptiontotherenewableenergyfundto$0.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1542-FN-ASINTRODUCED
+26-2766
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetorenewableenergyfundcompliancepayments.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PublicUtilities;ElectricRenewablePortfolioStandard;RenewableEnergyFund. AmendRSA
+2 362-F:10,II(a)-(d)toreadasfollows:
+3 (a) Class I-[$55] $0, except for that portion of the class electric renewable portfolio
+4 standards to be met by qualifying renewable energy technologies producing useful thermal energy
+5 underRSA362-F:3whichshallbe[$25]$0beginningJanuary1,[2013]2027.
+6 (b) ClassII-[$55]$0.
+7 (c) ClassIII-[$31.50]$0.
+8 (d) ClassIV-[$26.50]$0.
+9 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2766
+12/3/25
+HB1542-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetorenewableenergyfundcompliancepayments.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0 Decrease Decrease
+($3.35million) ($6.7million)
+RevenueFund(s) RenewableEnergyFund
+Indeterminable Indeterminable
+Decrease Decrease
+($3.35million+) ($6.7million)
+REF REF
+Expenditures* $0 $0 Indeterminable Indeterminable
+Decrease Decrease
+($0to$420,000) ($420,000)GF,
+GF,HF,Various HF,Various
+AgencyFunds AgencyFunds
+RenewableEnergyFund,GeneralFund,HighwayFundandVariousAgency
+FundingSource(s)
+Funds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 Indeterminable Indeterminable
+METHODOLOGY:
+This bill amends RSA 362-F:10 to set the Alternative Compliance Payment (ACP) rate for all
+Renewable Portfolio Standard (RPS) classes—Class I, II, III, and IV—to $0, effective January 1,
+2027.
+
+The Department of Energy states ACPs are the payments electric service providers must make
+when they cannot procure sufficient Renewable Energy Certificates (RECs) for annual
+compliance. Under current law, ACPs constitute the sole revenue source of the Renewable
+Energy Fund (REF), which is used to support renewable energy programs, including required
+grants for non-residential projects and low-moderate income community solar initiatives.
+Average ACP revenue into the REF over the past five years has been approximately $6.7 million
+per year. Setting ACP rates to $0 eliminates the ceiling price in the REC market and removes
+any penalty for non-compliance with the RPS. The Department of Energy states this change
+would effectively collapse the REC market, result in electricity providers stopping REC
+purchases or retirements, and reduce REF revenue to $0 mid year in FY 2028. With the REF
+eliminated as a funding source, all REF-funded programs including rebate programs,
+competitive grant programs, low-moderate income solar programs, and statutorily required
+initiativeswouldceaseunlessfundedbyfuturelegislativeappropriations.
+The Department of Energy reports that nine full-time positions across the Sustainable Division,
+Office of Energy Innovation, Division of Administration, and Policy and Programs Division are
+currently funded entirely from the REF. These positions support REC certification, RPS
+compliance review, group net-metering application processing, RPS-related rulemaking,
+administration of all REF grant and rebate programs, and oversight of low-moderate income
+initiatives. WithREFrevenueeliminated,thesepositionswouldnolongerhaveafundingsource
+andwouldneedtobeeliminated. TheREFexpendedonpositionsrangesbetween$1.5millionto
+$2.0million.
+The bill may decrease electricity costs for the State of New Hampshire and other ratepayers
+because providers would no longer incur REC procurement or ACP costs. Based on the
+Department of Administrative Services’ consumption data, the State uses roughly 77,000 MWh
+annually. Using the five-year average compliance rate cost of $0.0054/kWh, the State’s
+electricity costs could decrease by roughly $420,000 per year. The Department notes that long-
+term economic effects particularly from declining renewable-energy sector activity are
+indeterminable without a detailed economic study. County and municipal impacts are
+indeterminable because the Department does not have consumption data for those entities,
+thoughreductionsinelectricitycostswouldlikelyoccursimilartotheState.
+AGENCIESCONTACTED:
+DepartmentofEnergy

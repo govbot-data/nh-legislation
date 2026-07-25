@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1631-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0713h
+2026SESSION
+26-3003
+09/08
+1631-FN
+HOUSEBILL
+ANACT relative to the contents of the attorney general's annual report detailing state
+forfeitureinformationfortheprecedingfiscalyear.
+SPONSORS: Rep. Popovici-Muller, Rock. 17; Rep. Wheeler, Hills. 33; Rep. Lynn, Rock. 17; Rep.
+D. McGuire, Merr. 14; Rep. McFarlane, Graf. 18; Rep. Corcoran, Hills. 28; Rep.
+Slottje,Hills.13;Sen.Murphy,Dist16
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill changes the requirements for the annual report from the attorney general concerning
+forfeituresofpersonalproperty.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1631-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0713h 26-3003
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the contents of the attorney general's annual report detailing state
+forfeitureinformationfortheprecedingfiscalyear.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ForfeituresofPersonalProperty;Report. AmendRSA617:12,Itoreadasfollows:
+2 I. The attorney general, no later than 120 days after the close of the fiscal year, shall post a
+3 disaggregated report on the department of justice website detailing completed state forfeiture
+4 activity[,] for the preceding fiscal year, including [the type, approximate value, and disposition of
+5 each property seized, and the amount of any proceeds received or expended at the state and local
+6 levels. The report shall provide a categorized accounting of all proceeds expended.] the following
+7 information:
+8 (a) Name of the law enforcement agency that seized the property or the name of
+9 theleadagency,ifthepropertyisseizedbyamulti-jurisdictionaltaskforce;
+10 (b) Dateoftheseizure;
+11 (c) Type of property seized, except that reporting is not required for seized
+12 contrabandincludingalcohol,drugparaphernalia,andcontrolledsubstances;
+13 (d) Placeofseizurepostalzipcode;
+14 (e) Criminal offense alleged that led to the seizure (including whether under
+15 stateorfederallaw);
+16 (f) Crime for which suspect was charged (including whether under state or
+17 federallaw);
+18 (g) The outcome of suspect’s criminal case, if available: no charge was filed,
+19 chargesdropped,acquittal,pleaagreement,conviction,ongoing,orother;
+20 (h) Thedatethattheforfeitureproceedingiscompleted;and
+21 (i) Total value of property forfeited under state law, excluding the value of
+22 contraband, and including currency, proceeds from sale of non-currency property, and
+23 distributionsreceivedfromthefederalgovernment.
+24 I-a. Reported data [on seizures, forfeitures, and expenditures of forfeiture proceeds] shall
+25 beprovidedbythelawenforcementagencyindisaggregatedformtotheattorneygeneral.
+26 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3003
+Revised4/7/26
+HB1631-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0713h)
+ANACT relative to the contents of the attorney general's annual report detailing state
+forfeitureinformationfortheprecedingfiscalyear.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $99,000 $100,000 $103,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill changes the requirements for the annual report from the attorney general concerning
+forfeitures of personal property. The Department of Justice states by expanding the reportable
+data requirements pertaining to drug forfeiture matters. The Department notes they will likely
+need a full time paralegal (23-2010 PARALGLS-LGL ASSTS-5 SOC23-04) at a cost of $99,000
+includingfit up costs, for FY 2027, $100,000in FY 2028, and $103,000in FY 2029, tocollate and
+reportthemandatedinformation.
+It is assumed if the position requested in this bill is authorized, the Department would include
+thecostofthepositionforFY2028andFY2029intheirFY2028andFY2029budgetrequest.
+AGENCIESCONTACTED:
+DepartmentofJustice

@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1241 -ASINTRODUCED
+2026SESSION
+26-3107
+09/05
+1241
+HOUSEBILL
+ANACT relative to the calculation of income for purposes of support orders in divorce
+proceedings.
+SPONSORS: Rep. Barton, Graf. 1; Rep. Farrington, Straf. 8; Rep. Spillane, Rock. 2; Rep.
+DeRoy,Straf.3
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill amends the definition of gross income for purposes of support orders in divorce
+proceedings, and prohibits gross income calculations from using overtime compensation, secondary
+employmentearnings,orotherincomederivedfromsourcesoutsideofprimaryemployment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1241-ASINTRODUCED
+26-3107
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the calculation of income for purposes of support orders in divorce
+proceedings.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Alimony;Definitions. RSA458:19,Visrepealedandreenactedtoreadasfollows:
+2 V. “Gross income” means income from the primary occupation of a parent, including wages,
+3 salary, commissions, or self-employment earnings regularly received in the ordinary course of that
+4 primary occupation. “Gross income” shall not include overtime compensation, earnings from
+5 secondaryemployment,orincomederivedfromsourcesoutsideoftheparent’sprimaryoccupation.
+6 2 Child Support Guidelines; Definitions. RSA 458-C:2, IV is repealed and reenacted to read as
+7 follows:
+8 IV. “Gross income” means income from the primary occupationof a parent, including wages,
+9 salary, commissions, or self-employment earnings regularly received in the ordinary course of that
+10 primary occupation. “Gross income” shall not include overtime compensation, earnings from
+11 secondaryemployment,orincomederivedfromsourcesoutsideoftheparent’sprimaryoccupation.
+12 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

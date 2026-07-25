@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1236-FN-ASINTRODUCED
+2026SESSION
+26-3039
+09/06
+1236-FN
+HOUSEBILL
+ANACT relativetorecordingsofcustodialinterrogations.
+SPONSORS: Rep.Scherr,Rock.26
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires custodial interrogations to be recorded and precludes admissibility of
+unrecordedcustodialinterrogationsincriminalorjuvenilemattersabsentareasonablejustification.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1236-FN-ASINTRODUCED
+26-3039
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetorecordingsofcustodialinterrogations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Recording of Custodial Interrogations. Amend RSA by inserting after chapter
+2 594thefollowingnewchapter:
+3 CHAPTER594-A
+4 RECORDINGOFCUSTODIALINTERROGATIONS
+5 594-A:1 Electronic Recording of Interrogations. Except as otherwise provided in RSA 594-A:2,
+6 all custodial interrogations shall be recorded electronically in their entirety. Except as provided in
+7 RSA 594-A:2, all statements made by a person during a custodial interrogation that are not
+8 electronically recorded shall be inadmissible as evidence against the person in any criminal or
+9 juveniledelinquencyproceedingbroughtagainsttheperson.
+10 594-A:2 Overcoming thePresumption of Inadmissibility. The presumptionof inadmissibility of
+11 statements provided in 594-A:1 may be overcome, and statements that were not electronically
+12 recorded may be admitted into evidence in a criminal or juvenile delinquency proceeding brought
+13 against the person, if the court finds that the statements are otherwise admissible under applicable
+14 rules of evidence and law enforcement personnel provide a reasonable justification, including a
+15 summary and documentation of the surrounding facts and circumstances, explaining the lack of
+16 recording.
+17 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3039
+10/27/25
+HB1236-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetorecordingsofcustodialinterrogations.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund,HighwayFund,andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill, effective January 1, 2027, requires custodial interrogations to be recorded and
+precludes admissibility of unrecorded custodial interrogations in criminal or juvenile matters,
+absent a reasonable justification. Based on information provided by the Department of Safety,
+Department of Corrections, New Hampshire Association of Counties, and New Hampshire
+Municipal Association, there may be costs at all levels (state, local, and county) for law
+enforcement agencies to adequately record all custodial interrogations. Potential costs include
+equipment, information technology, and training. Potential costs would vary by agency,
+dependingonthepoliciestheycurrentlyhaveinplace.
+AGENCIESCONTACTED:
+Department of Safety, Department of Corrections, New Hampshire Association of Counties, and
+NewHampshireMunicipalAssociation

@@ -1,0 +1,613 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0965h
+2026SESSION
+26-2520
+08/09
+1189-FN
+HOUSEBILL
+ANACT establishingasolidwastesiteevaluationcommittee.
+SPONSORS: Rep. Bixby, Straf. 13; Rep. J. Aron, Sull. 4; Rep. Barbour, Hills. 35; Rep. N.
+Germana, Ches. 15; Rep. Gruber, Ches. 16; Rep. Haskins, Rock. 11; Rep. Potenza,
+Straf.19;Rep.J.Sullivan,Graf.2;Sen.Rochefort,Dist1
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesasolidwastesiteevaluationcommittee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0965h 26-2520
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingasolidwastesiteevaluationcommittee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Solid Waste Site Evaluation Committee. Amend RSA 149-M by inserting
+2 aftersection64thefollowingnewsubdivision:
+3 SolidWasteSiteEvaluationCommittee
+4 149-M:65 DeclarationofPurpose.
+5 I. The legislature and the executive branch recognize that the selection of sites for major
+6 solid waste disposal facilities may have significant statewide, regional, and local impacts that are
+7 notfullyevaluatedthroughexistingregulatoryreview.
+8 II. Accordingly, the general court finds that it is in the public interest to establish a
+9 procedure to evaluate the local, regional, and statewide benefits and burdens of a new major solid
+10 waste facility that are not captured by existing regulatory reviews, including noise, odor, aesthetics,
+11 local and regional economic impacts, property value impacts, nature and source of waste, need,
+12 impactsontourism,recreationandtraffic,andothersimilarimpacts.
+13 III. Furthermore, the general court recognizes there is a compelling state interest in
+14 maintaining adequate, reasonably priced, and environmentally protective disposal capacity for solid
+15 wastegeneratedinNewHampshire.
+16 IV. The general court prefers that new landfill capacity be developed in expansions of
+17 existingpermittedlandfillsorbrownfieldsitesinsteadofongreenfieldsites.
+18 149-M:66 Definitions. Inthissubdivision:
+19 I. “Acceptance” means a determination by the committee that it finds that the application is
+20 completeandreadyforconsideration.
+21 II. “Administrator” means the administrator of the site evaluation committee established
+22 pursuanttoRSA162-H:3-a.
+23 III. “Affected municipality” means any municipality or unincorporated place in which any
+24 part of a major solid waste disposal facility is proposed to be located and any municipality or
+25 unincorporated place from which any part of the proposed major solid waste disposal facility will be
+26 visibleoraudible,includingoff-sitetrafficimpacts.
+27 IV. “Certificate” means the document issued by the committee, containing such terms and
+28 conditions as the committee deems appropriate, that authorizes the applicant to proceed with the
+29 proposedsiteandfacility.
+30 V. “Commence construction” means any clearing of the land, excavation or other substantial
+31 actionthatwouldresultinlong-termimpactstothesiteoftheproposedfacility,butdoesnotinclude
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 land surveying, optioning or acquiring land or rights in land, changes desirable for temporary use of
+2 the land for public recreational uses, necessary subsurface explorations to determine hydrogeologic
+3 and soil conditions, work required as part of an application to any federal, state, or local authority,
+4 or other preconstruction monitoring or testing to establish background information related to the
+5 suitabilityofthesitefortheproposeduse.
+6 VI. “Committee” means the solid waste evaluation committee established by this
+7 subdivision.
+8 VII. “Department”meansthedepartmentofenvironmentalservices.
+9 VIII. “Major solid waste disposal facility” means a location, system, or physical structure for
+10 the collection, separation, storage, transfer, processing, treatment, or disposal of solid waste with a
+11 proposed waste acceptance rate greater than 100,000 tons per year. "Major solid waste disposal
+12 facility" does not include a facilitydesigned tomanage food wastein accordancewith RSA 149-M:27,
+13 V(b)(1)-(5),oranyfacilityproposedtobeconstructedbyaNewHampshiremunicipalgovernment.
+14 IX. “Filing”meansthedateonwhichtheapplicationisfirstsubmittedtothecommittee.
+15 X. “Person” means any individual, group, firm, partnership, corporation, cooperative,
+16 municipality,politicalsubdivision,governmentagency,orotherorganization.
+17 149-M:67 SolidWasteEvaluationCommitteeEstablished.
+18 I. There is hereby established a committee to be known as the New Hampshire solid waste
+19 siteevaluationcommitteeconsistingof7members,asfollows:
+20 (a) The chairperson of the waste management council established under RSA 21-O:9.
+21 who shall serve as chairperson of the committee. If there is an appeal pending before the waste
+22 management council related to the major solid waste disposal facility, then the chairperson of the
+23 wetlandscouncil, water council, orair resources council established underRSA21-O, selected bythe
+24 commissionerofthedepartment,shallserveonthecommitteeandaschairpersonofthecommittee.
+25 (b) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+26 (c) Thecommissionerofthedepartmentofenvironmentalservices,ordesignee.
+27 (d) Four members and, when required by RSA 149-M:68, an alternate member,
+28 appointed by the governor with the consent of the executive council, including a member who serves
+29 on a local conservation commission, a member who has expertise in the private waste management
+30 industry, a member with expertise in municipal planning and one with expertise or experience in
+31 environmentalprotection,health,orscience.
+32 (e) At any given time, there shall not be more than 2 members of the committee with
+33 current or past employment, contract work, or consulting services in the private waste management
+34 industry.
+35 (f) Nomemberofthecommitteemaybeanemployeeorcontractorofanentitythatowns
+36 or operates an existing or planned major solid waste disposal facility or an entity that has applied to
+37 ownoroperateamajorsolidwastedisposalfacility.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 II. All members, including those who sit for a member recused under RSA 149-M:68, shall
+2 refrain from ex parte communications regarding any matter pending before the committee. A
+3 majority of the members of the committee shall constitute a quorum for the purpose of conducting
+4 thecommittee’sbusiness.
+5 III. The committee shall be administratively attached to the department of environmental
+6 services.
+7 IV. Thechairpersonshallserveasthechiefexecutiveofthecommitteeandmay:
+8 (a) Serveaspresidingofficer.
+9 (b) Delegatetoothermembersthedutiesofthepresidingofficer,asappropriate.
+10 (c) Establish, with the consent of the committee, the budgetary requirements of the
+11 committee.
+12 (d) Engagepersonnelinaccordancewiththischapter.
+13 V. The presiding officer may appoint a hearing officer to perform the functions described in
+14 RSA149-M:70,V.
+15 149-M:68 MembersAppointedByTheGovernorWithTheConsentOfCouncil.
+16 I. Members and alternate members appointed under RSA 149-M:67, I(c) and (d) shall serve
+17 4-year terms and until their successors are appointed and qualified. Any member chosen to fill a
+18 vacancyoccurringotherthanbyexpirationofatermshallbeappointedfortheunexpiredtermofthe
+19 memberwhoissucceeded.
+20 II. If at any time the member appointed by the governor with the consent of the executive
+21 council must recuse himself or herself from a matter before the committee or is not otherwise
+22 availableforgoodreason,thealternatemembershallreplacesuchmember.
+23 III. No member nor any member of his or her family shall receive income from entities that
+24 own or operate, or have applied to own or operate, major solid waste disposal facilities in New
+25 Hampshire. The members appointed by the governor with the consent of the executive council and
+26 theiralternatesshallcomplywithRSA15-AandRSA15-B.
+27 IV. Anymember appointed by thegovernor withthe consent of theexecutive council may be
+28 removedfromofficeinaccordancewithRSA4:1.
+29 149-M:69 Administrator and Other Committee Support. The administrator shall provide
+30 support to the committee. If the administrator is not available or the position is vacant, the
+31 committee may hire an independent contractor at the expense of the applicant. The administrator
+32 shall be under the supervision of the chairperson when performing duties for the committee. The
+33 administrator shall be compensated for work performed for the committee as set forth in RSA 149-
+34 M:85. The administrator, or chairperson in the absence of an administrator, with committee
+35 approval, may engage additional technical, legal, or administrative support to fulfill the functions of
+36 thecommitteeasnecessary.
+37 149-M:70 PowersandDutiesoftheCommittee;Rules.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 I. Thecommitteeshall:
+2 (a) Evaluateandissueanycertificateunderthischapterforamajorsolidwaste
+3 disposalfacility.
+4 (b) Determinethetermsandconditionsofanycertificateissuedunderthischapter.
+5 (c) Adjudicateenforcementmatters.
+6 (d) Assistthepublicinunderstandingtherequirementsofthischapter.
+7 (e) Denyapplicationsforacertificatebasedonsuchfindingsandrulingsasmaybe
+8 necessarytosupportitsdecisiontodeny.
+9 (f) Executethegeneralcourt'sstatedpreferencethatnewlandfillcapacityshallbebased
+10 onneedandshallonlybedevelopedinaccordancewithRSA149-M:65,IV.
+11 II. The committee shall hold hearings as required by this chapter and such additional
+12 hearings as it deems necessary and appropriate and, in addition to the requirements under RSA 91-
+13 A,ensureadequateandtimelypublicnoticeofnolessthan7calendardays.
+14 III. The committee may delegate to the administrator or such state agency or official as it
+15 deems appropriate the authority to specify the use of any technique, methodology, practice, or
+16 procedure approved by the committee within a certificate issued under this chapter, or the authority
+17 to specify minor changes in the major solid waste disposal facility configuration to the extent that
+18 suchchangesareauthorizedbythecertificateforthoseportionsofaproposedmajorsolidwaste
+19 disposalfacilityproject.
+20 IV. The committee shall not delegate its authority or duties except as provided under this
+21 subdivision.
+22 V. In any matter before the committee, the presiding officer, or a hearing officer designated
+23 by the presiding officer, may hear and decide procedural matters that are before the committee,
+24 including procedural schedules, consolidation of parties with substantially similar interests,
+25 discovery schedules and motions, and identification of significant disputed issues for hearing and
+26 decision by the committee. Undisputed petitions for intervention may be decided by the hearing
+27 officer and disputed petitions shall be decided by the presiding officer. Any party aggrieved by a
+28 decision on a petition to intervene may within 10 calendar days request that the committee review
+29 suchdecision. Otherproceduraldecisionsmaybereviewedbythecommitteeatitsdiscretion.
+30 VI. Thecommitteeshallissuesuchrulestoadministerthischapter,pursuanttoRSA541-A,
+31 afterpublicnoticeandhearing,asmayfromtimetotimeberequired.
+32 149-M:71 ProhibitionsandRestrictions.
+33 I. No person shall commence construction of any major solid waste disposal facility within
+34 the state unless it has obtained a certificate pursuant to this chapter. Such facilities shall be
+35 constructed, operated, and maintained in accordance with the terms of the certificate and any other
+36 federal, state, or local permits or approvals. Such certificates are not required for changes or
+37 additions to existing facilities unless they propose an increase in existing permitted annual
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 throughput of greater than or equal to 50,000 tons per year. Such a certificate shall not be
+2 transferred or assigned without approval of the committee. Unless otherwise specified in this
+3 chapter, any approved major solid waste facility shall not be constructed, operated, or closed in a
+4 manner materially different than the manner in which it was presented in the application for a
+5 certificateasmodifiedandconditionedbysuchcertificate.
+6 II. Notwithstanding RSA 541-A:29 or any other law to the contrary, an application for a
+7 certificate from the committee shall be approved or denied by the committee prior to final decisions
+8 on all other state agency permit applications. Applications for certificates may be filed and
+9 evaluated by the committee concurrently with other state approvals and public hearings may be
+10 scheduledconcurrentlywithhearingsheldbyotherstateagenciesaspartoftheirpermittingprocess
+11 forthesamefacility.
+12 III. Notwithstanding paragraph II, for facilities under review by the department for a
+13 permit on or prior to July 1, 2026, an application for a certificate from the committee shall be
+14 approved or denied after other state agency approvals have been obtained. The committee need not
+15 assess technical questions already considered by other states or federal agencies, but shall take into
+16 account the conclusions of these analyses, including permit terms and conditions, in its approval or
+17 denial of the certificate. The committee may also take into account independent analyses in its
+18 processofapprovalordenialofthecertificate.
+19 149-M:72 ApplicationforCertificate.
+20 I. All applications for a certificate for a major solid waste disposal facility shall be filed with
+21 theadministratororthechairofthecommittee.
+22 II. Upon filing of an application, the chairperson or designated presiding officer shall
+23 expeditiously conduct a preliminary review to ascertain if the application contains sufficient
+24 information to carry out the purposes of this chapter. If the application does not contain such
+25 sufficient information, thechairperson or designated presidingofficer shall, in writing, expeditiously
+26 notifytheapplicantofthatfactandspecifywhatinformationtheapplicantmustsupply.
+27 III. Tocarryoutthecommittee’sdutiesinRSA149-M:70,eachapplicationshall:
+28 (a) Describe in reasonable detail the types and quantities of waste and their
+29 characteristicsproposedtobeacceptedandsizeofeachmajorpartoftheproposedfacility.
+30 (b) Describe in reasonable detail the source of waste to be accepted and if there is a
+31 preferenceforwasteoriginatingwithinthestateofNewHampshire.
+32 (c) Describe how the proposed facility satisfies the criteria listed under RSA 149-M:11,
+33 III.
+34 (d) Identify both the applicant’s preferred choice and other alternatives it considers
+35 availableforthesiteandconfigurationofeachmajorpartoftheproposedfacilityandthereasonsfor
+36 theapplicant’spreferredchoice.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page6-
+1 (e) Describeinreasonabledetailtheimpactofeachmajorpartoftheproposedfacilityon
+2 existinglocal,regional,andstatelanduses.
+3 (f) Document that written notification of the proposed project, including appropriate
+4 copies of the application, has been given to the appropriate governing body of each affected
+5 municipality, as defined in RSA 149-M:66, III. The application shall include a list of the affected
+6 municipalities.
+7 (g) Provide analysis on the local, regional, and statewide visual impact of the proposed
+8 facilityduringconstruction, operation, and post-closure and thevisual impacts as evaluated through
+9 a visual impact assessment prepared in accordance with professional standards by an expert in the
+10 field.
+11 (h) Provide information in reasonable detail about the impacts on local, regional and
+12 state property values, human health, tourism, outdoor recreation, wildlife, traffic, noise, and odor by
+13 the proposed facility. These analyses shall be conducted in accordance with professional standards
+14 byanexpertinthesefields.
+15 (i) Provide a reasonable amount of information relative to how new contaminants of
+16 concern not regulated by a permit issued by the department will be monitored, evaluated, and
+17 managedovertheproposedlifeofthefacility.
+18 (j) Provide a reasonable amount of information relative to the potential economic harms
+19 of the proposed project on the local area, affected municipalities, the region, the state, and potential
+20 infrastructuredeterioration.
+21 (k) Provide a reasonable amount of information relative to the potential economic
+22 benefits of the proposed project on the local area, affected municipalities, the region, the state, and
+23 potentialinfrastructureimprovements.
+24 (l) Providesuchadditionalinformationasthecommitteemayrequireor requesttocarry
+25 outthepurposeofthischapter.
+26 IV. To the extent any information provided in the application was submitted and considered
+27 by a state agency as part of its permitting evaluation and decision under RSA 149-M:71, III, the
+28 applicant shall specify what information was so considered and the statutory and regulatory
+29 authorityforthatagency’sconsiderationoftheinformation.
+30 V. For all information submitted with the application that was prepared by an outside
+31 consultant or expert, the applicant shall submit the qualifications of such consultants or experts to
+32 preparesuchinformation.
+33 VI. The committee shall require the applicant to hire an independent third party at the
+34 expense of the applicant and agreed upon by the committee in consultation with the municipality
+35 where the facility is proposed to be located, to peer review any assessments provided under this
+36 section.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page7-
+1 VII. The chairperson or designated presiding officer shall decide whether to accept the
+2 application as administratively complete within 60 days of filing. If the chairperson or designated
+3 presiding officer rejects an application because it determines it to be administratively incomplete,
+4 the applicant may choose to file a new and more complete application or cure the defects in the
+5 rejectedapplicationwithin10daysofreceiptofnotificationofrejection.
+6 VIII. PublicinformationsessionsshallbeheldinaccordancewithRSA149-M:76.
+7 IX. Within 180 days of the acceptance of an application, the committee shall issue or deny a
+8 certificatefortheproposedmajorsolidwastedisposalfacility.
+9 X. The applicant shall immediately inform the committee of any substantive modification to
+10 itsapplication.
+11 XI. Thecommitteemayrequestthatstateagencieswithrelevanttechnicalexpertise
+12 participateincommitteeproceedings.
+13 XII. The department shall conduct a review of the application information submitted
+14 pursuanttoRSA149-M:72,III(c)todeterminewhetherthefacilityhasdemonstratedthatitsatisfies
+15 thecriteriainRSA149-M:11,III. SuchreviewshallbeconductedinaccordancewithRSA149-M:11.
+16 Thedepartmentshallreportitsfindingstothecommitteeinordertoinformthecommittee’sdecision
+17 ontheapplication.
+18 XIII. The committeemaydenyacertificatebased uponthedepartment's findingsinrelation
+19 toRSA149-M:11,III.
+20 XIV.ThecommitteemaydenyacertificatebaseduponthecriteriainRSA149-M:9,IX.
+21 XV. A state agency may intervene as a party in any committee proceeding in the same
+22 mannerasotherpersonsunderRSA541-A.
+23 149-M:73 Disclosure of Ownership. Any application for a certificate, or for change in ownership
+24 and transfer of certificate, shall be signed and sworn to by the person or executive officer of the
+25 associationorcorporationmakingsuchapplicationandshallcontainthefollowinginformation:
+26 I. Fullnameandaddressoftheperson,association,orcorporation.
+27 II. If an association or limited liability company, the name of the state under which it was
+28 formedandthenamesandresidencesofthemembersoftheassociationorlimitedliabilitycompany.
+29 III. If a corporation, the name of the state under which it is incorporated with its principal
+30 placeofbusinessandthenamesandaddressesofitsdirectors,officers,andstockholders.
+31 IV. If doing business in a form other than as an association, limited liability company, or
+32 corporation, the form of the business, the name of the state under which it was formed, and the
+33 namesandresidencesofanyonewithafinancial,ownership,orcontrolinterestintheorganization.
+34 V. Thelocationorlocationswhereanapplicantistoconductitsbusiness.
+35 VI. A statement of assets and liabilities of the applicant and other relevant financial
+36 informationofsuchapplicant.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page8-
+1 VII. The committee shall administratively approve changes of ownership and transfers of
+2 certificates within 90 days of a petition if it determines the new certificate holder has adequate
+3 financial, technical, and managerial capability to assure construction and operation of the facility in
+4 continuing compliance with the terms and conditions of the certificate and any federal, state, and
+5 localpermits.
+6 149-M:74 ApplicationandFilingFees.
+7 I. A person filing with the committee an application for a certificate for a major solid waste
+8 disposal facility shall pay to the committee at the time of filing a fee determined in accordance with
+9 the fee schedule described in paragraph II. If an application for a certificate for a major solid waste
+10 disposal facility is deemed incomplete pursuant to RSA 149-M:72, VII, and a new application is
+11 submitted thereunder, the unused portion of the initial application fee shall be refunded to the
+12 applicant or credited to the filing of the new application. The committee may in its discretion
+13 provideforacreditorrefundinothercircumstancesthatareunforeseenbytheapplicant.
+14 II. The fees under paragraph I shall be determined in accordance with a fee schedule posted
+15 bythecommitteeonitswebsite,whichshallincludethefollowingamounts:
+16 (a) Application fee for a major solid waste disposal facility: $20,000 base charge and
+17 $1,000peradditional10,000tons/yearthroughputinexcessof100,000tonsperyear.
+18 (b) Filingfeesforadministrativeproceedings:
+19 (1) Petitionforcommitteejurisdiction: $500.
+20 (2) Certificatetransferofownership: $1,000.
+21 (3) Requesttomodifyacertificate: $1,000.
+22 III. All fee charges shall be deposited in the solid waste evaluation committee fund
+23 establishedinRSA149-M:84andshallbenonlapsingandaccountedforasaseparatelineitem.
+24 IV. The committee shall review and evaluate the application fees and filing fees in the fee
+25 schedule in subparagraphs II(a) and (b) at least once each year. The committee may increase any
+26 amount in the fee schedule by no more than the increase in the consumer price index from the prior
+27 year, provided that any such increase shall occur not more frequently than once during any 12-
+28 monthperiod. Modificationstothefeescheduleshallbepostedonthecommitteewebsite,witha
+29 linkprominentlydisplayedonthehomepage.
+30 V. If the committee determines the cost of committee proceedings for an application
+31 significantlyexceedthefilingfeespaidbytheapplicantforthatapplication,theadditionalcostshall
+32 bebornebytheapplicantorcertificateholderinsuchamountasmaybeapprovedbythecommittee.
+33 149-M:75 CounselforthePublic.
+34 I. An application for a certificate under this subdivision shall be served contemporaneously
+35 by the applicant upon the attorney general. Upon receipt of such an application, the attorney
+36 general shall appoint an assistant attorney general as counsel for the public in connection with the
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page9-
+1 committee’sconsiderationoftheapplication. Counselforthepublicshallbedeemedtorepresentthe
+2 publicasapartytotheproceedingsbeforethecommittee.
+3 II. This section shall not be construed to prevent any person from being heard or
+4 represented by counsel; provided, however, the committee may compel consolidation of
+5 representation for such persons as have, in the committee’s reasonable judgment, substantially
+6 identicalinterests.
+7 149-M:76 PublicHearing;Studies.
+8 I. Notice of any project for which an application for a certificate has been submitted shall be
+9 issuedpursuanttoRSA36:56,III.
+10 II. At least 30 days prior to filing an application for a certificate, an applicant shall hold at
+11 least one public information session in the affected municipality where the proposed facility is to be
+12 located. This session may be held concurrently with a public session held as a requirement of any
+13 otherstatepermitorapproval.
+14 III. The committee may order the applicant to provide such additional public information
+15 sessionsinaffectedmunicipalitiesasarereasonabletoinformthepublicoftheproposedproject.
+16 IV. Within 90 days after acceptance of an application for a certificate, the committee shall
+17 hold at least one public information session in each municipality where the proposed facility is
+18 proposedtobelocated.
+19 V. Subsequent public hearings shall be in the nature of adjudicative proceedings under RSA
+20 541-A and shall be held in the municipality in which the proposed facility is to be located or in
+21 Concord, New Hampshire, as determined by the committee. The committee shall give adequate
+22 publicnoticeofthetimeandplaceofeachsubsequenthearing.
+23 VI. The committee shall adopt rules regarding the timing and method of notices for public
+24 information sessions and public hearings, and any other requirements regarding such sessions and
+25 hearings.
+26 VII. The committee shall consider and weigh all evidence presented at public hearings and
+27 shall consider and weigh written information and reports submitted to it by members of the public
+28 prior to the closing of the record of the proceeding. The committee shall provide an opportunity at
+29 oneor morepublichearings for comments fromthegoverningbodyofeachaffected municipalityand
+30 residents of each affected municipality. The committee shall consider, as appropriate, prior
+31 committee findings and rulings on the same or similar subject matters, but shall not be bound
+32 thereby.
+33 VIII. The solid waste evaluation committee shall require from the applicant whatever
+34 information it deems necessary to assist in the conduct of the hearings, and any investigation or
+35 studies it may undertake, and in the determination of the terms and conditions of any certificate
+36 underconsideration.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page10-
+1 IX. The committee and counsel for the public shall conduct such reasonable studies and
+2 investigations as they deem necessary or appropriate to carry out the purposes of this chapter and
+3 may employ a consultant or consultants, legal counsel, and other staff in furtherance of the duties
+4 imposed by this chapter, the cost of which shall be borne by the applicant or certificate holder in
+5 such amount as may be approved by the committee. The committee and counsel for the public are
+6 further authorized to assess the applicant or certificate holder for all travel and related expenses
+7 associatedwiththeprocessingofanapplicationorotherproceedingsunderthischapter.
+8 X. Times for conducting public hearings and rendering a decision on the application may be
+9 extendedforgoodcauseuponwrittenrequestoftheapplicant.
+10 149-M:77 Judicial Review. Decisions made pursuant to this chapter shall be appealed in
+11 accordancewithRSA541.
+12 149-M:78 MonitoringandEnforcement.
+13 I. The department shall monitor the construction and operation of any major solid waste
+14 disposal facility granted a certificate under this chapter, after all other subsequent approvals are
+15 obtained, to ensure compliance with such certificate and enforce the terms and conditions of any
+16 such certificate. With the exception of the authority retained by the state agencies in accordance
+17 with paragraph V, the department may delegate the authority to monitor the construction or
+18 operation of any major solid waste disposal facility granted a certificate under this chapter to such
+19 state agency or official as it deems appropriate but shall ensure that the terms and conditions of the
+20 certificate are met. Any authorized representative or delegate of the department shall have a right
+21 of entry ontothe premises of anypart of the solid waste generationfacility toascertain if the facility
+22 is being constructed or operated in continuing compliance with the terms and conditions of the
+23 certificate. Duringnormalhours ofbusinessadministrationandonthepremisesofthefacility, such
+24 arepresentativeordelegateshallalsohavearighttoinspectsuchrecordsofthecertificateholderas
+25 arerelevanttothetermsorconditionsofthecertificate.
+26 II. Whenever the department administratively determines, on its own or in response to a
+27 complaint, that any term or condition of any certificate issued under this chapter or prior law is
+28 being violated, it shall, in writing, notify the certificate holder of the specific violation and order the
+29 person to immediately terminate the violation. If, 15 days after receipt of the order, the person has
+30 failed or neglected to terminate the violation, the department shall notify the committee, which may
+31 suspend the person’s certificate. In addition to suspension, if, after 15 days of receipt of the order,
+32 thepersonhas failed or neglected toterminatetheviolation, thecommittee mayimposeafine not to
+33 exceed $5,000 per day until the violation is corrected. Except for emergencies, prior to any
+34 suspension or imposition of a fine, the committee shall give written notice of its consideration of
+35 suspension or imposition of a fine and of its reasons therefor and shall provide opportunity for a
+36 prompthearing.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page11-
+1 III. In addition to other remedies provided in this chapter, upon petition of the department,
+2 the committee may suspend a certificate if the committee determines that a person has made a
+3 material misrepresentation in the application, or in the supplemental or additional statements of
+4 fact,orstudiesrequiredoftheapplicant,orifthecommitteedeterminesthatthepersonhasviolated
+5 the provisions of this chapter, or any rule adopted under this chapter. Except for emergencies, prior
+6 to any suspension, the committee shall give written notice of its consideration of suspension and of
+7 itsreasonsthereforandshallprovideanopportunityforaprompthearing.
+8 IV. Upon petition of the department, the committee may revoke any certificate that is
+9 suspendedafterthepersonholdingthesuspendedcertificatehasbeengivenatleast90days’written
+10 notice of the committee’s consideration of revocation and of its reasons therefor and has been
+11 providedanopportunityforafullhearing.
+12 V. Notwithstandinganyotherprovisionofthischapter,eachstateagencyhavingpermitting
+13 orotherregulatoryauthorityshallretainallofitspowersanddutiesofenforcement.
+14 VI. The full amount of costs and expenses incurred by the department and committee in
+15 connectionwithanyenforcementactionagainst apersonholdingacertificate, inwhichthepersonis
+16 determined to have violated any provision of this chapter, any rule adopted by the department or
+17 committee, or any of the terms and conditions of the issued certificate, shall be assessed to the
+18 person and shall be paid by the person to the committee. Any amounts paid by a person to the
+19 committee pursuant to this paragraph shall be deposited in the solid waste evaluation committee
+20 fundestablishedinRSA149-M:84.
+21 VII. The department may adopt rules in furtherance of its monitoring and enforcement
+22 responsibilitiesunderthischapter.
+23 149-M:79 Records. Complete verbatim records shall be kept by the committee of all hearings,
+24 and records of all other actions, proceedings, and correspondence of the committee, including
+25 submittals of information and reports by members of the public, shall be maintained, all of which
+26 records shall be open to the public inspection and copying as provided for under RSA 91-A.
+27 Committee records regarding pending applications for a certificate shall also be made available on
+28 the committee’s website unless such records were submitted under seal and are exempt from public
+29 disclosureunderRSA91-A.
+30 149-M:80 Temporary Suspension of Deliberations. If the committee, at any time while an
+31 application for a certificate is before it, deems it to be in the public interest, it may temporarily
+32 suspenditsdeliberationsandtimeframesestablishedunderthischapter.
+33 149-M:81 FindingsandCertificateIssuance.
+34 I. Anycertificateissuedbythecommitteeshallbebasedontherecord. Thedecisiontoissue
+35 a certificate in its final form or to deny an application once it has been accepted shall be made by a
+36 majorityofthecommittee.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page12-
+1 II. The committee may consult with interested regional agencies and agencies of border
+2 statesintheconsiderationofcertificates.
+3 III. After due consideration of all relevant information regarding the potential siting,
+4 including potential significant impacts and benefits, the committee shall determine if issuance of a
+5 certificatewillservetheobjectivesofthischapter. Inordertoissueacertificate,thecommitteeshall
+6 findthat:
+7 (a) The applicant has adequate financial, technical, and managerial capability to assure
+8 construction, operation, and closure of the facility in continuing compliance with the terms and
+9 conditionsofthecertificate.
+10 (b) The facility will not undulyinterfere withthe orderlydevelopment of the region with
+11 due consideration having been given to the views of municipal and regional planning commissions
+12 andmunicipalgoverningbodies.
+13 (c) ThefacilitysatisfiesthecriteriainRSA149-M:11,III.
+14 (d) The public benefit of the facility to the region shall outweigh any adverse impact of
+15 the facility on human health, aesthetics, historic preservation, economic impacts to the region,
+16 tourism, outdoor recreation, regional and statewide business development, wildlife, noise, odor,
+17 traffic and transportation impacts, existing land uses, including property values, characteristics and
+18 source of waste, and any other impacts assessed as part of the application pursuant to RSA 149-
+19 M:72,III.
+20 (e) Issuance of a certificate will serve the public interest of the citizens of New
+21 Hampshire.
+22 IV. The committee shall issue an order granting or denying a certificate. Such order shall
+23 summarize and address issues of concern expressed during public information sessions and hearings
+24 toensurethatthepublic'svoicehasbeenheardandrecorded.
+25 V. A certificate of site and facility may contain such reasonable terms and conditions,
+26 including, but not limited to the authority to require bonding, as the committee deems necessary.
+27 Suchcertificates,whenissued,shallbefinalandsubjectonlytojudicialreview.
+28 VI. The committee shall condition the certificate upon the results of applicable federal and
+29 state approvals or appeal processes and required federal and state agency studies whose study
+30 periodexceedstheapplicationperiod.
+31 149-M:82 Penalties.
+32 I. Any construction or operation of major solid waste disposal facilities without first
+33 obtaining a certificate from the committee, or any material violation of the terms and conditions of a
+34 certificate issued by the committee, shall be subject to a civil penalty not to exceed $10,000 for each
+35 violation or for each day of a continuing violation. Such violation may also be enjoined by the
+36 superiorcourtuponapplicationoftheattorneygeneral.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page13-
+1 II. Whoever purposely or knowingly commits any violation of any provision of this section
+2 shallbeguiltyofamisdemeanorifanaturalperson,orguiltyofafelonyifanyotherperson.
+3 149-M:83 Severability. If any provision of this chapter, or application thereof to any person or
+4 circumstance is held invalid, the invalidity shall not affect other provisions or applications of the
+5 chapter which can be given effect without the invalid provisions or applications, and to this end, the
+6 provisionsofthischapterareseverable.
+7 149-M:84 FundEstablished;FundingPlan. Thereisherebyestablished intheofficeofthestate
+8 treasurer a nonlapsing, special fund to be known as the solid waste evaluation committee fund. All
+9 application and other filing fees received by the committee under this chapter shall be deposited in
+10 the fund. All moneys in the fund shall be continually appropriated to the committee and shall be
+11 used to pay for operating costs of the committee and the partial salary of the administrator. If the
+12 administrator position is vacant, the fund may be used to pay an independent contractor to perform
+13 those duties. Notwithstanding any other provision of law, the committee may engage the
+14 department for additional technical, legal, or administrative support to fulfill the requirements of
+15 thischapter,thecostofwhichshallbechargeddirectlytotheapplicantormajorsolidwastedisposal
+16 facilityowner.
+17 149-M:85 CompensationandReimbursement.
+18 I. The public members of the committee shall be compensated for all time spent on
+19 committee business, including compensation and reimbursement for major solid waste disposal
+20 facility proceeding time and expenses. Compensation shall be provided on a pro rata basis, based
+21 upon the daily salary rate of an unclassified position at the initial step in grade FF under RSA 94:1-
+22 a,I(a).
+23 II. State agencies represented on the committee shall be reimbursed for major solid waste
+24 disposal facility proceeding time and expenses incurred by their respective members or designees,
+25 exceptthattimespentforthefirst5fulldaysoftheirparticipationwithrespecttoanyapplicationor
+26 other proceeding concerning a major solid waste disposal facility shall not be subject to
+27 reimbursement. The rate of reimbursement to each respective agency shall be based on a pro rata
+28 shareoftheemployee’ssalary,benefits,andrelatedcosts.
+29 III The department of justice shall be reimbursed in the same manner as described in
+30 paragraph II for major solid waste disposal facility proceeding time and expenses that are incurred
+31 bythecounselforthepublic.
+32 IV. All persons or agencies seeking compensation or reimbursement under this section shall
+33 keepdetailedtimeandexpenserecordswhichshallbesubmittedtothechairpersonoradministrator
+34 and used to determine the amount of compensation or reimbursement. The chairperson or
+35 administratorshalldeveloparecordkeepingsystemandaccountingandpaymentprocedures.
+
+HB1189-FN-ASAMENDEDBYTHEHOUSE
+-Page14-
+1 V. Compensation shall not be provided to members of the committee for initial meetings
+2 conducted prior to acceptance of application fees. The department shall provide support for the
+3 adoptionofrulesestablishedbythecommittee.
+4 149-M:86 Solid Waste Permit Applications Suspended. The department shall not issue any
+5 permit approvals that authorize new capacity for major solid waste disposal facilities until rules are
+6 adoptedbythecommitteeoruntilJuly1,2027,whicheverislater.
+7 2 New Subparagraph; Solid Waste Evaluation Committee Fund. Amend RSA 6:12, I(b) by
+8 insertingaftersubparagraph(410)thefollowingnewsubparagraph:
+9 (411) Moneys deposited in the solid waste evaluation committee fund as established
+10 inRSA149-M:84.
+11 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2520
+3/27/26
+HB1189-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0965h)
+ANACT establishingasolidwastesiteevaluationcommittee.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$10,000to $10,000to
+Revenue $0 $0
+$150,000 $150,000
+RevenueFund(s) SolidWasteEvaluationCommitteeFund
+Indeterminable Indeterminable
+Expenditures* $0 $0 Increase$10,000 Increase$10,000
+to$150,000 to$150,000
+FundingSource(s) SolidWasteEvaluationCommitteeFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 Indeterminable
+METHODOLOGY:
+This bill establishes a Solid Waste Site Evaluation Committee (SWSEC) to review applications
+for major solid waste disposal facilities, requires the Department of Environmental Services
+(DES) to provide administrative, technical, and enforcement support, creates a non-lapsing,
+continually appropriated, Solid Waste Evaluation Committee Fund, and establishes application
+and filing fees to support committee operations. The bill also suspends approvals for new
+capacity for major solid waste disposal facilities until rules are adopted or July 1, 2027,
+whicheverislater.
+The Department of Environmental Services states this bill establishes a Solid Waste Site
+Evaluation Committee and requires the Department to assist the committee with
+administrative, rulemaking, technical review, and enforcement responsibilities. The bill
+
+establishes a schedule of application and filing fees, with revenues deposited into the Solid
+Waste Evaluation Committee Fund. The Department estimates revenue from application fees
+will likely range between $10,000 and $150,000 per application beginning in FY 2028, with
+similar amounts possible in subsequent fiscal years depending on the number and size of
+projects reviewed. The Department further states that all costs associated with committee
+proceedings, including administrative support, technical review, legal support, and member
+compensation, would be funded through application fees deposited into the Solid Waste
+Evaluation Committee Fund or assessed directly to applicants. As a result, total expenditures
+are indeterminable, but are expected to be fully supported by fee revenue and applicant-funded
+costs.
+Additionally,thisbilldoesnotprovidenewfundingorpositionauthorizationforDEStofulfillits
+responsibilities. The Department states it will redirect existing staff resources to support the
+committee, which may reduce capacity for other permitting or oversight activities within the
+WasteManagementDivision.
+The Department indicates there will be no direct fiscal impact to counties or municipalities
+because the definition of “major solid waste disposal facility” excludes municipally proposed
+facilities; however, the temporary suspension of permitting may reduce available disposal
+capacity in future years, including within FY 2028 and FY 2029, which could result in
+indeterminable increases in waste transportation and disposal costs to State, Counties, and
+municipalities.
+Lastly, it is assumed that the terms “solid waste site evaluation” and “solid waste evaluation”
+areusedinterchangeablythroughoutthebill.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

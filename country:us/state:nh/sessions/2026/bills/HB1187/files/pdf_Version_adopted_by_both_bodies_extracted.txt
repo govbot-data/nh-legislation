@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1187-FN-VERSIONADOPTEDBYBOTHBODIES
+05/07/2026 1596s
+4Jun2026...2096CofC
+2026SESSION
+26-2556
+08/07
+1187-FN
+HOUSEBILL
+ANACT relative to the time in which candidates for state representative may file their
+candidacyforaspecialelection.
+SPONSORS: Rep.Berry,Hills.44;Rep.Qualey,Ches.18
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows candidates for state representative in a special election to file for 3 days with
+theirtownorcityclerk.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1187-FN-VERSIONADOPTEDBYBOTHBODIES
+05/07/2026 1596s
+4Jun2026...2096CofC 26-2556
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the time in which candidates for state representative may file their
+candidacyforaspecialelection.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Nomination of Candidates to the General Court; House of Representatives; Special Election.
+2 RSA655:81,IIIisrepealedandreenactedtoreadasfollows:
+3 III. Under RSA 655:15, state representative candidates may file with the secretary of state,
+4 except that a state representative candidate may file with his or her appropriate town or city clerk
+5 underRSA655:15,inwhichcasethetownorcityclerkshallforwardeachdeclarationofcandidateto
+6 the secretary of state on the same day on which the declaration is filed. During the week of filing, if
+7 the town or city clerk's office shall not be open for at least 3 days and for at least 2 hours on those
+8 days, the clerk shall post contact information for the clerk, deputy clerk, or another election official
+9 whotheclerkhasauthorizedtoacceptthedeclarationofcandidacy. Theclerk,deputyclerk,orother
+10 election official whose contact information is posted shall, in response to being contacted, arrange a
+11 time either on that day or within the next business day, during regular business hours of 8:00 a.m.
+12 to5:00p.m.,toacceptthedeclarationofcandidacy. Thedatesandtimestownandcityclerks'offices
+13 are open for filing during the filing period and any additional contact information shall be listed on
+14 thesecretaryofstate'swebsite;and
+15 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2556
+5/8/26
+HB1187-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1596s)
+ANACT relative to the time in which candidates for state representative may file their
+candidacyforaspecialelection.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofStateandNewHampshireMunicipalAssociation

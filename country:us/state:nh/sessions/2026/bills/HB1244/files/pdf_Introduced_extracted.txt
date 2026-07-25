@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1244-FN-ASINTRODUCED
+2026SESSION
+26-3150
+09/08
+1244-FN
+HOUSEBILL
+ANACT relativetoexceptionstothechargeofcriminalthreatening.
+SPONSORS: Rep.Farrington,Straf.8;Rep.Aures,Merr.13;Rep.Corcoran,Hills.28;Rep.Drew,
+Hills.19;Rep.Granger,Straf.2;Rep.Layon,Rock.13;Rep.TomMannion,Hills.1;Rep.McFarlane,
+Graf.18;Rep.Polozov,Merr.10;Rep.SabourinditChoinere,Rock.30;Sen.Innis,Dist7;Sen.
+Murphy,Dist16
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds an additional exception to when a person shall not have been deemed to commit
+the offense of criminal threatening to include certain actions in response to a person criminally
+trespassingthatmayresultinpropertydamageorthreatofseriousbodilyinjuryordeath.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1244-FN-ASINTRODUCED
+26-3150
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoexceptionstothechargeofcriminalthreatening.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CriminalTrespass;Exception. AmendRSA631:4,IVtoreadasfollows:
+2 IV. ApersonwhorespondstoapersoncriminallytrespassinginviolationofRSA635:2
+3 or other threat which would be considered by a reasonable person as likely to cause property
+4 damage, serious bodily injury or death to the person or to another by displaying a firearm or other
+5 means of self-defense with the intent to warn away the person criminally trespassing or making
+6 thethreatshallnothavecommittedacriminalactunderthissection.
+7 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3150
+10/27/25
+HB1244-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoexceptionstothechargeofcriminalthreatening.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

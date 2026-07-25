@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER331
+HB1727-FINALVERSION
+12Mar2026...0847h
+05/07/2026 1748s
+4Jun2026...2113CofC
+4Jun2026...2195EBA
+2026SESSION
+26-2965
+05/06
+1727
+HOUSEBILL
+ANACT relativetostudentdatasharingfortheSummerEBTprogram.
+SPONSORS: Rep.Bordes,Belk.5
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill creates a system for automatic enrollment of eligible students into the Summer EBT
+(ElectronicBenefitsTransfer)program,unlesstheirparentorguardianoptsout.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER331
+HB1727-FINALVERSION
+12Mar2026...0847h
+05/07/2026 1748s
+4Jun2026...2113CofC
+4Jun2026...2195EBA 26-2965
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetostudentdatasharingfortheSummerEBTprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 331:1 New Section; Food and Nutrition Programs; Summer EBT Enrollment and Data Sharing.
+2 AmendRSA189byinsertingafterRSA189:11-ethefollowingnewsection:
+3 189:11-f SummerEBTEnrollmentandDataSharing.
+4 I. Consistent with 42 U.S.C. section 1762(c)(1)(A), the department of education shall provide the
+5 department of health and human services with the name, date of birth, and household address of each
+6 student eligible for free or reduced-price meals for the purpose of automatic enrollment in the Summer
+7 EBT program. No additional personally identifiable information beyond the elements enumerated in this
+8 paragraphshallbetransmittedunderthissection.
+9 II. School districtsand school administrativeunitsshall provide adistinct noticeandopt-out form
+10 consistent with 42 U.S.C. section 1762(c)(1)(E) to the parent or guardian of each student concurrently
+11 withthenoticeofdecisionforfreeandreduced-pricemeals. Ifthedecisionisprovidedinapaperformat,
+12 the opt-out form shall be a separate physical insert. If provided electronically, the opt-out mechanism
+13 shallbeaprominent,separatestepwithintheprocess.
+14 III. If a student is determined eligible for free or reduced-price meals and the parent or guardian
+15 has not returned the opt-out form within 15 days of receipt of notice of the decision, the student shall be
+16 automaticallyenrolledintheSummerEBTprogram.
+17 IV. Data transmitted under paragraph I shall be confidential, used exclusively for the
+18 administration and distribution of Summer EBT benefits, and deleted upon the completion of the
+19 distributionofbenefitsforthecorrespondingsummerperiod,unlessotherwiserequiredbyfederallaw.
+20 V. Transmissions under paragraph I shall be governed by a memorandum of understanding
+21 between the department of education and the department of health and human services, conforming to
+22 theminimumrequiredtermsestablishedbyruleunderRSA161:15,II(d).
+23 331:2 New Section; Department of Health and Human Services; Summer EBT. Amend RSA 161 by
+24 insertingaftersection14thefollowingnewsection:
+25 161:15 SummerEBTImplementation.
+26 I. The department of healthand human services shall establishand maintain a secure electronic
+27 mechanism, adopted by rule under RSA 541-A, to receive student data from the department of education
+28 forthepurposeofSummerEBTenrollment.
+29 II. The department of health and human services shall adopt rules pursuant to RSA 541-A
+30 establishing:
+
+CHAPTER331
+HB1727-FINALVERSION
+-Page2-
+1 (a) Standardized language for the notice and opt-out form required under RSA 189:11-f, II.
+2 The notice shall inform parents that completing the school meal application may result in automatic
+3 SummerEBTenrollmentunlesstheyaffirmativelyoptout;
+4 (b) SecuretransmissionprotocolsforthemechanismrequiredunderparagraphI;
+5 (c) DataretentionanddeletionproceduresconsistentwithRSA189:11-f,IV;and
+6 (d) The minimum required terms of the memorandum of understanding required under RSA
+7 189:11-f,V.
+8 331:3 New Section; Department of Health and Human Services; Summer EBT. Amend RSA 161 by
+9 insertingaftersection15thefollowingnewsection:
+10 161:16 SummerEBTImplementation.
+11 I. The department of healthand human services shall establishand maintain a secure electronic
+12 mechanism, adopted by rule under RSA 541-A, to receive student data from the department of education
+13 forthepurposeofSummerEBTenrollment.
+14 II. The department of health and human services shall adopt rules pursuant to RSA 541-A
+15 establishing:
+16 (a) Standardized language for the notice and opt-out form required under RSA 189:11-f, II.
+17 The notice shall inform parents that completing the school meal application may result in automatic
+18 SummerEBTenrollmentunlesstheyaffirmativelyoptout;
+19 (b) SecuretransmissionprotocolsforthemechanismrequiredunderparagraphI;
+20 (c) DataretentionanddeletionproceduresconsistentwithRSA189:11-f,IV;and
+21 (d) The minimum required terms of the memorandum of understanding required under RSA
+22 189:11-f,V.
+23 331:4 Contingency. If SB 615 of the 2026 regular legislative session becomes law, section 2 of this
+24 actshallnot takeeffect andsection3of thisact shalltakeeffectuponitspassage. If SB615ofthe2026
+25 regular legislative session does not become law, section 2 of this bill shall take effect upon its passage
+26 andsection3ofthisactshallnottakeeffect.
+27 331:5 Contingent Renumbering. If SB 615 of the 2026 regular legislative session becomes law, the
+28 cross-reference to RSA 161:15, II(d) in RSA 189:11-f, V, as amended by section 1 of this act, shall be
+29 renumberedasRSA161:16,II(d).
+30 331:6 EffectiveDate.
+31 I. Sections2and3ofthisactshalltakeeffectasprovidedinsection4ofthisact.
+32 II. Theremainderofthisactshalltakeeffectuponitspassage.
+Approved:July15,2026
+EffectiveDate:
+I.Sections2&3effectiveasprovidedinsection4
+II.RemaindereffectiveJuly15,2026
+
+CHAPTER331
+HB1727-FINALVERSION

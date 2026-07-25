@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1773-FN-ASINTRODUCED
+2026SESSION
+26-2391
+05/08
+1773-FN
+HOUSEBILL
+ANACT relative to food and drink purchased under SNAP, the Supplemental Nutritional
+AssistanceProgram.
+SPONSORS: Rep. Freeman, Belk. 8; Rep. Colcombe, Hills. 30; Rep. Edwards, Rock. 31; Rep.
+Harvey-Bolia, Belk. 3; Rep. Morse, Merr. 3; Rep. Noble, Hills. 2; Rep.
+Mandelbaum, Rock. 21; Rep. L. Walsh, Rock. 15; Rep. Harrington, Straf. 18; Sen.
+Avard,Dist12
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to submit a waiver to the United
+States Department of Agriculture to prohibit the purchase of sweetened drinks and candy under
+SNAP.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1773-FN-ASINTRODUCED
+26-2391
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to food and drink purchased under SNAP, the Supplemental Nutritional
+AssistanceProgram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; SNAP; Demonstration Waiver to Prohibit the Purchase of Certain Foods with
+2 SNAPBenefits. AmendRSA167byinsertingaftersection17-dthefollowingnewsection:
+3 167:17-e DemonstrationWaivertoProhibitthePurchaseofCertainFoodswithSNAPBenefits.
+4 I. On or before January 1, 2027, the department of health and human services shall submit
+5 a demonstration project waiver under 7 U.S.C. 2026(b) to the U.S. Department of Agriculture, Food
+6 Nutrition Services, to allow the state to exclude sweetened drinks and candy from the definition of
+7 eligible foods under 7 C.F.R. section 271.2 for purposes of the Supplemental Nutrition Assistance
+8 Program(SNAP).
+9 II. Thewaiverrequestshall:
+10 (a) Exclude sweetened drinks and candy from the definition of eligible foods under
+11 SNAP.
+12 (b) Proposemethodsofimplementation,includingcoordinationwithretailers.
+13 (c) Establish an education and outreach program to help SNAP recipients make healthy
+14 foodchoices.
+15 (d) Include an evaluation plan to measure the impact of the restriction on nutrition,
+16 healthoutcomes,andprogramintegrity.
+17 III. Upon federal approval of the waiver, the commissioner of the department of health and
+18 human services shall adopt rules, pursuant to RSA 541-A, to implement the provisions of this
+19 section.
+20 IV. Retailers participating in SNAP shall be notified of the new restrictions and provided
+21 technicalassistancetoupdatepoint-of-salesystems.
+22 V. Beginning November 1, 2026, the commissioner shall submit an annual report to the
+23 governor,thepresidentofthesenate,andthespeakerofthehouseofrepresentativesrelativeto:
+24 (a) Thestatusofthefederalwaiverrequest.
+25 (b) Implementationprogress.
+26 (c) Data on program outcomes, including changes in purchasing patterns and health
+27 indicatorsamongSNAPrecipients.
+28 VI. Inthissection:
+29 (a) "Sweetened drink" means any non-alcoholic beverage made with water that contains
+30 5gramsormoreofaddedsugar. Thetermdoesnotinclude:
+
+HB1773-FN-ASINTRODUCED
+-Page2-
+1 (1) Milkormilkproductswithoutflavoring;
+2 (2) Soy,rice,orsimilarmilksubstitutes;or
+3 (3) Morethan50percentofvegetableorfruitjuicebyvolume.
+4 (b) "Candy" means a preparation of sugar, honey, or other natural or artificial
+5 sweetenersincombinationwithchocolate,fruits,nuts,orotheringredientsorflavorings,intheform
+6 of bars, drops, or pieces. "Candy" does not include any preparation containing flour or any
+7 preparationthatrequiresrefrigeration.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2391
+Revised02/20/2026
+HB1773-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to food and drink purchased under SNAP, the Supplemental Nutritional
+AssistanceProgram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 $0 $2.6million
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department to submit a demonstration waiver to the federal Food and
+NutritionServicetoallowfortheexclusionofcandyandsoftdrinksfromthedefinitionofeligible
+food under SNAP. The Department anticipates that it will cost $416,000 to facilitate retailers’
+adoption of the new waiver rules, as well as $42,000 for certification and $47,000 for
+implementation. The EBT vendor is expected to impose additional transaction fees, which the
+Department expects will come at a small cost of potentially $5,000. Additionally, the
+Department anticipates $842,000 of costs to build the waiver. The costs of customer service
+related to the waiver are indeterminable, but the Department estimates $25,000 per fiscal year.
+TheDepartmentassumesthatthenewwaiverwillbeeffectiveforFY29.
+In addition to the waiver requirement, the bill requires the Department to establish an
+education and outreach program to help SNAP recipients make healthy food choices. The
+Department notes that it currently conducts a SNAP outreach program to promote the program
+and encourage potentially eligible households to apply, but that the outreach program does not
+have a nutrition component. Previously, New Hampshire had conducted a SNAP-Ed program to
+conduct nutrition outreach using federal funding. The federal funding utilized for the SNAP-Ed
+program is no longer available due to a change in federal law. The cost to either restart a
+program similar to SNAP-Ed or amend existing SNAP outreach programs to include nutrition
+
+programsis estimated tobeapproximately$1,200,000peryear. After therepeal of theSNAP-Ed
+programfederallyitisunclearwhetheranyfederalfundswouldbeavailabletodefraythecostof
+a SNAP nutritional education program. The Department assumes that the nutrition program
+wouldbeginintheyearthewaiverbegins,orFY29.
+In total, the Department anticipates the bill will cost $2.6 million in FY29 and $1.4 million in
+subsequentyears.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

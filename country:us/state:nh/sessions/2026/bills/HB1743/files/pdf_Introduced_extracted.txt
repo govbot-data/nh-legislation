@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1743-FN-ASINTRODUCED
+2026SESSION
+26-2805
+06/09
+1743-FN
+HOUSEBILL
+ANACT requiringdisclosureofradiationlevelsemittedbysmartmeters.
+SPONSORS: Rep. Comtois, Belk. 7; Rep. Belcher, Carr. 4; Rep. Ploszaj, Belk. 1; Rep. Potenza,
+Straf.19
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires electric utilities to annually disclose smart meter radiation levels to account
+holders and authorizes the public utilities commission to oversee compliance and adopt
+implementingrules.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1743-FN-ASINTRODUCED
+26-2805
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringdisclosureofradiationlevelsemittedbysmartmeters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Public Utilities; Smart Meter Radiation Disclosure. Amend RSA 374 by
+2 insertingaftersection2-athefollowingnewsection:
+3 374:2-b SmartMeterRadiationDisclosure.
+4 I. Each electric utility operating in the state shall provide an annual written statement to
+5 each utility account holder that discloses the radiation levels emitted by any smart meter installed
+6 attheservicelocation.
+7 II. The statement required under paragraph I shall be provided in paper or electronic form
+8 andmaybeincludedwitharegularbillingstatementorsentasaseparatenotice.
+9 III. The public utilities commission shall oversee compliance with this section and may
+10 adoptrulesunderRSA541-Aasnecessarytoimplementitsprovisions.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2805
+12/15/25
+HB1743-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringdisclosureofradiationlevelsemittedbysmartmeters.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $254,000 $266,000 $280,000
+FundingSource(s) UtilityAssessmentsunderRSA363-A
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires electric utilities to annually disclose smart meter radiation levels to account
+holders and authorizes the Public Utilities Commission to oversee compliance and adopt
+implementingrules.
+The Public Utilities Commission states this bill would require the Commission to oversee and
+enforce annual smart meter radiation disclosures byelectric utilities and to conduct adjudicative
+proceedings and rulemaking to implement and monitor compliance with the new requirements.
+The Commission states its current utility analyst and attorney staffing levels are already
+workingat or near fullutilizationand cannot absorbthis additional workload. Tomeet thebill’s
+requirements, the Commission anticipates the need for one full-time Utility Analyst (13-1190
+MiscellaneousBusinessOperationsSpecialist-5)andonefull-timeAttorneyIV(23-1010Lawyers
+and Judicial Law Clerks-4). The estimated cost for these two positions would be $254,000 in FY
+2027, $266,000 in FY 2028, and $280,000 in FY 2029. These costs would be funded through the
+utilityassessmentunderRSA363-A.
+AGENCIESCONTACTED:
+PublicUtilitiesCommission

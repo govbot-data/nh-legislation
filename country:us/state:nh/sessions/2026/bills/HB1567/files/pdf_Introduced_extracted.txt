@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1567 -ASINTRODUCED
+2026SESSION
+26-2470
+06/05
+1567
+HOUSEBILL
+ANACT relativetothevaluationoftelecommunicationsuseofpublicrights-of-way.
+SPONSORS: Rep. Durkin, Coos 1; Rep. A. Davis, Coos 2; Rep. Korzen, Coos 7; Rep. Tierney,
+Coos1
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies that the assessed value for the use of public rights-of-way by
+telecommunications infrastructure shall include a calculation based on the average per acre value of
+adjacentlandandthetotallengthofclassI,II,IV,andVroads.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1567-ASINTRODUCED
+26-2470
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothevaluationoftelecommunicationsuseofpublicrights-of-way.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Valuation of Telecommunications Poles and Conduits; Rulemaking. Amend RSA 72:8-c to
+2 readasfollows:
+3 72:8-c ValuationofTelecommunicationsPolesandConduits;Rulemaking.
+4 I. The value of wooden poles or conduits employed in the transmission of
+5 telecommunications owned in whole or in part by telephone utilities, as described in RSA 362:7, or
+6 providers of Voice over Internet Protocol ("VoIP") service or IP-enabled service, each as defined in
+7 RSA 362:7, or commercial mobile radio services, for purposes of tax assessment against said entity,
+8 shall be determined by the following formula: the Replacement Cost New (RCN) of the
+9 telecommunications pole or conduit, less depreciation calculated on a straight-line basis for a period
+10 of40yearswitharesidualvalueof20percentwithoutapplyingtheannualequalizationratio.
+11 II. In addition to the appraisal determined under paragraph I, the assessed value
+12 for the use of public rights-of-way shall be equal to the average assessed per acre value of
+13 adjacent land multiplied by the total length of all class I, II, IV, and V roads, as
+14 determinedbythedepartmentoftransportationinthepreviousyear,dividedby43,560.
+15 III. On or before July 1 of the tax year, the department of revenue administration shall
+16 provide to every municipality a schedule of telecommunications pole and conduit RCN, using
+17 national published telecommunications standard cost dataguides calculated annuallyusinga 5-year
+18 rollingaverage.
+19 [III.] IV. The commissioner of the department of revenue administration shall adopt rules
+20 pursuant to RSA 541-A relative to how telecommunications pole and conduit RCN shall be
+21 established,includingaprocessforreceivingpublicinputpriortosuchestablishment.
+22 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

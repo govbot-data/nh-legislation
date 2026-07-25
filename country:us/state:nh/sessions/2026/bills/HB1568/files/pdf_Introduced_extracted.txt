@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1568-FN-ASINTRODUCED
+2026SESSION
+26-2477
+06/05
+1568-FN
+HOUSEBILL
+ANACT relative to mandatory minimum insurance coverage requirements for motor
+vehicles.
+SPONSORS: Rep.Barton,Graf.1
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires owners of registered motor vehicles to maintain liability insurance meeting
+minimum coverage thresholds, establishes penalties for noncompliance, and authorizes rulemaking
+forverificationprocedures.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1568-FN-ASINTRODUCED
+26-2477
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to mandatory minimum insurance coverage requirements for motor
+vehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Mandatory Liability Insurance. Amend RSA 264 by inserting after section 15
+2 thefollowingnewsection:
+3 264:15-a MandatoryLiabilityInsurance.
+4 I. No motor vehicle required to be registered in this state shall be operated upon any way
+5 unless the owner maintains a motor vehicle liability insurance policy issued by a company
+6 authorizedtotransactbusinessinthisstate.
+7 II. The policy shall provide at least the minimum coverage limits required under RSA
+8 264:20,including:
+9 (a) Bodilyinjuryordeathofoneperson,notlessthan$25,000.
+10 (b) Bodilyinjuryordeathof2ormorepersons,notlessthan$50,000peraccident.
+11 (c) Propertydamage,notlessthan$25,000peraccident.
+12 III. Proof of insurance shall be provided at the time of vehicle registration and upon request
+13 bylawenforcement.
+14 IV. Apersonwhofailstomaintainactiveinsuranceshallbesubjectto:
+15 (a) Suspension of the vehicle’s registration by the director until proof of coverage is
+16 provided;and
+17 (b) Acivilpenaltyof$250forafirstoffenseand$500foreachsubsequentoffense.
+18 V. The department of safety may adopt rules under RSA 541-A to implement this section,
+19 includingproceduresforelectronicverificationofcoverage.
+20 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2477
+12/5/25
+HB1568-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to mandatory minimum insurance coverage requirements for motor
+vehicles.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $200,000 $300,000 $400,000
+RevenueFund(s) GeneralFund
+IndeterminableIncrease
+Expenditures* $0 $444,000
+$150,000+PerYear
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a requirement to provide proof of financial responsibility at the time of
+motor vehicle registration and authorizes immediate suspension of license and registration for
+failure to produce such proof upon lawful request. This bill will have an impact on both the
+Department of Safety and insurance premium tax revenue collected by the Insurance
+Department.
+DepartmentofSafetyImpact
+The Department states this bill mandates that all motor vehicles registered in New Hampshire
+carry minimum liability insurance coverage. Proof of insurance must be provided at the time of
+registrationanduponrequestbylawenforcement. Individualswhofailtomaintaincoverageare
+subject to registration suspension and civil penalties of $250 for a first offense and $500 for
+subsequent offenses. The Division of Motor Vehicles (DMV) does not currently have a system in
+place to electronically verify or manually track insurance coverage at the time of registration.
+Current system updates, and/or integration with third-party insurance verification platforms,
+
+will be required to support implementation including MAAP, VISION, SPOTS, and CPI. This
+bill does not specify whether proof of insurance is required only at initial registration or also at
+annual renewal. If renewals are included, this would significantly impact the online renewal
+process and require additional system modifications. The bill refers to a “civil penalty” but does
+notclarifywhether thesepenaltiesaresubjecttothe$2.00or24% (whicheverisgreater) penalty
+assessmentfeeunderRSA106-L:10,creatinguncertaintyaroundpotentialrevenueimplications.
+The Department anticipates costs associated with developing a system capable of verifying
+insurance either through electronic means and/or by manual means through additional job
+duties which may include integration, testing, and ongoing maintenance. Also, additional
+staffing may be required to manage increased workload related to insurance verification,
+registration suspensions, civil penalty processing, customer service and disputes, and municipal
+Agenttraining. Ifproofofinsuranceisrequiredforrenewal,theonlinerenewalsystemwillneed
+to be modified to accommodate document upload or real-time verification, which may also
+increase call volume and in-person visits to towns and DMV offices. Below is a summary of the
+anticipatedcostsfortheDMV:
+Description FY2027 FY2028 FY2029
+Systemmaintenance,vendor
+contractmanagement,and $300,000 Indeterminable Indeterminable
+interfaceupdates
+DMVStaffingCosts*
+Two(2)LicenseClerks $144,000 $144,000 $150,000
+(SOC43-03)
+Total $444,000 Indeterminable Indeterminable
+*Thisbillprovidesneitherauthorizationnorappropriationfornewpersonnel.
+Lastly, the Department states Municipal Agents will be responsible for collecting and reviewing
+proof of insurance at the time of registration for their residents. This will require training for
+Municipal Agents to ensure consistent application of the new requirements and public outreach
+and education to inform residents of the change and avoid delays or confusion at the time of
+registration. Whilenodirectfiscalimpactliabilityisimposedonmunicipalities,theDepartment
+states there may be operational impacts related to increased transaction time, customer
+inquiries,andtrainingneeds.
+InsuranceDepartment(PremiumTax)Impact
+According to data published by the Insurance Information Institute dated 2023, 90.0% of autos
+registered in New Hampshire are covered by insurance. Neighboring states of Massachusetts
+and Maine have slightly higher rates of covered autos with an average between them of 93.2%.
+These states have mandatory insurance requirements like what is proposed in this bill. Using
+this latter value as a reasonable approximation, the Insurance Department estimates a 3.6%
+
+increase in covered vehicles in New Hampshire if this bill becomes law. It is unlikely owners of
+these newly covered autos would choose the same level of insurance as the average policy holder
+today. The bill requires only liability coverage, and it is likely minimal limits would be selected.
+To this extent, the Department converted the 3.6% increase in covered autos to a 1.8% increase
+in written premium because approximately 50% of auto insurance premium is attributed to
+liabilitycoverage.
+Consistent withfuture revenue estimates, theDepartment anticipates an8% increase in written
+premiumsindependentofchangestocurrentlaw.
+FY2027* FY2028 FY2029
+EstimatedAdditionalWrittenPremium
+$12.9 $27.8 $30.1
+(inmillions)
+NewHampshirePremiumTaxRate 1.25% 1.25% 1.25%
+EstimatedAdditionalPremiumTax(in
+$0.2 $0.3 $0.4
+millions)(productofabovevalues)
+*Expected additional premium for FY 2027 was reduced by 50% because the proposed
+legislation would take effect midway through that fiscal year and compliance to the new law
+wouldlikelybegradual.
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1600-FN-ASINTRODUCED
+2026SESSION
+26-3188
+08/07
+1600-FN
+HOUSEBILL
+ANACT requiring the division of motor vehicles to make available the opportunity to
+register to vote at the time of application for or renewal of a drivers license or
+nondriversidentificationcard.
+SPONSORS: Rep.Wilhelm,Hills.21;Rep.Berry,Hills.44
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the division of motor vehicles to make available the opportunity to register to
+voteatthetimeofapplyingfororrenewingadrivers'licenseornondriversidentificationcard.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1600-FN-ASINTRODUCED
+26-3188
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the division of motor vehicles to make available the opportunity to
+register to vote at the time of application for or renewal of a drivers license or
+nondriversidentificationcard.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Voter Registration at the Division of Motor Vehicles. Amend RSA 654 by
+2 insertingaftersection7-cthefollowingnewsection:
+3 654:7-d VoterRegistrationattheDivisionofMotorVehicles.
+4 I. The division of motor vehicles shall provide each applicant who has proven age,
+5 citizenship, identity, and domicile for a driver’s license or nondriver identification card, including
+6 renewals, with a voter registration form and information on voter eligibility requirements under
+7 RSA654:1.
+8 II. Thedivisionofmotor vehiclesshall offerapplicants theopportunitytocompletethevoter
+9 registration form at the time of application or renewal. Completed forms shall be collected by the
+10 division of motor vehicles and transmitted to the secretary of state on a regular basis, but no less
+11 frequently than once per week. The last transmission of completed forms shall occur 3 weeks before
+12 thedateoftheprimaryelectionand3weeksbeforethedateofthegeneralelection.
+13 III. The secretary of state shall forward completed voter registration forms to the
+14 appropriate town or city clerk based on the applicant’s domicile for verification and inclusion on the
+15 checklistinaccordancewithRSA654:25.
+16 IV. The division of motor vehicles and the secretary of state shall jointly develop procedures
+17 to ensure the secure handling, timely transmission, and confidentiality of voter registration
+18 informationcollectedunderthissection.
+19 V. The secretary of state shall adopt rules under RSA 541-A to implement the provisions of
+20 thissection.
+21 2 EffectiveDate. Thisactshalltakeeffect6monthsafteritspassage.
+
+LBA
+26-3188
+12/5/25
+HB1600-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the division of motor vehicles to make available the opportunity to
+register to vote at the time of application for or renewal of a drivers license or
+nondriversidentificationcard.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $208,000 $87,000 $91,000
+GeneralFundandRestricted-HighwayFundCostofCollections-Perthestate
+constitution,costsassociatedwiththecollection/administrationofhighway
+FundingSource(s)
+fundrevenuebytheDepartmentofSafetyisdeductedpriortofundsbeing
+creditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Division of Motor Vehicles (DMV) provide each applicant who has proven
+age, citizenship, identity, and NH domicile for a driver’s license or nondriver identification card,
+including renewals, with a voter registration form and information on voter eligibility
+requirements under RSA 654:1. The DMV shall offer applicants the opportunity to complete the
+voter registration form at the time of application or renewal. Completed paper forms shall be
+collected by the DMV and transferred to the Secretary of State on a regular basis, but no less
+frequently than once per week. The Secretary of State will track and forward completed voter
+registrationformstotheappropriatetownorcityclerkbasedontheapplicant’sdomicile.
+Toaccept voterregistrations andproof ofqualificationandforward themtotheappropriatelocal
+supervisors of the checklist, the Secretary of State indicates it will need one additional staff
+member (records control clerk, SOC 43-02) at an estimated cost of $69,000 in FY 2027, $67,000
+in FY 2028, and $71,000 in FY 2029. Also, the Secretary of State estimates it would incur
+approximately $10,000 in postage costs. Lastly, the Secretary of State does not have available
+legal staffing to draft rules and navigate through the administrative rules process. It states it
+willneedtohire,or outsource,this role. The costtohireanattorneyposition(attorneyIV, SOC
+
+23-09) is estimated to be $119,000 in FY 2027. This bill provides neither authority nor
+appropriationfornewpersonnel.
+The Department of Safety states this bill will require staff training to answer questions related
+to the voter registration form and procedures. The DMV will also incur additional courier
+expenses related to collecting completed forms from all 14 DMV locations and delivering them to
+the Secretary of State’s Office. This will also require administrative hours for policy
+developmentinpartnershipwiththeSecretaryofState’sOffice. TheDepartmentestimatestotal
+coststobe$10,000peryear.
+AGENCIESCONTACTED:
+DepartmentofStateandDepartmentofSafety

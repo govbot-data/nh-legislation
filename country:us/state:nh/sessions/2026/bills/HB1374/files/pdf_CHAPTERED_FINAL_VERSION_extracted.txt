@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER303
+HB1374-FINALVERSION
+05/07/2026 1731s
+4Jun2026...2076CofC
+2026SESSION
+26-3033
+12/09
+1374
+HOUSEBILL
+ANACT modifying the procedures for withdrawal from a cooperative school district and the
+discontinuance of elementary and high schools and requiring the review of school
+districtoperatingdocumentsbyschoolboards.
+SPONSORS: Rep. Mary Murphy, Hills. 27; Rep. Colcombe, Hills. 30; Rep. Ford, Rock. 3; Rep.
+Peeples,Hills.14;Rep.D.McGuire,Merr.14;Rep.Porcelli,Rock.19;Rep.P.Brown,
+Rock.14;Sen.Ward,Dist8
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Modifiestheprocedureforwithdrawalfromacooperativeschooldistricttoallowamajorityofvoters
+inasinglewithdrawingdistricttoelecttowithdraw.
+II. Clarifies that a supermajority of voters in a withdrawing district voting in favor of withdrawal shall
+constituteconclusiveevidenceofthewithdrawalofthedistrict.
+III. Requires that voters residing in all municipalities that are served by a school district vote on the
+closureofschools.
+IV. Establishes an option for the governing bodies of municipalities to preserve the operation of a
+school located within the municipality where the majority of voters residing in all municipalities served by
+thedistrictelectedtoclosesuchschool.
+V. Requires the governing bodies of municipalities to enter into an operating agreement with the
+districtwheresuchoptiontopreservetheoperationofaschoolhasbeenexercised.
+VI. Authorizes the state board of education to conduct hearings and issue final decisions relative to
+whether a school shall be closed or its operation shall be continued in circumstances where an operating
+agreementhasnotbeenenteredinto.
+VII. Requires school administrative units and cooperative school districts to comply with the
+provisionsoftheact.
+VIII. Requires every 3 years school boards of single district school districts, cooperative school
+districts,andschooladministrativeunitsreviewoperatingdocumentsforeachdistrictandprovidefindings
+andrecommendationsresultingfromsuchreview.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER303
+HB1374-FINALVERSION
+05/07/2026 1731s
+4Jun2026...2076CofC 26-3033
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifying the procedures for withdrawal from a cooperative school district and the
+discontinuance of elementary and high schools and requiring the review of school
+districtoperatingdocumentsbyschoolboards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 303:1 Vote on Withdrawal; Withdrawing District Only; Supermajority Requirement Modified. Amend
+2 RSA195:29toreadasfollows:
+3 195:29 Vote on Withdrawal. If the state board approves the plan for withdrawal, the board shall
+4 cause the withdrawal plan to be published once in some newspaper generally circulated within the
+5 cooperative school district. Upon receipt of a written notice of the board's approval of the withdrawal
+6 agreement,theschoolboardofthecooperativedistrictshallcausethewithdrawalplantobefiledwiththe
+7 clerk of the cooperative school district and submitted to the voters of thewithdrawingdistrict as soon as
+8 may reasonably be possible at an annual or special meeting called for the purpose, the voting to be by
+9 ballotwiththeuseofthechecklist,afterreasonableopportunityfordebateinopenmeeting. Thearticlein
+10 the warrant for thewithdrawingdistrict meeting and the question on the ballot to be used at the meeting
+11 shallbeinsubstantiallythefollowingform:
+12 "Shall the school district accept the provisions of RSA 195 (as amended) providing for the withdrawal of
+13 thepreexistingdistrictof__________fromthe__________cooperativeschooldistrictinaccordancewith
+14 theprovisionsoftheproposedwithdrawalplanfiledwiththeschooldistrictclerk?"
+15 Yes_________No_________
+16 I. If a majority of voters present and voting in the withdrawing preexisting district vote in the
+17 negative,againstwithdrawal,thenthewithdrawalprocessisterminated.
+18 II. If a3/5supermajority[majority] of thevoters present andvoting inthewithdrawing preexisting
+19 district shall vote in the affirmative, in favor of withdrawal [and a majority of the voters present and voting
+20 in the entire cooperative district shall vote in the affirmative, in favor of withdrawal], the clerk of the
+21 cooperative school district shall forthwith send to the state board of education a certified copy of the
+22 warrant,certificateofposting,evidenceofpublication,andminutesofthemeeting.
+23 [III. If a 3/5 supermajority of the voters present and voting in the withdrawing preexisting district
+24 voteintheaffirmative,infavorofthewithdrawal,theclerkofthecooperativeschooldistrictshallforthwith
+25 send to the state board of education a certified copy of the warrant, certificate of posting, evidence of
+26 publication,andminutesof themeetingunless a3/5supermajorityof thevoterspresent andvotinginthe
+27 entirecooperativedistrictvoteinthenegative,againstwithdrawal.]
+28 [IV.] III. If the state board of education finds that a [majority] 3/5supermajorityof the voters
+29 present and voting, in the withdrawing preexisting district [and the entire cooperative district, or by the
+30 alternative supermajority vote under paragraph III,] have voted in favor of the withdrawal plan, it shall
+
+CHAPTER303
+HB1374-FINALVERSION
+-Page2-
+1 issueitscertificatetothat effectandsuchcertificateshall beconclusiveevidenceof thewithdrawal of the
+2 preexisting district and the continuation of the cooperative school district as of the date of its issuance, or
+3 the dissolution of a 2-district cooperative if the cooperative was formed by 2 preexisting districts. A
+4 withdrawal plan shall be prepared and it shall provide for the disposition of property held within the
+5 cooperativeandastatementofassumptionofliabilities.
+6 303:2 Procedure for Review; Withdrawal Plan Submission; Withdrawing District Only. Amend RSA
+7 195:25,VItoreadasfollows:
+8 VI. If the state board approves the withdrawal plan, whether submitted by the committee or by
+9 minorityreport, theplanshall besubmittedtothevotersof the[cooperative]withdrawingschool district in
+10 accordancewithRSA195:29.
+11 303:3 NewSections;DiscontinuanceofSchools;MunicipalPreservationOption. AmendRSA194by
+12 insertingaftersection3-ethefollowingnewsections:
+13 194:3-f DiscontinuanceofSchools. Noelementaryschool,asdefinedinRSA189:25,orhighschool,
+14 asdefinedinRSA194:23, shallbediscontinued,or thelocationthereofbechanged,except byamajority
+15 voteofvotersresidinginallmunicipalitiesthatareservedbytheschoolordistrict. Uponwrittenpetitionto
+16 the school board by 20 or more legal voters of the towns or district in which such elementary or high
+17 school is located, the school board or cooperative school board shall hold an open public meeting for the
+18 purpose of voting on the question of discontinuance of the elementary or high school. Notice of the
+19 meeting shall be published in a newspaper of general circulation at least 7 days before the meeting.
+20 Votingshallbebyballotwiththeuseofachecklist,afterreasonableopportunityforpubliccommentinan
+21 open public meeting, as defined in RSA 189:74. The question on the ballot shall be in substantially the
+22 followingform:
+23 "Shall the school district authorize the discontinuation of ________ school, ceasing the school's
+24 operation?" Yes____No______
+25 I. If a majority of voters present and voting vote in the affirmative for the discontinuation of an
+26 elementary or high school, then the elementary or high school shall be closed by the district effective no
+27 laterthanonedaypriortothestartofthefollowingschoolyear,withtheexceptionofwheretheoperation
+28 oftheelementaryorhighschoolhasbeenpreservedpursuanttoRSA194:3-g.
+29 II. If a majority of voters present and voting vote in the negative for the discontinuation of an
+30 elementaryorhighschool,thentheelementaryorhighschoolshallcontinuetooperate.
+31 III. A separate ballot shall be required where more than one elementary school or high school
+32 closureisbeingvotedonatthesamemeeting.
+33 194:3-g Municipal Preservation Option. If a majority of voters residing in all municipalities that are
+34 served by a school or district vote in the affirmative for the discontinuance of such elementary or high
+35 schoolpursuanttoRSA194:3-f,themunicipalityinwhichtheelementaryorhighschoolislocatedshallbe
+36 permittedtocontinuetheoperationoftheschoolinaccordancewiththissection.
+37 I. Forthepurposesofthissection:
+38 (a) ElementaryschoolsarethesameasdefinedinRSA189:25.
+39 (b) HighschoolsarethesameasdefinedinRSA194:23.
+
+CHAPTER303
+HB1374-FINALVERSION
+-Page3-
+1 (c) "Governing body" means the board of aldermen or city council in the case of a city and
+2 theboardofselectmeninthecaseofatown.
+3 II. Ifthemajorityofvotersresidinginallmunicipalitiesthatareservedbyaschoolordistrictelect
+4 to close an elementary or high school, the governing body of the municipality in which the school is
+5 located shall by a majority vote on a warrant article at a regular or special town meeting elect whether to
+6 preserveandcontinuetheoperationoftheschool.
+7 (a) If the majority vote of the governing body elects to not preserve and continue the
+8 operationoftheschool,theschoolshallbeclosedpursuanttoRSA194:3-f,I.
+9 (b) If a majority vote of the governing body elects to preserve and continue the operation of
+10 the school, the governing body shall within 90 days negotiate and enter into an operating agreement with
+11 theschooldistrictincluding,butnotlimitedto:
+12 (1) Accountability and governance relative to the duty to provide an adequate public
+13 educationinaccordancewithRSA189:1-aandRSA193-E;
+14 (2) Apportionment of costs and collective bargaining requirements relative to staffing in
+15 accordancewithRSA273-A;
+16 (3) Apportionment of operating and capital outlay costs and the formula used for
+17 determiningtheapportionmentofsuchcosts;
+18 (A) This subparagraph shall not be construed to require the modification of the duty
+19 of town districts to raise and appropriate funds relative to the maintenance of high schools pursuant to
+20 RSA194:34;
+21 (B) This subparagraph shall not be construed to require the modification of joint
+22 maintenanceagreements,asdefinedinRSA194:21;
+23 (4) ApportionmentofcostsrelativetothetransportationofpupilsinaccordancewithRSA
+24 189:6;
+25 (5) The transfer and conveyance of title to any land or property where the school is
+26 locatedandanyassociatedcostsrelativetothetransferandconveyanceoftitle;and
+27 (6) Attendanceofnon-residentpupilswithinthemunicipalitywheretheschoolislocated,
+28 andwhethertheschoolbemodifiedasanopenenrollmentschoolpursuanttoRSA194-D.
+29 (c) If the governing body and school district fail to negotiate and enter into an operating
+30 agreement within 90 days immediately following the majority vote of the governing body prescribed in
+31 194:3-g,II(b),thestateboardofeducationshallconductahearingandissueafinaldecisiononthematter
+32 pursuanttoRSA21-N:11,III.
+33 III. Ifanyprovisionofthissectionortheapplicationthereoftoanypersonorcircumstanceisheld
+34 invalid, the invalidity does not affect other provisions or applications of the section which can be given
+35 effect without the invalid provisions or applications, and to this end the provisions of this section are
+36 severable.
+37 303:4 New Section; School Administrative Units; School Closures. Amend RSA 194-C by inserting
+38 aftersection3thefollowingnewsection:
+
+CHAPTER303
+HB1374-FINALVERSION
+-Page4-
+1 194-C:3-a School Closures. All school administrative units shall comply with the requirements of
+2 RSA194:3-fandRSA194:3-grelativetotheclosureofelementaryandhighschools.
+3 I. Forthepurposesofthissection:
+4 (a) ElementaryschoolsarethesameasdefinedinRSA189:25.
+5 (b) HighschoolsarethesameasdefinedinRSA194:23.
+6 II. SingledistrictschooladministrativeunitsshallbeexemptfromtherequirementsofRSA194:3-
+7 gifthesingledistrictschooladministrativeunitservesonlyasinglemunicipality.
+8 303:5 New Section; Cooperative School Districts; School Closures. Amend RSA 195 by inserting
+9 aftersection10thefollowingnewsection:
+10 195:10-a SchoolClosures. AllcooperativeschooldistrictsshallcomplywiththerequirementsofRSA
+11 194:3-fandRSA194:3-grelativetotheclosureofelementaryandhighschools.
+12 I. Forthepurposesofthissection:
+13 (a) ElementaryschoolsarethesameasdefinedinRSA189:25.
+14 (b) HighschoolsarethesameasdefinedinRSA194:23.
+15 II. Itshallbeprohibitedforanycooperativeschooldistrictarticlesofagreementtocircumventthe
+16 requirementsofRSA194:3-fandRSA194:3-g.
+17 303:6 Applicability. On the effective date of this act, all cooperative school district articles of
+18 agreement that violate the requirements of RSA 194:3-f and RSA 194:3-g shall be amended to comply
+19 withsaidsections.
+20 303:7 AREASchools;DiscontinuanceofSchools;ReferenceRemoved. AmendRSA195-A:9toread
+21 asfollows:
+22 195-A:9 Discontinuance of Schools Replaced by an Area School. Upon the date of operating
+23 responsibility of an area school, the school buildings of the various sending districts and receiving district
+24 which formerly served the same grades as the area school and have been rendered surplus thereby
+25 under the approved plan, shall automatically be deemed closed and discontinued notwithstanding [the
+26 provisions of RSA 194:35 or any other applicable statute] anyotherprovisionoflaw, unless the school
+27 district in which any such building is located shall have expressly voted to devote the same to some
+28 differenteducationaluse.
+29 303:8 New Section; Report on District Activity. Amend RSA 189 by inserting after section 29-b the
+30 followingsection:
+31 189:29-c Report on District Activity. Every 3 years following the effective date of this section, the
+32 schoolboardofeveryschooldistrictshall:
+33 I. Reviewtheexistingcontracts,debts,funding,policies,andsalariesoftheschooldistrict;and
+34 II. Provide a written report to the school district including findings and recommendations relative
+35 tosuchdistrictactivity.
+36 303:9 New Paragraph; School Administrative Units; Organization and Duties; Duty to Review Plans
+37 andContractsAdded. AmendRSA194-C:5byinsertingafterparagraphIIIthefollowingparagraph:
+38 IV. Every 3 years following the effective date of this paragraph, the school board of each school
+39 administrativeunitshall:
+
+CHAPTER303
+HB1374-FINALVERSION
+-Page5-
+1 (a) Review the approved and unapproved plans for organization, reorganization, withdrawal,
+2 andmergerasdescribedinRSA194-C:2;
+3 (b) Review existing and continuing contracts entered into by the school administrative unit;
+4 and
+5 (c) Provide a written report to all school districts within the school administrative unit
+6 includingtheboard'sfindingsindicatingwhetherchangestosuchplansandcontractsarerecommended.
+7 303:10 Cooperative School Districts; School Board; Powers and Duties Modified. Amend the
+8 introductoryparagraphofRSA195:5toreadasfollows:
+9 195:5 School Board; Powers and Duties. The cooperative school board elected at the organization
+10 meeting shall organize and take office at the close of such meeting and proceed to assume its
+11 responsibilities and duties with respect to the administration and planning of the new cooperative school
+12 district; provided, however, that the cooperative board shall have no administrative authority as to the
+13 schools in the pre-existing districts until the date of operating responsibility. Thereafter all cooperative
+14 school district officers shall assume office at the close of the annual meeting. The cooperative school
+15 board shall have the same powers and duties as school boards in school districts as prescribed by RSA
+16 189,withtheexceptionoftheadditionaldutytoreviewdocumentsasdescribedinRSA195:5-a. Except
+17 as provided in this chapter, all the provisions of this chapter or of any other general law relating to or
+18 affecting school districts in the state shall apply to cooperative school districts organized as herein
+19 provided.
+20 303:11 New Section; Additional Duty to Review Documents. Amend RSA 195 by inserting after
+21 section5thefollowingnewsection:
+22 195:5-a Additional Duty to Review Documents. Every 3 years following the effective date of this
+23 section,thecooperativeschoolboardforeachcooperativeschooldistrictshall:
+24 I. Review the bylaws, articles of agreement, and any other existing arrangements for the
+25 cooperativeschooldistrict;and
+26 II. Publish in a newspaper generally circulated within the cooperative school district the board's
+27 findingsindicatingwhetherchangestosuchdocumentsarerecommended.
+28 303:12 Repeal. RSA194:35,relativetothediscontinuanceofhighschools,isrepealed.
+303:13 EffectiveDate. Thisactshalltakeeffect90daysafteritspassage.
+Approved:July10,2026
+EffectiveDate:October08,2026

@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER232
+HB1563-FN-LOCAL-FINALVERSION
+19Feb2026...0546h
+26Mar2026...1086h
+4Jun2026...2140EBA
+2026SESSION
+26-2408
+07/08
+1563-FN-LOCAL
+HOUSEBILL
+ANACT relative to the special education aid formula and the administration and monitoring of
+statespecialeducationaid.
+SPONSORS: Rep.Ladd,Graf.5;Rep.Erf,Hills.28;Rep.Peeples,Hills.14;Rep.D.McGuire,Merr.
+14;Rep.Popovici-Muller,Rock.17;Rep.S.Smith,Sull.3;Sen.Sullivan,Dist18;Sen.
+Murphy,Dist16;Sen.Innis,Dist7
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Requires the department of education to distribute aid to school districts for pupils whose special
+educationcostsexceedacertaindollarvalue,butonlyuptoacertainthreshold.
+II. Creates considerations for calculating costs associated with a special education student's
+education.
+III. Requires each school district seeking special education aid reimbursements to submit a certified
+reportforeachstudentforwhomreimbursementisrequested.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER232
+HB1563-FN-LOCAL-FINALVERSION
+19Feb2026...0546h
+26Mar2026...1086h
+4Jun2026...2140EBA 26-2408
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the special education aid formula and the administration and monitoring of
+statespecialeducationaid.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 232:1 LegislativeIntent. Itistheintentofthegeneralcourttoreduceadministrativeburdenonschool
+2 districts and the department, expedite reimbursement of state special education aid, and ensure
+3 appropriatestewardshipofstatefundsthrougharisk-basedmonitoringmethodology.
+4 232:2 Education;SpecialEducation;StateAid. AmendRSA186-C:18,IIItoreadasfollows:
+5 III.(a) ForthefiscalyearendingJune30,2029,baseduponschoolyear2027-2028costs,andfor
+6 eachfiscalyearthereafter,[The] thedepartment of education shall distribute aid available under this
+7 paragraph as entitlement to such school districts as have a special education pupil for whose costs they
+8 are responsible, for whom the costs of special education in the fiscal year exceed [3]2and 1/2 times the
+9 most current state average expenditure per pupil for the school year preceding the year of distribution. If
+10 in any year, the amount appropriated for distribution as special education aid in accordance with this
+11 section is insufficient therefor, the appropriation shall be prorated proportionally based on entitlement
+12 among the districts entitled to a grant, provided that the department of education shall distribute to the
+13 school district not less than 80 percent of the district's entitlement in the fiscal year. The state may
+14 designate up to $250,000 of the funds which are appropriated as required by this paragraph, for each
+15 fiscal year, to assist those school districts which, under guidelines established by rules of the state board
+16 ofeducation,mayqualifyforemergencyassistancetomitigatetheimpactofspecialeducationcosts. The
+17 state may designate up to an additional $250,000 of the funds which are appropriated under this
+18 paragraph for each fiscal year for any community of 1,000 or fewer residents to mitigate the impact of
+19 special education costs when emergency assistance is necessary to prevent significant financial harm to
+20 such district or community. Upon application to the commissioner of education, and approval by the
+21 commissioner, such funds may be accepted and expended by school districts in accordance with this
+22 chapter; provided, however, that if a school district has received emergency assistance funds for certain
+23 childrenwithdisabilities,itshallnotreceivespecialeducationaidforthosesamechildrenwithdisabilities.
+24 If any of the funds designated for emergency assistance under this paragraph are not used for such
+25 emergency assistance purposes, the funds shall be used to assist school districts in meeting special
+26 educationcostincreasesintheirspecialeducationprogramsasprovidedbythisparagraph.
+27 [(b) The school district shall be liable for 3 and 1/2 times the estimated state average
+28 expenditure per pupil for the school year preceding the year of distribution, plus 20 percent of the
+29 additional cost, up to 10 times the estimated state average expenditure per pupil for the school year
+30 precedingtheyearofdistribution.]
+
+CHAPTER232
+HB1563-FN-LOCAL-FINALVERSION
+-Page2-
+1 (b) Theschooldistrictshallbeliableforthefollowingamounts,calculatedusingthemost
+2 currentstateaverageexpenditureperpupilfortheschoolyearprecedingtheyearofdistribution:
+3 (1)Anamountequalto2.5timesthestateaverageexpenditureperpupil.
+4 (2) 85percentoftheportionofcostsexceeding2.5times,butnotexceeding3.5times,
+5 thestateaverageexpenditureperpupil.
+6 (3) 20percentoftheportionofcostsexceeding3.5times,butnotexceeding10times,
+7 thestateaverageexpenditureperpupil.
+8 (4) 10percentoftheportionofcostsexceeding10timesthestateaverageexpenditure
+9 perpupil.
+10 [(c) The department of education shall be liable for 80 percent of the cost above the 3 1/2
+11 times the estimated state average expenditure per pupil for the school year preceding the year of
+12 distribution, up to 10 times the estimated state average expenditure per pupil for the school year
+13 precedingtheyearofdistribution.Thedepartmentofeducationshallbeliableforallcostsinexcessof10
+14 times the estimated state average expenditure per pupil for the school year preceding the year of
+15 distribution.]
+16 (c) Thedepartmentofeducationshallbeliableforthefollowingamounts,calculatedusing
+17 themostcurrentstateaverageexpenditureperpupilfortheschoolyearprecedingtheyearofdistribution:
+18 (1) 15percentoftheportionofcostsexceeding2.5times,butnotexceeding3.5times,
+19 thestateaverageexpenditureperpupil.
+20 (2) 80percentoftheportionofcostsexceeding3.5times,butnotexceeding10times,
+21 thestateaverageexpenditureperpupil.
+22 (3) 90percentoftheportionofcostsexceeding10timesthestateaverageexpenditure
+23 perpupil.
+24 232:3 New Paragraph; Education; Special Education; State Aid. Amend RSA 186-C:18 by inserting
+25 afterparagraphXIthefollowingnewparagraph:
+26 XII. A district shall be deemed eligible for special education aid when the costs associated with
+27 an individual student, after offsets applied by the district for the benefit of the student and for other
+28 availablerevenuesources,exceed2and1/2timesoftheexpenditureperpupilpursuanttosubparagraph
+29 III(a).
+30 (a) In calculating costs associated with an individual student, the costs shall be incurred
+31 solely as a result of the provision of special education and related services to the student’s individual
+32 educationprogrampursuanttoRSA186-C:7.
+33 (b) All services included in a claim for special education aid shall be specified and
+34 documented in an IEP and tied to the child's disability related needs and program. Such costs shall be
+35 necessary, reasonable, and directly benefit the student's education and disability needs as outlined in
+36 their IEP. The state shall provide funding to school districts to help offset such expenses, but districts
+37 shallalsoberesponsibleforaportionofthecosts.
+
+CHAPTER232
+HB1563-FN-LOCAL-FINALVERSION
+-Page3-
+1 (c) The district shall demonstrate and document that it has fully accessed, to the maximum
+2 extent possible, other available revenue sources, including Medicaid and private insurance, or provide
+3 documentationastowhyotherrevenuesourceswereunavailabletothedistrictforspecialeducationaid.
+4 (d) Other available revenue sources, including Medicaid and private insurance, shall be
+5 appliedbythedistrictasoffsetstoreimbursablecostsforeachspecialeducationcostreimbursedthrough
+6 specialeducationaid.
+7 (e) A pupil's local education agency (LEA) shall provide documentation on the specific costs
+8 being claimed for each student. If there are questions about an LEA's claim and its costs are not
+9 documented, the claim may be disqualified. Appropriate documentation is included in the IEP for each
+10 student. All services included in the claim shall be specified in the IEP, and tied to the child's disability-
+11 related needs and programs. All documentation should connect each cost to the IEP, demonstrating that
+12 it is an actual cost of special education specific to the students. Appropriate documentation in support of
+13 theIEPmayinclude,butnotbelimitedto,dailyschedules,payrollrecords,andinvoices.
+14 232:4 NewSection;SpecialEducation;AdministrationandMonitoringofStateSpecialEducationAid.
+15 AmendRSA186-Cbyinsertingaftersection18thefollowingnewsection:
+16 186-C:18-a AdministrationandMonitoringofStateSpecialEducationAid.
+17 I. Each school district seeking reimbursement under this chapter shall submit to the department,
+18 by a date established by the department, a certified report for each student for whom reimbursement is
+19 requested.
+20 II. Thereportshallinclude,atminimum:
+21 (a) Astudentidentifier;
+22 (b) A description of services provided pursuant to the student’s individualized education
+23 program(IEP);
+24 (c) Eligibleexpendituresassociatedwiththoseservices,itemizedbycategory;
+25 (d) Thetotalreimbursementamountrequestedforthatstudent;and
+26 (e) Certificationbythesuperintendentthattheinformationsubmittedisaccurateandthat the
+27 districtmaintainssupportingdocumentation.
+28 III. Thedepartmentshalldetermineandissuestatespecialeducationaidpaymentsbasedonthe
+29 certifiedreportssubmittedbyschooldistricts.
+30 IV.(a) Thedepartmentshallestablisharisk-basedmonitoringprogramtoverifytheaccuracyand
+31 allowabilityofreimbursementclaims.
+32 (b) Themonitoringprogramshallinclude:
+33 (1) Annual review of not less than 20 percent of districts submitting claims for state
+34 special education aid on a rotating review schedule designed to ensure that each district is reviewed at
+35 leastonceevery5years;
+36 (2) Randomselectionofadditionaldistrictsforreview;
+37 (3) Targeted reviews based on risk indicators, anomalies, prior findings, or other factors
+38 identifiedbythedepartment;and
+39 (4) Othercriteriaasidentifiedbythedepartment.
+
+CHAPTER232
+HB1563-FN-LOCAL-FINALVERSION
+-Page4-
+1 (c) Ifsystemicerrorsareidentified,thedepartmentmaytakeadditionalmeasures,including:
+2 (1) Conductingafullreviewofthepastyearsofsubmissions;
+3 (2) Requiring districts to enter into an agreement with an independent auditor to
+4 completeanauditofexpendituresunderthisprogram;
+5 (3) Requiring additional review and certification of expenditures by the local school
+6 board;and
+7 (4) Othermeasuresdeemedappropriate.
+8 V. For districts selected for review, the department may examine invoices, individualized
+9 education programs (IEPs), service documentation, expenditure records, and any other documentation
+10 necessarytoverifyeligibilityandaccuracyofreportedcosts.
+11 VI.(a) Thedepartmentshalladjustreimbursementamountsbasedonmonitoringfindings.
+12 (b) Overpaymentsshallbesubjecttorecoupment.
+13 (c) The department may require corrective action plans for districts demonstrating systemic
+14 errorsornoncompliance.
+15 VII. ThedepartmentshalladoptrulespursuanttoRSA541-Atoimplementthissection,including
+16 reporting formats, certification requirements, monitoring standards, appeal procedures, and recoupment
+17 processes.
+18 232:5 EffectiveDate. ThisactshalltakeeffectJuly1,2028.
+Approved:July02,2026
+EffectiveDate:July01,2028

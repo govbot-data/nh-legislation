@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1584-FN-VERSIONADOPTEDBYBOTHBODIES
+12Feb2026...0324h
+05/14/2026 1427s
+05/14/2026 1960s
+05/14/2026 1959s
+4Jun2026...2089CofC
+4Jun2026...2178EBA
+2026SESSION
+26-3239
+05/08
+1584-FN
+HOUSEBILL
+ANACT directing the department of health and human services to provide notice of
+medical and religious exemptions from immunization requirements and relative
+tonoticeofdrugpricingoptions.
+SPONSORS: Rep. Potenza, Straf. 19; Rep. Kofalt, Hills. 32; Rep. Layon, Rock. 13; Rep. Mazur,
+Hills.44
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Directs the department of health and human services to include in certain materials relative
+to childhood immunization requirements a statement indicating that medical and religious
+exemptionstosuchrequirementsareavailableunderstatelaw.
+II. Requires pharmacies to make efforts to notify consumers of their right to request the lowest
+availablepriceforprescriptiondrugs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1584-FN-VERSIONADOPTEDBYBOTHBODIES
+12Feb2026...0324h
+05/14/2026 1427s
+05/14/2026 1960s
+05/14/2026 1959s
+4Jun2026...2089CofC
+4Jun2026...2178EBA 26-3239
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT directing the department of health and human services to provide notice of
+medical and religious exemptions from immunization requirements and relative
+tonoticeofdrugpricingoptions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Noticeof Medical and Religious Exemptions. Amend RSA141-Cby inserting
+2 aftersection20-fthefollowingnewsection:
+3 141-C:20-g NoticeofMedicalandReligiousExemptions.
+4 I. Any printed or electronic materials relative to required childhood immunizations in RSA
+5 141-C:20-a produced by the department of health and human services and distributed in connection
+6 with school and child care enrollment on or after the effective date of this section shall include the
+7 following statement: "Medical and religious exemptions are available under New Hampshire law."
+8 The department shall include a website link on an existing webpage detailing the current
+9 immunizationexemptionsunderNewHampshirelaw.
+10 II. The department of health and human services may adopt rules under RSA 541-A to
+11 implementthissection.
+12 2 New Subdivision; Drug Pricing Options. Amend RSA 318 by inserting after section 47-m the
+13 followingnewsubdivision:
+14 DrugPricingOptions
+15 318:47-n NoticeofDrugPricingOptions.
+16 I. Everypharmacylicensedinthisstateshallmakereasonableeffortstonotifyconsumersof
+17 theirrighttorequestthelowestavailablepriceforaprescriptiondrug. Suchnoticemayinclude,but
+18 is not limited to, verbal instruction from pharmacy staff, signage at check out, or printed material
+19 availableforconsumerstoread.
+20 II. A pharmacy shall, upon request of a consumer, inform the consumer of available pricing
+21 options for a prescription drug, including the consumer’s cost under the consumer’s insurance plan,
+22 the pharmacy’s usual and customary cash price, and any available coupons, discounts, or rebate
+23 programs.
+24 3 EffectiveDate.
+25 I. Section1ofthisactshalltakeeffect90daysafteritspassage.
+26 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3239
+05/26/2026
+HB1584-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#s2026-1427s,2026-1960s,and2026-1959s)
+ANACT directing the department of health and human services to provide notice of
+medical and religious exemptions from immunization requirements, relative to
+income eligibility for the New Hampshire child care scholarship program and
+reallocating certain revenues to fund the program, and relative to notice of drug
+pricingoptions.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFund,EducationTrustFund
+Appropriations* $0 $0 Indeterminable Indeterminable
+FundingSource(s) GeneralFund,EducationTrustFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Section 1 of this bill requires the Department of Health and Human Services to provide notice
+of medical and religious exemptions from immunization requirements. In response to an earlier
+version of this language, the Department assumed that in the first year of implementation, it
+will need a part-time medical health services specialist to communicate the changes to the
+severalhundredimpactedproviders. Thecostforthispositionwas estimatedtobe$43,500.Itis
+unclear whether the position will still be needed to comply with the simplified requirement
+containedinthisbill. Forthisreason,thecostofthissectionisindeterminable.
+Sections 2-8 amend RSA 167:83, II(r) by directing the Department of Health and Human
+Services to find families eligible for the child care scholarship program if their gross monthly
+income is less than or equal to 95 percent of the state median income (SMI). Currently, the
+statute in question merely establishes the program as a departmental responsibility, and does
+not reference SMI with respect to eligibility criteria. The bill makes the new eligibility
+standards contingent upon available funding, and restricts the following revenue sources to
+provideforchildcarescholarships:
+
+· 50 percent of any surplus tobacco tax revenues above those estimated in the annual
+revenueplan;
+· 50 percent of any surplus Liquor Commission profits above those estimated in the
+monthlyrevenueplan;
+· 50 percent of any surplus beer tax revenues above those estimated in the monthly
+revenueplan;
+· 50 percent of any surplus revenues collected from video lottery terminals (VLT), above
+thoseestimatedinthemonthlyrevenueplan;and
+· 2 percent of certain revenues received by the Lottery Commission. (The bill specifies
+revenues attributable to horse and dog racing, games of chance, bingo/Lucky 7, fantasy
+sports,sportsbetting,andvideolotteryterminals.)
+The revenue sources identified above are currently deposited into the general and education
+trust funds. The bill states that no transfers to the childcare scholarship program shall take
+place before July 1, 2027. As the first four sources refer to revenue above plan, the amounts
+that may be available for the childcare scholarship program are currently indeterminable. The
+fifth component, certain revenues received by the Lottery Commission, is unique in that the bill
+requires two percent of all such revenues to be transferred to the childcare scholarship program,
+regardless of whether those revenues exceed plan. Although it cannot be known how much
+revenue will be generated by the Lottery Commission in FY28 and beyond, the operating budget
+forFY27assumesthatapproximately$164millionwillbereceivedfromthesourcesidentifiedin
+the bill. Assuming this number is accurate in future years, the Lottery component would
+generate approximately $3.28 million per year for the childcare scholarship program. This
+would indirectly be a cost to the general and education trust funds, as these are where such
+revenuesarecurrentlydeposited.
+With respect to the non-Lottery revenue sources, the bill contains several inconsistencies
+regarding the determination of surplus revenues above plan. Section 2 refers to a surplus above
+theyearlyrevenueplan,sections3and4refertosurplusesabovethemonthlyrevenueplan,and
+section5referstoasurplusaboveanunidentifiedperiod'srevenueplan.
+With respect to possible costs, the Department of Health and Human Services states that it
+currently provides child care scholarships for households with income at or below 85 percent of
+the SMI. The SMI for a family of four is $146,582 annually. Therefore, the families who will
+become newly eligible for child care scholarships as a result of this bill are those between
+$124,595(85percentofSMI)and $139,253(95percentofSMI)annually.
+
+Based on available census data, the Department concludes that approximately 6,090 children
+will newly qualify for the child care scholarship as a result of this bill. At an average cost of
+$4,770 per year, the bill will therefore result in a total annual cost of approximately $29 million
+should all eligible children be provided benefits. In addition, the Department assumes that nine
+new positions (one business administrator, one business system analyst, and seven social
+services specialists) will be needed to handle the increased caseload, at an annual cost of
+$560,000 in the first year of the program's expansion, increasing slightly in subsequent years as
+step increases are provided. Finally, the Department anticipates needing a one-time change to
+the New Heights eligibility system, at a cost of $1,145,000 in the first year of the program's
+expansion.
+As noted above, the bill makes the new eligibility criteria contingent upon available funding.
+Total costs, therefore, are indeterminable and will depend on the amount of revenue received
+fromthesourcesidentifiedabove.
+Section 9 requires pharmacies to make reasonable efforts to notify consumers of their right to
+request the lowest available price for prescription drugs, and to further notify them of available
+pricingoptions. Thissectionisnotanticipatedtohaveafiscalimpact.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

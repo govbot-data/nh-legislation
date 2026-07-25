@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1071 -ASINTRODUCED
+2026SESSION
+26-2388
+05/06
+1071
+HOUSEBILL
+ANACT repealing immunity afforded health care facilities when following directives
+adoptedinresponsetotheCOVID-19stateofemergency.
+SPONSORS: Rep. Tom Mannion, Hills. 1; Rep. Ankarberg, Straf. 7; Rep. DeRoy, Straf. 3; Rep.
+Wherry,Hills.13;Rep.McGrath,Rock.40;Rep.Perez,Rock.16;Rep.Drew,Hills.
+19;Rep.Tenczar,Hills.1
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals immunity afforded health care facilities when following directives adopted in
+responsetotheCOVID-19stateofemergency.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1071-ASINTRODUCED
+26-2388
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing immunity afforded health care facilities when following directives
+adoptedinresponsetotheCOVID-19stateofemergency.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA 21-P:42-a, relative to immunity granted to health care facilities following rules
+2 orordersissuedduringtheCOVID-19stateofemergency,isrepealed.
+3 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

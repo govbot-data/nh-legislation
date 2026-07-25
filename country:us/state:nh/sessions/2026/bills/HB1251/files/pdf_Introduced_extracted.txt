@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1251 -ASINTRODUCED
+2026SESSION
+26-2759
+06/08
+1251
+HOUSEBILL
+ANACT relative to restricting municipal downzoning inconsistent with existing
+neighborhooddensity.
+SPONSORS: Rep.Long,Hills.26;Rep.H.Howard,Straf.4;Rep.AlexanderJr.,Hills.29
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires municipalities to approve residential construction permits when a licensed
+architect certifies that the proposed density matches surrounding development, and prohibits
+discretionaryzoningdenialsinconsistentwithexistingneighborhoodpatterns.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1251-ASINTRODUCED
+26-2759
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to restricting municipal downzoning inconsistent with existing
+neighborhooddensity.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Downzoning. Amend RSA 674 by inserting after section 21-a the following new
+2 section:
+3 674:21-b Residential Construction Consistent with Existing Neighborhood Density. In this
+4 section:
+5 I. "Downzone" or "downzoning" means changing a zoning ordinance or zoning map to reduce
+6 the number of dwelling units, decrease building size, or limit the types or intensity of uses that are
+7 allowedonlandcomparedtowhatwaspreviouslypermitted.
+8 II. The purpose of this section is to ensure that property owners may construct residential
+9 buildingsonresidentialpropertyinamannerconsistentwiththeexistingdensityofthesurrounding
+10 neighborhood, and to prevent municipalities from adopting or enforcing zoning ordinances that
+11 arbitrarilydownzoneareasinawaythatisinconsistentwithcurrentlandusepatterns.
+12 III. A municipality shall not deny a permit for residential construction on a lot if the
+13 proposed construction is consistent with the density of existing residential development in the
+14 surroundingneighborhood,ascertifiedunderthissection.
+15 IV. The property owner shall be responsible for conducting an analysis of existing
+16 residential density in the surrounding neighborhood. This analysis shall be prepared and signed by
+17 a licensed architect, who shall certify that the proposed residential construction is consistent with
+18 the prevailing density of residential structures in the area. The analysis shall be submitted to the
+19 municipalofficialorbodyresponsibleforissuingpermitsforresidentialconstruction.
+20 V. The issuance of a permit under this section shall be ministerial and non-discretionary,
+21 provided that the architect has certified compliance with this section. The municipality shall not be
+22 required to conduct any analysis or mapping, nor shall it exercise discretion in evaluating the
+23 certification.
+24 VI. Nothing in this section shall be construed to limit the authority of a municipality to
+25 enforce applicable building codes, life safety codes, or other non-zoning regulations that apply
+26 uniformlytoallresidentialconstruction.
+27 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

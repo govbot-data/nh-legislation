@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1169 -ASINTRODUCED
+2026SESSION
+26-2466
+06/05
+1169
+HOUSEBILL
+ANACT relative to notification waiting periods to the underground utility damage
+preventionlaws.
+SPONSORS: Rep. Labrie, Hills. 2; Rep. Cole, Hills. 26; Rep. Drago, Rock. 4; Rep. Morton, Hills.
+39;Rep.Ouellet,Coos3;Rep.Potucek,Rock.13
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill shortens the minimum excavation notice period from 72 to 48 hours, excluding
+weekends and 6 holidays, and extends the validity of excavation notifications from 30 days to one
+yearifsiteconditionsremainunchanged.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1169-ASINTRODUCED
+26-2466
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to notification waiting periods to the underground utility damage
+preventionlaws.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NotificationbyExcavator. AmendRSA374:51,IItoreadasfollows:
+2 II. At least [72] 48 hours before a proposed excavation, but not including Saturdays,
+3 Sundays, [and legal holidays] or Christmas, New Years Day, Thanksgiving, Memorial Day,
+4 July4th,knownasIndependenceDay,andLaborDay,eachpersonrequiredtogivenoticeofan
+5 excavation shall notify the damage prevention system referred to in RSA 374:49. Such notice shall
+6 occurnomorethan30daysbeforetheproposedexcavationistobemade.
+7 2 NotificationbyExcavator. AmendRSA374:51,VItoreadasfollows:
+8 VI. The excavator's notification shall be valid for [30 calendar days] one year from the date
+9 and time of confirmation of notification by the underground facility damage prevention system as
+10 long as no utility alterations have been made at the excavation location during the one-
+11 yearperiod.
+12 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

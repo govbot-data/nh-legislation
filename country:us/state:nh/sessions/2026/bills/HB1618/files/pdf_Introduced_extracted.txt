@@ -1,0 +1,338 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1618-FN-ASINTRODUCED
+2026SESSION
+26-2644
+08/06
+1618-FN
+HOUSEBILL
+ANACT prohibitingsolarradiationmodification,weathermodification,andotherpolluting
+atmosphericinterventions.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Mattson, Ches. 18; Rep. Drew, Hills. 19; Rep.
+Granger,Straf.2;Rep.DeVito,Rock.8;Rep.DeRoy,Straf.3;Rep.McGrath,Rock.
+40;Rep.Reinfurt,Hills.29;Rep.Mehegan,Merr.12
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a regulatory process to prohibit solar radiation modification (SRM),
+geoengineering, or other atmospheric interventions involving the release of pollutants within the
+state, providing penalties for violations. This bill requires reports of such violations to be made to
+theNewHampshirecountysheriffsordeputizedNewHampshirecitizenstoenforcetheprovisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1618-FN-ASINTRODUCED
+26-2644
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingsolarradiationmodification,weathermodification,andotherpolluting
+atmosphericinterventions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownandmaybecitedas"TheCleanAirPreservationAct."
+2 2 Purpose.
+3 I. Currently,RSA12-F:1provides thatanydepartment oragencyofthestatemayengage in
+4 and undertake experimentation in the techniques and methods for weather modification, and may
+5 cooperate therein with the federal government, with authorized agencies of other states, and with
+6 interested persons and organizations. Weather modification experimentation is known to involve
+7 theuseofchemicalcompoundsandtechnologies.
+8 II. New Hampshire RSA 125 states that it is necessary to aggressively reduce emissions of
+9 sulfur dioxide (SO2) and other criteria pollutants due to adverse impacts on human health and the
+10 ecosystem. The department of environmental services acknowledges adverse health and
+11 environmental effects of SO2 including harm to the human respiratory system and that elevated
+12 concentrations of SO2 in the atmosphere can react with other compounds to form small particles
+13 that contribute to particulate matter pollution, reduce visibility and cause regional haze. SO2 can
+14 harm bees and other pollinators, animals, and aquatic life. SO2 harms trees and forests, damages
+15 foliageanddecreasesplantgrowthbycausingacidrain. Acidraindecreasessoilqualityandreduces
+16 theyieldfromagriculture,farming,andgardening.
+17 III. Attempts to alter atmospheric conditions through weather modification, solar radiation
+18 modification (SRM) and other weather manipulation methods involve the release of pollutants into
+19 the atmosphere. These pollutants fall to earth in precipitation causing harm to human health and
+20 damaging New Hampshire's natural resources. The Congressionally Mandated Research Plan and
+21 an Initial Research Governance Framework Related to Solar Radiation Modification outlines the
+22 coordination of federally funded research into Solar Radiation Modification (SRM). Scientific
+23 dimensions of SRM include the use of interoperable ground-based, airborne, and space-based
+24 facilities. PertheCenterforInternationalEnvironmentalLaw,"SolarRadiationModification(SRM)
+25 technologies are dangerous and do not have any role to play in our common future." It is therefore
+26 theintentionof thegeneral court toprohibit SRM as further set forthbytheterms and provisions of
+27 thisact.
+28 IV. The general court finds it necessary to prohibit SRM, weather modification
+29 experimentationandotherpollutingweatherinterventionsorexperimentsinNewHampshireunder
+30 thefollowingprovisionsoftheNewHampshireconstitution:
+
+HB1618-FN-ASINTRODUCED
+-Page2-
+1 (a) Part1,article1. Equalityofmen;originandobjectofgovernment.
+2 (b) Part1,article2. Naturalrights.
+3 (c) Part1,article7. Statesovereignty.
+4 3 Atmospheric Experiments and Interventions. RSA 12-F is repealed and reenacted to read as
+5 follows:
+6 CHAPTER12-F
+7 ATMOSPHERICEXPERIMENTSANDINTERVENTIONS
+8 12-F:1 Definitions. Inthischapter:
+9 I. "Air national guard" means the New Hampshire air national guard (NH ANG), a reserve
+10 component of the United States Air Force. As state militia units, the units in the NH ANG are not
+11 in the normal United States Air Force chain of command. They are under the jurisdiction of the
+12 governor of New Hampshire through the office of the state adjutant general unless they are
+13 federalized by order of the President of the United States. In the event that NH ANG is federalized,
+14 thegovernorshallformastateguardunderRSA111todefendNewHampshireairspace.
+15 II. "Apparatus" means ground-based, airborne, or space-based equipment, facilities,
+16 instruments, machinery, or tools used for purposes related to weather engineering, weather
+17 experimentation,orweathermonitoring.
+18 III. "Artificial intelligence" (AI) refers to a field of science and technology encompassing
+19 systems and tools that can perform tasks typically requiring human intelligence, such as learning,
+20 reasoning, pattern recognition, and decision-making, often through computational techniques like
+21 machine learning and neural networks. AI operates within defined parameters to analyze, predict,
+22 and execute actions based on complex datasets, with applications ranging from healthcare and
+23 genomicstomilitarysystemsandpublicpolicy.
+24 IV. "Atmospheric activity" means any deliberate polluting activity conducted by any
+25 iteration of human, machine learning or artificial intelligence, or any combination thereof, that
+26 occurs in the atmosphere and may have harmful consequences upon health, the environment or
+27 agriculture.
+28 V. "Cloud seeding" is a type of weather modification that attempts to change the amount or
+29 type of precipitation by dispersing chemicals such as silver iodide (AgI), carbon dioxide (CO2 in the
+30 form of dry ice), or tri-methyl aluminum (TMA) into the air by means of aircraft or ground
+31 generators.
+32 VI. "Entity"meansanyofthefollowing:
+33 (1) Individual.
+34 (2) Trust.
+35 (3) Firm.
+36 (4) Jointstockcompany.
+37 (5) Corporation,includingaquasi-governmentalcorporation.
+
+HB1618-FN-ASINTRODUCED
+-Page3-
+1 (6) Nongovernmentalorganization(NGO).
+2 (7) Publicorprivatepartnership.
+3 (8) Association.
+4 (9) Syndicate.
+5 (10) Municipalityormunicipalagency.
+6 (11) Program.
+7 (12) Firedistrict.
+8 (13) Fund.
+9 (14) Club.
+10 (15) Nonprofitagency.
+11 (16) Commission.
+12 (17) University,college,oracademicinstitution.
+13 (18) Departmentoragencyofthisstate.
+14 (19) The Federal Government or any interstate or international governance or
+15 instrumentality thereof, including foreign, domestic and mercenary armed services or region within
+16 theUnitedStates.
+17 (20) Artificialintelligence.
+18 VII. "Geoengineering" means the intentional alteration or manipulation of the environment,
+19 involving the release of nuclear, biological, chemical, trans-biological, electromagnetic radiation or
+20 other physical agents or pollutants that effect changes to Earth's atmosphere or surface and is
+21 inclusive of weather modification, solar radiation modification (SRM), stratospheric aerosol injection
+22 (SAI),marinecloudbrightening(MCB),cirruscloudthinning(CCT),andcloudseeding.
+23 VIII. "Hazard" means aprocess, substance or physical agent byits nature that is harmful to
+24 livingorganismsgenerallyortopropertyoranotherinterestofvalue.
+25 IX. "Intervention" means the act of interfering with weather processes or altering
+26 atmospheric or environmental conditions by releasing pollutants by methods including but not
+27 limited to, SRM, stratospheric aerosol injection (SAI), marine cloud brightening (MCB), cirrus cloud
+28 thinning(CCT),weathermodification,cloudseeding,oroutdoorpollutiondispersionmodeling.
+29 X. "Machine learning" means the process in which a machine can learn on its own without
+30 beingexplicitlyprogrammed.
+31 XI. "Physical agent" means an agent, other than a substance, including, without limitation,
+32 radiofrequency/microwave (RF/MW) and other electromagnetic radiation and fields, barometric
+33 pressure,temperature,gravity,kineticordefactoweaponry,mechanicalvibrationandsound.
+34 XII. "Pollutant" means any solid, liquid, gaseous or thermal irritant, contaminant or
+35 substance, including smoke, vapor, soot, fumes, aerosol, acid, alkalis, chemicals, chemical
+36 compounds, artificially produced electric fields, magnetic fields, electromagnetic fields,
+
+HB1618-FN-ASINTRODUCED
+-Page4-
+1 electromagnetic pulse (EMP), sound waves, sound pollution, light pollution, microwaves and all
+2 artificiallyproducedionizingornonionizingradiationorwaste.
+3 XIII. "Pollution" means the discharge, dispersal, deposition, release, seepage, migration or
+4 escapeofpollutants.
+5 XIV. "Release" means any activity that results in the issuance of contaminants such as the
+6 emitting, transmitting, discharging or injecting of one or more nuclear, biological, trans-biological,
+7 chemical or physical agents into the ambient atmosphere, whether once, intermittently or
+8 continuously.
+9 XV. "Sheriff" means a New Hampshire sheriff, with the authority to enforce laws in the
+10 State.
+11 XVI. "Solar radiation modification (SRM)" means an experiment in the earth's climatic
+12 system involving the release of pollutants that reduces the amount of sunlight reaching the earth's
+13 surface. Scientific dimensions of SRM include the use of interoperable ground-based, airborne, and
+14 space-basedfacilities.
+15 XVII. "State guard" means a state defense force in addition to, and distinct from, the New
+16 HampshirenationalguardasdefinedbyRSA111.
+17 XVIII. "Weather engineering" means the deliberate manipulation or alteration of the
+18 environment for the purpose of changing the weather or climate by artificial means, typically
+19 involving the deliberate release of pollutants in the atmosphere via cloud seeding, for small-scale,
+20 large-scaleandglobal-scalealterationoftheenvironment.
+21 XIX. "Weather modification" means changing, controlling or interfering with or attempting
+22 tochange,controlorinterferewiththenaturaldevelopmentofcloudforms,precipitation,barometric
+23 pressure, temperature, conductivity or other electromagnetic or sonic characteristics of the
+24 atmosphere.
+25 12-F:2 No person or entity shall engage in solar radiation modification (SRM) in New
+26 Hampshire, including through the use of an aircraft, balloon, space-based platform, ground
+27 generators,orinteroperableground-basedfacility.
+28 12-F:3 ViolativeActivity.
+29 I. A county sherriff shall immediately issue a cease-and-desist order when an unlawful
+30 polluting atmospheric intervention is suspected. The cease-and-desist order under this section shall
+31 have the weight of a court order and any violation shall be punished in accordance with section 12-
+32 F:5.
+33 12-F:4 NoticetoCeaseFederalorForeign-ApprovedPrograms.
+34 I. Government and armed forces projects must meet all the requirements of this chapter. If
+35 an activity deemed a hazard by this act has been approved, explicitly or implicitly, by the federal
+36 government,thesheriffshallissueanoticetotheappropriatefederalagencythattheactivitycannot
+37 lawfullybecarriedoutwithinoroverthestateofNewHampshire.
+
+HB1618-FN-ASINTRODUCED
+-Page5-
+1 II. County sheriffs shall determine whether violations have occurred and, if they deem
+2 necessary, shall refer potentially prohibited activity to the air national guard or state guard. The
+3 countysheriffs and air national guard shall develop apolicytodetermine theprocess for assessment
+4 of violations, referral to the national guard, and what the enforcement procedure is, within 90 days
+5 aftertheeffectivedateofthischapter.
+6 III. If deemed necessary, the New Hampshire air national guard may interdict, document
+7 identification tail numbers, secure photographic evidence, sample aerosolized effluents or
+8 particulates, utilize mass spectrometers and other appropriate scientific instrumentation, and
+9 engage with aircraft violating this section to escort them to the nearest airport for investigation,
+10 securingofevidence,anddocumentationoftheviolation.
+11 IV. Random aircraft fuel and equipment checks shall be performed from time to time by
+12 county sheriffs, deputies, or the department of environmental services to ensure compliance with
+13 thischapter.
+14 12-F:5 Penalties and Enforcement. An entity or individual who engages in a polluting
+15 atmospheric intervention or any entity or individual who uses an unmarked or unidentified aircraft
+16 or other vehicle or facility to carry out stratospheric aerosol injection (SAI), geoengineering, weather
+17 modification,cloud-seedingorotherpollutingatmosphericintervention:
+18 I. Hascommittedafelonyandshallpayafineofnotlessthan$500,000orbeimprisonedfor
+19 notmorethan2years,orboth;
+20 II. Shallbeguiltyofaseparateoffenseforeachdayduringwhichviolativeactivityhasbeen
+21 conducted,repeated,orcontinued;and
+22 III. Shallbedeemedinviolation,andsubjecttothepenaltiesofRSA125-C,RSA125-D,and
+23 RSA125-I,andotherapplicablepollutionlawsofthestateofNewHampshire.
+24 IV. Each county sheriff shall deputize and train volunteer New Hampshire citizens to assist
+25 withtheenforcementofthischapter.
+26 V. A county sheriff or their deputy shall investigate reports of SRM or radiation pollution to
+27 ensure compliance with the requirements of this chapter or the rules adopted in furtherance of this
+28 chapter.
+29 12-F:6 Investigatory Findings. As established in this act, scientific dimensions of SRM include
+30 the use of interoperable ground-based, airborne, and space-based facilities involving the release of
+31 pollutantsincludingelectromagneticradiation.
+32 I. Communications facilities shall be subject to evaluation by an independent licensed
+33 radiofrequency (RF) engineer paid for by the facility owner. Evaluation shall document
+34 wavelengths, modulation characteristics and rates, intensities and concentrations, directionalities,
+35 reflection and duration specifications of any type of electromagnetism to be deployed or potentially
+36 emitted, intentionally or inadvertently, during the activity. Facility owner shall provide a detailed
+37 description of current purposes and future capabilities of facilities, including public, private and
+
+HB1618-FN-ASINTRODUCED
+-Page6-
+1 foreign affiliates and potential uses of artificial intelligence. The RF engineer shall provide findings
+2 in a report to be submitted to the county sheriff and the department of environmental services. The
+3 radiation signal strength metered at the reported location is not to exceed -75 dBm (decibel-
+4 milliwatt) for any frequency or channel band specified by a transmitting entity’s FCC transmission
+5 license. If signal strength metered by the RF engineer is in excess of -75 dBm, the facility operator
+6 has 30 days to achieve compliance without disruption to performance of personal wireless services.
+7 County sheriffs and the department of environmental services shall perform random testing from
+8 timetotimetoensurefacilitycompliancewiththischapter. Failuretocomplywillresultinafineof
+9 not more than $50,000 per day for each day the facility is out of compliance. Deliberate falsification
+10 oralteringofinformationrelatedtothissectionshallconstituteaviolationofthischapter.
+11 4 Cross Reference Removed; Variances; Powers of Zoning Board of Adjustment. Amend RSA
+12 674:33,VIItoreadasfollows:
+13 VII. Neither a special exception nor a variance shall be required for a collocation or a
+14 modificationofapersonalwirelessservicefacility[,asdefinedinRSA12-K:2].
+15 5 Cross Reference Removed; Powers to Review Site Plans. Amend RSA 674:44, V to read as
+16 follows:
+17 V. Site plan review shall not be required for a collocation or a modification of a personal
+18 wirelessservicefacility[,asdefinedinRSA12-K:2].
+19 6 Repeal. Thefollowingarerepealed:
+20 I. RSA12-K,relativetothedeploymentofpersonalwirelessservicefacilities.
+21 II. RSA676:13,relativetobuildingpermitsforpersonwirelessservicefacilities.
+22 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2644
+12/9/25
+HB1618-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibitingsolarradiationmodification,weathermodification,andotherpolluting
+atmosphericinterventions.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+$380,000+ $627,000+ $635,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill prohibits solar radiation modification, geoengineering, cloud seeding, and other
+atmospheric interventions involving the release of pollutants in New Hampshire. It repeals and
+reenacts RSA 12-F to establish new definitions, prohibited activities, enforcement
+responsibilities for county sheriffs, coordination with the Department of Environmental Services
+andtheAirNationalGuard,andpenaltiesforviolations.
+The Department of Environmental Services (DES) states this bill assigns the Department
+several new responsibilities, including participation in “random aircraft fuel and equipment
+checks”andassistingcountysheriffswithdeterminingwhetherprohibitedatmosphericactivities
+have occurred. DES notes this bill does not define what constitutes an aircraft fuel inspection,
+
+what testing methods should be used, how frequently such inspections would be required, or
+which pollutants are expected to be sampled under the bill's definition of “atmospheric
+interventions.” The DES also explains that the enforcement statutes referenced in the bill (RSA
+125-C, 125-D, and 125-I) currently apply only to stationary sources of air pollution. DES states
+they are unaware of any activities described in the bill occurring in NH, therefore the DES does
+notknowifenforcementwillbenecessary.
+To implement the requirements of this bill, DES states it would need one full-time Compliance
+Officer (13-1040 COMPLIANCE OFFICERS-4) beginning January 1, 2027. This position would
+coordinate with county sheriffs, collect and process fuel and equipment samples, document
+potential violations, and manage analytical results. The estimated costs include sampling
+supplies,testingcosts,andrelatedoperatingexpenses. DESestimatesthecostofthispositionto
+be $114,000 in FY 2027 (partial year), $121,000 in FY 2028, and $125,000 in FY 2029. It is
+assumedthesecostswouldbeGeneralFundexpenditures.
+The Department of Justice (DOJ) states the bill is likely to generate new enforcement actions,
+potential criminal prosecutions, and civil litigation involving federal agencies, regulated entities,
+or telecommunications operators. The Department explains that its existing budget and staffing
+cannot absorb these responsibilities. To meet the anticipated workload, DOJ estimates it would
+require three unclassified attorneys and two paralegals (23-2010 PARALGLS-LGL ASSTS-4,
+SOC23-04), beginning January 1, 2027 to handle legal reviews, enforcement actions, and
+courtroomlitigation.
+PositionsRequestedbyDOJ FY2027(Part-Year) FY2028 FY2029
+UnclassifiedAttorneyx3 $215,000 $414,000 $414,000
+Paralegalx2 $51,000 $92,000 $96,000
+TotalSalary,BenefitsandOperating $266,000 $506,000 $510,000
+Expenses
+The combined estimated cost for these positions is $266,000 in FY 2027, $506,000 in FY 2028,
+and $510,000 in FY 2029. DOJ notes that other litigation-related expenditures remain
+indeterminablebutmaybesignificant.
+This bill does not authorize nor fund the requested positions. However, if the positions are
+authorized, it is assumed the costs for FY 2028 and FY 2029 would be included in the
+DepartmentsFY2028andFY2029budgetrequests.
+TheDepartmentofMilitaryAffairsandVeteransServicesreportsnofiscalimpact.Noadditional
+positionsorfundingarerequiredtomeettheresponsibilitiesoutlinedinthebill.
+
+The New Hampshire Association of Counties states the county costs are indeterminable. The
+frequency and complexity of enforcement activities by county sheriffs cannot be predicted, and
+thereforeanyadditionalpersonneloroperatingcostscannotbeestimatedatthistime.
+Lastly,thisbilladds,deletes,ormodifiesacriminalpenalty,orchangesstatutetowhichthereis
+a penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Environmental Services, Department of Justice, Department of Military Affairs
+and Veterans Services, New Hampshire Association of Counties, Judicial Branch, Judicial
+Council, DepartmentofCorrections, andNewHampshireMunicipalAssociation

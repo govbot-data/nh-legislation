@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1109-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0620h
+05/07/2026 1645s
+4Jun2026...2099CofC
+4Jun2026...2183EBA
+2026SESSION
+26-2551
+06/09
+1109
+HOUSEBILL
+ANACT relative to notice requirements regarding public employee suspensions and
+investigations and recognizing certain positions in the department of corrections
+asgroupIIpositions.
+SPONSORS: Rep.Flanagan,Hills.45
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Requires a public employer to provide written noticeto a public employeeof the cause of their
+suspension and its anticipated duration, if known, requires periodic updates to the public employee
+until a final decision is made, and exempts public employees covered by collective bargaining
+agreementsthatestablishdisciplinaryproceduresfromthenoticerequirement.
+II. Directs that certain positions in the department of corrections be recognized by the division
+ofpersonnelinthedepartmentofadministrativeservicesintheofficialrecordasgroupII.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1109-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0620h
+05/07/2026 1645s
+4Jun2026...2099CofC
+4Jun2026...2183EBA 26-2551
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to notice requirements regarding public employee suspensions and
+investigations and recognizing certain positions in the department of corrections
+asgroupIIpositions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Protective Legislation; Notice of Suspension of Public Employees. Amend
+2 RSA275byinsertingaftersection83thefollowingnewsubdivision:
+3 NoticeofSuspensionofPublicEmployees
+4 275:84 SuspensionNoticeandInvestigationUpdatestoPublicEmployees.
+5 I. If any public employee is suspended from duty, with or without pay, the public employee
+6 shallreceivewrittennotice,within7daysofthesuspensiondate,statingthecauseofthesuspension
+7 and anticipated duration, if known. The suspended public employee shall be provided with periodic
+8 updatesregardingthestatusoftheirsuspensionevery90daysuntilafinaldecisionismade.
+9 II. This section shall apply to all public employees unless the public employee is employed
+10 under a collective bargaining agreement negotiated pursuant to RSA 273-A and that agreement
+11 establishesproceduresrelatedtodisciplinaryactionsincludingsuspension.
+12 III. Forthepurposesofthissection:
+13 (a) “Employer"meansthestateofNewHampshireandanyofitspoliticalsubdivisions.
+14 (b) "Public employee" or "employee" means any person employed by the state or any
+15 subdivision thereof, including, but not limited to counties, cities, towns, precincts, water districts,
+16 schooldistricts,andschooladministrativeunits.
+17 2 DepartmentofCorrections;GroupIIRecognition.
+18 Pursuant to the provision of RSA 100-A:3, IX, the following positions in the department of
+19 corrections classified as group I positions are deemed to have met the requirement of RSA 100-A:1,
+20 VII(b) and shall be recognized by the division of personnel in the department of administrative
+21 servicesintheofficialrecordasgroupII:
+22 PositionTitle PositionNumber
+23 AdministratorIIhazard 41469
+24 ChaplainIIhazard 44264
+25 Clinicalmentalhealthcounselor 12862
+26 Clinicalmentalhealthcounselor 16330
+27 Clinicalmentalhealthcounselor 30338
+
+HB1109-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 Clinicalmentalhealthcounselor 40893
+2 Clinicalmentalhealthcounselor 42256
+3 Correctionscounselor/casemanager 44263
+4 Electricianhazard 12940
+5 MediageneralistII 12859
+6 MediageneralistIhazard 41531
+7 MediageneralistI 44318
+8 PrisonshopmanagerII 12876
+9 Programcoordinatorhazard 44304
+10 Programcoordinatorhazard 44837
+11 Programcoordinatorhazard 44838
+12 Programcoordinatorhazard 44839
+13 RegisterednurseIIbayweekend 12963
+14 RegisterednurseIIhazard 44326
+15 RegisterednurseIIIhazard 44321
+16 RegisterednurseIIIhazard 44322
+17 RegisterednurseIIIhazard 44323
+18 RegisterednurseIIIhazard 44324
+19 RegisterednurseIIIhazard 44325
+20 RegisterednurseIIIhazard 44327
+21 SupervisorIIhazard 44310
+22 SupervisorIVhazard 44597
+23 TI/collegeprofessorhazard 44335
+24 3 EffectiveDate.
+25 I. Section1ofthisactshalltakeeffectJanuary1,2027.
+26 II. TheremainderofthisactshalltakeeffectJune30,2026.

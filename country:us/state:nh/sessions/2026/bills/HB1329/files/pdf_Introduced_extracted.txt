@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1329 -ASINTRODUCED
+2026SESSION
+26-2993
+08/07
+1329
+HOUSEBILL
+ANACT requiringthesecretaryofstatetoaddvoters'agestothevoterfile.
+SPONSORS: Rep.Wilhelm,Hills.21
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the secretary of state to include voters' ages in the voter information file
+availabletopoliticalparties,politicalcommittees,andcandidatesforoffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1329-ASINTRODUCED
+26-2993
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringthesecretaryofstatetoaddvoters'agestothevoterfile.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 VoterListInformation;AgeAdded. AmendRSA654:31,IVtoreadasfollows:
+2 IV. The secretary of state shall, upon request, provide to a political party, as defined in RSA
+3 664:2, IV, or to a political committee, as defined in RSA 664:2, III, a list of the name, age, domicile
+4 address, mailing address, town or city, voter history, and party affiliation, if any, of every registered
+5 voter in the state. The secretary of state shall, upon request, provide to a candidate for county,
+6 state, or federal office a list of the name, age, domicile address, mailing address, town or city, voter
+7 history, and party affiliation, if any, of every registered voter in the state or in the candidate's
+8 district. In this section, "voter history" means whether the person voted and, for primary elections,
+9 in which party's primary the person voted, in each state election and municipal election for the
+10 preceding2 years. The secretary of stateshall charge a feeof $25 plus $0.50per thousand names or
+11 portion thereof in excess of 2,500 plus shipping charges for each copy of the list provided under this
+12 section. In addition, the secretary of state shall charge and collect on behalf of and remit to the
+13 supervisors of the checklist of each city and town the amount that such supervisors would have
+14 charged had the public checklist of their city or town been purchased from them. The secretary of
+15 state may provide lists as prescribed in this section on paper, computer disk, computer tape,
+16 electronictransfer,oranyotherform.
+17 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

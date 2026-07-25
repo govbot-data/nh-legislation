@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1062-ASINTRODUCED
+2026SESSION
+26-2283
+08/05
+1062
+HOUSEBILL
+ANACT authorizing the secretary of state to conduct random audits of the citizenship
+qualificationofregisteredvoters.
+SPONSORS: Rep.Lynn,Rock.17
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the secretary of state to conduct random audits of the citizen qualification of
+registeredvoters.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1062-ASINTRODUCED
+26-2283
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing the secretary of state to conduct random audits of the citizenship
+qualificationofregisteredvoters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Random Citizenship Audits. Amend RSA 654 by inserting after section 45 the
+2 followingnewsection:
+3 654:45-a RandomCitizenshipAudits.
+4 I. The secretary of state may conduct random audits of the citizenship qualifications of
+5 registered voters and, for this purpose, may use any and all available governmental and private
+6 databases to confirm the citizenship of voters who submitted a qualified voter affidavit as proof of
+7 citizenship.
+8 II. Where the citizenship of a voter is confirmed through audit, such confirmation shall be
+9 noted in the statewide voter registration database, and that voter shall not be subject to further
+10 auditofhisorhercitizenship.
+11 III. If the audits reveal information of any potential non-citizens on the checklist, such
+12 informationshallbesubmittedtotheattorneygeneralforfurtherreviewandappropriateaction.
+13 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1685 -ASINTRODUCED
+2026SESSION
+26-3121
+07/06
+1685
+HOUSEBILL
+ANACT relativetoestablishingatechnologycommissiontostudymakingNewHampshire
+atechnology-firststate.
+SPONSORS: Rep.H.Howard,Straf.4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a technology commission under the department of health and human
+servicestostudymakingNewHampshireatechnology-firststate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1685-ASINTRODUCED
+26-3121
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoestablishingatechnologycommissiontostudymakingNewHampshire
+atechnology-firststate.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State and Its Government; Department of Information Technology;
+2 Technology-First Commission. Amend RSA 21-R by inserting after section 9-a the following new
+3 section:
+4 21-R:9-b Technology-FirstCommission.
+5 I. There is established a commission to study making New Hampshire a technology-first
+6 state.
+7 II. NotwithstandingRSA14:49,II,themembersofthecommissionshallbeasfollows:
+8 (a) Threeusersofassistivetechnology,appointedbythegovernor;
+9 (b) Two parents of users of assistive technology with no relationship to the members
+10 undersubparagraph(a),appointedbythegovernor;
+11 (c) Onerepresentativefromthedepartmentofeducation,appointedbythecommissioner
+12 ofthedepartmentofeducation;
+13 (d) One representative from the bureau of vocational rehabilitation, appointed by the
+14 commissionerofthebureauofvocationalrehabilitation;
+15 (e) One representative from the bureau of developmental services, appointed by the
+16 commissionerofthedepartmentofhealthandhumanservices;
+17 (f) One representative from assistive technology New Hampshire, appointed by the
+18 programdirectorofassistivetechnologyNewHampshire;
+19 (g) One representative from the institute on disability at the university of New
+20 Hampshire, who shall have no affiliation with assistive technology New Hampshire, appointed by
+21 theresearchdirectoroftheinstituteondisabilityattheuniversityofNewHampshire;
+22 (h) One representative from the New Hampshire council of developmental disabilities,
+23 appointedbytheexecutivedirectoroftheNewHampshirecouncilofdevelopmentaldisabilities;
+24 (i) One representative from the state's medicaid program, appointed by the
+25 commissionerofthedepartmentofthehealthandhumanservices;
+26 (j) One representative from the disability rights center of New Hampshire, appointed by
+27 theexecutivedirectorofthedisabilityrightscenterofNewHampshire;
+28 (k) One representativefrom ableNew Hampshire, appointed bytheexecutivedirector of
+29 ableNewHampshire;and
+30 (l) Onerepresentativefrom3DA,appointedbythegovernor.
+
+HB1685 -ASINTRODUCED
+-Page2-
+1 III. Legislativemembersofthecommissionshallreceivemileageatthelegislativeratewhen
+2 attendingtothedutiesofthecommission.
+3 IV. Thecommissionshall:
+4 (a) Study and address the implementation of making New Hampshire a technology-first
+5 state;
+6 (b) Align necessary training models and strategies for making New Hampshire a
+7 technology-firststate;
+8 (c) Collect data and considerations from outside sources that pertain to making New
+9 Hampshireatechnology-firststate;
+10 (d) Analyzeemergingassistivetechnologies;
+11 (e) Identifypotentialchangestoassistivetechnologies;
+12 (f) Analyzehowtobetterserveindividualswithassistivetechnologyneeds;and
+13 (g) Conductotheractivitiesasdeemednecessarybythecommission.
+14 V. The members of the study commission shall elect a chairperson from among the
+15 members. The first meeting of the commission shall be called by the first-named house member.
+16 The first meetingof thecommission shall beheld onSeptember 1, 2026. The commission shall meet
+17 every 90 days, and hold a final meeting on September 30, 2027. Eight members of the commission
+18 shallconstituteaquorum.
+19 VI. The commission shall report its findings and any recommendations for proposed
+20 legislation to the speaker of the house of representatives, the president of the senate, the house
+21 clerk,thesenateclerk,thegovernor,andthestatelibraryonorbeforeOctober1,2027.
+22 2 Repeal. RSA21-R:9-b,relativetothetechnology-firstcommission,isrepealed.
+23 3 EffectiveDate.
+24 I. Section2ofthisactshalltakeeffectOctober1,2027.
+25 II. Theremainderofthisactshalltakeeffectuponitspassage.

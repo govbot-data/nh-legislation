@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1451 -ASINTRODUCED
+2026SESSION
+26-2831
+06/08
+1451
+HOUSEBILL
+ANACT relative to protecting workers from extreme temperature-related injuries and
+fatalitiesintheworkplace.
+SPONSORS: Rep. Muns, Rock. 29; Rep. de Vries, Rock. 29; Rep. Edgar, Rock. 29; Rep. Wade,
+Straf.15;Rep.Levesque,Straf.4;Rep.LeClerc,Hills.34;Sen.Altschiller,Dist24
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires employers to develop written plans and training programs to protect workers
+from heat and cold stress at extreme temperatures, mandates rest breaks and fluids, prohibits
+retaliation,andauthorizesrulemakingforenforcement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1451-ASINTRODUCED
+26-2831
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to protecting workers from extreme temperature-related injuries and
+fatalitiesintheworkplace.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act shall be known and may be cited as the Workplace Extreme
+2 TemperaturesProtectionStandardsAct.
+3 2 Purpose.
+4 I. From 1992 to 2022, a total of 986 workers across all industry sectors in the United States
+5 diedfromexposuretoheat. Thisrepresentsanaverageof34deathsperyear.
+6 II. Over the last few decades, unusually hot summer days and nights have become more
+7 commonacrossthecontiguous48states.
+8 III. Between 2011 and 2020 the U.S. Bureau of Labor Statistics reported an average of 45
+9 worker deaths per year from low temperature extremes with 190 cases of environmental cold
+10 exposure in 2020 alone. Other data points suggest a higher annual number, with some estimates
+11 suggesting nearly 25,000 total cold-related deaths in the United States annually, 32 percent (8,000)
+12 ofwhicharework-related,particularlyinindustrieslikeconstructionandtransportation.
+13 IV. Between 2015 and 2025, Concord averaged 80 days per year with temperatures at or
+14 above80degreesand42daysperyearwithtemperaturesatorbelow15degrees. Between2004and
+15 2014, the average was 70 days at or above 80 degrees and 52 days at or below 15 degrees per year.
+16 In2025alone,sofartherehavebeen80days wherethetemperaturewasatorabove80degrees and
+17 36dayswherethetemperaturewas15degreesorlower.
+18 V. It is expected that extreme weather events will occur with greater frequency and
+19 intensity in the future. Thus, extreme weather-related deaths are also expected to increase. It is
+20 importantthereforetoensurethatthehealthofallworkers,butparticularlythosewhoworkoutside
+21 isprotected.
+22 3 New Paragraph; Safety Provisions; Administrative Penalty. Amend RSA 281-A:64 by
+23 insertingafterparagraphVIIIthefollowingnewparagraph:
+24 IX. Each employer, with the assistance of the commissioner, shall develop and implement a
+25 written plan to provide necessary protections for workers at risk of heat or cold stress due to
+26 workplace apparent temperatures 80 degrees Fahrenheit and above or 15 degrees Fahrenheit and
+27 below. Thisplanshallincludetheprovisionofliquidsandpaidrestbreaksintemperature-protected
+28 areasappropriatetothetemperature.
+29 (a) Thewrittenplanrequiredbythisparagraphshall:
+
+HB1451 -ASINTRODUCED
+-Page2-
+1 (1) Use the hierarchy of controls, relying on hazard elimination, personal protective
+2 equipment(PPE),engineeringcontrols,andadministrativecontrols,toaddressheatandcoldstress;
+3 (2) Be tailored and specific to the heat and cold hazards present in the place of
+4 employment;
+5 (3) Includeproceduresforacclimatizationofneworreturningemployees;
+6 (4) Requireadditionalmandatoryrestinatemperature-protectedareaandprovision
+7 of fluids when the apparent temperature or heat index is 80 degrees Fahrenheit and above or the
+8 apparenttemperatureofwindchillis15degreesFahrenheitandbelow;
+9 (5) Set out emergency procedures for employees exhibiting symptoms of heat or cold
+10 stress, and include a buddy system or other communication framework to identify workers
+11 experiencingsuchsymptoms;
+12 (6) Be developed and implemented with the meaningful participation of employees,
+13 collective bargaining representatives, or other employee representatives, be in writing and in the
+14 languageunderstoodbyamajorityofemployeesifthemajoritydonotunderstandEnglish;
+15 (7) Not be construed to diminish the rights, privileges, or remedies of any employee
+16 underacollectivebargainingagreement;and
+17 (8) Be made available upon request to employees, employee representatives, and the
+18 commissioner.
+19 (b) Each employer shall annually provide an education and training program for all
+20 employeesthataddresses:
+21 (1) Theidentificationofheatandcoldillnessfactors;
+22 (2) Personalfactorsthatmayincreasesusceptibilitytoheatorcold-relatedillness;
+23 (3) Signsandsymptomsofheatorcold-relatedillness;
+24 (4) Theimportanceofacclimatizationandconsumptionoffluids;
+25 (5) Availableengineeringandadministrativecontrolmeasures;
+26 (6) The importance of reporting heat or cold-related symptoms experienced by an
+27 employeeorobservedinanotheremployee;
+28 (7) Record-keepingrequirementsandreportingprocedures;
+29 (8) Emergencyresponseprocedures;and
+30 (9) Employeerightsunderthissection.
+31 (c) Each employer shall adopt a policy prohibiting any person, including an agent of the
+32 employer,fromdiscriminatingorretaliatingagainstanemployeefor:
+33 (1) Exercisingrightsunderthisparagraph;or
+34 (2) Reporting violations of this paragraph to any federal, state, or local government
+35 entity.
+36 4 New Subparagraph; Rulemaking; Powers of the Commissioner. Amend RSA 281-A:60, I by
+37 insertingaftersubparagraph(aa)thefollowingnewsubparagraph:
+
+HB1451 -ASINTRODUCED
+-Page3-
+1 (bb) WorkplaceprotectionsfromextremeheatorcoldstressunderRSA281-A:64,III.
+2 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1323-FN-ASINTRODUCED
+2026SESSION
+26-2985
+09/08
+1323-FN
+HOUSEBILL
+ANACT relativetoparentalalienation.
+SPONSORS: Rep. Rice, Hills. 38; Rep. Kofalt, Hills. 32; Rep. Markell, Rock. 18; Rep. Packard,
+Rock. 16; Rep. DeSimone, Rock. 18; Rep. Osborne, Rock. 2; Rep. Nelson, Rock. 13;
+Rep. Bryer, Rock. 1; Sen. Avard, Dist 12; Sen. Sullivan, Dist 18; Sen. Abbas, Dist
+22;Sen.Lang,Dist2
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill defines parental alienation to mean a pattern of behavior, conduct, or speech which
+would damage the relationship of the child and a parent, resulting in the child’s fear, negative
+perception, rejection, or hostility toward their other parent, and adds standards for considering
+claimsofparentalalienationincertaincasesinvolvingchildrenandparentalrights.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1323-FN-ASINTRODUCED
+26-2985
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoparentalalienation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Parental Rights and Responsibilities; DefinitionAdded. Amend RSA 461-A:1
+2 byinsertingafterparagraphIVthefollowingnewparagraph:
+3 IV-a. “Parental Alienation” means a pattern of behavior, conduct, or speech that would
+4 damage the relationship of the child and a parent, resulting in the child’s fear, negative perception,
+5 rejection, or hostility toward their other parent. This includes, but is not limited to, communicating
+6 disparaging remarks to a child about their other parent, using tactics to manipulate or coerce a
+7 child, and unjustified interference with parenting time. "Parental alienation" shall not include
+8 protective actions taken in good faith based on reasonable belief of abuse or neglect under RSA 169-
+9 C.
+10 2 Parental Rights and Responsibilities; Judicial Enforcement of Parenting Plan; Family Access
+11 Motion. AmendRSA461-A:4-a,Itoreadasfollows:
+12 I. In the event of parental alienation or substantial and material noncompliance with a
+13 court approved parenting plan under this chapter, relative to denying or interfering with parenting
+14 timewithoutgoodcause,theaggrievedparentmayfileafamilyaccessmotionforenforcementofthe
+15 parenting plan. The motion shall state the specific facts which constitute a violation of parenting
+16 timefromtheparentingplan.
+17 3 Parental Rights and Responsibilities; Judicial Enforcement of Parenting Plan; Family Access
+18 Motion. AmendtheintroductoryparagraphofRSA461-A:4-a,IVtoreadasfollows:
+19 IV. Upon a finding by the court pursuant to a motion for a family access order, a motion
+20 alleging parental alienation, or a motion for contempt that its order for parenting time has been
+21 substantiallyandmateriallyviolated,withoutgoodcause,thecourtshallorderaremedy,whichmay
+22 include,butnotbelimitedto:
+23 4 Parental Rights and Responsibilities; Decision-making Responsibility. Amend RSA 461-A:5,
+24 IIItoreadasfollows:
+25 III. Where the court finds that abuse as defined in RSA 173-B:1, I, or parental alienation
+26 as defined in RSA 461-A:1, IV-a, has occurred, the court shall consider such [abuse] as harmful to
+27 childrenand as evidencein determining whether joint decision-making responsibility is appropriate.
+28 In such cases, the court shall make orders for the allocation of parental rights and responsibilities
+29 thatbest protect thechildrenor theabused spouse or both. If joint decision-makingresponsibilityis
+30 granted despite evidence of abuse or parental alienation, the court shall provide written findings
+31 tosupporttheorder.
+
+HB1323-FN-ASINTRODUCED
+-Page2-
+1 5 Parental Rights and Responsibilities; Determination of Parental Rights and Responsibilities.
+2 AmendRSA461-A:6,I(j)-(m)toreadasfollows:
+3 (j) Any evidence of parental alienation, as defined in RSA 461-A:1, and the
+4 impact of parental alienation on the child and on the relationship between the child and
+5 theparents.
+6 (k) Any evidence of abuse, as defined in RSA 173-B:1, I or RSA 169-C:3, II, and the
+7 impactoftheabuseonthechildandontherelationshipbetweenthechildandtheabusingparent.
+8 [(k)] (l) If a parent is incarcerated, the reason for and the length of the incarceration,
+9 andanyuniqueissuesthatariseasaresultofincarceration.
+10 [(l)] (m) The policy of the state regarding the determination of parental rights and
+11 responsibilitiesdescribedinRSA461-A:2.
+12 [(m)](n) Anyotheradditionalfactorsthecourtdeemsrelevant.
+13 6 Parental Rights and Responsibilities; Modification. Amend RSA 461-A:11, I(b) to read as
+14 follows:
+15 (b) If the court finds by a preponderance of the evidence that parental alienation
+16 has occurred or repeated, intentional, and unwarranted interference by a parent with the
+17 residential responsibilities of the other parent, the court may order a change in the parental rights
+18 and responsibilities [without the necessity of] upon a showing harm to the child, if the court
+19 determinesthatsuchchangewouldbeinaccordancewiththebestinterestsofthechild.
+20 7 Parental Rights and Responsibilities; Grandparents' Visitation Rights. Amend RSA 461-A:13,
+21 II(b)toreadasfollows:
+22 (b) Whether allegations of parental alienation exist or if such visitation would
+23 interferewithanyparent-childrelationshiporwithaparent'sauthorityoverthechild.
+24 8 Parental Rights and Responsibilities; Attorneys' Fees in Contempt Cases. Amend RSA 461-
+25 A:15toreadasfollows:
+26 461-A:15 Attorneys' Fees in Contempt Cases. In any proceeding under this chapter in which a
+27 party alleges, and the court finds, that the other party has failed without just cause to obey a prior
+28 order, including cases of parental alienation, the court shall award reasonable costs and
+29 attorneys'feestotheprevailingparty.
+30 9 Guardianship of Minors and Estates of Minors; Statement of Purpose. Amend RSA 463:1 to
+31 readasfollows:
+32 463:1 StatementofPurpose.
+33 I. It is the purpose of this chapter to secure for a minor an environment of stability and
+34 security by providing for the appointment of a guardian of the person when such appointment is in
+35 thebest interestsof theminor;and toprovidefor theappointment of aguardianof theestatefor the
+36 propermanagementofthepropertyandfinancialaffairsoftheminor.
+
+HB1323-FN-ASINTRODUCED
+-Page3-
+1 II. This chapter is designed to provide procedural and substantive safeguards for the rights
+2 of parents and their minor children. Implicit in this chapter shall be the recognition that the
+3 interestsofaminoraregenerallybestpromotedintheminor'sownhomeunlessthebestinterestsof
+4 theminorrequiresubstitutionorsupplementationofparentalcareandsupervision.
+5 III. For purposes of determining the best interest of the child under this chapter,
+6 thecourtshallconsiderthefactorssetforthinRSA461-A:6.
+7 10 ChildProtectionAct;Purpose. AmendRSA169-C:2,Itoreadasfollows:
+8 I.(a) It is the primary purpose of this chapter, through the mandatory reporting of
+9 suspected instances of child abuse or neglect, to provide protection to children whose life, health or
+10 welfare is endangered. The best interest of the child shall be the primary consideration of the court
+11 inallproceedingsunderthischapter.
+12 (b) For purposesof determiningthe bestinterestof the child under this chapter,
+13 thecourtshallconsiderthefactorssetforthinRSA461-A:6.
+14 11 TerminationofParentalRights;Purpose. AmendRSA170-C:1toreadasfollows:
+15 170-C:1 Purpose.
+16 I.(a) The purposeof this chapter is toprovide for theinvoluntary terminationof the parent-
+17 child relationship by a judicial process which will safeguard the rights and interests of all parties
+18 concernedandwhenitisinthebestinterestofthechild.
+19 (b) For purposesof determiningthe bestinterestof the child under this chapter,
+20 thecourtshallconsiderthefactorssetforthinRSA461-A:6.
+21 II. Implicit in this chapter is the philosophy that whenever possible family life should be
+22 strengthened and preserved, and that the parent-child relationship is to be terminated only when
+23 theadoptionofthatchildmaybecontemplated.
+24 12 EffectiveDate. Thisactshalltakeeffect30daysafteritspassage.
+
+LBA
+26-2985
+11/17/25
+HB1323-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoparentalalienation.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$100,000to $100,000to $100,000to
+$200,000 $200,000 $200,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill defines “parental alienation” and requires courts to consider evidence of such behavior
+indeterminingparentalrightsandresponsibilities,decision-makingauthority,andguardianship
+of minors. It also expands the availability of “family access motions” to include allegations of
+parentalalienationandestablishesa60-daytimelineforcourtactiononsuchmotions.
+TheJudicialBranchstatesthis billwillincreaseGeneralFund expendituresstartinginFY 2027
+by an indeterminable amount as the bill expands family law and guardianship case
+requirements, which is expected to increase the number and complexity of filings in the Family
+Division. The new 60-day response requirement for family access motions would require
+additionalcasemanagementandstaffsupporttoensurecompliance.
+To administer this bill as written, the Branch states they need one case manager at labor grade
+22, step 3, withan estimated cost of a$89,000 startingin FY 2027. Inaddition, one senior court
+operations specialist at labor grade19, step 3, would berequired, at acost of $84,000inFY 2027
+and forward. The combined cost for these two positions is therefore estimated at approximately
+$173,000inFY2027andforward. Theseamountsincludesalary,benefits,andequipment.
+
+TheBranchnotestheremaybeadditionalminorcostsassociatedwithjudicialandstafftraining,
+case form revisions, and updates to case processing manuals. While the overall fiscal impact
+cannot be precisely determined, it is expected to exceed $100,000 annually but remain below
+$200,000.
+ItisassumedtheBranchwillincludethecostsofthetwopositionsintheirFY2028andFY2029
+budgetrequest.
+AGENCIESCONTACTED:
+JudicialBranch

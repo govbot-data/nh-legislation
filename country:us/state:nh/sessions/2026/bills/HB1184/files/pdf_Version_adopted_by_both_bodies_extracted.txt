@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1184-FN-VERSIONADOPTEDBYBOTHBODIES
+12Mar2026...0756h
+12Mar2026...1089h
+05/07/2026 1738s
+4Jun2026...2078CofC
+2026SESSION
+26-2684
+09/05
+1184-FN
+HOUSEBILL
+ANACT relative to the issuance of no trespass orders on municipal or school district
+property.
+SPONSORS: Rep. Harvey-Bolia, Belk. 3; Rep. Freeman, Belk. 8; Rep. Pauer, Hills. 36; Rep.
+Peternel, Carr. 6; Rep. Sabourin, Rock. 30; Rep. Thibault, Merr. 25; Sen. Gannon,
+Dist23
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Establishes the process for issuing, extending, and appealingno trespass orders for municipal
+andschoolproperties.
+II. Establishes procedural safeguards for individuals affected by these orders, including the
+righttoahearingandappeal.
+III. Requires all applicable existing NTOs to be reviewed by the governing body and either
+reissuedorrescindedwithin90days,orthoseNTOsnotacteduponbecomevoid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1184-FN-VERSIONADOPTEDBYBOTHBODIES
+12Mar2026...0756h
+12Mar2026...1089h
+05/07/2026 1738s
+4Jun2026...2078CofC 26-2684
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the issuance of no trespass orders on municipal or school district
+property.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be cited to and known as the "No Trespass Orders on Public
+2 PropertyAct."
+3 2 NewSection;CriminalTrespass;OrderAgainstTrespassonPublicProperty. AmendRSA635
+4 byinsertingaftersection2thefollowingnewsection:
+5 635:2-a OrderAgainstTrespassonPublicProperty.
+6 I.(a) A governing body responsible for public property, or a person designated by the
+7 governing body, may issue an emergency no trespass order (NTO) directing a person to leave or not
+8 enter specified public property when immediate action is reasonably necessary to protect public
+9 safety, prevent substantial disruption of governmental operations, or prevent damage to public
+10 property.
+11 (b) AnemergencyNTOissuedunderthisparagraphshall:
+12 (1) Beinwriting;
+13 (2) Statethedateandtimeofissuance;
+14 (3) Identifythespecificpublicpropertytowhichtheorderapplies;
+15 (4) Provideabriefstatementofthefactualbasisfortheemergencyissuance;
+16 (5) StatetheexpirationdateandtimeoftheNTO;and
+17 (6) StatethatthepersonmayrequestahearingontheNTO.
+18 (c) An emergency NTO shall be effective immediately but shall expire automatically no
+19 laterthan35daysafterissuance,unlessapprovedpursuanttoparagraphII.
+20 II.(a) If the governing body seeks to continue an NTO beyond the initial NTO period, the
+21 governing body shall approve the NTO by at least a majority vote taken by roll call vote at a duly
+22 noticed public meeting, or at a non-public session if permitted under RSA 91-A and requested by the
+23 individualsubjecttotheNTO.
+24 (b) AnyNTOissuedorapprovedunderthissectionshallinclude:
+25 (1) Thedateofissuance;
+26 (2) Thespecificpublicpropertytowhichtheorderapplies;
+27 (3) AclearexplanationofthereasonfortheNTO;
+28 (4) ThedurationoftheNTO,nottoexceed1year;
+
+HB1184-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 (5) A statement informing the individual of the right to request a hearing to contest
+2 theNTO;
+3 (6) Instructionsonhowtorequestahearing;and
+4 (7) Astatementinformingtheindividualoftherighttoappealanadversedecisionto
+5 thesuperiorcourt.
+6 III.(a) An individual issued an NTO shall have the right to a hearing upon written request.
+7 The request shall be made no later than 10 days from the date of issuance or governing body
+8 approvaloftheNTO.
+9 (b) Thegoverningbodyshallholdthehearingatthenextregularlyscheduledmeeting.
+10 (c) If a hearing is not held within the timeframe required under this paragraph, the
+11 NTOshall beautomaticallyvacated,unless thedelayis attributabletotheindividual requestingthe
+12 hearing.
+13 IV. Following the hearing, the governing body shall issue a written decision, which shall
+14 statewhethertheNTOis:
+15 (1) Rescinded;
+16 (2) Modified;or
+17 (3) Continuedforadefinedperiod.
+18 V. An individual subject to an NTO may appeal a final decision of the governing body to the
+19 superiorcourt. Anyappealshallbefiledwithin30daysofthewrittendecision.
+20 VI. All NTOs issued under this section shall expire by operation of law upon reaching their
+21 authorizeddurationandshallnotberenewedexceptincompliancewiththissection.
+22 VII. The governing body shall review within 90 days all NTOs in effect as of the effective
+23 dateof this sectionand reissue or rescind them inaccordance withthis section. If no actionis taken
+24 bythegoverningbodyonanNTOsubjecttothisparagraphwithin90days,suchNTOshallbevoid.
+25 3 Repeal. RSA 635:2-a, VII, relative to the review of existing NTOs by governing bodies, is
+26 repealed.
+27 4 EffectiveDate.
+28 I. Section3ofthisactshalltakeeffectoneyearafteritspassage.
+29 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2684
+5/8/26
+HB1184-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1738s)
+ANACT relative to the issuance of no trespass orders on municipal or school district
+property.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

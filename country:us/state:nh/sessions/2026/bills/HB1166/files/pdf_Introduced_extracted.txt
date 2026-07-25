@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1166 -ASINTRODUCED
+2026SESSION
+26-2657
+09/05
+1166
+HOUSEBILL
+ANACT relativetothecontentsofthebudgettrailerbill.
+SPONSORS: Rep.Harrington,Straf.18
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the budget trailer bill from including any statutory changes that are not
+explicitly required to implement the biannual budget and requires that each line item in the trailer
+billreferencethelineiteminthebudgetbillthatitisneededtoimplement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1166-ASINTRODUCED
+26-2657
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecontentsofthebudgettrailerbill.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Budget; Transmission to the Legislature; Changes to Statutory Law. Amend RSA 9:2-a to
+2 readasfollows:
+3 9:2-a Transmission to the Legislature; Changes to Statutory Law. – Not later than February 15
+4 of the first year of each biennial legislative session, the governor shall transmit to the legislature a
+5 document to be known as the trailer bill containing only any changes to statutory law deemed
+6 necessary for the ensuing biennium. This document shall be separate from the document known as
+7 the budget as provided in RSA 9:2 and shall not be considered a budget bill as provided in part II,
+8 article 18-a of the New Hampshire constitution. Nothing shall be contained in the trailer bill
+9 as submitted by the governor or in any subsequent changes by the legislature that is not
+10 explicitly required to implement the biannual budget, and each line item in the trailer bill
+11 shallreferencethelineiteminthebudgetbillthatitisneededtoimplement. Thisdocument
+12 shall be available in printed format and at least one electronic computer file format in common use
+13 at thetimeand shall be publiclyposted onthedepartment of administrativeservices' websiteon the
+14 dateofthetransmittal.
+15 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

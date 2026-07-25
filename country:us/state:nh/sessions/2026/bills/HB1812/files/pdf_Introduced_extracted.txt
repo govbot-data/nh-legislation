@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1812-FN-ASINTRODUCED
+2026SESSION
+26-2975
+05/06
+1812-FN
+HOUSEBILL
+ANACT requiringperiodic evaluationof mental healthaccess adequacybyanindependent
+thirdparty.
+SPONSORS: Rep. Gregg, Hills. 7; Rep. Booras, Hills. 8; Rep. Nelson, Rock. 13; Rep. Rice, Hills.
+38;Sen.Fenton,Dist10
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes additional criteria for assessment of an insurer's network adequacy for
+primary health care and mental and behavioral health care, including periodic evaluation of mental
+health access adequacy by a third party. The bill also establishes administrative penalties and a
+privaterightofactionforviolationoftherequirements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1812-FN-ASINTRODUCED
+26-2975
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringperiodic evaluationof mental healthaccess adequacybyanindependent
+thirdparty.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Managed Care Law; Network Adequacy; Periodic Evaluation of Mental Health Network
+2 Adequacy. AmendRSA420-J:7toreadasfollows:
+3 420-J:7 NetworkAdequacy.
+4 I. A health carrier shall maintain a network that is sufficient in numbers, types, and
+5 geographic location of providers to ensure that all services to covered persons will be accessible
+6 withoutunreasonabledelay.
+7 II. The commissioner shall adopt rules under RSA 541-A [for] to define a health carrier's
+8 network adequacy for primary care and mental and behavioral health care. Such rules shall
+9 establish,butnotbelimitedto:
+10 (a) Waitingtimesforappointmentsfornon-emergencycare.
+11 (b) Choice of and access to providers for specialty care, specifically addressing the needs
+12 of the chronically ill, mentally ill, persons with substance use disorder, developmentally disabled or
+13 thosewithalifethreateningillness.
+14 (c) Standards for geographic accessibility, based on availability of in-person
+15 appointments within reasonable drive times not to exceed 30 minutes, which shall include
+16 standards for access to the provision of durable medical equipment requiring a prescription.
+17 However, such standards shall not restrict an insurer's ability to provide prescriptions for durable
+18 medical equipment that are shipped to the patient by postal service or other common or private
+19 carrier, and shall not apply to durable medical equipment devices used exclusively for the
+20 administrationofmedication.
+21 (d) Hoursofoperationforthecarrier,includinganyentitiesperformingpriorapprovalor
+22 pre-authorizationfunctions.
+23 (e) Standards for addressing in-network access to hospital based providers, such as
+24 anesthesiologists,radiologists,pathologists,andemergencymedicinephysicians;and
+25 (f) ThenetworkadequacycriteriasetforthinparagraphVII.
+26 II-a. For purposes of defining a health carrier’s network adequacy under
+27 paragraph II, providers that fall into the following categories shall not be counted in
+28 determiningtheadequacyofahealthcarriernetwork:
+29 (a) Aproviderwhoisnotacceptingnewpatients.
+
+HB1812-FN-ASINTRODUCED
+-Page2-
+1 (b) A provider who does not have availability for new intakes within 30 days for
+2 non-emergent adequacy determinations or 48 hours for emergent network adequacy
+3 determinations.
+4 (c) A provider who is located out-of-state or out of the drive time measurement
+5 rangesetforthinsubparagraphII(c).
+6 III. The health carrier shall keep, at its place of business, a detailed description of the
+7 health carrier's compliance with rules adopted pursuant to RSA 420-J:7, II as well as its procedures
+8 formonitoringnetworkadequacy.
+9 IV. Annually, the health carrier shall submit a report to the commissioner demonstrating
+10 compliancewiththerulesfornetworkadequacy.
+11 V. The commissioner shall make available to the public information regarding each health
+12 carrier'smanagedcarenetwork.
+13 VI. The commissioner shall provide an annual report on the findings associated
+14 with network adequacy review to the chairpersons of the house and senate committees
+15 havingjurisdictionoverinsuranceissues.
+16 VII. Every 3 years, the department shall engage an independent third party to
+17 conduct a review of network adequacy, considering multiple points, to include, but not be
+18 limitedto:
+19 (a) Measurementofnewappointmentavailability.
+20 (b) Measurement of the number of new appointments available within 7 and 14
+21 daysfromdatecontactedbypatient.
+22 (c) Measurement of the percentage of in person and virtual appointments, with
+23 availableinpersonappointmentsnottobelowerthan70percent.
+24 (d) Measurement of available clinicians at a statewide and county/MSA level,
+25 including but not necessarily limited to, psychiatry, therapy, child, geriatric and testing
+26 services,and otherrelevantdataasdeterminedbythedepartment.
+27 VIII.(a) Any health carrier violating any of the provisions of this section may be
+28 subjectedtoanadministrativefineasfollows:
+29 (1) Nottoexceed$1,000percoveredlifeforafirstviolation.
+30 (2) Not to exceed $2,500 per covered life for a second violation within a 5-
+31 yearperiod.
+32 (3) Not to exceed $5,000 per covered life for a third violation within a 5-year
+33 period.
+34 (b) The commissioner also may suspend or revoke the certificate of authority or
+35 licenseofahealthcarrierfoundtohaveviolatedanyoftheprovisionsofthissection.
+36 (c) If a health carrier, insurer, or other organization are found to have violated
+37 any of the provisions of this section 3 or more times within a 5-year period, any person
+
+HB1812-FN-ASINTRODUCED
+-Page3-
+1 aggrieved may initiate an action against such health carrier and may recover court costs
+2 and reasonable attorney’s fees as the prevailing party, provided however, that nothing in
+3 thissectionshallsupercedeorreplaceexistingrightsorremediesunderanyotherlaw.
+4 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2975
+Revised1/5/26
+HB1812-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringperiodic evaluationof mental healthaccess adequacybyanindependent
+thirdparty.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 (notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFund
+$500,000to $500,000to $500,000to
+Expenditures* $0
+$750,000 $750,000 $750,000
+FundingSource(s) NHInsuranceDepartmentAdministrationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill requires health carriers to meet expanded network adequacy standards for primary,
+mental, and behavioral health care and requires the Insurance Department to engage an
+independent third party every 3 years to evaluate mental health access adequacy. The bill also
+establishes administrative penalties for violations of network adequacy requirements and
+authorizesaprivaterightofactionforpersonsaggrievedbyrepeatedviolations.
+The Insurance Department states this bill would increase State expenditures and could affect
+State Insurance Premium Tax revenues. The bill adds new and more restrictive network
+adequacy requirements for health carriers, including requiring carriers to exclude providers who
+are not accepting new patients, who cannot offer timely appointments, or who are located out of
+state or beyond a 30 minute drive time. The Department states this travel time standard is
+
+significantly more restrictive than current state and national standards and, in many areas of
+the state, there may be insufficient providers to meet these requirements. As a result, some or
+all health plans could be unable to meet network adequacy standards and may choose not to
+offer coverage in New Hampshire. Any reductionin carrier participationor changes in premium
+levelscouldhaveanindeterminableimpactonInsurancePremiumTaxrevenues.
+The Department states the bill also authorizes administrative penalties and creates a private
+right of action for violations of the network adequacy requirements. It is unclear how these
+provisionswouldbeimplementedorhow anaggrievedpersonwouldestablishharm, particularly
+since current law already requires carriers to cover out of network services when in network
+providers are unavailable. The Department anticipates these provisions would increase
+litigation and administrative costs for health carriers, which could further affect premiums and
+carrierparticipationinthemarket.
+The Department states the bill would require the Insurance Department, every 3 years, to
+engage an independent third party to conduct a comprehensive review of network adequacy.
+Basedonpriorexperienceandthescopeoftherequiredwork,theDepartmentestimatesthecost
+of contracting with a third party would be between $500,000 and $750,000 per year beginning in
+FY2027. ThesecostswouldbepaidfromtheInsuranceDepartmentAdministrationFund.
+Counties and municipalities that purchase group health insurance could also experience an
+indeterminableimpactintheirpremiums.
+AGENCIESCONTACTED:
+InsuranceDepartment

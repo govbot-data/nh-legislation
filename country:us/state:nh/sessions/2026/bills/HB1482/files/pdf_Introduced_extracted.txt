@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1482-FN-ASINTRODUCED
+2026SESSION
+26-2808
+06/08
+1482-FN
+HOUSEBILL
+ANACT authorizing the department of motor vehicles to adopt seasonal tourism-themed
+licenseplates.
+SPONSORS: Rep. Cahill, Rock. 10; Rep. Grote, Rock. 24; Rep. Bridle, Rock. 29; Rep. Ouellet,
+Coos3;Rep.Melvin,Rock.20
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill replaces the Old Man of the Mountain graphic on standard passenger plates with 4
+seasonalscenicdesigns.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1482-FN-ASINTRODUCED
+26-2808
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing the department of motor vehicles to adopt seasonal tourism-themed
+licenseplates.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Seasonal Scenic Number Plates. Amend RSA 261 by inserting after section 75-c
+2 thefollowingnewsection:
+3 261:75-d SeasonalScenicStandardNumberPlates.
+4 I. For all standard passenger motor vehicle number plates issued on or after January 1,
+5 2027, the division of motor vehicles, within the department of safety and in consultation with the
+6 division of travel and tourism development, shall replace the Old Man of the Mountain graphic with
+7 4 alternating designs representing the state's scenic and recreational attractions for each season.
+8 Designsmayinclude:
+9 (a) Fallfoliage;
+10 (b) Winterskiing;
+11 (c) Springtroutfishing;
+12 (d) Summerboatingonalakeortheocean;or
+13 (e) AnyotherdesignsdeterminedunderparagraphI.
+14 II. The division of travel and tourism development shall provide suitable images
+15 representing each of the 4 seasons to the division of motor vehicles. The department of safety shall
+16 updateplatemanufacturingspecificationstoensureimplementation.
+17 III. The division of motor vehicles shall ensure that each of the 4 seasonal designs is issued
+18 inreasonablyequaldistributioneachcalendaryearandthatalldesignsretainthe“LiveFreeorDie”
+19 motto.
+20 IV. The division of travel and tourism development may periodically recommend updates to
+21 theimagestoreflectevolvingattractionsandtourismpriorities.
+22 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2808
+11/30/25
+HB1482-FN-FISCALNOTE
+ASINTRODUCED
+ANACT authorizing the department of motor vehicles to adopt seasonal tourism-themed
+licenseplates.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $180,000 $0 $0
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill would eliminate the current motor vehicle passenger plate bearing the Old Man of the
+Mountain graphic and replace it with alternating scenic plate designs. There would be no
+additional production cost associated with this bill, as the new plate types would replace an
+existing plate series already funded within the current budget. As a result, ongoing
+manufacturing, material, and distribution expenses remain unchanged. However, the creation
+and rollout of each new plate type would require system development, programming updates,
+and testing within the Division of Motor Vehicles’ registration and plate-issuance systems.
+These one-time implementation activities are estimated at $45,000 per plate type. With four
+newtypesproposed,thetotaldevelopmentcostisestimatedat$180,000.
+AGENCIESCONTACTED:
+DepartmentofSafety

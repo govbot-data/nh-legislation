@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1406 -ASINTRODUCED
+2026SESSION
+26-2971
+05/08
+1406
+HOUSEBILL
+ANACT prohibiting health carriers from using artificial intelligence to change the clinical
+judgmentofaprovider.
+SPONSORS: Rep. Gregg, Hills. 7; Rep. Nagel, Belk. 6; Rep. Grossman, Rock. 11; Rep.
+LaMontagne, Straf. 17; Rep. M. Pearson, Rock. 34; Rep. Tellez, Hills. 40; Rep.
+Salvi, Hills. 9; Rep. Manohar, Hills. 9; Rep. N. Murphy, Hills. 12; Sen. Long, Dist
+20;Sen.Birdsell,Dist19;Sen.Prentiss,Dist5
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits health carriers from using artificial intelligence to change the clinical
+judgmentofaprovider.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1406-ASINTRODUCED
+26-2971
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting health carriers from using artificial intelligence to change the clinical
+judgmentofaprovider.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Managed Care Law; Use of Artificial Intelligence to Change the Clinical
+2 Judgment of the Provider Prohibited. Amend RSA 420-J by inserting after section 6-e the following
+3 newsection:
+4 420-J:6-f Use of Artificial Intelligence by Health Carriers to Change Provider Codes Prohibited.
+5 Health carriers are prohibited from using artificial intelligence, as defined in RSA 5-D:1, to conduct
+6 audits of provider codes or to adjust such codes based on recommendations from artificial
+7 intelligence that would change, alter, or amend the clinical judgment of a provider. Each carrier
+8 shall maintain records identifying the use of artificial intelligence tools in claims processing and
+9 make such records available to the insurance department upon audit. A violation of this section
+10 shall constitute an unfair insurance practice under RSA 417, and the commissioner may impose
+11 administrativefinesororderrestitutionforanydelayordenialofcareresultingfromsuchviolation.
+12 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

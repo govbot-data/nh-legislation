@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1022-ASAMENDEDBYTHEHOUSE
+11Mar2026...0814h
+2026SESSION
+26-2367
+05/08
+1022
+HOUSEBILL
+ANACT relativetoreligiousexemptionfromimmunizationrequirements.
+SPONSORS: Rep. Drew, Hills. 19; Rep. Korzen, Coos 7; Rep. Polozov, Merr. 10; Rep. Wherry,
+Hills.13
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillspecifiestheformforreligiousexemptionfromchildhoodimmunizationrequirements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1022-ASAMENDEDBYTHEHOUSE
+11Mar2026...0814h 26-2367
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoreligiousexemptionfromimmunizationrequirements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Exemptions. AmendRSA141-C:20-c,IItoreadasfollows:
+2 II. A parent or legal guardian objects to immunization because of religious beliefs. The
+3 parent or legal guardian shall sign a form stating that the child has not been immunized because of
+4 religiousbeliefs. Theformforareligiousexemptionshallsimplystate:
+5 "I, [insert parent or legal guardian's name], hereby attest that I sincerely hold religious
+6 beliefs and/or engage in religious practices or observances that dictate the refusal to
+7 accept the required vaccinations for [insert child’s name], born [insert child’s date of
+8 birth].[Insertparentorlegalguardian'ssignatureanddate.]"
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

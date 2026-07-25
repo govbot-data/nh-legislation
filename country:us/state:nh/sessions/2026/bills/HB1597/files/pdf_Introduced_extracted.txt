@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1597-FN-ASINTRODUCED
+2026SESSION
+26-3177
+04/09
+1597-FN
+HOUSEBILL
+ANACT relativetobusinessprofitstaxexpensedeductions.
+SPONSORS: Rep. Janigian, Rock. 25; Rep. Ohm, Hills. 10; Rep. Ulery, Hills. 13; Rep. Bryer,
+Rock.1;Sen.Abbas,Dist22;Sen.Gray,Dist6
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases the expense deduction cap to $2,500,000 for property placed in service on or
+afterJanuary1,2027,aligningwithfederalstandards.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1597-FN-ASINTRODUCED
+26-3177
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetobusinessprofitstaxexpensedeductions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ExpenseDeductions;CapIncrease. AmendRSA77-A:3-atoreadasfollows:
+2 77-A:3-a ExpenseDeductions.
+3 Indetermininggrossbusinessprofitsbeforenetoperatinglossandspecialdeductions,abusiness
+4 organization shall calculate expense deductions as permitted under Section 179 of the Internal
+5 Revenue Code as provided in RSA 77-A:1, XX, except that for property placed in service on or after
+6 January 1, [2018] 2027, a business organization shall calculate expense deductions not to exceed
+7 [$500,000]$2,500,000.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3177
+12/3/25
+HB1597-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetobusinessprofitstaxexpensedeductions.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableDecrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill increases the expense deduction permitted under Section 179 of the Internal Revenue
+Code as provided in the Business Profits Tax statute (RSA 77-A:1, XX) from $500,000 to
+$2,500,000.
+The Department of Revenue Administration states this bill will decrease General Fund and
+Education Trust Fund revenue by an indeterminable amount starting in FY 2027. The
+Department is able to provide an estimated fiscal impact using Tax Year 2023 data, the latest
+full year of data available as it currently captures the amount of IRC §179 expense in excess of
+the currently allowed $500,000 as an add back to the calculation of the taxable business profits.
+The Department calculated thetax impact of theadditional $2,000,000increase inthe deduction
+limit. The excess identified was then multiplied by the taxpayer’s original apportionment
+percentageandthetaxrateof7.5%,resultinginamaximumfiscalimpactof$8,300,000.
+However, the assets disallowed as a §179 expense on the NH return will be allowed a regular
+depreciation claim. Therefore, the line item for taxpayers to claim the allowed regular
+depreciation includes a depreciation claim for other assets as well and may also include a
+depreciation claim that year for any expenses disallowed from prior taxable periods. The $8.3m
+represents the fiscal impact of increasing the allowable IRC Section 179 deduction in isolation
+
+without taking into consideration the offset of deductions or credits taken by taxpayers in the
+yearanalyzed,includingwhatmaybedeductedasregulardepreciationoverseveralyears.
+In theory, the fiscal impact of this proposed legislation is likely a timing issue because it enables
+the acceleration of the depreciation claim of qualifying assets as opposed to depreciating the
+asset over a longer period of time. The Department is unable to isolate the depreciation amount
+over the years compared to the immediate deduction under IRC §179. However, since the
+Department is unable to predict future activities of business organizations, it cannot say for
+certainthatthefiscalimpactissimplyatimingissue.
+The Department will not incur any additional administrative costs that it cannot absorb within
+itsbudgetfromthisbill.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

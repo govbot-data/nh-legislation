@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER316
+SB564-FINALVERSION
+23Apr2026...1600h
+06/04/2026 2111CofC
+2026SESSION
+26-2190
+12/09
+564
+SENATEBILL
+ANACT prohibitingcertainmunicipaldevelopmentrestrictions.
+SPONSORS: Sen.Innis,Dist7;Sen.Lang,Dist2;Sen.Sullivan,Dist18;Sen.Watters,Dist4;Sen.
+Murphy,Dist 16;Rep. AlexanderJr., Hills.29; Rep.Harvey-Bolia, Belk.3; Rep. Read,
+Rock.10;Rep.Sellers,Graf.10
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Prohibits municipalities from placing limits on maximum road length, provided that the proposed
+roadwayorextensionfullycomplieswithstatefirecode.
+II. Prohibits municipalitiesfrom imposing acap on thenumber of housinglots on adead-end road or
+street, unless such cap is in compliance with state fire code and National Fire Protection Association
+standard 1141, and provided that the proposed lots otherwise comply with current zoning restrictions and
+requirements.
+III. Requires municipalities to allow the placement of utilities within or along buffer areas, or wetland
+buffersorconservationareasofasubdivisionorlotbyaspecialexceptionorconditionalusepermit.
+IV. Prohibitsmunicipalitiesfromimposingadditionalrestrictionsorrequirementsregardingbuildingor
+lotsizeforaffectedpropertiesbeforetheeffectivedateoftheact.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER316
+SB564-FINALVERSION
+23Apr2026...1600h
+06/04/2026 2111CofC 26-2190
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingcertainmunicipaldevelopmentrestrictions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 316:1 StatementofFindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. New Hampshire faces a severe shortage of housing, which has contributed to rising housing
+3 costs and diminished affordability for working families, first responders, teachers, veterans, seniors, and
+4 youngpeople.
+5 II. Arbitrarylocalrestrictionsonroadlength,capsonthenumberoflotsondead-endstreets,and
+6 prohibitions on the placement of utilities in non-sensitive open space areas unnecessarily increase
+7 developmentcostsandreducethesupplyofhousing.
+8 III. The state fire code already establishes uniform and comprehensive requirements to ensure
+9 life safety, property access, and emergency vehicle passage, rendering duplicative or more restrictive
+10 municipalcapsonroadlengthunnecessaryandduplicative.
+11 IV. Environmental protections for wetlands and protected shoreland under RSA 482-A and RSA
+12 483-B remain vital and are not altered by this act. Allowing utilities in other open space or buffer areas
+13 promotescompactdevelopmentandreducessprawl,preservinglargertractsofconservationland.
+14 V. These provisions represent common-sense reforms that balance the need for more housing
+15 withthepreservationofpublicsafety,conservationvalues,andlocalplanningreviewauthority.
+16 316:2 New Section; Prohibition of Certain Municipal Development Restrictions. Amend RSA 674 by
+17 insertingaftersection21-athefollowingnewsection:
+18 674:21-b ProhibitionofCertainMunicipalDevelopmentRestrictions.
+19 I. Municipalitiesshall not limit maximum road lengthsoastoimpededevelopment, provided that
+20 theproposedroadwayorextensionthereoffullycomplieswiththestatefirecode.
+21 II. Municipalities shall not impose a cap on the number of housing lots on a dead-end road or
+22 street unless such cap in compliance with the state fire code and National Fire Protection Association
+23 (NFPA) standard 1141, and provided that the proposed lots otherwise comply with current zoning
+24 restrictionsorrequirements.
+25 III. Municipalities shall permit the placement of utilities, including but not limited to septic
+26 systems, wells, electric distribution, drainage structures, stormwater management structures, and other
+27 utilities, within or along any designated buffer areas, including but not limited to perimeter buffers,
+28 residential buffers, setbacks, and open space areas of a subdivision or lot, provided that such areas are
+29 notwetlandsasdefinedinRSA482-A:2,Xandthatsuchareasarenot protectedshorelandasdefinedin
+30 RSA483-B:4,XV.
+31 IV. Municipalities shall permit the placement of utilities, including but not limited to septic
+32 systems, wells, electric distribution, drainage structures, stormwater management structures, and other
+
+CHAPTER316
+SB564-FINALVERSION
+-Page2-
+1 utilities or improvements appurtenant to any utility, within or along wetland buffers or conservation areas
+2 of a subdivision or lot by a special exception or conditional use permit, provided that such areas are not
+3 wetlands as defined in RSA 482-A:2, X and that such areas are not protected shoreland as defined in
+4 RSA483-B:4,XV.
+5 V. Municipalities shall not impose additional restrictions or requirements regarding building or lot
+6 sizeforaffectedpropertiesbeforetheeffectivedateofthissection.
+7 VI. Nothing in this section shall be construed to otherwise limit the authority of municipalities to
+8 enforce generally applicable health, safety, environmental, or building standards; to conduct planning
+9 board and conservation commission review; or to impose reasonable conditions necessary to ensure
+10 compliancewiththestatefirecode,RSA483-B,orasotherwiserequiredbystatelaw.
+316:3 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+Approved:July10,2026
+EffectiveDate:April01,2027

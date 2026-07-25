@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1284 -ASINTRODUCED
+2026SESSION
+26-2864
+08/06
+1284
+HOUSEBILL
+ANACT requiringtheinclusionofavoter'syearofbirthonthevoterchecklist.
+SPONSORS: Rep.McGrath,Rock.40
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequirestheinclusionofavoter'syearofbirthonthevoterchecklist.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1284-ASINTRODUCED
+26-2864
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringtheinclusionofavoter'syearofbirthonthevoterchecklist.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PreparingChecklist. AmendRSA654:25toreadasfollows:
+2 654:25 Preparing Checklist. The secretary of state shall issue and distribute guidelines for the
+3 content, composition, and style of checklists and for the maintenance of data related to checklists by
+4 which the supervisors of the checklist shall compile and correct the checklist. Such guidelines shall
+5 specify the information which will be maintained and updated by the supervisors. The secretary
+6 shall establish standard forms and procedures for the use of the supervisors for the maintenance of
+7 such information. The information to be maintained and updated shall include the full name, year
+8 of birth, domicile address, mailing address, and party affiliation, if any, of each voter on the
+9 checklist and such other information as the secretary requires. Every checklist used at any election
+10 shall at a minimum contain the full name, year of birth, domicile address, mailing address, and
+11 party affiliation, if any, of each voter on the checklist. The paper checklists used by ballot clerks on
+12 election day need not include mailing addresses. The name and address of a voter shall not appear
+13 on the checklist at the request of the voter if the voter presents to the supervisors of the checklist a
+14 valid protective order pursuant to RSA 173-B. The name, domicile address, and mailing address, if
+15 different, of such a voter shall be maintained on a separate list of voters, which shall be nonpublic
+16 and not subject toRSA91-A. If it is necessarytoestablishsuchanonpublic list, thepublic checklist
+17 shall be marked at the end with a notation of the number of voters whose names are maintained on
+18 thenonpubliclist.
+19 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

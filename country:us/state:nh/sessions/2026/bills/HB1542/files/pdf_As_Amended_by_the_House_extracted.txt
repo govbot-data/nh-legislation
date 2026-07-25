@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1542-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0241h
+2026SESSION
+26-2766
+07/05
+1542-FN
+HOUSEBILL
+ANACT allowing alternative compliance payments to the renewable energy fund to be
+refundedtoratepayersonaperkilowatthourbasis.
+SPONSORS: Rep. Notter, Hills. 12; Rep. Ammon, Hills. 42; Rep. Bernardy, Rock. 36; Rep.
+Berry, Hills. 44; Rep. Sabourin dit Choiniere, Rock. 30; Rep. D. Thomas, Rock. 16;
+Rep.Vose,Rock.5
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill provides that alternative compliance payments to the renewable energy fund under
+RSA362-F:10,IIshallberefundedtoratepayersonaperkilowatthourbasis.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1542-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0241h 26-2766
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing alternative compliance payments to the renewable energy fund to be
+refundedtoratepayersonaperkilowatthourbasis.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Renewable Energy Fund; Effective until July 1, 2027. Amend RSA 362-F:10, I to read as
+2 follows:
+3 I. There is hereby established a renewable energy fund. This nonlapsing special fund shall
+4 be continually appropriated to the department of energy to be expended in accordance with this
+5 section; provided that at the start of the period in which there is no adopted state operating budget,
+6 the department of energy shall in a timely manner seek the approval of the fiscal committee of the
+7 generalcourttocontinueusingmoneysfromtherenewableenergyfundtosupportrenewableenergy
+8 rebate and grant programs in order to ensure there are no interruptions to the programs. The state
+9 treasurer shall invest the moneys deposited therein as provided by law. Income received on
+10 investmentsmadebythestatetreasurershallalsobecreditedtothefund. All paymentstobemade
+11 under this section shall be deposited in the fund. Any remaining moneys paid into the fund under
+12 paragraphIIof thissection[, excludingclassIImoneys, shall beused bythedepartment of energyto
+13 support thermal and electrical renewable energy initiatives, including the office of energy
+14 innovation. Class II moneys shall primarily be used to support solar energy technologies in New
+15 Hampshire] shall be rebated to ratepayers in the state on a per-kilowatt-hour basis. All
+16 initiatives supported out of these funds shall be subject to audit by the department of energy as
+17 deemed necessary. All fund moneys including those from class II may be used to administer this
+18 chapter, but all new employee positions shall be approved by the fiscal committee of the general
+19 court. No new employees shall be hired by the department of energy due to the inclusion of useful
+20 thermalenergyinclassIproduction.
+21 2 RenewableEnergyFund;EffectiveJuly1,2027. AmendRSA362-F:10,Itoreadasfollows:
+22 I. There is hereby established a renewable energy fund. This nonlapsing special fund shall
+23 be continually appropriated to the department of energy to be expended in accordance with this
+24 section; provided that at the start of the period in which there is no adopted state operating budget,
+25 the department of energy shall in a timely manner seek the approval of the fiscal committee of the
+26 generalcourttocontinueusingmoneysfromtherenewableenergyfundtosupportrenewableenergy
+27 rebate and grant programs in order to ensure there are no interruptions to the programs. The state
+28 treasurer shall invest the moneys deposited therein as provided by law. Income received on
+29 investmentsmadebythestatetreasurershallalsobecreditedtothefund. All paymentstobemade
+30 under this section shall be deposited in the fund. Any remaining moneys paid into the fund under
+
+HB1542-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 paragraphIIof thissection[, excludingclassIImoneys, shall beused bythedepartment of energyto
+2 support thermal and electrical renewable energy initiatives and offshore wind initiatives, including
+3 the office of offshore wind industry development and energy innovation. Class II moneys shall
+4 primarily be used to support solar energy technologies in New Hampshire] shall be rebated to
+5 ratepayers in the state on a per-kilowatt-hour basis. All initiatives supported out of these
+6 funds shall be subject to audit by the department of energy as deemed necessary. All fund moneys
+7 including those from class II may be used to administer this chapter, but all new employee positions
+8 shall be approved by the fiscal committee of the general court. No new employees shall be hired by
+9 thedepartmentofenergyduetotheinclusionofusefulthermalenergyinclassIproduction.
+10 3 EffectiveDate.
+11 I. Section2ofthisactshalltakeeffectonJuly1,2027at12:01a.m.
+12 II. TheremainderofthisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2766
+03/09/2026
+HB1542-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0241h)
+ANACT allowing alternative compliance payments to the renewable energy fund to be
+refundedtoratepayersonaperkilowatthourbasis.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s)
+Estimated Estimated Estimated
+Increaseof$6.45 Increaseof$6.45 Increaseof$6.44
+millionrebated millionrebated millionrebated
+toratepayers toratepayers toratepayers
+anddecreaseof anddecreaseof anddecreaseof
+$6.45millionto $6.45millionto $6.44millionto
+Expenditures* $0
+REFprograms/ REFprograms/ REFprograms/
+Estimated Estimated Estimated
+Decreaseof Decreaseof Decreaseof
+approx$59,000 approx.$59,000 approx.$59,000
+relatedtostate relatedtostate relatedtostate
+agencyusage agencyusage agencyusage
+FundingSource(s) RenewableEnergyFund,Variousstateagencyfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill directs any remaining funds in the renewable energy fund (REF) to be rebated to
+ratepayersinthestateonaper-kilowatthourbasis.
+
+The Department estimates revenue into the REF of approximately $7.0 million per year. From
+thisamount,theDepartmentestimatesadministrativecostsof$550,000inFY2027,$555,000in
+FY 2028 and $560,000 in FY 2029. The Department states funding for 5 positions will no longer
+beavailable(3REFprogramrelatedpositionsand2positionsintheOfficeofEnergyInnovation)
+unlessfundsareappropriatedfromtheGeneralFundoranotherfundingsource.
+After deducting the estimated administrative costs for FY 2027 through FY 2029, the estimated
+amount to be rebated back to ratepayers is $6.45 million in FY 2027, $6.45 million in FY 2028,
+and$6.44inFY2029.
+Based on calendar year 2025 kWh sales of 10,764,460,724, the Department estimates the per
+kWh rebate to ratepayers would be $0.00055 in fiscal years 2027 through 2029. The state
+represents approximately 1% of sales, which would result in an estimated annual rebate to the
+stateof$59,000infiscalyears2027through2029.
+County and municipal impacts are indeterminable because the Department does not have
+consumptiondataforthoseentities..
+AGENCIESCONTACTED:
+DepartmentofEnergy

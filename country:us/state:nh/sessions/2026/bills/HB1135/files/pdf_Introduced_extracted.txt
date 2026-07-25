@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1135 -ASINTRODUCED
+2026SESSION
+26-2311
+09/05
+1135
+HOUSEBILL
+ANACT prohibiting the acquisition of prescriptive rights in private roads through adverse
+use.
+SPONSORS: Rep.Aylward,Merr.5;Rep.Fracht,Graf.16
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitsacquiringofrightsinprivateroads,ways,driveways,ortrailsthroughadverse
+use.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1135-ASINTRODUCED
+26-2311
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the acquisition of prescriptive rights in private roads through adverse
+use.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Subdivision Heading Change. Amend the subdivision heading preceding RSA 477:33 to read
+2 asfollows:
+3 [No]PrescriptionProhibited[AgainstthePublic]
+4 2 New Section; Private Roads and Trails. Amend RSA 477 by inserting after section 34 the
+5 followingnewsection:
+6 477:34-a PrivateRoadsandTrails.
+7 The use of a landowner’s roads, ways, driveways, or trails, by any person or the public,
+8 regardless of duration, shall not create or establish any right, title, interest, or easement by
+9 prescription,adverseuse,orimplication,norraiseanypresumptionofagrantthereof.
+10 3 Application. This act shall not apply to any claims already fully adjudicated before the
+11 effectivedateofthisact.
+12 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1378 -ASINTRODUCED
+2026SESSION
+26-3040
+05/08
+1378
+HOUSEBILL
+ANACT relativetoparentalaccesstoaminorchild'selectronicmedicalrecords.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Love, Rock. 13; Rep. McFarlane, Graf. 18; Rep.
+Giasson, Hills. 29; Rep. Peternel, Carr. 6; Rep. L. Miner, Rock. 7; Rep. Korzen,
+Coos 7; Rep. DeVito, Rock. 8; Rep. Polozov, Merr. 10; Sen. Gannon, Dist 23; Sen.
+Sullivan,Dist18
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides parents of minor children full access to their minor children's medical record
+exceptundercertaincircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1378-ASINTRODUCED
+26-3040
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoparentalaccesstoaminorchild'selectronicmedicalrecords.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statementof Purpose. The generalcourtfinds andrecognizesthat parentsareresponsiblefor
+2 providing and coordinating medical care for their minor children and are presumed to act in their
+3 child’s best interest. In order to make informed decisions about a minor child’s health care needs,
+4 parentsmustbegrantedaccesstotheirchildren’smedicalrecords.
+5 2 New Section; Parental Access to a Minor Child's Medical Records. Amend RSA 332-I by
+6 insertingaftersection1thefollowingnewsection:
+7 332-I:1-a ParentalAccesstoaMinorChild'sMedicalRecords.
+8 I. For the purposes of this section, "medical records" means physical medical records and
+9 electronicmedicalrecords,includingrecordsavailableviaonlinepatientportals.
+10 II. A parent or legal guardian of a minor child shall be entitled to have full access to the
+11 medicalrecordsoftheirminorchildorward,except:
+12 (a) Whentherecordsarerecordsoftreatmentthataminormayconsenttopursuanttoa
+13 specific statute under state or federal law without parental consent or the consent of a legal
+14 guardian;
+15 (b) When the parent or legal guardian is the subject of a protective order involving the
+16 minor child or one of the minor child’s siblings issued pursuant to RSA 173-B, RSA 461-A, or RSA
+17 633:3-a,orwhenacourtofcompetentjurisdictionhasdeterminedthatthereleaseoftherecordstoa
+18 parentorlegalguardianisnotinthechild’sbestinterest;or
+19 (c) Whenahealthcareproviderhasdeterminedbyevidencebaseduponarticulablefacts
+20 thatdisclosureoftherecordstoaparentorlegalguardianofaminorchildislikelytoresultinabuse
+21 or neglect. A health care provider who makes this determination shall document in the medical
+22 recordoftheminorchildallfactsuponwhichheorshereliedinmakingthedetermination.
+23 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

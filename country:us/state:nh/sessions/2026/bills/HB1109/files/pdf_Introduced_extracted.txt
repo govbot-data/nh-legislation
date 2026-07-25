@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1109 -ASINTRODUCED
+2026SESSION
+26-2551
+06/09
+1109
+HOUSEBILL
+ANACT relative to notice and update requirements regarding state employee
+investigations.
+SPONSORS: Rep.Flanagan,Hills.45
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilloutlinesproceduresforhandlingthesuspensionofstateemployeesbyprovidingwritten
+noticeandperiodicupdates.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1109-ASINTRODUCED
+26-2551
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to notice and update requirements regarding state employee
+investigations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Department of Administrative Services; Personnel; Suspension Notice and
+2 InvestigationUpdates. AmendRSA21-Ibyinsertingaftersection42thefollowingnewsection:
+3 21-I:42-a Suspension Notice and Investigation Updates. If any state employee is suspended
+4 with pay from duty, they shall receive written notice detailing the reasons for the suspension within
+5 7 days of the suspension date. The suspended employee shall be provided with periodic updates
+6 regarding the status of the investigation every 90 days until a final decision is made. This section
+7 shallnotapplytoemployeescoveredundercollectivebargainingagreements.
+8 2 EffectiveDate. Thisactshalltakeeffect90daysafteritspassage.

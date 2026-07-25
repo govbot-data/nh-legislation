@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1581-FN-ASINTRODUCED
+2026SESSION
+26-3225
+04/09
+1581-FN
+HOUSEBILL
+ANACT requiring municipalities to give notice to property owners when the assessed
+valueoftheirpropertychanges.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Ford, Rock. 3; Rep. McFarlane, Graf. 18; Rep.
+McGrath,Rock.40;Rep.MaryMurphy,Hills.27;Rep.Pauer,Hills.36
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires municipalities to send a general notice of any change in a property's assessed
+valuation to the property owner within 14 days of recording the change, unless the adjustment is
+partofamunicipality-widerevaluation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1581-FN-ASINTRODUCED
+26-3225
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring municipalities to give notice to property owners when the assessed
+valueoftheirpropertychanges.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Appraisal of Taxable Property; Revised Inventory. Amend RSA 75:8 by
+2 insertingafterparagraphIIthefollowingnewparagraph:
+3 III. If an adjustment to an assessment is made in accordance with this section, the
+4 municipality shall mail a general notice to the property owner within 14 calendar days of the
+5 adjustment being recorded by the municipality, that there has been a change in their assessment.
+6 Such notice shall include the city or town hall information (address, hours of operation, phone
+7 number),andinformationtoaccesstheassessmentonlineifsupportedbythemunicipality.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3225
+12/3/25
+HB1581-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring municipalities to give notice to property owners when the assessed
+valueoftheirpropertychanges.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+LocalExpenditures $0
+(lessthan$10,000permunicipality)
+METHODOLOGY:
+This bill requires a municipality to mail a notice to a property owner within 14 calendar days of
+apropertyassessmentadjustmentpursuantbeingrecordedbythemunicipality.
+The New Hampshire Municipal Association estimates this bill may result in an indeterminable
+increase in municipal expenses, likely under $10,000 per municipality, due to staff time,
+printing,andmailingrequiredtoissuenotices. Largermunicipalitiescouldincurhighercosts.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

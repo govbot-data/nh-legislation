@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1477-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0067h
+2026SESSION
+26-2915
+06/08
+1477-FN
+HOUSEBILL
+ANACT relative to the permitting and regulation of anchored seasonal floating platforms
+onpublicwaters.
+SPONSORS: Rep. J. MacDonald, Carr. 6; Rep. Crawford, Carr. 3; Rep. Damon, Sull. 8; Rep.
+Darby, Hills. 11; Rep. Ebel, Merr. 7; Rep. Hamblen, Carr. 3; Rep. Rung, Hills. 12;
+Rep.Walker,Straf.19
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restricts anchored seasonal platforms on public waters to adjacent shorefront property
+owners, requires permits with identification and a $50 fee, exempts certain government and
+conservationuses,andimposesfinesfornoncompliance.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1477-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0067h 26-2915
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the permitting and regulation of anchored seasonal floating platforms
+onpublicwaters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 AnchoredSeasonalPlatform;Limitations. AmendRSA270:72-c,I-IIItoreadasfollows:
+2 I. As defined in RSA 270:72-b, I, no person shall erect, install, maintain, or exercise
+3 control over an anchored seasonal platform on the public waters of the state who is not the legal
+4 owneroftheadjacentshorefrontpropertyexceptasauthorizedinparagraphIIIbelow.
+5 II. Any person erecting, installing, maintaining, or exercising control over an anchored
+6 seasonal platform on any public body of water shall attach his or her name and contact information
+7 to any such seasonal platform as provided in this subdivision and in accordance with rules
+8 established under RSA 270:72-g shall obtain an anchored seasonal platform permit from the
+9 divisionofstatepolice,marinepatrol. Thecostofthepermitshallbe$50dollars,$25shall
+10 be deposited in the navigation safety fund established under RSA 270-E:6-a and $25 shall
+11 bedepositedintothecyanobacteriamitigationloanandgrantfund.
+12 III. Seasonal platforms installed on public waters that support a local, state, or federal
+13 government agency, an agency's sub-contractors, or a conservation group engaged in the non-
+14 recreational activities, or those engaged in aquaculture, including commercial storage of
+15 shellfish may be installed provided the platform meets the minimum requirements established in
+16 RSA270:72-dandshallbeexemptedfromparagraphII.
+17 IV. Any person failing to obtain an anchored seasonal platform permit shall be
+18 fined$100plusa20percentpenaltyassessment.
+19 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2915
+2/9/26
+HB1477-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0067h)
+ANACT relative to the permitting and regulation of anchored seasonal floating platforms
+onpublicwaters.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+NavigationSafetyFundandtheCyanobacteriaMitigationLoanandGrant
+RevenueFund(s)
+Fund
+Expenditures* $0 $178,000+ $144,000+ $150,000+
+FundingSource(s) NavigationSafetyFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires all anchored seasonal platforms on public waters obtain an anchored seasonal
+platformpermit issued bytheDepartment of Safety, Divisionof StatePoliceMarine Patrol. The
+bill establishes a $50 permit fee, with $25 to the Navigation Safety Fund and $25 to the
+Cyanobacteria Mitigation Loan and Grant Fund. It also establishes a $100 fine plus a 20%
+penaltyassessmentforfailuretoobtaintherequiredpermit.
+The Department states it is not known how many seasonal platforms exist on state waters. For
+comparison, the state currently issues 4,800 to 5,000 mooring permits on only eight regulated
+lakes. Thisbillwouldcoverallbodiesofwater.Currently,theDepartmentemploysonefull-time
+employee responsible for processing mooring permit applications and renewals. If passed, the
+Department states it would need two (2) new positions (miscellaneous records clerk –2, SOC 43-
+03)toimplementtheprogram,atanestimatedcostof$178,000inFY2027,$144,000inFY2028
+and $150,000 in FY 2029. The Department has not provided an estimate as to how many new
+permits may be issued under this bill, therefore, the cost to produce additional permit decals
+($.51 per decal) and the revenue impact on the Navigation Safety Fund and the Cyanobacteria
+MitigationLoanandGrantFundareindeterminable.
+AGENCIESCONTACTED:
+
+DepartmentofSafety

@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1317 -ASINTRODUCED
+2026SESSION
+26-2963
+08/09
+1317
+HOUSEBILL
+ANACT relativetopatientprivacyprotections.
+SPONSORS: Rep.H. Howard, Straf. 4; Rep. Wade, Straf. 15; Rep. Butler, Straf. 12; Rep. Muns,
+Rock. 29; Rep. Damon, Sull. 8; Rep. LaMontagne, Straf. 17; Rep. N. Germana,
+Ches.15;Rep.Weinstein,Rock.10;Sen.Watters,Dist4
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides that no state agency, political subdivision, contractor, vendor, or grant
+recipient shall collect, maintain, or disclose personally identifiable medical, disability, or mental
+health data to the federal government or any third party, except in limited circumstances as
+permittedunderstateandfederallaw.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1317-ASINTRODUCED
+26-2963
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopatientprivacyprotections.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPurpose.
+2 Thegeneralcourtfindsthat:
+3 I. The people of New Hampshire value privacy, personal liberty, and limited government
+4 intrusion.
+5 II. Individuals with medical conditions, disabilities, or mental health needs are at
+6 heightenedriskofstigmaordiscriminationiftheirpersonaldataisimproperlydisclosed.
+7 III. State protections should align with and reinforce federal laws, including the Health
+8 Insurance Portability and Accountability Act (HIPAA), the Americans with Disabilities Act (ADA),
+9 Section504oftheRehabilitationAct,andtheGeneticInformationNondiscriminationAct(GINA).
+10 IV. It is the policy of the state that Granite Staters shall not have their personally
+11 identifiable medical, disability, or mental health information disclosed by state government unless
+12 requiredbylaworwiththeirconsent.
+13 2 New Subdivision; Health Statistics; Expectation of Privacy in Health Data. Amend RSA 126
+14 byinsertingaftersection34thefollowingnewsubdivision:
+15 ExpectationofPrivacyinHealthData.
+16 126:35 PrivacyProtections.
+17 I. No state agency, political subdivision, contractor, vendor, or grant recipient shall collect,
+18 maintain, or disclose personally identifiable medical, disability, or mental health data to the federal
+19 governmentoranythirdparty,unlessoneormoreofthefollowingconditionsapply:
+20 (a) The individual, or the individual’s parent, guardian, or legal representative, has
+21 providedinformedwrittenconsent;
+22 (b) Disclosureisexpresslyrequiredbystateorfederallaw,regulation,orcourtorder;or
+23 (c) Disclosure is necessary to provide or coordinate health care, services, supports, or
+24 benefitstotheindividual.
+25 II. WhendisclosureunderparagraphIisrequired:
+26 (a) Agencies shall disclose only the minimum data necessary to comply with the legal
+27 requirement;
+28 (b) De-identifiedoranonymizeddatashallbeusedwheneverpracticable;and
+29 (c) Contractors,vendors,andgrantrecipientsshallbeboundbythesesamestandards.
+30 126:36 Non-Preemption.
+
+HB1317 -ASINTRODUCED
+-Page2-
+1 Nothing in this subdivision shall be construed to diminish protections provided under federal or
+2 statelaw,includingbutnotlimitedto:
+3 I. TheHealthInsurancePortabilityandAccountabilityAct(HIPAA);
+4 II. TheAmericanswithDisabilitiesAct(ADA);
+5 III. Section504oftheRehabilitationAct;
+6 IV. TheGeneticInformationNondiscriminationAct(GINA);
+7 V. TheNewHampshirelawagainstdiscrimination;
+8 VI. TheNewHampshirementalhealthbillofrights;and
+9 VII. Part1,article2-b,NewHampshirestateconstitution,righttoprivacy.
+10 126:37 Enforcement.
+11 The attorney general shall have authority to enforce this act. Violations may be subject to civil
+12 penaltiesandcorrectiveaction,consistentwithstatelaw.
+13 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

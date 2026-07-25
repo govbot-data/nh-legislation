@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER310
+HB1723-FINALVERSION
+12Mar2026...0935h
+04/09/2026 1307s
+05/14/2026 1811s
+4Jun2026...2158EBA
+2026SESSION
+26-2705
+06/08
+1723
+HOUSEBILL
+ANACT requiring utilities and electric grid operators to assess and report the vulnerability of
+high-voltage transformers to geomagnetic and electromagnetic disturbances, and to
+recommendmitigationmeasurestoprotectthestateelectricinfrastructure.
+SPONSORS: Rep. Mattson, Ches. 18; Rep. Cole, Hills. 26; Rep. Qualey, Ches. 18; Rep. Sabourin
+dit Choiniere, Rock. 30; Rep. Schneller, Hills. 2; Rep. D. Thomas, Rock. 16; Rep.
+Vose, Rock. 5; Rep. Ammon, Hills. 42; Rep. McGhee, Hills. 35; Rep. Mary Murphy,
+Hills.27;Sen.Innis,Dist7;Sen.Ricciardi,Dist9
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill directs the department of energy to investigate vulnerabilities of electric transmission
+transformers to geomagnetic and electromagnetic disturbances and report findings with
+recommendations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER310
+HB1723-FINALVERSION
+12Mar2026...0935h
+04/09/2026 1307s
+05/14/2026 1811s
+4Jun2026...2158EBA 26-2705
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring utilities and electric grid operators to assess and report the vulnerability of
+high-voltage transformers to geomagnetic and electromagnetic disturbances, and to
+recommendmitigationmeasurestoprotectthestateelectricinfrastructure.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 310:1 Shorttitle. Thisactshallbeknownas"SurveyAllVulnerableElectricTransformersAct."
+2 310:2 Findings.
+3 I. America’s electric grid is critical to modern life and faces existential threats from solar weather
+4 events (coronal mass ejections—CME), geomagnetic disturbances—GMDs, and high-altitude nuclear
+5 electromagneticpulse—HEMP,allcapableofdisablingelectricpowersystems.
+6 II. High voltage transformers are especially vulnerable to geomagnetically induced currents—
+7 GICs—whether induced by GMDs or HEMP E3 component, entering the grid through ground-connected
+8 neutralwires.
+9 III. Extra High Voltage (EHV) transformers (345 kV–765 kV) are most vulnerable and difficult to
+10 replace,withproductionleadtimesofupto4–6years.
+11 IV. GIC vulnerability is influenced by transformer characteristics, ground conductivity, and the
+12 magneticfieldintensityfromGMDorE3HEMP.
+13 V. Aging transformers are more susceptible to GIC due to degraded insulating oil and coil
+14 condition.
+15 VI. Federal and international standards highlight the importance of transformer assessment and
+16 protectionagainstthesethreats.
+17 VII. OnJuly23,2012,apowerfulCMEeruptedoffthebacksideofthesunracingthroughEarth’s
+18 orbit missing Earth by 9 days. It was measured by STEREO-A satellite and determined by the National
+19 Oceanic and Atmospheric Administration to be in all respects at least the size of the Carrington event of
+20 1859.
+21 VIII. In 2012, the United States Department of Energy’s Idaho National Laboratory working with
+22 the United States Department of Defense’s Defense Threat Reduction Agency conducted live grid E3
+23 HEMP tests to analyze GIC harmonic threats to the electric power grid. The results showed transformer
+24 half-cycle saturation and generation of harmonics that exceeded the IEEE 519 Standard with GIC of 15
+25 Ampsintheneutralofthepowertransformer.
+26 IX. In February 2013, the North American Electric Reliability Corporation (NERC) GMD
+27 committee of 8 respected space weather scientists estimated a reference storm. Preliminary results
+28 showedapeakelectricfieldstrengthof30V/kmto40V/km.
+
+CHAPTER310
+HB1723-FINALVERSION
+-Page2-
+1 X. In May 2025, the International Electrotechnical Commission (IEC) updated the international
+2 standardIEC61000-2-9forE3HEMPto85V/km.
+3 XI. TheNERCGMDStandardrequiresNewHampshiretomodelroughly3V/km.
+4 XII. WiththeexistenceofvalidatedGICmitigationhardwarethatprotectspowertransformersand
+5 improves grid resilience against these severe GIC events, reliance on load shedding or operating
+6 procedureswhichcannotblockGICarenolongerjustified.
+7 310:3 Geomagnetic and Electromagnetic Disturbance Electric Transmission; Department of Energy;
+8 VulnerabilityInvestigation.
+9 I. The department of energy shall investigate the vulnerability of electric transmission
+10 transformers and other system components to geomagnetically induced currents. The investigation shall
+11 answerthefollowingquestions:
+12 (a) What studies and assessments have previously been performed that reviewed
+13 transmissionsystemvulnerabilitiestogeomagneticandelectromagneticdisturbances?
+14 (b) How were those studies conducted and what were the transmission system grid
+15 vulnerabilitiesidentified?
+16 (c) Given the current NERC GMD standard of 3 V/km and the IEC international standard of
+17 85 V/km, did the magnetic field standard utilized adequately assess the vulnerability of the transmission
+18 systeminNewHampshiretogeomagneticandelectromagneticdisturbances?
+19 (d) If the magnetic field standard utilized in previous studies did not adequately assess
+20 transmissioninfrastructurevulnerability,whatstandardshouldbeused?
+21 (e) What would be the cost to conduct a transmission infrastructure assessment at a higher
+22 standardthanhaspreviouslybeenused?
+23 (f) Howlongwouldanadditionalassessmentatahigherstandardtaketocomplete?
+24 (g) What mitigation strategies and response methods are currently utilized to protect
+25 transmission system infrastructure from geomagnetic and electromagnetic disturbances and are those
+26 strategiesandmethodsadequate?
+27 (h) What role can the state of New Hampshire play in assessing transmission system
+28 vulnerabilities that fall under the jurisdiction of the Federal Energy Regulatory Commission and in
+29 directingtransmission-owningutilitiestoimplementinfrastructureandnon-infrastructuresolutions?
+30 (i) What funding sources are available to conduct additional assessments or support the
+31 installation of equipment to further protect vulnerable transmission system infrastructure from
+32 geomagneticandelectromagneticdisturbances?
+33 II. The department shall commence the investigation within 120 days of the effective date of this
+34 section and complete the investigation within a time period not to exceed 12 months of its
+35 commencement. At the conclusion of the investigation, the department shall issue a report of its findings
+36 and recommendations to the house science, technology and energy committee, the senate energy and
+37 naturalresourcescommittee,andthedivisionof homelandsecurityandemergencymanagementandthe
+38 department shall also send the report to the United States Secretary of Energy, the Federal Energy
+39 RegulatoryAgency,andISO-NewEngland.
+
+CHAPTER310
+HB1723-FINALVERSION
+-Page3-
+1 III. Notwithstanding any other law, rule, or order to the contrary, and contingent upon sufficient
+2 funding for the biennium ending June 30, 2029, the department shall have the authority necessary to
+3 conduct this investigation and implement this act, including, but not limited to, the authority to request
+4 information from public utilities, including transmission utilities, regarding transmission infrastructure
+5 locatedwithinthestateofNewHampshire.
+6 IV. All data submitted under this section shall be handled in accordance with critical energy
+7 infrastructure information protocols and location and purpose data shall be redacted from public reports.
+8 “Critical energy infrastructure information protocols” means specific engineering, vulnerability, or detailed
+9 designprotocolsandproceduresrelatedtoproposedorexistingcriticalinfrastructure,whetherphysicalor
+10 virtual,thatrelatetotheproduction,generation,transmission,transportation,ordistributionofenergy, the
+11 unauthorized disclosure of which could pose a risk to the security, reliability, or integrity of the
+12 infrastructure; such protocols are designated as confidential and exempt from public disclosure, as their
+13 releasecouldbeusefultoapersonplanninganattackorotherwisecausingharmtotheinfrastructure.
+14 310:4 EffectiveDate. ThisactshalltakeeffectonSeptember1,2027.
+Approved:July10,2026
+EffectiveDate:September01,2027

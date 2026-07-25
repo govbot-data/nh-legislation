@@ -1,0 +1,722 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+05/14/2026 1924s
+2026SESSION
+26-2397
+05/08
+1491
+HOUSEBILL
+ANACT relativetopooledriskmanagementprograms.
+SPONSORS: Rep. Hunt, Ches. 14; Rep. Porcelli, Rock. 19; Sen. Innis, Dist 7; Sen. Perkins
+Kwoka,Dist21
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes and regulates political subdivision risk management programs, sets eligibility
+and reporting requirements, defines oversight and enforcement authority, outlines financial,
+investment, and solvency standards, and affirms tax exemptions and confidentiality provisions for
+suchprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+05/14/2026 1924s 26-2397
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopooledriskmanagementprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Political Subdivision Risk Management Programs. Amend RSA by inserting
+2 afterchapter420-Qthefollowingnewchapter:
+3 CHAPTER420-R
+4 POLITICALSUBDIVISIONRISKMANAGEMENTPROGRAMS
+5 420-R:1 Purpose. The purpose of this chapter is to provide for the establishment of political
+6 subdivisionriskmanagementprogramsandtoaffirmthestatusofsuchprogramsestablishedforthe
+7 benefitofpoliticalsubdivisionsofthestate. Thelegislaturefindsanddeterminesthatinsuranceand
+8 risk management are essential to the proper functioning of political subdivisions; that risk
+9 management can be achieved through the purchase of traditional insurance or by participation in
+10 pooled risk management programs established for the benefit of political subdivisions; that pooled
+11 risk management is an essential governmental function by providing focused public sector loss
+12 preventionprograms, accrual ofinterest and dividend earnings,whichmaybereturned tothepublic
+13 benefit,andestablishmentofcostspredicatedsolelyontheactualexperienceofpoliticalsubdivisions
+14 within the state; that the resources of political subdivisions are presently burdened by the securing
+15 of insurance protection through standard carriers; and that risk management programs that meet
+16 the standards established by this chapter should not be subject to taxation by the state and, except
+17 asspecificallysetforthinthischapter,shouldnotbesubjecttoinsuranceregulation.
+18 420-R:2 Definitions;ScopeofChapter. Inthischapter:
+19 I. "Authorizedcontrollevelevent"meansanyofthefollowingevents:
+20 (a) The filing of a Risk-Based Capital “RBC” report by the program indicating that the
+21 program's total adjusted capital is greater than or equal to its mandatory control level RBC but less
+22 thanitsauthorizedcontrollevelRBC;
+23 (b) The notification by the commissioner to the program of an adjusted RBC report that
+24 indicatestheeventinsubparagraph(a);or
+25 (c) Thefailureoftheprogramtorespondtoacorrectiveorderinamannersatisfactoryto
+26 thecommissioner.
+27 II. “Commissioner”meansthecommissionerofthedepartmentofinsurance.
+28 III. "Companyactionlevel event" means the filingof anRBCreport byaprogram indicating
+29 that:
+30 (a) The program's total adjusted capital is greater than or equal to its regulatory action
+31 levelRBCbutlessthanitscompanyactionlevelRBC;
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 (b) For life and/or ancillary health coverages, the political subdivision risk management
+2 program has total adjusted capital that is greater than or equal to its company action level RBC but
+3 lessthantheproductofitsauthorizedcontrollevelRBCand3.0andhasanegativetrend;or
+4 (c) For property and casualty or employee health plan coverages, the program has total
+5 adjusted capital that is greater than or equal to its company action level RBC but less than the
+6 product of its authorized control level RBC and 3.0 and triggers the trend test determined in
+7 accordancewiththetrendtestcalculationincludedinthepropertyandcasualtyRBCinstructions.
+8 IV. “Department”meansthedepartmentofinsurance.
+9 V. “Excessinsurance”meansstop-lossinsuranceforhealthinsuranceclaimsandhigh-dollar
+10 valuecoverageaboveaprimarylayerforpropertyandcasualtyinsuranceclaims.
+11 VI. "Mandatorycontrollevelevent"meansanyofthefollowingevents:
+12 (a) ThefilingofanRBCreport thatindicatesthattheprogram'stotaladjustedcapital is
+13 lessthanitsmandatorycontrollevelRBC;or
+14 (b) Notification by the commissioner to the program of an adjusted RBC report that
+15 indicatestheeventinsubparagraph(a).
+16 VII. “Member” means any political subdivision that participates in a risk management
+17 programunderthischapter.
+18 VIII. “NAIC”meanstheNationalAssociationofInsuranceCommissioners.
+19 IX. “Nonprofit organization” means any entity that is exempt from taxation under Section
+20 501(c)(3), 501(c)(4), 501(c)(6), or 501(c)(12) of the Internal Revenue Code of 1986, or any subsequent
+21 correspondingInternalRevenueCodeoftheUnitedStates,asamended.
+22 X. "Political subdivision" means any city, town, county, school district, chartered public
+23 school, village district, school administrative unit, or any district or entity created for a special
+24 purposeadministeredorfundedbyanyoftheabove-namedgovernmentalunits.
+25 XI. “Political Subdivision Risk Management Program” or “program” means any formal
+26 arrangement established or maintained by 2 or more political subdivisions for the purpose of jointly
+27 covering risk that is not organized and operated as an assessable risk pool regulated in accordance
+28 withtherequirementsofRSA5-B.
+29 XII. "RBC instructions" means the RBC report including risk-based capital instructions
+30 adopted by the NAIC, as such RBC instructions may be amended by the NAIC from time to time in
+31 accordancewiththeproceduresadoptedbytheNAIC.
+32 XIII. "RBClevel"meansaprogram'scompanyactionlevelRBC,regulatoryactionlevelRBC,
+33 authorizedcontrollevelRBC,ormandatorycontrollevelRBCwhere:
+34 (a) "CompanyactionlevelRBC"meanstheproductof2.0anditsauthorizedcontrollevel
+35 RBC.
+36 (b) "Regulatory action level RBC" means the product of 1.5 and its authorized control
+37 levelRBC.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 (c) "Authorized control level RBC" means the number determined under the risk-based
+2 capitalformulainaccordancewiththeRBCinstructions.
+3 (d) "Mandatory control level RBC" means the product of .70 and the authorized control
+4 levelRBC.
+5 XIV. "RBCplan"meansacomprehensivefinancialplancontainingthefollowingelements:
+6 (a) Conditionsthatcontributetothecompanyactionlevelevent;
+7 (b) Proposals of corrective actions that the program intends to take and would be
+8 expectedtoresultintheeliminationofthecompanyactionlevelevent;
+9 (c) Projections of the program’s financial results in the current year and at least the 4
+10 succeedingyears, both intheabsence of proposed corrective actions and giving effect tothe proposed
+11 corrective actions, including projections of statutory operating income, net income, capital, and/or
+12 surplus. The projections for both new and renewal business might include separate projections for
+13 each major line of business and separately identify each significant income, expense, and benefit
+14 component;
+15 (d) Key assumptions impacting the program's projections and the sensitivity of the
+16 projectionstotheassumptions;and
+17 (e) The quality of, and problems associated with, the program's business, including but
+18 not limited to its assets, anticipated business growth and associated surplus strain, extraordinary
+19 exposure to risk, mix of business, and use of reinsurance, if any, in each case. If the commissioner
+20 rejectstheRBCplan,anditisrevisedbythepoliticalsubdivisionriskmanagementprogram,withor
+21 withoutthecommissioner'srecommendation,theplanshallbecalledthe"revisedRBCplan."
+22 XV. "Regulatoryactionlevelevent"meansanyofthefollowingevents:
+23 (a) The filing of an RBC report by the program that indicates that the program's total
+24 adjusted capital is greater than or equal to its authorized control level RBC but less than its
+25 regulatoryactionlevelRBC;
+26 (b) The failure of the program to file an RBC report by the filing date, unless the
+27 program has provided an explanation for such failure which is satisfactory to the commissioner and
+28 hascuredthefailurewithin10daysafterthefilingdate;
+29 (c) Notification by the commissioner to the program that the RBC plan or revised RBC
+30 plansubmittedbytheprogramis,inthejudgmentofthecommissioner,unsatisfactory;or
+31 (d) Notification by the commissioner to the program that the program has failed to
+32 adhere to its RBC plan or revised RBC plan, but only if such failure has a substantial adverse effect
+33 ontheabilityof theprogram toeliminatethecompanyactionlevel event inaccordancewithits RBC
+34 planorrevisedRBCplanandthecommissionerhassostatedinthenotification.
+35 420-R:3 DeclarationofStatus;TaxExemption.
+36 I. Any arrangement authorized and meeting the standards required under this chapter is
+37 not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 administration of any activities of the arrangement shall not constitute doing an insurance business
+2 for purposes of regulation or taxation. Such self-insurance arrangements shall not be subject to the
+3 premium tax under RSA 400-A:32 and shall not be subject to assessment with respect to the
+4 administrationfundunderRSA400-A:39.
+5 II. Any such arrangement operating under this chapter, whether or not a body corporate,
+6 trust, or charter, may sue or be sued, make contracts, hold and dispose of real property, borrow
+7 money,contractdebts,andpledgeassetsinitsname.
+8 III. Political subdivision risk management programs shall be governed by this chapter and
+9 shallbeexemptfromthistitle,exceptfortheprovisionsof:
+10 (a) RSA400-A:16,relativetoinvestigations;
+11 (b) RSA400-A:17throughRSA400-A:24,relativetohearingsandappeals;
+12 (c) RSA400-A:37,relativetoexaminations;
+13 (d) RSA402-B,relativetoinsuranceclaimsadjusters;
+14 (e) RSA402-J,relativetoproducerlicensing;
+15 (f) RSA 417:1 through 417:31, relative to unfair trade practices and fraud
+16 investigations;and
+17 (g) RSA 420-G:11, II, II-a, and IV, relative to the submission of claims data to the
+18 department.
+19 IV. This section does not apply to or provide exemptions for insurance companies issuing
+20 policies to cover the arrangement, third-party administrators, insurance producers, or other
+21 licenseessubjecttoRSATitleXXXVIIservicingthepoliticalsubdivisionriskmanagementprogram.
+22 V. RSA5-Bshallnotapplytopoliticalsubdivisionriskmanagementprograms.
+23 420-R:4 AgreementtoForm;AuthorizedActivities.
+24 I. To accomplish the purposes of this chapter, any 2 or more political subdivisions of this
+25 state may, by resolution of their governing bodies, establish and enter into agreements to form a
+26 nonprofit organization, association, or trust under the laws of this state to carry out the activities of
+27 apoliticalsubdivisionriskmanagementprogram.
+28 II. RSA 53-A shall not apply to an association formed or affirmed under this chapter, nor to
+29 theparticipationinsuchanassociationbyapoliticalsubdivision.
+30 III. Political subdivision risk management programs established for the benefit of political
+31 subdivisionsmayprovideanyorallofthefollowingcoverages:
+32 (a) Casualty, including general and professional liability; errors and omissions; workers'
+33 compensation and employer's liability; medical payments; or unemployment compensation as
+34 authorizedunderfederallaw.
+35 (b) Property, including marine and inland navigation; transportation; boiler and
+36 machinery;fire;theft;ornaturalhazards.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 (c) Vehicle, including any liability or loss arising from the ownership or operation of
+2 vehicles.
+3 (d) Suretyandfidelity.
+4 (e) Environmentalimpairment.
+5 (f) Hospital, medical, surgical, or dental benefits for employees and retirees and their
+6 dependents.
+7 (g) Life, income maintenance, accidental death and dismemberment, vision loss or
+8 impairment,orlegalbenefitsforemployeesandtheirdependents.
+9 IV. Any political subdivision risk management program that provides coverage described in
+10 subparagraphs III (a) through (e) shall not also provide coverages described in subparagraphs (f) or
+11 (g).
+12 V. If provided for in the organizational documents, a political subdivision risk management
+13 programmay,inconformancewiththischapter:
+14 (a) Contractorotherwiseprovideforriskmanagementandlosscontrolservices;
+15 (b) Contract or otherwise provide legal counsel for the defense of claims and other legal
+16 services;
+17 (c) Jointly purchase insurance and reinsurance coverage in a form and amount as
+18 providedforintheorganizationaldocuments;
+19 (d) Obligatetheparticipants topledgefundsor revenuestosecuretheobligationsor pay
+20 theexpenses ofthearrangement,includingtheestablishment ofareservefund forcoverageand any
+21 other financial arrangements if the reserve fund or the arrangement's revenue or assets are
+22 insufficienttocovertheliabilities;and
+23 (e) Possess any other powers and perform all other functions reasonably necessary to
+24 carryoutthepurposesofthischapter.
+25 VI. Anyprogramoperatingunderthischapter,whetherornotbodycorporate,maysueorbe
+26 sued; make contracts; hold and dispose of real property; and borrow money, contract debts, and
+27 pledgeassetsinitsname.
+28 VII. Participation by a political subdivision in a political subdivision risk management
+29 program formed and affirmed under this chapter shall not subject any such political subdivision to
+30 anyliabilitytoanythird partyfor theacts or omissionsof thepolitical subdivisionrisk management
+31 programoranyotherpoliticalsubdivisionparticipatingintheprogram.
+32 420-R:5 Formation.
+33 I. Before the establishment of a political subdivision risk management program, the
+34 program shall obtain the approval of the commissioner. The political subdivisions proposing the
+35 creation of the program shall submit a plan of management and operation to the commissioner that
+36 provides,ataminimum,thefollowinginformation:
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 (a) The risk or risks to be covered, including any coverage definitions, terms, conditions,
+2 andlimitations;
+3 (b) The amount and method of funding the covered risks, including the initial capital
+4 and proposed rates and projected premiums. The commissioner shall require deposits, surplus
+5 requirements, or other financial security reasonably necessary to ensure the solvency and financial
+6 integrity of the program, including deposits of not less than $300,000 for property and casualty lines
+7 and $500,000 for health-related coverages, in cash, securities authorized for savings banks, or such
+8 otherinvestmentsasapprovedbythecommissioner;
+9 (c) Theproposedclaimreservingpractices;
+10 (d) The proposed purchase and maintenance of insurance, or excess insurance in excess
+11 oftheamountsretainedbythejointself-insurancearrangement;
+12 (e) Thelegalformoftheprogram,including,butnotlimitedto,anyconstitution,articles
+13 ofincorporation,bylaws,charter,trust,orotheragreementamongtheparticipatingentities;
+14 (f) The agreements with participants in the arrangement defining the responsibilities
+15 andbenefitsofeachparticipantandmanagement;
+16 (g) Theproposedaccounting,depositing,andinvestmentpracticesofthearrangement;
+17 (h) Evidence satisfactory to the commissioner showing that the arrangement will be
+18 operatedinaccordancewithsoundactuarialprinciples;
+19 (i) A designation of the individual to whom service of process must be forwarded by the
+20 commissioneronbehalfofthearrangement,includingthatindividual’snameandaddress;
+21 (j) All contracts between the program and private persons providing risk management,
+22 claims,orotheradministrativeservices;
+23 (k) A professional analysis of the feasibility of the creation and maintenance of the
+24 program;
+25 (l) A legal analysis or an Internal Revenue Service opinion on the federal income tax
+26 exposureorliabilityoftheprogram;
+27 (m) The names and addresses of the directors of the arrangement, who are subject to
+28 approvalbythecommissioneruponthepresentationofsufficientevidenceto:
+29 (1) Becompetent;
+30 (2) Have not been found to be guilty of, or to have pled guilty or no contest to, a
+31 felonyoracrimeinvolvingmoralturpitude;
+32 (3) Have not had any type of professional license revoked in this or any other state;
+33 and
+34 (4) Have not improperly manipulated assets, accounts, or specific excess insurance
+35 orotherwiseactedinbadfaith;
+36 (n) A copy of a fidelity bond in an amount equal to not less than 12 percent of the funds
+37 handled annually and issued in the name of the arrangement covering its officers, trustees,
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 employees, administrator, or other individuals managing or handling the funds or assets of the
+2 arrangement. In no case may such bond be less than $1,000,000 or more than $5,000,000, except
+3 that the commissioner may prescribe an amount more than $5,000,000 following a hearing. In lieu
+4 of a surety bond, the posting of the requisite surety in cash in an account where investment or
+5 interestearningsonthesuretyfundsmaybesweptbythepoolandallocatedtooperations, reserves,
+6 orsurplus,asthecasemaybe;
+7 (o) A statement from legal counsel attesting that there are no pending regulatory
+8 enforcementactionsagainsttheentity;and
+9 (p) Such additional information as the commissioner may reasonably require to
+10 determinecompliancewiththischapter.
+11 II. The commissioner shall not approve the arrangement unless the commissioner
+12 determinesthefollowing:
+13 (a) The plan is designed to provide sufficient revenues to pay current and future
+14 liabilities,asdeterminedinaccordancewithsoundactuarialprinciples;and
+15 (b) TheprogrammeetstherequirementsofRSA420-R:6.
+16 III. Any pooled risk entity operating in accordance with RSA 5-B as of July 1, 2026, may
+17 seek conditional approval. The commissioner may authorize such a program that does not currently
+18 meettherequirementsofthischaptertooperateasapoliticalsubdivisionriskmanagementprogram
+19 under a conditional approval for a period not to exceed 2 years while the organization works to meet
+20 alltherequirementsofthischapter.
+21 IV. Any entity that does not meet the requirements of RSA 5-B and has been found to be
+22 operating without the commissioner’s approval shall be subject to an administrative fine not to
+23 exceed$10,000foreachdayithasoperatedwithoutthecommissioner’sapproval.
+24 420-R:6 RequirementsofOrganizationandOperation.
+25 I. A political subdivision risk management program shall meet the following minimum
+26 eligibilityrequirementsandanyadditionalrequirementsthatthecommissionermayrequire:
+27 (a) Thearrangementshallqualifyasanon-profitentityornot-for-profittrust;
+28 (b) Operated pursuant to an agreement by a board of directors, which shall have
+29 complete fiscal control over the arrangement and which shall be responsible for all operations of the
+30 arrangement. The directors shall be elected officials or employees of one or more political
+31 subdivisions in the arrangement. A director may not be an owner, officer, or employee of the
+32 administrator or service company of the arrangement. The directors shall have the authority to
+33 approve applications of association members for participation in the arrangement and to contract
+34 with an authorized administrator or service company to administer the day-to-day affairs of the
+35 arrangement.
+36 (c) Neitherofferednoradvertisedtothepublicgenerally.
+37 (d) Operatedinaccordancewithsoundactuarialprinciples.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page8-
+1 II. Thefollowingactivitiesshallbeprohibited:
+2 (a) An employee or official of a participating political subdivision shall not directly or
+3 indirectly receive anything of value for services rendered in connection with the operation and
+4 management of the arrangement other than the salary and benefits provided by his or her employer
+5 or the reimbursement of expenses reasonably incurred in furtherance of the operation or
+6 managementofthearrangement.
+7 (b) An employee or official of a participating political subdivision shall not accept or
+8 solicit anything of value for personal benefit or for the benefit of others under circumstances in
+9 which it can be reasonably inferred that the employee's or official's independence of judgment is
+10 impairedwithrespecttothemanagementandoperationofthearrangement.
+11 III. The commissioner shall not grant or continue approval of a program until such time as
+12 the program replaces any director found by the commissioner, upon the presentation of sufficient
+13 evidence:
+14 (a) Tobeincompetent;
+15 (b) To be guilty of, or to have pleaded guilty or no contest to, a felony or a crime
+16 involvingmoralturpitude;
+17 (c) Tohavehadanytypeofinsurancelicenserevokedinthisoranyotherstate;
+18 (d) To have improperly manipulated assets, accounts, or specific excess insurance or to
+19 haveotherwiseactedinbadfaith.
+20 IV. Directors shall comply with the provisions of RSA 15-A. Directors shall have a fiduciary
+21 responsibilitytoactinthebestinterestofthepoliticalsubdivisionriskmanagementprogram,which
+22 shallincludeadutyofcaretoensureprudentinvestmentanduseofassets,adutyofloyaltytoactto
+23 further the purposes and mission of the program, and a duty of obedience to comply with
+24 organizationalbylawsandapplicablelaw.
+25 420-R:7 Termination of Arrangement. If an arrangement is terminated for any reason, it shall
+26 pay all outstanding claims, debts, and obligations. The arrangement may retain sufficient funds to
+27 provide coverage for such additional period as the board of the arrangement considers prudent. In
+28 addition, the program may purchase such additional insurance as they consider necessary for
+29 protection against potential future claims. Any funds remaining in the arrangement after
+30 satisfaction of all obligations upon termination shall be paid to participating entities as of the
+31 termination date in some equitable manner meeting with the approval of the commissioner,
+32 including, without ruling out other alternatives, equally on a per capita basis to each participating
+33 entitythatiscoveredunderthearrangementasoftheeffectivedateoftermination.
+34 420-R:8 ApprovalofRates.
+35 I. Each political subdivision risk management program shall file with the insurance
+36 commissioner a full schedule of the rates to be paid by participating members and shall obtain the
+37 commissioner’sapprovalpriortoimplementinganyratechanges. Rates,ratingfactors,andallrules
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page9-
+1 necessary for the calculation of members’ contributions shall be filed with the commissioner at least
+2 60 days prior to implementation along with all relevant actuarial support that justifies the selection
+3 of rates. The commissioner may refuse such approval if he or she finds the rates are excessive,
+4 inadequate,orunfairlydiscriminatory.
+5 II. All underlying information submitted to justify the rates to the extent the information
+6 therein is not otherwise required to be publicly available, which is filed with the commissioner,
+7 constitutes information that might be damaging to the risk pool management program if made
+8 available to competitors and therefore shall be kept confidential by the commissioner. This
+9 information shall not be made public or be subject to subpoena, other than by the commissioner and
+10 thenonlyforthepurposeofenforcementactionstakenbythecommissionerpursuanttothischapter
+11 ortheapplicableprovisionsofTitleXXXVII.
+12 III. Allapprovedratesandratingmanualsshallbepubliclyavailable.
+13 420-R:9 FinancialReporting.
+14 I. Each political subdivision risk management program shall prepare and file or transmit to
+15 the commissioner an annual statement and subsequent quarterly statements under oath, in
+16 accordance with the National Association of Insurance Commissioners Annual Statement Blank
+17 following the National Association of Insurance Commissioners Annual Statement Instructions and
+18 those accounting procedures and practices prescribed by the National Association of Insurance
+19 Commissioners Accounting Practices and Procedure Manual or allowed as a permitted accounting
+20 practiceasprovidedinthemanual.
+21 II. The annual statement shall be due on or before March 1 each year. The commissioner
+22 may extend the time for filing or transmitting such statement for cause shown and may approve an
+23 alternative submission date. The commissioner may refuse to continue, or may suspend or revoke,
+24 the approval for any political subdivision risk management program that fails to file or transmit its
+25 annualstatementwhendue.
+26 III. In addition to the above, the commissioner may require from any person or entity
+27 subjecttothistitle:
+28 (a) Statements, reports, including reports audited by independent public accountants,
+29 answers to questionnaires, and other information and evidencethereof, inwhatever reasonable form
+30 the commissioner designates and at such reasonable intervals as the commissioner may choose, or
+31 fromtimetotime;
+32 (b) Full explanation of the programming of any data storage or communications systems
+33 inuse;and
+34 (c) That information from any books, records, electronic data processing systems,
+35 computers,oranyotherinformationstoragesystembemadeavailabletohimatanyreasonabletime
+36 andinanyreasonablemanner.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page10-
+1 IV. Any officer, manager, or general agent; any person with executive authority over or in
+2 charge of any segment of such political subdivision risk management program’s affairs; and any
+3 insurance agent or other person licensed under theinsurance code shall replypromptlyinwriting or
+4 inotherdesignatedformtoanywritteninquiryfromthecommissionerrequestingareply.
+5 V. The commissioner may require that any communication made to him under this section
+6 beverified.
+7 VI. In the absence of actual malice, no communication required by the commissioner under
+8 thissectionshallsubjectthepersonmakingittoanactionfordamagesfordefamation.
+9 VII. Theinformationobtainedpursuanttothissectionshallbeprivileged.
+10 VIII. Any director, officer, agent, or employee of a political subdivision risk management
+11 program who subscribes to, makes, or concurs in making or publishing any annual or other
+12 statement required by law, having actual knowledge that the same contains any material statement
+13 that is false, shall be guilty of a misdemeanor if a natural person or guilty of a felony if any other
+14 person.
+15 IX. The commissioner may retain, without appropriation under RSA 9 and without
+16 qualifying as a department expenditure under RSA 4:15, attorneys, independent actuaries,
+17 independent certified public accountants, or other professionals or specialists to review financial
+18 statements, the cost of which shall be borne by the company that is the subject of the financial
+19 analysis. Thepoliticalsubdivisionriskmanagementprogramshallpaytheretainedprofessionals or
+20 specialists directly for their costs. The commissioner shall conduct oversight of such independent
+21 reviewers in a manner that is consistent with standards for the use of independent reviewers
+22 established by the National Association of Insurance Commissioners in its Financial Condition
+23 ExaminersHandbookandshallensurethatcostsarereasonablefortheworkperformed.
+24 420-R:10 Risk-BasedCapital.
+25 I. Every political subdivision risk management program shall, on or prior to each March 1,
+26 prepare and submit to the commissioner a report of its RBC levels as of the end of the calendar year
+27 just ended, in a form and containing such information as is required by the RBC instructions for
+28 programs.
+29 II. For life and/or ancillary health coverages, RBC shall be determined in accordance with
+30 the formula set forth in the RBC instructions. The formula shall take into account, and may adjust
+31 for,thecovariancebetween:
+32 (a) Theriskwithrespecttotheprogram'sassets;
+33 (b) Therisk of adverseinsurance experiencewithrespect totheprogram's liabilities and
+34 obligations;
+35 (c) Theinterestrateriskwithrespecttotheprogram'sbusiness;and
+36 (d) All other business risks and such other relevant risks as are set forth in the RBC
+37 instructions.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page11-
+1 III. For property and casualty coverages, RBC shall be determined in accordance with the
+2 formula set forth in the RBC instructions. The formula shall take into account and may adjust for
+3 thecovariancebetween:
+4 (a) Assetrisk;
+5 (b) Creditrisk;
+6 (c) Underwritingrisk;and
+7 (d) All other business risks and such other relevant risks as are set forth in the RBC
+8 instructions, determined in each case by applying the factors in the manner set forth in the RBC
+9 instructions.
+10 IV. For employee health plan coverages, RBC shall be determined in accordance with the
+11 formula set forth in the RBC instructions. The formula shall take into account and may adjust for
+12 thecovariancebetween:
+13 (a) Assetrisk;
+14 (b) Creditrisk;
+15 (c) Underwritingrisk;and
+16 (d) All other business risks and such other relevant risks as are set forth in the RBC
+17 instructions.
+18 V.(a) In the event of a company action level event, the program shall, within 45 days of the
+19 event,prepareandsubmittothecommissioneranRBCplan. Within60daysafterthesubmissionof
+20 an RBC plan to the commissioner, the commissioner shall notify the program whether the RBC plan
+21 shall be implemented or is, in the judgment of the commissioner, unsatisfactory. If the
+22 commissioner determines the RBC plan is unsatisfactory, the notification to the program shall set
+23 forth the reasons for the determination and may set forth proposed revisions that will render the
+24 RBC plan satisfactory, in the judgment of the commissioner. Upon notification from the
+25 commissioner, the program shall prepare a revised RBC plan, which may incorporate by reference
+26 anyrevisionsproposedbythecommissioner.
+27 (b) Intheeventofaregulatoryactionlevelevent,thecommissionershall:
+28 (1) Require the program to prepare and submit an RBC plan or, if applicable, a
+29 revisedRBCplan;
+30 (2) Perform such examination or analysis as the commissioner deems necessary of
+31 the assets, liabilities, and operations of the program, including a review of its RBC plan or revised
+32 RBCplan;and
+33 (3) Subsequent to the examination or analysis, issue an order specifying such
+34 correctiveactionsasthecommissionershalldeterminearerequired.
+35 (c) Intheeventofanauthorizedcontrollevelevent,thecommissionershall:
+36 (1) Take such actions as are required with respect to which a regulatory action level
+37 eventhasoccurred;or
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page12-
+1 (2) If the commissioner deems it to be in the best interests of the policyholders and
+2 creditors of the political subdivision risk management program and of the public, take such actions
+3 as are necessary to cause the political subdivision risk management program to be placed under
+4 regulatorycontrol.
+5 (d) In the event of a mandatory control level event, the commissioner shall take such
+6 actions as are necessary to place the political subdivision risk management program under
+7 regulatorycontrol. Notwithstandinganyoftheforegoing,thecommissionermayforegoactionforup
+8 to 90 days after the mandatory control level event if the commissioner finds there is a reasonable
+9 expectationthatthemandatorycontrolleveleventmaybeeliminatedwithinthe90-dayperiod.
+10 VI. Any action by the commissioner related to RBC shall be a basis for requesting a hearing
+11 pursuant to RSA 400-A:17, II (b). The program shall have the right to request a confidential
+12 departmental hearing, on the record, at which the program may challenge any determination or
+13 action by the commissioner. The program shall notify the commissioner of its request for a hearing
+14 within5daysafterthenotificationbythecommissioner. Uponreceiptoftheprogram'srequestfora
+15 hearing, the commissioner shall set a date for the hearing, which date shall be no less than 10 and
+16 nomorethan30daysafterthedateoftheprogram'srequest.
+17 VII.(a) The commissioner may apply by verified petition to the superior court for Merrimack
+18 county or for the county in which the principal office of the program is located for an order directing
+19 himorhertotakecontroloftheprogramonanyoneormoreofthefollowinggrounds:
+20 (1) Theprogramhasencounteredanauthorizedormandatorycontrolevent;
+21 (2) The commissioner has reasonable cause to believe that there has been
+22 embezzlement from the program, wrongful sequestration or diversion of the program's assets,
+23 forgery or fraud affecting the program, or other illegal conduct in, by, or with respect to the program
+24 that,ifestablished,wouldendangerassetsinanamountthreateningthesolvencyoftheprogram;
+25 (3) That information coming into the commissioner's possession has disclosed
+26 substantial and not adequately explained discrepancies between the program's records and the most
+27 recentannualreportorotherofficialprogramreports;
+28 (4) That the program has failed to remove any person who in fact has executive
+29 authority in the political subdivision risk management program, whether an officer, manager,
+30 general agent, employee, or other person, if the person has been found by the commissioner after
+31 noticeandhearingtobedishonestoruntrustworthyinawayaffectingtheprogram'sbusiness;
+32 (5) That any person who in fact has executive authority in the program, whether an
+33 officer,manager,generalagent,employee,orotherperson,hasrefusedtobeexaminedunderoathby
+34 the commissioner concerning its affairs, whether in this state or elsewhere, and after reasonable
+35 notice of the fact the program has failed promptly and effectively to terminate the employment and
+36 statusofthepersonandallhisinfluenceonmanagement;
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page13-
+1 (6) That after demand by the commissioner the program has failed to submit
+2 promptly any of its own property, books, accounts, documents, or other records, or those of any
+3 company contracted to provide services to the program, or those of any person having executive
+4 authority in the program so far as they pertain to the program, to reasonable inspection or
+5 examination by the commissioner or an authorized representative. If the program is unable to
+6 submit the property, books, accounts, documents, or other records of a person having executive
+7 authority in the program, it shall be excused from doing so if it promptly and effectively terminates
+8 therelationshipofthepersontotheprogram;
+9 (7) That without first obtaining the written consent of the commissioner, the
+10 political subdivision risk management program has transferred, or attempted to transfer,
+11 substantially its entire property or business, or has entered into any transaction the effect of which
+12 is to merge, consolidate, or reinsure substantially its entire property or business in or with the
+13 propertyorbusinessofanyotherperson;
+14 (8) That the directors of the program are deadlocked in the management of the
+15 political subdivision risk management program's affairs and that the members or shareholders are
+16 unable to break the deadlock and that irreparable injury to the political subdivision risk
+17 managementprogram,itscreditors,itspolicyholders,orthepublicisthreatenedbyreasonthereof;
+18 (9) That the program has failed to pay for 60 days after the due date any obligation
+19 to this state or any political subdivision thereof or any judgment entered in this state, except that
+20 such nonpayment shall not be a ground until 60 days after any good faith effort by the program to
+21 contesttheobligationhasbeenterminated,whetheritisbeforethecommissionerorinthecourts;
+22 (10) That the program has failed to file its annual report or other report within the
+23 time allowed by law and, after written demand by the commissioner, has failed to give an adequate
+24 explanationimmediately;
+25 (11) That 2/3 of the board of directors consent to regulatory control under this
+26 chapter.
+27 (b) An order for regulatory control shall appoint the commissioner and successors in
+28 office as the controlling authority and shall direct the controlling authority forthwith to take
+29 possession of the assets of the program and to administer them under the orders of the court. The
+30 filing or recording of the order with any register of deeds in the state imparts the same notice as a
+31 deed, bill of sale, or other evidence of title duly filed or recorded with that register of deeds. Any
+32 order issued under this section shall require accountings to the court by the controlling authority.
+33 Accountings shall be at such intervals as the court specifies in its order, but no less frequently than
+34 semi-annually.
+35 (c) The commissioner as the controlling authority shall make every reasonable effort to
+36 employ a qualified expert to serve as special deputy commissioner to correct the issue that led to
+37 regulatory control. The special deputy shall have all of the powers of the controlling authority
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page14-
+1 granted under this section. Subject to court approval, the commissioner shall make such
+2 arrangements for compensation as are necessary to obtain a special deputy of proven ability. The
+3 specialdeputyshallserveatthepleasureofthecommissioner.
+4 (d) Subject to court approval, the controlling authority may take such action as is
+5 deemednecessaryorexpedienttoreformandrevitalizetheprogram. Thecontrollingauthorityshall
+6 have all the powers of the directors, whose authority shall be suspended, except as they are
+7 redelegated by the controlling authority. The controlling authority shall have full power to direct
+8 and manage, hire and discharge employees subject toany contract rights they mayhave, require the
+9 collection of funds from political subdivisions comprising the program, and deal with the property
+10 andbusinessoftheprogram.
+11 (e) If the controlling authority finds that there has been criminal or tortious conduct or
+12 breach of any contractual or fiduciary obligation detrimental to the controlling authority by any
+13 officer, manager, agent, broker, employee, or other person, they may pursue all appropriate legal
+14 remediesonbehalfoftheprogram.
+15 (f) The controlling authority may at any time petition the court for an order terminating
+16 theregulatorycontroloftheprogram. Ifthecourtfindsthatgroundsforregulatorycontrolnolonger
+17 exist, it shall order that the program be restored to possession of its property and the control of its
+18 business. The court may also make that finding and issue that order at any time upon its own
+19 motion.
+20 VIII. Regardless of its RBC level, any dividend, return of capital, or return of premium
+21 proposed by the board of a program shall be reviewed and approved prior to distribution by the
+22 commissioner under such terms as outlined in RSA 401-B:5, II, as are applicable to political
+23 subdivisionriskmanagementprogramsasdeterminedbythecommissioner.
+24 420-R:11 Investments.
+25 I. The assets of any political subdivision risk management program shall invest and keep
+26 investedallitsfundsonlyinthefollowingU.S.dollar-denominated,high-qualityinstruments,except
+27 suchcashasmayberequiredinthetransactionofitsbusiness:
+28 (a) CashandCashEquivalents. Cashondeposit;FDIC-insureddepositspursuanttothe
+29 criteria set forth in RSA 6:8; high-quality certificates of deposit; SEC Rule 2a7 compliant money
+30 marketfunds;andshort-datedU.S.Treasurybillsandnotes.
+31 (b) U.S. Government Obligations. Obligations issued or fully guaranteed by the United
+32 States, including full-faith-and-credit agencies such as GNMA (Ginnie Mae – Government National
+33 MortgageAssociation).
+34 (c) U.S. Agency Obligations. Obligations issued by U.S. Government Sponsored
+35 Enterprises including FHLB (Federal Home Loan Bank), FNMA Fannie Mae – Federal National
+36 Mortgage Association), and FHLMC (Freddie Mac – Federal Home Loan Mortgage Corporation),
+37 ratedNAIC1orNAIC2(orA/A3orbetter).
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page15-
+1 (d) Municipal Obligations. General obligation or essential service revenue bonds of U.S.
+2 states and political subdivisions rated NAIC 1 or NAIC 2 (or A/A3 or better), including pre-refunded
+3 obligationsbackedbyU.S.Treasuryoragencycollateral.
+4 (e) Corporate Bonds. Senior unsecured or secured corporate debt, nonconvertible and
+5 withoutpayment-in-kindfeatures,ratedNAIC1orNAIC2(orA/A3orbetter).
+6 (f) Mortgage-BackedSecurities.
+7 (1) Agency mortgage-backed securities issued or guaranteed by FNMA (Fannie Mae
+8 – Federal National Mortgage Association), FHLMC (Freddie Mac – Federal Home Loan Mortgage
+9 Corporation), or GNMA (Ginnie Mae – Government National Mortgage Association), including
+10 passthroughs and CMOs (Collateralized Mortgage Obligations), limited to senior tranches rated
+11 NAIC1.
+12 (2) Privatelabelmortgage-backedsecuritieslimitedtoseniortranchesratedNAIC1,
+13 withnosynthetic,reREMIC,orcomplexstructures.
+14 (g) Asset-Backed Securities (“ABS”). Prime auto, credit card, and equipment ABS
+15 backedbygranularcollateralandlimitedtoseniorNAIC1tranches.CLOs,CDOs, resecuritizations,
+16 andsyntheticstructuresareprohibited.
+17 (h) Bank Obligations. Bankers’ acceptances and certificates of deposit issued by U.S.
+18 institutions rated A/A3 or better, nonstructured, U.S. dollar denominated, and with a maturity not
+19 exceeding5years.
+20 (i) Repurchase Agreements. Triparty or centrally cleared repurchase agreements
+21 collateralized solely by U.S. Treasury or U.S. agency securities, with daily margining and customary
+22 haircuts. CounterpartiesmustberatedA/A3orbetter.
+23 (j) Real Estate for the Accommodation of Business. Real estate used for the political
+24 subdivision risk management program’s operational accommodation, subject to RSA 402:29d, V.
+25 Excessrentablespacemustmeetinvestment-gradetenancystandards. Exposuretorealestateshall
+26 notexceed5percentofadmittedassets.
+27 (k) Securities Lending. Permitted only if: collateral is cash or U.S. Treasury or agency
+28 securities; collateral is maintained at a minimum of 102 percent and marked to market daily;
+29 aggregate exposure does not exceed 10 percent of admitted assets; per counterparty exposure does
+30 not exceed 2 percent; and collateral securities may not be reused other than to acquire equivalent
+31 securities.
+32 (l) Mutual Funds. Shares of open-ended investment companies registered under the
+33 Investment Company Act of 1940, limited to SEC Rule 2a7 money market funds or funds investing
+34 onlyinU.S. TreasuryandU.S.agencysecurities.
+35 (m) SupranationalObligations. U.S.dollar-denominatedobligationsoftheInternational
+36 Bank for Reconstruction and Development, InterAmerican Development Bank, African Development
+37 Bank,orAsianDevelopmentBank,ratedNAIC1.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page16-
+1 (n) BasketProvision. Upto2percentofadmittedassetsmaybeinvestedininstruments
+2 nototherwiselisted,providedsuchinstrumentsareNAIC1andU.S.dollardenominated.
+3 II. Common or preferred stock; equity rights or warrants; convertible securities; private
+4 equity; hedge funds; commodities; cryptocurrencies or digital assets; below-investment-grade fixed
+5 income; structured credit, including CLOs and CDOs; synthetic securities; foreign-currency-
+6 denominatedassets;andallderivativeinstrumentsofanytypeareprohibited.
+7 III. At least 20 percent of admitted assets shall be held in cash and cash equivalents as
+8 definedinsubsectionI(a).
+9 IV. “Highly rated” means Securities Valuation Office of the NAIC designation 1 or 2, or
+10 NRSRO (Nationally Recognized Statistical Ratings Organization) rating of A/A3 or better. NAIC
+11 designationsgovernstatutorypurposes.
+12 V. Thepoliticalsubdivisionriskmanagementprogramshallmaintainprocedurestomonitor
+13 credit quality and shall implement documented remediation actions for any security that falls below
+14 NAIC2/A-.
+15 VI.(a) The political subdivision risk management program’s portfolio of fixed-income
+16 investments, excluding cash and cash equivalents, shall maintain a weighted average life not to
+17 exceed3years.
+18 (b) No individual fixed-income instrument shall have a final contractual maturity
+19 greaterthan12years.
+20 (c) For amortizing securities, weighted average life shall be calculated using reasonable,
+21 supportableexpectationsofprepaymentanddefault.
+22 (d) The political subdivision risk management program shall not acquire securities
+23 whosestatedmaturityexceeds12years,securitieswhoseweightedaveragelifecannotbereasonably
+24 estimated,orinstrumentsdesignedtoproduceextensionriskinconsistentwiththeselimits.
+25 (e) Securities held as admitted assets on the effective date of this subsection that exceed
+26 these limits may be retained but not added to or replaced with instruments of similar structure or
+27 maturity.
+28 420-R:12 ExaminationsandInvestigations.
+29 I. The commissioner shall make an examination of each political subdivision risk
+30 management program under the terms of RSA 400-A:37 as often as deemed necessary, but not less
+31 frequently than once in every 5 years. All examinations shall be conducted at the expense of the
+32 program.
+33 II. Each program shall submit its books and records relating to its operations to such
+34 examinations and in every way facilitate them. For the purpose of examinations, the commissioner
+35 mayissuesubpoenas,administeroathsto,andexaminetheofficersandagentsoftheprogram.
+36 III. The commissioner may investigate the acts of a political subdivision risk management
+37 programpursuanttoRSA400-A:16.
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page17-
+1 420-R:13 EnforcementAuthority.
+2 I. Thecommissionermaysuspendorrevoketheapproval,issueanorderrequiringaspecific
+3 action,orassessanadministrativefineforanyprogramforanyofthefollowingcauses:
+4 (a) Theapprovalofthearrangementwasobtainedbyfraud;
+5 (b) There were one or more material misrepresentations in the materials submitted to
+6 gaintheapproval;
+7 (c) The program has shown itself untrustworthy or incompetent relative to the
+8 managementoroperationofthearrangement;
+9 (d) The program has failed to meet the financial requirements of this chapter or has
+10 violatedanylawfulorderorrules;
+11 (e) Theprogram hasrefusedtobeexaminedor toproduceits accounts,records,and files
+12 for examination or has refused to give information with respect to its affairs or to perform any other
+13 legalobligationastosuchexaminationwhensorequiredbythecommissioner;
+14 (f) The program has failed to pay any final judgment rendered against it in this state
+15 within60daysafterthejudgmentbecamefinal;
+16 (g) Theprogramnolongermeetstherequirementsfortheauthorityoriginallygranted;
+17 (h) The program has violated any lawful order or rule of the commissioner, provision of
+18 thischapter,orotherapplicablelaw;
+19 (i) Theprogramisnotfulfillingitscontractsingoodfaith;
+20 (j) The program is conducting business fraudulently or in a manner hazardous to its
+21 coveredpersons,members,creditors,thepublic,orthebusiness;or
+22 (k) Theprogramisactingoutsideitsauthority.
+23 II. Prior to suspending or revoking the program’s approval, the commissioner shall provide
+24 written notification to the program specifying the basis of the noncompliance and requiring that the
+25 deficiencyordeficiencieswhichexistbecorrected.
+26 III. After such notice, the program shall have a 30-day period in which to comply with the
+27 commissioner's request for correction or the submission of a corrective action plan. If the program
+28 failstocomply,thecommissionershallissueanoticeofhearingpursuanttoRSA400-A:18.
+29 420-R:14 Appeals. All orders and decisions of the commissioner concerning matters within the
+30 commissioner’s jurisdiction under this chapter shall be subject to hearing and appeal as provided in
+31 RSA 400-A:15 through 24 and RSA 541. RSA 541:18 shall apply to orders and decisions of the
+32 commissioneraffectingtheratesoftheprogram.
+33 420-R:15 Rulemaking Authority. The commissioner may adopt rules in accordance with RSA
+34 541-A,whicharereasonableandnecessarytoadministerandenforcetheprovisionsofthischapter.
+35 420-R:16 ConfidentialityandTransparency.
+36 I. Notwithstanding any provision of the law to the contrary, any information of any political
+37 subdivision risk management program formed or affirmed under this chapter pertaining to claims
+
+HB1491-VERSIONADOPTEDBYBOTHBODIES
+-Page18-
+1 analysis or claims management shall be privileged and confidential and not subject to disclosure to
+2 anythirdparty.
+3 II. Except as provided in paragraph I, political subdivision risk management programs
+4 formedoraffirmedunderthischapteraresubjecttotherequirementsofRSA91-A.
+5 III. Political subdivision risk management programs' annual financial statements shall be
+6 madepublic.
+7 420-R:17 Severability. If any provision of this chapter, or the application thereof to any person
+8 or circumstance, is held invalid, such determination shall not affect the provisions or applications of
+9 this chapter, which can be given effect without the invalid provision or application, and to that end,
+10 theprovisionsofthischapterareseverable.
+11 2 Repeal. RSA 420-R:5, III, relative to the formation of political subdivision risk management
+12 programs,isrepealed.
+13 3 EffectiveDate.
+14 I. Section2ofthisactshalltakeeffectJuly1,2029.
+15 II. TheremainderofthisactshalltakeeffectJuly1,2026.

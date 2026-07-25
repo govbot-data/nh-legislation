@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1466-FN-ASINTRODUCED
+2026SESSION
+26-3073
+06/07
+1466-FN
+HOUSEBILL
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+SPONSORS: Rep. T. Walsh, Merr. 10; Rep. Hill, Merr. 2; Rep. Veilleux, Hills. 34; Rep. Coker,
+Belk.2
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilladdsanexemptionfromcertificateoftitlerequirementsfortrailersover3,001poundsif
+theirmanufacturer’smodelyearismorethan10yearsold.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1466-FN-ASINTRODUCED
+26-3073
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ExemptedVehicles. AmendRSA261:3,I(j)toreadasfollows:
+2 (j) Trailers with gross weight of less than 3,001 pounds, and any trailer over 3,001
+3 poundswhosemanufacturer’smodelyearisover10yearsold;
+4 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3073
+11/30/25
+HB1466-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoobtainingacertificateoftitleforcertaintrailers.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $1,225,000DecreasePerYear
+RevenueFund(s) HighwayFund
+Expenditures* $0 $0 $174,000DecreasePerYear
+HighwayFundandRestricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource(s)
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriortofunds
+beingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $147,000DecreasePerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill would exempt any trailer over 3,001 lbs., whose manufacturer’s model year is over 10
+years old, from motor vehicle title requirements. The Department of Safety states in 2024 there
+were approximately 35,000 titles issued for trailers to which this bill would have applied to.
+GiventhetitlefeethatwillbeinplaceeffectiveJanuary1,2026,of$35,thiswouldbeapotential
+annual revenue loss of approximately $1,225,000. Also, pursuant to RSA 235:23
+(“Apportionment A”), 12 percent of highway fund road toll and motor vehicle fee revenue
+collected is distributed to municipalities in the year following collection. Therefore, this bill
+would also reduce state expenditures and local revenue by approximately $147,000 in FY 2028
+and beyond. Lastly, the Department states that any state expenditures attributable to this bill,
+mostly related to the cost for direct mailing titles, would decrease annually by approximately
+$27,000peryear.
+
+Typically, bills impacting motor vehicle registration, title, or driver license laws are effective on
+January 1, however, this bill would be effective 60 days after passage. The amounts illustrated
+above represent full year estimates, however, given the effective date, year 1 of the noted
+impactswouldlikelybereducedduetotimingofimplementation.
+AGENCIESCONTACTED:
+DepartmentofSafety

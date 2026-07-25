@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1557-FN-ASINTRODUCED
+2026SESSION
+26-2845
+12/05
+1557-FN
+HOUSEBILL
+ANACT modifying the state average expenditure per pupil relative to students in special
+education.
+SPONSORS: Rep. Wallner, Merr. 19; Rep. Luneau, Merr. 9; Rep. Ames, Ches. 13; Rep. Damon,
+Sull. 8; Rep. Cornell, Hills. 22; Rep. K. Murray, Rock. 22; Rep. Simpson, Rock. 33;
+Rep.Rollins,Sull.3;Sen.Rosenwald,Dist13
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the required state aid to be provided to school districts for the costs of special
+education. The bill also removes the proration of such appropriations relative to the costs of special
+educationforeachfiscalyear.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1557-FN-ASINTRODUCED
+26-2845
+12/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifying the state average expenditure per pupil relative to students in special
+education.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Special Education; StateAid Reduced; Prorationof AppropriationRemoved. Amend RSA186-
+2 C:18,IIItoreadasfollows:
+3 (a) The department of education shall distribute aid available under this paragraph as
+4 entitlement to such school districts as have a special education pupil for whose costs they are
+5 responsible, for whom the costs of special education in the fiscal year exceed [3 and 1/2] 1 and 1/2
+6 times the most current state average expenditure per pupil for the school year preceding the year of
+7 distribution. If in any year, the amount appropriated for distribution as special education aid in
+8 accordance with this section is insufficient therefor, the appropriation shall be prorated
+9 proportionally based on entitlement among the districts entitled to a grant, provided that the
+10 department of education shall distribute to the school district not less than 80 percent of the
+11 district's entitlement in the fiscal year. The state may designate up to $250,000 of the funds which
+12 are appropriated as required by this paragraph, for each fiscal year, to assist those school districts
+13 which, under guidelines established by rules of the state board of education, may qualify for
+14 emergency assistance to mitigate the impact of special education costs. The state may designate up
+15 to an additional $250,000 of the funds which are appropriated under this paragraph for each fiscal
+16 year for any community of 1,000 or fewer residents to mitigate the impact of special education costs
+17 when emergency assistance is necessary to prevent significant financial harm to such district or
+18 community. Upon application to the commissioner of education, and approval by the commissioner,
+19 such funds may be accepted and expended by school districts in accordance with this chapter;
+20 provided, however, that if a school district has received emergency assistance funds for certain
+21 children with disabilities, it shall not receive special education aid for those same children with
+22 disabilities. If any of the funds designated for emergency assistance under this paragraph are not
+23 used for such emergency assistance purposes, the funds shall be used to assist school districts in
+24 meeting special education cost increases in their special education programs as provided by this
+25 paragraph.
+26 (b) The school district shall be liable for [3 and 1/2] 1 and 1/2 times the estimated state
+27 average expenditure per pupil for the school year preceding the year of distribution, plus 20 percent
+28 oftheadditionalcost,upto10timestheestimatedstateaverageexpenditureperpupilfortheschool
+29 yearprecedingtheyearofdistribution.
+
+HB1557-FN-ASINTRODUCED
+-Page2-
+1 (c) Thedepartmentofeducationshallbeliablefor80percentofthecostabovethe[31/2]
+2 1 and 1/2 times the estimated state average expenditure per pupil for the school year preceding the
+3 year of distribution, up to 10 times the estimated state average expenditure per pupil for the school
+4 year preceding the year of distribution. The department of education shall be liable for all costs in
+5 excess of 10 times the estimated state average expenditure per pupil for the school year preceding
+6 theyearofdistribution.
+7 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2845
+12/4/25
+HB1557-FN-FISCALNOTE
+ASINTRODUCED
+ANACT modifying the state average expenditure per pupil relative to students in special
+education.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFundandEducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 IndeterminableIncrease
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+This bill, effective in FY 2027, makes the following changes to the formula for the calculation of
+Special EducationAid paid todistricts. The bill changes the3.5xestimated cost per pupil as the
+cap districts must reach before reimbursement is begun to 1.5x. The legislation also removes
+language regarding $250,000 to assist school districts which may qualify for emergency
+assistance to mitigate the impact of special education costs and $250,000 for any community of
+1,000 or fewer residents to mitigate the impact of special education costs when emergency
+assistanceisnecessarytopreventsignificantfinancialharmtosuchdistrictorcommunity.
+The Department of Education assumes this would have a substantial impact on the state
+funding provided through special education aid as well as local district funding for special
+education. The Department assumes that all 32,000+ students identified as in need of special
+education would qualify for special education aid. The Department states this would increase
+funding to districts however it would also increase staffing requirements for districts and the
+
+state. On the District side they would need additional staff to submit all associated paperwork
+through the NH Special Education Information System (NHSEIS). This includes breaking out
+costs for each individual student then submitting for said costs either through invoices obtained
+forservicesorcreatedbasedondistrictscostswithintheirbudget. Onthestatesidetherewould
+be a need for additional staffing to process, review and verify all invoices as compared to each
+students IEP and in some cases two IEPs as the IEP is typically renewed within the school year.
+Currently the state has six (6) positions that work on special education aid for just under 900
+students. This work is done between July 1 and December 1. In order to process all paperwork,
+based on the number of staff currently used for 900 students, there would need to be 213 staff
+memberstoprocessthisdocumentationintheJuly1toDecember1timeframe. TheDepartment
+has not provided any details as to positions needed or the potential cost. This bill provides
+neitherauthorizationnorappropriationfornewpersonnel.
+AGENCIESCONTACTED:
+DepartmentofEducation

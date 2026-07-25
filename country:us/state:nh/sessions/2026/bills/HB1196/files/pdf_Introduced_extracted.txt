@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1196-FN-ASINTRODUCED
+2026SESSION
+26-2306
+09/06
+1196-FN
+HOUSEBILL
+ANACT repealingthestatehousingchampiondesignationandgrantprogram.
+SPONSORS: Rep. Drew, Hills. 19; Rep. Noble, Hills. 2; Rep. Tom Mannion, Hills. 1; Rep.
+Belcher,Carr.4;Rep.Turcotte,Straf.4;Rep.DeVito,Rock.8
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrepealsthehousingchampiondesignationandgrantprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1196-FN-ASINTRODUCED
+26-2306
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthestatehousingchampiondesignationandgrantprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. Thefollowingarerepealed:
+2 I. RSA 6:12, I(b)(393), relative to the housing champion designation and grant program
+3 fund.
+4 II. RSA12-O:55,VIII,relativetoreportingrelativetograntorloanfunding.
+5 III. RSA 12-O:71 through 12-O:76, and the subdivision heading preceding 12-O:71, relative
+6 tothehousingchampiondesignationandgrantprogram.
+7 IV. RSA674:1,VII,relativetoreportingrelativetograntorloanfunding.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2306
+11/17/25
+HB1196-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingthestatehousingchampiondesignationandgrantprogram.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable $0 $0
+FundingSource(s) GeneralFundandHousingChampionProgramFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill repeals RSA 12-O:71 through 12-O:76, eliminating the New Hampshire Housing
+Champion Designation and Grant Program, the Partners in Housing Program, the Housing
+ChampionProgramFund,andtheHousingChampionAdvisoryCommittee.
+ThefiscalimpactofthisbillisinterminableasthisbillrepealstheHousingChampionFund,but
+it is unclear whether the intent is to repeal the fund yet allow obligated funds to be paid,
+approximately $2,600,000, or to repeal the fund entirely and have all remaining funds lapse to
+the General Fund, approximately $3,000,000. Clarity on this point is needed to determine
+whether existing contractual and payment obligations would continue or terminate upon the
+fund’srepeal. Additionally,thisbilliseffective60daysafterpassage,whichmeanssomeportion
+ofexpenditureswouldbepaidfromthefundasitisassumed60daysafterpassagewouldbeinto
+thestartofFY2027.
+The Department of Business and Economic Affairs states as of October 2025, all program funds
+are obligated to contracted projects, with more than half already disbursed. The remaining
+obligated funds of $2,640,311are scheduled for payment before theend of FY 2027, with the last
+contract expiring June 30, 2027. Additionally, approximately $316,601 in expenditures for three
+positions funded through this program would be unfunded with an estimated $316,601 lapse to
+theGeneralFund.
+
+If the New Hampshire Housing Champions Program is repealed, BEA’s statutory authority to
+provide grants, recognition, or other incentives to municipalities adopting housing-friendly
+policies would end. The Department assumes the previously awarded funds and recognitions
+wouldremainvalidunlessthebillspecifiesotherwise.
+It is expected that the Department will continue to incur some administrative costs associated
+with closing out existing contracts and managing final payments before repeal, but the total cost
+isindeterminable.
+AGENCIESCONTACTED:
+Departmentof BusinessandEconomicAffairs

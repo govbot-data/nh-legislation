@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1673-FN-ASINTRODUCED
+2026SESSION
+26-2737
+08/06
+1673-FN
+HOUSEBILL
+ANACT allowingcertainliquormanufacturerstoselltoon-premiseslicensees.
+SPONSORS: Rep.Beaulier,Graf.1
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablessmallliquormanufacturerstoselldirectlytoon-premiseslicensees.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1673-FN-ASINTRODUCED
+26-2737
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowingcertainliquormanufacturerstoselltoon-premiseslicensees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 LiquorManufacturers. AmendRSA178:6,IIIandIII-atoreadasfollows:
+2 III. Each liquor manufacturer shall have the right to sell at retail at its licensed
+3 manufacturing facility and to on-premises licensees no more than the equivalent of 3,000 9-liter
+4 cases for off-premises consumption any of its liquor. Each retail sale shall be limited to one 9-liter
+5 case or less per sale. No liquor manufacturer shall sell more than 12 9-liter cases of liquor to any
+6 onecustomerinanycalendaryear.
+7 III-a. Each liquor manufacturer licensed to distill less than 1,000 cases of liquor per year
+8 may sell at retail at its facility for off-premises consumption and to on-premises licensees any of
+9 its liquor. Each retail sale shall be limited to one 9-liter case or less per sale. No liquor
+10 manufacturerlicensedtodistilllessthan1,000casesofliquorperyearshallsellmorethan129-liter
+11 casesofliquortoanyonecustomerinanycalendaryear.
+12 2 PurchaseofSupplies. AmendRSA179:32,IItoreadasfollows:
+13 II. An on-premises licensee, with the approval of the commission, may purchase its supplies
+14 of liquor and wine from an agency store or directly from a small liquor manufacturer under
+15 RSA178:6.
+16 3 Repeal. RSA 178:6,V, relative to prohibiting small liquor manufacturers from selling directly
+17 toon-premiseslicensees,isrepealed.
+18 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2737
+12/9/25
+HB1673-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowingcertainliquormanufacturerstoselltoon-premiseslicensees.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 ($2,646,000) ($2,646,000) ($2,646,000)
+LiquorFund/GeneralFund-Liquorrevenueiscreditedtotheliquorfund,
+RevenueFund(s) withnetrevenuesafterexpendituresbeingcreditedtothestategeneral
+fund.
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill amends RSA 178:6 and RSA 179:32 to allow certain small liquor manufacturers to sell
+directly to on-premises licensees. Under current law, the State Liquor Commission is the
+exclusive wholesaler of spirits in New Hampshire. Allowing manufacturers to bypass the
+Commission for wholesale sales to on-premises licensees results in the loss of spirits markup
+revenuethatwouldotherwiseberetainedbytheState.
+The Liquor Commission states this bill results in a direct loss of revenue with no replacement
+mechanism, as the bill does not impose alternative fees, taxes, or compensation to offset
+displaced wholesale sales. In recent years, the Commission has supported small manufacturers
+through marketing, promotion, and wholesale distribution services at no cost to the licensee. It
+isunclearwhethertheseserviceswouldcontinueifmanufacturersmayself-wholesale.
+Using recent sales data, the Liquor Commission estimates that the total number of bottles
+affected by this change would be approximately 252,000 per year. The Commission estimated
+the lost profit per bottle to the State to be $10.50, which is based on average cost and mark-up.
+Multiplying 252,000 bottles by $10.50 results in an annual State revenue loss of approximately
+$2,646,000.
+
+AGENCIESCONTACTED:
+LiquorCommission

@@ -1,0 +1,533 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate (2nd)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+04/23/2026 1339s
+05/14/2026 1849s
+05/14/2026 1982s
+05/14/2026 1981s
+2026SESSION
+26-2985
+09/08
+1323-FN
+HOUSEBILL
+ANACT relative to parental alienation, limiting certain prior authorization requirements
+for physical therapy, occupational therapy, and similar rehabilitative services,
+relative to children's mental health services for persons 18 years of age and
+younger.
+SPONSORS: Rep. Rice, Hills. 38; Rep. Kofalt, Hills. 32; Rep. Markell, Rock. 18; Rep. Packard,
+Rock. 16; Rep. DeSimone, Rock. 18; Rep. Osborne, Rock. 2; Rep. Nelson, Rock. 13;
+Rep. Bryer, Rock. 1; Sen. Avard, Dist 12; Sen. Sullivan, Dist 18; Sen. Abbas, Dist
+22;Sen.Lang,Dist2
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Defines parental alienation to mean a pattern of behavior, conduct, or speech which would
+damage the relationship of the child and a parent, resulting in the child's fear, negative perception,
+rejection, or hostility toward their other parent, and adds standards for considering claims of
+parentalalienationincertaincasesinvolvingchildrenandparentalrights.
+II. Prohibits health carriers from requiring prior authorization for the first physical or
+occupational therapy visit in any new episode of care, and mandates approval of at least 8 medically
+necessary treatments after the initial evaluation before further review. This bill also preserves
+insurers'abilitytodenyclaimsdeemednotmedicallynecessary.
+III. Establishes the New Hampshire children's behavioral health association for the purpose of
+collecting assessments to fund payments to care management entities for the provision of childhood
+behavioral health services. The association is authorized to collect assessments from insurance
+carriers, stop loss carriers, and third-party administrators for fully insured and self-funded health
+plans. Theassessmentbasewouldincludecoveredlivesinthestateemployeehealthplan,aswellas
+pooled risk management programs under RSA 5-b. The funds provided for this purpose would be
+depositedinadedicatedfundadministeredbytheinsurancecommissioner.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+04/23/2026 1339s
+05/14/2026 1849s
+5/14/2026 1982s
+5/14/2026 1981s
+26-2985
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to parental alienation, limiting certain prior authorization requirements
+for physical therapy, occupational therapy, and similar rehabilitative services,
+relative to children's mental health services for persons 18 years of age and
+younger.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Parental Rights and Responsibilities; DefinitionAdded. Amend RSA 461-A:1
+2 byinsertingafterparagraphIVthefollowingnewparagraph:
+3 IV-a. “Parental alienation” means a pattern of behavior, conduct, or speech that would
+4 damage the relationship of the child and a parent, resulting in the child’s fear, negative perception,
+5 rejection, or hostility toward their other parent. This includes, but is not limited to, communicating
+6 disparaging remarks to a child about their other parent, manipulating or coercing a child, and
+7 unjustified interference with parenting time. "Parental alienation" shall not include protective
+8 actions taken in good faith based on reasonable belief of abuse or neglect under RSA 169-C, a
+9 petition for a restraining order filed in good faith pursuant to RSA 458:16 or RSA 461-A:10, or a
+10 petitionfiledingoodfaithforacivilprotectionorderpursuanttoRSA633:3-aorRSA173-B.
+11 2 Parental Rights and Responsibilities; Judicial Enforcement of Parenting Plan; Family Access
+12 Motion. AmendRSA461-A:4-a,Itoreadasfollows:
+13 I. In the event of parental alienation or substantial and material noncompliance with a
+14 court approved parenting plan under this chapter, relative to denying or interfering with parenting
+15 timewithoutgoodcause,theaggrievedparentmayfileafamilyaccessmotionforenforcementofthe
+16 parenting plan. The motion shall state the specific facts which constitute a violation of parenting
+17 timefromtheparentingplan.
+18 3 Parental Rights and Responsibilities; Judicial Enforcement of Parenting Plan; Family Access
+19 Motion. AmendtheintroductoryparagraphofRSA461-A:4-a,IVtoreadasfollows:
+20 IV. Upon a written finding by the court pursuant to a motion for a family access order, a
+21 motion alleging parental alienation, or a motion for contempt that its order for parenting time
+22 has been substantially and materially violated, without good cause, the court shall order a remedy,
+23 whichmayinclude,butnotbelimitedto:
+24 4 Parental Rights and Responsibilities; Decision-making Responsibility. Amend RSA 461-A:5,
+25 IIItoreadasfollows:
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 III. Where the court finds that abuse as defined in RSA 173-B:1, I, or parental alienation
+2 as defined in RSA 461-A:1, IV-a, has occurred, the court shall consider such abuse or parental
+3 alienation as harmful to children and as evidence in determining whether joint decision-making
+4 responsibility is appropriate. In such cases, the court shall make orders for the allocation of
+5 parental rights and responsibilities that best protect the children or the abused spouse or both. If
+6 joint decision-making responsibility is granted despite evidence of abuse or parental alienation,
+7 thecourtshallprovidewrittenfindingstosupporttheorder.
+8 5 Parental Rights and Responsibilities; Determination of Parental Rights and Responsibilities.
+9 AmendRSA461-A:6,I(j)-(m)toreadasfollows:
+10 (j) Any evidence of parental alienation, as defined in RSA 461-A:1, and the
+11 impact of parental alienation on the child and on the relationship between the child and
+12 theparents.
+13 (k) Any evidence of abuse, as defined in RSA 173-B:1, I or RSA 169-C:3, II, and the
+14 impactoftheabuseonthechildandontherelationshipbetweenthechildandtheabusingparent.
+15 [(k)] (l) If a parent is incarcerated, the reason for and the length of the incarceration,
+16 andanyuniqueissuesthatariseasaresultofincarceration.
+17 [(l)] (m) The policy of the state regarding the determination of parental rights and
+18 responsibilitiesdescribedinRSA461-A:2.
+19 [(m)](n) Anyotheradditionalfactorsthecourtdeemsrelevant.
+20 6 Parental Rights and Responsibilities; Modification. Amend RSA 461-A:11, I(b) to read as
+21 follows:
+22 (b) If the court finds by a preponderance of the evidence that parental alienation
+23 has occurred or repeated, intentional, and unwarranted interference by a parent with the
+24 residential responsibilities of the other parent, the court may order a change in the parental rights
+25 and responsibilities [without the necessity of] upon a showing of harm to the child, if the court
+26 determinesthatsuchchangewouldbeinaccordancewiththebestinterestsofthechild.
+27 7 Parental Rights and Responsibilities; Grandparents' Visitation Rights. Amend RSA 461-A:13,
+28 II(b)toreadasfollows:
+29 (b) Whether allegations of parental alienation exist or if such visitation would
+30 interferewithanyparent-childrelationshiporwithaparent'sauthorityoverthechild.
+31 8 Parental Rights and Responsibilities; Attorneys' Fees in Contempt and Parental Alienation
+32 Cases. AmendRSA461-A:15toreadasfollows:
+33 461-A:15 Attorneys' Fees in Contempt and Parental Alienation Cases. In any proceeding
+34 under this chapter in which a party alleges, and the court finds, that the other party has failed
+35 without just cause to obey a prior order, including cases of parental alienation, the court shall
+36 awardreasonablecostsandattorneys'feestotheprevailingparty.
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 9 Guardianship of Minors and Estates of Minors; Statement of Purpose. Amend RSA 463:1 to
+2 readasfollows:
+3 463:1 StatementofPurpose.
+4 I. It is the purpose of this chapter to secure for a minor an environment of stability and
+5 security by providing for the appointment of a guardian of the person when such appointment is in
+6 thebest interestsof theminor;and toprovidefor theappointment of aguardianof theestatefor the
+7 propermanagementofthepropertyandfinancialaffairsoftheminor.
+8 II. This chapter is designed to provide procedural and substantive safeguards for the rights
+9 of parents and their minor children. Implicit in this chapter shall be the recognition that the
+10 interestsofaminoraregenerallybestpromotedintheminor'sownhomeunlessthebestinterestsof
+11 theminorrequiresubstitutionorsupplementationofparentalcareandsupervision.
+12 III. For purposes of determining the best interest of the child under this chapter,
+13 thecourtshallconsiderthefactorssetforthinRSA461-A:6.
+14 10 New Section; Managed Care Law; Prior Authorization for Physical Therapy and
+15 Occupational Therapy; When Required. Amend RSA 420-J by inserting after section 6-e the
+16 followingnewsection:
+17 420-J:6-f PriorAuthorizationforPhysicalTherapyandOccupationalTherapy;WhenRequired.
+18 I. A health carrier shall not require prior authorization for physical therapy and
+19 occupational therapy, as defined in RSA 328-A:2, XI and RSA 326-C:1, IV, respectively, for the first
+20 visit of each new episode of care. Health carriers may require prior authorization following the
+21 covered person’s first visit. Each health carrier shall provide prior authorization for physical
+22 therapy and occupational therapy, if medically necessary based on the evaluation of the patient at
+23 the initial visit, for not less than 8 treatments before requiring additional review for medical
+24 necessity, unless otherwise specified in the plan sponsor’s contract with the health carrier. For
+25 purposes of this section, "new episode of care" means treatment for a new condition or treatment for
+26 arecurringconditionforwhichanenrolleehasnotbeentreatedwithintheprevious60days.
+27 II. This section shall not limit the right of a health carrier to deny a claim when an
+28 appropriate prospective or retrospective review concludes that the health care services or treatment
+29 renderedwerenotmedicallynecessary.
+30 11 New Subdivision; System of Care for Children's Mental Health; New Hampshire
+31 Children's Behavioral Health Association. Amend RSA 135-F by inserting after section 9 the
+32 followingnewsubdivision:
+33 NewHampshireChildren'sMentalHealthAssociation
+34 135-F:10 Definitions. Inthischapter:
+35 I. "Assessablecoverage"means:
+36 (a) HealthcoverageasdefinedinRSA420-G:2,IX;
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 (b) Stop loss coverage that conforms with RSA 415-H:3, or other group excess loss
+2 insurance purchased against the risk that any particular claim, or total liability, will exceed a
+3 specifieddollaramount;or
+4 (c) Grouphealthplan,asdefinedby42U.S.C.section300gg-91(a).
+5 II. "Assessableentity"meansany:
+6 (a) Healthmaintenanceorganization,asdefinedbyRSA420-B:1,VI.
+7 (b) Thirdpartyadministrator,asdefinedbyRSA402-H:1,I.
+8 (c) Entity providing administrator services and required to register with the insurance
+9 commissionerunderRSA402-H:11-aorRSA402-H:11-b.
+10 (d) InsurancecompanylicensedpursuanttoRSA401:1,IV.
+11 (e) Healthservicecorporation,asdefinedbyRSA420-A:1,III.
+12 III. "Assessable lives" means all children under 19 years of age residing in the state who
+13 have assessable coverage written or administered by an assessable entity, with the exception of
+14 childrenwhosechildhoodbehavioralhealthservicesarepaidforunderMedicaid.
+15 IV. "Assessment" means the assessable entity's liability with respect to the childhood
+16 behavioral health services determined in accordance with this chapter. For purposes of rate setting
+17 and medical loss ratio calculations, all association assessments are considered pharmaceutical or
+18 medical benefit costs and not regulatory costs. In the event of any insolvency or similar proceeding
+19 affectingany payer, assessments shall be included in the highest priority of obligations tobe paid by
+20 oronbehalfofsuchpayer.
+21 V. "Association"meanstheNewHampshirechildren'sbehavioralhealthassociation.
+22 VI. "Board" means theboard of directors of theNew Hampshirechildren's behavioral health
+23 association.
+24 VII. "Care management entity" means an organizational entity that serves as a centralized
+25 entitytocoordinateall carefor youthwith complexbehavioral healthchallenges who areinvolved in
+26 multiplesystemsandtheirfamilies,asdefinedinRSA135-F:4.
+27 VIII. "Childhoodbehavioralhealthservices"meananyofthefollowingservices:
+28 (a) Behavioral health intensive in-home services, which are therapeutic interventions
+29 delivered to children and families in their homes and other community settings to improve child and
+30 family functioning and prevent out-of-home placement. The components of intensive in-home
+31 services include, but are not limited to individual and family therapy, skills training and behavioral
+32 interventions,functionalsupports,andfamilysupportandtraining.
+33 (b) Behavioral health intensive structured outpatient programs, which include short-
+34 term, clinically intensive, structured day or evening service for a child with a behavioral health
+35 disorder, and provides multidisciplinary treatment to address the subacute needs of children and
+36 youth,whileallowingthemtocontinuetoworkorattendschoolandbepartoffamilylife.
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 (c) Intensive care coordination, including but not limited to evidence based approaches
+2 like a high-fidelity wraparound for children and youth with significant behavioral health conditions,
+3 which includes assessment and service planning, accessing and arranging for services, coordinating
+4 multiple services, including access to crisis services. Assisting the child and family to meet basic
+5 needs, advocating for the child and family, and monitoring progress are also included. The
+6 wraparound "facilitator" is the intensive care coordinator who organizes, convenes, and coordinates
+7 thisprocess.
+8 (d) Parentandyouthpeersupportservicesprovidedbytrainedpeersupportspecialists.
+9 IX. "Commissioner" means the commissioner of the department of health and human
+10 services.
+11 X. "Estimated cost" means the estimated cost to the state over the course of a state fiscal
+12 year to reimburse the care management entities for provision of the childhood behavioral health
+13 servicestheyprovidetoassessablelives.
+14 XI. "Provider" means a person licensed or certified by this state, or otherwise qualified to
+15 providehealthcareservicestopersonsorapartnershiporcorporationmadeupofthosepersons.
+16 XII. "Total non-federal program cost" means the estimated childhood behavioral health
+17 services cost less the amount of federal revenue available to the state for the administration and
+18 provisionofchildhoodbehavioralhealthservices.
+19 135-F:11 New Hampshire Children's Behavioral Health Association Established. There is
+20 hereby created a nonprofit corporation to be known as the New Hampshire children's behavioral
+21 health association. The association is formed to assess assessable entities for the cost of childhood
+22 behavioralhealthservicesprovidedtocertainchildreninNewHampshire.
+23 135-F:12 Membership, Powers, and Duties of the New Hampshire Children's Behavioral Health
+24 Association.
+25 I. The New Hampshire children's behavioral health association shall be comprised of all
+26 assessableentities.
+27 II. The New Hampshire children's behavioral health association shall be a not-for-profit,
+28 voluntary corporation under RSA 292 and shall possess all general powers of a not-for-profit
+29 corporation.
+30 III. Theboardofdirectorsshallinclude:
+31 (a) Three representatives selected from the assessable entities currently writing,
+32 maintaining, or administering assessable coverage through a voting process where votes are based
+33 onassessablelives. Theplanofoperationshallprovidedetailsforthisselectionprocess.
+34 (b) Twohealthcareproviderrepresentativesappointedbythecommissioner.
+35 (c) The commissioner of the department of health and human services, who shall serve
+36 asanexofficiomember.
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page6-
+1 (d) The commissioner of the department of insurance who shall serve as an ex-officio
+2 member.
+3 (e) One member appointed by the governor and council who shall represent self-insured
+4 entities.
+5 (f) Onepublicmemberappointedbythespeakerofthehouseofrepresentatives.
+6 (g) Onepublicmemberappointedbythepresidentofthesenate.
+7 IV. Thedirectors'termsandappointmentsshallbespecifiedintheplanofoperationadopted
+8 bytheNewHampshirechildren'sbehavioralhealthassociation.
+9 V. Theboardofdirectorsoftheassociationshall:
+10 (a) Prepareandadoptarticlesofassociationandbylaws.
+11 (b) Prepareandadoptaplanofoperation.
+12 (c) Submit the plan of operation to the commissioner of insurance for approval after the
+13 consultationwiththecommissioner.
+14 (d) Conductallactivitiesinaccordancewiththeapprovedplanofoperation.
+15 (e) On an annual basis, no later than November 1 of each year, establish the amount of
+16 theassessmentforthesucceedingyear.
+17 (f) Enterintocontractsasnecessaryorpropertocollectanddisbursetheassessment.
+18 (g) Enterintocontractsasnecessaryorpropertoadministertheplanofoperation.
+19 (h) Sueorbesued,includingtakinganylegalactionnecessaryorproperfortherecovery
+20 of any assessment for, on behalf of, or against members of the association or other participating
+21 person.
+22 (i) Appoint from among its directors, committees as necessary to provide technical
+23 assistance in the operation of the association, including the hiring of independent consultants as
+24 necessary.
+25 (j) Determine an assessment amount and collect payments from assessed entities in
+26 accordancewithRSA135-F:13.
+27 (k) Submit an annual report to the commissioner of insurance, in a manner and form
+28 determined by the commissioner, listing the association membership base, providing a count of
+29 assessable lives by assessable entity, identifying changes in assessable lives by assessable entity,
+30 describing the collection of assessments, listing payment delinquencies, and containing such other
+31 relatedinformationasthecommissionermayrequire.
+32 (l) Allow each assessable entity up to 45 days after the closing of each calendar quarter
+33 to report its assessable lives and remit its corresponding assessment amount as calculated pursuant
+34 toRSA135-F:13.
+35 (m) Collect assessments from assessable entities as calculated under RSA 135-F:13 and
+36 deposit said assessments less the association's administrative costs annually and reserves with the
+37 statetreasurer tothe credit of the childhood behavioral health services fund established pursuant to
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page7-
+1 RSA 135-F:19. At the written request of the association following a majority vote of the board of
+2 directors, any funds forwarded to the state treasurer for the childhood behavioral health services
+3 fund remaining unexpended for childhood behavioral health services, shall promptly be returned to
+4 theassociation.
+5 (n) Beauthorized toenterintooneormoreagreements withotherapplicableauthorities
+6 in surrounding states to reduce the risk of duplicate assessments and to assure provision of
+7 childhood behavioral health services for children who are residents of this state but who receive
+8 childhood behavioral health services in other states. Any costs relating to any such agreement shall
+9 be considered additional childhood behavioral health services costs of the program for purposes of
+10 determiningtheassociation'sassessments.
+11 (o) Adopt procedures by which affiliated assessable entities calculate their assessment
+12 on an aggregate basis and procedures to ensure that no assessable life is counted more than once.
+13 Unless otherwise determined by the board, the assessable entity responsible for the payment of the
+14 provider's administrative costs for childhood behavioral health services shall be the entity
+15 responsibleforreportingassessablelivesandpaymentofthecorrespondingassessment.
+16 (p) Submit an annual report regarding the association's activities and its financial
+17 reports adopted by the department of health and human services to the president of the senate, the
+18 speakerofthehouseofrepresentatives,andthegovernor.
+19 (q) Perform any other functions as may be necessary or proper to carry out the plan of
+20 operation.
+21 135-F:13 AssessmentDetermination.
+22 I. The board shall determine an assessment for each assessable entity in accordance with
+23 this section. An assessment determination made pursuant to this section is a medical benefit cost
+24 andnotaregulatorycostforpurposesofcalculatingthecarrier'smedicallossratio.
+25 II. Indeterminingtheassessmentamount,theboardshall:
+26 (a) Estimatethetotalnon-federalprogramcostforthesucceedingyear;
+27 (b) Add its anticipated operating costs for the succeeding year and such additional
+28 workingcapitalreservesasmaybeestablishedbytheboardfromtimetotime;
+29 (c) Add a reserve of up to 10 percent of the anticipated cost under subparagraph (a) for
+30 unanticipated costs associated with providing childhood behavioral health services to children
+31 covered;and
+32 (d) Subtract the amount of any unexpended assessments collected in the preceding year
+33 alongwithanyunexpendedinterestaccruedtothefundduringtheprecedingyear.
+34 III. The board shall include in its plan of operations, details regarding the timing for
+35 assessment collections, and the form and format assessable entities shall use to calculate
+36 assessments.
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page8-
+1 IV. The board shall include in its plan of operation details regarding payment due dates,
+2 graceperiods,latepaymentfees,interest,andotherdetailsregardingthecollectionofassessments.
+3 V. The board may determine an interim assessment for new childhood behavioral health
+4 services or unanticipated shortfalls in the association's ability to meet childhood behavioral health
+5 services funding needs. The board shall calculate the interim assessment in accordance with
+6 paragraph II, and the interim assessment is payable the calendar quarter that begins no less than
+7 30 days following the establishment of the interim assessment. The board shall not impose more
+8 thanoneinterimassessmentperyear.
+9 VI. In the event that the association discontinues operation for any reason, any unexpended
+10 assessments, including unexpended funds from prior assessments in the state vaccine purchase
+11 fund, shall be refunded to payees in proportion to the respective assessment payments by payees
+12 overthemostrecent8quarterspriortodiscontinuationofassociationoperations.
+13 135-F:14 PowersandDuties. Inadditiontothedutiesandpowersenumeratedelsewhereinthis
+14 chapter:
+15 I. The commissioner of insurance shall, after notice from the association, issue a show cause
+16 order to any assessable entity that fails to comply with the association's plan of operation. In
+17 addition to late fees and other penalties imposed by the association, assessable entities may, after a
+18 finding of just cause, be subject to a minimum fine of $5,000, a maximum fine of 25 percent of the
+19 totalamountofdelinquentassessments,andlicensuresuspension.
+20 II. The insurance commissioner shall annually review the assessment report required under
+21 RSA 135-F:12, V(k) to ensure that all assessable entities are participating in the association and
+22 that all assessable entities have accurately reported assessable lives. The association shall remedy
+23 anyproblemidentifiedbythecommissionerwithrespecttoassessableentitiesandassessablelives.
+24 III. Thecommissionerofinsurancemayadoptrules,pursuanttoRSA541-A,asnecessaryto
+25 carryoutthepurposesofthissubdivision.
+26 135-F:15 Examinations and Annual Reports. The board of directors shall submit to the
+27 commissioner,nolaterthan120daysafterthecloseoftheassociation'sfiscalyear,afinancialreport
+28 inaformapprovedbythecommissioner.
+29 135-F:16 Exemption From Taxes. The association shall be exempt from payment of all fees and
+30 alltaxesleviedbythisstateoranyofitssubdivisions,excepttaxesleviedonrealproperty.
+31 135-F:17 Immunity from Liability. There shall be no liability on the part of and no cause of
+32 action of any nature shall arise against any association member or its agents or employees, the
+33 associationor its agents or employees, members of the board of directors, or the commissioner or the
+34 commissioner's representatives, for any action or omission by them in the performance of their
+35 powersanddutiesunderthischapter.
+36 135-F:18 Severability of Chapter. If any provisions of this chapter or the application thereof to
+37 any person or circumstance is held invalid, the invalidity does not affect other provisions or
+
+HB1323-FN-ASAMENDEDBYTHESENATE
+-Page9-
+1 applications of the chapter which can be given effect without the invalid provisions or applications,
+2 andtothisendtheprovisionsofthischapterareseverable.
+3 135-F:19 Childhood Behavioral Health Services Fund. There is hereby established a childhood
+4 behavioral health services fund for the payment to the care management entities for the provision of
+5 childhood behavioral health services. Any funds provided to the department for this purpose and
+6 deposited in the fund shall not be used for any other purpose. Moneys in the fund shall be
+7 continuallyappropriatedtothecommissioner.
+8 12 New Subparagraph; State Treasurer; Application of Receipts. Amended RSA 6:12, I(b) by
+9 insertingaftersubparagraph(410)thefollowingnewsubparagraph:
+10 (411) Moneys deposited in the childhood behavioral health services fund established
+11 inRSA135-F:19.
+12 13 Insurance; Coverage for Certain Biologically-Based Mental Illnesses. Amend RSA 417-E:1,
+13 V-atoreadasfollows:
+14 V-a. The commissioner shall periodically require health insurers, health service
+15 corporations, and health maintenance organizations to submit the comparative analysis described in
+16 42 U.S.C. section 300gg-26(a)(8)(A) for review to ensure compliance with this chapter and with the
+17 Act. These comparative analyses shall also include specific comparative data for
+18 medical/surgical benefits and mental health and substance use disorder benefits available
+19 to consumers by age group including ages 0-5 years and 18 years and younger, and
+20 including services available, coverage guidelines, denial rates, complaints about lack of
+21 services, network capacity data, provider qualifications and restrictions for comparable
+22 services, and other factors that indicate whether there are barriers to care that affect
+23 parity. Totheextentallowableunderstateandfederallaw,suchanalysisshallbemadepublic.
+24 14 EffectiveDate.
+25 I. Sections1-10ofthisactshalltakeeffectJanuary1,2027.
+26 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2985
+5/19/26
+HB1323-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENTS#2026-1849s,#2026-1982s,#2026-1981s)
+ANACT relative to parental alienation, limiting certain prior authorization requirements
+for physical therapy, occupational therapy, and similar rehabilitative services,
+relative to children's mental health services for persons 18 years of age and
+younger.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Section10 Section10 Section10
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+$250,000to $250,000to $250,000to
+Revenue $0 $1,250,000(GF) $1,250,000(GF) $1,250,000(GF)
+Section11-23 Section11-23 Section11-23
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+>$2.5million >$2.5million >$2.5million
+GeneralFund(GF),HealthInsuranceAssessment,ChildhoodBehavioral
+RevenueFund(s)
+HealthServicesFund
+Sections1-9 Sections1-9 Sections1-9
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+$50,000to $100,000to $100,000to
+Expenditures* $0 $100,000 $200,000 $200,000
+Section11-23 Section11-23 Section11-23
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+>$2.5million >$2.5million >$2.5million
+GeneralFund(GF),HealthInsuranceAssessment,ChildhoodBehavior
+FundingSource(s)
+HealthServicesFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact (Sections 10 thru 23)
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+
+METHODOLOGY:
+Sections1thru9
+Sections 1 thru 9 of this bill defines “parental alienation” and requires courts to consider
+evidence of such behavior in determining parental rights and responsibilities, decision-making
+authority, and related familylaw matters. The bill alsoexpands theavailabilityof family access
+motions to include allegations of parental alienation and requires the court to award attorneys’
+feesincertaincases.
+The Judicial Branch states this bill will increase General Fund expenditures beginning in FY
+2027 by an indeterminable amount as the bill expands family law case requirements and is
+expectedtoincreasethenumberandcomplexityoffilingsintheFamilyDivision. Theexpansion
+of family access motions to include allegations of parental alienation and additional procedural
+requirements will require increased case processing, judicial review, and staff support. The
+Branch states to administer this bill they need one case manager at labor grade 22, step 3, with
+an estimated cost of a $89,000 starting in FY 2028. In addition, one senior court operations
+specialist at labor grade 19, step 3, would be required, at a cost of $84,000 in FY 2028 and
+forward. The combined cost for these two positions is therefore estimated at approximately
+$173,000 in FY 2028 and forward, with half the impact felt in FY 2027. These amounts include
+salary,benefits,andequipment.
+The Branch notes there may be additional costs associated with judicial and staff training, case
+form revisions, and updates to case processing manuals. The Branch estimates the fiscal impact
+on expenditures to be between $100,000 to $200,000 annually starting in FY 2028, with half the
+impact felt in FY 2027. It is assumed the Branch would include the costs of the two positions in
+theirFY2028andFY2029budgetrequest.
+Section10
+Section 10 of this bill amends RSA 420-J to prohibit health carriers from requiring prior
+authorization for the first visit of physical therapy and occupational therapy for each new
+episode of care and requires approval of at least 8 medically necessary treatments following the
+initialevaluationbefore additional review. A“newepisodeof care” is defined as treatment for a
+new condition or a condition not treated within the previous 60 days. Health carriers may still
+denyclaimsiftreatmentisdeterminednottobemedicallynecessary.
+The Insurance Department states prior authorization is a commonly used cost-containment
+mechanism in health insurance. The Department indicates that limiting prior authorization
+requirements for these services may increase the frequency of claims and total claims costs for
+physical and occupational therapy services. Increased claims costs may result in higher
+
+insurance premiums, which would increase Insurance Premium Tax revenue deposited into the
+General Fund. The Department estimates the increase in state revenue to be indeterminable
+butlikelybetween$250,000and$1,250,000annually.
+To the extent counties and municipalities purchase group health insurance, they could see an
+increaseintheirhealthinsurancepremiums.
+Section11thru23
+Sections 11 thru 23 of this bill creates anassociation for the purposeof collecting assessments to
+fund payments to care management entities for the provision of childhood behavioral health
+services. The Association is authorized to collect assessments from insurance carriers, stop loss
+carriers, and third-party administrators for fully insured and self-funded health plans. The
+assessment base would include covered lives in the state employee health plan, as well as pooled
+risk management programs under RSA 5-b. The funds provided for this purpose would be
+depositedintheChildhoodBehavioralHealthServicesFundcreatedbythebill.
+The fiscal analysis that follows is based on information provided by the Insurance and Health
+and Human Services Departments in response to an equivalent bill from the 2025 legislative
+session.
+The Insurance Department (NHID) estimates that the number of covered lives will be
+approximately 160,000. The NHID states that the assessment amount is indeterminable, as it is
+based primarily on an estimate of the cost of reimbursing care management entities for the
+provision of childhood behavioral health services they provide to assessable lives. The NHID
+assumes this refers to costs currently covered by the Department of Health and Human Services
+(DHHS) for the Medicaid population. In addition to program costs, the assessment would also
+cover administrative costs, as well as maintain a 10 percent reserve. The NHID estimates the
+administrativecostswouldbeapproximately$175,000andwouldlikelyincreasewithinflation.
+The NHID assumes the assessment in the bill would exert upward pressure on premiums and
+increase costs for self-funded plans, including the state employee health plan and municipal
+pooled risk management programs. Any increases to premiums would increase the
+corresponding premium tax dollars collected. However, a significant rise in health insurance
+premiums could also cause consumers to purchase cheaper, less benefit rich plans or forgo the
+purchaseofhealthinsurancealtogether,whichcouldhaveanegativeimpactonthepremiumtax
+collected. County and local government expenditures for health insurance could be impacted.
+The NHID notes the assessment amount would also be subject to retaliatory taxes by other
+stateswhichwouldcauseNHdomesticinsurers’taxbaseinotherstatestoriseaswell.
+
+The NHID assumes thetotal assessment, administrativecost and 10% reserve percentage would
+likely be greater the $2.5 million per year and that it would likely be able to absorb any
+additional responsibilities within its current budget. The NHID notes that it is possible the
+legality of this proposed assessment could be challenged, which could result in additional
+litigationcostsfortheState.
+The Department of Health and Human Services (DHHS) assumes the money in the dedicated
+Childhood Behavioral Health Services Fund would not lapse, though the language as written
+does not currently indicate that, so if enacted as proposed, the funds would lapse at the end of
+each fiscal year. The DHHS assumes the expenses to support the New Hampshire Children's
+Mental Health Association operation would also be funded from this revenue source and
+suggeststhisbeclarifiedinproposedRSA135-F:13. TheDHHS anticipatesthebillwould result
+in an indeterminable increase in state revenues and expenditures. The estimated range of
+impact would likelybe$2,000,000to$3,000,000per fiscal year. Inthelast threecalendar years,
+the Care Management Entity billing for these services, paid for with State funds, ranged from
+$1.1 million to $2 million. The range estimated was determined utilizing this actual data as a
+base, with additional amounts added in consideration of the assessment determination outlined
+in Section 135-F:13, such as the reserve of up to 10 percent of the anticipated cost, additional
+working capital reserves as may be established by the board from time to time, and the board’s
+operations.
+The DHHS notes a possible error in Section 135-F:13 VI, as it references the “state vaccine
+purchasefund”andnotthe“ChildhoodBehavioralHealthServicesFund.”
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+JudicialBranch,InsuranceDepartment,andDepartmentofHealthandHumanServices

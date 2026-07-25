@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER234
+HB1577-FINALVERSION
+5Mar2026...0733h
+05/07/2026 1599s
+2026SESSION
+26-2890
+06/09
+1577
+HOUSEBILL
+ANACT relative to the disclosure of utility customer data to municipalities for emergency
+responseplanning.
+SPONSORS: Rep. Drye, Sull. 7; Rep. Tenczar, Hills. 1; Rep. Foote, Rock. 13; Rep. Girard, Sull. 6;
+Rep.Bridle,Rock.29;Rep.Roy,Rock.31
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows service providers to share individual customer data with a municipality's authorized
+publicsafetyofficialsforemergencycoordinationpurposes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER234
+HB1577-FINALVERSION
+5Mar2026...0733h
+05/07/2026 1599s 26-2890
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the disclosure of utility customer data to municipalities for emergency
+responseplanning.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 234:1 CustomerDatainEmergencySituations. AmendRSA363:38,V(b)toreadasfollows:
+2 (b) Nothing in this section shall preclude a service provider from disclosing a customer's
+3 individual data to a third party for system, grid, or operational needs, coordinationwithamunicipality's
+4 authorizedpublicsafetyofficials,ortheresearch,development,andimplementationofnewratestructures
+5 and tariffs, demand response, customer assistance, energy management, or energy efficiency programs,
+6 provided that the service provider for contracts entered into after January 1, 2017, has required by
+7 contract that the third party implement and maintain reasonable security procedures and practices
+8 appropriatetothenatureoftheinformation,toprotectthepersonalinformationfromunauthorizedaccess,
+9 use, destruction, modification, or disclosure, and to prohibit the use of the data for a secondary
+10 commercial purpose not related to theprimary purpose of the contract without the expressconsent of the
+11 customer. Disclosureofacustomer'sdatatoamunicipality'sauthorizedpublicsafetyofficialsshallbe
+12 exemptunderRSA91-A:5,IV.
+234:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July02,2026
+EffectiveDate:August31,2026

@@ -1,0 +1,188 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1288 -ASINTRODUCED
+2026SESSION
+26-2813
+07/08
+1288
+HOUSEBILL
+ANACT relativetoenablingschooladministrativeunitstoadoptbudgetcaps.
+SPONSORS: Rep. Vose, Rock. 5; Rep. Barbour, Hills. 35; Rep. Drye, Sull. 7; Rep. Hill, Merr. 2;
+Rep.Pauer,Hills.36;Sen.Lang,Dist2;Sen.Sullivan,Dist18
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablesschooladministrativeunitstoadoptbudgetcaps.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1288-ASINTRODUCED
+26-2813
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoenablingschooladministrativeunitstoadoptbudgetcaps.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Sections; Education; School Administrative Units; Budget Caps. Amend RSA 194-C by
+2 insertingaftersection9-bthefollowingnewsections:
+3 194-C:9-c SchoolAdministrativeUnitBudgetCap.
+4 I. In a school administrative unit that has adopted this section, each year, the school
+5 administrative unit budget cap shall be the current overhead cost per student, as defined herein,
+6 multiplied by the average daily membership in residence (ADMR), as defined in RSA 198:38, of all
+7 member school districts as of October 1 of the year immediately preceding the proposed budget year,
+8 as reported to the department of education, times (1+ IF), where IF is an amount equivalent to an
+9 annual increase for inflation. The first year after a budget cap is adopted, the current overhead cost
+10 per student shall be the overhead cost per student adopted in the warrant article under RSA 194-
+11 C:9-d, IV. In subsequent years, the current overhead cost per student shall be the previous year's
+12 currentoverheadcostperstudenttimes(1+IFP),whereIFPisthepreviousyear'sIF.
+13 II. Thefollowingsubparagraphsshallapplyonlyiftheschooladministrativebudgetadopted
+14 by the school administrative unit board pursuant to RSA 194-C:9 exceeds the school administrative
+15 unitbudgetcapforthatyear:
+16 (a) If the school administrative unit has not adopted RSA 194-C:9-b, the warrant for
+17 eachschooldistrictshallincludeawarrantarticlewiththewording:
+18 “Shall the voters of the [name of school district] adopt a school administrative budget of $_____
+19 fortheforthcomingfiscalyear,whichexceedstheschooladministrativebudgetcapof$_____,andfor
+20 which$_____isassignedtotheschoolbudgetofthisschooldistrict? Thisyear'sbudgetcapbudgetof
+21 $_____, with $_____ assigned to the school budget of this school district, shall be adopted if the
+22 article does not receive a 3/5 majority vote of all the school district voters voting in this school
+23 administrativeunit.”
+24 (b) If the school administrative unit has adopted RSA 194-C:9-b, the warrant for each
+25 schooldistrictshallincludeawarrantarticlewiththewording:
+26 “Shall the voters of the [name of school district] adopt a school administrative budget of $_____
+27 for the forthcoming fiscal year, in which $_____ is assigned to the school budget of this school
+28 district, which exceeds the school administrative budget cap of $_____? This year's budget-cap-
+29 adjusted budget of $_____, with $_____ assigned to the school budget of this school district, shall be
+30 adoptedifthearticledoesnotreceivea3/5majorityvoteofalltheschooldistrictvotersvotinginthis
+31 schooladministrativeunit.”
+
+HB1288 -ASINTRODUCED
+-Page2-
+1 Thisquestionshallbeusedonthememberschooldistrictwarrantsinsteadofthewarrantarticle
+2 question posed under RSA 194-C:9-b, I. The budget-cap-adjusted budget shall be the minimum of
+3 theadjustedbudgetpursuantto194-C:9-b,I,orthisyear’sschooladministrativeunitbudgetcap.
+4 (c)(1) Each school district moderator shall cause a vote by paper ballot to be taken,
+5 recordthenumberofyeasandnays,andannouncetheresultofthevoteattheannualmeeting. The
+6 ballots shall be delivered to the moderator of the school district with the latest chronological annual
+7 meeting. The moderator of the latest chronological annual meeting shall record the total number of
+8 yeas and nays, announce the results of the final vote on the question of adopting the school
+9 administrativeunitbudget, anddelivertheballotstothesecretaryoftheschooladministrativeunit.
+10 The secretary of the school administrative unit board shall certify the results to the department of
+11 revenue administration. A 3/5 majority of voters voting in favor shall result in adoption of the
+12 budget proposed by the school administrative unit board, otherwise the budget cap budget or budget
+13 cap adjusted budget, as applicable, is adopted. If the school administrative unit has adopted RSA
+14 194-C:9-b,thisprocedureshallreplacetheprocedureinRSA194-C:9-b,I.
+15 (2) After a vote on the school administrative unit budget, the secretary of the school
+16 administrative unit shall place the ballots and all envelopes or wrapping which had previously
+17 contained them in a suitable container showing the contents and the date of the vote. The ballots
+18 shall be retained for 60 days from the date of the vote or any recount, unless further preservation is
+19 necessaryorunlessdisposalisenjoinedbythesuperiorcourt.
+20 (3) Any registered voter who resides in a school district within the school
+21 administrative unit may, in writing, petition the secretary of the school administrative unit for a
+22 recount of the vote no later than the Friday following the latest chronological annual meeting of
+23 school districts in the school administrative unit. The secretary shall schedule a recount, to be
+24 conducted by the school administrative unit, not earlier than 5 days nor later than 10 days after the
+25 datethesecretaryreceivesthepetition.
+26 III. The annual increase for inflation (IF) shall be either a fixed percentage, annual
+27 percentagechangeofaninflationindexpublishedbytheU.S.BureauofLaborStatisticsasofJuly1,
+28 preceding the date of the budget hearing held pursuant to RSA 32:5, I, or annual percentage change
+29 of the Municipal Cost Index (MCI) published by American City and County as of July 1, preceding
+30 thedateofthebudgethearingheldpursuanttoRSA32:5,I.
+31 194-C:9-d AdoptionofSchoolAdministrativeUnitBudgetCap.
+32 I. The provisions of RSA 194-C:9-c may be adopted by the member school districts in a
+33 school administrative unit whose legislative bodies raise and appropriate funds through an annual
+34 meetingandwhoadoptabudgetpursuanttoRSA194-C:9.
+35 II. Thequestionshallbeplacedonthewarrantsoftheannualmeetingforallschooldistricts
+36 in a school administrative unit when proposed by a school board of a member district or by petition
+37 inamemberdistrictundertheproceduressetoutinRSA197:6.
+
+HB1288 -ASINTRODUCED
+-Page3-
+1 III. A public hearing shall be held by the school board on the question at least 15 days, but
+2 not more than 30 days, before the question is to be voted on. In multi-town school districts, a public
+3 hearingshall be held ineach town embraced by thedistrict, none of which shall be held on the same
+4 day. Notice of the hearing shall be posted in at least 2 public places in the district and at least 2
+5 public places in each town of multi-town districts, and published in a newspaper of general
+6 circulationatleast7dayspriortothedateofthehearing.
+7 IV. If a fixed percentage inflation factor is to be used for the school administrative unit
+8 budgetcap,thewordingofthequestionshallbe:
+9 "Shall we adopt the provisions of RSA 194-C:9-c and implement a school administrative unit
+10 budget cap, which is $_____ overhead cost per student times the total average daily membership of
+11 the member school districts as of October 1 of the year immediately preceding the proposed budget
+12 year plus a _____ percent annual increase for inflation? Each year, a school administrative unit
+13 budget above the budget cap is adopted only if the budget is approved by a 3/5ths majority vote in
+14 the school districts comprising the school administrative unit. Adoption of this provision requires a
+15 3/5thsmajorityvoteintheschooldistrictscomprisingtheschooladministrativeunit."
+16 Alternatively,ifaninflationindexistobeusedfortheschooladministrativeunitbudgetcap,the
+17 wordingofthequestionshallbe:
+18 "Shall we adopt the provisions of RSA 194-C:9-c, and implement a school administrative unit
+19 budget cap, which is $_____ dollars overhead cost per student times the total average daily
+20 membership of the member school districts as of October 1 of the year immediately preceding the
+21 proposed budget year plus an annual increase for inflation using [the index] published by [the U.S.
+22 Bureau of Labor Statistics or American City and County] as of July 1? Each year, a school
+23 administrative unit budget above the budget cap is adopted only if the budget is approved by a
+24 3/5ths majority vote in the school districts comprising the school administrative unit. Adoption of
+25 this provision requires a 3/5ths majority vote in the school districts comprising the school
+26 administrativeunit."
+27 Thequestionshallnotbesubjecttoamendmentbythelegislativebody.
+28 V. The question shall be voted on in accordance with the ballot and voting procedures in
+29 effect in that school district. Each school district moderator shall cause a vote by secret ballot to be
+30 taken, record the number of yeas and nays, and announce the result of the vote at the annual
+31 meeting. The ballots shall be delivered to the moderator of the school district with the latest
+32 chronologicalannualmeeting. Themoderatorofthelatestchronologicalannualmeetingshallrecord
+33 the total number of yeas and nays, announce the results of the final vote on the adoption of the
+34 school administrative unit budget cap, and deliver the ballots to the secretary of the school
+35 administrative unit. If a 3/5th majority of the voters voting in the school districts within the school
+36 administrative unit approve the question, then RSA 194-C:9-c shall apply starting with the next
+37 annual school district meeting of the school districts within that school administrative unit, and
+
+HB1288 -ASINTRODUCED
+-Page4-
+1 shall continue until rescinded. Only votes in the affirmative or negative shall be included in the
+2 calculation of the 3/5 majority. The secretary of the school administrative unit board shall certify
+3 the results to the department of revenue administration. Preservation of ballots and recounts shall
+4 bepursuanttoRSA194-C:9-c,I(c).
+5 VI. AnyschooldistrictinaschooladministrativeunitwhichhasadoptedRSA194-C:9-cmay
+6 consider rescinding its action in the manner described in paragraphs II through V. The wording of
+7 thequestionshallbe:
+8 "Shall we rescind the provisions of RSA 194-C:9-c, known as the school administrative unit
+9 budgetcap, asadopted bythe[localsubdivision] on[dateofadoption], sothat therewill nolonger be
+10 a limit on increases to the recommended the school administrative unit budget to be raised by local
+11 taxes? 3/5thsmajorityvoteintheschooldistrictscomprisingtheschooladministrativeunitrequired
+12 torescind."
+13 2 Education; School Administrative Units; Alternative Budget Procedures. Amend RSA 194-
+14 C:9-b,Itoreadasfollows:
+15 I. In a school administrative unit composed of 2 or more school districts which has adopted
+16 the provisions of RSA 194-C:9-a, the school administrative unit budget adopted according to RSA
+17 194-C:9, I shall be placed before the voters of each school district of that school administrative unit
+18 in a separate warrant article at the annual school district meeting. Notwithstanding RSA 32 and
+19 RSA 40:13, the budget adopted by the school administrative unit board shall not be amended or
+20 changed in any way prior to the vote, except as provided in RSA 194-C:9-c. Each school district
+21 moderator shall cause a vote by paper ballot to be taken, record the number of yeas and nays, and
+22 announce the result of the vote at the annual meeting. The ballots shall be delivered to the
+23 moderator of the school district with the latest chronological annual meeting. The moderator of the
+24 latest chronological annual meeting shall record the total number of yeas and nays, announce the
+25 results of the final vote on the question of adopting the school administrative unit budget, and
+26 deliver the ballots to the secretary of the school administrative unit. The secretary of the school
+27 administrative unit board shall certify the results to the department of revenue administration. A
+28 majority of voters voting in favor shall result in adoption of the budget proposed by the school
+29 administrative unit board. If the article receives less than a majority vote, the budget amount
+30 accepted shall be that of the previous year adjusted for continuing contracts. Wording of the
+31 warrantarticleshallbeasfollows:
+32 "Shall the voters of __________ (name of school district) __________ adopt a school administrative
+33 unit budget of $ _____ for the forthcoming fiscal year in which $ _____ is assigned to the school
+34 budgetofthisschooldistrict?
+35 This year's adjusted budget of $ _____ , with $ _____ assigned to the school budget of this school
+36 district, will be adopted if the article does not receive a majority vote of all the school district voters
+37 votinginthisschooladministrativeunit."
+
+HB1288 -ASINTRODUCED
+-Page5-
+1 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

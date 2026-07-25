@@ -1,0 +1,507 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1560-FN-ASINTRODUCED
+2026SESSION
+26-2308
+06/08
+1560-FN
+HOUSEBILL
+ANACT relativetoannualmotorvehicleinspectionstandardsandreinstatement.
+SPONSORS: Rep.Leishman,Hills.33;Rep.Grote,Rock.24;Rep.Cloutier,Sull.6
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill reenacts the motor vehicle inspection standards that were repealed in 2025, 141:254-
+256.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1560-FN-ASINTRODUCED
+26-2308
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoannualmotorvehicleinspectionstandardsandreinstatement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 AdministrativeReviewofSanctionsAgainstInspectionsStations. RSA260:6-aisreenactedto
+2 readasfollows:
+3 260:6-a AdministrativeReviewof Sanctions AgainstInspectionStations. Inall casesinwhicha
+4 sanction is imposed by a hearings officer against an official inspection station for violation of the
+5 rules relative to inspection stations and the sanction involves a loss of inspection privileges for a
+6 period of greater than 20 days, any party aggrieved by the decision may, prior to seeking the
+7 remedies provided in RSA 541, request administrative review of the decision by the commissioner or
+8 his designee. The commissioner or his designee shall affirm or modify such sanction as justice may
+9 require.
+10 2 Point System for Automobile Dealer and Inspection Station Violations. RSA 260:6-b is
+11 reenactedtoreadasfollows:
+12 260:6-b PointSystemforAutomobileDealerandInspectionStationViolations.
+13 I. The director of motor vehicles may adopt rules pursuant to RSA 260:5 to establish 2
+14 differentuniformpointsystemsforseparatelyidentifyingautomobiledealersandinspectionstations
+15 that have violated the provisions of this title or rules adopted under this title. The rules shall
+16 include a designated level of point accumulation that so identifies automobile dealers and inspection
+17 stations.
+18 II. Thedirectormayassesspointsforviolationsofthistitleorrulesadoptedpursuanttothis
+19 title that have been found by a court of law or a hearing officer to have been violated. Notice of the
+20 assessmentofpointsshallbegiveninaccordancewiththerulesadoptedbythedirector.
+21 III. In the case of a conviction or finding against a dealer or inspection station of 2 or more
+22 violations committed on a single occasion, such dealer or inspection station shall be assessed points
+23 for one offense only, under each separate point system if the same entity holds both a dealer's
+24 registration, license, or privileges, and inspection station privileges. If the offenses have different
+25 point values, the dealer or inspection station shall be assessed for the offense having the greater
+26 pointvalue.
+27 IV. The director may suspend or revoke the dealer's registration, license, or privileges, or in
+28 the case of an inspection station the inspection station privileges, in accordance with the rules
+29 adopted under this section. The rules shall provide a mechanism for reduction of points for a dealer
+30 orinspectionstationthathascompletedatrainingcourseapprovedbythedirector.
+
+HB1560-FN-ASINTRODUCED
+-Page2-
+1 V. The director may distinguish between larger and smaller dealers and inspection stations
+2 in establishing the point system. For the purposes of the point system established under this
+3 section,aninspectionstationmaynotbeliableforviolationscommittedbyanindividualmechanicif
+4 themechanicdeliberatelycommitsanactionthatiscontrarytothelaw,therulesofthedepartment,
+5 orthepoliciesandproceduresofthestation.
+6 VI. Both point systems authorized under this section shall only count points for violations
+7 committed within the 3 most recent calendar years and shall only count violations that are
+8 committedonoraftertheeffectivedateoftherulesadoptedunderthissection.
+9 3 InspectionAuthorized. RSA266:1isreenactedtoreadasfollows:
+10 266:1 InspectionAuthorized.
+11 I. The director may require the inspection of any vehicle, except an OHRV, snowmobile,
+12 moped, roadable aircraft, or any other vehicle exempted under this chapter, to determine whether it
+13 is fit to be driven. Such inspection shall be made at such times and in such manner as the director
+14 mayspecify,subjecttotherequirementssetforthinthissection.
+15 II. Any vehicle registered under this title, except an OHRV, snowmobile, moped, roadable
+16 aircraft,orother exemptvehicle, shallbeinspected onceayear,duringthemonthinwhichthebirth
+17 date of the owner is observed, if the owner is a natural person. An inspection sticker shall be valid
+18 for the same duration as the vehicle's registration, which shall not exceed 16 months. If the month
+19 in which the anniversary of the owner's birth occurs will be one of the next 4 months, an inspection
+20 sticker may be issued, with an expiration date of the birth month in the following year, of the first
+21 person named on the title application. Nothing in this paragraph shall require any person who has
+22 registered and had inspected a vehicle with temporary plates to have the vehicle reinspected upon
+23 receipt of permanent motor vehicle plates. An inspection sticker shall not expire when a vehicle is
+24 transferredtoalicenseddealer.
+25 II-a. Notwithstanding RSA 266:1, II, if the month in which the anniversary of the owner's
+26 birth occurs will be one of the next 4 months, and the vehicle owner provides written verification of
+27 absence from New Hampshire during the entire anniversary month, an inspection sticker may be
+28 issued,withanexpirationdateof thebirthmonthinthefollowingyear,of thefirst personnamed on
+29 thetitleapplication.
+30 III. If the owner of the vehicle is a company or corporation or other than a natural person,
+31 the annual inspection shall be made during the month designated by the director as the registration
+32 month for such legal entity. Vehicles registered as antique motor vehicles and antique motorcycles
+33 and which are 40 years old and over shall be inspected biennially. Antique motor vehicles and
+34 custom vehicles shall be inspected in the month of May. Without regard to the owner's birth date or
+35 registration month, motorcycles, autocycles, and recreational vehicles shall be inspected annually by
+36 July1.
+
+HB1560-FN-ASINTRODUCED
+-Page3-
+1 IV. Notwithstanding paragraphs II and III, newly registered vehicles, other than vehicles
+2 transferredtoalicenseddealer,OHRVs,snowmobiles,mopeds,roadableaircraft,andvehicles,other
+3 than vehicles transferred to a licensed dealer, OHRVs, snowmobiles, mopeds, and roadable aircraft,
+4 the ownership of which has been transferred, shall be inspected not later than 10 days after the
+5 registrationortransfer ofownership ofsaidvehicle. However, ifanew vehicleis purchasedat retail
+6 from a licensed dealer, as defined in RSA 259:18, the vehicle shall be inspected not later than 20
+7 daysafter thedateof transfer. Aused vehiclefor whichadealer has issueda20-dayplatepursuant
+8 to RSA 261:109 shall be inspected by the dealer or an authorized inspection station on behalf of the
+9 dealer at the time of the attachment of the plate unless a valid inspection sticker issued by the
+10 dealer is in place, in which case the vehicle shall be inspected within 20 days or before the sticker
+11 expires,whicheveroccursfirst. Allotherexpiredmotorvehicleinspectionsshallbesubjecttothe10-
+12 daygraceperiodinRSA266:5.
+13 V. The director may authorize properly qualified persons to make inspections without
+14 expense to the state at stations designated by the director and may at any time revoke such
+15 authorization or designation; provided, however, that inspections conducted at such stations at the
+16 request and under the direction of a police officer or a state trooper or authorized employee of the
+17 departmentofsafetyshallbepaidforasfollows:
+18 (a) Intheeventviolationsofthissectionareuncovered,bytheownerofthevehicle.
+19 (b) In the event no such violations are uncovered, by the agency represented by the
+20 policeofficerorstatetrooperorauthorizedemployeeofthedepartmentofsafety.
+21 The biennial fee to be paid by the inspection station upon authorization to make inspections
+22 shall be $50 and shall not be refundable nor prorated; however, applications submitted during the
+23 secondyearofthelicensecycleshallbesubjecttoafeeofonly$25.
+24 V-a. An inspection station may, upon request, be designated a "motorcycle only" inspection
+25 station. A "motorcycle only" inspection station may inspect only motorcycles and shall not be
+26 required to conduct OBD II emission testing under RSA 266:59-b or to purchase or lease any
+27 equipmentrelatingtotheOBDIIemissiontestingprogram.
+28 VI. Except as provided in paragraph XII, each inspection station shall conspicuously post on
+29 its premises a notice, in a form and size approved by the director, indicating that the station is an
+30 authorizedinspectionstation.
+31 VII. Except as provided in paragraph XII, each inspection station shall conspicuously post
+32 on the outside of the building a sign showing the inspection fee charged and the additional fee
+33 charged for OBD II testing under RSA 266:59-b. No inspection station shall include the cost of OBD
+34 II testing or reporting in the inspection fee charged for a vehicle not subject to the OBD II
+35 requirementsunderRSA266:59-b.
+36 VII-a.(a) The director is authorized to require inspection stations to submit inspection data
+37 to the department electronically, provided that if electronic submission is required, the following
+
+HB1560-FN-ASINTRODUCED
+-Page4-
+1 inspection stations shall be allowed to submit inspection data electronically or on a designated
+2 scheduleandformprescribedbythedepartment:
+3 (1) Inspectionstationsthatareauthorizedtoinspectonlymotorcycles.
+4 (2) [Repealed.]
+5 (3) Fleetmotorvehicleinspectionstationsfornon-OBDIIvehicles.
+6 (4) Municipalandcountygovernmentinspectionstations.
+7 (b) The department shall not require an inspection station to transfer inspection
+8 informationelectronicallyforanyvehicleofmodelyear1995orolder.
+9 VIII. A new vehicle that has been delivered in this state with a certificate of origin in the
+10 form prescribed by the director is exempt from the inspection requirements contained in this section
+11 until it is sold at retail. Upon retail sale of such a vehicle, the owner shall be required to have the
+12 vehicle inspected pursuant to paragraph IV and as provided in this section and the rules adopted
+13 underthischapter.
+14 IX. Notwithstanding any other provisions of this section to the contrary, all school buses
+15 exceeding 10,000 pounds gross vehicle weight shall be inspected semiannually. The month for the
+16 first inspection shall be the month in which the birth date of the owner is observed, if the owner is a
+17 natural person; if the owner is other than a natural person, the first inspection shall be conducted
+18 during the month designated by the director as the registration month for such legal entity. In
+19 eithercase,thesecondinspectionshallbe6monthslater.
+20 X. The director may authorize properly qualified persons to inspect any motor vehicle,
+21 except an OHRV, snowmobile, moped, roadable aircraft, or any other vehicle exempted under this
+22 chapter, that has been involved in a fatal accident or an accident involving serious bodily injury as
+23 definedinRSA625:11, VI, todeterminewhetherthevehicle was incompliancewithstateinspection
+24 requirements.
+25 XI.(a) The department may impose an administrative fine upon any inspection station for
+26 any violation of an inspection law or rule adopted under the provisions of this chapter. The
+27 authority to impose such a fine shall be in addition to any other remedy or penalty that may be
+28 imposed, but in no event shall the department impose both a fine and a suspension of inspection
+29 privilegesinthesameproceeding. Themaximumamountsofthefinesthatmaybeassessedshallbe
+30 asfollows:
+31 (1) Forthefirstviolation,$250.
+32 (2) Forthesecondviolation,$500.
+33 (3) Forthethirdviolation,$750.
+34 (4) Forthefourthviolation,$1,000.
+35 (5) For5ormoreviolations,$2,000.
+36 (b) No fine shall take effect unless approved by the commissioner. The commissioner
+37 shallhavetheauthoritytomodifytheamountofthefineassessed.
+
+HB1560-FN-ASINTRODUCED
+-Page5-
+1 XII. The director may authorize as an inspection station a mobile service garage that is
+2 contractedwithemployers,provided:
+3 (a) Inspections may only be performed while the mobile service garage is on an
+4 employer'spremises.
+5 (b) While the mobile service garage is on an employer's premises, inspections are
+6 performed solely on vehicles registered to employees of the contracted employer or registered to the
+7 employer.
+8 (c) Each inspection station authorized pursuant to this section shall conspicuously post,
+9 in a form and size approved by the director, on its vehicle or trailer indicating that it is an
+10 authorizedinspectionstation.
+11 (d) Each inspection station authorized pursuant to this paragraph shall conspicuously
+12 post on the outside of its vehicle or trailer a sign showing the inspection fee charged and the
+13 additional fee charged for OBD II testing under RSA 266:59-b. No inspection station authorized
+14 pursuant to this paragraph shall include the cost of OBD II testing or reporting in the inspection fee
+15 chargedforavehiclenotsubjecttotheOBDIIrequirementsunderRSA266:59-b.
+16 4 State Police Duties Relative to Vehicle Inspection. RSA 266:1-a is reenacted to read as
+17 follows:
+18 266:1-a StatePoliceDutiesRelativetoVehicleInspection.
+19 I. The director of thedivision of statepolice, with theapproval of thecommissioner of safety
+20 shall assign a suitable complement of state troopers to assist the director of motor vehicles in
+21 enforcing the motor vehicle inspection laws and rules. A state trooper assigned pursuant to this
+22 section shall have the powers of a peace officer, certified under RSA 106-L:5, V, and shall have as a
+23 primary function statewide enforcement duties related to the inspection process, including
+24 inspection station auditing, investigation of alleged inspection station malfeasance, rejected vehicle
+25 follow-up, and sticker monitoring. A state trooper assigned under this section shall have the
+26 authority to enter any motor vehicle inspection station authorized under RSA 266:1, during the
+27 station's business hours, to fulfill his or her duties, and shall be assigned other enforcement duties
+28 asdeterminedbythecommissioner.
+29 II. The commissioner shall furnish suitable equipment to a state trooper, as the
+30 commissionerdeemsnecessary,tocarryouthisorherdutiesunderthissection.
+31 5 InspectionofTrailers,Exemptions. RSA266:1-bisreenactedtoreadasfollows:
+32 266:1-b InspectionofTrailers,Exemptions.
+33 I. Notwithstanding any law or rule to the contrary, trailers of 10,000 pounds or less gross
+34 vehicle weight rating not used in interstate commerce shall be exempt from periodic vehicle
+35 inspectionrequirements but shall besubject, as other vehicles are, toperiodic roadsideinspection by
+36 law enforcement officers to determine that they have the proper required and fully functional safety
+37 equipment.
+
+HB1560-FN-ASINTRODUCED
+-Page6-
+1 II. The director may authorize properly qualified dealers holding utility dealer registrations
+2 toinspecttrailersofmorethan10,000poundsgrossvehicleweighttodeterminewhethertheyarefit
+3 to be driven, and to issue inspection stickers under rules adopted for this purpose pursuant to RSA
+4 541-A. This section shall not apply to full trailers as defined in RSA 259:37-a or semi-trailers as
+5 defined in RSA 259:98 and shall not prohibit other official inspection stations from inspecting
+6 trailers.
+7 6 Fees. RSA266:2isreenactedtoreadasfollows:
+8 266:2 Fees. The fee for inspection stickers shall be $3.25 for each sticker furnished by an
+9 approved inspection station. The division shall transfer $.25 of each fee collected under this section
+10 to the motor vehicle air pollution abatement fund established by RSA 125-S:3 and $.25 of each fee
+11 collected under this section to the general fund. All unused stickers returned by the approved
+12 inspection station to the division shall be refundable at the rate of $3.25 each, except that unused
+13 stickerspurchasedfromthedivisionforafeeof$2.50shallberefundableattherateof$2.50each.
+14 7 InspectionofSpareTiresProhibited. RSA266:3isreenactedtoreadasfollows:
+15 266:3 Inspection of Spare Tires Prohibited. Notwithstanding the provisions of RSA 266:1, the
+16 directormaynotauthorizetheinspectionofanytirecarriedasasparetirebyanyvehicle.
+17 8 Rust. RSA266:3-aisreenactedtoreadasfollows:
+18 266:3-a Rust.
+19 The director shall establish a procedure for the external visual examination for rust of private
+20 passenger vehicles and light trucks during the inspection required by RSA 266:1. The procedure
+21 shall include requirements for further examination if substantial rust is observed. No private
+22 passengervehicleorlighttruckshallpasstheinspectionrequirementsofRSA266:1iftheprocedure
+23 revealsanyofthefollowing:
+24 I. Rustthatpermitsexhaustgasestoenterthepassengerorcargocompartment.
+25 II. Anymetaloranylooseordislocatedpartsprotrudingfromthesurfaceofthevehiclesoas
+26 tocreateahazard.
+27 III. A bumper that is rusted so that it is not firmly attached or that has broken or torn
+28 portionsprotrudingfromthesurfacesoastocreateahazard.
+29 IV. Aframethatisnotinsolidcondition.
+30 9 RepairofDefectiveEquipment. RSA266:4isreenactedtoreadasfollows:
+31 266:4 Repair of Defective Equipment. If a so-called defective equipment tag is issued for a
+32 vehicle under the authority of RSA 266:1, such tag shall provide a minimum period of 72 hours in
+33 whichtheownerofsuchvehicleisrequiredtorepairthedefectspecifiedinsaidtag.
+34 10 Penalty for Failing to Obey Inspection Requirements. RSA 266:5 is reenacted to read as
+35 follows:
+36 266:5 Penalty for Failing to Obey Inspection Requirements. The driver or owner of any motor
+37 vehiclefailingtocomplywiththerequirementsofthedirectorrelativetoinspectionshallbeguiltyof
+
+HB1560-FN-ASINTRODUCED
+-Page7-
+1 aviolation,andthedirectormayrefusetoregister,ormaysuspendorrevoketheregistrationof,any
+2 motor vehicle, trailer, or semi-trailer that has not been inspected as required or that is unsafe or
+3 unfittobedriven;provided,however,nopersonshallbechargedwithaviolationofthissectionuntil
+4 a period of 10 days has elapsed from the date the inspection was due. It shall be a rebuttable
+5 presumptionthatavehiclethatisrequiredtobeinspectedisinviolationofthissectionifthevehicle
+6 failstodisplayavalidinspectionsticker. Thissectionshallnotapplytothosevehiclesrequiredtobe
+7 inspectedundertheprovisionsofRSA266:1,IV. Thefineforaviolationofthissectionshallbe$60.
+8 11 DrivingofUninspectedVehicles. RSA266:6isreenactedtoreadasfollows:
+9 266:6 DrivingofUninspectedVehicles.
+10 I. The director is hereby authorized to design and issue, under such rules and procedures as
+11 he or she shall deem appropriate, a permit to allow the driving of an uninspected vehicle from its
+12 locationtoaninspectionstationwhere,forgood causeshown,thepersonrequestingsuchpermit has
+13 beenunabletocomplywiththedirector'srulesrelatingtoinspection.
+14 II. Thedirectormayprovideatelephonicorelectronicprocesswherebyatransportermaybe
+15 issued a special permit to allow the movement of an unladen and uninspected semi-trailer to a
+16 disposal facility, a salvage inspection station, or another temporary or permanent location during
+17 daylight hours only. The permittee shall certifythat thevehicle is of sufficient structural soundness
+18 to support the move, and the braking ability of the combination conforms with the provisions of RSA
+19 266:28. The combination shall be equipped with working directional signals, stop lamps, and tail
+20 lampsvisiblefromtherearthroughtheuseofalightbarorothermeans.
+21 III. A licensed New Hampshire dealer who purchases an uninspected used vehicle may
+22 operate such vehicle from its location at the time of the sale to the dealer's place of business within
+23 24hoursofthedateofpurchaseofsuchvehicleasshownonthebillofsale,providedthatthevehicle
+24 issafeforroaduse.
+25 IV. A licensed New Hampshire repairer may operate a currently registered, uninspected
+26 vehicle from a customer's location to the repairer's place of business within 24 hours of obtaining a
+27 repair order for the vehicle signed by the registered owner, provided that the vehicle is safe for road
+28 use.
+29 12 SalesofUnsafeVehicles. RSA266:8isreenactedtoreadasfollows:
+30 266:8 Sales of Unsafe Vehicles. A dealer selling a vehicle at retail which, in his judgment, is
+31 unsafe for driving upon the ways of this state shall destroy any inspection sticker applied to the
+32 windshield thereof and shall, within 5 days after said sale, file with the department notice of said
+33 sale on a form provided by the director and signed by both the purchaser and dealer. A copy of said
+34 noticeshallberetainedbythedealer,andacopyshallbedeliveredtothepurchaser.
+35 13 EmissionControlEquipment. RSA266:59-bisreenactedtoreadasfollows:
+36 266:59-b EmissionControlEquipment.
+
+HB1560-FN-ASINTRODUCED
+-Page8-
+1 I.(a) Every motor vehicle driven on the ways of this state that is subject to inspection under
+2 thischaptershallbeequippedwithalloftheemissioncontrolequipmentthatwaspartofthatmotor
+3 vehicle as originally equipped, and such equipment shall be properly connected to prevent excessive
+4 emissions. Motor vehicle inspections conducted in accordance with this chapter shall include a
+5 visual check for the presence and proper connection of the following equipment on vehicles so
+6 equipped:
+7 (1) Catalyticconverter.
+8 (2) Gascap.
+9 (3) Evaporativepurgecanister.
+10 (4) Positivecrankcaseventilation(PCV)valveandproperlyconfiguredhoses.
+11 (5) Properlyconnectedairinjectionpump/pulseairsystems.
+12 (b) The commissioner of the department of safety, in accordance with applicable federal
+13 laws and regulations, and in consultation with the commissioner of environmental services, may
+14 adopt rules under RSA 541-A to exempt vehicles from those requirements of this section that would
+15 requirereplacementofpartsforwhichreplacementscannotbereasonablyobtained.
+16 (c) The commissioner of the department of safety, subject to conditions approved in
+17 advance by the federal Environmental Protection Agency (EPA), and after public hearing and
+18 consultation with the commissioner of the department of environmental services and the air
+19 pollution advisory committee, and notification of the house science, technology, and energy
+20 committee and the senate environment committee, and with the approval of the air pollution
+21 advisory committee, may modify the vehicle emission control inspection program by substituting the
+22 exhaust gas recirculation system for one or more of the items in subparagraphs I(a)(4) and I(a)(5),
+23 provided that the total effect of such change is determined to produce a net environmental
+24 improvement.
+25 II. [Repealed.]
+26 III. The commissioner, after public hearing and consultation with the commissioner of the
+27 department of environmental services and the air pollution advisory committee, and notification of
+28 the house science, technology, and energy committee and the senate environment committee, and
+29 with the approval of the air pollution advisory committee, shall adopt rules under RSA 541-A, which
+30 require motor vehicles equipped with an on-board diagnostic system meeting federal EPA OBD II
+31 (On-Board Diagnostics) standards that are driven on the ways of this state and which are subject to
+32 inspection under this chapter, after a date specified by the commissioner, to be tested for OBD II
+33 indications of failures as a component of the inspection. Vehicles subject to this requirement shall
+34 include model year 1997 and newer diesel-powered motor vehicles and model year 1996 and newer
+35 motor vehicles powered by any other fuel source. To the extent allowed by EPA OBD II policy, OBD
+36 IIdatamaybesubstitutedforvisualandfunctionaltestsrequiredbyparagraphI.
+
+HB1560-FN-ASINTRODUCED
+-Page9-
+1 IV. This section shall not apply to vehicles 20 or more model years old, which shall be
+2 determined by subtracting the model year of the vehicle from the calendar year in which the
+3 inspectionoccurs,ortovehiclesdeterminedbythedirectortoberareorhistoricallysignificant.
+4 V. If a vehicle fails the EPA OBD II test and it passes all other inspection requirements
+5 under this chapter, then it shall be issued a temporary waiver that permits its operation for 60 days
+6 from the date of issuance in order to make required repairs. A vehicle shall be eligible for only one
+7 such waiver during its inspection cycle. The department shall adopt rules, pursuant to RSA 541-A,
+8 that have the effect of establishing the broadest possible waivers for consumers consistent with 40
+9 C.F.R. sections 51.350 through 51.373. It is the intent of the legislature to provide appropriate
+10 waiverstopersonsforwhomthemakingofOBDIIrepairswouldconstituteeconomichardship. The
+11 committee established in paragraph VII shall make recommendations for such waivers, and the
+12 department shall consider such recommendations during the rulemaking process required by this
+13 paragraph.
+14 VI. If a vehicle fails the EPA OBD II test and the owner fails to make the required repairs,
+15 the owner may not sell the vehicle without informing the purchaser of the OBD II failure. If the
+16 owner fails to inform the purchaser of the OBD II failure, the purchaser shall be entitled to a refund
+17 ofthepurchasepriceandreasonableattorney'sfees.
+18 VII.(a) There is established an OBD II testing advisory committee. The committee shall be
+19 composedofthefollowing:
+20 (1) Tworepresentatives,appointedbythespeakerofthehouseofrepresentatives.
+21 (2) Onesenator,appointedbythepresidentofthesenate.
+22 (3) The director of the division of motor vehicles of the department of safety, or
+23 designee.
+24 (4) [Repealed.]
+25 (5) Thecommissionerofenvironmentalservices,ordesignee.
+26 (6) One member nominated by the New Hampshire Automobile Dealers Association
+27 andappointedbythegovernor.
+28 (b) Members' terms shall be coterminous with their terms in office, except that the
+29 member appointed pursuant to subparagraph (a)(6) shall serve at the discretion of the appointing
+30 authority.
+31 (c) Thecommitteeshall:
+32 (1) Review and make recommendations on any contracts between the state and any
+33 privateentitiesrelatingtoOBDIItesting.
+34 (2) Review program operations on any contracts between the state and any private
+35 entitiesrelatingtoOBDIItesting.
+36 (3) Make recommendations for statutory and rules changes to the amounts and
+37 typesofrepairwaiversgrantedintheOBDIItestingprogram.
+
+HB1560-FN-ASINTRODUCED
+-Page10-
+1 (4) Meetatleastannuallyandmoreoftenasneeded.
+2 (5) Submit a report at least biennially or as needed to the governor, senate
+3 president, and speaker of the house of representatives by November 1st of odd-numbered years on
+4 theoperationofthemotorvehicleinspectionandemissionstestingprogram.
+5 14 Emergency and Warning Lights; Duties of Official Inspection Stations. RSA 266:78-o is
+6 reenactedtoreadasfollows:
+7 266:78-o EmergencyandWarningLights;DutiesofOfficialInspectionStations.
+8 I. Official inspection stations shall not issue an inspection sticker to a vehicle equipped with
+9 emergency lights or warning lights except as authorized in this subdivision. No permit shall be
+10 requiredforsuchlightsifequippedinaccordancewiththissubdivision.
+11 II. Public safetyand emergencymedicalpersonnel presentingtheir privatelyowned vehicles
+12 for inspection shall present to the person conducting the inspection an official departmental photo
+13 identification or an official identification card or badge from their department. A letter on official
+14 stationery from their employer signed by the head of the organization authorizing the lights shall be
+15 carried in the vehicle and displayed to any law enforcement officer upon request. Failure to display
+16 such authorization shall be prima facie evidence that the vehicle was equipped in violation of this
+17 subdivision.
+18 III. The commissioner of safety, by rule adopted pursuant to RSA 541-A, may determine the
+19 locationandmethodofuseofemergencylightsandwarninglights.
+20 15 AmendRSA266:1,VIIItoreadasfollows:
+21 VIII. A new vehicle which has been delivered in this state with a certificate of origin in the
+22 form prescribed by the director is exempt from the inspection requirements contained in this section
+23 until it is sold at retail. Upon retail sale of such a vehicle, the owner shall be [required to have]
+24 exempt from the vehicle [inspected pursuant to paragraph IV and as provided] inspection
+25 requirements in this section and the rules adopted under this chapter for a period not to exceed
+26 morethan3years.
+27 16 Repeal. Thefollowingarerepealed:
+28 I. 2025,141:254,relativetoalteringtheemissionstestingprogram.
+29 II. 2025,141:255,relativetothecontingencysectionrelatedtoalteringtheemissionstesting
+30 program.
+31 III. 2025,141:256,II,relativetothecontingencysectioneffectivedate.
+32 17 EffectiveDate.
+33 I. Section11ofthisactshalltakeeffectJanuary1,2027,at12:01am.
+34 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2308
+12/5/25
+HB1560-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoannualmotorvehicleinspectionstandardsandreinstatement.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Approximately Approximately$5,000,000
+Revenue $0
+$2,500,000 PerYear
+GeneralFund,HighwayFund,andMotorVehicleAirPollutionAbatement
+RevenueFund(s)
+Fund
+DMVPositions
+$114,000inFY2027
+and$144,000inFY2028
+Expenditures* $0
+ApportionmentAPaymentstoMunicipalities
+Approximately$246KinFY2028
+and$492KinFY2029
+HighwayFundandRestricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource(s)
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriortofunds
+beingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+Approximately Approximately
+LocalRevenue $0 $0
+$246,000 $492,000
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill, effective January 1, 2027, reenacts and updates multiple sections of RSA 260 and RSA
+266 relating to vehicle inspection requirements. Under the proposed language, most vehicles
+would remain subject to annual inspection, however, newly purchased vehicles would be exempt
+frominspectionrequirementsforuptothreeyearsfromthedateofretailsale,asspecifiedinthe
+amendedRSA266:1,VIII.
+
+This bill reenacts the recently repealed vehicle inspection provisions under RSA 266 and
+maintains the $3.25 state fee collected for each inspection sticker issued. Of this amount, $0.25
+is deposited into the Motor Vehicle Air Pollution Abatement Fund, $0.25 is deposited into the
+General Fund, and the remaining $2.75 supports the Highway Fund. As of February 1, 2026,
+the loss of $3.25 per inspection for all inspections conducted (1,565,361 inspections in 2024) will
+reducestaterevenuebyapproximately$5,087,423.25basedoninspectionsperformedin2024:
+Total
+Fund Fee #Inspections Revenue
+HighwayFund $2.75 1,565,361 $4,304,743
+GeneralFund $0.25 1,565,361 $391,340
+MVAirPollutionAbatementFund $0.25 1,565,361 $391,340
+Total $5,087,423
+Under the law set for repeal as of January 31, 2026, newly registered vehicles are required to
+undergo annual inspections beginning in their first year of registration. The proposed language
+would exempt new vehicles from inspection until their third model year. Based on 2024 data,
+approximately 109,107 new-model vehicles were inspected statewide. To this extent,
+approximately 110,000 vehicles would only be inspected every third year, impacting the revenue
+outlinedintheprevioustable:
+Total
+Fund Fee #Inspections Revenue
+HighwayFund $2.75 109,107 $300,044
+GeneralFund $0.25 109,107 $27,277
+MVAirPollutionAbatementFund $0.25 109,107 $27,277
+Total $354,598
+Based on the above, it appears highway fund revenue could increase by approximately
+$4,100,000 per year. Pursuant to RSA 235:23 (“Apportionment A”), 12 percent of highway fund
+road toll and motor vehicle fee revenue collected is distributed to municipalities in the year
+following collection. Therefore, this bill would also increase state expenditures and local
+revenue, beginning in FY 2028, by approximately $492,000 per year. It should be noted that
+revenue impacts outlined above would be halved in the fiscal year one of implementation, as the
+effectivedateofthisbillisJanuary1,2027. Forinformationalpurposes,thebudgetedestimated
+impact to highway fund revenue for the repeal of passenger vehicle inspections for FY 2027 was
+$3,300,000.
+In addition, the Department states that any entity requesting to operate as an official inspection
+station would need to apply to the Division of Motor Vehicles (DMV) to be an inspection station
+
+and go through theapproval process. This approval process includes receiving anin person visit
+from a DMV representative to verify location and signage. This reenactment will also require
+any certified mechanics who have not performed an official inspection in more than one year to
+attend recertification classes. The Department states this process will require the need to hire
+two (2) additional temporary staff members to handle the influx of stations re-certifying into the
+programing. The estimated cost of these positions (license clerk, SOC 43-03) assuming a start
+date of 10/01/26 and an end date of 06/30/28, would be $114,000 in FY 2027 and $144,000 in FY
+2028. Thisbillprovidesneitherauthorizationnorappropriationfornewpersonnel.
+AGENCIESCONTACTED:
+DepartmentofSafety

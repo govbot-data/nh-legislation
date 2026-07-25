@@ -1,0 +1,155 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1725-FN-ASINTRODUCED
+2026SESSION
+26-2812
+06/08
+1725-FN
+HOUSEBILL
+ANACT relativetotheregulationofartificialintelligencetechnologies.
+SPONSORS: Rep.Long,Hills.26
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesanewchaptertoregulatethedevelopment,deployment,anduseofartificial
+intelligenceinNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1725-FN-ASINTRODUCED
+26-2812
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheregulationofartificialintelligencetechnologies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Responsible Artificial Intelligence Governance. Amend RSA by inserting after
+2 chapter359-Uthefollowingnewchapter:
+3 CHAPTER359-V
+4 RESPONSIBLEARTIFICIALINTELLIGENCEGOVERNANCE
+5 359-V:1 Definitions. Inthischapter:
+6 I. "Artificial intelligence system" means any machine-based system that, through machine
+7 learning, neural networks, or other adaptive algorithmic techniques, is capable of learning from
+8 data, improving performance, or making autonomous decisions or predictions. This term excludes
+9 classical statistical tools, rule-based expert systems, deterministic algorithms, and control systems
+10 withoutadaptiveorautonomousfeatures.
+11 II. "Biometric identifier" means a retina or iris scan, fingerprint, voiceprint, or record of
+12 handorfacegeometry.
+13 III. "Council" means the New Hampshire artificial intelligence council established pursuant
+14 tothischapter.
+15 IV. "Consumer" means an individual residing in this state acting in an individual or
+16 householdcontext.
+17 359-V:2 Applicability.
+18 I. This chapter shall apply to any person, business, or governmental entity conducting
+19 business in New Hampshire, offering products or services to state residents, or developing or
+20 deployingartificialintelligencesystemsinthisstate.
+21 II. This chapter supersedes and preempts any ordinance, regulation, or rule adopted by a
+22 political subdivision regarding the use of artificial intelligence systems, unless expressly authorized
+23 bystatelaw.
+24 359-V:3 AdministrationandCouncil.
+25 I. There is established the New Hampshire artificial intelligence council, administratively
+26 attachedtothedepartmentofinformationtechnology.
+27 II. The council shall include 7 members: 3 appointed by the governor, 2 by the senate
+28 president, and 2 by the speaker of the house. All members shall have demonstrated expertise in
+29 artificialintelligence,ethics,dataprivacy,publicpolicy,orrelatedfields.
+
+HB1725-FN-ASINTRODUCED
+-Page2-
+1 III. The council shall advise the state on ethical and transparent development, deployment,
+2 and oversight of artificial intelligence systems, including annually reporting to the governor and
+3 legislature.
+4 359-V:4 GeneralDutiesandProhibitions.
+5 I. Stateagenciesandanypersonsubjecttothischaptershall:
+6 (a) Provide clear and conspicuous disclosure to consumers when interacting with an
+7 artificial intelligence system, including in health care contexts except in emergencies, in which case
+8 noticeshallbeprovidedassoonaspracticable.
+9 (b) Not develop or deploy an artificial intelligence system with the intent to unlawfully
+10 discriminate against protected classes under state or federal law. Disparate impact alone is
+11 insufficienttodemonstrateintent.
+12 (c) Not develop or deploy an artificial intelligence system for the purpose of social
+13 scoring, manipulation aimed at causing self-harm or criminal acts, or infringing rights under the
+14 UnitedStatesorNewHampshireconstitutions.
+15 II. Governmental entities shall not deploy artificial intelligence systems for the purpose of
+16 uniquelyidentifyingindividuals usingbiometric identifiers or collectingbiometric datafrom publicly
+17 availablesourceswithout validconsent, unlessotherwisepermitted forsecurity, lawenforcement, or
+18 fraudprevention.
+19 359-V:5 RegulatorySandbox.
+20 I. There is established an artificial intelligence regulatory sandbox program, administered
+21 bythedepartmentofinformationtechnologyinconsultationwiththecouncil.
+22 II. The sandbox enables approved participants to test innovative artificial intelligence
+23 systems on a limited basis for up to 36 months, subject to oversight and quarterly reporting
+24 requirements. NowaiverispermittedforprohibitionsunderRSA359-V:4.
+25 III. The department may recommend participants be removed from the program for undue
+26 risktopublicsafetyorviolationsofapplicablelaws.
+27 359-V:6 Enforcement.
+28 I. Theattorneygeneralshallhaveexclusiveauthoritytoenforcethischapter.
+29 II. Upon determination of a violation, the attorney general shall provide written notice,
+30 allowing 60 days for cure. Civil penalties for uncured violations may be imposed up to $200,000 per
+31 violation, and for continuing violations, up to $40,000 per day. Enhanced penalties apply for
+32 systematicoregregiousconduct.
+33 III. Noprivaterightofactioniscreatedbythischapter.
+34 359-V:7 Severability. If any provision of this chapter or the application thereof to any person or
+35 circumstance is held invalid, such invalidity shall not affect other provisions or applications of this
+36 chapterwhichcanbegiveneffectwithouttheinvalidprovisionorapplication.
+37 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2812
+12/12/25
+HB1725-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheregulationofartificialintelligencetechnologies.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+RevenueFund(s) DOJAgencyIncome
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+$235,000+ $237,000+ $243,000+
+FundingSource(s) DOJAgencyIncome,GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the Responsible Artificial Intelligence (AI) Governance law to regulate the
+development,deployment,anduseofartificialintelligenceinNewHampshire.
+The Department of Information Technology (DoIT) indicates that the bill's language largely
+overlaps with existing statutes (RSA 5-D) governing Executive Branch agency use of AI. DoIT
+states it can manage the AI Council, host biannual meetings, and publish results online, as
+already required under current law. Expanding applicability beyond Executive Branch agencies
+fall outside DoIT’s statutory requirements and expertise. Consequently, DoIT is unable to
+determine the financial impact of these broader responsibilities, rendering state expenditure
+estimates indeterminable. While the regulatory sandbox concept is already being implemented
+in collaboration with agencies, the bill’s language is too vague to assess additional costs.
+Additionally, DoIT states that its existing budget cannot absorb any new expenses, and full
+implementation would necessitate the creation of a statewide AI oversight and enforcement
+body,representingasubstantialundertaking.
+The Department of Justice (DOJ) indicates that this bill would significantly increase the
+Department’s responsibilities by requiring it to investigate and enforce violations related to AI
+use. The Department anticipates a rise in complaints and enforcement actions and estimates it
+
+would need at least one additional attorney and one investigative paralegal to meet these
+obligations. The fiscal impact is considered indeterminable due to uncertainty about the volume
+of cases, but estimated costs for staffing and related expenses range from $235,000 in FY 2026,
+$235,000 in FY 2027, and $243,000 in FY 2028. See the cost breakdown by position below.
+Additionally, revenue from penalties is uncertain as the bill gives the violator 60 days from the
+written notice from the Attorney General to fix the violation. The Department can charge up to
+$200,000perviolation.
+ESTIMATEDFISCALIMPACT(ROUNDED)
+FY2026 FY2027 FY2028
+InvestigativeParalegalSalary,Benefits, $98,000 $99,000 $103,000
+OtherCosts(computer,etc)(1position)
+Full-TimeAttorney Salary,Benefits, $137,000 $138,000 $140,000
+OtherCosts(computer,etc)(1position)
+TotalEstimatedCost $235,000 $237,0000 $243,000
+AGENCIESCONTACTED:
+DepartmentofJusticeandDepartmentofInformationTechnology

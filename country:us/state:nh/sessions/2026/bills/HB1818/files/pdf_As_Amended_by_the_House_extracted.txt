@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1818-FN-ASAMENDEDBYTHEHOUSE
+5Mar2026...0794h
+2026SESSION
+26-2494
+07/08
+1818-FN
+HOUSEBILL
+ANACT requiring the department of education to use its 10-year school facilities plans to
+planandprojectoutbuildingconsolidationprojects.
+SPONSORS: Rep.Ladd,Graf.5
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the department of education to use its 10-year school facilities plans to plan
+andprojectoutbuildingconsolidationprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1818-FN-ASAMENDEDBYTHEHOUSE
+5Mar2026...0794h 26-2494
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to use its 10-year school facilities plans to
+planandprojectoutbuildingconsolidationprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; School Building Aid; Grant for School Construction. Amend RSA 198:15-a, V to
+2 readasfollows:
+3 V. Thedepartmentofeducationshalldevelopandmaintaina10-yearschoolfacilitiesplanof
+4 potential school building grant projects. Potential projects shall include, but not be limited to,
+5 criteria pursuant to RSA 198:15-c, II(b). The 10-year plan is intended to create a method to identify
+6 and enhance school facilities in a safe, healthy, and efficient manner while providing adequate
+7 learning environments for New Hampshire's students. The 10-year plan shall be updated every
+8 biennium to provide the department a summary of projects and school facility capital expenditures
+9 that are anticipated for the next 10 years. The plan shall identify new construction, renovation, and
+10 emergency projects, and describe the overall condition of projects contained in the plan. In support
+11 of the 10-year plan, it is recommended that each district shall have in place and provide the
+12 department a long-range capital improvement program that identifies school facility goals, provides
+13 projected expenditures, and outlines procedures and guidelines to be followed to accomplish goals.
+14 Each district [is encouraged to] shall review and update the district's anticipated school facility
+15 capital improvement plan on a 2-year recurring basis or as needed. The department shall use this
+16 information to better plan, prioritize, and project new anticipated capital construction [and],
+17 building consolidation, and renovation expenditures relative to the state building aid program.
+18 The state board of education shall adopt rules pursuant to RSA 541-A relative to this [paragraph]
+19 section.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2494
+Revised04/07/2026
+HB1818-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0794h)
+ANACT requiring the department of education to use its 10-year school facilities plans to
+planandprojectoutbuildingconsolidationprojects.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $88,000 $109,000 $113,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill changes current law by requiring, rather than encouraging, school districts to regularly
+update capital improvement plans. This bill also requires the Department of Education to use
+this information to plan, prioritize, and project building consolidation projects under the state
+building aid program (in addition to construction and renovation, which are required under
+current law). The Department states it does not currently have the staffing resources to
+complete the work required by this bill. The Department states it would need to add one
+position (SOC 11-04) with an estimated cost of $88,000 for FY 2027, $109,000 for FY 2028, and
+$113,000 for FY 2029 (assuming a start date of September 1, 2026). There is no direct
+authorizationforfundinganewpositioninthisbill.
+The Department expects there would be an increase in local school district expenditures as this
+bill changes the requirement from “may” to “shall” for school districts to have in place and
+provide to the Department a long-range facility capital improvement program. The Department
+
+does not know which districts currently maintain such a program, and if they do, does it meet
+the specific requirements of this bill. Impacts, if any, are indeterminable and would vary by
+district.
+AGENCIESCONTACTED:
+DepartmentofEducation

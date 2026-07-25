@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1452-FN-ASINTRODUCED
+2026SESSION
+26-2853
+06/09
+1452-FN
+HOUSEBILL
+ANACT relative to parent-taught driver education as an alternative to traditional driver
+educationprograms.
+SPONSORS: Rep.Ankarberg,Straf.7;Rep.Prout,Hills.13;Sen.Lang,Dist2
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the commissioner to waive the driver education course requirement for youth
+operator license applicants if a parent, guardian, or other responsible adult provides equivalent
+instructionandtraining.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1452-FN-ASINTRODUCED
+26-2853
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to parent-taught driver education as an alternative to traditional driver
+educationprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 OriginalandYouthOperators'Licenses. AmendRSA263:14,II(a)toreadasfollows:
+2 II.(a) Thedirectorshallissueayouthoperator'slicensetoapplicantswhoare16yearsofage
+3 or older and under 21 years of age. The youth operator license shall expire on the 21st anniversary
+4 of the applicant's date of birth. In addition to any other requirements established by law, no such
+5 license shall be issued to applicants under 18 years of age unless the applicant meets the
+6 requirements of RSA 263:17 or furnishes written consent from the applicant's parent or legal
+7 guardianandeither acertificateofsuccessful completionof adriver educationcourse asprovided in
+8 RSA263:19orawaiverasprovidedinRSA263:19,V.
+9 2 New Paragraph; Driver Education. Amend RSA 263:19 by inserting after paragraph IV the
+10 followingnewparagraph:
+11 V. Thecommissionermaywaivethedrivereducationcourserequirementifafather,mother,
+12 or guardian of the applicant, or in the event there is no parent or guardian, another responsible
+13 adult, submits proof that the father, mother, or guardian of the applicant, or in the event there is no
+14 parent or guardian, another responsible adult, who has a valid New Hampshire driver's license, has
+15 provided classroom instruction and behind the wheel training that is equivalent to an approved
+16 drivereducationcourse.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2853
+11/24/25
+HB1452-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to parent-taught driver education as an alternative to traditional driver
+educationprograms.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $134,000 $138,000 $145,000
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill authorizes the Department of Safety to establish a waiver for the driver education
+courserequirement if aparent,guardian, or other responsibleadult provides equivalent training
+and instruction. The Department states it would need one new attorney position to manage this
+workload, develop standardized review protocols, and support program oversight and
+rulemaking. The estimated cost for this position would be $134,000 in FY 2027, $138,000 in FY
+2028, and $145,000 in FY 2029. It should be noted that this bill provides neither authorization
+norappropriationfornewpersonnel.
+AGENCIESCONTACTED:
+DepartmentofSafety

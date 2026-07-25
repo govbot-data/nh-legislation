@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1380-LOCAL-ASINTRODUCED
+2026SESSION
+26-2918
+07/08
+1380-LOCAL
+HOUSEBILL
+ANACT requiring the assessment of real property and land be based on replacement or
+cost-basedvalue.
+SPONSORS: Rep. Potenza, Straf. 19; Rep. Burnham, Straf. 2; Rep. DeRoy, Straf. 3; Rep. Grote,
+Rock.24;Rep.Osborne,Rock.2;Rep.Wheeler,Hills.33
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that the assessment of real property and land be based on its replacement- or
+cost-basedvalue.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1380-LOCAL-ASINTRODUCED
+26-2918
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the assessment of real property and land be based on replacement or
+cost-basedvalue.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybecitedasthe"ReplacementValuePropertyAssessmentAct."
+2 2 StatementofPurpose. Thegeneralcourtherebyfindsthat:
+3 I. Basing property tax assessments on speculative market prices can result in unfair tax
+4 burdens,especiallyduringrapidfluctuationsintherealestatemarket.
+5 II. Assessments for both improvements and land ought to be based upon replacement or
+6 cost-basedvalue, not fair market value, withprotections for taxpayers and municipalities duringthe
+7 transitionperiodbeginningwithDecember2026assessments.
+8 3 Taxation; Appraisal of Taxable Property; How Appraised. RSA 75:1, I-III is repealed and
+9 reenactedtoreadasfollows:
+10 I. Except as otherwise provided by law, the selectmen shall appraise all taxable real
+11 property, including both improvements and the underlying land, at its replacement or cost-based
+12 valueratherthanatestimatedfairmarketvalue.
+13 (a) For buildings and other improvements, “replacement value” means the cost, at the
+14 time of appraisal, to reconstruct or replace the property with materials of like kind and quality, less
+15 depreciation.
+16 (b) For land, “replacement or cost-based value” means the value derived from the
+17 objective costs of preparing comparable land for its existing use, including infrastructure and
+18 permittedimprovements,andshallnotincludespeculativepremiumsorinflatedmarketprices.
+19 II. The commissioner of the department of revenue administration shall adopt rules under
+20 RSA 541-A to establish uniform standards and methodologies for determining replacement or cost-
+21 based value for both improvements and land, including approved cost manuals, depreciation
+22 schedules,andland-preparationcostfactors.
+23 III. All references in state law or local ordinance to “fair market value” for purposes of
+24 property tax assessment shall be deemed to mean “replacement or cost-based value” after July 1,
+25 2026.
+26 4 New Sections; Transition to Replacement or Cost-Based Value. Amend RSA 75 by inserting
+27 aftersection1-athefollowingnewsections:
+28 75:1-b TransitiontoReplacementorCost-BasedValue.
+29 I. For the tax assessments used to produce the December 2026 final tax bills, each
+30 municipalityshallassesstaxablerealpropertyusingablendedvalueconsistingof:
+
+HB1380-LOCAL-ASINTRODUCED
+-Page2-
+1 (a) 50percentoftheassessmentundertheformerfairmarketvaluemethod,and
+2 (b) 50percentunderthereplacementorcost-basedvaluemethoddescribedinRSA75:1.
+3 II. Forthe2027taxyear:
+4 (a) First-half 2027 tax bills: 50 percent fair market value / 50 percent replacement or
+5 cost-basedvalue;
+6 (b) Second-half 2027 tax bills: 25 percent fair market value / 75 percent replacement or
+7 cost-basedvalue.
+8 III. Beginning with all assessments for the 2028 tax year and thereafter, property shall be
+9 assessedsolelyunderthereplacementorcost-basedvaluesystem.
+10 75:1-c Revenue Neutrality. No municipality shall increase its total property-tax levy solely due
+11 to the change in assessment methodology required by RSA 75:1 or 75:1-b. Any increase in total
+12 property-tax revenue during or after the transition must result from duly adopted budgetary, rate,
+13 orlevyactionsunderexistinglaw.
+14 75:1-d Taxpayer Appeal Rights. Any taxpayer who believes the replacement or cost-based
+15 assessment of their property has been improperly calculated may appeal such assessment under the
+16 same procedures and deadlines established under RSA 75 and RSA 76. The department of revenue
+17 administration shall develop and publish a standard appeal form and guidance for use during the
+18 transitionperiodandthereafter.
+19 5 New Section; Annual Report. Amend RSA 75 by inserting after section 1-d the following new
+20 section:
+21 75:1-e Annual Report. Beginning in the 2028 tax year, the commissioner of the department of
+22 revenue administration shall submit an annual report to the speaker of the house of representatives
+23 and the president of the senate, and publicly post the report on the department’s website. The
+24 reportshallinclude:
+25 I. Thenumberandoutcomeoftaxpayerappealsunderthereplacement-valuesystem;
+26 II. The average changes in assessed value compared to what those values would have been
+27 undertheformerfairmarketvaluesystem;and
+28 III. Any recommendations for adjustments or improvements to the replacement or cost-
+29 basedvalueassessmentmethodology.
+30 6 Applicability. Section 3 through 5 of this act shall apply to assessments used to produce
+31 December2026taxbillsandallsubsequenttaxbills.
+32 7 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

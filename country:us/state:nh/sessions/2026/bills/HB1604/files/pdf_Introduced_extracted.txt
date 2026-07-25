@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1604-FN-ASINTRODUCED
+2026SESSION
+26-3195
+08/07
+1604-FN
+HOUSEBILL
+ANACT requiring suitable public facilities such as schools and town halls be made
+availableaspollingplacesuponrequestbylocalelectionofficials.
+SPONSORS: Rep. Guzofski, Rock. 1; Rep. Berry, Hills. 44; Rep. Qualey, Ches. 18; Rep. See,
+Merr.26;Rep.Wherry,Hills.13;Rep.Burnham,Straf.2;Rep.Muirhead,Graf.12
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires suitable public facilities such as schools and town halls be made available as
+pollingplacesuponrequestbylocalelectionofficials.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1604-FN-ASINTRODUCED
+26-3195
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring suitable public facilities such as schools and town halls be made
+availableaspollingplacesuponrequestbylocalelectionofficials.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Use of Public Buildings as Polling Places. Amend RSA 658 by inserting after
+2 section9-athefollowingnewsection:
+3 658:9-b UseofPublicBuildingsasPollingPlaces.
+4 I. Upon request by the selectmen of a town or the ward officers of a city ward, any town- or
+5 city-owned facility within the town or ward, including schools, town halls, fire stations, or other
+6 municipal or school district property, that is of sufficient size and accessibility to meet the
+7 requirements of RSA 658:9, shall be made available for use as a polling place for all elections,
+8 includingstate,federal,andmunicipalelections.
+9 II. Whendesignated as apollingplace, suchfacilityshall bereserved as necessaryto ensure
+10 the conduct of the election and the free and convenient access of voters, election officials, and
+11 equipment, while permitting the continuation of normal governmental or educational operations,
+12 includingemergencyresponseandpublicsafetyservices.
+13 III. The municipality shall be responsible for reasonable costs directly related to such use,
+14 includingcustodialservices,utilities,andsecurity,unlessotherwiseagreedbytheparties.
+15 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3195
+12/3/25
+HB1604-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring suitable public facilities such as schools and town halls be made
+availableaspollingplacesuponrequestbylocalelectionofficials.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncreasemorethan$10,000to
+LocalExpenditures $0
+$100,000orless
+METHODOLOGY:
+This bill requires any suitable city or town owned facility within the town or ward, such as
+schools, fire stations, and town halls, be made available as polling places upon request by the
+selectmen of a town or the ward officers of a city ward. The municipality would be responsible
+for reasonable costs associated with custodial services, utilities, and security unless otherwise
+agreeduponbytherelevantpartiesinvolved.
+The New Hampshire Municipal Association states adding an additional polling location could
+increase local expenditures by approximately $10,000 to $100,000, primarily for staffing and
+essential services. Furthermore, legal expenses may arise if disputes occur between facility and
+municipalofficialsregardingwhatconstitutesreasonablecosts.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

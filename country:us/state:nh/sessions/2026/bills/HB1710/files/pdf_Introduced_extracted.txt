@@ -1,0 +1,344 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1710-FN-ASINTRODUCED
+2026SESSION
+26-2694
+09/06
+1710-FN
+HOUSEBILL
+ANACT relativetoproceduresrelatingtochildabduction.
+SPONSORS: Rep. Markell, Rock. 18; Rep. DeSimone, Rock. 18; Rep. Litchfield, Rock. 32; Rep.
+Lynn,Rock.17;Rep.Nelson,Rock.13;Rep.M.Pearson,Rock.34
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbilladoptstheUniformChildAbductionPreventionActtogovernactionsseekingabduction
+preventionmeasures.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1710-FN-ASINTRODUCED
+26-2694
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoproceduresrelatingtochildabduction.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Uniform Child Abduction Prevention Act. Amend RSA by inserting after
+2 chapter458-Ethefollowingnewchapter:
+3 CHAPTER458-F
+4 UNIFORMCHILDABDUCTIONPREVENTIONACT
+5 458-F:1 Short Title. This chapter may be cited as the "Uniform Child Abduction Prevention
+6 Act."
+7 458-F:2 Definitions. Inthischapter:
+8 I. “Abduction”meansthewrongfulremovalorwrongfulretentionofachild.
+9 II. “Child”meansanunemancipatedindividualwhoislessthan18yearsofage.
+10 III. “Child-custody determination” means a judgment, decree, or other order of a court
+11 providing for the legal custody, physical custody, or visitation with respect to a child. The term
+12 includesapermanent,temporary,initial,andmodificationorder.
+13 IV. “Child-custody proceeding” means a proceeding in which legal custody, physical custody,
+14 or visitation with respect to a child is at issue. The term includes a proceeding for divorce,
+15 dissolution of marriage, separation, neglect, abuse, dependency, guardianship, paternity,
+16 terminationofparentalrights,orprotectionfromdomesticviolence.
+17 V. “Court” means an entity authorized under the law of a state to establish, enforce, or
+18 modifyachild-custodydetermination.
+19 VI. “Petition”includesamotionoritsequivalent.
+20 VII. “Record” means information that is inscribed on a tangible medium or that is stored in
+21 anelectronicorothermediumandisretrievableinperceivableform.
+22 VIII. “State” means a state of the United States, the District of Columbia, Puerto Rico, the
+23 United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the
+24 UnitedStates. ThetermincludesafederallyrecognizedIndiantribeornation.
+25 IX. “Travel document” means records relating to a travel itinerary, including travel tickets,
+26 passes, reservations for transportation, or accommodations. The term does not include apassport or
+27 visa.
+28 X. “Wrongful removal” means the taking of a child that breaches rights of custody or
+29 visitationgivenorrecognizedunderthelawofthisstate.
+30 XI. “Wrongful retention” means the keeping or concealing of a child that breaches rights of
+31 custodyorvisitationgivenorrecognizedunderthelawofthisstate.
+
+HB1710-FN-ASINTRODUCED
+-Page2-
+1 458-F:3 Cooperation and Communication Among Courts. RSA 458-A:9, 458-A:10, and 458-A-11
+2 shallapplytocooperationandcommunicationsamongcourtsinproceedingsunderthischapter.
+3 458-F:4 ActionsforAbductionPreventionMeasures.
+4 I. A court on its own motion may order abduction prevention measures in a child-custody
+5 proceedingifthecourtfindsthattheevidenceestablishesacredibleriskofabductionofthechild.
+6 II. A party to a child-custody determination or another individual or entity having a right
+7 underthelaw ofthis stateoranyother statetoseek achild-custodydeterminationforthechild may
+8 fileapetitionseekingabductionpreventionmeasurestoprotectthechildunderthischapter.
+9 III. A prosecutor or public authority designated under RSA 458-A:36 may seek a warrant to
+10 takephysicalcustodyofachildunderRSA458-F:9orotherappropriatepreventionmeasures.
+11 458-F:5 Jurisdiction.
+12 I. A petition under this chapter may be filed only in a court that has jurisdiction to make a
+13 child-custodydeterminationwithrespecttothechildatissueunderRSA458-A.
+14 II. A court of this state has temporary emergency jurisdiction under RSA 458-A:15 if the
+15 courtfindsacredibleriskofabduction.
+16 458-F:6 ContentsofPetition.
+17 I. A petition under this chapter shall be verified and include a copy of any existing child-
+18 custodydetermination,ifavailable.
+19 II. The petition shall specify the risk factors for abduction, including the relevant factors
+20 describedinRSA458-F:7.
+21 III. SubjecttoRSA458-A:20,V,ifreasonablyascertainable,thepetitionshallcontain:
+22 (a) Thename,dateofbirth,andgenderofthechild;
+23 (b) Thecustomaryaddressandcurrentphysicallocationofthechild;
+24 (c) Theidentity,customaryaddress,andcurrentphysicallocationoftherespondent;
+25 (d) A statement of whether a prior action to prevent abduction or domestic violence has
+26 been filed by a party or other individual or entity having custody of the child, and the date, location,
+27 anddispositionoftheaction;
+28 (e) A statement of whether a party to the proceeding has been arrested for a crime
+29 related to domestic violence, stalking, or child abuse or neglect, and the date, location, and
+30 dispositionofthecase;and
+31 (f) Any other information required to be submitted to the court for a child-custody
+32 determinationunderRSA458-A:20.
+33 458-F:7 FactorstoDetermineRiskofAbduction.
+34 I. In determining whether there is a credible risk of abduction of a child, the court shall
+35 consideranyevidencethatthepetitionerorrespondent:
+36 (a) Haspreviouslyabductedorattemptedtoabductthechild;
+37 (b) Hasthreatenedtoabductthechild;
+
+HB1710-FN-ASINTRODUCED
+-Page3-
+1 (c) Hasrecentlyengagedinactivitiesthatmayindicateaplannedabduction,including:
+2 (1) Abandoningemployment;
+3 (2) Sellingaprimaryresidence;
+4 (3) Terminatingalease;
+5 (4) Closing bank or other financial management accounts, liquidating assets, hiding
+6 ordestroyingfinancialdocuments,orconductinganyunusualfinancialactivities;
+7 (5) Applying for a passport or visa or obtaining travel documents for the respondent,
+8 afamilymember,orthechild;or
+9 (6) Seekingtoobtainthechild'sbirthcertificateorschoolormedicalrecords;
+10 (d) Hasengagedindomesticviolence,stalking,orchildabuseorneglect;
+11 (e) Hasrefusedtofollowachild-custodydetermination;
+12 (f) Lacks strong familial, financial, emotional, or cultural ties to the state or the United
+13 States;
+14 (g) Hasstrongfamilial,financial,emotional,orculturaltiestoanotherstateorcountry;
+15 (h) Islikelytotakethechildtoacountrythat:
+16 (1) Is not a party to the Hague Convention on the Civil Aspects of International
+17 Child Abduction and does not provide for the extradition of an abducting parent or for the return of
+18 anabductedchild;
+19 (2) Is a party to the Hague Convention on the Civil Aspects of International Child
+20 Abductionbut:
+21 (A) The Hague Convention on theCivil Aspects of International Child Abduction
+22 isnotinforcebetweentheUnitedStatesandthatcountry;
+23 (B) Isnoncompliantaccordingtothemostrecentcompliancereportissuedbythe
+24 UnitedStatesDepartmentofState;
+25 (C) Lacks legal mechanisms for immediately and effectively enforcing a return
+26 orderundertheHagueConventionontheCivilAspectsofInternationalChildAbduction;
+27 (D) Poses a risk that the child’s physical or emotional health or safety would be
+28 endangered in the country because of specific circumstances relating to the child or because of
+29 humanrightsviolationscommittedagainstchildren;
+30 (E) Haslawsorpracticesthatwould:
+31 (i) Enable the respondent, without due cause, to prevent the petitioner from
+32 contactingthechild;
+33 (ii) Restrictthepetitionerfromfreelytravelingtoorexitingfromthecountry
+34 becauseofthepetitioner’sgender,nationality,maritalstatus,orreligion;or
+35 (iii) Restrict the child's ability legally to leave the country after the child
+36 reachestheageofmajoritybecauseofthechild’sgender,nationality,orreligion;
+
+HB1710-FN-ASINTRODUCED
+-Page4-
+1 (F) Is included by the United States Department of State on a current list of
+2 statesponsorsofterrorism;
+3 (G) Does not have an official United States diplomatic presence in the country;
+4 or
+5 (H) Is engaged in active military action or war, including a civil war, to which
+6 thechildmaybeexposed;
+7 (i) Is undergoing a change in immigration or citizenship status that would adversely
+8 affecttherespondent’sabilitytoremainintheUnitedStateslegally;
+9 (j) HashadanapplicationforUnitedStatescitizenshipdenied;
+10 (k) Has forged or presented misleading or false evidence on government forms or
+11 supporting documents to obtain or attempt to obtain a passport, a visa, travel documents, a Social
+12 Security card, a driver’s license, or other government-issued identification card or has made a
+13 misrepresentationtotheUnitedStatesgovernment;
+14 (l) Hasusedmultiplenamestoattempttomisleadordefraud;or
+15 (m) Has engaged in any other conduct the court considers relevant to the risk of
+16 abduction.
+17 II. Inthehearingonapetitionunderthischapter,thecourtshallconsideranyevidencethat
+18 therespondentbelievedingoodfaiththattherespondent’sconductwasnecessarytoavoidimminent
+19 harm to the child or respondent and any other evidence that may be relevant to whether the
+20 respondentmaybepermittedtoremoveorretainthechild.
+21 458-F:8 ProvisionsandMeasurestoPreventAbduction.
+22 I. Ifapetitionisfiledunderthischapter,thecourtmayenteranorderthatshallinclude:
+23 (a) Thebasisforthecourt’sexerciseofjurisdiction;
+24 (b) The manner in which notice and opportunity to be heard were given to the persons
+25 entitledtonoticeoftheproceeding;
+26 (c) A detailed description of each party’s custody and visitation rights and residential
+27 arrangementsforthechild;
+28 (d) A provision stating that a violation of the order may subject the party in violation to
+29 civilandcriminalpenalties;and
+30 (e) Identification of the child’s country of habitual residence at the time of the issuance
+31 oftheorder.
+32 II. If, at a hearing on a petition under this chapter or on the court’s own motion, the court
+33 after reviewing the evidence finds a credible risk of abduction of the child, the court shall enter an
+34 abduction prevention order. The order shall include the provisions required by subparagraph I(a)
+35 and measures and conditions, includingthose insubparagraphs I(c), (d), and (e), that are reasonably
+36 calculated to prevent abduction of the child, giving due consideration to the custody and visitation
+37 rights of the parties. The court shall consider the age of the child, the potential harm to the child
+
+HB1710-FN-ASINTRODUCED
+-Page5-
+1 from an abduction, the legal and practical difficulties of returning the child to the jurisdiction if
+2 abducted, and the reasons for the potential abduction, including evidence of domestic violence,
+3 stalking,orchildabuseorneglect.
+4 III. Anabductionpreventionordermayincludeoneormoreofthefollowing:
+5 (a) An imposition of travel restrictions that require that a party traveling with the child
+6 outsideadesignatedgeographicalareaprovidetheotherpartywiththefollowing:
+7 (1) Thetravelitineraryofthechild;
+8 (2) A list of physical addresses and telephone numbers at which the child can be
+9 reachedatspecifiedtimes;and
+10 (3) Copiesofalltraveldocuments;
+11 (b) Aprohibitionoftherespondentdirectlyorindirectly:
+12 (1) Removingthechildfromthisstate,theUnitedStates,oranother
+13 geographicareawithoutpermissionofthecourtorthepetitioner’swrittenconsent;
+14 (2) Removingorretainingthechildinviolationofachild-custodydetermination;
+15 (3) Removingthechildfromschoolorachildcareorsimilarfacility;or
+16 (4) Approaching the child at any location other than a site designated for supervised
+17 visitation;
+18 (c) A requirement that a party register the order in another state as a prerequisite to
+19 allowingthechildtotraveltothatstate;
+20 (d) Withregardtothechild’spassport:
+21 (1) A direction that the petitioner place the child’s name in the United States
+22 DepartmentofState’sChildPassportIssuanceAlertProgram;
+23 (2) A requirement that the respondent surrender to the court or the petitioner’s
+24 attorney any United States or foreign passport issued in the child's name, including a passport
+25 issuedinthenameofboththeparentandthechild;and
+26 (3) A prohibition upon the respondent from applying on behalf of the child for a new
+27 orreplacementpassportorvisa;
+28 (e) As a prerequisite to exercising custody or visitation, a requirement that the
+29 respondentprovide:
+30 (1) To the United States Department of State Office of Children’s Issues and the
+31 relevant foreign consulate or embassy, an authenticated copy of the order detailing passport and
+32 travelrestrictionsforthechild;
+33 (2) Tothecourt:
+34 (A) Proof that the respondent has provided the information in subparagraph
+35 III(e)(1);and
+36 (B) An acknowledgment in a record from the relevant foreign consulate or
+37 embassythatnopassportapplicationhasbeenmade,orpassportissued,onbehalfofthechild;
+
+HB1710-FN-ASINTRODUCED
+-Page6-
+1 (3) To the petitioner, proof of registration with the United States Embassy or other
+2 United States diplomatic presence in the destination country and with the Central Authority for the
+3 Hague Convention on the Civil Aspects of International Child Abduction, if that Convention is in
+4 effectbetweentheUnitedStatesandthedestinationcountry,unlessoneofthepartiesobjects;and
+5 (4) A written waiver under the Privacy Act, 5 U.S.C. Section 552a as amended, with
+6 respect to any document, application, or other information pertaining to the child authorizing its
+7 disclosuretothecourtandthepetitioner;and
+8 (f) Upon the petitioner’s request, a requirement that the respondent obtain an order
+9 from the relevant foreign country containing terms identical to the child-custody determination
+10 issuedintheUnitedStates.
+11 IV. In an abduction prevention order, the court may impose conditions on the exercise of
+12 custodyorvisitationthat:
+13 (a) Limit visitation or require that visitation with the child by the respondent be
+14 supervised until the court finds that supervision is no longer necessary and order the respondent to
+15 paythecostsofsupervision;
+16 (b) Require the respondent to post a bond or provide other security in an amount
+17 sufficienttoserveasafinancialdeterrenttoabduction,theproceedsofwhichmaybeusedtopayfor
+18 the reasonable expenses of recovery of the child, including reasonable attorney's fees and costs if
+19 thereisanabduction;and
+20 (c) Require the respondent to obtain education on the potentially harmful effects to the
+21 childfromabduction.
+22 V. Topreventimminentabductionofachild,acourtmay:
+23 (a) IssueawarranttotakephysicalcustodyofthechildunderRSA458-F:9orthelawof
+24 thisstateotherthanthischapter;
+25 (b) Direct the use of law enforcement to take any action reasonably necessary to locate
+26 thechild,obtainreturnofthechild,orenforceacustodydeterminationunderthischapterorthelaw
+27 ofthisstateotherthanthischapter;or
+28 (c) Grantanyotherreliefallowedunderthelawofthisstateotherthanthischapter.
+29 VI. The remedies provided in this chapter are cumulative and do not affect the availability
+30 ofotherremediestopreventabduction.
+31 458-F:9 WarranttoTakePhysicalCustodyofChild.
+32 I. If a petition under this chapter contains allegations, and the court finds that there is a
+33 credible risk that the child is imminently likely to be wrongfully removed, the court may issue an ex
+34 partewarranttotakephysicalcustodyofthechild.
+35 II. The respondent on a petition under paragraph I shall be afforded an opportunity to be
+36 heardattheearliestpossibletimeaftertheexpartewarrantisexecuted,butnotlaterthanthenext
+
+HB1710-FN-ASINTRODUCED
+-Page7-
+1 judicial day unless a hearing on that date is impossible. In that event, the court shall hold the
+2 hearingonthefirstjudicialdaypossible.
+3 III. AnexpartewarrantunderparagraphItotakephysicalcustodyofachildshall:
+4 (a) Recite the facts upon which a determination of a credible risk of imminent wrongful
+5 removalofthechildisbased;
+6 (b) Directlawenforcementofficerstotakephysicalcustodyofthechildimmediately;
+7 (c) Statethedateandtimeforthehearingonthepetition;and
+8 (d) Provideforthesafeinterimplacementofthechildpendingfurtherorderofthecourt.
+9 IV. If feasible, before issuing a warrant and before determining the placement of the child
+10 afterthewarrant is executed,thecourt mayorderasearchof therelevant databases of theNational
+11 CrimeInformationCentersystemandsimilarstatedatabasestodetermineifeitherthepetitioneror
+12 respondenthasahistoryofdomesticviolence,stalking,orchildabuseorneglect.
+13 V. The petition and warrant shall be served on the respondent when or immediately after
+14 thechildistakenintophysicalcustody.
+15 VI. A warrant to take physical custody of a child, issued by this state or another state, is
+16 enforceablethroughoutthisstate. Ifthecourtfindsthatalessintrusiveremedywillnotbeeffective,
+17 it may authorize law enforcement officers to enter private property to take physical custody of the
+18 child. If required by exigent circumstances, the court may authorize law enforcement officers to
+19 makeaforcibleentryatanyhour.
+20 VII. If the court finds, after a hearing, that a petitioner sought an ex parte warrant under
+21 paragraph I for the purpose of harassment or in bad faith, the court may award the respondent
+22 reasonableattorney’sfees,costs,andexpenses.
+23 VIII. Thischapterdoesnotaffecttheavailabilityofreliefallowedunderthelawofthisstate
+24 otherthanthischapter.
+25 458-F:10 Duration of Abduction Prevention Order. An abduction prevention order remains in
+26 effectuntiltheearliestof:
+27 I. Thetimestatedintheorder;
+28 II. Theemancipationofthechild;
+29 III. Thechild’sattaining18yearsofage;or
+30 IV. The time the order is modified, revoked, vacated, or superseded by a court with
+31 jurisdictionunderRSA458-A:12,458-A:13,and458-A:14.
+32 458-F:11 Uniformity of Application and Construction. In applying and construing this chapter
+33 asauniformact,thecourtsshallgivedueconsiderationtotheneedtopromoteuniformityofthelaw
+34 withrespecttoitssubjectmatteramongstatesthatenactit.
+35 458-F:12 Relation to Electronic Signatures in Global and National Commerce Act. This chapter
+36 modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce
+37 Act,15U.S.C.section7001,etseq.,butdoesnotmodify,limit,orsupersedesection101(c)ofthatact,
+
+HB1710-FN-ASINTRODUCED
+-Page8-
+1 15 U.S.C. section 7001(c), or authorize electronic delivery of any of the notices described in section
+2 103(b)ofthatact,15U.S.C.section7003(b).
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2694
+12/9/25
+HB1710-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoproceduresrelatingtochildabduction.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $173,000+ $173,000+ $173,000+
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill adopts the Uniform Child Abduction Prevention Act. In so doing, it establishes court
+procedures in which petitioners may request the issuance of orders imposing child abduction
+prevention measures, and gives courts the ability under certain circumstances to issue warrants
+authorizing law enforcement to take physical custody of children deemed at risk of abduction.
+The Judicial Branch states that, in order to support judges in fulfilling their obligations under
+the bill, it will need to employ an individual with expertise in immigration practices, the Hague
+ConventionontheCivilAspectsofChildAbduction,domesticviolence,childprotection,theState
+Department's Child Passport Issuance Alert Program, foreign consulate and embassy
+procedures, and other highly specialized skills. The Branch also anticipates hiring a case
+manager to handle the increased volume of filings and case processing requirements resulting
+from the bill. Combined, the two positions are anticipated to cost approximately $173,000 per
+year,withhighercostspossibleiftheworkloadisgreaterthananticipated.
+The Department of Health and Human Services states that it has no data from which to
+extrapolate the costs of the entirely new process for abduction prevention measures created by
+thebill,andsothefiscalimpactisindeterminable.
+AGENCIESCONTACTED:
+JudicialBranchandDepartmentofHealthandHumanServices

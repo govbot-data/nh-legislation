@@ -1,0 +1,118 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1823-FN-ASINTRODUCED
+2026SESSION
+26-2803
+07/09
+1823-FN
+HOUSEBILL
+ANACT requiring every school, school district, and school administrative unit to produce
+independent audits and financial reports to be posted publicly and sent to the
+departmentofeducationandthedepartmentofrevenueadministration.
+SPONSORS: Rep.Damon,Sull.8;Rep.Girard,Sull.6;Rep.Luneau,Merr.9;Rep.Colby,Merr.
+9;Rep.Fellows,Graf.8;Rep.Bricchi,Merr.15;Rep.Peeples,Hills.14
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires every school, school district, and school administrative unit to produce
+independent audits and financial reports to be posted publicly and sent to the department of
+educationandthedepartmentofrevenueadministration.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1823-FN-ASINTRODUCED
+26-2803
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring every school, school district, and school administrative unit to produce
+independent audits and financial reports to be posted publicly and sent to the
+departmentofeducationandthedepartmentofrevenueadministration.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Education; School Performance and Accountability; Annual Independent Audit.
+2 AmendRSA193-Hbyinsertingaftersection5thefollowingnewsection:
+3 193-H:6 AnnualIndependentAudit.
+4 I. Every school administrative unit, school district, and school that receives state funding
+5 shall be required to have an annual audit performed by an independent auditor. An audit report
+6 shall be submitted to the department of revenue administration and the department of education
+7 within 180 days of the end of the fiscal year. The audit shall follow the provisions of RSA 21-J:19.
+8 The findings and recommendations of the audit shall be reviewed at the next meeting of the
+9 governingbody.
+10 II. If the audit report submitted under paragraph I informs of material deficiencies, the
+11 department of education shall designate an individual at the department to receive quarterly
+12 financial reports from the school entity, whom shall consult with the school entity to address
+13 financial- and operational-related concerns. The department and state board shall consult with the
+14 district school board on the development and implementation of a remedial plan to address specific
+15 areas of concern. Financial reports shall be submitted to the department of education at least
+16 quarterlyuntilthematerialdeficienciesareresolved.
+17 III. All audits shall be posted to school administrative unit, school district, and school
+18 websites, as well as provided to the corresponding superintendent, business administrator, district
+19 treasurer,chiefoperatingofficer,localschoolboardmembers,andstateboardofeducationmembers.
+20 IV. The business administrator, or their designee, shall be required to provide all necessary
+21 datatotheindependentauditorinatimelymannertoassistinthecompletionofthereportrequired
+22 underparagraphI.
+23 V. All audits shall include comparisons to data submitted to the department of education
+24 fromthecorrespondingfiscalyear.
+25 VI. Notwithstanding any provision of law to the contrary, the department of education shall
+26 beempoweredtowithholdfundingforanyschooladministrativeunit,schooldistrict,andschoolthat
+27 failstocomplywiththissection.
+28 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2803
+Revised1/21/26
+HB1823-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring every school, school district, and school administrative unit to produce
+independent audits and financial reports to be posted publicly and sent to the
+departmentofeducationandthedepartmentofrevenueadministration.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) EducationTrustFund
+DOEStaffing/Administration
+$534KinFY27,$461KinFY28,and$484KinFY29
+Expenditures* $0
+StateAidPayments
+Indeterminable
+FundingSource(s) GeneralFundandEducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 Indeterminable
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill requires school district and charter public schools to submit an audit to the department
+of education within 180 days after fiscal year close. Audits reporting material deficiencies will
+require additional reporting to be submitted to the Department of Education. To effectively
+manage the review, tracking, and oversight of 179 school district and 35 charter school audits,
+the Department would need two positions focused on district public schools and one position for
+charter schools. Furthermore, a contract amendment to develop a new module within an
+existingsoftwaresystemwouldrequire$75,000.
+FY2027 FY2028 FY2029
+Two(2)DistrictAuditors $320,000 $318,000 $334,000
+(SOC13-09,StartingStep9)
+
+One(1)CharterSchoolAuditor $139,000 $143,000 $150,000
+(SOC13-09,StartingStep5)
+ContractExpense $75,000 $0 $0
+Total $534,000 $461,000 $484,000
+TheDepartmentstatesitwouldsetareasonablepolicyofwhenauditsneededtobesubmittedbefore
+funding would halt. While warnings and the publication of that policy and standard would occur, it
+is expected that in future fiscal years districts and charter school may not meet that requirement.
+Therefore, distribution of state aid may be delayed in future fiscal years which would increase State
+interest revenue for the Education Trust Fund Revenue and increase district and charter school
+interestpaymentswhoelecttoborrowfundsandwouldbechargedinterest.
+AGENCIESCONTACTED:
+DepartmentofEducation

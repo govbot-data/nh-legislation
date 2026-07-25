@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1706-FN-ASINTRODUCED
+2026SESSION
+26-2501
+05/08
+1706-FN
+HOUSEBILL
+ANACT repealing the refugee resettlement program in the department of health and
+human services and prohibiting expenditure of state funds on refugee
+resettlement.
+SPONSORS: Rep. Corcoran, Hills. 28; Rep. Alexander Jr., Hills. 29; Rep. Belcher, Carr. 4; Rep.
+Berry, Hills. 44; Rep. Drew, Hills. 19; Rep. Erf, Hills. 28; Rep. McFarlane, Graf.
+18; Rep. Noble, Hills. 2; Rep. Osborne, Rock. 2; Rep. Spillane, Rock. 2; Sen. Ward,
+Dist8
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the refugee resettlement program in the department of health and human
+servicesandprohibitsexpenditureofstatefundsonrefugeeresettlement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1706-FN-ASINTRODUCED
+26-2501
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the refugee resettlement program in the department of health and
+human services and prohibiting expenditure of state funds on refugee
+resettlement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Termination of Refugee Program Administered Through the Department of Health and
+2 HumanServices.
+3 I. In this section "refugee resettlement program" means the U.S. Refugee Admissions
+4 Program (USRAP) and any other federal program or nonprofit program or grant designed to settle,
+5 fund,orotherwisehelprefugeesorasylees.
+6 II. On the effective date of this section, the department of health and human services shall,
+7 as promptly as practicable, terminate any contracts administered under a refugee resettlement
+8 program.
+9 III. No department, agency, or administrative unit of state government may accept money
+10 fromanysourceforrefugeeresettlement.
+11 VI. No department, agency, or administrative unit of state government may spend money to
+12 settle, fund, or otherwise assist refugee resettlement, either directly or indirectly via payments to
+13 townsornongovernmentalorganizations.
+14 2 Severability Clause. If any provision of this act or its application is held invalid, the
+15 remaindershallnotbeaffected.
+16 3 Repeal. RSA 161:2, XVIII, relative to the New Hampshire refugee resettlement program, is
+17 repealed.
+18 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2501
+12/10/25
+HB1706-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealing the refugee resettlement program in the department of health and
+human services and prohibiting expenditure of state funds on refugee
+resettlement.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 ($4,481,357) ($4,499,362) ($4,499,362)
+FundingSource(s) FederalFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill terminates the refugee resettlement program administered through the state
+Department of Health and Human Services, and prohibits public spending to assist refugee
+resettlement. TheDepartmentstatesthattherefugeeresettlementprogramisentirelyfederally
+funded,andthatitsOfficeofHealthAccesscurrentlyadministersapproximately$4.5millionper
+year in federal funds. As a result of the bill, these funds would no longer be spent. For
+informational purposes, the Department's budget also contains approximately $1.7 million per
+year in its "Minority Health/Refugee Affairs" account, which is a mixture of federal and state
+general funds. In prior correspondence with the Office of the Legislative Budget Assistant, the
+Department has noted that these funds are used not for refugee resettlement, but rather for
+communications access for clients who are deaf, have hearing loss, or vision/speech or other
+impairments. For this reason, this fiscal note assumes that those funds will be unaffected by
+thisbill.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

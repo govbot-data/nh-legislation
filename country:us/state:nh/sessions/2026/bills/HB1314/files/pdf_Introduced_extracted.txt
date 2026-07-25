@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1314-FN-ASINTRODUCED
+2026SESSION
+26-2954
+08/06
+1314-FN
+HOUSEBILL
+ANACT enablingminorstoapplyforafreshwaterfishingapplicationwithoutpayingafee.
+SPONSORS: Rep. H. Howard, Straf. 4; Rep. Ankarberg, Straf. 7; Rep. Wade, Straf. 15; Rep.
+Spillane, Rock. 2; Rep. Thibault, Merr. 25; Rep. Coker, Belk. 2; Rep. D. Germana,
+Ches.1;Sen.Fenton,Dist10
+COMMITTEE: FishandGameandMarineResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablesminorstoapplyforafreshwaterfishingapplicationwithoutpayingafee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1314-FN-ASINTRODUCED
+26-2954
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enablingminorstoapplyforafreshwaterfishingapplicationwithoutpayingafee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;LicensesforMinors. AmendRSA214byinsertingaftersection6-athefollowing
+2 newsection:
+3 214:6-b Licenses for Minors. Any resident of this state who is under 18 years of age may, upon
+4 presentation of proof of age, make application to the executive director of fish and game for a special
+5 licensetotakeandtotransportfish,undertherestrictionsofthistitle. Suchlicenseshallbemarked
+6 insuchmannerastheexecutivedirectormaydesignateandthereshallbenofeeforsuchlicense.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2954
+11/5/25
+HB1314-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enablingminorstoapplyforafreshwaterfishingapplicationwithoutpayingafee.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $235,000PerYearDecrease
+RevenueFund(s) FishandGameFund,FisheriesHabitatManagementAccount
+Upto$20,000to Upto$10,000to$30,000
+Expenditures* $0
+$40,000 peryear
+FundingSource(s) FishandGameFund,FisheriesHabitatManagementAccount
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill enables minors to apply for a freshwater fishing application without paying a fee. The
+Fish and Game Department states that over the past five years, it has collected an average of
+approximately $235,000 per year for 16- and 17-year-old licenses. Of this revenue, the
+Department estimates $230,000 is credited to the Fish and Game Fund and $5,000 to the
+FisheriesHabitatManagementAccount.
+Regarding expenditures, the Department states it incurs a $2 per license fee, paid to an outside
+vendor for producing licenses. To the extent this bill could generate additional licensees, the
+Department could incur additional costs ($10,000 to $30,000 per year). Lastly, the Department
+statesitwouldincur,inFY2027,aone-timenewlicensedevelopmentfee(lessthan$10,000).
+AGENCIESCONTACTED:
+FishandGameDepartment

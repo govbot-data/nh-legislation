@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1624-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0482h
+2026SESSION
+26-3249
+04/08
+1624-FN
+HOUSEBILL
+ANACT relativetotheeliminationofcertainspecialfunds.
+SPONSORS: Rep. D. McGuire, Merr. 14; Rep. Almy, Graf. 17; Rep. Janigian, Rock. 25; Sen.
+Gray,Dist6;Sen.Rosenwald,Dist13
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the radiation long-term care fund, the mosquito control fund, and the New
+Hampshire recovery monument special account, and transfers the remaining balance of the recovery
+monumentaccounttothealcoholabusepreventionandtreatmentfund.
+ThisbillisarequestofthejointcommitteeondedicatedfundspursuanttoRSA6:12-i.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1624-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0482h 26-3249
+04/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheeliminationofcertainspecialfunds.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Balance of New Hampshire Recovery Monument Special Account; Lapse to Alcohol Abuse
+2 Prevention Fund. On the effective date of this section, the balance of the New Hampshire recovery
+3 monument special account, formerly established in RSA 4:9-p, shall lapse to the alcohol abuse
+4 preventionfundestablishedinRSA176-A:1.
+5 2 Repeal. Thefollowingarerepealed:
+6 I. RSA6:12,I(b)(20),relativetomoneysreceivedunderRSA125-F:11,IIandIV,whichshall
+7 becreditedtotheradiationlong-termcarefund.
+8 II. RSA 6:12, I(b)(293), relative to moneys deposited into the mosquito control fund
+9 establishedunderRSA141-C:25.
+10 III. RSA 6:12, I(b)(364), relative to moneys deposited into the New Hampshire recovery
+11 monumentspecialaccountestablishedinRSA4:9-p.
+12 IV. Paragraphs II and IV of RSA 125-F:11 relative to the direction of certain funds for
+13 depositintotheradiationlong-termcarefund.
+14 V. RSA141-C:25,establishingthemosquitocontrolfund.
+15 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3249
+3/10/26
+HB1624-FN-FISALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0482h)
+ANACT relativetotheeliminationofcertainspecialfunds.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

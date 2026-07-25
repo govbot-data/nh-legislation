@@ -1,0 +1,182 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1619 -ASINTRODUCED
+2026SESSION
+26-2588
+06/05
+1619
+HOUSEBILL
+ANACT relative to the rights of property owners and limitations on municipal land use
+regulation,andrepealingtheworkforcehousingprogram.
+SPONSORS: Rep. Soti, Rock. 35; Rep. Warden, Hills. 39; Rep. Aures, Merr. 13; Rep. Tom
+Mannion, Hills. 1; Rep. Sabourin dit Choiniere, Rock. 30; Rep. Sellers, Graf. 10;
+Rep. Noble, Hills. 2; Rep. Ulery, Hills. 13; Rep. Polozov, Merr. 10; Rep. Slottje,
+Hills.13;Sen.Murphy,Dist16
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillaffirms,codifies,andattemptstoclarifypropertyowners’rightsandmunicipallimitson
+regulation.Thisbillalsorepealstheworkforcehousingprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1619-ASINTRODUCED
+26-2588
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the rights of property owners and limitations on municipal land use
+regulation,andrepealingtheworkforcehousingprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Property Owners' Rights and Land Use Protections. Amend RSA by inserting
+2 afterchapter674thefollowingnewchapter:
+3 CHAPTER674-A
+4 PROPERTYOWNERS'RIGHTSANDLANDUSEPROTECTIONS
+5 674-A:1 Purpose. The purpose of this chapter is to affirm and protect the fundamental rights of
+6 property owners to own, use, and dispose of their property free from excessive government
+7 intervention, consistent with the principles of a free market and the limited-government framework
+8 ofNewHampshirelaw.
+9 674-A:2 Definitions. Inthischapter:
+10 I. “Property owner” means a person or entity holding legal title to real property in New
+11 Hampshire.
+12 II. “Municipality” means a city, town, or other political subdivision recognized by New
+13 Hampshirelaw.
+14 674-A:3 PropertyOwners’Rights.
+15 I. Property owners shall have the right to use their property as they see fit, provided such
+16 use does not infringe upon the rights of others or violate clearly defined public safety standards set
+17 forthinNewHampshirelaw,includingRSA155-Aandotherapplicablestatutes.
+18 II. Property owners may set rental prices based on market demand, free from government-
+19 imposedrentcontrols.
+20 III. Municipal zoning shall be limited to the minimum necessary to protect public health,
+21 safety,andwelfare,andregulationsshallnotundulyrestrictpropertydevelopmentorusage.
+22 IV. Property owners may develop their land for residential, commercial, or mixed-use
+23 purposes,subjectonlytotransparentandpredictablemunicipalregulations.
+24 V. No property shall be taken by the government for private use or economic development,
+25 except in cases of clear public necessity. Owners are entitled to just compensation and due process
+26 inanyeminentdomainproceeding.
+27 VI. Property owners may enter into contracts, leases, and sales agreements without
+28 governmentinterference,exceptincasesofprovenfraudorcoercion.
+29 VII. Municipalities shall process property development permits in a timely and transparent
+30 manner. Delaysorarbitrarydenialsviolatetheowner’srighttoproductiveuse.
+
+HB1619 -ASINTRODUCED
+-Page2-
+1 VIII. No property owner shall be subject to excessive or discriminatory property taxes. This
+2 chapterdoesnotalteroraffectexistingpropertytaxstatutes.
+3 IX. Property owners may challenge government actions that infringe their property rights
+4 throughjudicialoradministrativereviewasprovidedbylaw.
+5 X. Municipalities are encouraged to pursue market-based solutions to housing and
+6 developmentwithoutrelianceonpublicsubsidies.
+7 XI. Beyond minimal public regulations, use restrictions may only be imposed by private
+8 covenantsorhomeownersassociationsestablishedbyvoluntaryagreementamongpropertyowners.
+9 XII. All warrant articles affecting property rights proposed at town or municipal meetings
+10 shallbereviewedforconstitutionalcompliancebythecourts.
+11 XIII. No municipality shall provide taxpayer-funded subsidies, grants, tax incentives, or
+12 regulatory mandates promoting specific housing types, except as required for public health, safety,
+13 orwelfare.
+14 2 Repealing the Workforce Housing Program; InvestNH Program. Amend RSA 12-O:70 to read
+15 asfollows:
+16 12-O:70 InvestNH Program. The department shall establish a program to make grants and
+17 loans for the purpose of improving the ability to accelerate the approval of [affordable workforce
+18 housing as defined in RSA 674:58, IV, and other types of] housing determined by the department to
+19 be important for the economic development of the state. Grants and loans may be made by the
+20 department to municipalities and to housing developers in which at least 20 percent of the housing
+21 unitstobedevelopedwillbeaffordableforaperiodofatleast10years. Suchunitswillbeaffordable
+22 to and intended for occupancy by households with incomes up to 80 percent of the area median
+23 income, as established by the U.S. Department of Housing and Urban Development. The program
+24 shallbeknownastheInvestNHProgram. ThedepartmentshalladoptrulespursuanttoRSA541-A
+25 toimplementtheprovisionsofthissubdivisionnolaterthanJuly1,2024.
+26 3 Repealing the Workforce Housing Program; New Hampshire Housing Champion Designation.
+27 AmendRSA12-O:71,IIIandIVtoreadasfollows:
+28 III. Qualifications to receive the New Hampshire housing champion designation shall
+29 include:
+30 (a) Adoption of such land use regulations and ordinances which the department
+31 determines to be necessary to promote the development of [workforce housing, as that term is
+32 defined in RSA 674:58, and other types of] housing necessary for the economic development of the
+33 state. Inthis subdivision, "land use regulations and ordinances" mayinclude, but arenot limited to,
+34 zoning ordinances adopted pursuant to RSA 674:16, innovative land use controls adopted pursuant
+35 to RSA 674:21, subdivision regulations adopted pursuant to RSA 674:35, and site plan regulations
+36 adoptedpursuanttoRSA674:43.
+
+HB1619 -ASINTRODUCED
+-Page3-
+1 (b) Training of planning board and zoning board of adjustment members using training
+2 materials and programs, including online materials and programs, provided by the department
+3 pursuant to RSA 673:3-a; or training materials and programs, including online materials and
+4 programs, provided by the New Hampshire Municipal Association, that cover the processes,
+5 procedures, regulations, and statutes related to the board on which the member serves; or any other
+6 training materials and programs, including online materials and programs, approved by the
+7 department, that cover the processes, procedures, regulations, and statutes related to the board on
+8 whichthememberserves.
+9 (c) Implementationofsewerandwaterinfrastructureimprovementsintendedtosupport
+10 the development of [workforce housing, as that term is defined in RSA 674:58, and other types of]
+11 housingnecessaryfortheeconomicdevelopmentofthestate.
+12 (d) Implementation of public transportation, sidewalks, or other walkability
+13 infrastructure intended to support the development of [workforce housing, as that term is defined in
+14 RSA674:58,andothertypes]ofhousingnecessaryfortheeconomicdevelopmentofthestate.
+15 IV. Qualifications to receive the New Hampshire housing champion designation may also
+16 include, but are not limited to adoption of financial tools that incentivize the development of
+17 [workforce housing, including adoption of] the community revitalization tax relief incentive program
+18 under RSA 79-E and establishment of municipal economic development and revitalization districts
+19 underRSA162-K.
+20 4 Repealing the Workforce Housing Program; Housing Planning and Regulation Municipal
+21 GrantProgram. AmendRSA12-O:72toreadasfollows:
+22 12-O:72 Housing Planning and Regulation Municipal Grant Program. The department shall
+23 establish a grant program for municipalities to assist them in promoting increased housing
+24 production. Subjecttoavailabilityoffunding,thedepartmentshallmakegrantstoanymunicipality
+25 for the purpose of consultation or implementation of revising their master plans and land use
+26 regulations for the purpose of promoting the production of [workforce housing, as that term is
+27 defined in RSA 674:58, and other types of] housing necessary for the economic development of the
+28 state, and to assist them to become eligible for New Hampshire housing champion designation
+29 pursuant to RSA 12-O:71. The department shall adopt rules establishing grant eligibility criteria,
+30 grantmaximums,andgrantprogramadministration.
+31 5 Repealing the Workforce Housing Program; Champion Benefits. Amend RSA 12-O:73, I to
+32 readasfollows:
+33 I. Housing production municipal grant program. The department shall establish a grant
+34 program for municipalities that have made a commitment to facilitating increased housing
+35 production. Municipalities that are designated by the department as New Hampshire housing
+36 championcommunitieswillbeeligibletoapplyforthegrants. [Subjecttoavailabilityoffunding,the
+37 department shall make grants to any municipality with such a designation on a per-unit basis for
+
+HB1619 -ASINTRODUCED
+-Page4-
+1 workforce housing units for which certificates of occupancy have been issued by the municipality in
+2 the preceding state fiscal year.] The department shall adopt rules establishing eligibility criteria,
+3 per-unitgrantmaximums,maximumgrants perproject,amaximumamount thatmaybegranted to
+4 anymunicipalityinayear,andgrantprogramadministration.
+5 6 Repealing the Workforce Housing Program; New Hampshire Housing Champion Designation
+6 andGrantProgramFund. AmendRSA12-O:74toreadasfollows:
+7 12-O:74 New Hampshire Housing Champion Designation and Grant Program Fund. There is
+8 hereby established in the state treasury the New Hampshire housing champion designation and
+9 grant program fund, for the purpose of funding the grant programs established in RSA 12-O:72 and
+10 RSA 12-O:73, and the compilation of municipally and county-owned property determined to be
+11 appropriate for residential development pursuant to RSA [12-O:72-a and] 674:1, VII. The fund shall
+12 benon-lapsingandshallbecontinuallyappropriatedtothedepartment.
+13 7 Repealing the Workforce Housing Program; Exceptions. Amend RSA 78-B:2, XXIII(a)(1)(B)(3)
+14 toreadasfollows:
+15 (3) Such other federal, state, or local financing program requiring that the real
+16 estate remains subject to land use restriction and rental housing affordability covenants which limit
+17 allowable rents charged to individuals or families, consistent with [(i) RSA 674:58, IV, pertaining to
+18 workforcehousing;or(ii)asotherwiserequiredunderthe]applicablefederal,state,orlocalprogram.
+19 8 Repealing the Workforce Housing Program; Powers. Amend RSA 674:44-i, I(b) to read as
+20 follows:
+21 (b) Conduct activities to recognize, promote, enhance, and encourage the development of
+22 housing,particularlyaffordable[andworkforce]housing.
+23 9 Repeal. Thefollowingarerepealed:
+24 I. RSA12-O:72-a,relativetoworkforcehousing.
+25 II. RSA162-K:2,IX-a(a)(5),relativetoworkforcehousing.
+26 III. RSA674:17,IV,relativetoworkforcehousing.
+27 IV. RSA674:43,VII,relativetoworkforcehousing.
+28 V. RSA674:44-i,I(b),relativetoworkforcehousing.
+29 VI. RSA674:58through61,relativetoworkforcehousing.
+30 VII. RSA674:72,X,relativetoworkforcehousing.
+31 VIII. RSA679:5,III,relativetoworkforcehousing.
+32 10 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

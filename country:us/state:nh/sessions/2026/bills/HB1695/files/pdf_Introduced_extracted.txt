@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1695 -ASINTRODUCED
+2026SESSION
+26-2526
+08/09
+1695
+HOUSEBILL
+ANACT requiring the secretary of state to include a voter's guide to the proposed
+constitutionalamendmenttovotersontheballot.
+SPONSORS: Rep. Lane, Merr. 16; Rep. Muirhead, Graf. 12; Rep. Bay, Straf. 21; Rep. Ward,
+Rock.27;Sen.Reardon,Dist15;Sen.PerkinsKwoka,Dist21
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the secretary of state to include a voter's guide to the proposed constitutional
+amendmenttovotersontheballot.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1695-ASINTRODUCED
+26-2526
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the secretary of state to include a voter's guide to the proposed
+constitutionalamendmenttovotersontheballot.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Voter'sGuides;ConstitutionalAmendments. AmendRSA663:3-atoreadasfollows:
+2 663:3-a Voter'sGuides.
+3 I. If the general court proposes [the] a constitutional amendment, the text of the statement
+4 for the voter's guide[, if any,] shall be included in the resolution proposing the constitutional
+5 amendment. [The joint committee on legislative facilities may authorize the printing or distribution
+6 of the voter's guide.] The text of the statement for the voter's guide shall state what will
+7 happeniftheamendmentpassesandwhatwillhappeniftheamendmentisdefeated.
+8 II. If the constitutional convention proposes the constitutional amendment, the text of the
+9 statement for the voter's guide[, if any,] shall be included in the resolution proposing the
+10 constitutional amendment. The text of the statement for the voter's guide shall state what
+11 willhappeniftheamendmentpassesandwhatwillhappeniftheamendmentisdefeated.
+12 2 NewSection;BallotGuidance;ConstitutionalAmendment. AmendRSA663byinsertingafter
+13 section3-athefollowingnewsection:
+14 663:3-b BallotGuidance.
+15 I. Except as provided in paragraph II, the text of the statement for the voter’s guide as
+16 includedintheresolutionproposingtheconstitutionalamendmentasdescribedinRSA663:3-ashall
+17 beprintedontheballotimmediatelybelowtheconstitutionalquestiontowhichitapplies.
+18 II. If the inclusion of the text of the statement for the voter’s guide prepared pursuant to
+19 RSA 663:3-a necessitates an extra page of the ballot, then the text of the statement for the voter’s
+20 guide shall be distributed with the ballot rather than printed on the ballot. The page containing the
+21 voter'sguideshallnotbeprocessedthroughtheballotcountingdevices.
+22 III. In addition, the joint committee on legislative facilities may separately authorize the
+23 printingordistributionofthevoter'sguidepriortotheelection.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

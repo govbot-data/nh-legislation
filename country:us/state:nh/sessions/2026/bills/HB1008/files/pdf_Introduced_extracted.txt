@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1008 -ASINTRODUCED
+2026SESSION
+26-2299
+06/08
+1008
+HOUSEBILL
+ANACT relativetomodifyinginnovativelandusecontrols,requirements,andappeals.
+SPONSORS: Rep.Preece,Hills.17;Rep.Maggiore,Rock.23
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies the definition of inclusionary zoning, expands municipal options for promoting
+affordable housing, and establishes a process for applicants to propose alternative compliance
+subjecttoindependentreview.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1008-ASINTRODUCED
+26-2299
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomodifyinginnovativelandusecontrols,requirements,andappeals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 InnovativeLandUseControls. AmendRSA674:21,IV(a)toreadasfollows:
+2 (a) "Inclusionary zoning" means land use control regulations which provide a voluntary
+3 incentive or benefit to a property owner, or a local requirement, in order to induce or require the
+4 property owner to produce housing units, or a portion thereof, [which] that are affordable to
+5 persons or families of low and moderate income. Inclusionary zoning [includes] may include, but is
+6 not limited to, density bonuses, growth control exemptions, [and] a streamlined application process,
+7 preservation of existing affordable housing units, replacement of any demolished
+8 affordable housing units, and habitability for existing tenants during any construction.
+9 For the purposes of this section, “affordable housing” shall have the same meaning as
+10 “affordable” and “workforce housing” as defined in RSA 674:58. A municipality may
+11 require a restrictive covenant consistent with RSA 674:60, IV to be recorded in the registry
+12 ofdeedstoenforcecompliancewiththesedefinitions.
+13 2 New Section; Inclusionary Zoning Requirements and Appeal. Amend RSA 674 by inserting
+14 aftersection80thefollowingnewsection:
+15 674:80-a InclusionaryZoningRequirementsandAppeal.
+16 I. If a municipality requires inclusionary zoning, as defined in RSA 674:21, the applicant
+17 may demonstrate that an alternative solution will reasonably meet the requirements of the local
+18 ordinance or regulation. The planning board shall approve the alternative solution proposed by the
+19 applicant as a substitute for the existing requirements established in the local ordinance or
+20 regulation.
+21 II. If the planning board, during its review of a subdivision plat, site plan, or other land use
+22 application for the alternative solution to an inclusionary zoning ordinance or regulation, disagrees
+23 with the applicant's determination that the alternative solution meets reasonable affordability
+24 criteria or any other reasonable requirements, the planning board may request third-party review
+25 underRSA676:4-b,I.
+26 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

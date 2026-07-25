@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1087-FN-ASINTRODUCED
+2026SESSION
+26-2566
+09/08
+1087-FN
+HOUSEBILL
+ANACT relativetocitizen'sarrestsbyprivatepersons.
+SPONSORS: Rep. Aures, Merr. 13; Rep. Roy, Rock. 31; Rep. Polozov, Merr. 10; Rep. Granger,
+Straf.2;Rep.Korzen,Coos7;Rep.TomMannion,Hills.1;Rep.Giasson,Hills.29;
+Rep.Farrington,Straf.8;Rep.McFarlane,Graf.18
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows for private persons to perform a citizen's arrest of another person for certain
+offenses and provides immunity from liability in certain circumstances, subject to defined
+limitations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1087-FN-ASINTRODUCED
+26-2566
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocitizen'sarrestsbyprivatepersons.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Arrests in Criminal Cases; Citizen's Arrest by Private Person. Amend RSA 594
+2 byinsertingaftersection10-athefollowingnewsection:
+3 594:10-b Citizen’sArrestbyPrivatePersons.
+4 I. Aprivatepersonmayarrestanotherperson:
+5 (a) Forafelonycommittedinthearrestor’spresence;
+6 (b) For a misdemeanor involving a breach of the peace committed in the arrestor’s
+7 presence;or
+8 (c) When the arrestor has probable cause, as judged by the reasonable person standard,
+9 tobelievethatafelonyhasbeencommittedandthepersonarrestedcommittedit.
+10 II. Thearrestorshall:
+11 (a) Useonlyreasonableandproportionalforcenecessarytomakethearrest;
+12 (b) Promptlynotifylawenforcementauthorities;and
+13 (c) Detain the person arrested only until law enforcement arrives and release the
+14 detaineetolawenforcementwithoutdelay.
+15 III.(a) No private person may enter the dwelling or private property of another to effect a
+16 citizen’sarrestforamisdemeanorbreachofthepeace.
+17 (b) Entry onto private property to arrest a person for a felony may only be made if the
+18 citizen reasonably believes exigent circumstances exist that pose an imminent threat of harm. Such
+19 entry shall be immediately reported to law enforcement, with the citizen deferring to police
+20 interventionwheneverpracticable.
+21 (c) Unauthorized entry in violation of this paragraph shall expose the citizen to criminal
+22 andcivilliability.
+23 IV.(a) Any private person acting in good faith and with probable cause under this section
+24 shall be immune from criminal or civil liability arising solely from such arrest, provided that only
+25 reasonableforceisusedandsubstantialcompliancewiththissectionisdemonstrated.
+26 (b) This immunity shall not apply to acts of gross negligence, recklessness, or willful
+27 misconduct.
+28 V. DeadlyforcemaynotbeusedexceptaspermittedunderRSA627:4.
+29 VI. Personsmakingacitizen’sarrestshallinformthepersonarrested,assoonasreasonably
+30 possible,oftheintentiontoarrestandthecauseforthearrest.
+
+HB1087-FN-ASINTRODUCED
+-Page2-
+1 VII. Inanyprosecutionorcivilproceedingarisingfromacitizen’sarrest,thearrestor’sbelief
+2 of the commission of a qualifying offense shall be judged by the reasonable person standard under
+3 thecircumstancesthenknowntothearrestor.
+4 VIII. The department of safety shall provide public information regarding citizen’s arrest
+5 regulations,procedures,andlegalrisksasestablishedbythissection.
+6 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2566
+11/5/25
+HB1087-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocitizen'sarrestsbyprivatepersons.
+FISCALIMPACT: Thisbilldoesnotprovidefunding
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+DepartmentofSafety-$100,000-$500,000PerYear
+Expenditures*
+$0 JudicialandCorrectionalSystems-Indeterminable
+FundingSource GeneralFund,HighwayFund,VariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill authorizes citizens to arrest others if they believe a crime was committed in their
+presenceandgrantimmunityiftheyactedingoodfaith. ThisbillalsodirectstheDepartmentof
+Safety to inform the public about the law and its legal risks. The Department states that
+conducting an adequate public information campaign, including advertising, social media,
+printed materials, and staff work, would likely cost a significant amount. Combined with the
+expected increase in investigative and prosecutorial workload, the Department estimates an
+increase in costs of between $100,000 and $500,000 per year, with resources needing to be
+reallocatedfromotherdepartmentalwork.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association

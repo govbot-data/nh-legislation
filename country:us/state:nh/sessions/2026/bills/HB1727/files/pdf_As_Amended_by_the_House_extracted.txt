@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1727-ASAMENDEDBYTHEHOUSE
+12Mar2026...0847h
+2026SESSION
+26-2965
+05/06
+1727
+HOUSEBILL
+ANACT relative to the inter-agency data sharing for the purpose of distributing summer
+electronicbenefittransfer(EBT)benefits.
+SPONSORS: Rep.Bordes,Belk.5
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of education and department of health and human services to
+enter into a memorandum of understanding to enable the department of education to share student
+addresses with the department of health and human services for the purpose of administering the
+federalSummerEBTprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1727-ASAMENDEDBYTHEHOUSE
+12Mar2026...0847h 26-2965
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the inter-agency data sharing for the purpose of distributing summer
+electronicbenefittransfer(EBT)benefits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Student Privacy; Limited Data Sharing for the Purpose of Administering
+2 SummerEBT. AmendRSA189:68byinsertingafterparagraphVthefollowingnewparagraphs:
+3 VI. To facilitate data sharing between the department of education and the department of
+4 health and human services, the department of education shall include on all forms in all formats
+5 that collect information the following question with a check box or initial line affirming or denying
+6 datasharing:
+7 "I would like the department of education to share my address with the department of health and
+8 humanservicesonlyforthepurposeofmychild/childrenreceivingSummerEBT. Yes___No___
+9 The department of education shall interpret a failure to mark or initial either "yes" or "no" as a
+10 familydenyingdatasharing."
+11 VII. Notwithstanding RSA 189:68, I(b), the department of education shall enter into a
+12 memorandumofunderstanding(MOU)withthedepartmentofhealthandhumanservicesregarding
+13 the collection and maintenance of student addresses whose parents have opted in to data sharing
+14 pursuant to paragraph VI for the purpose of administering the Summer EBT program pursuant to
+15 RSA 161:2, XIII-c. Data collected and transmitted under this paragraph shall be confidential, be
+16 used exclusively for the administration and distribution of Summer EBT benefits, and not be used
+17 for any other purpose. The departments shall delete any data received under the MOU upon the
+18 completion of the distribution of benefits for the corresponding summer period, unless otherwise
+19 requiredbyfederallaw.
+20 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+HB1727-ASAMENDEDBYTHEHOUSE
+LBA
+26-2965
+1/15/26
+HB1727-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the inter-agency data sharing for the purpose of distributing summer
+electronicbenefittransfer(EBT)benefits.
+FISCALIMPACT:
+TheDepartmentofHealthandHumanServicesstatesthisbillwillhavenofiscalimpact,asit
+alreadyhasamemorandumofunderstandingwiththeDepartmentofEducationrelativeto
+implementationoftheSummerEBTprogram.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

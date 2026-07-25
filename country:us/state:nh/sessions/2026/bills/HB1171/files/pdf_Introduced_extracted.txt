@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1171 -ASINTRODUCED
+2026SESSION
+26-2467
+06/05
+1171
+HOUSEBILL
+ANACT relative to eviction safeguards for tenants whose Social Security payments are
+disrupted.
+SPONSORS: Rep. O'Rorke, Ches. 7; Rep. Bricchi, Merr. 15; Rep. N. Germana, Ches. 15; Rep.
+Gruber, Ches. 16; Rep. Jones, Ches. 3; Rep. Lucas, Graf. 7; Rep. Newell, Ches. 4;
+Rep.W.Thomas,Hills.12;Sen.Fenton,Dist10
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesa90-daygraceperiodforresidentialtenantswhomissrentpaymentsdueto
+anunexpectedinterruptionintheirmonthlySocialSecuritybenefits.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1171-ASINTRODUCED
+26-2467
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to eviction safeguards for tenants whose Social Security payments are
+disrupted.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Social Security Entitlement Payments. Amend RSA 540:3 by inserting after
+2 paragraphIthefollowingnewparagraph:
+3 I-a. If a residential tenant neglects to pay rent due to the unanticipated halt of monthly
+4 Social Security payments, the tenant shall have a 90-day grace period to seek other shelter or seek
+5 otherfunding.
+6 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

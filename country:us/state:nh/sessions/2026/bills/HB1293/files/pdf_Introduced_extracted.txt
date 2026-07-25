@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1293 -ASINTRODUCED
+2026SESSION
+26-2821
+07/09
+1293
+HOUSEBILL
+ANACT taxingcertainpropertiesownedbycharitableornon-profitorganizations.
+SPONSORS: Rep.Bolton,Graf.8;Rep.Schamberg,Merr.6
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill taxes the excess value of certain properties owned by charitable or non-profit
+organizations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1293-ASINTRODUCED
+26-2821
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT taxingcertainpropertiesownedbycharitableornon-profitorganizations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation; Property Taxes; Real Estate and Personal Property Tax Exemption. Amend RSA
+2 72:23,Vtoreadasfollows:
+3 V.(a) The buildings, lands and personal property of charitable organizations and societies
+4 organized, incorporated, or legally doing business in this state, owned, used and occupied by them
+5 directly for the purposes for which they are established, provided that none of the income or profits
+6 thereofisusedforanyotherpurposethanthepurposeforwhichtheyareestablished.
+7 (b) If the value of the buildings and lands of charitable organizations and
+8 societies in subparagraph (a) exceed $1,000,000 in any municipality, the value in excess of
+9 said sum shall be taxable at the municipal rate. A town at an annual town meeting, or the
+10 governing body of a city, may vote to increase the amount of the exemption. If a
+11 municipality and a charitable organization or a society mutually enter into a written
+12 agreement for a voluntary payment in lieu of taxes in accordance with RSA 72:23-n, this
+13 subparagraphshallnotapplyduringthedurationoftheagreement.
+14 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.

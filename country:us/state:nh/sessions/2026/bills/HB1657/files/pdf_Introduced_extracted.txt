@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1657 -ASINTRODUCED
+2026SESSION
+26-3025
+05/06
+1657
+HOUSEBILL
+ANACT relative to the reporting and elimination of prolonged vacancies in state
+government.
+SPONSORS: Rep. Layon, Rock. 13; Rep. Popovici-Muller, Rock. 17; Rep. Sabourin dit
+Choiniere,Rock.30
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs state agencies to identify vacant positions and provide such information to the
+joint committee on employee classification, and following review by the joint committee, legislation
+toabolishthepositionmaybeproposedbythejointcommittee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1657-ASINTRODUCED
+26-3025
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the reporting and elimination of prolonged vacancies in state
+government.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Joint Committee on Employee Classification; Policy Regarding Vacant
+2 Positions. AmendRSA14:14-cbyinsertingafterparagraphIVthefollowingnewparagraph:
+3 V. The acting administrative head of each state agency shall identify, on a rolling basis, all
+4 full and part-time classified and unclassified positions in the agency that have been vacant for at
+5 least 90 days and report such information to the joint committee on employee classification, the
+6 governor, the speaker of the house of representatives, the president of the senate, the fiscal
+7 committee of the general court, the chairmen of the house and senate executive departments and
+8 administration committees, and the executive council. The report shall include a spreadsheet
+9 including the agency; classified or unclassified status; pay grade; position code; funded or unfunded
+10 status; allocation of funding for the position between state general funds, federal funds, or specific
+11 state funds; date the position became vacant; days vacant as of the report and the accounting unit
+12 description. Any full or part-time classified or unclassified position in an agency that has been
+13 vacant for at least 90 days shall not be filled without express approval of the governor and the
+14 executivecouncil.
+15 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

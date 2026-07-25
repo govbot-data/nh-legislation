@@ -1,0 +1,601 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1801-FN-ASINTRODUCED
+2026SESSION
+26-3046
+09/08
+1801-FN
+HOUSEBILL
+ANACT relativetocausesofactionforwrongfuldetention,drugforfeitureproceedings,the
+regulationoflawenforcementofficers,andtheoffenseofunswornfalsification.
+SPONSORS: Rep. Read, Rock. 10; Rep. Tom Mannion, Hills. 1; Rep. Ankarberg, Straf. 7; Rep.
+Beaulier,Graf.1;Rep.D.McGuire,Merr.14
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Establishesspecialprovisionsforactionsallegingwrongfuldetention.
+II. Modifiestheprocedurestobeused regardingforfeitureofitems usedinconnectionwithdrug
+offenses.
+III. Addsnewrequirementsforthecertificationorrecertificationoflawenforcementofficers.
+IV. Makes it a violation-level offense for a law enforcement officer to knowingly provide false
+informationinawrittenreport.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1801-FN-ASINTRODUCED
+26-3046
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocausesofactionforwrongfuldetention,drugforfeitureproceedings,the
+regulationoflawenforcementofficers,andtheoffenseofunswornfalsification.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownasandcitedtoasthe"CleanCopsAct."
+2 2 New Section; Claims Based on Unlawful Detention. Amend RSA 541-B by inserting after
+3 section21-athefollowingnewsection:
+4 541-B:21-b ClaimsBasedonUnlawfulDetention.
+5 Notwithstanding any other provision of this chapter, the following provisions shall apply in an
+6 action brought by an individual alleging that they were unlawfully detained by a law enforcement
+7 agency:
+8 I. Once the plaintiff has made a prima facie case that they were unlawfully detained, the
+9 state shall have the burden of proof to establish by a preponderance of the evidence that the
+10 detentionwaslawful.
+11 II. Damages shall be at a set rate for every hour of unlawful detention. All partial hours
+12 shall be rounded to the following full hour. The rate shall be published annually by the judicial
+13 branch on January 1. The starting rate shall be $100 per hour, and shall be adjusted annually to
+14 accountforcostoflivingincreases.
+15 3 Controlled Drug Act; Forfeiture of Items Used in Connection With Drug Offenses. Amend
+16 RSA318-B:17-btoreadasfollows:
+17 318-B:17-b ForfeitureofItemsUsedinConnectionWithDrugOffense.
+18 I. Interests in the following property, upon petition of the [attorney general] state, shall be
+19 subjecttoforfeituretothestateandsaidpropertyinterestshallbevestedinthestate:
+20 (a) All materials, products and equipment of any kind, including, but not limited to,
+21 firearms, scales, packaging equipment, surveillance equipment and grow lights, which are used or
+22 intended for use in procurement, manufacture, compounding, processing, concealing, trafficking,
+23 deliveryordistributionofacontrolleddruginfeloniousviolationofthischapter.
+24 (b) Propertyinterestinanyconveyance,includingbutnotlimitedtoaircraft,vehicles,or
+25 vessels, which is used or intended for use in the procurement, manufacture, compounding,
+26 processing, concealing, trafficking, delivery or distribution of a controlled drug in felonious violation
+27 ofthischapter.
+28 (c) Any moneys, coin, currency, negotiable instruments, securities or other investments
+29 knowingly used or intended for use in the procurement, manufacture, compounding, processing,
+30 concealing, trafficking, delivery or distribution of a controlled drug in felonious violation of this
+
+HB1801-FN-ASINTRODUCED
+-Page2-
+1 chapter and all proceeds, including moneys, coin, currency, negotiable instruments, securities or
+2 otherinvestments, and anyreal or personal property,traceablethereto. [All moneys, coin, currency,
+3 negotiableinstruments,securitiesandotherinvestmentsfoundinproximitytocontrolledsubstances
+4 are presumed to be forfeitable under this paragraph. The claimant of the property shall bear the
+5 burdenofrebuttingthispresumption.]
+6 (d) Any books, records, ledgers and research material, including formulae, microfilm,
+7 tapesandanyotherdatawhichareusedorintendedforuseinfeloniousviolationofthischapter.
+8 (e) Any real property, including any right, title, leasehold interest, and other interest in
+9 the whole of any lot or tract of land and any appurtenances or improvements, which real property is
+10 knowingly used or intended for use, in any manner or part, in the procurement, manufacture,
+11 compounding, processing, concealing, trafficking, delivery or distribution of a controlled drug in
+12 feloniousviolationofthischapter.
+13 I-a. The state shall have a lien on any property subject to forfeiture under this section upon
+14 seizurethereof. Uponforfeiture,thestate'stitletothepropertyrelatesbacktothedateofseizure.
+15 I-b. Property may be seized for forfeiture by any law enforcement agency designated by the
+16 [departmentofjustice]state,asfollows:
+17 (a) Uponprocessissuedbyanyjustice,associatejusticeorspecialjusticeofthecircuitor
+18 superior court. The court may issue a seizure warrant on an affidavit under oath demonstrating
+19 that probable cause exists for its forfeiture or that the property has been the subject of a previous
+20 final judgment of forfeiture in the courts of any state or of the United States. The application for
+21 process and the issuance, execution and return of process shall be subject to applicable state law.
+22 The court may order that the property be seized and secured on such terms and conditions as are
+23 reasonable in the discretion of the court. Such order may include an order to a financial institution
+24 ortoanyfiduciaryorbaileetorequiretheentitytoimpoundanypropertyinitspossessionorcontrol
+25 and not to release it except upon further order of the court. The order may be made on or in
+26 connectionwithasearchwarrant;
+27 (b) Physically, without process on probable cause to believe that the property is subject
+28 toforfeitureunderthischapter;or
+29 (c) Constructively, without process on probable cause to believe that the property is
+30 subject to forfeiture under this chapter, by recording a notice of pending forfeiture in the registry of
+31 deedsinthecountywheretherealpropertyislocatedoratthetownclerk'sofficewherethepersonal
+32 property is located stating that the state intends to seek forfeiture of the identified property
+33 pursuanttothischapter.
+34 (d) Aseizure for forfeiture without process under subparagraph (b) or (c) is reasonable if
+35 made under circumstances in which a warrantless seizure or arrest would be valid in accordance
+36 withstatelaw.
+
+HB1801-FN-ASINTRODUCED
+-Page3-
+1 (e) United States currency totaling $1,000 or less, or a motor vehicle of $5,000 or
+2 less in market value, shall be exempt from seizure and forfeiture. The department of
+3 justice shall notify state, county, and municipal law enforcement agencies of the
+4 publicationsthatsuchagenciesmayusetoestablishthevalueofamotorvehicle.
+5 (f) Notwithstanding subparagraph (e), any property may be seized or
+6 impounded according to state law if it is needed as evidence in a criminal investigation or
+7 prosecution. The agency seizing the property may take reasonable steps to preserve it for
+8 use as evidence in the investigation or prosecution. This may include promptly returning
+9 thepropertyandusingphotographsorotheralternativesasevidence.
+10 I-c. Upon seizure of any items or property interests the property shall not be subject to
+11 alienation, sequestration or attachment but is deemed to be in the custody of the department of
+12 justicesubjectonlytotheorderofthecourt.
+13 I-d. A person from whom property is seized may waive the person's rights, interests,
+14 and title in the seized property by knowingly and voluntarily executing a forfeiture
+15 document that identifies the seized property to be forfeited and, if any, encumbrances or
+16 liens on the seized property and is approved by the official authorized to prosecute the
+17 associated criminal charge. A law enforcement officer, other than the official authorized
+18 toprosecutetheassociatedcriminalcharge,maynotrequest,induce,orrequireapersonto
+19 relinquish, for purpose of forfeiture, the person's rights, interests, and title in seized
+20 property. A waiver resulting from efforts by a law enforcement officer, other than the
+21 official authorized to prosecute the associated criminal charge, which purports to
+22 relinquish a person’s rights, interests, and title in seized property is void. The waiver is
+23 inadmissibleincourt.
+24 II.(a) Upon the seizure of any personal property under paragraph I, the person making or
+25 directing such seizure shall inventory the items or property interests and issue a copy of the
+26 resulting report to any person or persons having a recorded interest, or claiming an equitable
+27 interestintheitemwithin7daysofsaidseizure.
+28 (b) Upon seizure of any real property under paragraph I, the person making or directing
+29 such seizure shall notify any person having a recorded interest or claiming an equitable interest in
+30 thepropertywithin7daysofsaidseizure.
+31 (c) The seizing agency shall cause an appraisal to be made of the property as soon as
+32 possibleand shall promptly send tothe [department of justice] state a writtenrequest for forfeiture.
+33 This request shall include a statement of all facts and circumstances supporting forfeiture of the
+34 property,includingthenamesofallwitnessesthenknown,andtheappraisedvalueoftheproperty.
+35 (d) The [department of justice] state shall examine the facts and applicable law of the
+36 cases referred pursuant to subparagraph (c), and if it is probable that the property is subject to
+37 forfeiture, shall cause the initiation of [administrative or] judicial proceedings [against] related to
+
+HB1801-FN-ASINTRODUCED
+-Page4-
+1 the property. If upon inquiry and examination, the [department of justice] state determines that
+2 such proceedings probably cannot be sustained or that the ends of justice do not require the
+3 institution of such proceedings, the [department] state shall make a written report of such findings
+4 and send a copyto the seizingagency, and, if appropriate, shall also authorize and direct the release
+5 oftheproperty.
+6 [(e) The department of justice shall, within 60 days of the seizure, file a petition in the
+7 superior court having jurisdiction under this section. If no such petition is filed within 60 days, the
+8 itemsorpropertyinterestseizedshallbereleasedorreturnedtotheowners.]
+9 II-a. Pending forfeiture and final disposition, the law enforcement agency making the
+10 seizureshall:
+11 (a) Placethepropertyunderseal;or
+12 (b) Removethepropertytoastorageareaforsafekeeping;or
+13 (c) Removethepropertytoaplacedesignatedbythecourt;or
+14 (d) Request another agency to take custody of the property and remove it to an
+15 appropriatelocationwithinthestate;or
+16 (e) In the case of moneys, file a motion for transfer of evidence under RSA 595-A:6.
+17 Upon the court's granting of the motion the moneys shall be immediately forwarded to an interest-
+18 bearing seized asset escrow account to be administered by the attorney general. Upon resolution of
+19 the forfeiture proceeding the moneys deposited shall be transferred to the drug forfeiture fund or
+20 returned to the owners thereof as directed by the court. Unless otherwise ordered by a court in a
+21 specific case, interest on all moneys deposited in the seized asset escrow account shall be deposited
+22 annuallyintothedrugforfeiturefundestablishedunderRSA318-B:17-c.
+23 III. The court may order civil forfeiture of all items or property interests subject to the
+24 provisionsofparagraphI[,exceptasfollows:
+25 (a) No item or property interest shall be subject to forfeiture unless the owner or owners
+26 thereofwereconsentingpartiestoafeloniousviolationofthischapterandhadknowledgethereof.
+27 (b) No items or property interests shall be subject to forfeiture unless involved in an
+28 offense which may be charged as a felony] following a conviction for a felony violation of this
+29 chapterpursuanttoparagraphIII-a.
+30 III-a.(a)(1) The court that has jurisdiction in the associated criminal matter shall
+31 have jurisdiction over the civil forfeiture litigation. The same judge shall be assigned
+32 responsibility for both processes and shall coordinate hearings as required in the interest
+33 of justice. The civil forfeiture litigation shall be docketed separately from the criminal
+34 matterandbeassigneditsowndocketnumber.
+35 (2) Ifadefendantinacriminalmatterisrepresentedbyapublicdefenderor
+36 counsel appointed by the court, the public defender or appointed counsel shall represent
+37 thedefendantinthecivilforfeitureproceedinginthissection.
+
+HB1801-FN-ASINTRODUCED
+-Page5-
+1 (3) Following seizure, any person other than a defendant with an interest in
+2 theseizedpropertyshallhavearighttoapost-seizurehearing.
+3 (4) Thecourtmayholdthepost-seizurehearing:
+4 (A) Asaseparatehearing;
+5 (B) At the same time as a probable cause determination, a post-
+6 arraignmenthearing,orotherpretrialhearing;or
+7 (C) Atthecourt'sdiscretion.
+8 (5) Aparty,byagreementorforgoodcause,maymoveforoneextensionofno
+9 morethan30days. Anymotionmaybesupportedbyaffidavitsorothersubmissions.
+10 (6) The court shall order the return of property if, by a preponderance of
+11 evidence,itfinds:
+12 (A) Theseizurewasinvalid;
+13 (B) A criminal charge has not been filed and no extension of the filing
+14 periodisavailable;or
+15 (C) Thepropertycannotbeforfeitedunderthischapter.
+16 (7) Notwithstanding subparagraph (6), the court may impose reasonable
+17 conditions on the return of the property, including delaying return or the use of
+18 photographic evidence, to preserve the property for later use as evidence in criminal
+19 prosecution.
+20 (8) The provisions of this paragraph shall not apply to the return of
+21 controlledsubstances.
+22 (b) In a case in which the state seeks forfeiture of property, the state shall file
+23 withthecourtacivilcomplaintforforfeiture. Itshallincludethefollowinginformation:
+24 (1) Adescriptionofthepropertyseized;
+25 (2) Thetime,date,andplaceoftheseizure;and
+26 (3) Adescriptionof how the property wasusedinor derivedfrom the alleged
+27 crime.
+28 (c)(1) The state shall serve the civil complaint for forfeiture on a reasonably
+29 timelybasis. Thisincludes:
+30 (A) Atarraignment;
+31 (B) For cases initiatedin the circuit court-districtdivision, no later than
+32 90daysaftertheunderlyingcriminalcasehasbeenboundovertothesuperiorcourt;
+33 (C) For cases initiated in superior court, no later than 90 days after the
+34 complainthasbeenfiled;
+35 (D) As established by the superior court in its grant of a motion by the
+36 prosecuting authority that seeks extension of the deadlines in subparagraph (B) or (C) as
+37 requiredintheinterestsofjustice;or
+
+HB1801-FN-ASINTRODUCED
+-Page6-
+1 (E) Atthesuperiorcourt’sdiscretion.
+2 (2) The defendant may answer the civil complaint at any time up to 90 days
+3 after the court enters judgment in the associated criminal prosecution. The defendant’s
+4 failure to answer the complaint prior to conviction will not cause the defendant to default
+5 in the civil case. At any time, the defendant may give notice to the court of the defendant’s
+6 waiverofinterestinanyoftheseizedproperty.
+7 (3) The court shall order the return of the property to the owner if the
+8 prosecuting authority does not file an indictment or information as provided by the court’s
+9 rules,theperiodofanextensionexpires,orthecourtdoesnotgrantanextension.
+10 (d) Discoveryrelatedtotheforfeitureproceedingshallbesubjecttorulesofcivil
+11 procedure and shall be stayed until after the defendant answers the civil complaint in
+12 subparagraph(b).
+13 (e) The court shall consider the loss of property subject to forfeiture as part of
+14 andfollowingtheconvictionoftheassociatedcrime. Propertymaybeforfeitedonlyif:
+15 (1) Thestatesecuresaconvictionunderthischapter;and
+16 (2) The state establishes by a preponderance of the evidence that the
+17 property is proceeds derived directly from, the non-currency fruit of, moneys, coin,
+18 currency, negotiable instruments or other investments knowingly or intended to be used in,
+19 ortheinstrumentofthecrimeforwhichthestatesecuredaconviction.
+20 (f) After the defendant’s conviction, the court shall hold the forfeiture
+21 proceedingatitsdiscretion. Itshallbeconductedbythecourtwithoutajury.
+22 (g) Nothing in this paragraph shall prevent property from being forfeited by
+23 consent order approved by the court provided that all owners, secured interest holders and
+24 other persons entitled to notice under this section consent to the forfeiture. Persons
+25 entitled to notice under this chapter may consent to some issues and have the court
+26 determineremainingissues.
+27 (h) Theconsentordermayreflect:
+28 (1) Apleaagreement;or
+29 (2) Adiversionagreement.
+30 (i) The court may waive the conviction requirement and grant title to the
+31 property to the state no fewer than 90 days after seizure if the state files a civil complaint
+32 andshowsbyapreponderanceoftheevidencethat,beforeconviction,thedefendant:
+33 (1) WasdeportedbytheUnitedStatesgovernment;
+34 (2)Wasextraditedtoanotherstateorforeignjurisdiction;
+35 (3) Hasabandonedtheproperty;
+36 (4) Hasfledthejurisdiction;or
+
+HB1801-FN-ASINTRODUCED
+-Page7-
+1 (5) Is deceased, provided that the defendant’s death shall not preclude the
+2 defendant’sheir or legatee from filingaclaim for the seizedproperty asaninnocentowner
+3 undersubparagraph(l).
+4 (j) The defendant may motion the court to determine whether the forfeiture is
+5 unconstitutionally excessive under the state or federal constitution. At the court’s
+6 discretion,thecourtmayholdaproportionalityhearing:
+7 (1) Asaseparatehearing;
+8 (2) At the same time as post-arraignment hearing, a suppression hearing, a
+9 postseizurehearing,anomnibushearing,orotherpretrialhearing;or
+10 (3) Asahearingafterconviction.
+11 (A) The defendant shall bear the burden of establishing the forfeiture is
+12 unconstitutionally excessive by a preponderance of the evidence at a hearing conducted by
+13 the court without a jury. In determining whether the forfeiture is unconstitutionally
+14 excessive,thecourtshallnotconsiderthevalueofthepropertytothestate.
+15 (B) At any hearing, as allowed by subparagraph (j), the court may
+16 consider all relevant factors to determine if the forfeiture is unconstitutionally excessive
+17 butmayconsiderotherrelevantfactorsincluding:
+18 (i) The seriousness of the crime and its impact on the community,
+19 includingthedurationoftheactivity,useofafirearm,andharmcausedbythedefendant;
+20 (ii) Theextenttowhichthedefendantparticipatedinthecrime;
+21 (iii) The extent to which the property was integral to committing the
+22 crime;
+23 (iv) Whetherthecrimewascompletedorattempted;
+24 (v) Thesentenceorfinetobeimposedforcommittingthecrime;
+25 (vi) Any unjust hardship to the defendant’s family if the property is
+26 forfeited;and
+27 (vii) All relevant factors related to the fair market value of the
+28 property.
+29 (k)(1) Property encumbered by a security interest shall not be forfeited. The
+30 state shall return property to a secured interest holder, other than the defendant or
+31 rightfulowner,uptothevalueoftheinterest.
+32 (2) If the property is not returned, the secured interest holder may file a
+33 pleading in the civil action commenced by the state with the superior court at any time
+34 before the court enters judgment in the associated criminal prosecution or grants the
+35 motioninsubparagraph(i).
+
+HB1801-FN-ASINTRODUCED
+-Page8-
+1 (3) The court shall hold a hearing on the pleading within 30 days after its
+2 filing or at the court’s discretion. The hearing shall be held before the court without a
+3 jury.
+4 (4) The secured interest holder shall establish by a preponderance of the
+5 evidence the validity of the security interest, mortgage, lien, leasehold, lease, rental
+6 agreement,orotheragreement.
+7 (5) If the secured interest holder establishes a valid interest but the state
+8 seekstoproceed,thestateshallprovebyapreponderanceoftheevidencethat:
+9 (A) Theinterestresultedfromafraudulentconveyance;
+10 (B) The interest is held through a straw purchase, trust, or otherwise for
+11 thebenefitofthedefendant;or
+12 (C) Thesecuredinterestholderconsentedtotheuseofthepropertyinthe
+13 crimeforwhichthedefendantischarged.
+14 (6) If the state fails to meet its burden under subparagraph (5), the court
+15 shall order the state to relinquish claims to the property, up to the value of the interest,
+16 andreturntheinteresttothesecuredinterestholder.
+17 (7) Notwithstanding subparagraph (6), the court may impose reasonable
+18 conditions on the return of the property, including delaying return or the use of
+19 photographic evidence, to preserve the property for later use as evidence in criminal
+20 prosecution.
+21 (l)(1) Property of a defendant's heir, owner, or co-owner of seized property who
+22 does not have actual knowledge of the use of the property in a crime that authorizes the
+23 forfeiture of the property, but not the defendant or secured interest holder, shall not be
+24 forfeited. In this paragraph, “actual knowledge” means direct and clear awareness of
+25 information, a fact, or a condition. The state summarily shall return property to such
+26 owner.
+27 (2) If the property is not summarily returned, an innocent owner may file a
+28 pleading in the civil action commenced by the state with the superior court at any time
+29 before the court enters judgment in the associated criminal prosecution or grants the
+30 requestedreliefinthecivilcasereferredtoinsubparagraph(i).
+31 (3) An innocent owner may file a pleading the superior court by filing a
+32 simplestatementthatsetsforth:
+33 (A) Theowner’sinterest;
+34 (B) Additionalfactssupportingtheowner’sclaim;and
+35 (C) Thereliefsoughtbytheowner.
+
+HB1801-FN-ASINTRODUCED
+-Page9-
+1 (4) The court shall hold a hearing on the innocent owner's pleading within
+2 30 days after its filing or at the court’s discretion. The hearing shall be held before the
+3 courtalonewithoutajury.
+4 (5) The innocent owner shall establish by a preponderance of the evidence
+5 thevalidityofinterest.
+6 (6) If the innocent owner meets the burden under subparagraph (5) and the
+7 state seeks to proceed, the state shall prove by a preponderance of the evidence that the
+8 innocentownerisnotentitledtothepropertybecause:
+9 (A) The innocent owner had actual knowledge the property was used in
+10 orderiveddirectly fromthe crimeforwhichthedefendantischargedandtheclaimantdid
+11 not take reasonable steps to prevent the use of the property in the crime for which the
+12 defendant is charged. The claimant is not required to take steps the claimant reasonably
+13 believeswouldsubjecttheclaimanttophysicaldanger;
+14 (B) The innocent owner was willfully blind to the crime for which the
+15 defendantischarged;or
+16 (C) The innocent owner was not a bona fide purchaser without notice of
+17 anydefectintitleandforvaluableconsideration.
+18 (7) If the state fails to meet its burden in subparagraph (6), the court shall
+19 orderthestatetorelinquishallclaimsandreturnthepropertytotheinnocentowner.
+20 (8) Notwithstanding subparagraph (7), the court may impose reasonable
+21 conditions on the return of the property, including delaying return or the use of
+22 photographic evidence, to preserve the property for later use as evidence in criminal
+23 prosecution.
+24 (9) No information in the innocent owner’s statement shall be used as
+25 evidenceinacriminalproceeding.
+26 (10) Nothing in this paragraph shall prohibit the innocent owner from
+27 providing information to any party or testifying in any trial as to facts the innocent owner
+28 knows.
+29 (11) The defendant or convicted offender may invoke the right against self-
+30 incrimination or the marital privilege during the forfeiture proceeding. The trier of fact
+31 maydrawanadverseinferencefromtheinvocationoftherightorprivilege.
+32 (m)(1) If the state fails to meet its burden in the associated criminal or the civil
+33 forfeiture proceeding, the court shall enter judgment dismissing the forfeiture proceeding
+34 andorderingthereturnofpropertyunlesstheowner'spossessionofthepropertyisillegal.
+35 (2) If the state meets its burden in the civil forfeiture proceeding, the court
+36 shallenterjudgmentforfeitingtheproperty.
+
+HB1801-FN-ASINTRODUCED
+-Page10-
+1 (3) A court may enter judgment following a hearing, pursuant to a
+2 stipulationorpleaagreement,oratthecourt’sdiscretion.
+3 (n) Upon the state’s motion following the court entering judgment in the
+4 associated criminal prosecution or at the court’s discretion, the court may order the
+5 forfeiture of substitute property owned solely by the defendant up to the value of property
+6 that is beyond the court’s jurisdiction or cannot be located through due diligence, only if
+7 thestateprovesbyapreponderanceoftheevidencethatthedefendantintentionally:
+8 (1) Dissipatedtheproperty;
+9 (2) Transferred, sold, or deposited property with a third party to avoid
+10 forfeiture;
+11 (3) Diminishedsubstantiallythevalueofproperty;or
+12 (4) Commingled property withother property thatcannot be divided without
+13 difficulty.
+14 (o) A defendant shall not be jointly and severally liable for forfeiture awards
+15 owed by other defendants. When ownership is unclear, a court may order each defendant
+16 toforfeitpropertyonaproratabasisorbyanothermeansthecourtfindsequitable.
+17 (p)(1) A party to forfeiture proceeding, other than the defendant, may appeal
+18 the court’s decision upon the issuance of the order pursuant to the state’s rules of civil
+19 procedureandcourtrules.
+20 (2) The defendant may appeal the court’s decision regarding the seizure or
+21 forfeitureofpropertyfollowingfinaljudgmentintheforfeitureproceeding.
+22 (q)(1) Ifthecourtordersthereturnofproperty,thelawenforcementagencythat
+23 holds the property shall return the property to the rightful owner within a reasonable
+24 periodnottoexceed5daysafterthedateoftheorder.
+25 (2) The rightful owner shall not be subject to any expenses related to towing,
+26 storage,orpreservationoftheproperty.
+27 (3) The law enforcement agency that holds the property shall be responsible
+28 for any damages, storage fees, and related costs applicable to property returned under this
+29 section.
+30 (r) No law enforcement agency shall sell forfeited property directly or indirectly
+31 to any employee of the law enforcement agency, to a person related to an employee by blood
+32 ormarriage,ortoanotherlawenforcementagency.
+33 IV.[(a) The department of justice may petition the superior court in the name of the state in
+34 the nature of a proceeding in rem to order forfeiture of items or property interests subject to
+35 forfeiture under the provisions of this section. Such petition shall be filed in the court having
+36 jurisdictionoveranyrelatedcriminalproceedingswhichcouldbebroughtunderthischapter.
+
+HB1801-FN-ASINTRODUCED
+-Page11-
+1 (b) Such proceeding shall be deemed a civil suit in equity in which the state shall have
+2 the burden of proving all material facts by a preponderance of the evidence and in which the owners
+3 or other persons claiming an exception pursuant to paragraph III shall have the burden of proving
+4 suchexception.
+5 (c) Thecourt shallissue summonsestoall personswho havearecordedinterest or claim
+6 anequitableinterestinsaiditemsorpropertyinterestsseizedunderthis chapterandshall schedule
+7 a hearing on the petition to be held within 90 days of the date specified by the court on the
+8 summonses.
+9 (d) At the request of any party to the forfeiture proceeding, the court may grant a
+10 continuance until the final resolution of any criminal proceedings which were brought against a
+11 party under this chapter and which arose from the transaction which gave rise to the forfeiture
+12 proceeding. No asset forfeiture may be maintained against a person's interest in property if that
+13 personhasbeenfoundnotguiltyoftheunderlyingfeloniouscharge.
+14 (e) Atthehearing,thecourtshall hearevidenceandmake findingsof factand rulings of
+15 law as to whether the property is subject to forfeiture under this chapter. Except in the case of
+16 proceeds, upon a finding that the property is subject to forfeiture the court shall determine whether
+17 the forfeiture of the property is not excessive in relation to the underlying criminal offense. In
+18 making this determination the court shall consider whether in addition to any other pertinent
+19 considerations:
+20 (1) There is a substantial connection between the property to be forfeited and the
+21 underlyingdrugoffense;
+22 (2) Criminal activities conducted by or through the use of the property were
+23 extensive;and
+24 (3) The value of the property to be forfeited greatly outweighs the value of the drugs
+25 that were or would have been likely to be distributed, the costs of the investigation and prosecution,
+26 and the harm caused by the criminal conduct. The court shall, thereupon, make a final order, from
+27 whichallpartiesshallhavearightofappeal.
+28 V.] Final orders for forfeiture of property under this section shall be implemented by the
+29 [department of justice] state and shall provide for disposition of the items or property interests by
+30 the state in any manner not prohibited by law, including retention for official use by law
+31 enforcement or other public agencies or sale at public auction. The [department of justice] state
+32 shall pay the reasonable expenses of the forfeiture proceeding, seizure, storage, maintenance of
+33 custody, advertising, court costs, and notice of sale from any money forfeited and from the proceeds
+34 of any sale or public auction of forfeited items. All outstanding recorded liens on said items or
+35 property interests seized shall be paid in full upon conclusion of the court proceedings from the
+36 proceeds of any sale or public auction of forfeited items. The balance remaining shall be distributed
+37 bythe[departmentofjustice]stateasfollows:
+
+HB1801-FN-ASINTRODUCED
+-Page12-
+1 (a) Of the first $600,000, $100,000 shall be credited to the police psychological stability
+2 screeningfundestablishedinRSA106-L:16andfromtheremainder:
+3 (1) Forty-five percent shall be returned to the fiscal officer or officers of the
+4 municipal, county, state, or federal government which provided the law enforcement agency or
+5 agencies responsible for the seizure. Moneys returned to each fiscal officer shall be deposited in a
+6 special account and shall be used primarily for meeting expenses incurred by law enforcement
+7 agencies in connection with drug-related investigations. Except as provided in RSA 31:95-b, such
+8 funds shall be available for expenditure without further appropriation by the legislative body of the
+9 municipal, county, state or federal government, and shall not be transferred or expended for any
+10 other purpose. Moneys returned to a state law enforcement agency shall be deposited in a special
+11 nonlapsing account established within the office of the state treasurer and shall be in addition to all
+12 otherstateappropriationstosuchagency;
+13 (2) Ten percent shall be deposited into a special nonlapsing account established
+14 withintheofficeofthestatetreasurerforthedepartmentofhealthandhumanservices;and
+15 (3) Forty-five percent shall be deposited in a revolving drug forfeiture fund,
+16 administeredbythe[departmentofjustice]statepursuanttoRSA318-B:17-c;and
+17 (b) Ofanybalanceremaining:
+18 (1) Ten percent shall be deposited in the manner prescribed in subparagraph V(a)(2)
+19 ofthissection;and
+20 (2) Ninety percent shall be deposited in the manner prescribed in subparagraph
+21 V(a)(3)ofthissection.
+22 The total amount of payments made to the special account for the department of health and
+23 human services pursuant to subparagraphs [V(a)(2) and V(b)(1)] IV(a)(2) of this section shall not
+24 exceed $400,000 in any fiscal year and any excess over $400,000 which would otherwise be paid to
+25 such special account under this section shall be deposited in the general fund. The revolving drug
+26 forfeiture fund pursuant to subparagraph IV(a)(3) shall at no time exceed $1,000,000. All sums
+27 intherevolvingdrugforfeiturefundinexcessof$1,000,000shallbecreditedtothegeneralfund.
+28 4 Police Standards and Training; Education and Training Required. Amend RSA 106-L:6, III to
+29 readasfollows:
+30 III. The council, by rules adopted under RSA 541-A, shall establish the standards for
+31 physical and mental fitness under paragraphs IV-XI and shall fix other qualifications for the
+32 appointment of police officers, state corrections officers, and probation-parole officers, including
+33 minimum age, physical and mental standards, citizenship, good moral character, experience, and
+34 other such matters as relate to the competence and reliability of persons to assume and discharge
+35 the responsibilities of their offices. The council shall not certify as a law enforcement officer
+36 any person who was a law enforcement officer in any federal agency or for any other state,
+
+HB1801-FN-ASINTRODUCED
+-Page13-
+1 and who was terminated for cause from that position. The council shall prescribe the means
+2 forpresentingevidenceofthefulfillmentoftheserequirements.
+3 5 Police Standards and Training; Education and Training Required. Amend RSA 106-L:6, VI to
+4 readasfollows:
+5 VI. The council shall require that all uncertified part-time and full-time police officers, state
+6 corrections officers, and probation-parole officers, prior to assuming their duties, successfully pass a
+7 psychological screening test battery administered under the direction of a licensed psychologist or
+8 psychiatrist according to protocols adopted by the council and designed to detect behavioral traits
+9 that could adversely affect the person's ability to perform the essential functions of a law
+10 enforcement officer. Such an examination shall be valid for a period of one year from the date of
+11 administration for purposes of application for such employment. If an officer is found to have
+12 engaged in misconduct but continues to be certified, such screenings shall be required
+13 every5yearsfollowingthefindingofmisconduct.
+14 6 New Paragraph; Falsification in Official Matters; Unsworn Falsification. Amend RSA 641:3
+15 byinsertingafterparagraphIthefollowingnewparagraph:
+16 I-a. A person is guilty of a violation if, while serving as a certified law enforcement officer,
+17 heorsheknowinglymakesafalseentryonanywrittenreport.
+18 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3046
+12/16/25
+HB1801-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocausesofactionforwrongfuldetention,drugforfeitureproceedings,the
+regulationoflawenforcementofficers,andtheoffenseofunswornfalsification.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableDecrease
+RevenueFund ForfeitureRevenue
+Expenditures* IndeterminableIncrease
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures IndeterminableIncrease
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+The Office of Legislative Budget Assistant is unable to provide a complete fiscal note for this bill
+as it is awaiting information from the Police Standards and Training Council. The Council was
+contacted on 11/19/25 for a fiscal note worksheet. When completed, the fiscal note will be
+forwardedtotheHouseClerk'sOffice.
+METHODOLOGY:
+This bill, effective January 1, 2027, creates special provisions for actions alleging wrongful
+detention, modifies procedures governing the forfeiture of property connected to drug offenses,
+establishes new requirements for the certificationand recertification of law enforcement officers,
+and makes it a violation-level offense for an officer to knowingly provide false information in a
+written report. With respect to forfeiture, the bill requires that forfeiture proceedings be
+handled by the prosecuting agency responsible for the associated criminal case, rather than by
+the Department of Justice. The bill also increases the burden of proof required to obtain
+
+forfeiture, making these proceedings more complex and more difficult for the State to
+successfullypursue.
+The Department of Justice (DOJ) states it would be required to provide legal guidance,
+coordination, and support to county attorneys and to the Department of Safety as they assume
+these responsibilities. To meet these ongoing obligations, DOJ anticipates the need for one
+additional full-time attorney. Shifting primary responsibility to the counties will also increase
+the workload and associated costs for county attorneys, and the heightened burden of proof will
+likely reduce the amount of property successfully forfeited statewide. As a result, law-
+enforcement agencies and the Department of Safety may experience reduced forfeiture revenue;
+themagnitudeof this impact is indeterminableat this time. The estimated cost for one attorney
+position is $137,000 in FY 2027, $138,000 in FY 2028, and $139,000 in FY 2029. This bill
+provides neither authorization nor appropriation for new personnel. The Department of Justice
+states it is uncertain what forfeiture revenue would be lost because of this bill. Therefore, the
+revenuefiscalimpactisindeterminable,butitwouldbeadecrease. Itisalsouncertainwhatthe
+full costs would be for the Department of Justice and the counties associated with this bill.
+Therefore, the overall fiscal impact for both is indeterminable but could be $100,000 to $500,000
+orlessfortheDepartmentand$100,000to$500,000foreachcounty.
+The Judicial Branch assumes that substantial work would be required by the court’s
+administrative team to develop and update case-processing requirements in criminal cases,
+(including the instructions, forms, orders, standard procedures, and case processing manuals).
+The Branch states it would be required to invest in robust training for judges and staff. These
+expenses would include the cost of hiring trainers, travel reimbursements, technical equipment,
+printed materials/bench cards, and per diem coverage for judges/court staff absent during
+training. The Branch assumes that once the adjustments are made to case processing and the
+preparation of training materials, then thereafter the fiscal impact of the legislation on the
+Judicial Branch is indeterminate but likely less than $10,000. Without dedicated funding, the
+Branch would be required to reallocate existing staff to update systems and forms, and deliver
+trainingcausingdeferralsinother initiatives. If funded,theBranchwouldlikelyutilize limited-
+term positions or contracts to meet the January 2027 enactment timeline. The program-related
+staffingwouldresultinexpendituresofmorethan$10,000,butlessthan$100,000inthemonths
+priortoimplementation.
+Lastly,thisbilladds,deletes,ormodifiesacriminalpenalty,orchangesstatutetowhichthereis
+a penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, Police
+Standards and Training Council, New Hampshire Association of Counties, and New Hampshire
+MunicipalAssociation

@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1608-FN-ASINTRODUCED
+2026SESSION
+26-2422
+09/06
+1608-FN
+HOUSEBILL
+ANACT relative to grand jury minutes and relative to the defense and indemnification of
+certaingovernmentofficersandemployees.
+SPONSORS: Rep.Flanagan,Hills.45
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill states that a criminal defendant shall be entitled to any grand jury minutes applicable
+to his or her case, which shall be required to be taken. This bill also extends certain defense and
+indemnification protections against complaints filed with or investigations by a professional
+licensing board, committee, or regulatory agency to include those against any assistant county
+attorney,countyattorney,ormunicipalprosecutor.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1608-FN-ASINTRODUCED
+26-2422
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to grand jury minutes and relative to the defense and indemnification of
+certaingovernmentofficersandemployees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 GrandJuries;Minutes. AmendRSA600:5toreadasfollows:
+2 600:5 Clerk; Minutes. The grand jury [may] shall appoint one of their number to be clerk to
+3 preserve minutes of the proceedings before them, which shall be delivered to the attorney general or
+4 county attorney. A criminal defendant shall be entitled to any grand jury minutes relevant
+5 tohisorhercase.
+6 2 PublicOfficersandEmployees;ChapterNameChange. AmendthechapternameofRSA99-D
+7 toreadasfollows:
+8 DEFENSEANDINDEMNIFICATIONOF[STATE]CERTAINGOVERNMENT
+9 OFFICERSANDEMPLOYEES
+10 3 ComplaintsorInvestigationsArisingFromLicensingBoard,Committee,orRegulatoryAgency
+11 Matters. AmendRSA99-D:11,Itoreadasfollows:
+12 I. Without otherwise limiting or defining the sovereign immunity of the state and its
+13 agencies, this chapter shall apply to all complaints filed with or investigations by a professional
+14 licensingboard, committee,or regulatoryagencyagainst anystateofficer,trustee, official, employee,
+15 member of the general court, assistant county attorney, county attorney, municipal
+16 prosecutor, or other person identified in RSA 99-D:2 when acting in the scope of such person's
+17 officialelected,appointed,orstateemploymentdutyandnotinawantonorrecklessmanner.
+18 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2422
+12/8/25
+HB1608-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to grand jury minutes and relative to the defense and indemnification of
+certaingovernmentofficersandemployees.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$650,000to $650,000to $650,000to
+$1,300,000 $1,300,000 $1,300,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0 Increase Increase Increase
+$10,000+ $10,000+ $10,000+
+METHODOLOGY:
+This bill requires grand juries to appoint a clerk to take and preserve minutes of their
+proceedings and provides that a criminal defendant is entitled to any grand jury minutes
+relevant to their case. The bill also expands the defense and indemnification protections under
+RSA 99-D to include assistant county attorneys, county attorneys, and municipal prosecutors
+whenactingwithinthescopeoftheirduties.
+The Department of Justice (DOJ) states this bill will result in an indeterminable increase in
+State General Fund expenditures. DOJ indicates that expanding RSA 99-D to cover assistant
+
+county attorneys, county attorneys, and municipal prosecutors will increase the number of
+individuals eligible for state-provided defense and indemnification in matters before licensing
+boards, committees, or regulatory agencies. DOJ would need to assign attorneys and paralegals
+withintheCivilBureautohandlethesecases.
+Based on the volume of potential complaints, DOJ estimates the bill could require staffing
+equivalent to between one part-time Assistant Attorney General and paralegal, up to two full-
+time Assistant Attorneys General and two full-time paralegals. The Department also notes that
+litigation costs, including expert witnesses, could range from $1,000 to $100,000 per case,
+depending on the complexity of the matter. Because the number of qualifying complaints is
+unknown,thetotalfiscalimpactisindeterminablebutcouldrangefrom$500,000to$1,000,000
+The Judicial Branch states this bill requires grand juries to keep minutes and imposes storage,
+management, and access obligations on court clerks. The Branch explains that grand juries do
+not currently maintain minutes, and the bill provides no procedural standards or mechanics for
+howminutesmustbetaken,approved,orpreserved.
+The Branch states it would need at least one full-time employee tomanage the statewide record-
+keeping program, develop protocols for minute-taking and approval, and administer storage,
+retrieval, and disclosure procedures. The estimated annual cost for salary, benefits, and related
+computerandstoragesystemsisbetween$150,000and$300,000ofGeneralFundexpenditures.
+This bill does not provide funding nor does it authorize the positions requested by the
+DepartmentofJusticeortheJudicialBranch.
+The New Hampshire Association of Counties states this bill will likely increase county
+expenditures. Counties do not currently record or transcribe grand jury proceedings. Requiring
+minutes to be kept and preserved would necessitate new personnel time, equipment, or
+contracted transcription services. Counties may also incur additional costs to review and redact
+minutesiftheybecomesubjecttodisclosurerequests. Becausecountiesdonotcurrentlyperform
+these functions and because the number of proceedings and requests cannot be predicted, the
+fiscalimpactisindeterminable.
+The New Hampshire Municipal Association (NHMA) states this bill may result in
+indeterminable costs for municipalities. The expansion of indemnification under RSA 99-D
+raises uncertainty about whether the state or municipalities would bear the cost of defending
+municipal prosecutors. If municipalities are responsible, the cost of indemnification in cases
+involving wanton or reckless conduct would exceed $10,000. NHMA is unable to determine the
+numberorfrequencyofsuchcases.
+
+AGENCIESCONTACTED:
+Department of Justice, Judicial Branch, New Hampshire Association of Counties, and New
+HampshireMunicipalAssociation

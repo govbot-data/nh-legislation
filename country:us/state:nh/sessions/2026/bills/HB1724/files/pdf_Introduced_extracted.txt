@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1724 -ASINTRODUCED
+2026SESSION
+26-2735
+06/08
+1724
+HOUSEBILL
+ANACT relative to public transparency of electric utility retail charges and cost reporting
+fortransmission,wholesaleelectricity,capacity,andgenerationadequacy.
+SPONSORS: Rep.W.Thomas,Hills.12
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires public utilities to submit annual reports detailing transmission costs, market
+impacts, and generation capacity, including data center-related risks, and mandates public hearings
+andagencyreview.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1724-ASINTRODUCED
+26-2735
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to public transparency of electric utility retail charges and cost reporting
+fortransmission,wholesaleelectricity,capacity,andgenerationadequacy.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StateEnergyPolicy. AmendRSA378:37toreadasfollows:
+2 378:37 NewHampshireEnergyPolicy.
+3 I. The general court declares that it shall be the energy policy of this state to meet the
+4 energyneedsofthecitizensandbusinessesofthestateatthelowestreasonablecostwhile providing
+5 for the reliability and diversity of energy sources; to maximize the use of cost effective energy
+6 efficiency and other demand side resources; and to protect the safety and health of the citizens, the
+7 physical environment of the state, and the future supplies of resources, with consideration of the
+8 financialstabilityofthestate'sutilities. ItisthepolicyofthesovereignstateofNewHampshireand
+9 purpose of this chapter to use market and regulatory mechanisms to promote affordable, reliable,
+10 diverse, and secure energy resources for the public health, safety, and welfare of its citizens and its
+11 physicalenvironment.
+12 [I.](a) New Hampshire shall promote the development of resources to achieve the
+13 purposeofthischapter,fosteringarangeoftechnologytypes,includingreliable,on-demand,diverse,
+14 and firm energy resources, and distributed energy sources and storage capacities consistent with
+15 thesegoals,whileallowingforcustomerchoice.
+16 [II.](b) New Hampshire shall promote the development of resources, tools, and
+17 infrastructure to enhance the state's ability to ensure the state's energy independence by removing
+18 regulatory barriers to innovation to ensure that the state can procure affordable, reliable, diverse,
+19 and secure energy resources, including energy generation combined with storage, and consistent
+20 withRSA362-F.
+21 [III.](c) New Hampshire shall allow market forces and market-based mechanisms to
+22 drive prudent use of energy resources. Government intervention to economically advantage one
+23 technologyoveranothershallbetime-limited,narrow,ornecessarytoachieveaspecificpolicygoal.
+24 [IV.](d) New Hampshire shall pursue energy conservation and efficiency according to
+25 market principles in order to address market barriers, as regulated by policies for the public good
+26 and public health, and focus on market transformation in accordance with cost-effective fiscal
+27 strategiesasauthorizedbythelegislature,andconsistentwithRSA374-F.
+28 [V.](e) New Hampshire shall maintain an environment that allows for accurate market
+29 signals while balancing affordable consumer prices, price stability, energy reliability, public health
+30 andsafety,andthefinancialstabilityofutilitiesandenergysuppliers.
+
+HB1724 -ASINTRODUCED
+-Page2-
+1 [VI.](f) State regulatory processes shall balance economic costs with the level of review
+2 necessary to ensure protection of the state's various interests, and where federal action is required,
+3 NewHampshirewillcollaboratetoencourageexpeditedfederalreviewandaction.
+4 II. The general court declares that the electricity ratepaying public must be
+5 informed of the basis for the charges on their electric bills to ensure that the rates are just
+6 andreasonable,asrequiredbyfederalandNewHampshirelaw.
+7 (a) The New Hampshire public utilities commission shall open a continuous
+8 docket.
+9 (b) On or before January 1, 2027, and annually thereafter, public utilities shall
+10 file a report with the commission providing detailed information on their transmission
+11 costs, both regional and local, on a project-specific basis for the 5 years preceding the date
+12 ofthereport. Thereportshallclearlyexplaintheformularateusedtocalculatechargesto
+13 ratepayers, including but not limited to the debt-to-equity ratio. The report shall specify
+14 the date each charge was imposed for each project and the cost per kilowatt hour for
+15 ratepayers.
+16 (c) The annual report shall include a summary of the wholesale electricity
+17 market, including the causes of market volatility, the utility’s market purchase strategy,
+18 purchaseprices,andtheimpactofthosepurchasesonratepayers.
+19 (d) The annual report shall include a summary of the forward capacity market,
+20 including the auction process, the bidders and auction prices, and the impact of the
+21 auctionprocessonratepayers.
+22 (e) The annual report shall include a summary of generation resources
+23 available to serve the projected load demand of the utility’s customers and an assessment
+24 oftheadequacyofthoseresources. Thereportshallalsoincludeananalysisofanticipated
+25 generation capacity needs for data centers requiring 5 megawatts or more. The report
+26 shall include recommendations to the commission on how ratepayers will be insulated
+27 from the costs of data center interconnection to the grid, transmission infrastructure, rate
+28 structure impacts, and the stranded cost risk resulting from data center failure or
+29 withdrawalfromaprojectwithunpaidinterconnectionorinfrastructurecosts.
+30 (f) The commission shall convene a public hearing every 3 years to consider the
+31 annualfilings,withfullrightsofpublicintervention.
+32 (g) The New Hampshire department of energy and the office of the consumer
+33 advocate shall, within 90 days of each annual utility filing, submit a report to the
+34 commission evaluating the adequacy of the utility’s report and providing any
+35 recommendations.
+36 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

@@ -1,0 +1,369 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1740-FN-ASINTRODUCED
+2026SESSION
+26-2712
+09/08
+1740-FN
+HOUSEBILL
+ANACT relativetotheprotectionofpersonsfromdomesticviolence.
+SPONSORS: Rep.SabourinditChoiniere,Rock.30;Rep.Belcher,Carr.4;Rep.Bernardy,Rock.
+36; Rep. Comtois, Belk. 7; Rep. DeRoy, Straf. 3; Rep. D. Kelley, Hills. 32; Rep.
+Perez,Rock.16;Rep.Sirois,Hills.32
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises the standards and processes for the issuance of orders of protection in domestic
+violence, law enforcement response, and relationship to criminal proceedings. This bill further
+establishesadomesticviolencelawenforcementtrainingandsupportfund.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1740-FN-ASINTRODUCED
+26-2712
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheprotectionofpersonsfromdomesticviolence.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ProtectionofPersonsfromDomesticViolence. RSA173-Bisrepealedandreenactedtoreadas
+2 follows:
+3 CHAPTER173-B
+4 PROTECTIONOFPERSONSFROMDOMESTICVIOLENCE
+5 173-B:1 Definitions.
+6 Inthischapter:
+7 I. “Abuse” means the commission or attempted commission of any of the following criminal
+8 actsbyafamilyorhouseholdmemberorbyacurrentorformersexualorintimatepartner:
+9 (a) Assaultorrecklessconduct(RSA631:1through631:3);
+10 (b) Criminalthreatening(RSA631:4);
+11 (c) Sexualassault(RSA632-A:2through632-A:5);
+12 (d) Interferencewithfreedom(RSA633:1through633:3-a);
+13 (e) Interferencewithcustody(RSA633:4);
+14 (f) Destructionofproperty(RSA634:1and634:2);
+15 (g) Unauthorizedentry(RSA635:1and635:2);
+16 (h) Harassment(RSA644:4);
+17 (i) Crueltytoanimals(RSA644:8).
+18 II. “Contact” means any action to communicate directly or indirectly with another person,
+19 including, but not limited to, electronic communication, leaving items, or causing a third party to
+20 communicateonone'sbehalf.
+21 III. “Deadlyweapon”meansasdefinedinRSA625:11,V.
+22 IV. “Domesticviolence”meansabuseasdefinedinparagraphIofthissection.
+23 V. “Familyorhouseholdmember”means:
+24 (a) Spouses,ex-spouses,currentorformercohabitants;
+25 (b) Parents and other persons related by blood or marriage, excluding minor children
+26 whoresidewiththedefendant.
+27 VI. “Firearm” means any weapon, including a starter gun, that will, is designed to, or may
+28 readilybeconvertedtoexpelaprojectilebytheactionofanexplosive.
+29 VII. “Foreignprotectiveorder”meansanorderenforceableunderRSA173-B:13.
+30 VIII. “Intimate partners” means individuals currently or formerly engaged in a romantic
+31 relationship,regardlessofsexualactivity.
+
+HB1740-FN-ASINTRODUCED
+-Page2-
+1 IX. “Cross orders for relief” means separate orders granted to each party in a domestic
+2 violencesituationwhereeachhasfiledapetitionbasedonthesameincidentorincidents.
+3 X. “Mutual orderfor relief”means asingle orderrestrainingbothparties, originatingfrom a
+4 petitionfiledbyoneparty,basedonthesameincidentorincidents.
+5 173-B:2 MandatoryLawEnforcementResponse.
+6 I. When a law enforcement agency receives a report alleging abuse under RSA 173-B:1, I, it
+7 shall:
+8 (a) Dispatchanofficertoinvestigate;
+9 (b) Createawritteninvestigativereport;
+10 (c) Collectandpreserveevidence;
+11 (d) Interviewwitnesses;
+12 (e) Photographvisibleinjuriesandpropertydamage;and
+13 (f) Providethevictimwithafreecopyofthereportuponrequest.
+14 II. No agency shall refer the complainant to civil court as a substitute for criminal
+15 investigation.Civilprotectiveordersmaysupplement,butnotreplace,criminalprocesses.
+16 III. The agency shall forward the report to the appropriate prosecuting authority within 24
+17 hours.
+18 173-B:3 ArrestAuthorityandMandatoryArrest.
+19 I. Anofficershallarrestapersonwhenprobablecauseexiststobelievetheyhavecommitted
+20 abuseunderthischapter,regardlessofwhethertheabusewaswitnessed.
+21 II. Arrestshalloccurwithin12hoursofestablishingprobablecause,unless:
+22 (a) Thesuspectcannotbelocatedafterreasonableeffort;
+23 (b) Thesuspectishospitalizedormedicallyincapacitated;
+24 (c) Exigentcircumstancespreventarrest.
+25 III. If probable cause exists for multiple individuals, each shall be arrested independently.
+26 Mutualallegationsorclaimsofself-defenseshallnotprecludearrestwhereprobablecauseexists.
+27 IV. Eacharrestshallbedocumentedinaseparatereportwith:
+28 (a) Specificcriminalactsalleged;
+29 (b) Supportingevidence;
+30 (c) Observedinjuries;
+31 (d) Statementsbyallpartiesandwitnesses;and
+32 (e) Physicalevidencecollected.
+33 173-B:4 FalseReports.
+34 I. KnowinglyfalsereportsmadeinbadfaithshallbesubjecttoprosecutionunderRSA641:4
+35 forfalsereportstolawenforcement.
+36 173-B:5 JurisdictionandVenue.
+
+HB1740-FN-ASINTRODUCED
+-Page3-
+1 I. Criminal proceedings shall be brought in the district division or superior court with
+2 jurisdictionovercriminalmatters.
+3 II. Civilprotectiveorderpetitionsshallbefiledexclusivelyinthesuperiorcourt.
+4 III. A plaintiff who has relocated to avoid abuse may file in the county where they currently
+5 reside.
+6 173-B:6 CivilProtectiveOrders:PrerequisitesandCommencement.
+7 I. Acivilprotectiveorderpetitionmayonlybefiledif:
+8 (a) CriminalchargesunderRSA173-B:1,Iarepending;
+9 (b) Ajudicialfindingofprobablecausehasbeenmade;
+10 (c) Chargesremainpendingorhaveresultedinaconviction.
+11 II. Petitionsshallinclude:
+12 (a) Criminaldocketnumber;
+13 (b) Documentationoffiledchargesandprobablecausefinding;
+14 (c) Allegationsthatarisefromorarebasedonthesameconductasthecriminalcharges;
+15 (d) Relationshipinformationshowingeligibility.
+16 III. Nofilingfeeshallberequired.
+17 IV. A hearing shall occur within 30 days of filing, or within 10 days of service, whichever is
+18 later.
+19 173-B:7 TemporaryCivilProtectiveOrders.
+20 I. Upon confirming criminal charges and probable cause, the court shall issue temporary
+21 protectiveordersattheplaintiff’srequest. Nofurthershowingofdangershallberequired.
+22 II. Temporaryordersmay:
+23 (a) Prohibitcontact.
+24 (b) Restrictentryintoplaintiff’sresidenceorworkplace.
+25 (c) Prohibitabuse.
+26 III. Suchordersshallexpireupontheearliestof:
+27 (a) Dismissalofallunderlyingcriminalcharges.
+28 (b) Finalhearingonthepetition.
+29 (c) 30daysafterissuance.
+30 173-B:8 FinalCivilProtectiveOrders.
+31 I. Afterhearing:
+32 (a) If criminal charges led to conviction/guilty plea, the court shall issue a final civil
+33 orderofprotectionuponrequestoftheplaintiff.Nofurthershowingshallberequired.
+34 (b) If criminal charges are pending, the plaintiff shall prove by a preponderance of the
+35 evidencethatthedefendantposesapresentcrediblethreattotheplaintiff’ssafety.
+36 II. Finalordersmay:
+37 (a) Prohibitcontact;
+
+HB1740-FN-ASINTRODUCED
+-Page4-
+1 (b) Restrictaccesstospecifiedlocations;
+2 (c) Restrictfirearmpossession(ifconsistentwithcriminalconditions);and
+3 (d) Imposerestrictionsalignedwithanycriminalorders.
+4 III. Thedurationoftheordershallbe:
+5 (a) Forpendingcharges,amaximumofoneyear,renewablewithgoodcause.
+6 (b) Followingaconviction,amaximumof5years,renewableonrequest.
+7 IV. Ordersautomaticallyterminateupon:
+8 (a) Dismissal or acquittal of all criminal charges that formed the basis for the protective
+9 order;or
+10 (b) Expirationofstatedduration.
+11 173-B:9 RelationshiptoCriminalProceedings.
+12 I. Civilprotectiveordersmaynotcontradictorexceedcriminalreleaseconditions.
+13 II. Ordersterminateimmediatelyupondismissaloracquittaloftherelatedcharges.
+14 III. Criminalcourtsshallnotifythesuperiorcourtofdispositionwithin24hours.
+15 173-B:10 ServiceandNotification.
+16 I. Protectiveordersshallbeservedbylawenforcement.
+17 II. Copiesshallbesentto:
+18 (a) Locallawenforcement;
+19 (b) Departmentofsafetyforinclusioninthestatedatabase;and
+20 (c) Prosecutingattorney.
+21 III. Defendantsareresponsibleforupdatingtheiraddresswiththecourt.
+22 173-B:11 Violations.
+23 I. Violations constituting new crimes shall be prosecuted under appropriate criminal
+24 statutes.
+25 II. Non-criminal violations may be addressed via a motion for civil contempt filed by the
+26 plaintiff,subjecttofinesorothercivilpenalties.
+27 173-B:12 JustificationofDefensiveForcebyProtectedPersons.
+28 I. A person who holds a valid protective order issued under this chapter shall be rebuttably
+29 presumed to have a reasonable fear of imminent harm, and any use of physical force, including
+30 deadlyforce,againsttherestrainedpartyshallbepresumedlegallyjustifiedasself-defense,if:
+31 (a) The restrained party is present in violation of the protective order by approaching,
+32 entering, or remaining at the protected person's residence, workplace, school, or any other location
+33 specificallyprohibitedbytheorder;and
+34 (b) The protected person reasonably believed such force was necessary to prevent
+35 imminentunlawfulforceorharm.
+36 II. The presumption in paragraph I shall not apply to chance or incidental encounters in
+37 public spaces not covered by the terms of the protective order, including but not limited to stores,
+
+HB1740-FN-ASINTRODUCED
+-Page5-
+1 places of worship, and community events. In such cases, the protected person retains all rights to
+2 usephysicalordeadlyforceasotherwiseauthorizedunderRSA627orotherapplicablelaw.
+3 III. Nothinginthissectionshallbeconstruedto:
+4 (a) Authorize the use of force in response to mere presence absent a reasonable belief in
+5 imminentharm;or
+6 (b) Create a duty to retreat if the protected person is in a place where they have a legal
+7 righttobe.
+8 IV. This section is intended to supplement, not limit, any existing legal defenses under RSA
+9 627orotherapplicablelaw.
+10 173-B:13 InterstateEnforcement.
+11 I. Foreignprotectiveordersshallbeaccordedfullfaithandcreditif:
+12 (a) Theissuingcourthadjurisdiction;and
+13 (b) Thedefendantreceivednoticeandanopportunitytobeheard.
+14 II. Apersonseekingenforcement of aforeigncivil order shall fileacertified copyinsuperior
+15 court. Nofilingfeeshallapply.
+16 173-B:14 RightsofVictims.
+17 I. VictimsshallreceiveallrightsunderRSA21-M:8-k.
+18 II. Nopersonshallbepenalizedforleavingaresidenceorhouseholdtoavoidabuse.
+19 III. Minoritystatusshallnotprecludeapersonfromseekingprotection.
+20 173-B:15 Confidentiality.
+21 I. Uponrequest,aplaintiff’saddressandlocationshallbekeptconfidential.
+22 II. Suchinformationshallonlybedisclosedbycourtorderforgoodcause.
+23 173-B:16 LawEnforcementTrainingandSupportFund.
+24 I. There is established a special fund, known as the domestic violence law enforcement
+25 training and support fund, to provide financial assistance to law enforcement agencies for training,
+26 equipment,investigativecosts,andimplementationofbestpracticesinresponsetodomesticviolence
+27 casesunderthischapter.
+28 II. The fund shall be administered by the New Hampshire department of justice. The state
+29 treasurershalldepositintothefund:
+30 (a) AnyfinescollectedfromcivilcontemptproceedingsunderRSA173-B:11,II;
+31 (b) Anyfundsappropriatedbythelegislatureforthispurpose;
+32 (c) Anygifts,grants,ordonationsfrompublicorprivatesources;and
+33 (d) Anyfederalfundsallocatedfordomesticviolencelawenforcementprograms.
+34 III. Moneysinthefundshallbeusedexclusivelyto:
+35 (a) Develop and deliver statewide or regional training programs on domestic violence
+36 investigation,arrestprocedures,victimsafety,trauma-informedpractices,anduseofforce;
+
+HB1740-FN-ASINTRODUCED
+-Page6-
+1 (b) Support local agency costs associated with enforcement of protective orders,
+2 includingserviceofprocess,datareporting,andfollow-upcompliancechecks;
+3 (c) Provide technical assistance, model protocols, and law enforcement resource
+4 materials;
+5 (d) Reimburse law enforcement agencies for eligible expenses incurred in the
+6 administrationandenforcementofthischapter;and
+7 (e) Maintain secure databases for protective orders and offender histories in
+8 coordinationwiththedepartmentofsafety.
+9 IV.(a) Theattorneygeneralshallappointadomesticviolencelawenforcementcoordinatorto
+10 managefundadministrationandoversight.
+11 (b) The department of justice shall adopt rules under RSA 541-A governing application
+12 procedures,allowableexpenses,reportingrequirements,andauditprotocols.
+13 (c) The coordinator shall review applications and issue grants to eligible law
+14 enforcementagenciesonarollingbasis,subjecttoavailabilityoffunds.
+15 (d) No more than 5 percent of the fund’s annual expenditures shall be used for
+16 administrativecosts.
+17 V. Only publicly funded law enforcement agencies operating within the state of New
+18 Hampshire shall be eligible to receive grants or disbursements from the fund. Eligible entities
+19 include municipal police departments, county sheriff’s offices, and state law enforcement agencies.
+20 No private individuals, non-profit organizations, corporations, advocacy groups, or other non-
+21 governmentalentitiesshallbeeligibletoapplyfororreceivefundingunderthissection.
+22 VI. Thedepartmentofjusticeshall:
+23 (a) Submit an annual report to the governor and legislature detailing all distributions
+24 fromtheFund,grantrecipients,andprogramoutcomes;
+25 (b) Publishupdatedtrainingprotocolsand resourcesdeveloped withfund supportonthe
+26 department’spublicwebsite;
+27 (c) Retainauditauthoritytoensurecompliancewithfundingterms.
+28 173-B:17 Severability.
+29 Ifanypartofthischapterisheldinvalid,theremaindershallremainineffect.
+30 2 New Subparagraph; Application of Receipts; Domestic Violence Law Enforcement Training
+31 and Support Fund. Amend RSA 6:12, I(b) by inserting after subparagraph (410) the following new
+32 subparagraph:
+33 (411) Moneys deposited in the domestic violence law enforcement training and
+34 supportfundasestablishedinRSA173-B:16.
+35 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2712
+Revised1/12/26
+HB1740-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheprotectionofpersonsfromdomesticviolence.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable
+Indeterminable Indeterminable
+Increase
+Revenue $0 Increase$10,000 Increase$10,000
+$10,000to
+to$100,000 to$100,000
+$100,000
+RevenueFund(s) LawEnforcementTrainingandSupportFund
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+$250,000to $200,000to $200,000to
+Expenditures* $0 $950,000+ $1,010,000+ $1,010,000+
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+(LETSFund) (LETSFund) (LETSFund)
+GeneralFund,HighwayFund,andLawEnforcementTrainingandSupport
+FundingSource(s)
+(LETS)Fund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalRevenue $0
+Increase Increase Increase
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill repeals and reenacts RSA 173-B, making extensive changes to the standards,
+procedures, and timelines applicableto domestic violence protective orders, including mandatory
+law enforcement response, arrest standards, prerequisites for relief, new timelines for hearings,
+required notices, and updated definitions. The bill also transfers jurisdiction over all civil
+domestic violence protective order petitions to the Superior Court, while related domestic
+
+relations matters continue in the Circuit Court. In addition, the bill establishes a new Law
+Enforcement Training Fund to support training programs related to domestic violence
+investigations and requires the Attorney General to appoint a law enforcement coordinator to
+administerthefund.
+The Judicial Branch states that implementation of this bill would require substantial
+administrative work prior to the January 1, 2027 effective date, including redesign of all
+domestic-violence forms and orders, updates to case-processing manuals and templates,
+modifications to the case management system, reconfiguration of workflows between the Circuit
+and Superior Courts, and statewide training for judges, clerks, and crisis-center partners. The
+Branch notes that these tasks require project management, legal review, training development,
+communication planning, and technical updates that cannot be absorbed within current
+resources. To prepare for the effective date, the Branch estimates expenditures of more than
+$100,000andlessthan$200,000inFY2027forpre-implementationwork.Afterimplementation,
+ongoing system maintenance, training updates, and support would result in indeterminable
+annualcosts,butlikelylessthan$10,000peryear.
+The Department of Justice(DOJ) states thebill would require theAttorneyGeneral toappoint a
+law enforcement coordinator responsible for administering the new Law Enforcement Training
+Fund, evaluating domestic-violence training curriculum, and supporting local law enforcement.
+The DOJ notes that the position must include both programmatic expertise and financial
+management skills, and because the bill does not specify the level or classification of the
+coordinator, the Department cannot estimate salary and benefit cost at this time. The
+Department states the position and associated administrative responsibilities will result in an
+indeterminable increase in state General Fund expenditures between 100,000 to $500,000 per
+fiscal year. The DOJ also states the bill does not provide sufficient funding to support these
+responsibilities and that its existing budget cannot absorb costs. With respect to the Law
+Enforcement Training Fund, DOJ states that because the bill does not identify a revenue source
+or specify how much money will be deposited into the fund, state revenues are indeterminable,
+but could be between $10,000 to $100,000 per year, depending on future legislative
+appropriations,grants,orotherfundingstreams.
+The Department of Safety states this bill would increase state expenditures due to expanded
+mandatory law enforcement response requirements, investigative standards, arrest timelines,
+and reporting obligations related to domestic violence incidents. The bill requires law
+enforcement agencies to perform specific investigative tasks in all reported cases, forward
+investigative reports within certain timeframes, and obtain arrest warrants in circumstances
+previously permitted without a warrant. The Department states these requirements would
+
+significantly increase staff time, overtime, and training needs. As a result, the Department
+estimates increased expenditures of more than $100,000 and less than $500,000 per fiscal year
+withhalftheimpactbeginninginFY2027andthefullimpactbeingfeltinFY2028andforward.
+Theseexpenditureswouldbesplit75%GeneralFundand25%HighwayFund.
+The Police Standards and Training Council states this bill would require a complete rewrite of
+academy curriculum, scenario training, testing materials, and legal instruction related to
+domestic violence response and arrest authority. As currently written, the bill does not clearly
+state whether the Council would be eligible to access the newly established Law Enforcement
+Training and Support Fund. If the bill is amended to allow the Council to use the fund, there
+would be no additional fiscal impact to the Council’s operating budget. If not, the fiscal impact
+would be indeterminable due to curriculum redevelopment costs and the unknown scope of
+requiredstatewideorregionaltraining.
+The New Hampshire Municipal Association (NHMA) states there will likely be increased local
+expenditures associated with enforcing protective orders, including service of process, data
+reporting, follow up compliance checks, training, and other activities required under the bill.
+The NHMA notes these costs may be offset in future years by reimbursements from the Law
+EnforcementTrainingandSupportFund. Anyadditionalmunicipalexpenditureswilldependon
+the number of reports alleging abuse under RSA 173 B:1, I within a community and the results
+oftherelatedinvestigations.
+AGENCIESCONTACTED:
+JudicialBranch,DepartmentofJustice,NHPoliceStandardsandTrainingCouncil,Department
+ofSafety,andNewHampshireMunicipalAssociation

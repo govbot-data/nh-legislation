@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1621-FN-ASINTRODUCED
+2026SESSION
+26-2518
+04/09
+1621-FN
+HOUSEBILL
+ANACT requiring a baseline environmental impact study to be completed prior to
+developmentofcertainmanufacturingandstoragefacilities.
+SPONSORS: Rep. Perez, Rock. 16; Rep. DeRoy, Straf. 3; Rep. Dunn, Rock. 16; Rep. Andrus,
+Merr. 5; Rep. McGhee, Hills. 35; Rep. Wheeler, Hills. 33; Rep. W. Thomas, Hills.
+12
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill requires abaseline environmental impact studytobecompleted prior todevelopment of
+certainmanufacturingandstoragefacilities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1621-FN-ASINTRODUCED
+26-2518
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring a baseline environmental impact study to be completed prior to
+developmentofcertainmanufacturingandstoragefacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Environmental Impact Study Requirement for Manufacturing and Storage
+2 Facilities. AmendRSA155-Abyinsertingaftersection4thefollowingnewsection:
+3 155-A:4-a EnvironmentalImpactStudyRequirementforManufacturingandStorageFacilities.
+4 I. Definitions.
+5 (a) "Baseline environmental study" means a comprehensive assessment of the existing
+6 environmental conditions at the time of application. It shall serve as the reference point for
+7 evaluating the potential environmental impacts of the proposed development and shall be conducted
+8 inaccordancewithstandardsestablishedbythedepartment. Thestudyshallincludedataonwater,
+9 air,soil,noise,andlight.
+10 (b) "Manufacturing facility" means any building, structure, or premises used for the
+11 industrial-scale processing, preparation, assembly, packaging, or fabrication of goods, materials, or
+12 products,includingbutnotlimitedtofood,chemicals,electronics,ormachinery.
+13 (c) "Storage facility" means any building, structure, or premises used for the commercial
+14 or industrial storage of goods, materials, equipment, or hazardous substances, including self-service
+15 storageunits,warehouses,andundergroundstoragetanks,whetherfortemporaryorlong-termuse.
+16 II. No permit shall be issued under RSA 155-A:4 for the development of any manufacturing
+17 or storage facility over 50,000 square feet unless the applicant submits proof of a completed baseline
+18 environmentalimpactstudy(EIS). TheEISshall:
+19 (a) Be conducted by a qualified environmental professional or agency approved by the
+20 NewHampshiredepartmentofenvironmentalservices.
+21 (b) Befundedbytheapplicant.
+22 (c) Includeanalysisofpotentialimpactsonthefollowing:
+23 (1) Waterqualityandquantity.
+24 (2) Airemissions.
+25 (3) Soilcontamination.
+26 (4) Noiseandlightpollution.
+27 (d) Include a cumulative impact assessment, considering past, present, and reasonably
+28 foreseeablefutureactions.
+29 (e) Evaluate reasonable alternatives to the proposed action, including a no-action
+30 alternative.
+
+HB1621-FN-ASINTRODUCED
+-Page2-
+1 (f) Identify feasible mitigation measures to avoid or minimize adverse environmental
+2 effects.
+3 (g) Becompletedpriortotheissuanceofanypermit.
+4 (h) Beupdatedevery5yearsfollowingtheinitialstudy.
+5 (i) Beresubmitteduponanychangeinownershiporchangeinuseofthefacility.
+6 III. The department shall not issue a permit unless it determines that the proposed
+7 development will not result in unreasonable adverse environmental impacts, and that appropriate
+8 mitigationmeasureshavebeenidentifiedandincorporated.
+9 IV. All environmental impact studies and related documents shall be made available to the
+10 public in accordance with RSA 91-A. The department shall provide a public comment period of not
+11 lessthan30dayspriortofinalpermitapproval.
+12 2 New Paragraph; Duties of Commissioner; Administrative Rules. Amend RSA 21-O:3 by
+13 insertingafterparagraphXthefollowingnewparagraph:
+14 XI. Adopt administrative rules pursuant to RSA 541-A regarding the applicant submission
+15 process for environmental impact studies for manufacturing and storage facilities pursuant to RSA
+16 155-A:4-a.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2518
+12/4/25
+HB1621-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring a baseline environmental impact study to be completed prior to
+developmentofcertainmanufacturingandstoragefacilities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $150,000 $196,000 $200,000
+FundingSource(s) Other
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires applicants seeking to develop manufacturing or storage facilities over 50,000
+square feet to complete a baseline environmental impact study (EIS) covering air, water, soil,
+noise,andlightimpacts. Thestudymustbeconductedbyaqualifiedenvironmentalprofessional
+or agency approved by the Department of Environmental Services (DES), and the Department
+may not issue a permit unless it determines the project will not result in unreasonable adverse
+environmentalimpactsandappropriatemitigationmeasureshavebeenincorporated.
+The Department of Environmental Services states it does not currently have a program to
+approve environmental professionals for this purpose, nor does it have existing staff with the
+combined background necessary to review environmental impact studies addressing air, water,
+soils,and noise and light pollution. DES notes thecriteriafor training, practice, and approval of
+qualified professionals would need to be developed, and the technical review of EIS submissions
+wouldrequireskillsetsthatdonotcurrentlyexistwithintheagency.
+To implement the bill, DES indicates that at least two additional full-time Environmental
+Scientists(19-2040ENVSCIENTISTS-3SOC19-06)wouldbeneeded. WithaSeptember1,2026
+startdate,theestimatedcostforbothpositionsinFY2027is$150,000,$196,000inFY2028and
+$200,000 in FY 2029. The Department anticipates these costs would be funded from Other
+Funds,dependingonfeeaccounts.
+
+The New Hampshire Municipal Association states there will be no impact to municipalities for
+theEISpreparationcostsasanycostincurredwouldbebornebythelandowner.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServicesandNewHampshireMunicipalAssociation

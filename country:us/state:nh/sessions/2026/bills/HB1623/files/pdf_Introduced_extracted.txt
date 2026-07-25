@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1623-FN-ASINTRODUCED
+2026SESSION
+26-2776
+07/08
+1623-FN
+HOUSEBILL
+ANACT requiring charter schools to have uniform and transparent billing costs and
+practicesforspecialeducationservices.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Nadeau, Rock. 4; Rep. Morse, Merr. 3; Rep.
+Thibault, Merr. 25; Rep. L. Miner, Rock. 7; Rep. DeVito, Rock. 8; Rep. Porcelli,
+Rock.19;Sen.Gannon,Dist23;Sen.Ward,Dist8;Sen.McGough,Dist11
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that all chartered public schools and school districts have a uniform,
+transparentbillingpracticeforspecialeducationservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1623-FN-ASINTRODUCED
+26-2776
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring charter schools to have uniform and transparent billing costs and
+practicesforspecialeducationservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Education; Chartered Public Schools; Uniform Special Education Billing.
+2 AmendRSA194-Bbyinsertingaftersection22thefollowingnewsection:
+3 194-B:23 Uniform Special Education Billing. Chartered public schools and school districts shall
+4 haveuniform,transparentbillingpracticesforspecialeducationservices. Nocharteredpublicschool
+5 orschooldistrictshallchargeanon-uniformrateforthesamespecialeducationservice.
+6 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2776
+12/5/25
+HB1623-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring charter schools to have uniform and transparent billing costs and
+practicesforspecialeducationservices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill requires that all chartered public schools and school districts have a uniform,
+transparent billing practice for special education services. As the Department of Education is
+not clear how the uniform rates would be set, it is unclear how this will impact the different
+entities that are involved. If districts are to develop and maintain these uniform rates, they
+could incur additional costs for bookkeeping and/or accounting of these costs. Costs for each
+district could be between $5,000 and $20,000 per school depending on the number of districts
+with students enrolled in each charter school. If the Department is to develop and maintain
+these uniform rates it states it will need additional staff to do so. If the Department is also
+expected to enforce these uniform rates this would call for additional staffing. Cost for the
+Department could be up to $100,000 depending on the staffing required. The Department has
+not provided any details as to the position(s) it may need. This bill provides neither
+authorizationnorappropriationfornewpersonnel.
+
+AGENCIESCONTACTED:
+DepartmentofEducation

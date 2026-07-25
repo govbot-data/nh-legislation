@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1252-ASAMENDEDBYTHEHOUSE
+12Mar2026...1010h
+2026SESSION
+26-2768
+12/06
+1252
+HOUSEBILL
+ANACT requiringthedepartmentofsafetytoonlyadministertestsforcommercialdriver's
+licenses in English and prohibiting the assistance of an interpreter during such
+tests.
+SPONSORS: Rep. Gorski, Hills. 2; Rep. T. Walsh, Merr. 10; Rep. Labrie, Hills. 2; Rep.
+Creighton, Hills. 30; Rep. Sabourin dit Choiniere, Rock. 30; Rep. Rice, Hills. 38;
+Sen.Ricciardi,Dist9
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Codifies the recent enforcement of a federal requirement that the administration of the skills
+test for commercial driver's licenses only be conducted in English and that interpreters are not
+permittedfortheadministrationoftheskillstest.
+II. Extends the same requirements for the administration of the knowledge test for commercial
+driver'slicenses.
+III. Requires commercial driver's licensees of the past 5 years who previously satisfied the
+knowledge or skills test requirement through testing in a language other than English or with the
+assistance of an interpreter to pass such examinations in English and without the assistance of an
+interpreter.
+IV. Directs the department of safety to adopt rules regarding the requirement and to provide
+notice and an opportunity for hearing to current licensees required to pass an examination in
+Englishinordertomaintaintheirlicense.
+V. Provides an exemption for the use of interpreters for the knowledge and skills test where
+such individual or licensee qualifies or previously qualified for a federal exemption pursuant to 49
+C.F.R.part391.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1252-ASAMENDEDBYTHEHOUSE
+12Mar2026...1010h 26-2768
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringthedepartmentofsafetytoonlyadministertestsforcommercialdriver's
+licenses in English and prohibiting the assistance of an interpreter during such
+tests.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Commercial Driver License Qualification Standards; Testing Requirements; English
+2 Proficiency. AmendRSA263:87toreadasfollows:
+3 263:87 Commercial Driver License Qualification Standards. No person shall be issued a
+4 commercial driver license unless that person is a resident of the state of New Hampshire and has
+5 passedaknowledgeandskillstestfordrivingacommercialmotorvehicle. Theknowledgeandskills
+6 test shall comply with minimum federal standards established by federal regulation, as enumerated
+7 in 49 C.F.R. part 383, [sub-parts] subparts G and A, in addition to other requirements imposed by
+8 state law or federal regulation. The tests shall be prescribed and conducted by the department.
+9 Interpreters are prohibited during the administration of both the knowledge and skills
+10 tests, with the exception of federally mandated exemptions under 49 C.F.R. part 391.
+11 Applicants for a commercial driver's license must be able to understand and respond to
+12 verbalcommandsandinstructionsinEnglishbyaskillstestexaminer. Theknowledgetest
+13 shallbe writtenandadministeredinEnglishonly. Neither theapplicantnor the examiner
+14 may communicate in a language other than English during both the knowledge and skills
+15 tests. The department may authorize a person, including an agency of this or another state, an
+16 employer, a private driver training facility, or other private institution, or a department, agency, or
+17 instrumentality of local government, to administer the skills test in accordance with 49 C.F.R. part
+18 383.
+19 2 New Paragraph; Commercial Licensing; Rulemaking Authority. Amend RSA 263:98 by
+20 insertingafterparagraphXthefollowingnewparagraph:
+21 XI. The procedure and administration of the commercial driver's license examination
+22 requirement of obtaining a passing score on both the knowledge and skills tests in English and
+23 withouttheassistanceofaninterpreter.
+24 3 ApplicabilityofRSA263:87asAmendedbySection1.
+25 I. Upon the effective date of this act, the division of motor vehicles shall issue written notice
+26 toallcommercialdriver'slicenseeswhoqualifiedforsuchlicensewithinthepast5yearsby:
+27 (a) PassingtheknowledgetestortheskillstestinalanguageotherthanEnglish;or
+
+HB1252-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (b) Passing the knowledge test or the skills test with the assistance of an interpreter,
+2 unless an interpreter was permitted under a federally mandated exemption pursuant to 49 C.F.R.
+3 part391.
+4 II. The division of motor vehicles will identify individuals who have taken the knowledge
+5 testinanon-Englishlanguageandmailthemaletterofwrittennoticetonotifythemthattheyhave
+6 90 days from the postmarked date on the letter to retake the knowledge test in English. The letter
+7 of writtennoticeshallalsospecifyanyskillstestthattheindividualshallberequiredtopasswithin
+8 90 days of the postmarked date in order to renew their commercial driver's license. The notice shall
+9 also state that any individual aggrieved by the department's actions shall be entitled to a due
+10 processhearinginaccordancewithRSA260:6.
+11 III. Individuals that obtain a passing score on required tests pursuant to paragraph II shall
+12 have their commercial driver's license renewed and application fees stated in RSA 263:42 waived.
+13 Such commercial driver licenses shall expire on the individual's birth date in the fifth year following
+14 therenewalofsuchlicense.
+15 IV. Failure topass arequired test within 90days of receipt of thewrittennoticeshall result
+16 intherevocationoftheindividual'scommercialdriver'slicense.
+17 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2768
+03/20/2026
+HB1252-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1010h)
+ANACT requiringthedepartmentofsafetytoonlyadministertestsforcommercialdriver's
+licenses in English and prohibiting the assistance of an interpreter during such
+tests.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofSafety

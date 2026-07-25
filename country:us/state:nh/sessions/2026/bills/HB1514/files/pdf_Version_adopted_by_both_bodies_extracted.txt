@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1514-VERSIONADOPTEDBYBOTHBODIES
+04/16/2026 1402s
+2026SESSION
+26-2621
+07/06
+1514
+HOUSEBILL
+ANACT requiring the department of education and the department of revenue
+administration to send school monitoring and financial reports to relevant school
+andschoolboardauthorities.
+SPONSORS: Rep. Damon, Sull. 8; Rep. Cloutier, Sull. 6; Rep. Balboni, Rock. 38; Rep. Rollins,
+Sull.3;Rep.Bricchi,Merr.15;Rep.Spilsbury,Sull.3;Rep.Peeples,Hills.14
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the department of education and the department of revenue administration to
+sendschoolmonitoringandfinancialreportstorelevantschoolandschoolboardauthorities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1514-VERSIONADOPTEDBYBOTHBODIES
+04/16/2026 1402s 26-2621
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education and the department of revenue
+administration to send school monitoring and financial reports to relevant school
+andschoolboardauthorities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State and Its Government; Department of Education; Required Annual
+2 Reports. AmendRSA21-Nbyinsertingaftersection13thefollowingnewsection:
+3 21-N:14 RequiredAnnualReports.
+4 I. The department of education shall annually send all school monitoring and financial
+5 reports to every relevant elected school board official, school superintendent, and school business
+6 administrator. Electronic communication shall be acceptable. The department shall provide annual
+7 notifications to school board officials, superintendents, and business administrators of what reports
+8 thedepartmentexpectstosendeachyear.
+9 II. For the purpose of this section, "monitoring report" means any formal report authored by
+10 the department of education that identifies a compliance concern or deviation from industry
+11 standardsandrecommendsthelocaleducationagencytakecorrectiveaction.
+12 2 New Section; The State and Its Government; Department of Revenue Administration;
+13 RequiredAnnualReports. AmendRSA21-Jbyinsertingaftersection49thefollowingnewsection:
+14 21-J:50 RequiredAnnualReports.
+15 I. The department of revenue administration shall annually, by July 10, create and send a
+16 school district audit compliance report to the department of education for distribution to every
+17 relevantelectedschoolboardofficial,schoolsuperintendent,andschoolbusinessadministrator.
+18 II. For thepurpose of this section, "compliance report" means anyformal report authored by
+19 the department of education that identifies a compliance concern or deviation from industry
+20 standardsandrecommendsthelocaleducationagencytakecorrectiveaction.
+21 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

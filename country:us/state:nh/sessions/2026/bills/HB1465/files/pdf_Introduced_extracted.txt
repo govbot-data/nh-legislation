@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1465-FN-ASINTRODUCED
+2026SESSION
+26-3109
+09/08
+1465-FN
+HOUSEBILL
+ANACT establishing mandatory reporting of civil rights violations committed by members
+ofthejudiciary.
+SPONSORS: Rep. Korzen, Coos 7; Rep. Bernardy, Rock. 36; Rep. DeRoy, Straf. 3; Rep. Love,
+Rock. 13; Rep. Sabourin dit Choiniere, Rock. 30; Rep. A. Davis, Coos 2; Rep.
+Potenza,Straf.19;Rep.Belcher,Carr.4
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates mandatory reporting for certain individuals of any civil rights violations
+committedbymembersofthejudicialbranch,andestablishesapenaltyforfailuretocomply.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1465-FN-ASINTRODUCED
+26-3109
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing mandatory reporting of civil rights violations committed by members
+ofthejudiciary.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Abuse of Office; Reporting of Violation of Rights. Amend RSA 643 by inserting
+2 aftersection2thefollowingnewsection:
+3 643:3 ReportingofViolationofRightsCommittedbyMembersoftheJudicialBranch.
+4 I. Any state employee, bar association member or attorney permitted to practice law in the
+5 state of New Hampshire, or any state or federal employee working in New Hampshire on a grant, or
+6 being paid by the state of New Hampshire or any division or organization funded by or through the
+7 state of New Hampshire, including judges, clerks, court staff, bailiffs, and court security, shall be a
+8 mandatory reporter of violations of civil rights by any member of the judicial branch and any
+9 violations of the New Hampshire code of judicial conduct's requirement that a judge should avoid
+10 improprietyandtheappearanceofimproprietyatalltimes.
+11 II. If any mandatory reporter as defined in paragraph I has reasonable cause to believe that
+12 there may be a violation of a right or code of conduct as described in paragraph I, the mandatory
+13 reporter shall as soon as practicable make a report to the attorney general's office. As used in this
+14 paragraph, "reasonable cause to believe" shall include any suspected violations made in the
+15 mandatoryreporter'spresenceorreportedtothemverballyorinwriting.
+16 III. The attorney general's office shall forward all notices received pursuant to paragraph II
+17 to the administrative office of the court, the appropriate county sheriff, and the chief justice of the
+18 NewHampshiresupremecourt.
+19 IV. Any mandatory reporter as defined in paragraph I who fails to comply with this section
+20 shall be guilty of a misdemeanor, and shall be subject to a $1,500 fine and one week incarceration in
+21 acountycorrectionalfacility.
+22 V. Any reporter who make a good faith report under this section shall not be subject to any
+23 retaliationbasedontheirgoodfaithreport.
+24 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3109
+11/30/25
+HB1465-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing mandatory reporting of civil rights violations committed by members
+ofthejudiciary.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

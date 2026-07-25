@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1216 -ASINTRODUCED
+2026SESSION
+26-2709
+09/08
+1216
+HOUSEBILL
+ANACT relative to informed consent for law enforcement searches of houses or other
+property.
+SPONSORS: Rep.Scherr,Rock.26;Rep.Roy,Rock.31
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands the statute governing informed consent for warrantless searches of motor
+vehiclestoincluderealproperty.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1216-ASINTRODUCED
+26-2709
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to informed consent for law enforcement searches of houses or other
+property.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SearchWarrants;InformedConsent. AmendRSA595-A:10toreadasfollows:
+2 595-A:10 InformedConsentExceptionforRealPropertyandMotorVehicles.
+3 I. A law enforcement officer may legally conduct a search of a person's home or any other
+4 real property, or a person's motor vehicle, without a warrant [under this chapter] if the law
+5 enforcementofficerexpresslyinformsthe[operatorofthemotorvehicle]personthat:
+6 (a) The[operator]personhastherighttorefusetoconsenttoasearch;
+7 (b) Any refusal to consent to a search shall not constitute a basis either for probable
+8 causetoarrestthe[operator]personorreasonablesuspiciontodetainthe[operator]person;
+9 (c) The [operator] person cannot be charged with any crime or violation for refusing to
+10 consenttoasearch;and
+11 (d) The[operator]personcannotbefurtherdetainedforrefusingtoconsenttoasearch.
+12 II. If the [operator of a motor vehicle] person refuses to consent to a search, the law
+13 enforcementofficershallceaseanyfurtherquestioningconcerningconsenttoasearch.
+14 III. A law enforcement officer shall document any consent to search either by the signature
+15 of the [motor vehicle operator] person on a consent-to-search form providing notice of the provisions
+16 of paragraphs I and II at the time of the consent, or by means of a video and sound recording of the
+17 consent at the time of the consent. Such form or video and sound recording shall be retained until
+18 anycriminalchargeresultingfromtheconsenttosearchisfullyresolved.
+19 IV. Anyactofalawenforcementofficerwhichviolatesaprovisionofthissectionshallresult
+20 in the inadmissibility in any criminal proceeding of any evidence [of] obtained by the law
+21 enforcementofficer.
+22 V. This section shall not preclude searches incident to arrest; searches allowed under the
+23 UnitedStatesConstitutionforofficersafety;searchesonanygrounds,lands,orparkingareasofany
+24 state or county correctional facility or transitional housing unit operated by the department of
+25 corrections; or inventory searches of lawfully-seized property, including but not limited to vehicles
+26 towedinconjunctionwiththearrestoftheoperator.
+27 VI. Any person on prison grounds or in a department of corrections facility, regardless of
+28 whether suchpersonis aresident, visitor, staff, or anyone identified insomeother category, shall be
+29 subject to search without warning of their vehicle, possessions, and person pursuant to
+30 administrativeruleCor306.
+
+HB1216 -ASINTRODUCED
+-Page2-
+1 VII. As used in this section, "real property" means any buildings, structures, and
+2 equipmentpermanentlyattachedorfixedtotheland.
+3 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

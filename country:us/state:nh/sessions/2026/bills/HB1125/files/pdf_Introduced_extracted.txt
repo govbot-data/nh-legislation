@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1125 -ASINTRODUCED
+2026SESSION
+26-2626
+08/06
+1125
+HOUSEBILL
+ANACT enablingschooldistrictstoadoptpartisanschooldistrictelections.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Aylward, Merr. 5; Rep. Creighton, Hills. 30; Rep.
+Freeman, Belk. 8; Rep. Harvey-Bolia, Belk. 3; Rep. Pauer, Hills. 36; Rep. Panek,
+Hills.1;Sen.McGough,Dist11;Sen.Murphy,Dist16
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables school districts to choose whether or not to adopt partisan school district
+elections.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1125-ASINTRODUCED
+26-2626
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enablingschooldistrictstoadoptpartisanschooldistrictelections.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Filing;SchoolDistrictElections. AmendRSA671:19toreadasfollows:
+2 671:19 Filing. [All] For all districts which have adopted a non-partisan ballot system
+3 pursuant to RSA 671:30, the provisions of RSA 669:19-669:22 relative to filing for office and
+4 withdrawalofcandidacyforanon-partisantownelectionshallapplytoschooldistrictelections. For
+5 school districts which have adopted a partisan ballot system pursuant to RSA 671:30-a, all
+6 the provisions of RSA 669:18 and RSA 669:22 relative to filing for office and withdrawal of
+7 candidacyforapartisantownelectionshallapplytoschooldistrictelections. Inbothnon-
+8 partisan and partisan ballot systems, [except that in those statutes] where there is a reference
+9 toatownoratownclerkinthereferencedstatutes,itshallbereadtorefertoaschooldistrictora
+10 schooldistrictclerk.
+11 2 New Section; Additional Requirements for Official Partisan Ballot System in Cooperative
+12 SchoolDistricts. AmendRSA671byinsertingaftersection19thefollowingnewsection:
+13 671:19-a Additional Requirements for Official Partisan Ballot System in Cooperative School
+14 Districts. In addition to the requirements of RSA 671:49, a cooperative school district that has
+15 adoptedthepartisanofficialballotsystempursuanttoRSA671:30-ashalldothefollowing:
+16 I. The clerk of the political party accepting a declaration of office for a candidate for an at-
+17 large school district office shall, within 2 business days, provide a copy of the declaration of office to
+18 theclerksofthesamepoliticalpartyintheothertownsofthepre-existingdistricts.
+19 II. For each school district officer elected at-large, the votes from all caucuses of the same
+20 political party in the towns of pre-existing districts shall be combined by the clerks of the political
+21 partyandapluralityofvotesshallbesufficienttonominateacandidatefortheschooldistrictoffice.
+22 III. After the caucuses, certificates of nomination shall be made and shall indicate the name
+23 anddomicileofeachcandidate,theat-largeofficeforwhichthepersonisnominatedandthepolitical
+24 principles or party they represent, and shall be signed by the chairman and clerk of the caucus or
+25 convention for the town where the candidate is domiciled; and, when practicable, such certificates of
+26 nominationshallbesignedbyeachcandidate;buttheabsenceofthesignatureofthecandidateshall
+27 notinvalidateacertificateofnomination.
+28 3 PreparationofBallots;BySchoolDistrictClerk. AmendRSA671:20,Itoreadasfollows:
+29 I. The school district clerk shall prepare ballots for school district elections in the same
+30 manner as town clerks for non-partisan or partisan town elections, as provided in RSA 669:23 and
+31 669:24,exceptthattheballotshallbeofadifferentcolorthananyotherballotusedattheelection.
+
+HB1125 -ASINTRODUCED
+-Page2-
+1 4 Official Ballot System; Conduct of Election; Elections at School District Meeting. Amend RSA
+2 671:30toreadasfollows:
+3 671:30 [Non-Partisan] Official Ballot System. Every school district in the state, except one
+4 having a special statute relative to election of its district offices, or one that has adopted a
+5 partisan ballot system pursuant to RSA 671:30-a, shall use the non-partisan ballot system for
+6 the election of district officers, in the same manner as in towns as provided in RSA 669:19-669:25,
+7 except that all references to towns or town clerks shall be read to refer to school districts or school
+8 districtclerks.
+9 5 New Sections; Partisan Ballot System. Amend RSA 671 by inserting after section 30 the
+10 followingnewsections:
+11 671:30-a Partisan Ballot System. Every school district in the state that has adopted a partisan
+12 ballot system pursuant to RSA 671:30-b, shall use the partisan ballot system for the election of
+13 district officers, in the same manner as in towns as provided in RSA 669:18, RSA 669:22 through
+14 RSA 669:29, and RSA 669:37 through RSA 669:53, except that all references to towns or town clerks
+15 shall be read to refer to school districts or school district clerks. A plurality shall elect in school
+16 districtsusingthepartisanballotsystem.
+17 671:30-b Partisan Official Ballot System; Method of Adoption. Any school district may vote to
+18 adopt the partisan official ballot system for election of school district officers under an article in the
+19 warrant for any school district meeting. In any school district in which the non-partisan ballot
+20 systemisineffect,adoptionofthepartisanballotsystemshallbebyballot. Wheneverinsuchschool
+21 district there shall appear in the warrant for any school district meeting an article relating to the
+22 adoption of the partisan ballot system, the school district clerk shall cause to be printed on the
+23 official ballot the question, "Shall the partisanballot system for theelection of school district officers
+24 be adopted by this school district?", which questions shall be followed by boxes in which the voter
+25 may indicate "Yes" or "No.". If the majority of the qualified voters present and voting at such
+26 meeting shall answer said question in the affirmative, the partisan ballot system shall be deemed to
+27 have been adopted by said school district. The partisan ballot system shall not be in effect until the
+28 school district election first following the school district meeting at which such system is adopted. A
+29 pluralityshallelectinschooldistrictsusingthepartisanballotsystem.
+30 671:30-c Partisan Official Ballot System; Method of Rescinding. Any school district may vote to
+31 rescindthepartisanofficialballotsystemforelectionofschooldistrictofficersunderanarticleinthe
+32 warrant for any school district meeting. In any school district in which the partisan ballot system is
+33 in effect, adoption of the non-partisan ballot system shall be by ballot. Whenever in such school
+34 district there shall appear in the warrant for any school district meeting an article relating to the
+35 rescinding of the partisan ballot system, the school district clerk shall cause to be printed on the
+36 official ballot the question, "Shall the partisanballot system for theelection of school district officers
+37 be rescinded by this school district, returning to the non-partisan ballot system?", which question
+
+HB1125 -ASINTRODUCED
+-Page3-
+1 shall be followed by boxes in which the voter may indicate "Yes" or "No". If the majority of the
+2 qualified voters present and voting at such meeting shall answer said question in the affirmative,
+3 the partisan ballot system shall be deemed to have been rescinded by said school district. The non-
+4 partisanballot system shall not beineffect untiltheschool district electionfirst followingtheschool
+5 districtmeetingatwhichsuchpartisanballotsystemisrescinded.
+6 6 CompositionofCooperativeSchoolBoards. AmendRSA195:19-a,VIItoreadasfollows:
+7 VII. Whenever the bylaws or articles of agreement provide for the election of cooperative
+8 school board members pursuant to this chapter, said election shall be with the use of the [non-
+9 partisan]officialballotsystemunder[RSA669]RSA671.
+10 7 PublicOfficersandEmployees;AccesstoGovernmentalRecordsandMeetings;MeetingsOpen
+11 toPublic. AmendRSA91-A:2,I(c)toreadasfollows:
+12 (c) A caucus consisting of elected members of a public body of the same political party
+13 who were elected on a partisan basis at a state general election or elected on a partisan basis by a
+14 town, school district, or city which has adopted a partisan ballot system pursuant to [RSA 669:12
+15 orRSA44:2]RSA44:2,671:30-b,or669:12;or
+16 8 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1552-FN-ASINTRODUCED
+2026SESSION
+26-2807
+12/09
+1552-FN
+HOUSEBILL
+ANACT relativetoordersofprotection.
+SPONSORS: Rep.Love,Rock.13
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the non-adverse parties obtaining temporary and permanent protective orders
+to sign a statement acknowledging their understanding that any material false statement made in
+connectionwiththeprotectiveordermaybegroundsforachargeofperjury.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1552-FN-ASINTRODUCED
+26-2807
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoordersofprotection.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Protection of Persons from Domestic Violence; Commencement of Proceedings. Amend RSA
+2 173-B:3,IVtoreadasfollows:
+3 IV. The clerks of the circuit courts shall supply forms for petitions and for relief under this
+4 chapter designed to facilitate pro se proceedings. All such petitions shall contain the following
+5 words: Iswearthattheforegoinginformationistrueandcorrecttothebestofmyknowledgeunder
+6 thepenaltyofperjury. Iunderstandthatmakingafalsestatementonthispetitionwillsubjectme
+7 tocriminalpenaltiesforperjurypursuanttoRSA641:1.
+8 2 Petition for a Protective Order Filed on Behalf of a Minor. Amend RSA 169-C:7-a, III to read
+9 asfollows:
+10 III. All petitions filed pursuant to this section shall include the following words: I
+11 swear that the foregoing information is true and correct to the best of my knowledge under
+12 the penalty of perjury. I understand that making a false statement on this petition will
+13 subjectmetocriminalpenaltiesforperjurypursuanttoRSA641:1.
+14 [III.] IV. Any acts of abuse or neglect alleged in a petition shall be referred to the
+15 departmentpursuanttothischapter.
+16 3 New Paragraph; Domestic Relations; Orders of Protection; Perjury Statement Requirement.
+17 AmendRSA458:16byinsertingafterparagraphIIIthefollowingnewparagraph:
+18 IV. In exercising the power to issue temporary and permanent restraining orders pursuant
+19 to this section, the superior court shall require the non-adverse party to be informed and to sign an
+20 affidavit acknowledginghis or her understandingthat anymaterial falsestatement maderelativeto
+21 theordermaybeprosecutedforperjurypursuanttoRSA641:1. "Non-adverseparty"shallmeanthe
+22 partywhichisprotectedbytheissuanceofatemporaryorpermanentrestrainingorder.
+23 4 New Paragraph; Parental Rights and Responsibilities. Amend RSA 461-A:10 by inserting
+24 afterparagraphIIthefollowingnewparagraph:
+25 III. In exercising the power to issue temporary and permanent restraining orders pursuant
+26 to this section, the superior court shall require the non-adverse party to be informed and to sign an
+27 affidavit acknowledginghis or her understandingthat anymaterial falsestatement maderelativeto
+28 theordermaybeprosecutedforperjurypursuanttoRSA641:1. "Non-adverseparty"shallmeanthe
+29 partywhichisprotectedbytheissuanceofatemporaryorpermanentrestrainingorder.
+30 5 Stalking; Orders of Protection; Perjury Statement Required. Amend RSA 633:3-a, III-a to
+31 readasfollows:
+
+HB1552-FN-ASINTRODUCED
+-Page2-
+1 III-a. A person who has been the victim of stalking as defined in this section may seek relief
+2 by filing a civil petition in the district court in the district where the plaintiff or defendant resides.
+3 The court shall require the person filing the petition to be informed and to sign
+4 acknowledging his or her understanding that any material false statement made in the
+5 petitionshall be prosecutedfor perjury pursuantto RSA641:1. Uponashowingofstalkingby
+6 a preponderance of the evidence, the court shall grant such relief as is necessary to bring about a
+7 cessationofstalking. Thetypesofreliefthatmaybegranted,theproceduresandburdensofproofto
+8 be applied in such proceedings, the methods of notice, service, and enforcement of such orders, and
+9 thepenaltiesforviolationthereofshallbethesameasthosesetforthinRSA173-B.
+10 6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2807
+12/3/25
+HB1552-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoordersofprotection.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

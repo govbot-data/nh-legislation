@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1090-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0434h
+2026SESSION
+26-2527
+07/05
+1090-FN
+HOUSEBILL
+ANACT relativetomealsandroomstaxes.
+SPONSORS: Rep.Spahr,Graf.12
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillcreatesaflattaxrateonmeals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1090-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0434h 26-2527
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomealsandroomstaxes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSubparagraphs;Taxation;TaxOnMealsandRooms;Definitions. AmendRSA78-A:3,VI
+2 byinsertingaftersubparagraph(d)thefollowingnewsubparagraph:
+3 (e) Separately stated charges for highway tolls electronically billed to the owner of the
+4 motorvehicle.
+5 2 Taxation; Tax on Meals and Rooms; Imposition of Tax. RSA 78-A:6, II-III is repealed and
+6 reenactedtoreadasfollows:
+7 II. Ataxof8.5percentisimposedfortaxablemeals,providedthatcentsorfractionsofcents
+8 shallberoundeduptothenextwholenickel.
+9 III. A tax of 8.5 percent is imposed upon the gross rental receipts of each rental or motor
+10 vehiclerental.
+11 IV. The operator shall collect the taxes imposed by this section and shall pay them over to
+12 thestateasprovidedinthischapter.
+13 3 Taxation; Tax on Meals and Rooms; Disposition of Revenue. Amend RSA 78-A:26, II to read
+14 asfollows:
+15 II. Beginning on July 1, [1999] 2027, and for each fiscal year thereafter, the department
+16 shall pay over all revenue collected pursuant to RSA 78-A:6, [II-a] III to the state treasurer for
+17 depositintheeducationtrustfundestablishedbyRSA198:39.
+18 4 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2527
+02/26/2026
+HB1090-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0434h)
+ANACT relativetomealsandroomstaxes.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Increase Increase
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill makes minor changes to the administration of the Meals and Rooms tax (M&R) by
+eliminating the current schedule for taxable meals under $1.00 in price and making all taxable
+meals taxed at the 8.5% rate; and changes the rounding to be up to the next whole nickel for
+taxablemeals. Thebillalsoclarifiesthatgrossrentalreceiptsdoesnotincludeseparatelystated
+chargesforhighwaytollselectronicallybilledtotheownerofthevehicle.
+The Department of Revenue Administration does not have sufficient data to estimate the fiscal
+impact of the toll charge change. The Department believes that operators may already be
+excluding passed-through pay-by-plate highway toll charges from their reported gross rental
+receipts but should be including their add-on charges with respect to those tolls as well as
+charges for company-owned toll devices that are added to a rental at a flat daily price or other
+similar charges. This is consistent with the tax treatment of motor fuel charges, although the
+Department’s rules are silent with respect to toll charges. The Department would interpret the
+proposed legislation as clarifying and would expand its current rules according to the foregoing
+interpretation.
+The Department states eliminating the current rounding schedule, will require operators to
+collect tax on every transaction no matter how small and could be required to collect tax of a
+nickel on a penny transaction. The rounding changes will also impact operators’ practices and
+
+may require modifications to their point of service (POS) systems in order to remain compliant.
+The Department states the bill does not modify rounding for occupancies or gross rental receipts
+which may pose difficulties particularly for operators of hotels that collect M&R for both
+occupanciesandtaxablemeals.
+The Department states General Fund and Education Trust Fund revenue will increase by an
+indeterminable,butnotmaterial,amountbychangingtheroundingontaxablemealstothenext
+whole nickel. The Department estimates a M&R revenue increase of approximately $24,000 per
+year based on the following: 75% of all taxable meal sales and over half of all M&R collected is
+attributable to restaurants and there are 3,406 total businesses with 250 transactions per day.
+The Department did not locate similar transaction data for other types of operators but does not
+believethatnon-restaurantmealsoperatorsoroccupanciesandgrossrentalreceiptsoperators,if
+included, would provide a revenue impact much different than the impact provided for
+restaurantsabove.
+The Department would need to update forms and information systems to implement this bill.
+The Department does not anticipate this bill will result in any additional administrative costs
+thatcouldnotbeabsorbedwithintheDepartment'soperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

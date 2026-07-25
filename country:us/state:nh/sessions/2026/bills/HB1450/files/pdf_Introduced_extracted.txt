@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1450 -ASINTRODUCED
+2026SESSION
+26-2823
+06/08
+1450
+HOUSEBILL
+ANACT relativetothedesignationandcontrolofsharedfacilitiesinrentalproperties.
+SPONSORS: Rep. D. Kelley, Hills. 32; Rep. Aldrich, Belk. 6; Rep. Bailey, Straf. 2; Rep. Sirois,
+Hills.32;Rep.DeRoy,Straf.3
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill changes the definition of “shared facility” to include lessees, requires written
+documentation of the designation, and defines “owner” to mean the owner or lessee of shared
+facilitiesthroughoutthechapter.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1450-ASINTRODUCED
+26-2823
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedesignationandcontrolofsharedfacilitiesinrentalproperties.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SharedFacility. AmendRSA540-B:1toreadasfollows:
+2 540-B:1 Definition;SharedFacility. Inthischapter:
+3 I. A"sharedfacility"meansrealpropertyrentedforresidentialpurposeswhichhasseparate
+4 sleeping areas for each occupant and in which each occupant has access to and shares with the
+5 owner or lessee of the facility one or more significant portions of the facility in common, such as
+6 kitchen, dining area, bathroom, or bathing area, for which the occupant has no rented right of sole
+7 personal use. The designation of a shared facility shall be documented in a written
+8 statement between the parties, specifying that the facility is a shared facility and
+9 referencingthischapter.
+10 II. Asharedfacilityshallnotinclude:
+11 (a) Facilitiesrentedtotransientguestsintendedforuseoflessthan90days.
+12 (b) Rooms in hotels, motels, inns, tourist homes, and other dwellings rented for
+13 recreationalorvacationinguse.
+14 (c) Rooms provided ancillary to other primary purposes such as jails, student
+15 dormitories,nursinghomes,hospitals,grouphomes,andemergencyshelters.
+16 III. "Owner"meanstheownerorlesseeofsharedfacilities.
+17 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

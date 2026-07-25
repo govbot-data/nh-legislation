@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1433-FN-ASINTRODUCED
+2026SESSION
+26-2277
+07/05
+1433-FN
+HOUSEBILL
+ANACT creatingachildcaretaxcreditforqualifyingbusinesses.
+SPONSORS: Rep. Kuttab, Rock. 17; Rep. Drye, Sull. 7; Rep. Janigian, Rock. 25; Rep. Mary
+Murphy, Hills. 27; Rep. Mooney, Hills. 12; Rep. Schamberg, Merr. 6; Rep. D.
+Paige, Carr. 1; Rep. Rice, Hills. 38; Rep. Ohm, Hills. 10; Rep. L. Walsh, Rock. 15;
+Sen. Ricciardi, Dist 9; Sen. Reardon, Dist 15; Sen. Birdsell, Dist 19; Sen. Sullivan,
+Dist18
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillcreatesachildcaretaxcreditforqualifyingbusinesses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1433-FN-ASINTRODUCED
+26-2277
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatingachildcaretaxcreditforqualifyingbusinesses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPurpose. Thegeneralcourtfindsthat:
+2 I. The availability of reliable child care is critical for parents to remain in the work force,
+3 andthatthereisashortageofchildcareavailabletoworkingparentsinNewHampshire.
+4 II. It is in the interest of this state to stimulate the creation and expansion of child care
+5 programsbyprovidinganincentivetobusinessesintheformofataxcredit.
+6 III. The department of revenue administration should administer a new tax credit for
+7 businessesthatprovideadditionalchildcareopportunities.
+8 2 New Chapter; Child Day Care Creation Tax Credit. Amend RSA by inserting after chapter
+9 162-Uthefollowingnewchapter:
+10 CHAPTER162-V
+11 CHILDDAYCARECREATIONTAXCREDIT
+12 162-V:1 ShortTitle. Thischaptermaybeknownandcitedas"TheChildDayCareCreationTax
+13 CreditProgram."
+14 162-V:2 Definitions. Inthischapter:
+15 I. “Child care program” shall have the same meaning as group child day care center under
+16 RSA170-E:2,IV(c).
+17 II. "Creates child care" means making available child care seats in a New Hampshire-
+18 licensedchildcareprogrambyabusinessentity,eitherdirectlyorthroughathird-party,wheresuch
+19 childcareprogramwasnotavailablepriortoJanuary1,2027.
+20 III. "Expandschildcare"meanstheincreaseinthenumberofchildcareseatsinachildcare
+21 program made available by a business entity, either directly or through a third party, provided that
+22 suchincreaseprovides12ormoreseatsthatwerenotavailablepriortoJanuary1,2027.
+23 IV. “Operational expenditures” means the operating expenses of a qualified childcare
+24 facility,includingemployeecompensation,expensesfortrainingofemployees,utilitiesandrent.
+25 162-V:3 ChildCareCreationTaxCreditEstablished.
+26 I. There shall be allowed a child care creation tax credit for eligible businesses, pursuant to
+27 RSA162-V:4,forqualifyingexpendituresmadeduringataxableyearasfollows:
+28 (a) Expenditures in acquiring, constructing, rehabilitating, renovating, or expanding
+29 propertytocreatechildcareorexpandchildcare;and
+30 (b) Operational expenditures for the first 2 years of a new child care facility, or for
+31 existing facilities, the increased operational expenditures as calculated compared towards the
+
+HB1433-FN-ASINTRODUCED
+-Page2-
+1 difference between current year's operational expenditures and that of the average yearly
+2 expendituresovertheperiodofthe2yearsprior.
+3 II. A business may claim a credit equal to 50 percent of its total claimed expenditures in (a)
+4 and (b) against its business profits taxes due under RSA 77-A, against its business enterprise taxes
+5 dueunderRSA77-E,orapportionedagainsteach,providedthetotalcreditsgrantedshallnotexceed
+6 50percentofthebusinesses'totalclaimedexpendituresunderparagraph I(a)andI(b).
+7 III. Unused portions of the credit allowed under this section may be carried forward for 4
+8 successive years if the amount allowable as a credit exceeds the businesses' tax liability in a tax
+9 year; however, if the amount allowable as a credit exceeds the tax liability, the excess amount shall
+10 not be refundable or carried forward to any other taxable year. Unused, carried forward credits
+11 underthissectionshallbeappliedbeforeanyotheravailablecarry-forwardcredit.
+12 IV. A business which operates, or contracts for the operation of, a child care program
+13 through a third party for the primary purpose of providing child care services to its employees may
+14 proportion the available credit in a manner of its choosing, but shall be required to file a joint
+15 applicationwiththedepartmentofrevenueadministrationindoingso.
+16 V. The commissioner of the department of revenue administration shall propose rules,
+17 pursuant to RSA 541-A, relative to administration of the child care creation tax credit established
+18 underthissection. Suchrulesshallincluderegulationsorproceduresregarding:
+19 (a) The application procedure for how a business may apply for a tax credit under this
+20 section.
+21 (b) The design and content of the form or forms required to be filed with the department
+22 underthissection.
+23 (c) Verifyingeligibleexpensesmadebyachildcareprogram.
+24 (d) Verifyingthatachildcareprogramwasdulylicensed.
+25 (e) Filingandrecordkeepingrequirements.
+26 VI. The department of revenue administration shall approve or deny an application for a
+27 creditmadeunder this sectionwithin60days of receipt. The department shall denyanyapplication
+28 that fails to meet the requirements of this chapter and shall notify the business for its reason or
+29 reasonsfordenial.
+30 162-V:4 EligibilityCriteria.
+31 I. Tobeeligibleforataxcreditunderthischapter,abusinessentityshall:
+32 (a) Createorexpand childcareseats,either directlyorthroughathirdparty,onor after
+33 January1,2027;
+34 (b) Submit a satisfactory child care creation tax credit application to the department of
+35 revenueadministration.
+36 3 New Paragraph; Taxation; Business Profits Tax; Child Day Care Tax Credit. Amend RSA 77-
+37 A:5byinsertingafterparagraphXVIIthefollowingnewparagraph:
+
+HB1433-FN-ASINTRODUCED
+-Page3-
+1 XVIII. There shall be allowed a child day care creation tax credit, in accordance with RSA
+2 162-V, against the tax due under this chapter, for any unused portion of credit that has not been
+3 appliedtothetaxesdueunderRSA77-E.
+4 4 NewSection;Taxation;BusinessEnterpriseTax;ChildDayCareTaxCredit. AmendRSA77-
+5 Ebyinsertingaftersection3-fthefollowingnewsection:
+6 77-E:3-g ChildDayCareCenterTaxCredit. Thereshallbeallowedachilddaycarecreationtax
+7 credit,inaccordancewithRSA162-V,againstthetaxdueunderthischapter,foranyunusedportion
+8 ofcreditthathasnotbeenappliedtothetaxesdueunderRSA77-A.
+9 5 Applicability. ThisactshallapplytotaxableperiodsendingonorafterJanuary1,2027.
+10 6 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2277
+Revised12/10/25
+HB1433-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creatingachildcaretaxcreditforqualifyingbusinesses.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Decrease Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the Child Day Care Creation tax credit applicable to the Business
+Enterprise Tax (BET) and the Business Profits Tax (BPT). To be eligible for the credit, a
+business must be a licensed program, expand or create seats that were not available prior to
+January 1, 2027, and successfully apply for and be approved for the credit by the Department of
+Revenue Administration. Any unused portions of the credit may be carried forward for 4
+successiveyears.
+The Department of Revenue Administration states further clarification is needed in order to
+administerthebill,asfollows:
+· the bill provides that seats may be created either directly or through a third party; and
+further provides that a business that operates or contracts for the operation of a program
+through a third party may proportion the available credit in a manner of its choosing, by
+filing a joint application. The Department assumes the intent, when these provisions are
+taken collectively, is that the eligibility requirement for licensing is not intended to apply
+strictly to the business(es) applying for the credit. If this is not the intent additional
+clarificationmaybeneededinthebill.
+· the bill defines "operational expenditures" as operating expenses of a qualified childcare
+facility, including employee compensation, expenses for training of employees, utilities and
+rent. The Department assumes this definition is intended to be broadly construed to include
+
+supplies, equipment, insurance, taxes, licensing and legal fees, and other ordinary business
+operatingexpenses,butisintendedtoexcludeexpendituresnotdirectlyrelatedtothenewor
+expandedseats,suchas,theadditionofnewprogramsorservices.
+· it is unclear whether “any other available carry-forward credit” is intended to mean carried
+forward credits available under different credit programs, or whether it is intended to mean
+that the oldest Child Day Care Creation tax credits must be used first, and suggests this
+languagemayneedtobefurtherclarified.
+· the credit, as drafted, is not cascading meaning that if the credit is first used towards BET,
+the credit would reduce the BET credit available for application to the BPT. If the intent is
+to not reduce the BET credit against the BPT, language should be added to the BET portion
+of the bill clarifying that the credit applied to the BET is still considered taxes paid under
+RSA77-E.
+· the bill provides the Department shall approve or deny applications for the credit, including
+verifying eligible expenses and that a program was duly licensed. It is assumed the
+Department of Health and Human Services child care search tool will be used to verify
+licensing and require a basic schedule of expenses that would be further examined during
+the audit process. If the expectation is the Department would need to perform additional
+verification related to licensing and/or expenses when determining eligibility for the credit,
+languagemayneedtobeaddedtothebilltomeettheintent.
+The Department states this bill will decrease General Fund and Education Trust Fund revenue
+byan indeterminableamount inFY 2027 and each year thereafter. The Department is not able
+to determine the magnitude of the decrease due to the unpredictability of the imposition of
+federal tariffs, their related costs, and the associated business tax liability of the impacted
+businesses.
+The Department states it is able to absorb the costs to implement this bill in its operating
+budget.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1764-FN-ASINTRODUCED
+2026SESSION
+26-3059
+06/07
+1764-FN
+HOUSEBILL
+ANACT establishingcommunityworkforce housingtargets, special assessment provisions,
+andarevolvingloanfundforworkforcehousingdevelopment.
+SPONSORS: Rep.deVries,Rock.29
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill establishes municipalworkforce housingtargets,reportingrequirements, zoningreview
+procedures, and a special property tax assessment for underperformance, with proceeds funding a
+revolvingloanprogramforhousingdevelopmentandinfrastructure.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1764-FN-ASINTRODUCED
+26-3059
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingcommunityworkforce housingtargets, special assessment provisions,
+andarevolvingloanfundforworkforcehousingdevelopment.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Municipal Workforce Housing Targets. Amend RSA 12-O by inserting after
+2 section70thefollowingnewsubdivision:
+3 MunicipalWorkforceHousingTargets
+4 12-O:70-a MunicipalWorkforceHousingTargets.
+5 I. The department of business and economic affairs, in partnership with regional planning
+6 commissions, shall establish annual workforce housing targets for each municipality for the next 10
+7 years. Inthissubdivision,"municipality"meansanycity,town,unincorporatedtownorunorganized
+8 place.
+9 II. Targetsshallbebasedon:
+10 (a) Amountofdevelopableandredevelopableland;
+11 (b) Accesstowater,infrastructure,andpublictransportation;
+12 (c) Proximitytoemploymentcenters;and
+13 (d) Existingworkforcehousingstock,asdefinedinRSA674:58,IV.
+14 III. Municipalities with less workforce housing shall be assigned proportionally higher
+15 targets.
+16 IV. Thecumulativestatewidehousingtargetsshallequal125percentofthestate’sprojected
+17 annual workforce housing need, with an assumed 25 percent overage to account for
+18 underperformance.
+19 12-O:70-b Annual Reporting. The department of business and economic affairs shall publish an
+20 annual report listing the total number of new, or in progress where construction has officially
+21 commenced, or both, workforce housing units in each municipality and the percentage of each
+22 municipality’sannualtargetachieved.
+23 12-O:70-c ZoningReviewRequirement.
+24 I. Beginning January 1, 2028, any municipality that has achieved less than 50 percent of its
+25 cumulativeworkforcehousingtargetshall:
+26 (a) Partner with the department of business and economic affairs and its regional
+27 planningcommissiontoconductacomprehensivereviewofitszoningordinances;
+28 (b) Identifyimpedimentstoworkforcehousingdevelopment;and
+29 (c) Developanactionableplantoimproveworkforcehousingoutcomes.
+30 II. Municipalitiesshallretaindiscretionoverwhethertoimplementrecommendedchanges.
+
+HB1764-FN-ASINTRODUCED
+-Page2-
+1 12-O:70-d SpecialAssessmentsforUnderperformance.
+2 I. Beginning in 2028, any municipality that falls below 50 percent of their cumulative
+3 workforcehousingtargetsshallbesubjecttoaspecialpropertytaxassessment.
+4 II. The special property tax assessment for properties assessed above the following
+5 thresholdsshallbecalculatedasfollows:
+6 (a) For property assessed at $1,500,000, apply a rate of $1 in tax per $1,000 of assessed
+7 value;
+8 (b) For property assessed at $2,000,000, apply a rate of $1.50 in tax per $1,000 of
+9 assessedvalue;
+10 (c) For property assessed at $2,500,000, apply a rate of $2 in tax per $1,000 of assessed
+11 value;
+12 (d) For property assessed at $3,000,000, apply a rate of $2.50 in tax per $1,000 of
+13 assessedvalue;and
+14 (e) Forpropertyassessedat$3,500,000andabove,applyarateof$3intaxper$1,000of
+15 assessedvalue.
+16 III. The special property tax assessment shall remain in effect until the municipality
+17 reaches:
+18 (a) 75percentofitscumulativetarget(firstyearbelowthreshold);
+19 (b) 85percent(secondyear);and
+20 (c) 90percent(thirdyearorbeyond).
+21 IV. Municipalitiesshallcollectandremitassessmentproceedstothestateimmediately.
+22 12-O:70-e WorkforceHousingRevolvingLoanFund.
+23 I. The department shall establish and manage a special revolving loan fund, separate from
+24 thegeneralfund,usingproceedsfromthespecialtaxassessmentsunderRSA12-O:70-d.
+25 II. The fund shall offer below-market-rate loans to developers of multi-family, year-round
+26 workforce housing and municipalities for infrastructure upgrades tied to shovel-ready workforce
+27 housingprojects.
+28 III. Loan prioritization shall be based on number of housing units provided, speed of
+29 developmentanddirectlinkagetoworkforcehousingoutcomes.
+30 12-O:70-f Administration. The department of business and economic affairs, division of
+31 planning and community development, shall administer this subdivision and may adopt rules under
+32 RSA541-Aasnecessarytoimplementitsprovisions.
+33 2 New Subparagraph; New Funding. Amend RSA 6:12, I(b) by inserting after subparagraph
+34 (410)thefollowingnewsubparagraph:
+35 (411) Moneys deposited in the workforce housing revolving loan fund as established
+36 inRSA12-O:70-e.
+37 3 EffectiveDate. ThisactshalltakeeffectApril1,2026.
+
+LBA
+26-3059
+Revised12/30/25
+HB1764-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingcommunityworkforce housingtargets, special assessment provisions,
+andarevolvingloanfundforworkforcehousingdevelopment.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+RevenueFund(s) WorkforceHousingRevolvingLoanFund
+Indeterminable Indeterminable
+Expenditures* $0 $368,000 Increase Increase
+$385,000+ $403,000+
+FundingSource(s) GeneralFundandWorkforceHousingRevolvingLoanFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+This bill requires the Department of Business and Economic Affairs, in collaboration with
+regional planning commissions, to set annual workforce housing targets for each municipality
+over a 10-year period. These targets are based on factors such as available land, infrastructure
+access, proximity to employment centers, and existing housing stock. Municipalities falling
+below 50% of their cumulative targets must undergo zoning reviews and develop improvement
+plans, though implementation of recommendations remains discretionary. Starting in 2028,
+underperforming municipalities will face a tiered special property tax assessment on high-value
+properties, with proceeds going to the newly established Workforce Housing Revolving Loan
+Fund.
+The Department of Business and Economic Affairs states this bill requires the Department to
+develop Municipal Workforce Housing Targets. The Department states to develop the targets
+
+andoperatetheprogramwillinvolveextensiveresearchwithregionalplanningcommissionsand
+234 municipalities for collection of property tax funds, creation of revolving loan fund and
+administration and development of rules and enforcement activity. The Department notes to
+administerthesenew tasks would require anadministrator (19-3050Regional Planners 5–SOC
+19, pay band 9, step 1) and at least three management analysts (13-1110 Management Analysis-
+2 – SOC 13, pay band 5; step 1). The total costs for these four positions is $368,000 in FY 2027,
+$385,000 in FY 2028 and $403,000 in FY 2029. The Department is unable to estimate when
+there will be enough funds in the Workforce Housing Revolving Loan Fund to support the
+positionsandwouldrequireaGeneralFundappropriationtofundthesepositions.
+PositionsRequestedbyBEA FY2027 FY2028 FY2029
+Administratorx1(19-3050RegionalPlanners5– $107,000 $112,000 $118,000
+SOC19,payband9,step1)
+ManagementAnalystsx3(13-1110Management $261,000 $273,000 $285,000
+Analysis-2–SOC13,payband5;step1).
+TotalSalary,BenefitsandOperatingExpenses $368,000 $385,000 $403,000
+TheNewHampshireMunicipalAssociation(NHMA)statesmunicipalitiesmayfacecosts related
+to zoning updates, reporting requirements, tax assessment administration, and an increase in
+property assessment appeals, estimated at under $10,000 per municipality. Additionally, legal
+disputes over housing mandates could lead to an indeterminable increase in expenses, as the
+number of potential cases is unknown. Infrastructure upgrades may exceed $1 million in some
+municipalities, though funding may be available through the new Workforce Housing Revolving
+Loan Fund. Additionally, there are no provisions for an appeal or hardship waiver process for
+municipalitiesseekingtochallengetheirassignedhousingtargets.
+AGENCIESCONTACTED:
+DepartmentofBusinessandEconomicAffairsandNewHampshireMunicipalAssociation

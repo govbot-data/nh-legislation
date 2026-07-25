@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1513 -ASINTRODUCED
+2026SESSION
+26-2615
+07/08
+1513
+HOUSEBILL
+ANACT relative to reporting and transparency reports for the education freedom account
+program.
+SPONSORS: Rep. Porcelli, Rock. 19; Rep. B. Boyd, Hills. 12; Rep. Kuttab, Rock. 17; Rep. Mary
+Murphy, Hills. 27; Rep. Nelson, Rock. 13; Rep. Perez, Rock. 16; Sen. Ricciardi,
+Dist9
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillcreatesadditionalinformationgatheringandreportingrequirementsforthescholarship
+organizationresponsibleforeducationfreedomaccounts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1513-ASINTRODUCED
+26-2615
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to reporting and transparency reports for the education freedom account
+program.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Education; Education Freedom Accounts. Amend RSA 194-F by inserting after
+2 section4thefollowingnewsection:
+3 194-F:4-a ProgramAdministrationandRequiredInformation.
+4 I. The following shall apply to the authority and responsibilities of the scholarship
+5 organizationundertheprogram:
+6 (a) The scholarship organization shall provide access to all types of qualifying
+7 educationalexpensesenumeratedinRSA194-F:2,II(a)-(o);and
+8 (b) Failure by a scholarship organization to provide access to every qualifying expense
+9 described in RSA 194-F:2, II(a)-(o) shall disqualify a scholarship organization from participation in
+10 theprogram.
+11 II. The scholarship organization responsible for administering and implementing RSA 194-
+12 F:2 shall provide information in the form of electronic data, reports, and written and verbal
+13 testimony as may be requested by education freedom savings account legislative oversight
+14 committee, the state board of education, the department of education, or the parent and education
+15 service provider advisory commission. The scholarship organization shall provide the requested
+16 informationwithin45businessdays.
+17 III. Pursuant to RSA 194-F:2, II, the scholarship organization shall collect and summarize
+18 education freedom account expense information by category and by education service provider.
+19 Collected information shall be published no later than 45 business days after the state releases
+20 funds. Afinalcumulativereportshallbepublishedannuallyafterallfundshavebeenreleased. The
+21 data used and reports produced shall be published on the website of the scholarship organization.
+22 The report shall be available in a standard sortable electronic format. No personally identifiable
+23 informationshallbeusedoraccessibleinthedataorreportpostedelectronically.
+24 IV. The scholarship organization shall provide the department of education with timely
+25 access to eligibility and enrollment data and any additional information requested by the
+26 department to facilitate its monitoring and compliance with its contracts and other relevant laws
+27 andrules.
+28 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

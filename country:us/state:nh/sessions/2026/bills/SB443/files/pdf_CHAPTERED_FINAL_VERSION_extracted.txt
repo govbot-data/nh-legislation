@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER62
+SB443-FINALVERSION
+2026SESSION
+26-2235
+08/06
+443
+SENATEBILL
+ANACT relativetowastewaterengineering.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Pearl, Dist 17; Sen. Fenton, Dist 10; Sen. Watters, Dist 4;
+Sen. Lang, Dist 2; Sen. Gannon, Dist 23; Sen. Birdsell, Dist 19; Rep. Buco, Carr. 1;
+Rep.Dunn,Rock.16
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds rulemaking authority for certain requirements for review and approval of wastewater
+infrastructureplansandspecificationsincludingthesewerconnectionpermitprogram.
+Thisbillisarequestofthedepartmentofenvironmentalservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER62
+SB443-FINALVERSION
+26-2235
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetowastewaterengineering.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 62:1 DutiesofDepartment;WastewaterSystems. AmendRSA485-A:4,VItoreadasfollows:
+2 VI. To require the filing with the department of plans and specifications of the installation of
+3 systems and devices for handling, treating, or disposing of sewage, industrial and other wastes[, at least
+4 30dayspriortothebeginningofconstruction].
+5 62:2 DutiesoftheDepartment;WastewaterSystems. AmendRSA485-A:4,IXtoreadasfollows:
+6 IX. To set standards of design and construction for sewerage and sewage or waste treatment
+7 systems and standards or design guidelines as the department determines to be appropriate for
+8 innovative/alternative waste treatment systems. [Innovative/alternative waste treatment systems shall
+9 include solar and such other systems as shall be identified or accepted by the department.] To [reject, if
+10 necessary,ormodifyand]reviewandapproveordenyasdeemednecessaryforthepurposesofthestate
+11 water pollution control program all engineering or other documents associated with the design and
+12 construction of pollution control projects and perform such other related engineering or inspectional work
+13 aswill providefor proper design, constructionandoperationof thefacilitiesinvolved, andtakesuchother
+14 actionasthedepartmentdeemsnecessary,includingbutnotlimitedtoestablishingapermittingprogram,
+15 to maximize the effectiveness of sewerage and other pollution control facilities, both proposed and in
+16 construction. [The department is authorized to purchase professional liability insurance annually in order
+17 to provide coverage in connection with resident construction engineering services which may be made
+18 available to municipalities by the department for projects undertaken with benefit of a federal grant under
+19 the provisions of this chapter; provided, however, that no construction engineering services shall be
+20 providedtoanymunicipalitywithapopulationofgreaterthan5,000accordingtotheofficeofplanningand
+21 development estimate for that even decade year preceding project application to the department or when
+22 theestimatedprojectcostsexceed$2,000,000.] Thepurposeofthisparagraphistoensuretheplanning,
+23 design,construction and operation of publicly owned pollution control facilities which in the judgment of
+24 thedepartmentwillproducemaximumbenefitswiththeleastexpenditureoffederal,stateandlocalfunds.
+25 62:3 Duties of the Department; Wastewater Systems. RSA 485-A:4, IX-b and IX-c is repealed and
+26 reenactedtoreadasfollows:
+27 IX-b. Toreviewandprovideconditionsforindustrialdischargepermitsissuedbymunicipalitiesor
+28 sewer utility districts if such discharges are not to an Environmental Protection Agency approved
+29 pretreatmentprogram.
+30 IX-c. Toreviewandapproveordenyasdeemednecessaryplans,specificationsandengineering
+31 documentsassociatedwiththerequesttodischargeadditionalsewageorindustrialwastestoamunicipal
+32 sewersystemthroughadministrationofasewerconnectionpermitprogram.
+
+CHAPTER62
+SB443-FINALVERSION
+-Page2-
+1 62:4 New Paragraphs; Rulemaking; Requirements for Permits. Amend RSA 485-A:6 by inserting
+2 afterparagraphIIIthefollowingnewparagraphs:
+3 III-a. RequirementsunderRSA485-A:4,IX-b,relativetoindustrialdischargepermits.
+4 III-b. Requirement under RSA 485-A:4, IX-c, relative to administration of a sewer connection
+5 permitprogram.
+6 62:5 New Paragraph; Rulemaking. Amend RSA 485-A:6 by inserting after paragraph VI-a the
+7 followingnewparagraph:
+8 VI-b. Requirementsunder485-A:5relativetopretreatmentstandards.
+9 62:6 Rulemaking. AmendRSA485-A:6,X-atoreadasfollows:
+10 X-a. TherequirementsforpermitsunderRSA485-A:4,IX,XVI-a,andXVI-b.
+62:7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May08,2026
+EffectiveDate:July07,2026

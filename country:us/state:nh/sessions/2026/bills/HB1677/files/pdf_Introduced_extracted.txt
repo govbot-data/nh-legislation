@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1677 -ASINTRODUCED
+2026SESSION
+26-2847
+07/09
+1677
+HOUSEBILL
+ANACT requiring a recommendation by a local budget committee or governing body when
+including warrant articles with a tax impact in an estimate for raising taxes
+underalocaltaxcap.
+SPONSORS: Rep.Turer,Rock.6;Rep.Gruber,Ches.16
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a recommendation by a local budget committee or governing body when
+includingwarrantarticleswithataximpactinanestimateforraisingtaxesunderalocaltaxcap.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1677-ASINTRODUCED
+26-2847
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring a recommendation by a local budget committee or governing body when
+including warrant articles with a tax impact in an estimate for raising taxes
+underalocaltaxcap.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Towns,Cities,VillageDistricts,andUnincorporatedPlaces;PreparationofBudgets;LocalTax
+2 Cap. AmendRSA32:5-b,Itoreadasfollows:
+3 I. In a town or district that has adopted this section, the estimated amount of local taxes to
+4 be raised for the fiscal year shall include the operating budget and all other warrant articles with a
+5 tax impact[,] and recommended by the budget committee, or the governing body if the
+6 municipality has not established a budget committee pursuant to RSA 32:14, and certified
+7 by the governing body or the budget committee and posted on the warrant for the annual meeting
+8 pursuant to RSA 32:5. The estimated amount of local taxes to be raised for the fiscal year shall not
+9 exceed the local taxes raised for the prior year, as shown on the same budget and adjusted as
+10 provided in paragraph I-a and II, by more than the tax cap authorized when this section was
+11 adopted.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

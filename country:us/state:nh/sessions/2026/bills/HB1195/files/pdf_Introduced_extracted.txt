@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1195 -ASINTRODUCED
+2026SESSION
+26-2755
+05/06
+1195
+HOUSEBILL
+ANACT relativetomunicipalzoningrequirementsforchilddaycareproviders.
+SPONSORS: Rep. D. Paige, Carr. 1; Rep. Nelson, Rock. 13; Rep. Peternel, Carr. 6; Rep.
+Wallner, Merr. 19; Rep. Berry, Hills. 44; Rep. D. Germana, Ches. 1; Rep. D.
+Murphy, Ches. 11; Sen. McConkey, Dist 3; Sen. Perkins Kwoka, Dist 21; Sen.
+Reardon,Dist15;Sen.Rochefort,Dist1;Sen.Birdsell,Dist19
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill defines child care centers for purposes of local zoning requirements and provides that,
+with limited exception, municipalities shall allow the operation of a child care center by right on
+commercially zoned land provided that the center is in compliance with child care licensing
+requirementsofthedepartmentofhealthandhumanservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1195-ASINTRODUCED
+26-2755
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomunicipalzoningrequirementsforchilddaycareproviders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Local Land Use Planning and Regulatory Powers; Zoning; Grant of Power; Child Care
+2 Centers. AmendRSA674:16,VItoreadasfollows:
+3 VI. In its exercise of the powers granted under this subdivision, the local legislative body of
+4 a city, town, or county in which there are located unincorporated towns or unorganized places shall,
+5 as described in RSA 672:1, V-a, allow home-based care (family day care home as defined in RSA
+6 170-E:2, IV(a) and group family day care home as defined in RSA 170-E:2, IV(b)) by right [or
+7 pursuanttoaconditional usepermit] as longasall requirements for suchprograms adopted inrules
+8 of the department of health and human services (He-C 4002) are met. A city, town, or county in
+9 which there are unincorporated towns or unorganized places shall not adopt or enforce
+10 any ordinance which is different from the requirements of RSA 170-E or rules adopted
+11 thereunder (He-C 4002). Family or group family child care shall be allowed by right as an
+12 accessory use to any primary residential use, including in an accessory structure of not more
+13 than950squarefeet,andshallnotbesubjecttolocalsiteplanreviewinanyzonewhereaprimary
+14 residential use is permitted. [If all requirements of the department of health and human services
+15 are met, but an application for a conditional use permit is pending with the municipality in which
+16 the home-based child care facility is located, an applicant may begin operation during such time
+17 untilthepermitisgrantedordenied.]
+18 2 New Section; Zoning; Child Care Centers. Amend RSA 674 by inserting after section 16-a the
+19 followingnewsection:
+20 674:16-b ChildCareCenter.
+21 I. Inthissection:
+22 (a) “Childcarecenter”meansanyofthefollowingtypesofchilddaycareagency:
+23 (1) Groupchilddaycarecenter,asdefinedinRSA170-E:2,IV(c);
+24 (2) Infantandtoddlerprogram,asdefinedinRSA170-E:2,IV(d);
+25 (3) Nightcareprogram,asdefinedinRSA170-E:2,IV(e);
+26 (4) Preschoolprogram,asdefinedinRSA170-E:2,IV(f);
+27 (5) School-ageprogram,asdefinedinRSA170-E:2,IV(g);
+28 (6) Smallgroupchilddaycarecenter,asdefinedinRSA170-E:2,IV(i);or
+29 (7) Any combination thereof in accordance with the requirements for such programs
+30 adoptedinrulesofthedepartmentofhealthandhumanservices.
+
+HB1195 -ASINTRODUCED
+-Page2-
+1 (b) "Child care center" shall not include a family day care home as defined in RSA 170-
+2 E:2,IV(a)ora familygroupdaycarehomeasdefinedinRSA170-E:2,IV(b).
+3 II. Notwithstanding any provision to the contrary, municipalities shall allow the operation
+4 of a child care center by right on commercially zoned land so long as the requirements of RSA 170-E
+5 andrulesadoptedthereunder,regardinglicensureandoperationofachilddaycare,aremet. Acity,
+6 town, or county in which there are located unincorporated towns or unorganized places shall not
+7 adopt or enforce any ordinance which is different from the requirements of RSA 170-E or rules
+8 adopted thereunder by the department of health and human services. However, nothing in this
+9 section shall be interpreted to prohibit municipalities from restricting the operation of a child care
+10 centerinzoneswhereindustrialandmanufacturingusesarepermitted,iftheuseofthepropertyfor
+11 childdaycareisincompatiblewiththeexistingindustrialandmanufacturinguse.
+12 III. A municipality shall provide an exemption to any requirements regarding setbacks,
+13 height, or frontage of a building being converted to a child care center provided that the building’s
+14 floorarea,height,andsetbacksdonotchange.
+15 IV. Nothing in this section shall be interpreted to prohibit the child care center from being
+16 subject to local site plan review regulations adopted under RSA 674:44 if the proposed structure
+17 containsmorethan5,000squarefeetofgrossfloorarea.
+18 V. Nothing in this section shall prohibit enforcement of applicable state fire, building, water
+19 supplyandsewagedisposalrequirementsunderRSA153,RSA155-A,andRSA485-A.
+20 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

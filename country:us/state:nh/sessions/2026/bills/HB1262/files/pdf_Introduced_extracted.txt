@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1262-FN-ASINTRODUCED
+2026SESSION
+26-2434
+04/09
+1262-FN
+HOUSEBILL
+ANACT relativetohomeheatingoilandpropanecontracts.
+SPONSORS: Rep. Lucas, Graf. 7; Rep. Rung, Hills. 12; Rep. Baldwin, Graf. 4; Rep. Miller,
+Straf.21;Rep.Bolton,Graf.8;Rep.Lovett,Graf.8;Rep.Fellows,Graf.8
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds requirements for consumer contracts and pre-buy fees for home heating oil,
+kerosene,orliquefiedpetroleumgas.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1262-FN-ASINTRODUCED
+26-2434
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetohomeheatingoilandpropanecontracts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PetroleumSalesContracts. AmendRSA339:79toreadasfollows:
+2 339:79 Requirements for Guaranteed Price Plans, [and] Prepaid Contracts for Petroleum, and
+3 ContractsforPetroleum.
+4 I. A contract with a consumer that offers a guaranteed price plan, requires prepayment by
+5 the consumer, or [similar] other contracts shall be in writing and shall disclose the terms
+6 and conditions of the plan. A solicitation for such a guaranteed price plan that could become a
+7 contract upon response from a consumer shall also be in writing with the terms and conditions,
+8 including any pre-buy fees or ancillary charges, disclosed in plain language. Any contract
+9 shallalsoinclude:
+10 (a) Dealer contact information for written or electronic communication in the
+11 eventaconsumermakesnotificationtothedealerfordiscontinuationofthecontract;and
+12 (b) The contact information for the New Hampshire department of justice
+13 consumerprotectionhotline.
+14 II. Acontractfortheretailsaleofhomeheatingoil,kerosene,orliquefiedpetroleumgastoa
+15 consumer shall also indicate the total amount of money to be paid by the consumer, the gallons
+16 committed by the fuel dealer to be delivered under the contract, the price per gallon, the payment
+17 terms, tank rental fee and other ancillary fees, the duration of the contract, the
+18 remedies enforceable by the dealer against a non-performing consumer, and that the contract is
+19 secured as provided in this section. The information required by this section shall be in plain
+20 languageandshall beprintedinnoless than12-pointboldfacetypeof uniformfontafter thepriceof
+21 servicedescribed.
+22 III. A contract that requires prepayment by the consumer shall comply with paragraphs I
+23 andIIofthissection. Suchcontractalso:
+24 (a) Shall not be advertised or solicited by the dealer in any manner to advertise, solicit,
+25 or promote the details of prepaid contracts being offered to consumers, nor shall the dealer solicit or
+26 promote pre-buy services independent of all the services offered by the dealer, earlier than May 1 or
+27 later than October 31 of the year in which the heating fuel season begins. Such contracts may be
+28 signedpriortoMay1onlyattherequestoftheconsumer.
+29 (b) Shall require dealers to reimburse consumers at the contract price for any
+30 undelivered pre-purchased fuel and any prorated pre-buy fees, within 30 days after the contract
+31 ends,unlessthedealerand consumeragreetodifferentterms.
+
+HB1262-FN-ASINTRODUCED
+-Page2-
+1 (c) Shall include a clear explanation of the means by which the dealer will meet the
+2 obligations of the contract for the entire contract period, including supplier agreements, futures
+3 contracts,bonding,alineofcreditorliquidproductinventory.
+4 (d) Shall not falsely claim coverage. Any dealer who falsely claims coverage or fails to
+5 maintain coverage until the completion of the contract shall be guilty of a class A misdemeanor, in
+6 additiontootherpenaltiesasprovidedinparagraphVI.
+7 IV. No home heating oil, kerosene, or liquefied petroleum gas dealer shall enter into a
+8 prepaid contract to provide home heating oil, kerosene, or liquefied petroleum gas to a consumer
+9 unless that dealer has, within 7 days of the acceptance of the contract, obtained and maintained any
+10 oneofthefollowing:
+11 (a) A firm commitment in the form of a futures contract or other commitment that
+12 guarantees that the dealer may purchase, at a fixed price, heating oil, kerosene, or
+13 liquefied petroleum gas in an amount not less than 75 percent of the maximum number of gallons
+14 that the dealer is committed to deliver pursuant to all prepaid contracts entered into by the dealer.
+15 The amount of such futures contract may be reduced to reflect any amount of home heating oil,
+16 kerosene,orliquefiedpetroleumgasalreadydeliveredtoand paidforbytheconsumer;
+17 (b) A surety bond, made payable to the attorney general, in an amount not less than 50
+18 percentofthetotalamountoffundspaidtothedealerbyconsumerspursuantto prepaidheatingoil,
+19 kerosene,orliquefiedpetroleumgascontracts;
+20 (c) A letter of credit, made payable to the attorney general, from an FDIC-insured
+21 institution in an amount that represents 100 percent of the cost to the dealer of the
+22 maximum number of gallons that the dealer is committed to deliver pursuant to all prepaid
+23 contracts entered into by the dealer. The cost shall be calculated at the time the contracts
+24 are enteredinto;or
+25 (d) A liquid product inventory of home heating oil, kerosene, or liquefied petroleum gas
+26 inan amount equal to75 percent of theoutstanding volume in gallons that the dealer is obligated to
+27 deliverunderthetermsofprepaidcontractsinforce.
+28 V. Paragraph IV of this section shall not apply to budget plans under which consumers pay
+29 theiryearlyheatingcostsbymakingequalmonthlypayments.
+30 V-a. A home heating oil, kerosene, or liquefied petroleum gas dealer who offers prepaid
+31 contracts under this section shall register the dealer's intent to offer such contracts with the
+32 secretaryofstatebyMay1ofeachyear. Registrationshallbeonaformprovidedbythesecretaryof
+33 state and shall indicate which securitization method or combination of methods listed in paragraph
+34 IVareusedtosecurethecontracts.
+35 V-b. A home heating oil, kerosene, or liquefied petroleum gas dealer who offers prepaid
+36 contracts under this section shall file an annual report with the secretary of state by December 1 of
+37 eachyeardemonstratinghowthedealerhassatisfiedtherequirementsofthissection,includinghow
+
+HB1262-FN-ASINTRODUCED
+-Page3-
+1 the prepaid contracts are secured. The report shall be made on a form provided by the secretary of
+2 state. The form shall conspicuously bear the warning that making a false statement on the form
+3 shall constitute an unfair or deceptive act or practice in violation of RSA 358-A. The report shall be
+4 signedbythedealer. Ifthedealerisacorporation,thereport shallbesignedbyeitherthepresident
+5 or an officer of the corporation and shall include a list of all of the members of the board of directors
+6 ofthecorporation. Thesecretaryofstatemaynotchargeafeefortheform orforfilingthereport.
+7 VI. If a consumer provides electronic or written notification of discontinuance of
+8 the contract to a home heating oil, kerosene, or liquefied petroleum gas dealer from which
+9 they are renting the storage tank, the dealer shall have 60 days from the date of
+10 notification to remove their tank or make every reasonable attempt to transfer ownership
+11 totheconsumeroranotherdealer.
+12 VII. No dealer may charge a rental fee for a propane tank that is owned by another
+13 companyortheconsumer.
+14 VIII. Failure to comply with this section shall constitute an unfair or deceptive act or
+15 practiceinviolationofRSA358-A.
+16 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2434
+11/15/25
+HB1262-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetohomeheatingoilandpropanecontracts.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1727 -ASINTRODUCED
+2026SESSION
+26-2965
+05/06
+1727
+HOUSEBILL
+ANACT relative to the inter-agency data sharing for the purpose of distributing summer
+electronicbenefittransfer(EBT)benefits.
+SPONSORS: Rep.Bordes,Belk.5
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of education and department of health and human services to
+enter into a memorandum of understanding to enable the department of education to share student
+addresses with the department of health and human services for the purpose of administering the
+federalSummerEBTprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1727-ASINTRODUCED
+26-2965
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the inter-agency data sharing for the purpose of distributing summer
+electronicbenefittransfer(EBT)benefits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Student Privacy; Limited Data Sharing for the Purpose of Administering
+2 SummerEBT. AmendRSA189:68byinsertingafterparagraphVthefollowingnewparagraph:
+3 VI. Notwithstanding RSA 189:68, I(b), the department of education shall enter into a
+4 memorandumofunderstanding(MOU)withthedepartmentofhealthandhumanservicesregarding
+5 the collection and maintenance of student addresses for the purpose of administering the Summer
+6 EBT program pursuant to RSA 161:2, XIII-c. Data collected and transmitted under this paragraph
+7 shall be confidential; shall be used exclusively for the administration and distribution of Summer
+8 EBT benefits; and shall not be used for any other purpose. The departments shall delete any data
+9 received under the MOU upon the completion of the distribution of benefits for the corresponding
+10 summerperiod,unlessotherwiserequiredbyfederallaw.
+11 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2965
+1/15/26
+HB1727-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the inter-agency data sharing for the purpose of distributing summer
+electronicbenefittransfer(EBT)benefits.
+FISCALIMPACT:
+TheDepartmentofHealthandHumanServicesstatesthisbillwillhavenofiscalimpact,asit
+alreadyhasamemorandumofunderstandingwiththeDepartmentofEducationrelativeto
+implementationoftheSummerEBTprogram.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

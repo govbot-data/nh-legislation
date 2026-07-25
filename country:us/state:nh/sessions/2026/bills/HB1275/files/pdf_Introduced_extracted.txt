@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1275 -ASINTRODUCED
+2026SESSION
+26-2843
+08/07
+1275
+HOUSEBILL
+ANACT relativetotheeffectsofper-andpolyfluoroalkylsubstancesonagriculture.
+SPONSORS: Rep.W.Thomas,Hills.12;Rep.N.Murphy,Hills.12
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates the agricultural PFAS remediation fund in order to assist farmers in New
+Hampshire who have suffered losses or incurred costs resulting from the actual or suspected
+presence of PFAS in soil, water, or agricultural products as a result of standard agricultural
+practices, including the land application of sludge or biosolids. This bill also imposes a 5 year
+moratoriumonthespreadingandapplicationofsludgeandbiosolidsforagriculturaluse.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1275-ASINTRODUCED
+26-2843
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheeffectsofper-andpolyfluoroalkylsubstancesonagriculture.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Definitions; Per- and Polyfluoroalkyl Substances. Amend RSA 485-A:2 by
+2 insertingafterparagraphXXIVthefollowingnewparagraph:
+3 XXV. “Per- and polyfluoroalkylsubstances" means anymemberof theclass of manufactured
+4 fluorinatedchemicalscontainingatleastonefullyfluorinatedcarbonatom.
+5 2 New Subdivision; PFAS in Agriculture. Amend RSA 431 by inserting after section 36 the
+6 followingnewsubdivision:
+7 PFASinAgriculture
+8 431:37 Per- and Polyfluorinatedalkyl Substances; Civil Immunity. Any person engaged in the
+9 practice of farming shall be immune from suit and civil liability for any damages resulting from
+10 claimsbasedonharmscausedbyper-andpolyfluorinatedalkylsubstancespresentinsoil,water,or
+11 agricultural products as a result of standard agricultural practices, including the land application of
+12 sludgeorbiosolids.
+13 431:38 AgriculturalPer-andPolyfluorinatedalkylSubstances(PFAS)ReliefFund.
+14 I. There shall be established and set up a separate fund to be known as the agricultural
+15 PFAS relief fund, which shall be used exclusively to assist farmers in New Hampshire who have
+16 suffered losses or incurred costs resulting from the actual or suspected presence of PFAS in soil,
+17 water, or agricultural products as a result of standard agricultural practices, including the land
+18 applicationofsludgeorbiosolids.
+19 II. TheagriculturalPFASrelieffundshallbecreditedwithmoneyfrom:
+20 (a) Amounts recovered in connection with litigation, settlements, fines, or other actions
+21 againstthemanufacturersofPFASandPFAScontainingproducts;
+22 (b) Amounts recovered in connection with claims arising from the sources of PFAS
+23 contamination on farmland from the land application of sludge or biosolids, products derived from
+24 sludgeorbiosolids,andotheragriculturalproductsthatcontainPFAS;
+25 (c) Gifts,grants,anddonationsfrompublicorprivatesources;
+26 (d) Federalreimbursementsandgrants-in-aid;and
+27 (e) Anyinterestearnedfromthefund.
+28 III. The departmentofagriculture, markets,andfood shallestablishrules underRSA541-A
+29 to direct the expenditure of moneys from the agricultural PFAS relief fund for the following
+30 purposes:
+31 (a) Testingofsoil,water,oragriculturalproductsforPFAS;
+
+HB1275 -ASINTRODUCED
+-Page2-
+1 (b) WaterfiltrationsystemstoreducethepresenceofPFASindrinkingwater;
+2 (c) Costs incurred from adapting management and business practices as a result of the
+3 disallowanceofuseofproductscontainingPFASorthedisruptionofbusinesscausedbythepresence
+4 ofPFAS;
+5 (d) Development and implementation of educational resources for farmers to adapt to
+6 managementchangesresultingfromthepresenceofPFAS;
+7 (e) Testing and other physical and mental health needs of farm owners and personnel
+8 resultingfromexposuretoPFAS;
+9 (f) Remediation practices and needed infrastructure for the reduction or elimination of
+10 PFAS;and
+11 (g) Anyotherpurposesthedepartmentdeterminesareaprudentuseofthefunds.
+12 IV. Moneyfromthefundshallnotbedistributedtoanentitythat:
+13 (a) Operate, or previously have operated, a solid waste management facility as defined
+14 byRSA149-M:4,IX;or
+15 (b) Hold, or previously held, a permit under RSA 485-A:4, XVI-d, to transport or process
+16 sludgeorbiosolids.
+17 V. Priorityshallbegiventoapplicantsbasedonthefollowingcriteria:
+18 (a) Thenumberoftimesandtotalvolumeofsludgehistoricallyappliedtothesite;
+19 (b) Thecurrentlanduse,withprioritygiventositesusedforagriculturalpurposes;and
+20 (c) Anyothercriteriadeterminedbythedepartmentofagriculturemarketsandfood.
+21 3 New Subparagraph; Agricultural PFAS Relief Fund. Amend RSA 6:12, I(b) by inserting after
+22 subparagraph(410)thefollowingnewsubparagraph:
+23 (411) Moneys deposited into the agricultural PFAS relief fund established in RSA
+24 431:3.
+25 4 Moratorium. Thelandapplicationofsludgeorbiosolidsonlandusedforagriculturalpurposes
+26 shallbeprohibitedforaperiodof5yearsfromtheeffectivedateofthissection.
+27 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

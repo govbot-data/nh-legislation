@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1723 -ASINTRODUCED
+2026SESSION
+26-2705
+06/08
+1723
+HOUSEBILL
+ANACT requiring utilities and electric grid operators to assess and report the
+vulnerability of high-voltage transformers to geomagnetic and electromagnetic
+disturbances, and to recommend mitigation measures to protect the state electric
+infrastructure.
+SPONSORS: Rep.Mattson,Ches.18;Rep.Cole,Hills.26;Rep.Qualey,Ches.18;Rep.Sabourin
+dit Choiniere, Rock. 30; Rep. Schneller, Hills. 2; Rep. D. Thomas, Rock. 16; Rep.
+Vose,Rock.5;Rep.Ammon,Hills.42;Rep.McGhee,Hills.35;Rep.MaryMurphy,
+Hills.27;Sen.Innis,Dist7;Sen.Ricciardi,Dist9
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires electric utilities and developers to assess and report the vulnerability of high-
+voltagetransformerstogeomagneticallyinducedcurrents,andtorecommendmitigationstrategies.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1723-ASINTRODUCED
+26-2705
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring utilities and electric grid operators to assess and report the
+vulnerability of high-voltage transformers to geomagnetic and electromagnetic
+disturbances, and to recommend mitigation measures to protect the state electric
+infrastructure.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short title. This chapter shall be known as "Survey All Vulnerable Electric Transformers
+2 Act."
+3 2 Findings.
+4 I. America’s electric grid is critical to modern life and faces existential threats from solar
+5 weather events (coronal mass ejections—CME), geomagnetic disturbances—GMDs, and high-
+6 altitudenuclearelectromagneticpulse—HEMP,allcapableofdisablingelectricpowersystems.
+7 II. High voltage transformers are especially vulnerable to geomagnetically induced
+8 currents—GICs—whether induced by GMDs or HEMP E3 component, entering the grid through
+9 ground-connectedneutralwires.
+10 III. Extra High Voltage (EHV) transformers (345 kV–765 kV) are most vulnerable and
+11 difficulttoreplace,withproductionleadtimesofupto4–6years.
+12 IV. GIC vulnerability is influenced by transformer characteristics, ground conductivity, and
+13 themagneticfieldintensityfromGMDorE3HEMP.
+14 V. Aging transformers are more susceptible to GIC due to degraded insulating oil and coil
+15 condition.
+16 VI. Federal and international standards highlight the importance of transformer
+17 assessmentandprotectionagainstthesethreats.
+18 3 New Chapter; Survey All Vulnerable Electric Transformers Act. Amend RSA by inserting
+19 afterchapter378thefollowingnewchapter:
+20 CHAPTER378-A
+21 SURVEYALLVULNERABLEELECTRICTRANSFORMERSACT
+22 378-A:1 Purpose. The purpose of this chapter is to require electric utilities and electric project
+23 developers to assess and report the vulnerability of high-voltage transformers to geomagnetically
+24 induced currents (GICs) caused by geomagnetic disturbances (GMDs) and high altitude
+25 electromagnetic pulse (HEMP), and to recommend mitigation strategies to protect critical electric
+26 infrastructure.
+27 378-A:2 Definitions. Inthischapter:
+
+HB1723 -ASINTRODUCED
+-Page2-
+1 I. “Coveredentity”meansanyelectricutilityorelectricprojectdeveloper,owner,oroperator
+2 within the state, regardless of public or private ownership or jurisdiction under the North American
+3 ElectricReliabilityCorporation(NERC).
+4 II. “Covered equipment” means any power transformer with a primary voltage of 100 kV or
+5 greater and capacity of 25 MVA or greater, and any generator step-up transformer with a secondary
+6 voltageof100kVorgreaterandcapacityof25MVAorgreater.
+7 III. “GIC” means geomagnetically induced current, also known as ground induced current,
+8 resultingfromnaturallyoccurringGMDsorthelate-time(E3)componentofHEMP.
+9 IV. "Critical energy infrastructure information protocols," "critical electric infrastructure
+10 information protocols," or "CEII" means specific engineering, vulnerability, or detailed design
+11 protocols and procedures related to proposed or existing critical infrastructure, whether physical or
+12 virtual, that relate to the production, generation, transmission, transportation, or distribution of
+13 energy,theunauthorizeddisclosureofwhichcouldposearisktothesecurity,reliability,orintegrity
+14 of the infrastructure; such protocols are designated as confidential and exempt from public
+15 disclosure,astheirreleasecouldbeuseful toapersonplanninganattack orotherwisecausingharm
+16 totheinfrastructure.
+17 378-A:3 AssessmentRequirements.
+18 I. Each covered entity shall, no later than January 1, 2027, conduct a technical assessment
+19 ofallcoveredequipmenttodeterminevulnerabilitytoGICs.
+20 II. Theassessmentshall:
+21 (a) Utilize the waveform in Figure A.5 of IEC 61000-2-9, Edition 2.0 (2025-05), modeling
+22 apeakmagneticfieldstrengthof20,000nTandcorrespondingelectricfieldof85V/km.
+23 (b) AssumetransformersarefullyloadedduringGICexposure.
+24 (c) Account for transformer age and condition using ANSI/IEEE Standard C57.110 and
+25 IEEEStandardC57.91.
+26 (d) Identify susceptibility to half-cycle saturation, GIC-induced harmonics, reactive
+27 powerconsumption,hotspotgeneration,andinsulationdegradation.
+28 378-A:4 ReportingRequirements.
+29 I. No later than 180 days after passage of this act, each covered entity shall submit a report
+30 to the department of energy, with copies to the public utilities commission, the governor, the chief of
+31 homelandsecurity,andthelegislature.
+32 II. Thereportshallinclude,foreachsusceptibletransformerandsubstation:
+33 (a) Transformer brand; transformer place of origin, including nation where
+34 manufactured;transformerdesignspecifications,includingwindingsandcoreconfiguration,winding
+35 impedances, winding DC resistances (specify whether assumed or measured), and phase type
+36 (single-phase or 3-phase); transformer capacity in megavolt-amperes (MVA); transformer voltage
+37 level in kilovolts (kV); transformer age; transformer site location, redacted for CEII; transformer
+
+HB1723 -ASINTRODUCED
+-Page3-
+1 purpose (e.g., generator step-up, autotransformer, step-down, converter), redacted for CEII;
+2 transformerreplacementleadtime;andtransformerreplacementcost.
+3 (b) Spreadsheet-formatteddataandnarrativeanalysis.
+4 (c) RecommendedsolutionstoprotectthegridagainstGICbypreventingorreducingthe
+5 halfcyclesaturationoftransformers.
+6 (d) TotalcosttoimplementGICprotection.
+7 (e) Prioritylistoftransformersbydamageriskandcriticalinfrastructureimpact.
+8 (f) Funding recommendations, including potential grant sources and rate recovery
+9 mechanisms.
+10 378-A:5 Operational Standards. Covered entities shall not rely solely on operational procedures
+11 such as load shedding or reactive power supply to mitigate GIC risk. Such procedures shall not be
+12 consideredsufficientprotectionunderthischapter.
+13 378-A:6 Confidentiality. All data submitted under this chapter shall be handled in accordance
+14 with CEII protocols as defined in RSA 378-A:2. Location and purpose data shall be redacted from
+15 publicreports.
+16 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

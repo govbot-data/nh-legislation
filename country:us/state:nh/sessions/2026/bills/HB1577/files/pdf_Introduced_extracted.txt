@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1577 -ASINTRODUCED
+2026SESSION
+26-2890
+06/09
+1577
+HOUSEBILL
+ANACT relative to the disclosure of utility customer data to municipalities for emergency
+responseplanning.
+SPONSORS: Rep. Drye, Sull. 7; Rep. Tenczar, Hills. 1; Rep. Foote, Rock. 13; Rep. Girard, Sull.
+6;Rep.Bridle,Rock.29;Rep.Roy,Rock.31
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows public utilities to share individual customer data with municipal emergency
+managementauthoritiesforthelimitedpurposeofemergencyresponseplanningandcoordination.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1577-ASINTRODUCED
+26-2890
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the disclosure of utility customer data to municipalities for emergency
+responseplanning.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CustomerDatainEmergencySituations. AmendRSA363:38,V(b)toreadasfollows:
+2 (b) Nothing in this section shall preclude a service provider from disclosing a customer's
+3 individual data to a third party for system, grid, or operational needs, emergency response
+4 planning or coordination with municipal emergency management authorities, or the
+5 research, development, and implementation of new rate structures and tariffs, demand response,
+6 customer assistance, energy management, or energy efficiency programs, provided that the service
+7 provider for contracts entered into after January 1, 2017, has required by contract that the third
+8 party implement and maintain reasonable security procedures and practices appropriate to the
+9 nature of the information, to protect the personal information from unauthorized access, use,
+10 destruction, modification, or disclosure, and to prohibit the use of the data for a secondary
+11 commercial purpose not related to the primary purpose of the contract without the express consent
+12 ofthecustomer.
+13 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

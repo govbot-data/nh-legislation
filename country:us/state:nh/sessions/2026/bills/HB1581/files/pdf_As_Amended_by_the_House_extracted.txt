@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1581-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0597h
+2026SESSION
+26-3225
+04/09
+1581-FN
+HOUSEBILL
+ANACT allowing municipalities to adopt a requirement that property owners be given
+noticewhentheassessedvalueoftheirpropertychangesbycertainamounts.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Ford, Rock. 3; Rep. McFarlane, Graf. 18; Rep.
+McGrath,Rock.40;Rep.MaryMurphy,Hills.27;Rep.Pauer,Hills.36
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillallowsmunicipalitiestoadoptarequirementthatpropertyownersbegivennoticewhen
+theassessedvalueoftheirpropertychangesbycertainamounts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1581-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0597h 26-3225
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing municipalities to adopt a requirement that property owners be given
+noticewhentheassessedvalueoftheirpropertychangesbycertainamounts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;AppraisalofTaxableProperty;PropertyValueNoticeOption. AmendRSA75by
+2 insertingaftersection8-cthefollowingnewsection:
+3 75:8-d PropertyValueNoticeOption.
+4 I. Municipalities may vote to adopt a property value notice option by majority vote of the
+5 legislative body. Such option shall require the municipality to mail a general notice to a property
+6 owner within 14 calendar days after an adjustment is recorded, provided the change in assessment
+7 exceeds $1,000, about the change in their property's assessed value. The notice shall include the
+8 address, hours of operation, and telephone number of the city or town hall, and information on how
+9 toaccesstheassessmentonline,ifsuchaccessissupportedbythemunicipality.
+10 II. If the town uses an official ballot system, the question of adoption shall be placed on the
+11 officialballotattheannualtownmeetingasfollows:
+12 “Shall this municipality adopt the provisions of RSA 75:8-d, requiring the municipality to mail a
+13 general notice to property owners within 14 days whenever a change in the property’s assessment
+14 exceeds$1,000,exceptinayearinwhichafullmunicipality-widerevaluationisconducted?”
+15 III. If a municipality adopts the property value notice option pursuant to this section, a
+16 question to rescind the property value notice option shall be placed annually on an official ballot at
+17 thetownmeetingasfollows:
+18 “Shall this municipality rescind the provisions of RSA 75:8-d, requiring the municipality to mail a
+19 general notice to property owners within 14 days whenever a change in the property’s assessment
+20 exceeds$1,000,exceptinayearinwhichafullmunicipality-widerevaluationisconducted?”
+21 IV. If the town does not use an official ballot system, the question shall be considered and
+22 votedonatthetownmeeting. Inacity,orinatownwithoutatownmeeting,adoptionshalloccurby
+23 amajorityvoteofthelegislativebody,asapplicable.
+24 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3225
+03/16/2026
+HB1581-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0597h)
+ANACT allowing municipalities to adopt a requirement that property owners be given
+noticewhentheassessedvalueoftheirpropertychangesbycertainamounts.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None

@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1243-FN-ASINTRODUCED
+2026SESSION
+26-3142
+06/08
+1243-FN
+HOUSEBILL
+ANACT relativetocontractingandinvestmentdecisionsbyexecutivebranchagencies.
+SPONSORS: Rep.SabourinditChoinere,Rock.30;Rep.Barton,Graf.1;Rep.Granger,Straf.2;
+Rep. Harvey-Bolia, Belk. 3; Rep. Kuttab, Rock. 17; Rep. Tom Mannion, Hills. 1;
+Rep.Potenza,Straf.19;Rep.Wheeler,Hills.33
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires executive branch agencies to base all contracting and investment decisions on
+providing direct benefits, services, or goods to New Hampshire citizens, with certain requirements
+andguidelines.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1243-FN-ASINTRODUCED
+26-3142
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocontractingandinvestmentdecisionsbyexecutivebranchagencies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPurpose. ItisthepolicyofthestateofNewHampshirethatdecisionsconcerning
+2 contracting and investing by executive branch agencies shall be made solely in the interest of, and
+3 for the exclusive purpose of providing benefits, services, and goods to, the citizens of New
+4 Hampshire.
+5 2 New Section; Limitation of Purpose of Contracting and Investing Decisions. Amend RSA 21-I
+6 byinsertingaftersection11-ethefollowingnewsection:
+7 21-I:11-f LimitationonPurposeofContractingandInvestingDecisions.
+8 I. All contracting and investing actions by any executive branch agency, including
+9 departments, boards, commissions, and institutions as defined in RSA 21-I:11, shall be undertaken
+10 solelyintheinterestof,andfortheexclusivepurposeofprovidingbenefits,services,andgoodstothe
+11 citizensofNewHampshire.
+12 II. No executive branch agency shall award or renew any contract, or make any investment
+13 or other expenditure, unless the primary and exclusive purpose of such action is to provide a direct
+14 benefit, service, or good to the citizens of New Hampshire. Agencies shall not consider, nor be
+15 requiredtofurther,interests,policies,orobjectivesextraneoustoorinconsistentwiththispurpose.
+16 III. This section shall not preclude compliance with theexpress requirements of federal law,
+17 or valid conditions for receipt of federal funds, nor shall it prohibit actions to the extent required for
+18 participation in multistate or federal programs that confer a direct benefit, service, or good to New
+19 Hampshirecitizens.
+20 IV. All contracts entered into by executive branch agencies shall contain a certification by
+21 the agency that the contract is consistent with the requirements of this section. The director of
+22 procurementandsupportservicesshalldevelopandprovideastandardcertificationforthispurpose,
+23 andmayissuesuchadditionalrulesandguidanceasarenecessarytoadministerthissection.
+24 V. If a part of this act is invalid, all valid parts that are severable from the invalid part
+25 remainineffect. If apart of this act is invalid inone or moreof its applications, thepart remains in
+26 effectinallvalidapplicationsthatareseverablefromtheinvalidapplications.
+27 VI. For purposes of this section, “agency,” “contract,” and “purchase” shall have the same
+28 meaningasprovidedinRSA21-I:11,II.
+29 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3142
+10/29/25
+HB1243-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocontractingandinvestmentdecisionsbyexecutivebranchagencies.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServices

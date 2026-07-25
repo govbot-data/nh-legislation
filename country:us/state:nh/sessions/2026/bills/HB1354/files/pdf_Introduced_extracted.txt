@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1354-FN-ASINTRODUCED
+2026SESSION
+26-3160
+06/09
+1354-FN
+HOUSEBILL
+ANACT authorizingthedivisionof motor vehicles toissue license platedecals for amateur
+radiooperators.
+SPONSORS: Rep.Thackston,Ches.12
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the division of motor vehicles to issue a special registration plate symbol to
+any applicant who holds a valid amateur radio license issued by the Federal Communications
+Commissionuponpaymentofaspecialregistrationplatesymbolfee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1354-FN-ASINTRODUCED
+26-3160
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizingthedivisionof motor vehicles toissue license platedecals for amateur
+radiooperators.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Special Registration Plate Symbol; Amateur Radio Operator Decal. Amend RSA
+2 261byinsertingaftersection75-cthefollowingnewsection:
+3 261:75-d AmateurRadioOperatorDecal;SpecialRegistrationPlateSymbol.
+4 I. The director is hereby authorized to assign registration numbers that include a special
+5 registration plate symbol for the purpose of recognizing licensed amateur radio operators. The
+6 special registration plate symbol shall serve as a character in the registration number. A special
+7 registration plate symbol may be used on any type of number plate issued by the division for private
+8 passengervehicles,recreationalvehicles,andmotorcycles.
+9 II. Thedesignandsizeofanappropriatesymbolshallbedeterminedbythecommissionerin
+10 consultation with representatives of the amateur radio community and the commissioner of safety.
+11 Thedepartmentshalldeterminethemeansofidentifyingthespecialregistrationplatesymbolinthe
+12 computerizedrecordsofthedepartment.
+13 III. A special registration plate symbol shall be available to any applicant who holds a valid
+14 amateur radio license issued by the Federal Communications Commission, upon payment of a
+15 special registration plate symbol fee of $85, which shall be in addition to any other registration and
+16 number plate fees. An applicant may include the symbol on any vanity number plate upon payment
+17 of the special registration plate symbol fee and the vanity plate service fee in RSA 261:89. Vanity
+18 plateservicefeesshallbedistributedasprovidedinRSA261:89andRSA263:52. Thefeesdescribed
+19 inthissectionshallapplytooriginalregistrationsandannualregistrationrenewals.
+20 IV. The department shall retain from the special registration plate symbol fees an amount
+21 as is necessary to recover any additional production and administrative costs associated with use of
+22 the symbol. The remaining funds shall be paid to the state treasurer and deposited in the highway
+23 fund established to support public safety communications infrastructure and emergency
+24 preparednessinitiatives.
+25 V. All other registration fees, permit fees, number plate fees, and special number plate fees
+26 shall be distributed as required by law. The cost of replacement number plates shall be identical to
+27 the cost of initial number plates and the revenue from replacement number plates shall be
+28 distributedinthesamemannerasrevenuederivedfrominitialnumberplates.
+29 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3160
+10/22/25
+HB1354-FN-FISCALNOTE
+ANACT authorizingthedivisionof motor vehicles toissue license platedecals for amateur
+radiooperators.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+RevenueFund(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+$28,000to
+Expenditures* $0 $0 $0
+$55,000
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective January 1, 2027, creates a new plate for passenger and motorcycle style
+vehicles, bearing a symbol representing amateur radio operators. The plate registration fee
+wouldbe$85,whichafterdeductingproductionandadministrativecosts,shallbecreditedtothe
+state highway fund. The Department of Safety estimates a one-time system change cost of
+approximately $25,000 and a one-time cost, for the creation of the new plate type, of $3,000 to
+$30,000, for a total cost of $28,000 to $55,000. Based on this estimate, it would take
+approximately 330 to 650 registrations of the new plate type, at $85, to recover implementation
+costs. Since the number of registrations cannot be predicted, this bill’s impact on highway fund
+revenueisindeterminable.
+AGENCIESCONTACTED:
+DepartmentofSafety

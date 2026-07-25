@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1555-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0668h
+05/07/2026 1650s
+2026SESSION
+26-2830
+06/08
+1555-FN
+HOUSEBILL
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+SPONSORS: Rep. Layon, Rock. 13; Rep. Popovici-Muller, Rock. 17; Rep. Sabourin dit
+Choiniere, Rock. 30; Rep. C. McGuire, Merr. 27; Rep. Polozov, Merr. 10; Sen.
+Innis,Dist7;Sen.Murphy,Dist16;Sen.Sullivan,Dist18
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows the state fire marshal to hear de novo appeals of local fire chief decisions within set
+timelines and grants them statewide authority to approve, deny, or allow project-specific
+alternativesandcodemodificationsunderthestatebuildingcode.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1555-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0668h
+05/07/2026 1650s 26-2830
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;StateBoardofFireControl;ApprovalofPlansforConstructionorRevisionof
+2 all State Buildings Required. Amend RSA 153:8-a by inserting after paragraph II the following new
+3 paragraph:
+4 III. The state fire marshal shall also be responsible for hearing appeals of any decision
+5 issuedbythelocalfirechief,orthefirechief’sdulyauthorizedsubordinates,inaccordancewithRSA
+6 154:2, II. The state fire marshal shall hold a hearing within 40 days of the receipt of an appeal,
+7 unless an extension of time has been granted by the state fire marshal at the written request of one
+8 of the parties, and shall render a decision in writing within 30 days of the conclusion of the hearing.
+9 The review of the state fire marshal shall be de novo. The hearing shall not be bound by the formal
+10 rules of evidence, and the state fire marshal may consider the evidence in the record transmitted by
+11 the fire chief or such other relevant evidence as may be admitted by the state fire marshal. In
+12 considering the appeal, the state fire marshal may affirm, modify, or reverse any decision issued
+13 pursuanttoRSA154:2,II(b). Anypartyaggrievedbyadecisionofthestatefiremarshalmayappeal
+14 thatdecisiontothebuildingcodereviewboardinaccordancewithRSA155-A:11.
+15 2 New Paragraph; State Building Code; Enforcement Authority. Amend RSA 155-A:7 by
+16 insertingafterparagraphVthefollowingnewparagraph:
+17 VI. The state fire marshal shall have the power to approve, disapprove, or allow alternative
+18 materials, design and methods of construction and equipment and code modifications to the state
+19 buildingcodeforallmunicipalities.
+20 3 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2830
+05/11/2026
+HB1555-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1650s)
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 $231,000 $207,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, related to the administration and enforcement of the state fire code, states that the
+State Fire Marshal shall be responsible for hearing appeals of any decision issued by the local
+firechief,orthefirechief’sdulyauthorizedsubordinates,inaccordancewithRSA154:2,II. This
+bill also provides for the State Fire Marshal to have the power to allow exceptions to the state
+buildingcode. Asamended,thebilltakeseffectonJuly1,2027.
+The Department of Safety states this bill adds work to the Division of Fire Safety and would
+require two new positions (both of which assume a July 1, 2027 start date); a building inspector
+(SOC 47-08, step 3) at a cost of $146,000 in FY 2028 and $119,000 in FY 2029, and an
+administrative assistant (SOC 43-04, step 3) at a cost of $85,000 in FY 2028 and $88,000 in FY
+2029. Thisbillprovidesneitherauthorizationnorappropriationfornewpersonnel.
+Thisbillisnotexpectedtoimpactcountyandlocalrevenueorexpenditures.
+AGENCIESCONTACTED:
+DepartmentofSafetyandNewHampshireMunicipalAssociation

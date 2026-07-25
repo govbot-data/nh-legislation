@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1051-VERSIONADOPTEDBYBOTHBODIES
+5Mar2026...0711h
+2026SESSION
+26-2460
+09/08
+1051
+HOUSEBILL
+ANACT modifying the procedures and requirements for school bus driver criminal history
+recordschecksandexpandingthepersonnelsubjecttosuchchecks.
+SPONSORS: Rep.Layon,Rock.13
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill modifies the procedures for school bus driver criminal history records checks by
+extending its application to volunteers and contractors and specifying requirements for such record
+checks, including fingerprinting. The bill also directs the department of education to implement a
+secure system for such record checks and authorizes the department to make rules relative to the
+rightsofpersonnelincriminalhistoryrecordchecks.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1051-VERSIONADOPTEDBYBOTHBODIES
+5Mar2026...0711h 26-2460
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifying the procedures and requirements for school bus driver criminal history
+recordschecksandexpandingthepersonnelsubjecttosuchchecks.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 School Bus Driver Criminal History Records Check; Procedures Modified RSA 189:13-b is
+2 repealedandreenactedtoreadasfollows:
+3 189:13-b SchoolBusDriverCriminalHistoryRecordsCheck.
+4 I. The department of education shall complete a criminal history records check on all school
+5 bus drivers, school transportation vehicle drivers, school bus monitors, designated volunteers, and
+6 contracted service providers as would school administrative units, school districts, and chartered
+7 public schools pursuant to RSA 189:13-a. The criminal history record check clearance shall be valid
+8 foraperiodof5years.
+9 II.(a) The school bus driver, school transportation vehicle driver, school bus monitor,
+10 designated volunteer, or contracted service provider with a school administrative unit, school
+11 district, chartered public school, public academy, or non-public special education school shall submit
+12 tothe department a criminal history records release form, as provided bythe divisionof state police,
+13 which authorizes the division of state police to conduct a criminal history records check through its
+14 state records and through the Federal Bureau of Investigation and to release a report of the
+15 individual's criminal history record information, including confidential criminal history record
+16 information,tothebackgroundcheckcoordinatorofthedepartment,asdescribedinRSA21-N:8-a,I-
+17 a.
+18 (b) The department shall establish and implement a secure system for conducting a
+19 check of all personnel listed in this section in the National Association of State Directors of Teacher
+20 Education and Certification (NASDTEC) database by utilizing the applicant's social security
+21 number.
+22 III. School bus drivers, school transportation vehicle drivers, school bus monitors, and
+23 contracted service providers shall submit with the release form a complete set of fingerprints taken
+24 byaqualifiedlawenforcementagencyoranauthorizedemployeeofthedepartmentofeducation. In
+25 the event that the first set of fingerprints is invalid due to insufficient pattern, a second set of
+26 fingerprints shall be taken in order to complete the criminal history records check. If, after 2
+27 attempts, a set of fingerprints is invalid due to insufficient pattern, the department may, in lieu of
+28 the criminal history records check, accept police clearance from every city, town, or county where an
+29 applicantorcandidatehasresidedinduringthepast10years.
+
+HB1051-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 IV.(a) The department shall maintain the confidentiality of all criminal history records
+2 information received pursuant to this section. The department shall destroy all criminal history
+3 recordinformationwithin60daysofreceivingsaidinformation.
+4 (b) The department may require individuals to pay the actual costs of the criminal
+5 historyrecordscheck.
+6 V.(a) Any person who has been charged pending disposition for or convicted of any violation
+7 or attempted violation of RSA 318-B:2 for possession of a controlled drug with the intent to sell,
+8 felonylevel,withinthelast10years,RSA630:1;630:1-a;630:1-b;630:2; 630:3,631:1;631:2, 631:2-b,
+9 632:1, 632-A:2; 632-A:3; 632-A:4; 633:1; 633:7; 636:1, 638:1, 638:15-a, 639:2; 639:3; 645:1, II or 645:1,
+10 III; 645:2; 649-A:3; 649-A:3-a; 649-A:3-b; 649-B:3; or 649-B:4; or any violation or any attempted
+11 violation of RSA 650:2 where the act involves a child in material deemed obscene in this state, or
+12 under any statute prohibiting the same conduct in another state, territory, or possession of the
+13 United States, shall not be granted a clearance, nor shall they be employable or contracted in a
+14 public school, public charter school, public academy, or non-public approved special education school
+15 withinthestateofNewHampshire.
+16 (b) A school administrative unit, school district, public school, public charter school,
+17 publicacademy,ornon-publicapprovedspecialeducationschoolinthestateofNewHampshireshall
+18 not employ any individual who has had their educator credential revoked in New Hampshire or any
+19 otherstate.
+20 VI. The department of education shall adopt rules, pursuant to RSA 541-A, governing the
+21 rights of educational and contracted personnel and their ability to appeal a denial of a clearance
+22 pursuanttoachargependingdispositionfororaconvictionofanyof theoffensesunderRSA189:13-
+23 b,V.
+24 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+HB1051-VERSIONADOPTEDBYBOTHBODIES
+LBA
+26-2460
+03/19/2026
+HB1051-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0711h)
+ANACT modifying the procedures and requirements for school bus driver criminal history
+recordschecksandexpandingthepersonnelsubjecttosuchchecks.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Upto$25,000PerYear
+RevenueFund(s) RestrictedEducationCredentialingFundRevenue
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Education to conduct criminal history record checks for
+school bus drivers, transportation vehicle drivers, bus monitors, designated volunteers, and
+contractedserviceproviders. Clearancesarevalidforfive(5)years. TheDepartmentstatesthat
+restrictedstaterevenuecouldincreasebyupto$25,000peryear,assuminga$100feeischarged
+per clearance (the Department anticipates that fewer than 250 additional individuals would be
+subject to the background check requirements). The Department states any administrative
+increasefrom this billwould likelybeabsorbed byitscurrent budget andstaff. The Department
+notesthatshouldthenumberofchecksrequestedsignificantlyexceedtheaboveestimate,itmay
+needadditionalpart-timestafftohandletheincreasedworkload.
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1776-FN-ASINTRODUCED
+2026SESSION
+26-2923
+07/08
+1776-FN
+HOUSEBILL
+ANACT requiring higher educational institutions to report the reception of foreign grants,
+donations,andcontractstothedepartmentofeducationandthegeneralcourt.
+SPONSORS: Rep.Sweeney,Rock.25;Rep.AlexanderJr.,Hills.29;Rep.Berry,Hills.44
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires higher educational institutions to report the reception of foreign grants,
+donations,andcontractstothedepartmentofeducationandthegeneralcourt.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1776-FN-ASINTRODUCED
+26-2923
+07/
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring higher educational institutions to report the reception of foreign grants,
+donations,andcontractstothedepartmentofeducationandthegeneralcourt.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Reporting of Funding from Foreign Sources. Amend RSA by inserting after
+2 chapter200-Othefollowingnewchapter:
+3 CHAPTER200-P
+4 REPORTINGOFFUNDINGFROMFOREIGNSOURCES
+5 200-P:1 ReportingofFundingfromForeignSources.
+6 I. Asusedinthissection:
+7 (a) “Contract” means any agreement for the acquisition by purchase, lease, or barter of
+8 propertyorservicesbytheforeignsource,forthedirectbenefitoruseofeitheroftheparties;
+9 (b) “Foreignsource”means:
+10 (1) Aforeigngovernment,includinganagencyofaforeigngovernment;
+11 (2) A legal entity, governmental or otherwise, created solely under the laws of a
+12 foreigngovernment;
+13 (3) An individual who is not a citizen of the United States, a trust territory or
+14 protectoratethereof;and
+15 (4) An agent, including a subsidiary or affiliate of a foreign legal entity, acting on
+16 behalfofaforeignsource.
+17 (c) “Reportable funding” means any contract, gift, grant, endowment, award, or
+18 donation, payment in exchange for services, capital investment, salary, wage, compensation, fee, or
+19 other monetary exchange, including any pledge, promise, agreement, or expressed intention by the
+20 foreign source to provide funding which exceeds $50,000 in value or is expected to exceed $50,000 in
+21 value over the projected length of the funding relationship between the covered institution and the
+22 foreignsource.
+23 (d) “Covered institution” means any institution, public or private, organized under the
+24 lawsoforhavingacampusorplaceofbusinessinthisstate,that:
+25 (1) Is authorized to provide a program of education beyond secondary school within
+26 thisstate;and
+27 (2) Provides a program for which the institution awards a bachelor’s degree, or
+28 providesnotlessthana2-yearprogramwhichisacceptableforfullcredittowardsuchadegree,or a
+29 moreadvanceddegree.
+
+HB1776-FN-ASINTRODUCED
+-Page2-
+1 II. ExceptasprovidedinparagraphV,eachcoveredinstitutionshallprovideonthefirstday
+2 of each calendar quarter a report detailing all reportable funding received by the covered institution
+3 fromaforeignsourceduringthepreviouscalendarquarter. Thereportshallinclude:
+4 (a) Theamountofreportablefundingreceived;
+5 (b) A description of the type of reportable funding and the purpose thereof, including
+6 whetherthefundingreportedispartofanongoingrelationshipwiththeforeignsource;
+7 (c) Adetaileddescriptionoftheforeignsourceprovidingthefunding,includingthename
+8 andaddressoftheentityorindividualprovidingthefunding;and
+9 (d) A copy of any contract, agreement, pledge, or memorandum of understanding
+10 associatedwiththefunding;and
+11 III. The report required under paragraph II shall be public record and shall be posted and
+12 regularly updated on the department of education's website. A copy of the report shall be provided
+13 to the governor, the chair of the higher education committee of the house of representatives, and the
+14 chairofthehighereducationcommitteeofthesenate.
+15 IV. The willful failure of a covered institution to report covered funding received from a
+16 foreignsource shall result inafine of up to$10,000per incident, andforfeitureof anyother received
+17 butunreportedfunds. Thedepartmentofjusticeshallbeempoweredtoenforcethissection.
+18 V. This shall not require reporting of payments made by a natural person who would
+19 otherwise qualify as a foreign source for tuition or related fees to support an individual
+20 matriculatingasastudentatacoveredinstitution.
+21 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2923
+Revised1/12/26
+HB1776-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring higher educational institutions to report the reception of foreign grants,
+donations,andcontractstothedepartmentofeducationandthegeneralcourt.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s)
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund,USNHandCCSNHOperatingExpenses
+Appropriations* $0 $0 $0 $0
+FundingSource(s)
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires higher educational institutions to report the reception of foreign grants,
+donations, and contracts to the Department of Education and the General Court. The
+DepartmentofJustice(DOJ)statesthisbillprovidesthatacoveredinstitution’swillfulfailureto
+report a funding source shall result in a fine of up to $10,000 per incident, and forfeiture of
+received and unreported funds. The DOJ states it is not in possession of data to estimate the
+frequency of reportable funding events or the likelihood of noncompliance. Therefore, the fiscal
+impact cannot be determined at this time. If violations occur with any frequency, the DOJ may
+require at least one new full-time attorney position to carry out enforcement responsibilities.
+The DOJ has not provided any position details, but has provided a total potential cost range of
+$100,000 to $500,000 per year. This bill provides neither authorization nor appropriation for
+newpersonnel.
+The University System of New Hampshire and Community College System of New Hampshire
+statethatanyimpactfromthisbillwouldbelessthan$10,000peryear.
+TheDepartmentofEducationstatesthisbillwillhavenoimpactonitsbudget.
+AGENCIESCONTACTED:
+
+Department of Justice, University System of New Hampshire, Community College System of
+NewHampshire,andDepartmentofEducation

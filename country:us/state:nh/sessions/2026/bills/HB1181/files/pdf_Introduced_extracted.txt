@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1181-FN-ASINTRODUCED
+2026SESSION
+26-2645
+06/05
+1181-FN
+HOUSEBILL
+ANACT relative to public hearing notice requirements for zoning board of adjustment
+appeals.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Aldrich, Belk. 6; Rep. Cole, Hills. 26; Rep. Mazur,
+Hills. 44; Rep. Reinfurt, Hills. 29; Sen. Gannon, Dist 23; Sen. Murphy, Dist 16;
+Sen.McGough,Dist11;Sen.Lang,Dist2
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill updates the public hearing requirement for zoning boards of adjustment by replacing
+therequirement that a notice be published in a newspaper of general circulation with a requirement
+thatthenoticebepostedonthemunicipality’spublicwebsiteforatleast5daysbeforethehearing.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1181-FN-ASINTRODUCED
+26-2645
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to public hearing notice requirements for zoning board of adjustment
+appeals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Zoning Board of Adjustment Public Hearings. RSA 676:7, I(b) is repealed and reenacted to
+2 readasfollows:
+3 (b) Apublicnoticeofthehearingshallbepostedonthemunicipality’spublicwebsitenot
+4 less than 5 days before the date fixed for the hearing of the appeal. The notice shall remain
+5 accessible to the public on the website until the hearing has concluded. If the municipality does not
+6 maintain a public website, the notice shall be physically posted in at least 2 public places within the
+7 municipalityforthesameperiod.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2645
+10/30/25
+HB1181-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to public hearing notice requirements for zoning board of adjustment
+appeals.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+IndeterminableIncrease
+LocalRevenue $0
+(lessthan$10,000permunicipality)
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill updates the public hearing requirement for zoning boards of adjustment by replacing
+the requirement that a notice be published in a newspaper of general circulation with a
+requirement that the notice be posted on the municipality’s public website for at least 5 days
+beforethehearing.
+TheNewHampshireMunicipalAssociationestimatesthatmunicipalitieswillreduceadvertising
+costs by less than $10,000 for most municipalities, with larger municipalities that have a higher
+volumeofappealslikelytoachievegreatersavings.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

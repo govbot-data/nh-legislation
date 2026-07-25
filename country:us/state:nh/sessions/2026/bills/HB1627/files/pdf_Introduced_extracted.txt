@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1627-FN-ASINTRODUCED
+2026SESSION
+26-2948
+08/07
+1627-FN
+HOUSEBILL
+ANACT creatingasingleprimaryballot.
+SPONSORS: Rep.Coker,Belk.2
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillcreatesasinglepartyballotforuseinstateandcongressionalprimaries.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1627-FN-ASINTRODUCED
+26-2948
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatingasingleprimaryballot.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SingleBallotPrimaries. RSA656:23isrepealedandreenactedtoreadasfollows:
+2 656:23 General Form. All candidates for an office shall be listed on a single primary ballot and
+3 all registered voters may vote for any candidate. A candidate for a state or federal office may have
+4 theirpoliticalpartypreferenceorlackthereofindicatedontheballot. Selectionofapartypreference
+5 by a candidate shall not constitute or imply endorsement of the candidate by the party designated.
+6 No candidate for that office shall be deemed the official candidate of any party by virtue of their
+7 selectiononthesingleballotprimary.
+8 2 SampleBallots. AmendRSA656:28toreadasfollows:
+9 656:28 Sample Ballots. The secretary of state shall furnish 10 sample state primary election
+10 ballots[ofeachpoliticalpartyprintedontintedpaper]toeachtownorwardclerkand,uponrequest,
+11 areasonable number of suchsampleballots toeachpersonwhose name appears upontheballot as a
+12 candidate. Each town or ward clerk shall post one sample ballot [of each political party] in each of 2
+13 public places in the clerk's town or ward within one day of receiving such sample ballots and save
+14 theremaindertobepostedonthedayoftheprimaryasprovidedinRSA658:26.
+15 3 Special Provisions for State and Presidential Primary Elections. Amend RSA 659:14 to read
+16 asfollows:
+17 659:14 SpecialProvisionsforStateandPresidentialPrimaryElections.
+18 I. A person desiring to vote at a [state or] presidential primary election shall, at the time of
+19 announcing the person's name, also announce the name of the party to which the person belongs or
+20 whetherthepersonisregisteredasanundeclaredvoter. [Iftheperson'spartymembershiphasbeen
+21 registered before, the person shall be given only the ballot of the party with which the person is
+22 registered, unless the person desires to vote the ballot of a party not having official existence at the
+23 time the person's party membership was previously registered, in which case the person may vote
+24 the ballot of such a party in the state primary election immediately following the political
+25 organization's official existence as a party, and not in any subsequent state primary election.] A
+26 person may also vote the ballot of such a party in the presidential primary election only if the
+27 presidential primary election precedes the state primary election to be held in that same year. [If
+28 the rules of a party permit a person who is registered as an undeclared voter to vote in the party's
+29 primary, any person desiring to vote in that party's primary shall also announce the name of that
+30 partyatthetimeofannouncingtheperson'sname. Nopersonshallbepermittedtovoteinanymore
+31 than one party primary during any primary election.] Any voter who is registered may vote in
+
+HB1627-FN-ASINTRODUCED
+-Page2-
+1 the state or congressional primary regardless of party affiliation or lack of party
+2 affiliation.
+3 II. ThesecretaryofstateshallincludeonthevoterinstructioncardsrequiredbyRSA658:28
+4 whether a party rule has been adopted which permits a person who is registered as an undeclared
+5 voter to vote in the party's presidential primary. The party chairman shall notify the secretary of
+6 state in writing prior to the filing period for state offices whether the party has adopted such a rule.
+7 This rule shall not be changed or rescinded by a party until the results of the primary have been
+8 announced, and any change or rescission shall be mailed to the secretary of state by the party
+9 chairman.
+10 4 Counting Votes on Different Party Ballots. RSA 659:69 is repealed and reenacted to read as
+11 follows:
+12 659:69 CountingVotesonDifferentPartyBallots.
+13 I. Votes cast in a state or congressional primary election shall be counted such that the
+14 number of candidates advancing to the general election shall be twice the number who will be
+15 elected in that election. No candidate who did not appear on the state or congressional primary
+16 ballotmayappearonthegeneralelectionballot.
+17 II. Votes cast for the same person for the office of president of the United States on the
+18 ballotsofdifferentpartiesshallnotbeaddedtogetherbutshallbecreditedtothepartyonwhosehis
+19 orhernameappearsandthevoteiscast.
+20 5 VerificationoftheChecklists. AmendRSA654:38,Itoreadasfollows:
+21 I. Between April 1 and August 1 in the next even-numbered year, the supervisors shall post
+22 notice of their sessions in 2 appropriate places one of which shall be the town or city's Internet
+23 website,ifsuchexists,andpublishedatleasttwiceinanewspaperofgeneralcirculationinthetown
+24 or city and hold sufficient sessions for verification of the checklist as in their opinion will enable all
+25 eligible voters in said town or ward to appear before them and register or reregister as the case may
+26 be. Whenever a person is reregistered, his or her party designation, if any, on the checklist
+27 undergoingrevisionshallnotbechanged[exceptasprovidedinRSA654:34].
+28 6 VerificationEvery10Years. AmendRSA654:39,Itoreadasfollows:
+29 II. BetweenApril1andAugust1of2026andannuallythereafter,thesupervisorsshallpost
+30 notice of their sessions in 2 appropriate places one of which shall be the town or city's Internet
+31 website, if such exists, and published at least twice in a newspaper of general circulation and hold
+32 sufficient sessions for verification of the checklist as in their opinion will enable all eligible voters in
+33 said town or ward to appear before them and register or reregister as the case may be. Whenever a
+34 personis reregistered, his or her partydesignation,if any, onthechecklist undergoingrevisionshall
+35 notbechanged[exceptasprovidedinRSA654:34].
+
+HB1627-FN-ASINTRODUCED
+-Page3-
+1 7 Education Campaign; Secretary of State. By July 1 2027, the secretary of state shall organize
+2 and execute a voter education campaign to educate New Hampshire citizens on the new primary
+3 system,includinghowtocompletetheprimaryballot.
+4 8 Applicability. The single primary ballot system of this act shall be used in the 2028 primary
+5 andinallapplicableprimariesthereafter.
+6 9 Repeal. Thefollowingarerepealed:
+7 I. RSA656:25,relativetocoloredballotsfordifferentpartyprimaries.
+8 II. RSA656:26,relativetothenumberofprimaryballotssenttoatownorcityward.
+9 III. RSA 656:27, relative to the number of primary ballots sent to a town or city ward for a
+10 newpoliticalparty.
+11 IV. RSA659:29,relativetochallengestoprimaryelections.
+12 V. RSA654:32,relativetohearingsonalterationstopartyregistration.
+13 VI. RSA654:33,relativetopostingcopiesofpersonsinthetownorwardentitledtovoteina
+14 primary.
+15 VII. RSA654:34,relativetochangeinpartyregistrationbeforeaprimary.
+16 VIII. RSA654:34-a,relativetheforwardingofchangesinpartyregistration.
+17 IX. RSA654:35,relativetothecorrectedchecklist.
+18 10 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2948
+12/4/25
+HB1627-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creatingasingleprimaryballot.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2025 FY2026 FY2027 FY2028
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Inexcessof Inexcessof Inexcessof
+Expenditures* $0
+$2,500,000 $2,500,000 $2,500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill removes the two party primary state and congressional elections and creates a single
+party election putting all candidates on a single primary ballot allowing registered voters to vote
+for any candidate that is on the ballot, removing the option for write-ins. The presidential
+primarywould remainatwopartyprimary. However,thebill would allow voters of one partyto
+participate in the other party's election by writing in candidates from the opposing party. These
+voteswouldthenbecountedintheopposingparty'selection.
+The Department of State indicates that the Secretary of State's office would have to launch a
+statewide education campaign to inform over one million registered voters about changes in
+state,congressional,andpresidentialprimaryelections. Thiscampaignwouldnecessitatehiring
+a contractor to collaborate on mailing, print media, online media, and social media efforts.
+Consequently, educating voters about the significant changes to state, congressional, and
+presidentialprimarieswouldtakemultipleyearsandcostover$2,500,000annually.
+AGENCIESCONTACTED:
+DepartmentofState

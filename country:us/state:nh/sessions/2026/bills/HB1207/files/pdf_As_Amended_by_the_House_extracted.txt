@@ -1,0 +1,507 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0922h
+2026SESSION
+26-2603
+07/05
+1207-FN
+HOUSEBILL
+ANACT relative to certain laws applicable to state chartered banks, credit unions, trust
+companies, and other consumer credit entities subject to the authority of the
+bankingdepartment.
+SPONSORS: Rep.Hunt,Ches.14
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Eliminates regular examination fees for New Hampshire state-chartered credit unions, trust
+companies,andfamilytrustcompaniesandreplacesthemwithanannualfixedbasefee.
+II. Aligns minimum license requirements in New Hampshire state law with the federal Secure
+and Fair Enforcement for Mortgage Licensing (SAFE) Act by easing the restriction for applicants
+withcertainpriorcriminalconvictionstoqualifyforamortgageloanoriginatorlicense.
+III. Authorizes the bank commissioner to conduct certain communications with consumer credit
+divisionlicenseapplicantsthroughthenationwidemultistatelicensingsystem.
+IV. Makes amendments to the state law that governs the licensing, supervision, and
+examinationofmoneytransmitters.
+V. Modifies application requirements for financial institution applicants, including raising filing
+fees for certain types of applications and notices and expanding the definition of a “change of
+ownershipofatrustcompany.”
+VI. Raises the license application and renewal fees for small loan lender, mortgage banker,
+mortgageservicer, mortgage broker, mortgage loanoriginator, moneytransmitter, and debt adjuster
+licensees.
+VII. MakesothertechnicalamendmentstotheNewHampshirestatebankinglaws.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0922h 26-2603
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to certain laws applicable to state chartered banks, credit unions, trust
+companies, and other consumer credit entities subject to the authority of the
+bankingdepartment.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Banks and Banking; Loans Associations; Credit Unions; Bank Commissioner; Duties. Amend
+2 RSA383:9,IIItoreadasfollows:
+3 III. [The] Except as set forth in RSA 383:11, I-a, the cost of any examination or
+4 investigation shall be borne by the person examined or investigated. In the case of an unlicensed
+5 person, investigative costs will be assessed only if the person is determined to have engaged in
+6 unlicensedactivity.
+7 2 Banks and Banking; Loans Associations; Credit Unions; Bank Commissioner; Examination,
+8 AnnualFixedBaseFee,andAssessmentCosts. AmendRSA383:11toreadasfollows:
+9 383:11 Examination,AnnualFixedBaseFee,andAssessmentCosts.
+10 I. The commissioner shall charge and collect from each entity, the condition and
+11 management of which he or she examines under the provisions of RSA 383:9, the actual cost of
+12 travel, lodging, meals, and other expenses of examination personnel employed in making
+13 examinations under this section plus an examination fee[, which]. The examination fee shall be
+14 calculated as a sum equal to the product of the average daily rate of overall salary costs, including
+15 the benefits portion thereof, and expenses of all personnel employed in making examinations under
+16 the provisions of RSA 383:9 over the 2 prior fiscal years, multiplied by the number of personnel
+17 daysdevotedtotheexaminationoftheparticularentity,provided,however,thatnosuchentityshall
+18 be charged or pay for less than one full day. Sums collected under this section shall be payable to
+19 the state treasurer as restricted revenue and credited, in accordance with the department's
+20 accounting unit designation, to the appropriation for the commissioner or the consumer credit
+21 administrationdivision.
+22 I-a. Notwithstanding paragraph I, the commissioner shall not charge or collect
+23 from a New Hampshire state-chartered credit union, trust company, or family trust
+24 company the examination fee set forth in paragraph I in connection with a regular
+25 examination of such institution under RSA 383:9-d, RSA 383-C:14-1401, or RSA 383-D:11-
+26 1101 that commences on or after July 1, 2027. Beginning in the fiscal year that begins on
+27 July 1, 2027 and in each fiscal year thereafter, the commissioner shall charge and collect
+28 anannualfixedbasefeefromNewHampshirestate-charteredinstitutionsasfollows:
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (a) From each state-chartered credit union, trust company, or similar entity,
+2 except depository banks and family trust companies, an annual fixed base fee in the
+3 amountof$23,000.
+4 (b) From eachstate-charteredfamily trustcompany,anannual fixedbase fee in
+5 theamountof$11,000.
+6 I-b. Nothing in paragraph I-a shall prevent the commissioner from charging and
+7 collectingfromaNewHampshirestate-charteredinstitution:
+8 (a) The actual cost of travel, lodging, meals, and other expenses of examination
+9 personnel employed in making any examinations of such institutions, including without
+10 limitationregularexaminationsofsuchinstitutions;or
+11 (b) The examination fee as provided in paragraph I in connection with any
+12 investigation,visitation,ornon-regularexaminationofsuchinstitution.
+13 II. If, after the close of each fiscal year, there remains any deficiency between the sums
+14 collected under [paragraph] paragraphs I and I-a, combined with the other fees, fines, and
+15 penalties collected by the department during the fiscal year just closed, and actual department
+16 expenditures for the fiscal year just closed, the commissioner shall make an assessment of the
+17 entitiesasfollows:
+18 (a) From banks, credit union, and trust companies. Each state-chartered depository
+19 bank, trust company, credit union, or similar entity, except family trust companies, shall be charged
+20 and pay such proportion of said balance applicable to the entity under the department's accounting
+21 unitdesignation,asitstotalassetsbeartothetotalassetsofallentitiesasshownbytheirreportsto
+22 the commissioner as of June 30 preceding such charges, except that the percent of the fiduciary
+23 assetsusedinthecalculationofthetotalassetsofeachentityandallentitiesshallbedeterminedas
+24 follows:
+25 (1) Fiduciaryassetsupto$5,000,000,000shallbecalculatedat25percent;
+26 (2) Fiduciary assets that are between $5,000,000,001 and $10,000,000,000, shall be
+27 calculatedat20percent;
+28 (3) Fiduciary assets that are between $10,000,000,001 and $15,000,000,000, shall be
+29 calculatedat15percent;
+30 (4) Fiduciary assets that are between $15,000,000,001 and $20,000,000,000, shall be
+31 calculatedat10percent;
+32 (5) Fiduciary assets that are between $20,000,000,001 and $25,000,000,000, shall be
+33 calculatedat5percent;
+34 (6) Fiduciary assets that are between $25,000,000,001 and $50,000,000,000, shall be
+35 calculatedat2.5percent;
+36 (7) Fiduciary assets that are $50,000,000,001 or more, shall be calculated at one
+37 percent.
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 (8) For purposes of this section, "fiduciary assets" means those assets reported in
+2 accordance with RSA 383-A:5-510, except that the term excludes any fiduciary asset that the entity
+3 holds,manages,oradministersunderanagreementwithaNewHampshirefamilytrustcompany.
+4 (b) From family trust companies. Each family trust company shall be charged and pay
+5 suchproportionof said balance applicabletoall banks, credit unions, and trust companies under the
+6 department'saccountingunitdesignation,asitstotalassetsbeartothetotalassetsoftheentitiesas
+7 shown by their reports to the commissioner as of June 30 preceding such charges, except that the
+8 percentofthefiduciaryassetsusedinthecalculationofthetotalassetsofeachfamilytrustcompany
+9 shall be equal to 5 percent of its fiduciary assets as reported on its report to the commissioner as of
+10 June 30 of the year preceding the charges; however, the minimum amount chargeable shall be
+11 $3,000 and the maximum amount chargeable shall be established by the commissioner by rule, but
+12 shallnotexceed5percentofthetotalassessmentforthatyear.
+13 (c) From consumer credit division entities. Each entity subject to the supervision of the
+14 commissioner under theprovisions of RSA361-A, RSA 397-A, RSA399-A, RSA399-D, and RSA 399-
+15 G, shall be charged and shall pay such proportion of the balance applicable to the consumer credit
+16 administration division under the department's accounting unit designation as the gross revenue
+17 received from the total dollar volume of loans made, originated, funded, or brokered, or debt
+18 adjustment contracts entered into, or mortgage servicing fees received or money transmitted from
+19 eachentity's New Hampshirebusiness bears tothetotal gross revenue received from thetotal dollar
+20 volumeoftheloansmade,originated,funded,orbrokered,ordebtadjustmentcontractsenteredinto,
+21 or mortgage servicing fees received, or money transmitted, from New Hampshire business by all
+22 entities during the preceding calendar year ending December 31, as shown by their reports to the
+23 commissioner.
+24 III. ExceptforentitiessupervisedunderRSA361-A,RSA397-A,RSA399-A,RSA399-Dand
+25 RSA399-Gwheretheindividualregulatorychapterspecifiesashortertime,paymentsofthecharges
+26 providedforbyparagraphsI,I-a,andIIshallbemadewithin60daysaftertheentity'sreceiptofthe
+27 noticeofthecharge.
+28 IV. Any excess collected in any fiscal year under the provisions of this section shall be used
+29 toreducethesumrequiredtobecollectedinthenextsucceedingfiscalyear.
+30 V. A state chartered institution that is dissolved or converted before the close of a fiscal
+31 year, shall be responsible for payment of its pro rata share of the assessment for that fiscal year. If
+32 the institution that is dissolved or converted is a state-chartered credit union, trust
+33 company, or family trust company and the institution has not yet made payment of the
+34 annual fixed base fee for that fiscal year, it shall also be responsible for payment of the
+35 annual fixed base fee. Prior to approving the dissolution or conversion of the institution, the
+36 commissioner,inthecommissioner'sdiscretion,shall[either]:
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 (a) Charge and collect payment of the annual fixed base fee set forth in
+2 paragraph I-a prior to the approval of the dissolution or conversion, in the case of a state-
+3 charteredcreditunion,trustcompany,orfamilytrustcompany;andeither:
+4 [(a)] (1) Imposerequirements toensure payment of the assessment after theapproval of
+5 thedissolutionorconversion;or
+6 [(b)] (2) Collect payment of the assessment as calculated under paragraph II prior to
+7 approval of the dissolution, or if the calculation of the assessment is not yet available and the
+8 commissioner determines the last assessment imposed as well as the institution's share of the last
+9 assessment imposed, is reflective of the institution's obligation for the current fiscal year, the
+10 commissioner may instead collect payment of the assessment based on a pro rata portion of the last
+11 assessmentimposedontheinstitution.
+12 3 Banks and Banking; Loan Associations; Credit Unions; Licensing Of Nondepository Mortgage
+13 Bankers, Brokers, And Servicers; License Application; Requirements; Investigation. Amend RSA
+14 397-A:5,IV-c(a)(2)toreadasfollows:
+15 (2) Has not been convicted of, or pled guilty or nolo contendere to any of the
+16 following, provided that an expunged conviction or pardoned conviction shall not
+17 necessitatedenialofthelicenseapplication:
+18 (A) Any felony in a domestic, foreign, or military court occurring at any time
+19 during the [10-year] 7-year period prior to the date of the application [that has not been pardoned];
+20 or
+21 (B) Any felony in a domestic, foreign, or military court at any time [that has not
+22 been pardoned] and which involves an act of fraud, dishonesty, theft, or a breach of trust or money
+23 laundering, or other crime concerning financial services or a financial services-related business
+24 including crimes related to making false statements or omissions, any theft or wrongful taking of
+25 property, bribery, perjury, forgery, counterfeiting, extortion, or a conspiracy to commit any of these
+26 offenses;[and]or
+27 (C) Any [felony more than 10 years prior the date of application that has not
+28 been pardoned, except that if the felony is not for an act of fraud, dishonesty, theft, or a breach of
+29 trust or money laundering, or other crime concerning financial services or a financial services-
+30 related business including crime related to making false statements, or omissions, any theft or
+31 wrongful taking of property, bribery, perjury, forgery, counterfeiting, extortion, or a conspiracy to
+32 commit any of these offenses] misdemeanor which involves an act of fraud, dishonesty, theft,
+33 or a breach of trust or money laundering or other misdemeanor concerning financial
+34 services or a financial services-related business, including a crime related to making false
+35 statements or omissions, any theft or wrongful taking of property, bribery, perjury, forgery,
+36 counterfeiting, extortion, or a conspiracy to commit any of these offenses, except that for
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 such a misdemeanor conviction occurring more than 10 years prior to the date of
+2 application,thecommissionermayallowlicensurebyruleororder;and
+3 (3) [Repealed].
+4 4 Banks and Banking; Loan Associations; Credit Unions; Licensing Of Nondepository Mortgage
+5 Bankers, Brokers, And Servicers; License Denial or Abandonment; Appeal. Amend RSA 397-A:7, IV
+6 andVtoreadasfollows:
+7 IV. Thecommissionermaydeemabandonedandwithdrawanyapplicationforlicensureasa
+8 mortgage banker, mortgage broker, or mortgage servicer made pursuant to this chapter if the
+9 applicant fails to respond in writing within 180 calendar days to a [written request from the
+10 commissioner requesting a response. Such request shall be sent via certified mail to the last known
+11 address of the applicant that is on file with the commissioner] any communication from the
+12 department,includingbutnotlimitedtoanycommunicationmadethroughthenationwide
+13 multistatelicensingsystemandregistry,requestingaresponse.
+14 V. The commissioner may deem abandoned and withdraw any application for licensure as a
+15 mortgage loan originator made pursuant to this chapter if the applicant fails to respond in writing
+16 within 60 calendar days to [a written request from the commissioner requesting a response. Such
+17 request shall be sent via certified mail to the last known address of the applicant that is on file with
+18 thecommissioner]anycommunicationfromthedepartment,includingbutnotlimitedtoany
+19 communication made through the nationwide multistate licensing system and registry,
+20 requestingaresponse.
+21 5 Pawnbrokers and Moneylenders; Regulation of Small Loans, Title Loans, and Payday Loans;
+22 LicenseDenial;Abandonment. AmendRSA399-A:6,Vtoreadasfollows:
+23 V. The commissioner may deem abandoned and withdraw any application for licensure
+24 madepursuanttothischapteriftheapplicantfailstorespondinwritingwithin180calendardaysto
+25 [a written request from the commissioner requesting a response. Such request shall be sent via
+26 certified mail to the last known address of the applicant that is on file with the commissioner] any
+27 communication from the department, including but not limited to any communication
+28 made through the nationwide multistate licensing system and registry, requesting a
+29 response.
+30 6 Pawnbrokers and Moneylenders; Debt Adjustment Services; License Denial or Abandonment;
+31 Appeal. AmendRSA399-D:6,Vtoreadasfollows:
+32 V. The commissioner may deem abandoned and withdraw any application for licensure
+33 madepursuanttothischapteriftheapplicantfailstorespondinwritingwithin180calendardaysto
+34 [a written request from the commissioner requesting a response. Such request shall be sent via
+35 certified mail to the last known address of the applicant that is on file with the commissioner] any
+36 communication from the department, including but not limited to any communication
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page6-
+1 made through the nationwide multistate licensing system and registry, requesting a
+2 response.
+3 7 New Paragraphs; Pawnbrokers and Moneylenders; Licensing of Money Transmitters;
+4 Supervision; Examination. Amend RSA 399-G:6 by inserting after paragraph IV the following new
+5 paragraphs:
+6 V. The commissioner may require books and records to be translated into the English
+7 language and may require an interpreter to facilitate an examination at the expense of the licensee
+8 orauthorizeddelegate.
+9 VI. Upon receipt of a written report of examination, the licensee shall have 30 days, or such
+10 additional reasonable period as the commissioner for good cause may allow, within which to review
+11 the report, recommend any changes, and set forth in writing the remedial course of action the
+12 licenseewillpursuetocorrectanyreporteddeficienciesoutlinedinthereport.
+13 8 New Paragraph; Pawnbrokers and Moneylenders; Licensing of Money Transmitters; Issuance
+14 ofLicense. AmendRSA399-G:10byinsertingafterparagraphVIIthefollowingnewparagraph:
+15 VIII. The commissioner may deem abandoned and withdraw any application for a license
+16 madepursuanttothischapteriftheapplicantfailstorespondinwritingwithin180calendardaysto
+17 any communication from the banking department, including but not limited to any communication
+18 madethroughthenationwidemultistatelicensingsystemandregistry,requestingaresponse.
+19 9 New Paragraph; Pawnbrokers and Moneylenders; Licensing of Money Transmitters; Reports
+20 of Certain Events. Amend RSA 399-G:18 by inserting after paragraph II the following new
+21 paragraph:
+22 III. If the information contained in any document filed with the commissioner or the
+23 nationwide multistate licensing system and registry is, or becomes, inaccurate or incomplete in any
+24 material respect, the licensee or applicant shall, within 30 days, file a correcting amendment to the
+25 informationcontainedinthedocument.
+26 10 New Paragraph; Pawnbrokers and Moneylenders; Licensing of Money Transmitters;
+27 Relationship between Licensee and Authorized Delegate. Amend RSA 399-G:21 by inserting after
+28 paragraphVIIthefollowingnewparagraph:
+29 VIII. The licensee shall issue a certificate of authority for each location at which it conducts
+30 licensed activities in this state through an authorized delegate. The certificate of authority shall be
+31 postedinpublicviewandshallreadasfollows:
+32 “Money transmission on behalf of [name of licensee] is conducted at this location pursuant to the
+33 New Hampshire law that governs the licensing and regulation of money transmitters, Chapter 399-
+34 GoftheNewHampshireRevisedStatutesAnnotated.”
+35 11 Banks and Banking; Loan Associations; Credit Unions; Conversions; State Credit Union to
+36 FederalCreditUnion. AmendRSA383-E:11-1101(b)toreadasfollows:
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page7-
+1 (b) [A notice] An application seeking approval of the proposed conversion shall be
+2 filed with the commissioner under RSA 383-A:6-602, together with a statement of the results of the
+3 vote, verified by the affidavits of the president or vice president and the clerk, within 10 days after
+4 thevoteistaken.
+5 12 New Section; Banks and Banking; Loan Associations; Credit Unions; Trust Company
+6 Changes; Modification of Conditions. Amend RSA 383-C by inserting after section 8-807 the
+7 followingnewsection:
+8 383-C:8-808 Modification of Conditions. A trust company shall submit an application in
+9 accordance with RSA 383-A:6-602 to seek the prior consent of the commissioner to modify any
+10 condition of a prior approval of a filing issued by the commissioner, including any condition imposed
+11 pursuant to RSA 383-A:3-308, RSA 383-A:3-319, or RSA 383-A:6-604. The application should
+12 contain the following information: (a) a description of the original approved application; (b) a
+13 descriptionof themodificationrequested; and (c) thereasonfor therequest. The commissioner may
+14 requestadditionalinformationatanytimeduringprocessingoftheapplication.
+15 13 Banks and Banking; Loan Associations; Credit Unions; Regulatory Approval Procedures; Fee
+16 Schedule. AmendRSA383-A:6-609(a)toreadasfollows:
+17 383-A:6-609 FeeSchedule.
+18 (a) [The commissioner shall charge a filing fee to each person for services rendered by
+19 the department in reviewing a notice or application.] Applicants shall pay a fee in connection
+20 withthe filingof anapplication or notice. Sums collectedunder thissectionshallbepayableto
+21 the state treasurer as restricted revenue and credited, in accordance with the banking division's
+22 accounting unit designation, to the appropriation for the commissioner. [Charges for services] Fees
+23 shallbe[billed]paidasfollows:
+24 (1) Feefornewstatebankorcreditunioncharter: [$15,000]$30,000
+25 (2) Feefordomesticationofforeigntrustcompany: $7,500
+26 (3) Fee for charter conversion, combination, acquisition, change in control, share
+27 exchange,reorganization,orapprovaloftrustpowers: [$2,500]$7,500
+28 (4) Feeforthedissolutionofatrustcompany: $2,000
+29 (5) Fee for a reduction in a depository bank's capital, change in business plan or
+30 change in required capital of a trust company, amendment to a state bank's organizational
+31 instrument, amendment of a credit union's bylaws, or formation of a subsidiary entity that requires
+32 approvalofthecommissioner: [$500]$1,000
+33 (6) Fee for a new branch, loan production office and trust company office: [$500]
+34 $1,000
+35 (7) Fee for a relocation or termination of a branch, loan production office or trust
+36 companyoffice: [$100]$500
+37 (8) Feetoissueacertificateofexistence: $50
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page8-
+1 (9) Feeforareservationorapprovalofanameortradename: [$50]$500
+2 (10) Feeforaletterofnoobjection: $1,000
+3 14 Banks and Banking; Loan Associations; Credit Unions; Banking Business; Loans and
+4 Investments. AmendRSA383-B:3-303(b)toreadasfollows:
+5 (b) A depository bank may invest in the loans and notes set forth in
+6 subparagraphs(1)and(2)ofthisparagraph(b):
+7 (1)(A) Loans directly secured by mortgages on residential, commercial, or publicly-
+8 ownedrealestate.
+9 15 Banks and Banking; Loan Associations; Credit Unions; Banking Business; Loans and
+10 Investments. AmendRSA383-B:3-303(c)toreadasfollows:
+11 (c) A depository bank may invest in the following securities and public
+12 obligations:
+13 (1) The obligations of the United States of America, or those for which the full faith
+14 and credit of the United States is unconditionally pledged to provide for the payment of interest and
+15 principal.
+16 16 Banks and Banking; Loan Associations; Credit Unions; Banking Business; Loans and
+17 Investments. AmendRSA383-B:3-303(d)toreadasfollows:
+18 (d) Adepositorybankmayinvestinthefollowingsecuritiesandloans:
+19 (1) Any investment grade debt security issued, assumed, or guaranteed by an entity
+20 organized in the United States of America, provided it is rated among the 3 highest ratings of any
+21 NRSRO. A convertible investment grade debt security of a lesser rating will be legal if the common
+22 stockwouldotherwisequalify.
+23 17 Banks and Banking; Loan Associations; Credit Unions; Trust Company Act; Definitions.
+24 AmendRSA383-C:2-201(b)(1)toreadasfollows:
+25 (1) "Change of ownership of a trust company" means [the acquisition through] a
+26 single transaction or a series of related transactions that results in a direct or indirect transfer
+27 ofownershipof10to 50percent[ormore]ofatrustcompany'sequity. Theacquireroracquirersof
+28 trust company equity under a change of ownership of a trust company is or are referred to as a new
+29 ownerornewowners.
+30 18 Banks and Banking; Loan Associations; Credit Unions; Directors and Officers; Directors.
+31 AmendRSA383-C:6-601(b)toreadasfollows:
+32 (b) Every new director shall submit to a background investigation [and criminal history
+33 recordscheck],toincludesubmissionoffinancialandotherinformationinaccordancewithRSA383-
+34 A:3-305(e). The commissioner may require a criminal history records check on any new
+35 director. The commissioner shall submit the criminal history records release form to the
+36 division of state police which shall conduct a criminal history records check through its
+37 records and through the Federal Bureau of Investigation. Upon completion of the
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page9-
+1 background investigation, the division of state police shall release copies of the criminal
+2 conviction records to the department. The department shall maintain the confidentiality
+3 of all criminal history records information received under this subsection. A trust company
+4 shall submit notice of any material change related to the background investigation and criminal
+5 history records check of any director or any new information related to the experience, ability,
+6 standing, competence, trustworthiness, and integrity of a director that could jeopardize the safe and
+7 sound operation of the trust company within 30 days of learning of such change. The cost of any
+8 examinationorinvestigationofthebackgroundinformationandcriminalhistoryshallbepaidbythe
+9 trustcompany.
+10 19 Pawnbrokers and Moneylenders; Licensing of Money Transmitters; Application for License.
+11 AmendRSA399-G:8,IIItoreadasfollows:
+12 III. A nonrefundable application fee of [$500] $1,000 shall accompany an application for a
+13 licenseunderthissection.
+14 20 Pawnbrokers and Moneylenders; Licensing of Money Transmitters; Renewal of License.
+15 AmendRSA399-G:11,Itoreadasfollows:
+16 I. Licenses issued pursuant to this chapter shall be renewed annually. The renewal term
+17 shall be for a period of one year and shall begin on January 1 of each year after the initial license
+18 termandshall expireonDecember31oftheyeartherenewal termbegins. Anannual renewalfeeof
+19 [$500]$1,000shallbesubmittedwiththeapplicationforrenewal.
+20 21 Pawnbrokers and Moneylenders; Debt Adjustment Services; Application and Fees. Amend
+21 RSA399-D:4,II(b)toreadasfollows:
+22 (b) Each license application shall be accompanied by a nonrefundable application fee of
+23 [$500] $750 for the principal office and $500 for each branch office. Sums collected under this
+24 chapter shall be payable to the state treasurer as restricted revenue and credited to the
+25 appropriationforthecommissioner,consumercreditadministrationdivision.
+26 22 Pawnbrokers and Moneylenders; Debt Adjustment Services; License Grant and Renewal.
+27 AmendRSA399-D:5,IX(a)toreadasfollows:
+28 (a) [$500]$750fortheprincipalofficelicense;and
+29 23 Pawnbrokers and Moneylenders; Regulation of Small Loans, Title Loans, and Payday Loans;
+30 ApplicationandFees. AmendRSA399-A:4,IItoreadasfollows:
+31 II. Each initial and renewal license application shall be accompanied by a nonrefundable
+32 application fee of [$450] $1,000 for the principal place of business of the licensee and the sum of
+33 [$450]$750foreachbranchofsuchlicenseemaintainedinthisstate.
+34 24 Pawnbrokers and Moneylenders; Regulation of Small Loans, Title Loans, and Payday Loans;
+35 LicenseGrantandRenewal. AmendRSA399-A:5,IItoreadasfollows:
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page10-
+1 II. A licensee may renew its license by paying the required annual fee of [$450] $1,000 for
+2 the principal license and [$450] $750 for each branch office license to the banking department on or
+3 beforeDecember31fortheensuingyearthatbeginsonJanuary1ifthelicensee:
+4 25 Banks and Banking; Loan Associations; Credit Unions; Licensing of Nondepository Mortgage
+5 Bankers,Brokers,andServicers. AmendRSA397-A:5,III(b)toreadasfollows:
+6 (b) Each [mortgage banker, mortgage broker, or mortgage servicer] license application
+7 shall be accompanied by a nonrefundable application fee of [$500] $1,000 for mortgage bankers
+8 andmortgage servicers and $750 for mortgage brokers for [eachseparate] the principal office
+9 location to be licensed. Each mortgage banker, mortgage broker, and mortgage servicer
+10 license application shall be accompanied by a nonrefundable application fee of $500 for
+11 each separate branch office location to be licensed. Sums collected under this chapter shall be
+12 payable to the state treasurer as restricted revenue and credited to the appropriation for the
+13 commissioner,consumercreditadministrationdivision.
+14 26 Banks and Banking; Loan Associations; Credit Unions; Licensing of Nondepository Mortgage
+15 Bankers, Brokers, and Servicers; License Application; Requirements; Investigation. Amend RSA
+16 397-A:5,IV-atoreadasfollows:
+17 IV-a. To be considered for originator licensing, the applicant shall complete and file an
+18 applicationwiththedepartment,throughtheNationwideMultistateLicensingSystemandRegistry,
+19 using the Nationwide Multistate Licensing System and Registry form. The application shall be
+20 signed under oath by both the originator applicant and the licensed mortgage banker, mortgage
+21 broker, or mortgage servicer for whom the individual will originate mortgage loans. Each licensed
+22 mortgage originator shall register with and maintain a valid unique identifier issued by the
+23 Nationwide Multistate Licensing System and Registry. At a minimum, the application shall state
+24 the primary business address of the applicant and the applicant's social security number and shall
+25 authorize the commissioner to conduct a background check. The applicant shall submit any other
+26 information that the commissioner and the Nationwide Multistate Licensing System and Registry
+27 may require including, but not limited to, the applicant's residential and employment history. The
+28 applicantshalldisclosehisorherfinancial,criminal,regulatorycivil,arbitration,civillitigation,and
+29 employment termination history, including but not limited to, whether the applicant has ever been
+30 issued or been the subject of an injunction or administrative order or has ever been charged with or
+31 convicted of a misdemeanor or any felony. Each license application shall be accompanied by a
+32 nonrefundable license fee of [$100] $250. A mortgage originator's license may be transferred during
+33 a calendar year from one mortgage banker, mortgage broker, or mortgage servicer to another upon
+34 payment of a $50 fee and approval by the commissioner. Sums collected under this chapter shall be
+35 payable to the state treasurer as restricted revenue and credited to the appropriation for the
+36 commissioner,consumercreditadministrationdivision.
+
+HB1207-FN-ASAMENDEDBYTHEHOUSE
+-Page11-
+1 27 Banks and Banking; Loan Associations; Credit Unions; Licensing of Nondepository Mortgage
+2 Bankers, Brokers, and Servicers; License Application; Requirements; Investigation. Amend RSA
+3 397-A:5,IV-d(a)(3)toreadasfollows:
+4 (3) Paytheannualoriginatorlicenserenewalfeeof[$100]$250.
+5 28 Banks and Banking; Loan Associations; Credit Unions; Licensing of Nondepository Mortgage
+6 Bankers, Brokers, and Servicers; License Term; Renewal. Amend RSA 397-A:8, III to read as
+7 follows:
+8 III. A [mortgage banker, mortgage broker, or mortgage servicer] renewal fee of [$500]
+9 $1,000 for mortgage bankers and mortgage servicers and $750 for mortgage brokers for the
+10 principal office license [and each branch office license] shall be submitted with the application for
+11 license renewal. A mortgage banker, mortgage broker, or mortgage servicer renewal fee of
+12 $500 for each branch office license shall be submitted with the application for license
+13 renewal.
+14 29 Repeals. Thefollowingarerepealed:
+15 I. RSA 397-A:5, IV-c(a)(4), relative to the requirements to be considered as a mortgage
+16 banker,mortgagebroker,ortoreceivemortgageservicerlicensing.
+17 II. RSA399-G:15,II(d),relativetoaveragedailyoutstandingtransmissionliability.
+18 III. RSA 383-A:6-609(b), relative to the cost to completing an investigation or examination
+19 exceedingthesetfee.
+20 30 EffectiveDate.
+21 I. Sections1and2ofthisactshalltakeeffectJuly1,2027.
+22 II. Sections19through28ofthisactshalltakeeffectonOctober1,2027.
+23 III. TheremainderofthisactshalltakeeffectOctober1,2026.
+
+LBA
+26-2603
+3/25/26
+HB1207-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0922h)
+ANACT relative to certain laws applicable to state chartered banks, credit unions, trust
+companies, and other consumer credit entities subject to the authority of the
+bankingdepartment.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+NetImpactZero NetImpactZero NetImpactZero
+Indeterminable $1.2mincreasein $1.2mincreasein
+increaseoffset filingandlicense filingandlicense
+Revenue $0 byreductionin feesoffsetby feesoffsetby
+perdiem reductioninper reductioninper
+examination diemexamination diemexamination
+fees fees fees
+RevenueFund(s) BankingDepartmentOperatingFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill updates multiple banking and consumer credit statutes under the authority of the
+Banking Department. It modifies examination fees for state-chartered financial institutions,
+establishes an annual fixed base fee, adjusts the fee structure for license applications and
+renewals,andmakesrelatedtechnicalandadministrativechanges.
+The Banking Department states this bill modifies the structure of fees collected from regulated
+entities, including when certain fee increases take effect; however, all revenues continue to be
+deposited into the Banking Department Operating Fund. The Department states the
+eliminationofexaminationfeesbeginninginFY2028andtheimplementationofanannualfixed
+base fee will be offset through the annual assessment process pursuant to RSA 383:11, II,
+resultinginnetzeroimpactinrevenue.
+The Department further states the bill increases certain filing and license application fees
+beginning in FY 2027, with the full annualized impact beginning in FY 2028. The impact in FY
+2027 is indeterminable due to timing and variability in application volume. Beginning in FY
+
+2028, the Department estimates these changes would generate approximately $1,200,000 in
+additional revenue annually; however, pursuant to RSA 383:11, IV, these additional revenues
+wouldbeusedtoreduceperdiemexaminationfeesbyanequivalentamount.
+Therefore, while the bill results in changes to the structure and timing of certain fees, the
+DepartmentanticipatesnetzeroimpactonstaterevenuesinFY2027andforward.
+AGENCIESCONTACTED:
+BankingDepartment

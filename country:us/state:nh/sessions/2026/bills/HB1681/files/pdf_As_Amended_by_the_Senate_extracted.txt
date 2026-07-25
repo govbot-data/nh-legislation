@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1681-ASAMENDEDBYTHESENATE
+11Mar2026...0998h
+05/07/2026 1709s
+2026SESSION
+26-3110
+06/08
+1681
+HOUSEBILL
+ANACT relative to the definition, inspection, and local approval of tiny houses and yurts
+asinnovativehousingstructures.
+SPONSORS: Rep. Grant, Sull. 5; Rep. M. Aron, Sull. 8; Rep. Rollins, Sull. 3; Rep. Cole, Hills.
+26;Rep.Reinfurt,Hills.29;Rep.Post,Hills.42
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes standards for innovative housing structures, including tiny houses, tiny
+houses on wheels, and yurts, authorizes their use as single‑family or accessory dwellings, sets
+construction, inspection, and off‑site manufacturing requirements, regulates transportation, and
+directs related rulemaking under the state building code and wastewater and modular building
+statutes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1681-ASAMENDEDBYTHESENATE
+11Mar2026...0998h
+05/07/2026 1709s 26-3110
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the definition, inspection, and local approval of tiny houses and yurts
+asinnovativehousingstructures.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Innovative Housing Structures. Amend RSA 674 by inserting after section
+2 80thefollowingnewsubdivision:
+3 InnovativeHousingStructures
+4 674:81 Definitions. Asusedinthissubdivision:
+5 I. “Dwelling site” means the property where the innovative housing structure is or will be
+6 locatedwhenusedasadwellingunit.
+7 II. “Innovative housing structure” or “IHS” means a unique single residential unit such as a
+8 tinyhouse,tinyhouseonwheels,orayurt.
+9 III. “Off-site construction” means, for the purposes of this subdivision, any tiny house of
+10 closed construction, which is made or assembled in manufacturing facilities off the building site, for
+11 installation,orassemblyandinstallation,onthebuildingsite. Thisdefinitionshallnotbeconstrued
+12 toinclude anystructure labeled in accordancewith theFederal Manufactured Housing Construction
+13 and Safety Standards Act of 1974, nor shall it include any recreational vehicle or park trailer as
+14 defined in American National Standards Institute A119.2, Standard for Recreational Vehicles, or
+15 American National Standards Institute A119.5, Standard for Park Trailers, or any building type not
+16 subjecttotherequirementsofnationallyrecognizedmodelbuildingcodes.
+17 IV. “Tiny house” means a detached building used or intended to be used for human
+18 habitation,providingpermanentprovisionsforliving,sleeping,eating,cookingandsanitationthat:
+19 (a) Is600squarefeetorlessinfloorarea,excludinglofts;
+20 (b) Complieswiththetinyhomeprovisionsofthestatebuildingcode;and
+21 (c) Isconstructedonastablegroundsurfaceorfoundation.
+22 V. “Tiny house on wheels” or “THOW” means a tiny house built on a trailer chassis without
+23 motive power. A THOW shall not be considered a camp trailer or recreational vehicle when
+24 constructedforhumanhabitation.
+25 VI. “Yurt”means,forthepurposesofthissubdivision,astyleoftinyhousethatisaroundor
+26 similar shape and is a freestanding structure modeled after traditional nomadic dwellings,
+27 constructed with contemporary materials and engineering for use as a permanent or long-term
+28 residence.
+29 674:82 LocationandUse.
+
+HB1681-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. A municipality may permit an innovative housing structure to be placed or erected on an
+2 individual house lot where single-family dwellings are allowed, or to be used as an accessory
+3 dwellingunitpursuanttoRSA674:72,subjecttoallapplicablelanduserequirements.
+4 II. Innovative housing structures shall be treated as single-family dwellings or accessory
+5 dwellingunitsforzoningpurposesandshallmeetallapplicablestatelawsandregulationsregarding
+6 drinkingwatersupplyandwastewatertreatmentanddisposal.
+7 674:84 TransportationofMobileStructures.
+8 I. If an innovative housing structure is permanently built on a flatbed trailer chassis for
+9 transportation to the dwelling site, and the trailer conforms to all vehicle trailer requirements for
+10 roadworthiness,thebuildermayuse:
+11 (a) Adealerplate;or
+12 (b) Atemporarytrailerplateissuedbythedepartmentofmotorvehicles.
+13 II. Such plates may be used to move the structure from the building site to the dwelling site
+14 or,ifsold,fromonedwellingsitetoanother.
+15 2 New Section; New Hampshire Building Code; Innovative Housing Structure Construction
+16 Document. AmendRSA155-Abyinsertingaftersection3-cthefollowingnewsection:
+17 155-A:3-d InnovativeHousingStructureConstructionDocumentReviewsandInspections.
+18 I. An innovative housing structure, as defined in RSA 674:81, constructed on the dwelling
+19 siteshallcomplywiththestatebuildingcode.
+20 II. Where the innovative housing structure is off-site construction, construction document
+21 reviewandinspectionofthemanufacturedelementsshallcomplywitheither:
+22 (a) Construction document review and inspection requirements of the state building
+23 code;or
+24 (b) ModularbuildingspursuanttoRSA205-C.
+25 III. If an innovative housing structure is off-site construction, construction document review
+26 andinspectionsmaybeperformedby:
+27 (a) TheappointedbuildingofficialintheNewHampshiremunicipalitywheretheoff-site
+28 constructionfacilityislocated,providedthatthebuildingofficialiscertifiedasaresidentialbuilding
+29 inspectorbytheInternationalCodeCouncil;or
+30 (b) ThestatefiremarshalordesigneethroughtheModularBuildingprogram.
+31 IV. The off-site construction approval issued under this subdivision for the manufactured
+32 elements, if conforming to state building code, shall be accepted by the local building official at the
+33 dwellingsiteforpurposesofissuingacertificateofoccupancy.
+34 V. A municipality at the dwelling site may review submittal documents and inspection for
+35 compliance with the New Hampshire state building code for project elements other than
+36 manufacturedelements.
+
+HB1681-ASAMENDEDBYTHESENATE
+-Page3-
+1 3 New Paragraph; Sewage Disposal Systems; Rulemaking. Amend RSA 485-A:41 by inserting
+2 afterparagraphVthefollowingnewparagraph:
+3 VI. Adopt rules, pursuant to 541-A, regarding wastewater treatment and disposal for
+4 innovativehousingstructuresasdefinedin674:81.
+5 4 New Paragraph; Modular Building Standards; Rulemaking. Amend RSA 205-C:4 by inserting
+6 afterparagraphVIIthefollowingnewparagraph:
+7 VIII. ApplicationofICC/MBIStandard1200andICC/MBIStandard1205.
+8 5 AmendRSA205-C:1,XItoreadasfollows:
+9 XI. "Modular building" means any building of closed construction, which is made or
+10 assembled in manufacturing facilities off the building site, for installation, or assembly and
+11 installation, on the building site. This definition shall not be construed to include any structure
+12 labeled in accordance with the Federal Manufactured Housing Construction and Safety Standards
+13 Act of 1974, nor shall it include single-wide structures under 750 square feet, provided that they are
+14 not for [residential or] classroom use, nor shall it include an innovative housing structure
+15 pursuant to RSA 674:81 unless the modular program is chosen by the applicant, nor shall it
+16 include any recreational vehicle or park trailer as defined in American National Standards Institute
+17 A119.2, Standard for Recreational Vehicles, or A119.5, Standard for Park Trailers, or any building
+18 typenotsubjecttotherequirementsofnationallyrecognizedmodelbuildingcodes.
+19 6 Building Code Review Board; State Building Code. The New Hampshire state building code
+20 review board shall amend the state building code to reflect the applicable provisions of section 1
+21 through5ofthisact.
+22 7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

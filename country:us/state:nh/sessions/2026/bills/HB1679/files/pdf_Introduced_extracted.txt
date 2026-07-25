@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1679-FN-ASINTRODUCED
+2026SESSION
+26-3201
+08/07
+1679-FN
+HOUSEBILL
+ANACT establishingabeveragecontainerredemptionprogram.
+SPONSORS: Rep. A. Murray, Hills. 20; Rep. Malloy, Rock. 24; Rep. Hegner, Hills. 41; Rep.
+Horrigan, Straf. 10; Rep. Haskins, Rock. 11; Rep. C. Harvey, Ches. 6; Rep.
+Fellows, Graf. 8; Rep. Manohar, Hills. 9; Rep. Lucas, Graf. 7; Rep. LaMontagne,
+Straf.17
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a beverage container redemption program in the department of
+environmentalservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1679-FN-ASINTRODUCED
+26-3201
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingabeveragecontainerredemptionprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Beverage Container Redemption Program. Amend RSA by inserting after
+2 chapter149-Rthefollowingnewchapter:
+3 CHAPTER149-S
+4 BEVERAGECONTAINERREDEMPTIONPROGRAM
+5 149-S:1 Definitions. Inthischapter:
+6 I. "Beverage" means water, carbonated soft drinks, beer, malt beverages, hard cider, and
+7 othernon-dairy,non-alcoholicbeveragesintendedforhumanconsumption.
+8 II. "Beveragecontainer"meansanyindividually-sealedglass,metal,orplasticbottle,can,or
+9 jarcontainingabeverage.
+10 III. "Distributor" means any person or entity that sells beverages in containers to a retailer
+11 inNewHampshire.
+12 IV. "Redemption center" means a facility registered with the department of environmental
+13 servicestoacceptemptybeveragecontainersfromconsumersandissuerefunds.
+14 V. "Retailer" means any person who sells or offers for sale beverages in containers to
+15 consumers.
+16 VI. "Consumer" means an individual who purchases a beverage in a container for personal
+17 use.
+18 149-S:2 BeverageContainerDeposit.
+19 I. A distributor shall charge a $0.10 refundable deposit on each eligible beverage container
+20 soldinNewHampshire.
+21 II. A consumer shall receive a refund of the deposit upon returning the empty container to a
+22 redemptioncenterorretailer.
+23 III. Thefollowingcontainersshallbeexemptfromthedepositrequirement:
+24 (a) Containerslargerthan3liters.
+25 (b) Milk, plant-based milk alternatives, infant formula, and medically prescribed
+26 beverages.
+27 (c) Beveragecontainerssoldforconsumptiononairlineortrainservices.
+28 149-S:3 Duties.
+29 I. Distributorsshall:
+30 (a) Collectthedepositfromretailers.
+
+HB1679-FN-ASINTRODUCED
+-Page2-
+1 (b) Reimburse redemption centers or retailers for refunded deposits, plus a handling fee
+2 of$0.035percontainer,roundeduptothenearestcent.
+3 II. Retailersshall:
+4 (a) Accept eligible empty containers for redemption if the retailer sells that type or
+5 brandofbeverageinaneligiblecontainer.
+6 (b) Returndepositstoconsumers.
+7 (c) Receivereimbursementfromdistributors.
+8 III. Redemptioncentersshall:
+9 (a) Registerwiththedepartmentofenvironmentalservices.
+10 (b) Complywithallhandling,sanitation,andreportingrequirements.
+11 IV. Redemptioncentersmayacceptandredeemcontainersregardlessofwherepurchased.
+12 149-S:4 Unclaimed Deposits. Unclaimed deposits remaining after one year shall be remitted to
+13 the beverage container recycling fund established in RSA 149-S:7. Such funds may be used for
+14 expanding recycling infrastructure, litter prevention programs, and the administrative costs of the
+15 beveragecontainerredemptionprogram.
+16 149-S:5 Penalties.
+17 I. Thedepartmentofenvironmentalservicesshallenforcethischapter.
+18 II. Apersonwhoknowinglyviolatesthischaptermaybesubjectto:
+19 (a) Civilpenaltiesupto$500perviolationperday.
+20 (b) Suspensionofredemptioncenterordistributorregistration.
+21 149-S:6 Rulemaking. The department of environmental services shall adopt rules under RSA
+22 541-Anecessarytoimplementthischapterincluding:
+23 I. Registrationprocedures.
+24 II. Recordkeepingandreportingrequirements.
+25 III. Proceduresfordepositrefundsandreimbursement.
+26 149-S:7 Beverage Container Recycling Fund. There is hereby established a special fund to be
+27 known as the beverage container deposit fund. The fund shall be nonlapsing and continually
+28 appropriated to the department of environmental services. All unclaimed deposits on recycled
+29 beverage containers under RSA 149-S:4 shall be deposited into the fund. The state treasurer shall
+30 invest the fund and any interest earned shall be credited to the fund. The fund may be used for
+31 expanding recycling infrastructure, litter prevention programs, and the administrative costs of the
+32 beveragecontainerredemptionprogram.
+33 2 New Subparagraph; Beverage Container Deposit Fund. Amend RSA 6:12, I(b) by inserting
+34 aftersubparagraph(410)thefollowingnewsubparagraph:
+35 (411) Moneys deposited into the beverage container deposit fund established in RSA
+36 149-S:7.
+37 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3201
+12/9/25
+HB1679-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingabeveragecontainerredemptionprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0 Increase Increase
+$500,000+ $500,000+
+RevenueFund(s) BeverageContainerRecyclingFund
+$65,000to
+$118,000 $123,000
+Expenditures* $0 $115,000
+(BCRF) (BCRF)
+(SWMF)
+SolidWasteManagementFund(SWMF)andBeverageContainerRecycling
+FundingSource(s)
+Fund(BCRF)
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a statewide beverage container redemption program administered by the
+Department of Environmental Services (DES). Distributors would collect a $0.10 deposit on
+eligible beverage containers, consumers would receive the deposit back upon return, and
+distributors would reimburse retailers or redemption centers for the refunded deposit plus a
+handling fee. The bill requires DES to adopt rules, register and oversee redemption centers,
+monitorcompliance,enforcepenalties,andadministertheBeverageContainerRecyclingFund.
+The Department of Environmental Services states this bill creates substantial new
+administrative and regulatory responsibilities, including establishing a registration and
+reporting system, conducting compliance oversight, developing and enforcing rules, and
+managing fund activity related to unclaimed deposits and penalties. To meet these obligations,
+DESanticipatestheneedforoneEnvironmentalScientist(19-2040ENVSCIENTISTS-4SOC19-
+18). Using the statutory effective date and assuming the position begins January 1, 2027, the
+Department estimates General Fund (or fund-appropriate) expenditures of $65,000 in FY 2027,
+which reflects a half-year cost, and $116,000 in FY 2028 and $122,000 in FY 2029 for full-year
+salary,benefits,andoperatingexpenses.
+
+DES also notes that implementation work including rulemaking, system development,
+permitting, registration, and compliance planning must begin prior to the January 1, 2027
+effective date. If the position were authorized to begin on July 1, 2026, allowing DES to prepare
+for the operational start of the program, the Department states the FY 2027 cost would increase
+to$115,000forafullyearofsalary,benefits,andrelatedcosts.
+Additionally,thisbilldirectsdistributorstoremitunclaimeddepositsandpenaltyrevenuetothe
+Beverage Container Recycling Fund. DES cannot estimate the number of beverage containers
+soldorredeemed,ortheresultingunclaimeddepositpercentage,andthereforecannotdetermine
+the exact amount of revenue that will accrue to the fund. However, DES anticipates revenue
+from unclaimed deposits is likely to exceed $500,000 annually, although the exact amount is
+indeterminable. Because unclaimed deposits are remitted one year after deposits are collected,
+FY 2027 expenditures would require support from the Solid Waste Management Fund, with
+revenuesbecomingavailabletosupporttheprogrambeginninginFY2028.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

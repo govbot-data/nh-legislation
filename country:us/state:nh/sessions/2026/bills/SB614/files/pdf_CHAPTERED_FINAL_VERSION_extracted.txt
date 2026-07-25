@@ -1,0 +1,329 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER273
+SB614-FN-FINALVERSION
+03/12/2026 1044s
+14May2026...1626h
+06/04/2026 2150EBA
+2026SESSION
+26-2226
+12/09
+614-FN
+SENATEBILL
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for nonprofit
+andfor-profitprovidersandservicers.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Perkins Kwoka, Dist 21; Sen.
+Altschiller, Dist 24; Rep. Kuttab, Rock. 17; Rep. L. Walsh, Rock. 15; Rep. Post, Hills.
+42
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Establishes a multiple-caregiver self-insured risk coverage arrangement for nonprofit and for-profit
+providersandservicersofchildcare,daycare,fostercareplacement,andbehavioralhealthservices.
+II. Establishesreportingrequirementsforsucharrangements.
+III. Authorizes the commissioner of the insurance department to verify such arrangements, including
+whetherthearrangementsaretobesuspendedorterminated.
+IV. Authorizes the commissioner of the insurance department to issue penalties and adopt rules
+relativetosucharrangements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER273
+SB614-FN-FINALVERSION
+03/12/2026 1044s
+14May2026...1626h
+06/04/2026 2150EBA 26-2226
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for nonprofit
+andfor-profitprovidersandservicers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 273:1 New Chapter; Multiple-Caregiver Self-Insured Risk Coverage Arrangements. Amend RSA by
+2 insertingafterchapter405-B,thefollowingnewchapter:
+3 CHAPTER405-C
+4 MULTIPLE-CAREGIVERSELF-INSUREDRISKCOVERAGEARRANGEMENTS
+5 405-C:1 Purpose. Thischapterprovidesauthorityfor2ormorenonprofitandfor-profitprovidersand
+6 servicers of child care, day care, foster care placement, and behavioral health services to participate in a
+7 joint self-insurance risk coverage arrangement covering liability risks. The joint self-insurance
+8 arrangements authorized under this chapter permit eligible entities to jointly self-insure liability risks,
+9 jointlypurchaseinsuranceandreinsurance,andcontractforriskmanagement,claims,andadministrative
+10 andlegalservices.
+11 405-C:2 Definitions.
+12 I. “Commissioner”meansthecommissioneroftheNewHampshireinsurancedepartment.
+13 II. "Covered entity" means a nonprofit or for-profit provider or servicer of child care, day care,
+14 fostercareplacement,andbehavioralhealthservices.
+15 III. “Department”meanstheNewHampshireinsurancedepartment.
+16 IV. "Liabilityrisks"meanriskoflosssustainedbyanentityandtheriskofclaimsarisingfrom the
+17 tortious or negligent conduct or any error or omission of the entity, its officers, employees, agents, or
+18 volunteersasaresultofaclaimthatmaybemadeagainsttheentity.
+19 V. “Multiple-caregiver self-insured risk coverage arrangement” means a formal arrangement
+20 which is established or maintained by or on behalf of 2 or more eligible entities for the purpose of jointly
+21 coveringliabilityrisk.
+22 VI. “Nonprofit organization” means any entity that is exempt from taxation under Section
+23 501(c)(3), 501(c)(4), 501(c)(6) or 501(c)(12) of the Internal Revenue Code of 1986, or any subsequent
+24 correspondinginternalrevenuecodeoftheUnitedStates,asamended.
+25 VII. "Self-insurance" means aformal arrangement of advancefunding andmanagement of entity
+26 financial exposure to risk of loss that is not entirely transferred through the purchase of an insurance
+27 policyorcontract.
+28 405-C:3 DeclarationofStatus;TaxExemption.
+29 I. Any arrangement authorized and meeting the standards required under this chapter is not an
+30 insurance company, reciprocal insurer, or insurer under the laws of this state, and administration of any
+
+CHAPTER273
+SB614-FN-FINALVERSION
+-Page2-
+1 activitiesofthearrangementshallnotconstitutedoinganinsurancebusinessforpurposesofregulationor
+2 taxation. Suchself-insurancearrangementsshallnot besubject tothepremiumtaxunderRSA400-A:32
+3 andshallnotbesubjecttoassessmentwithrespecttotheadministrationfundunderRSA400-A:39.
+4 II. Anysucharrangement operatingunder thischapter,whether ornot abodycorporate, trust, or
+5 charter, may sue or be sued, make contracts, hold and dispose of real property, borrow money, contract
+6 debts,andpledgeassetsinitsname.
+7 III. Jointself-insurancearrangementsshallbegovernedbythischapterandshallbeexemptfrom
+8 thistitle,exceptfortheprovisionsof:
+9 (a) RSA400-A:16,relativetoinvestigations;
+10 (b) RSA400-A:17throughRSA400-A:24,relativetohearingsandappeals;
+11 (c) RSA400-A:37,relativetoexaminations;
+12 (d) RSA402-Brelativetoinsuranceclaimsadjusters;
+13 (e) RSA402-Hrelativetothird-partyadministrators;
+14 (f) RSA402-J,relativetoproducerlicensing;and
+15 (g) RSA417:1through417:31relativetounfairtradepracticesandfraudinvestigations.
+16 IV. Thissectiondoesnotapplytoorprovideexemptionsforinsurancecompaniesissuingpolicies
+17 to cover the arrangement, third-party administrators, insurance producers, or other licensees subject to
+18 RSAtitleXXXVIIservicingthejointself-insurancearrangement.
+19 405-C:4 Exemptions. Thischapterdoesnotapplytoanon-profitorfor-profitentitythat:
+20 I. Individuallyself-insuresforpropertyandliabilityrisks;
+21 II. Participatesinariskpoolingarrangement,includingariskretentiongrouporariskpurchasing
+22 group,regulatedunderRSA405-A,orisacaptiveinsurerauthorizedinitsstateofdomicile;or
+23 III. Comprises only units of local government or is a group that comprises local governments
+24 joinedbyaninterlocalagreementauthorizedbyRSA5-B.
+25 405-C:5 AgreementtoForm;AuthorizedActivities.
+26 I. Acoveredentitymayjoinorformaself-insuredriskcoveragearrangementtogetherwithoneor
+27 more other covered entities and may jointly purchase insurance or reinsurance with one or more other
+28 coveredentitiesforliabilityrisksaspermittedunderthischapter. Coveredentitiesmaycontractfororhire
+29 personnel to provide risk management, claims, and administrative and legal services in accordance with
+30 thischapter.
+31 II. Theagreementtoformaself-insuredriskcoveragearrangementmayincludetheorganization
+32 of a separate legal entity with powers delegated to the entity. Any such separate legal entity shall be in
+33 compliancewithallapplicableNewHampshirelaws.
+34 III. Ifprovidedforintheorganizationaldocuments,ajointself-insuredriskcoveragearrangement
+35 may,inconformancewiththischapter:
+36 (a) Contractorotherwiseprovideforriskmanagementandlosscontrolservices;
+37 (b) Contract or otherwise provide legal counsel for the defense of claims and other legal
+38 services;
+
+CHAPTER273
+SB614-FN-FINALVERSION
+-Page3-
+1 (c) Jointly purchase insurance and reinsurance coverage in a form and amount as provided
+2 forintheorganizationaldocuments;
+3 (d) Obligatetheparticipantstopledgefundsorrevenuestosecuretheobligationsorpaythe
+4 expenses of the arrangement, including the establishment of a reserve fund for coverage, and any
+5 additionalassessment if thereservefundor thearrangement'srevenueor assetsareinsufficient tocover
+6 theliabilities;and
+7 (e) Possess any other powers and perform all other functions reasonably necessary to carry
+8 outthepurposesofthischapter.
+9 405-C:6 Formation. Before the establishment of a multiple-caregiver self-insured risk coverage
+10 arrangement, the covered entities shall obtain the approval of the commissioner. The entity or entities
+11 proposing the creation of the arrangement shall submit, as part of the application, a plan of management
+12 andoperationtothecommissionerthatprovidesataminimum,thefollowinginformation:
+13 I. The risk or risks to be covered, including any coverage definitions, terms, conditions, and
+14 limitations;
+15 II. Theamountandmethodoffundingthecoveredrisks,includingtheinitialcapitalandproposed
+16 ratesandprojectedpremiums;
+17 III. Theproposedclaimreservingpractices;
+18 IV. The proposed purchase and maintenance of insurance or reinsurance in excess of the
+19 amountsretainedbythejointself-insurancearrangement;
+20 V. The legal form of the program including, but not limited to, any constitution, articles of
+21 incorporation,bylaws,charter,trust,orotheragreementamongtheparticipatingentities;
+22 VI. Theagreementswithparticipantsinthearrangementdefiningtheresponsibilitiesandbenefits
+23 ofeachparticipantandmanagement;
+24 VII. Theproposedaccounting,depositing,andinvestmentpracticesofthearrangement;
+25 VIII. Evidencesatisfactorytothecommissioner showingthat thearrangement willbeoperatedin
+26 accordancewithsoundactuarialprinciples. Thecommissioner shall notapprovethearrangement unless
+27 the commissioner determines that the plan is designed to provide sufficient revenues to pay current and
+28 futureliabilities,asdeterminedinaccordancewithsoundactuarialprinciples;
+29 IX. A designation of the individual to whom service of process must be forwarded by the
+30 commissioneronbehalfofthearrangement,includingthatindividual’snameandaddress;
+31 X. All contractsbetweentheprogram andprivatepersonsprovidingriskmanagement, claims, or
+32 otheradministrativeservices;
+33 XI. Aprofessionalanalysisofthefeasibilityofthecreationandmaintenanceoftheprogram;
+34 XII. A legal analysis or an Internal Revenue Service opinion on the federal income tax exposure
+35 orliabilityoftheprogram;and
+36 XIII. Such additional information as the commissioner may reasonably require to determine
+37 compliancewiththischapter.
+38 405-C:7 MinimumGeneralEligibility;Prohibitions.
+
+CHAPTER273
+SB614-FN-FINALVERSION
+-Page4-
+1 I. Each multiple-caregiver self-insured risk coverage arrangement shall meet the following
+2 minimumeligibilityrequirements,andanyadditionalrequirementsasthecommissionermayrequire:
+3 (a) Thearrangementshallqualifyasanon-profitorfor-profitentity;
+4 (b) Thearrangementshallbeestablishedormaintainedbyoronbehalfof2ormoreproperly
+5 licensed homogeneous entities providing at least one of the services of child care, day care, foster care
+6 placement, or behavioral health services, which shall be governed by formal governance documents,
+7 whichmayincludeanyoneormoreofthefollowing:
+8 (1) Acharter;
+9 (2) Aconstitution;
+10 (3) Bylaws;or
+11 (4) Atrust.
+12 (c) The arrangement shall be operated by officers or a board of trustees which shall have
+13 complete fiscal control over the arrangement and which shall be responsible for all operations of the
+14 arrangement. Theofficersortrusteesselectedshallbeowners,partners,officers,directors,oremployees
+15 of participating entities in the arrangement. An officer or trustee may not be an owner, officer, or
+16 employeeoftheadministratororservicecompanyofthearrangement. Theofficersortrusteesshallhave
+17 the authority to approve applications of entities for participation in the arrangement, provided that any
+18 entitythatterminatesitsparticipationshallbeprohibitedfromrejoiningforaperiodof2years.
+19 (d) Appropriate action by ordinance, resolution or other action pursuant to law of the
+20 governing bodies of the participating entities shall be necessary before any such agreement may enter
+21 intoforce.
+22 (e) Thearrangementshallnotbeofferednoradvertisedtothepublicgenerally.
+23 (f) Thearrangementshallbeoperatedinaccordancewithsoundactuarialprinciples.
+24 II. Thefollowingactivitiesshallbeprohibited:
+25 (a) An employee or official of a participating nonprofit corporation in a joint self-insurance
+26 arrangement shall not directly or indirectly receive anything of value for services rendered in connection
+27 withtheoperationandmanagementofthearrangementotherthanthesalaryandbenefitsprovidedbyhis
+28 or her employer or the reimbursement of expenses reasonably incurred in furtherance of the operation or
+29 managementofthearrangement.
+30 (b) Anemployeeorofficialofaparticipatingcoveredentityshallnotacceptorsolicitanything
+31 ofvalueforpersonalbenefitorforthebenefitofothersundercircumstancesinwhichitcanbereasonably
+32 inferred that the employee's or official's independence of judgment is impaired with respect to the
+33 managementandoperationofthearrangement.
+34 (c) No joint self-insurance arrangement approved under this chapter shall require that any
+35 civil action or alternative dispute resolution procedure brought in connection to the self-insurance
+36 arrangementbebroughtinajurisdictionotherthanNewHampshire.
+37 405-C:8 Filing of Application. The covered entities of a proposed multiple-caregiver self-insurance
+38 risk coverage arrangement shall file with the commissioner an application for approval, upon a form
+39 furnishedbythecommissioner,whichshallincludeorhaveattachedthefollowing:
+
+CHAPTER273
+SB614-FN-FINALVERSION
+-Page5-
+1 I. Acopyoftheconstitution,bylaws,articlesofincorporation,charter,ortrustagreement.
+2 II. The names and addresses of the officers or trustees of the arrangement, who are subject to
+3 approvalbythecommissioneruponthepresentationofsufficientevidenceto:
+4 (a) Becompetent;
+5 (b) Have not been found to be guilty of, or to have pled guilty or no contest to a felony, or a
+6 crimeinvolvingmoralturpitude;
+7 (c) Havenothadanytypeofprofessionallicenserevokedinthisoranyotherstate;and
+8 (d) Have not improperly manipulated assets, accounts, or specific excess insurance or to
+9 haveotherwiseactedinbadfaith.
+10 III. A copy of a fidelity bond in an amount equal to not less than 10 percent of the funds handled
+11 annually and issued in the name of the arrangement covering its officers, trustees, employees,
+12 administrator, or other individuals managing or handling the funds or assets of the arrangement. In no
+13 case may such bond be less than $1,000 or more than $500,000 except that the commissioner may
+14 prescribeanamountmorethan$500,000afterduenoticeandopportunityforahearing.
+15 IV. AplanofmanagementandoperationprovidingtheinformationrequiredinRSA405-C:6.
+16 V. Such additional information as the commissioner may reasonably require to determine
+17 compliancewiththischapter.
+18 405-C:9 ApprovalorDisapproval.
+19 I. Within 120 days of receipt of an application, the commissioner shall either approve or
+20 disapproveanapplicationforalicensefortheformationofthearrangement. Ifthecommissionerdeniesa
+21 requestforapproval,thecommissionershallspecifyindetailthereasonsfordenial.
+22 II. The arrangement shall not engage in an act or practice that in any respect significantly differs
+23 from the management and operation plan that formed the basis for the commissioner's approval of the
+24 program unless the program first notifies the commissioner in writing and obtains the commissioner's
+25 approval. The commissioner shall approve or disapprove the proposed change within 60 days of receipt
+26 ofthenotice. Ifthecommissionerdeniesarequestedchange,thecommissionershallspecifyindetailthe
+27 reasonsforthedenial.
+28 405-C:10 Reporting Requirements. Each joint self-insurance arrangement shall file a report verified
+29 by the oath of an officer or trustee, annually within 4 months of the end of the fiscal year or within such
+30 extensionoftimeasthecommissionerforgoodcausemaygrant,withthecommissionerproviding:
+31 I. Details of any changes in the articles of incorporation, bylaws, charter, trust agreement, or
+32 otheragreementamongtheparticipatingentities;
+33 II. Listofallcurrentofficersortrustees;
+34 III. A description of the program structure, including participants' retention, excess insurance or
+35 reinsurancelimitsandattachmentpoints;
+36 IV. An actuarial analysis, performed by a member of the American Academy of Actuaries
+37 qualified in the coverage area being evaluated, assessing the adequacy of plan funds and the reserves
+38 necessary to be maintained to meet expenses of all incurred and incurred but not reported claims and
+39 otherprojectedneedsofthearrangement;
+
+CHAPTER273
+SB614-FN-FINALVERSION
+-Page6-
+1 V. Alistofcontractorsandserviceproviders;
+2 VI. Thefinancialandlossexperienceofthearrangement;and
+3 VII. Such additional information as the commissioner may reasonably require to determine
+4 compliancewiththischapter.
+5 405-C:11 Service of Process Through Insurance Commissioner. Every joint self-insurance program
+6 governedbythischaptershallfilewiththecommissioner awrittenstipulation, agreeingthatlegal process
+7 affectingthearrangement,servedonthecommissionershallhavethesameeffectasifservedpersonally
+8 onthecompanywithinthestate. Serviceofsuchprocessshallbemadebyleavingacopyoftheprocess
+9 inthehandsofthecommissionerorintheiroffice.
+10 405-C:12 SuspensionorRevocationofProgramLicense;Appeal.
+11 I. The commissioner may suspend or revoke the approval of any arrangement for any one or
+12 moreofthefollowingcauses:
+13 (a) Thelicenseissuedtothearrangementwasobtainedbyfraud;
+14 (b) Therewereoneormorematerialmisrepresentationsintheapplicationforthelicense;
+15 (c) The holder of such license has shown itself untrustworthy or incompetent relative to the
+16 managementoroperationofthearrangement;
+17 (d) The arrangement has failed to meet the financial requirements of this chapter or has
+18 violatedanylawfulorderorrules;
+19 (e) The arrangement has refused to be examined or to produce its accounts, records and
+20 files for examination, or if any of its officers has refused to give information with respect to its affairs or to
+21 performanyotherlegalobligationastosuchexamination,whensorequiredbythecommissioner;
+22 (f) The arrangement has failed to pay any final judgment rendered against it in this state
+23 within60daysafterthejudgmentbecamefinal;
+24 (g) Thearrangementnolongermeetstherequirementsfortheauthorityoriginallygranted;or
+25 (h) The arrangement has violated any lawful order or rule of the commissioner, provision of
+26 thischapter,orotherapplicablelaw.
+27 II. Before the commissioner shall suspend or revoke the license of any licensee subject to this
+28 chapter,theaggrievedarrangementshallbeentitledtoahearinginaccordancewithRSA400-A:17.
+29 405-C:13 TerminationofArrangement. Ifanarrangementisterminatedforanyreason,itshallpayall
+30 outstanding claims, debts, and obligations. The arrangement may retain sufficient funds to provide
+31 coverage for such additional period as the officers or trustees of the arrangement consider prudent. In
+32 addition, the officers or trustees may purchase such additional insurance as they consider necessary for
+33 protectionagainstpotentialfutureclaims. Anyfundsremaininginthearrangementaftersatisfactionofall
+34 obligations upon termination shall be paid to participating entities as of the termination date in some
+35 equitable manner meeting with the approval of the commissioner, including, without ruling out other
+36 alternatives, equally on a per capita basis to each participating entity that is covered under the
+37 arrangementasoftheeffectivedateoftermination.
+38 405-C:14 Financial Condition, Loss Reserves, Reinsurance, or Working Capital; Determination of
+39 Inadequacy.
+
+CHAPTER273
+SB614-FN-FINALVERSION
+-Page7-
+1 I. The commissioner may, upon reasonable notice, conduct an examination of the loss reserves,
+2 financial condition, specific excess insurance, and workingcapital of a multiple-caregiver self-insured risk
+3 coverage arrangement. If the commissioner preliminarily finds that the reserves, specific excess
+4 insurance, or financial condition may be inadequate, or that the arrangement does not have a combined
+5 working capital in an amount establishing the financial strength and liquidity of the arrangement to pay
+6 claims promptly and showing evidence of the financial ability of the arrangement to meet its obligations,
+7 the commissioner shall notify the arrangement of such inadequacy. Upon being so notified, the
+8 arrangement shall within 30 days file with the commissioner all information which, in the belief of the
+9 arrangement,provesthereasonablenessandadequacyoftheconditionnotedasbeinginadequate.
+10 II. If the commissioner determines, after reviewing the information filed, that an inadequate
+11 condition exists, the arrangement shall implement, within 30 days, a plan to correct the inadequacy and
+12 shall file proof of reasonable improvement or adequate condition with the commissioner within 6 months
+13 of the implementation of the plan. If the commissioner is satisfied that the plan submitted to improve the
+14 inadequate condition of the arrangement is sufficient, they shall so notify the arrangement. The
+15 arrangement shall report quarterly to the commissioner until the causes of the inadequate condition have
+16 beencorrected.
+17 405-C:15 Rehabilitation,Dissolution. Anyrehabilitation,liquidation,conservation,ordissolutionofan
+18 arrangementshallbeconductedunderthesupervisionofthecommissioner,whoshallhaveallpowerwith
+19 respect thereto granted to it under the laws governing the rehabilitation, liquidation, conservation, or
+20 dissolutionofinsurers.
+21 405-C:16 Penalties.
+22 I. Subject to other provisions in this chapter, any arrangement that fails to obtain and maintain a
+23 validapproval from thecommissioner whileoperatingor maintainingamultiple-caregiver self-insuredrisk
+24 coverage arrangement shall be subject to a fine of not less than $5,000 or more than $50,000 for each
+25 violation.
+26 II. The commissioner may issue a cease and desist order if they find any person operating or
+27 maintaininganarrangementwithoutacurrentlyeffectivecertificateofapproval.
+28 405-C:17 Rulemaking Authority. The commissioner may adopt rules, pursuant to RSA 541-A, as
+29 maybenecessarytoeffectthepurposesofthischapter.
+30 273:2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+Approved:July02,2026
+EffectiveDate:July01,2027

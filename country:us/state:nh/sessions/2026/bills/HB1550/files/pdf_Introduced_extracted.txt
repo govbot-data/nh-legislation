@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1550-FN-ASINTRODUCED
+2026SESSION
+26-2799
+12/09
+1550-FN
+HOUSEBILL
+ANACT requiring marital masters, arbitrators, mediators, and judicial referees to be
+commissionedasajusticeofpeaceasaqualificationforsuchpositions.
+SPONSORS: Rep.Love,Rock.13
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires marital masters, arbitrators, mediators, and judicial referees to be
+commissioned as a justice of the peace in order to qualify for such positions. The bill also requires
+such individuals to subscribe to the oath or declaration as prescribed by part 2, article 84 of the
+constitutionofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1550-FN-ASINTRODUCED
+26-2799
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring marital masters, arbitrators, mediators, and judicial referees to be
+commissionedasajusticeofpeaceasaqualificationforsuchpositions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Marital Masters; Justice of the Peace and Oath Requirements. Amend RSA
+2 490-D:8byinsertingafterparagraphIIthefollowingnewparagraph:
+3 III. Each marital master shall first be commissioned as a justice of the peace, pursuant to
+4 RSA455-A,asarequirementtoqualifyasamaritalmaster.
+5 (a) Marital masters shall renew their commission as a justice of the peace every 5 years
+6 bycompletingthesameapplicationprocessofRSA455-A:2.
+7 (b) In their capacity as a justice of the peace, marital masters shall make and subscribe
+8 the oath or declaration as prescribed by part 2, article 84 of the constitution of New Hampshire. An
+9 individual who violates said oath after taking the same shall be forthwith dismissed from their
+10 positionasajusticeofthepeace.
+11 2 NewSection;MediationandArbitration;JusticeofthePeaceandOathRequirements. Amend
+12 RSA490-Ebyinsertingaftersection6thefollowingnewsection:
+13 490-E:7 Justice of the Peace and Oath Requirements. All mediators, arbitrators, and neutral
+14 parties involved in dispute resolution under contract with the New Hampshire judicial branch shall
+15 first be commissioned as a justice of the peace, pursuant to RSA 455-A, as a requirement to qualify
+16 forsuchposition.
+17 I. Mediators, arbitrators, and neutral parties involved in dispute resolution under contract
+18 withtheNewHampshirejudicialbranchshallrenewtheircommissionasajusticeofthepeaceevery
+19 5yearsbycompletingthesameapplicationprocessofRSA455-A:2.
+20 II. In their capacity as a justice of the peace, mediators, arbitrators, and neutral parties
+21 involved in dispute resolution under contract with the New Hampshire judicial branch shall make
+22 and subscribe the oath or declaration as prescribed by part 2, article 84 of the constitution of New
+23 Hampshire. Anindividualwho violatessaid oathafter takingthesameshall beforthwithdismissed
+24 fromtheirpositionasajusticeofthepeace.
+25 3 New Section; Judicial Referees; Justice of the Peace and Oath Requirements. Amend RSA
+26 493-Abyinsertingaftersection1-cthefollowingnewsection:
+27 493-A:1-d Justice of the Peace and Oath Requirements. All judicial referees shall first be
+28 commissioned as a justice of the peace, pursuant to RSA 455-A, as a requirement to qualify for such
+29 position.
+
+HB1550-FN-ASINTRODUCED
+-Page2-
+1 I. Judicial referees shall renew their commission as a justice of the peace every 5 years by
+2 completingthesameapplicationprocessofRSA455-A:2.
+3 II. In their capacity as a justice of the peace, judicial referees shall make and subscribe the
+4 oath or declaration as prescribed by part 2, article 84 of the constitution of New Hampshire. An
+5 individual who violates said oath after taking the same shall be forthwith dismissed from their
+6 positionasajusticeofthepeace.
+7 4 CircuitCourt;Referees;JusticeofthePeaceandOathRequirements. AmendRSA490-F:15to
+8 readasfollows:
+9 490-F:15 Referees. The circuit court, with the consent of the parties shall, and without the
+10 consent of the parties may, commit to one or more referees any cause at law or in equity, or the
+11 determination of any question of fact pending in the court wherein the parties are not, as matter of
+12 right,entitledtoatrialbyjury;andwiththeconsentofthepartiesshallinthesamemannercommit
+13 any other cause or the determination of any other question of fact. In order for the circuit court
+14 to commit a referee to a cause at law or in equity or the determination of any question of
+15 fact,saidrefereeshallfirstbeincompliancewiththeprovisionsofRSA493-A:1-d.
+16 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2799
+12/3/25
+HB1550-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring marital masters, arbitrators, mediators, and judicial referees to be
+commissionedasajusticeofpeaceasaqualificationforsuchpositions.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable
+Increase Lessthan
+Expenditures* $0 $0
+$10,000to $10,000
+$50,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires marital masters, arbitrators, mediators and judicial referees under contract
+withtheJudicialBranchtobecommissionedasjusticesofthepeacepursuanttoRSA455-A,and
+torenewtheircommissioneveryfiveyears.
+TheJudicialBranchstatesthisbillwillresultinindeterminableincreasesinstateexpenditures.
+The Branch anticipates substantial administrative work prior to implementation to verify
+compliance, assist parties in meeting credentialing requirements, and process reimbursements
+for the $75 justice of the peace application fee, which the Branch assumes it would need to pay
+on behalf of each affected individual. Based on the number of marital masters, judicial referees,
+mediators, and arbitrators, the Branch estimates more than $10,000 but less than $50,000 in
+expendituresinthemonthspriortoimplementation.
+After implementation, ongoing expenditures for continued credentialing support and periodic
+renewals will be indeterminable but likely less than $10,000 per year. The Branch notes that
+delays in the credentialing process could delay case processing; however, the financial effect of
+suchdelaysonthecourtsystemorlitigantscannotbequantified.
+
+AGENCIESCONTACTED:
+JudicialBranch

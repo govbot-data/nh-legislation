@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1572-FN-ASINTRODUCED
+2026SESSION
+26-2858
+09/06
+1572-FN
+HOUSEBILL
+ANACT relativetothequalificationstoobtaincertainoccupationallicenses.
+SPONSORS: Rep. Kesselring, Hills. 18; Rep. Cole, Hills. 26; Rep. Morton, Hills. 39; Rep.
+Paquette, Hills. 25; Rep. Layon, Rock. 13; Rep. Notter, Hills. 12; Rep. McGrath,
+Rock.40;Rep.Mazur,Hills.44;Rep.MaryMurphy,Hills.27
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the qualifications for licensure for master licensed alcohol and drug counselors
+andrecreationaltherapists,andthequalificationsforspeech-languageassistants.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1572-FN-ASINTRODUCED
+26-2858
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothequalificationstoobtaincertainoccupationallicenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Master Licensed Alcohol and Drug Counselor; Initial License. Amend
+2 RSA330-C:16,Ibyinsertingaftersubparagraph(b)thefollowingnewsubparagraph:
+3 (c) Havecompletedatleast60hoursofmaster'sdegreecoursesinclinicalmentalhealth,
+4 clinical psychology, substance use treatment, social work, or equivalent, from an accredited college
+5 or university, and have held a New Hampshire license issued pursuant to RSA 330-A for at least 5
+6 yearswithgoodstanding.
+7 2 Speech-Language Pathology and Hearing Care Providers Practice; Rulemaking. Amend RSA
+8 326-F:5,Vtoreadasfollows:
+9 V. The minimum qualifications of, requirements for direction and supervision of, and scope
+10 of tasks that may be performed by speech-language assistants. Such qualifications shall include a
+11 minimum of a 2-year associate's degree granted by a speech-language pathology program or an
+12 equivalentprogramaccreditedbyanaccreditingorganizationapprovedbytheboard.
+13 3 Recreational Therapists; Eligibility for Licensure. Amend RSA 326-J:5, I(c) and (d) to read as
+14 follows:
+15 (c) Successfully complete an academic program with a baccalaureate degree or higher
+16 from an accredited college or university [with a major in therapeutic recreation or a major in
+17 recreationorleisurewithanoptionintherapeuticrecreation].
+18 (d) Successfully complete a period of field experience as defined by the National Council
+19 for Therapeutic Recreation Certification (NCTRC) under the supervision of a Certified Therapeutic
+20 Recreation Specialist (CTRS) [approved by the educational institution where the applicant has met
+21 hisorheracademicrequirements].
+22 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2858
+12/4/25
+HB1572-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothequalificationstoobtaincertainoccupationallicenses.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+RevenueFund(s) OfficeofProfessionalLicensureandCertificationFund
+IndeterminableIncrease
+Expenditures* $0
+(rangingfromlessthan$10,000to$100,000)
+FundingSource(s) OfficeofProfessionalLicensureandCertificationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a new pathway to become a Master Licensed Alcohol and Drug Counselor
+(MLADC) by allowing an applicant who has completed at least 60 hours of education
+requirements, and have held a New Hampshire license for at least 5 years to be licensed.
+Additionally, the bill establishes a new pathway to become a Speech-Language Assistants by
+allowing an applicant who has completed an equivalent program to a 2-year associates degree
+accreditedbyanaccreditingorganizationapprovedbytheboard.
+The Office of Professional Licensure and Certification (OPLC) states that this bill will increase
+revenue byan indeterminableamount as this new pathwaywill result in moreapplications from
+Licensed Alcohol Counselors (LADC) and Certified Recovery Support Workers (CRSW).
+However, OPLC estimates additional expenditures ranging from less than $10,000 to $100,000,
+primarily to support staff training, rulemaking, and a possible increase in enforcement and
+disciplinary actions. These additional responsibilities stem from concerns that applicants may
+lack sufficient clinical experience, potentially leading to more complaints. Some of these
+enforcement-relatedcostsmaybeoffsetthroughdisciplinaryproceedings.
+There may also be an increase in applications for Speech-Language Assistants, which would
+generate additional revenue but also lead to higher administrative costs associated with
+processingtheseapplications. Theseimpactsareexpectedtooffsetoneanother.
+
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertification

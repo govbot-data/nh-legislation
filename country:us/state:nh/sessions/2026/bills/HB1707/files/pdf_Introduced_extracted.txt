@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1707-FN-ASINTRODUCED
+2026SESSION
+26-2613
+07/06
+1707-FN
+HOUSEBILL
+ANACT creating an additional property tax for certain unoccupied properties and creating
+a housing transfer tax exemption for certain low- and moderate-income home
+buyers.
+SPONSORS: Rep.Read,Rock.10;Rep.Wheeler,Hills.33;Rep.H.Howard,Straf.4
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates an additional property tax for certain unoccupied properties and creates a
+housingtransfertaxexemptionforcertainlow-andmoderate-incomehomebuyers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1707-FN-ASINTRODUCED
+26-2613
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating an additional property tax for certain unoccupied properties and creating
+a housing transfer tax exemption for certain low- and moderate-income home
+buyers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Taxation; Persons and Property Liable to Taxation; Supplemental Residence
+2 Tax. AmendRSA72byinsertingaftersection6-athefollowingnewsection:
+3 72:6-b UnoccupiedHousingTax. Anyownerofpropertythatisunoccupiedforatleast6months
+4 of the tax year, or is occupied as a short-term rental for at least 6 months of the tax year, shall be
+5 required to pay to the department of revenue administration a sum equal to the total of all property
+6 taxes, fees, and interest owed on that property to any municipality, city, town, village, or
+7 unincorporatedplace.
+8 2 New Section; Taxation; Tax on Transfer of Real Property; Transfer Tax Exemption. Amend
+9 RSA78-Bbyinsertingaftersection13thefollowingnewsection:
+10 78-B:14 TransferTaxExemption.
+11 I. Thereshallbeaone-timeexemptionallowedagainsttheentiretyofthetaxdueunderthis
+12 chapterinanygiventaxyear.
+13 II. Noexemptionshallbeallowedunderthissectionunlessthepersonapplyingtherefor:
+14 (a) Isthebuyerofaproperty;
+15 (b) Doesnotcurrentlyownanyotherproperty;and
+16 (c) Has a household with an income for the preceding year of no more than 100 percent
+17 of the median income for a 3-person household for the metropolitan area or county in which the
+18 housing is located as published annually by the United States Department of Housing and Urban
+19 Development;or
+20 (d) Is the owner of a property being sold to a qualifying buyer under subparagraphs (a)
+21 and(b).
+22 3 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+
+LBA
+26-2613
+12/10/25
+HB1707-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creating an additional property tax for certain unoccupied properties and creating
+a housing transfer tax exemption for certain low- and moderate-income home
+buyers.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $300,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates the Supplemental Residence Tax (SRT), also referred to as an Unoccupied
+Housing Tax, which would apply to properties that are either unoccupied or used as short-term
+rentals for at least six months of the tax year. Owners of these properties would be required to
+pay an amount equal to the total of all property taxes, fees, and interest owed to municipality,
+city, town, village, or unincorporated place. The bill establishes a one-time exemption from the
+Real Estate Transfer Tax (RETT) for a person who, is the buyer of a property, does not currently
+own any other property, has a household income, for the previous year, that does not exceed the
+average income for a three-person household in the county or metropolitan area where the home
+is located, as determined annually by the U.S. Department of Housing and Urban Development
+(HUD),aswellasforsellerstransferringpropertytosuchqualifyingbuyers
+The Department of Revenue Administration (DRA) states this bill would result in an
+indeterminableincrease ingeneral fund revenue duetothenew SRT, beginninginFY 2028, and
+an indeterminable decrease in both general fund and education trust fund revenue due to the
+RETT exemption, beginning in FY 2027. DRA is unable to estimate the potential reduction
+resulting from the exemption due to a lack of clarity regarding its intended application and the
+absence of data indicating what proportion of RETT transactions would be eligible. DRA also
+estimates a one-time administrative cost of $300,000 in FY 2027 to implement systems for
+
+collecting the SRT. Furthermore, DRA indicates it is not clear what is meant by “one-time
+exemption,” and “the entirety of the tax due under this chapter in any given tax year,” and
+whether this exemption is intended to mean that a buyer or a seller may only claim the
+exemption once in their lifetime, once per property, once per person per tax year, or something
+else. Additionally,DRAalsonotestheproposedlegislationcreatesnewRSAsection78-B:14,but
+thatRETThasmanyotherexemptionsthatarecontainedinRSA78-B:2.
+Using available property and census data, DRA estimates that the SRT could potentially
+generate approximately $922.6 million annually, though this figure is based on assumptions and
+approximations that may not fully align with the bill’s criteria. DRA used its mass appraisal
+data from 2024, selected only single family homes, single residential condos, residential
+buildings only, multi-family 204 units, and mixed use residential. This resulted in a total home
+count of 476,005 with an assessed value of approximately $221.1 billion. DRA then applied this
+data to the 2020 U.S. Census Bureau data regarding the percentage of 2nd homes in NH,
+however this is not exactly what the bill proposes as the bill proposes the 6-month occupation
+period, but this data is the best available to get an approximate estimate. Additionally, census
+datacanbeunreliable,particularlywhenitcomestosmalltowns.
+DRA next multiplied the rounded counts by the total locally assessed property value for each
+town and multiplied by the municipal property tax rate for each town. Unincorporated areas
+and towns with a negative municipal tax rate were set to a rate of 0%. See the full breakdown
+below:
+Total Average TotalAssessed %2nd Estimated Estimated Potential
+Home Assessed Value Homes Countof TotalAssessed SRT
+Count Value 2nd Valueof2nd (Rounded)
+Homes Homes
+476,005 $464,562 $221,133,834,810 9.9% 47,249 $24,862,232,856 $922,600,000
+Since property taxes are currently administered at the local level, the Department of Revenue
+Administration (DRA) assumes that this tax would likewise be locally administered and
+subsequently remitted to the state by municipalities. While the method and timing for
+determining occupancy status remain unclear, municipalities are best positioned to make these
+determinations.
+TheNewHampshireMunicipalAssociation(NHMA)statesthatthisbilldoesnotcreateanynew
+responsibilities on municipalities related to occupancy monitoring, certification, property tax
+billing,or reporting. All revenue generated underthebill is remitted directlytotheDepartment
+ofRevenueAdministration.
+
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandNewHampshireMunicipalAssociation

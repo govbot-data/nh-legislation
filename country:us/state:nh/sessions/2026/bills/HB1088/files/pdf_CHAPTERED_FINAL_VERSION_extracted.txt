@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER290
+HB1088-FN-A-FINALVERSION
+04/09/2026 1268s
+4Jun2026...2153EBA
+2026SESSION
+26-2535
+08/05
+1088-FN-A
+HOUSEBILL
+ANACT transferring funding for the water well board from the general fund to a special
+nonlapsingfund.
+SPONSORS: Rep.Donnelly,Rock.25
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilltransfersfundingforthewaterwellboardfromthegeneralfundtoaspecialnonlapsingfund.
+Thisbillisarequestofthedepartmentofenvironmentalservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER290
+HB1088-FN-A-FINALVERSION
+04/09/2026 1268s
+4Jun2026...2153EBA 26-2535
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT transferring funding for the water well board from the general fund to a special
+nonlapsingfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 290:1 New Subparagraph; Water Well Board Fund. Amend RSA 6:12, I(b) by inserting after
+2 subparagraph(410)thefollowingnewsubparagraph:
+3 (411) MoneysdepositedinthewaterwellboardfundasestablishedinRSA482-B:4-a.
+4 290:2 New Section; Water Well Board Fund. Amend RSA 482-B by inserting after section 4 the
+5 followingnewsection:
+6 482-B:4-a Water Well Board Fund. The New Hampshire water well board fund is established as a
+7 special fund in the state treasury. The fund shall be revolving, continually appropriated and nonlapsing.
+8 All fees, fines and civil penalties collected as provided in this chapter shall be paid into the state treasury
+9 immediatelyuponcollectionandcreditedtothewaterwellboardfund. Thestatetreasurershallinvestthe
+10 moneysdepositedinaccordancewithRSA6:8. Anyearningsonfundmoneysshallbeaddedtothefund.
+11 Thewaterwellboardfundshallbeusedtofundwaterwellboarddutiesasoutlinedinthischapter.
+12 290:3 Fees;NewHampshireWaterWellBoard. AmendRSA482-B:14toreadasfollows:
+13 482-B:14 Fees.
+14 Fees received under this chapter shall be paid over to the state treasurer and deposited in the
+15 [generalfund]waterwellboardfundestablishedinRSA482-B:4-a.
+16 290:4 Enforcement and Penalties; New Hampshire Water Well Board. Amend RSA 482-B:16, VI to
+17 readasfollows:
+18 VI. All moneys collected under this section shall be forwarded to the state treasurer and
+19 deposited into the [general fund as unrestricted revenue]waterwellboardfundestablishedinRSA482-
+20 B:4-a.
+21 290:5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:July10,2026
+EffectiveDate:January01,2027

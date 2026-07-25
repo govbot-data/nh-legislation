@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1671-FN-ASINTRODUCED
+2026SESSION
+26-2632
+05/08
+1671-FN
+HOUSEBILL
+ANACT relative to prohibiting state Medicaid payments to facilities that discriminate
+against employees, students, or trainees for exercising lawful medical or religious
+vaccineexemptions.
+SPONSORS: Rep. McGrath, Rock. 40; Rep. DeRoy, Straf. 3; Rep. DeVito, Rock. 8; Rep.
+McFarlane, Graf. 18; Rep. Perez, Rock. 16; Rep. Terry, Belk. 7; Rep. Wherry,
+Hills.13;Rep.Kofalt,Hills.32
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits state Medicaid payments to facilities that discriminate against employees,
+students,ortraineesforexercisinglawfulmedicalorreligiousvaccineexemptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1671-FN-ASINTRODUCED
+26-2632
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to prohibiting state Medicaid payments to facilities that discriminate
+against employees, students, or trainees for exercising lawful medical or religious
+vaccineexemptions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Medical Freedom in Immunizations; Discrimination Against Health Care
+2 Employees for Exercising Lawful Vaccine Exemptions Prohibited. Amend RSA 141-C:1-a by
+3 insertingafterparagraphIIIthefollowingnewparagraph:
+4 IV. No health care provider shall discharge, threaten, or otherwise discriminate against an
+5 employee, student, or trainee regarding the terms, conditions, or privileges of employment because
+6 theemployee, student, or traineehas executed a valid medical or religious vaccine exemption. If the
+7 department of health and human services determines that a health care provider has acted in
+8 violation of this section, the department shall withhold Medicaid reimbursement payments to the
+9 provider and shall suspend or terminate the provider from the state Medicaid program pursuant to
+10 RSA167:60.
+11 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2632
+12/8/25
+HB1671-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to prohibiting state Medicaid payments to facilities that discriminate
+against employees, students, or trainees for exercising lawful medical or religious
+vaccineexemptions.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$46,000increase $95,000increase $98,000increase
+inadministrative inadministrative inadministrative
+costs; costs; costs;
+Expenditures* $0
+indeterminable indeterminable indeterminable
+decreasein decreasein decreasein
+programcosts programcosts programcosts
+FundingSource(s) GeneralFund,FederalFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill amends RSA 141-C:1-a to prohibit state Medicaid payments to health care providers
+that “discharge, threaten, or otherwise discriminate against an employee, student, or trainee
+regarding the terms, conditions, or privileges of employment” because that individual has
+provided a valid medical or religious exemption for any vaccinations required by the medical
+facility or medical office. The Department of Health and Human Services assumes there will be
+administrative costs resulting from the need to investigate discrimination complaints, and
+estimates that a new compliance officer will be needed at a cost of $46,000 in FY27, $95,000 in
+FY28, and $98,000 in FY29. (The bill has an effective date of January 1, 2027, halfway through
+FY27.) The Department further assumes that there will be some indeterminable decrease in
+Medicaid expenditures in cases where it has determined a health care provider has engaged in
+discrimination in violation of the statute. As Medicaid is funded with a combination of general
+and federal funds (the percentage of which varies depending on the specific program), any costs
+orsavingswillbeamixtureofgeneralandfederalfunds.
+AGENCIESCONTACTED:
+
+DepartmentofHealthandHumanServices

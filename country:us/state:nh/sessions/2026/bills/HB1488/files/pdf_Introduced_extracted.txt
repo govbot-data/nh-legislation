@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1488 -ASINTRODUCED
+2026SESSION
+26-2377
+08/09
+1488
+HOUSEBILL
+ANACT relativetorabiesvaccinesforanimals.
+SPONSORS: Rep.Ammon,Hills.42;Rep.D.Kelley,Hills.32
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables a veterinarian to make an exemption from the rabies vaccine for animals after
+performingcertaintesting.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1488-ASINTRODUCED
+26-2377
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetorabiesvaccinesforanimals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Rabies Vaccination Required; Exemption. RSA 436:100 is repealed and reenacted to read as
+2 follows:
+3 436:100 RabiesVaccinationRequired;Exemption.
+4 I. Except as provided in paragraph II, every dog, cat, and ferret 3 months of age and older
+5 shall be vaccinated against rabies. Young dogs, cats, and ferrets shall be vaccinated within 30 days
+6 after they have reached 3 months of age. Unvaccinated dogs, cats, and ferrets acquired or moved
+7 into the state shall be vaccinated within 30 days after purchase or arrival, unless under 3 months of
+8 age, as specified above. Every dog, cat, and ferret shall be revaccinated between 9 and 12 months
+9 after the initial vaccination and subsequently receive booster vaccines as outlined in the most
+10 current National Association of State Public Health Veterinarians' Compendium of Animal Rabies
+11 Prevention and Control. In rabies infected areas, dogs, cats, and ferrets recently vaccinated shall be
+12 keptundercontrolforatleast30daysbeforebeingallowedtorunfree.
+13 II. A rabies immunization exemption may be issued by the local rabies control authority
+14 upon either the written recommendation of a veterinarian licensed under RSA 332-B signed by an
+15 American College of Veterinary Internal Medicine diplomate and the state veterinarian, or the
+16 written recommendation of a single veterinarian licensed under RSA 332-B who has performed titer
+17 testing as described in paragraph III. The exemption shall be valid for one year and recertified
+18 annuallybyaveterinarianlicensedunderRSA332-B.
+19 (a) Animals exempted due to illness or veterinary medical conditions that preclude
+20 vaccination shall be maintained in strict rabies isolation under conditions determined by the local
+21 rabies control authority until the medical condition is resolved and the animal can be immunized.
+22 Such animals shall not be allowed outdoors without being leashed and under direct physical control
+23 ofanadultownerandshallbemuzzledinamannerapprovedbythelocalrabiescontrolauthority.
+24 (b) Animals exempted based on demonstrated immunity through titer testing meeting
+25 the standards in paragraph III shall not be subject to the isolation, leashing, or muzzling
+26 requirementsofsubparagraph(a).
+27 III. For a single veterinarian exemption described in paragraph II, the veterinarian shall
+28 perform rabies antibody titer testing by performing a baseline titer test on the animal prior to
+29 receiving a rabies vaccination and a second titer test performed 7 to 14 days post-vaccination to
+30 establish the animal's individual immune response. Future titer testing for exemption purposes
+
+HB1488 -ASINTRODUCED
+-Page2-
+1 shall demonstrate antibody levels equivalent to or higher than the post-vaccination baseline
+2 establishedforthatindividualanimal.
+3 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

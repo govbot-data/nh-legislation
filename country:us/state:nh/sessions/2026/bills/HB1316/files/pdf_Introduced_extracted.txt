@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1316 -ASINTRODUCED
+2026SESSION
+26-2958
+05/06
+1316
+HOUSEBILL
+ANACT restrictingthecollectionanddisclosureofautism-relateddatabystateagencies.
+SPONSORS: Rep. Foss, Hills. 41; Rep. Butler, Straf. 12; Rep. Wade, Straf. 15; Rep. H. Howard,
+Straf.4
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilldirectsstateagenciestoensuretheyarenotcollectingorusingdatascrapingtechnology
+to gather autism-related data, unless such data collection practices comply with state and federal
+lawandarelimitedtothespecificpurposeforwhichthedataisgathered.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1316-ASINTRODUCED
+26-2958
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restrictingthecollectionanddisclosureofautism-relateddatabystateagencies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSubdivision;RestrictionontheCollectionandDisclosureofAutism-relatedDatabyState
+2 Agencies. AmendRSA126byinsertingaftersection34thefollowingnewsubdivision:
+3 RestrictionontheCollectionandDisclosureofAutism-relatedDatabyStateAgencies
+4 126:35 Definitions. Inthissubdivision:
+5 I. "Agency" means any department, commission, board, institution, bureau, office, or other
+6 entity, by whatever name called, other than the legislative and judicial branches of state
+7 government,establishedinthestateconstitution,statute,sessionlaw,orexecutiveorder.
+8 II. “Autism-related data” means personally identifiable information maintained by an
+9 agencythatrevealsanindividualhasbeenidentifiedasautistic.
+10 126:36 LimitationOnCollectionOfAutism-relatedData.
+11 I. All agencies under the governor’s control shall work to ensure they are not collecting, or
+12 using data scraping technology to gather, autism-related data unless the collection fully complies
+13 withtheHealthInsurancePortabilityandAccountabilityAct(HIPAA)andisstrictlynecessaryfor:
+14 (a) The administration of a state or federal benefits program, including payment and
+15 reimbursement,providingbenefitsorensuringequalityofopportunity,participation,oraccessibility;
+16 (b) Theprovisionofmedicalorspecializedcareorservices;
+17 (c) The audit or evaluation of a federal- or state-supported education program or
+18 enforcementandcompliancewithfederalorstatelegalrequirementsrelatedtosuchaprogram;or
+19 (d) CompliancewithestablishedNewHampshireorfederallaw.
+20 II. Contractors, grantees, and vendors acting on behalf of an agency shall be held to the
+21 same privacy and data protection standards and shall not collect, store, or disclose autism-related
+22 dataoutsidetheparametersofthissubdivision.
+23 126:37 RestrictionsOnDisclosure.
+24 I. No agency shall disclose personally identifiable autism-related data to any entity outside
+25 thestateofNewHampshiregovernmentunless:
+26 (a) The individual, or legal guardian, provides informed, written consent for a specific
+27 use;
+28 (b) Requiredbycourtorderorsubpoenafromacourtofcompetentjurisdiction;
+29 (c) Required to provide educational, medical, employment, housing, or other essential
+30 servicesandsupportstoanautisticindividual;or
+31 (d) RequiredtocomplywithestablishedNewHampshireorfederallaw.
+
+HB1316 -ASINTRODUCED
+-Page2-
+1 II. All disclosures must belimited totheminimum amount of informationnecessarytomeet
+2 thelegalrequirement,andshouldbeanonymizedwhereallowedandpracticable.
+3 III. For the purposes of this section, “informed consent” means voluntary, written
+4 authorization given by an individual, or their legal guardian, after being clearly informed of the
+5 nature,scope,purpose,risks,andpotentialconsequencesofthedatacollectionordisclosure.
+6 126:38 Preservation Of Civil Rights. Nothing in this subdivision shall be construed to weaken
+7 orsupersedeanyrightsorprotectionsguaranteedunderfederalandstatelaw,including:
+8 I. Section504oftheRehabilitationActof1973;
+9 II. TheAmericanswithDisabilitiesAct;
+10 III. TheIndividualswithDisabilitiesEducationAct(IDEA);
+11 IV. TheNewHampshireLawAgainstDiscrimination,RSA354-A;
+12 V. TheHIPAA;
+13 VI. TheGeneticInformationNondiscriminationAct(GINA);and
+14 VII. Any other established law protecting individuals with disabilities from discrimination,
+15 including in health care, education, employment, housing, or public services, or protecting the
+16 privacyofpersonalhealthinformation.
+17 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

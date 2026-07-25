@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1555-FN-ASINTRODUCED
+2026SESSION
+26-2830
+06/08
+1555-FN
+HOUSEBILL
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+SPONSORS: Rep. Layon, Rock. 13; Rep. Popovici-Muller, Rock. 17; Rep. Sabourin dit
+Choiniere, Rock. 30; Rep. C. McGuire, Merr. 27; Rep. Polozov, Merr. 10; Sen.
+Innis,Dist7;Sen.Murphy,Dist16;Sen.Sullivan,Dist18
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Authorizeslocalfirechiefstograntvariancesfromthestatefirecode.
+II. Establishesproceduresandindemnificationrequirementsforvarianceapplications.
+III. Provides a 20-year exemption from retroactive fire code compliance for permitted
+construction.
+IV. Creates a de novo appeal process to the state fire marshal with further appeal to the
+buildingcodereviewboard.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1555-FN-ASINTRODUCED
+26-2830
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; State Board of Fire Control; State Fire Code; Rules. Amend RSA 153:5 by
+2 insertingafterparagraphVIIthefollowingnewparagraph:
+3 VIII. A property owner that has commenced construction in accordance with a building
+4 permit and has proceeded with that construction sufficient for the issuance of a certificate of
+5 occupancy that is rendered non-compliant with the state fire code due to a change in the state fire
+6 code that is adopted after the commencement of construction shall not, for a period of 20 years after
+7 the issuance of a certificate of occupancy, be required to make any changes, retrofits, or
+8 improvements to the work that was the subject of that permit in order to bring that work into
+9 compliance with that subsequently adopted iteration of the state fire code. After the passage of 20
+10 yearsfromthedateonwhichacertificateof occupancyisgranted,suchstructuremayberequired to
+11 makesuchrepairs or improvements asmaybenecessarytobringthestructureintocompliancewith
+12 the then current iteration of the state fire code. This provision shall be applicable prospectively and
+13 shallbeeffectiveforbuildingpermitapplicationsissuedonorafterJuly1,2026.
+14 2 NewParagraph;StateBoardofFireControl;ApprovalofPlansforConstructionorRevisionof
+15 all State Buildings Required. Amend RSA 153:8-a by inserting after paragraph II the following new
+16 paragraph:
+17 III. The state fire marshal or, by his or her direction, the deputy fire marshal shall also be
+18 responsible for hearing appeals of any decision issued by the local fire chief, or the fire chief’s duly
+19 authorized subordinance, in accordance with RSA 154:2, II. The fire marshal shall hold a hearing
+20 within 40 days of the receipt of an appeal, unless an extension of time has been granted by the fire
+21 marshal at the written request of one of the parties, and shall render a decision in writing within 30
+22 days of the conclusion of the hearing. The review of the fire marshal shall be de novo. The hearing
+23 shallnotbeboundbytheformalrulesofevidence,andthefiremarshalmayconsidertheevidencein
+24 the record transmitted by the fire chief or such other relevant evidence as may be admitted by the
+25 firemarshal. Inconsideringtheappeal,thefiremarshalmayaffirm,modify,orreverseanydecision
+26 issued pursuant to RSA 154:2, II-a. Any party aggrieved by a decision of the state fire marshal may
+27 appealthatdecisiontothebuildingcodereviewboardinaccordancewithRSA155-A:11.
+28 3 New Paragraph; Firewards, Firefighters, and Fire Hazards; Powers. Amend RSA 154:2 by
+29 insertingafterparagraphIIthefollowingnewparagraph:
+
+HB1555-FN-ASINTRODUCED
+-Page2-
+1 II-a.(a) All local fire chiefs and duly authorized subordinates shall be authorized to grant
+2 variances from the strict application of the provisions of the state fire code under the following
+3 circumstances:
+4 (1) It is demonstrated that, owing to special conditions of the property, there is no
+5 fair and substantial relationship exists between the general public purposes of the provision of the
+6 statefirecodeand the specific applicationof that provisiontothepropertyand theproposed use is a
+7 reasonableone;or
+8 (2) It is demonstrated through a stamped certification provided by a fire safety
+9 engineer or similar fire safety professional that an alternative means or method of construction or
+10 alternative material satisfies the intent of the code and is as safe or safer than what would be
+11 requiredthroughstrictapplicationofthestatefirecode.
+12 (b) Any individual seeking a variance pursuant to Paragraph II-a shall be required to
+13 provide the following signed statement as part of a complete application for a variance: "I hereby
+14 acknowledge and assume all risks arising from any deviation from the strict provisions of the fire
+15 code. In so doing, I hereby waive, on behalf of my heirs, successors, and assigns, all claims that I
+16 may have against the regulatory authority granting said variance to the extent that such variance
+17 was issued in good faith and without recklessness or gross negligence. I agree to indemnify the
+18 regulatory authority issuing this variance from and against losses, damages, and judgments arising
+19 from claims by third parties for property loss, injury, or death arising out of any variance from the
+20 fire code authorized by the regulatory authority in accordance with RSA 154, II(c). The
+21 indemnification shall include reasonable attorneys’ fees and expenses recoverable under applicable
+22 law. The indemnification provided herein shall apply to claims arising out of the negligent act,
+23 error, or omissionof theregulatoryauthority, acting ingood faith, in grantingthevariance but shall
+24 notapplytoclaimsofrecklessness,grossnegligence,orintentionalmisconduct."
+25 (c) Local fire chiefs may establish reasonable policies and procedures relative to the
+26 applicationsforvariancessoughtunderParagraphII-a.
+27 (d) All decisions issued pursuant to Paragraph II-a shall be in writing and shall be
+28 issued within either 30 days for residential properties and 60 days for non-residential properties
+29 followingthesubmissionofacompletedapplication.
+30 (e) Any party aggrieved by a decision of a local fire chief and/or a duly authorized
+31 subordinance pursuant to this Paragraph II-a may appeal such decision to the fire marshal. Any
+32 such appeal shall be filed within 30 days of the date of the written decision by filing such appeal in
+33 writing with the state fire marshal and by transmitting a copy of such appeal to the fire chief of the
+34 municipalitywhoissuedthedecisionthatisthesubjectoftheappeal. Within20daysreceiptofsuch
+35 an appeal, the fire chief shall transmit the record from the variance application, including, but not
+36 limited to, all application materials, submittals, memoranda, correspondence, and decisions, to the
+37 firemarshal.
+
+HB1555-FN-ASINTRODUCED
+-Page3-
+1 4 New Paragraph; State Building Code; Enforcement Authority. Amend RSA 155-A:7 by
+2 insertingafterparagraphVthefollowingnewparagraph:
+3 VI. The state fire marshal shall have the power to approve, disapprove, or allow exceptions
+4 tothestatebuildingcode.
+5 5 StateBuildingCode; Appeals of Decisions of theStateFireMarshall. Amend RSA155-A:11, I
+6 toreadasfollows:
+7 I. Anypersonaggrievedbyadecisionofthestatefiremarshalrelativetotheapplicationand
+8 enforcement of the state building code pursuant to RSA 153:8-a, I(a), [or] the state fire code, or an
+9 appeal of a decision of a local fire chief with regard to the grant or denial of a variance
+10 fromtheprovisionsofthestatefirecodepursuanttoRSA154:2,II(c),mayappealthedecision
+11 totheboard.
+12 6 EffectiveDate. ThisactshalltakeeffectJuly2,2026.
+
+LBA
+26-2830
+12/2/25
+HB1555-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheadministrationandenforcementofthestatefirecode.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $199,000 $203,000 $212,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 MinimalIndeterminableIncrease
+METHODOLOGY:
+Thisbill:
+ Implements a 20-year moratorium on state fire code enforcement following a certificate
+ofoccupancy.
+ Adds a requirement for the State Fire Marshal to hear appeals of any decision issued by
+alocalfirechief.
+ Allows local fire chiefs and their authorized subordinates to grant variances to the state
+firecode.
+ Adds a requirement for the State Fire Marshal to have the power to allow exceptions to
+thestatebuildingcode.
+ Adds a requirement to the Building Code Review Board to hear appeals of variances
+madebyalocalfirechief.
+The Department of Safety states this bill adds work to the Division of Fire Safety to address
+appeals and state building code variances, which would require two new positions (assuming a
+
+September 1, 2026 start date); a building inspector (SOC 47-08, step 3) at a cost of $128,000 in
+FY 2027, $117,000 in FY 2028, and $122,000 in FY 2029, and an administrative assistant (SOC
+43-04,step3)atacostof$71,000inFY2027,$86,000inFY2028,and$90,000inFY2029. This
+billprovidesneitherauthorizationnorappropriationfornewpersonnel.
+The New Hampshire Municipal Association states this bill will result in a minimal increase in
+local expenditures of less than $10,000 per municipality related to the development of policies
+andprocedures related totheapplications for local variances, plusanyadditional timeneeded to
+respondtoappealstotheStateFireMarshaland/ortheBuildingCodeReviewBoard.
+AGENCIESCONTACTED:
+DepartmentofSafetyandNewHampshireMunicipalAssociation

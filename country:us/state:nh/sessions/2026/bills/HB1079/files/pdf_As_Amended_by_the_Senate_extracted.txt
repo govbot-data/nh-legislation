@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1079-ASAMENDEDBYTHESENATE
+11Mar2026...0823h
+05/07/2026 1710s
+2026SESSION
+26-2594
+04/09
+1079
+HOUSEBILL
+ANACT allowing accessory dwelling units to be built within or attached to certain non-
+conformingstructures.
+SPONSORS: Rep.Howland,Straf.20;Rep.D.Paige,Carr.1;Rep.Preece,Hills.17
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands the definition of accessory dwelling units to allow them to be built within
+nonconformingstructures.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1079-ASAMENDEDBYTHESENATE
+11Mar2026...0823h
+05/07/2026 1710s 26-2594
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing accessory dwelling units to be built within or attached to certain non-
+conformingstructures.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 AccessoryDwellingUnit;Definition. AmendRSA674:71,II-IIItoreadasfollows:
+2 II. "Attached unit" means a unit that is within or [physically connected] attached to the
+3 principaldwellingunit[,orcompletelycontainedwithinapreexistingdetachedstructure].
+4 III. "Detached unit" means a unit that is neither within nor physically connected to the
+5 principaldwellingunit[,norcompletelycontainedwithinapreexistingdetachedstructure].
+6 2 AccessoryDwellingUnit;ExistingStructures. AmendRSA674:72,XItoreadasfollows:
+7 XI. A municipality shall allow accessory dwelling units to be converted from existing
+8 structures, including but not limited to detached garages, regardless of whether such structures
+9 violatecurrentdimensionalrequirementsforsetbacksorlotcoverage.
+10 (a) For the purposes of this section, "existing structure" means a structure
+11 existing on or before July 1, 2025, including detached garages, regardless of whether such
+12 structures violate current dimensional requirements for setbacks or lot coverage. Any
+13 structurecontaininganaccessorydwellingunitapprovedandbuiltafterJuly1,2025shall
+14 receive protection from future zoning changes in accordance with RSA 674:39, II provided
+15 the structure meets the time periods for reaching active and substantial development in
+16 RSA674:39,I(a)andsubstantialcompletioninRSA674:39,I.
+17 (b) If an existing structure does not comply with current dimensional
+18 requirements for setbacks and lot coverage, a municipality may determine eligibility for
+19 placement of an accessory dwelling unit within an existing structure by requiring the
+20 applicantforthebuildingpermittodemonstrateeither:
+21 (1) The existing structure qualifies as a preexisting, nonconforming
+22 structure exempt from the currently applicable dimensional requirements for setbacks and
+23 lot coverage in accordance with RSA 674:19 or any local zoning regulation protecting non-
+24 conformingstructures;or
+25 (2) The existing structure receiveda prior zoningapproval or determination
+26 that it was exempt from the current dimensional requirements for setbacks and lot
+27 coverage.
+
+HB1079-ASAMENDEDBYTHESENATE
+-Page2-
+1 (c) An existing structure converted to an accessory dwelling unit, shall not
+2 constitute a change of use under RSA 674:19 or any local zoning regulations, which would
+3 causetheexistingstructuretoloseitsstatusasapreexistingnon-conformingstructure.
+4 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

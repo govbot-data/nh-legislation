@@ -1,0 +1,155 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1064-FN-ASINTRODUCED
+2026SESSION
+26-2298
+09/08
+1064-FN
+HOUSEBILL
+ANACT relativetoliabilityofgovernmentalunits.
+SPONSORS: Rep. Kuttab, Rock. 17; Rep. Lynn, Rock. 17; Rep. Berch, Ches. 6; Rep. Gregg,
+Hills.7;Rep.Drago,Rock.4;Rep.Litchfield,Rock.32;Sen.Birdsell,Dist19
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Modifies the standards and amounts for which a governmental unit may be held liable for
+negligenceresultinginpersonalinjuryorpropertydamage.
+II. Requirespoliticalsubdivisionstoindemnifyemployeesabsentwantononrecklessconductfor
+negligentconductresultinginpersonal injuryor propertydamage, iftheactionwas withinthescope
+oftheemployment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1064-FN-ASINTRODUCED
+26-2298
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoliabilityofgovernmentalunits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Bodily Injury Actions Against Governmental Units; Liability for Negligence RSA 507-B:2 is
+2 repealedandreenactedtoreadasfollows:
+3 507-B:2 LiabilityforNegligence.
+4 I. Agovernmentalunitmaybeheldliablefordamagesfor:
+5 (a) Bodily injury, personal injury, death, or property damages caused by the failure of
+6 thegovernmentalunitoritsofficialsoremployeesactingwithinthescopeoftheirauthoritytofollow
+7 theappropriatestandardofcarewhenthatdutywasowedtothepersonmakingtheclaim,including
+8 any right of action for money damages which either expressly or by implication arises from any law,
+9 unlessanotherremedyforsuchclaimisexpresslyprovidedbylaw;or
+10 (b) Property damages suffered by a governmental unit employee or official during the
+11 performance of that employee's or official's duties while on the governmental unit’s business where
+12 compensationisappropriateunderprinciplesofequityandgoodconscience;
+13 (c) Provided, however, that the liability of any governmental unit with respect to its
+14 sidewalks, streets, and highways shall be limited as provided in RSA 231 and the liability of any
+15 governmental unit with respect to publicly owned airport runways and taxiways shall be limited as
+16 setforthinRSA422.
+17 II. Theprovisionsofthischaptershallnotapplyto:
+18 (a) Any claim based uponanact or omission of anemployee or official of a governmental
+19 unit when such employee or official is exercising due care in the execution of any statute or any
+20 regulationofapublicemployer,oranymunicipalordinance.
+21 (b) Any claim based upon the exercise or performance or the failure to exercise or
+22 perform a discretionary executive or planning function or duty on the part of an employee or official
+23 ofagovernmentalunitactingwithinthescopeofhisofficeoremployment.
+24 2 Bodily Injury Actions Against Governmental Units; Limit of Liability. Amend RSA 507-B:4, I
+25 toreadasfollows:
+26 I. Liability of a governmental unit for bodily injury, personal injury or property damage
+27 sustained by any one person in actions brought under this chapter is limited to [$325,000] $475,000
+28 per claimant and $1,425,000 per any single incident, or the proceeds from any insurance
+29 policy,whicheveramountisgreater. Suchlimitappliesintheaggregatetoanyandallactionsto
+30 recover for bodily injury, personal injury or property damage sustained by one person in a single
+31 incident or occurrence. [Liability of a governmental unit for bodily injury, personal injury, or
+
+HB1064-FN-ASINTRODUCED
+-Page2-
+1 property damage sustained by any number of persons in a single incident or occurrence is limited to
+2 $1,000,000.] The limits applicable to any action shall be the limits in effect at the time of the
+3 judgmentorsettlement.
+4 3 Bodily Injury Actions Against Governmental Units; Insurance Policies Procured by
+5 GovernmentalAgency. AmendRSA507-B:7-atoreadasfollows:
+6 507-B:7-a Insurance Policies Procured by Governmental Agency. It shall be lawful for the state
+7 or any municipal subdivision thereof, including any county, city, town, school district, school
+8 administrative unit or other district, to procure the policies of insurance described in RSA 412 or
+9 participate in pooled risk management, or self-insurance, pursuant to RSA 5-B. In any
+10 action against the state or any municipal subdivision thereof to enforce liability on account of a risk
+11 so insured against, the insuring company or state or municipal subdivision thereof shall not be
+12 allowed to plead as a defense immunity from liability for damages resulting from the performance of
+13 governmental functions, and its liability shall be determined as in the case of a private corporation
+14 except when a standard of care differing from that of a private corporation is set forth by statute or
+15 common law; provided, however, that liability in any such case shall not exceed the limits of
+16 coverage specified in the policy of insurance or as to governmental units defined in RSA 507-B,
+17 liability shall not exceed the policy or pooled risk limit or the limit specified in RSA 507-B:4, if
+18 applicable, whichever is higher, or for self-insurance, the limit specified in RSA 507-B:4, and
+19 thecourtshallabateanyverdictinanysuchactiontotheextentthatitexceedssuchlimit.
+20 4 Political Subdivision Employees; Indemnification for Damages. Amend RSA 31:105 to read as
+21 follows:
+22 31:105 Indemnification for Damages. A city, town, county, village district or precinct, school
+23 district, chartered public school, school administrative unit, or any other municipal corporation or
+24 political subdivision [may by a vote of the governing body] shall indemnify and save harmless for
+25 lossor damage[occurringafter said vote] anypersonemployed byit and anymember or officer of its
+26 governing board, administrative staff or agencies including but not limited to selectmen, school
+27 board members, chartered public school trustees, city councilors and aldermen, town and city
+28 managers, regional planning commissioners, town and city health officers, overseers of public
+29 welfare, and superintendents of schools from personal financial loss and expense including
+30 reasonable legal fees and costs, if any, arising out of any claim, demand, suit, or judgment by reason
+31 of negligence or other act resulting in accidental injury to a person or accidental damage to or
+32 destruction of property if the indemnified person at the time of the accident resulting in the injury,
+33 damage, or destruction was acting in the scope of employment or office and such acts were not
+34 wantonorreckless.
+35 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2298
+11/4/25
+HB1064-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoliabilityofgovernmentalunits.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableDecrease
+RevenueFund(s) InternalServiceFund
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) VariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) N/A
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 IndeterminableIncrease
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+LocalExpenditures $0 (morethan$10,000to$100,000orlessper
+municipality)
+METHODOLOGY:
+This bill raises governmental liability for injury, death, or property damages caused by
+negligence of the governmental entity. Additionally, local government entities must financially
+protect their employees from personal liability if they are sued for causing bodily injury or
+propertydamagewhiledoingtheirjob,unlesstheemployeeactedrecklessly. Thisbillalsoraises
+the limits applicable for claims from $375,000 per claimant and $1 million per incident to
+$475,000perclaimantand$1.475millionperincident.
+The Department of Administrative Services (DAS) states the fiscal impact indeterminable. Both
+state revenues and expenditures could be affected, but the extent depends on variables such as
+thenumberofclaims,insurancearrangements,andagencytransfers.
+
+The New Hampshire Municipal Association (NHMA) states the bill could lead to indeterminable
+increases in local expenditures, primarily due to anticipated rises in property and liability
+insurance premiums. These increases could range from $10,000 to $100,000 per municipality
+over time, depending on the size and risk profile of the municipality. NHMA does not anticipate
+changesinlocalrevenues.
+The New Hampshire Association of Counties indicates the bill could result in an indeterminable
+increase in expenditures for public bodies found negligent due to the increases in the maximum
+payout. Variablessuchasthenumberofclaimsandinsurancearrangementsmakeitdifficultto
+determinetheimpactthisbillmighthaveoncountyexpenditures.
+AGENCIESCONTACTED:
+New Hampshire Municipal Association, New Hampshire Association of Counties, and
+DepartmentofAdministrativeServices

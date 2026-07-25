@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1153-FN-LOCAL-ASINTRODUCED
+2026SESSION
+26-2379
+08/05
+1153-FN-LOCAL
+HOUSEBILL
+ANACT relative to dog license fees and establishing a committee to study New Hampshire
+statutesrelativetocatsanddogs.
+SPONSORS: Rep.Bixby,Straf.13;Rep.N.Germana,Ches.15
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases dog license fees and establishes a committee to study the New Hampshire
+statutesrelativetocatsanddogs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1153-FN-LOCAL-ASINTRODUCED
+26-2379
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to dog license fees and establishing a committee to study New Hampshire
+statutesrelativetocatsanddogs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Fees;LicensingofDogs. AmendRSA466:4,I(a)toreadasfollows:
+2 I.(a) Thefeeforeverylicenseforayearorportionofayearshallbe:
+3 (1) [$4.50] $4.75 for dogs at least 4 months old but less than 7 months old which are
+4 not spayed or neutered and [$4.50] $4.75 for a neutered male or spayed female dog 7 months old or
+5 older; provided, however, that the owner or keeper of such spayed female dog or neutered male dog
+6 shall comply with the provisions of RSA 466:1-a to the satisfaction of the clerk of the town or city in
+7 whichsuchdogisownedorkept;or
+8 (2) [$7] $7.25 for any unneutered male or unspayed female dog 7 months old or
+9 older.
+10 2 Committee Established. There is established a committee to study the New Hampshire laws
+11 relativetodogsandcatsinRSA466.
+12 3 MembershipandCompensation.
+13 I. Themembersofthecommitteeshallbeasfollows:
+14 (a) Three members of the house of representatives, appointed by the speaker of the
+15 houseofrepresentatives.
+16 (b) Onememberofthesenate,appointedbythepresidentofthesenate.
+17 II. Members of the committee shall receive mileage at the legislative rate when attending to
+18 thedutiesofthecommittee.
+19 4 Duties. Thecommitteeshallreviewandassessthefollowing:
+20 I. Arestatutesconsistentwithcurrentregulatoryneedsandpractices?
+21 II. Istheorganizationofstatutorymaterialclear,concise,andreadilyavailable?
+22 5 Chairperson; Quorum. The members of the study committee shall elect a chairperson from
+23 among the members. The first meeting of the committee shall be called by the first-named house
+24 member. The first meeting of thecommitteeshall be held within45days of theeffectivedateof this
+25 section. Fourmembersofthecommitteeshallconstituteaquorum.
+26 6 Report. The committee shall report its findings and any recommendations for proposed
+27 legislation to the speaker of the house of representatives, the president of the senate, the house
+28 clerk,thesenateclerk,thegovernor,andthestatelibraryonorbeforeNovember1,2026.
+29 7 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2379
+10/21/25
+HB1153-FN-LOCAL-FISCALNOTE
+ASINTRODUCED
+ANACT relative to dog license fees and establishing a committee to study New Hampshire
+statutesrelativetocatsanddogs.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+IndeterminableIncreaselessthan$10,000
+LocalRevenue $0
+permunicipality
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+Thisbillincreasesdoglicensingfeesfrom$4.50to$4.75.
+The New Hampshire Municipal Association anticipates the fee increase proposed in this bill to
+result in a revenue impact of less than $10,000 per municipality, though the exact amount
+remainsuncertain.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

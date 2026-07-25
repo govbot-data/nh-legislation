@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1530-FN-ASINTRODUCED
+2026SESSION
+26-2740
+08/06
+1530-FN
+HOUSEBILL
+ANACT requiring notification of abutters and public review prior to disturbing beaver
+damsinnon-emergencysituations.
+SPONSORS: Rep.Colby, Merr.9; Rep.Darby, Hills.11; Rep.Stavis, Graf.13; Rep.Knab, Rock.
+12;Rep.C.Harvey,Ches.6;Rep.W.Thomas,Hills.12
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the removal of beaver dams or the result of beaver activity without a permit
+undercertaincircumstances. Thisbillalsorequiresnotificationandapublicmeetingbeforeremoval
+ofbeaverdamsforsharedwaterbodies.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1530-FN-ASINTRODUCED
+26-2740
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring notification of abutters and public review prior to disturbing beaver
+damsinnon-emergencysituations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ProtectionofBeaver;SharedWaterBodies. AmendRSA210:9toreadasfollows:
+2 210:9 ProtectionofBeaver.
+3 I. No person shall destroy or disturb or interfere in any manner with the dams or houses of
+4 beaver,withoutfirstobtainingaspecialpermitfromtheexecutivedirector.
+5 II. Notwithstanding paragraph I or any other provision of law or rule, a landowner, the
+6 landowner's agent, or any town or municipal or state official or employee, may destroy beaver,
+7 remove beaver dams, clear culverts blocked by beaver activity, cause any significant
+8 lowering of the water level in a beaver impoundment, or install one or more flow devices on
+9 property under their control to protect property, public highways, public trails, or bridges from
+10 damage or submersion. The landowner, [or] property owner, or landowner's agent shall be
+11 responsible for maintaining the flow device. Complete or partial dam removal or the installation or
+12 removal of a flow device shall be allowed without a permit under RSA 482-A if machinery does not
+13 enter the water and filling or dredging in or adjacent to surface water, wetlands, or their banks does
+14 not occur and shall be done in a gradual manner that does not allow a sudden release of impounded
+15 water so as to cause erosion, siltation, or a safety hazard downstream. For the purposes of this
+16 section,"beaverimpoundment"meansapondorwetlandcreatedorbuiltbybeavers.
+17 II-a.(a) Except in the case of an immediate threat to life or property, no landowner
+18 shall remove any beaver dam or cause any significant lowering of the water level in a
+19 shared beaver impoundment without first notifying the local governing body and
+20 conservation commission, if any, in the cities or towns where such dam or beaver
+21 impoundment is located, all abutters whose property interests will be directly affected by
+22 the removal or lowering of the water level at least 30 days prior to any action specified
+23 above.
+24 (b) The landowner intending to remove a beaver dam or significantly lower the
+25 waterlevelincooperationwiththelocalgoverningbodyofeachofthecitiesortowns,shall
+26 hold a public informational meeting at least 15 days prior to any action. The municipality
+27 shall publish a notice of the public informational meeting in a newspaper of general
+28 circulation in the county in which the action shall occur, or on the municipality's website,
+29 atleast7daysbeforethetimesetforthemeeting.
+
+HB1530-FN-ASINTRODUCED
+-Page2-
+1 (c) Such notice and public informational meeting are not required when
+2 installingaflowdevice.
+3 II-b. For purposes of [paragraph II] paragraphs II and II-a, the term "flow device" means
+4 one or more fence structures or other combination of fencing and piping used to discourage beaver
+5 damming, maintain water flow through an existing beaver dam, or minimize the risk of flooding by
+6 preventingthefurtherimpoundmentofwaterbehindabeaverdam. Theterm"shared"meansthe
+7 beaver impoundment covers or directly abuts land owned by another individual or a
+8 publiclyownedbeaverimpoundment.
+9 III. The executive director mayrequire the reportingof beaver takenpursuant to paragraph
+10 IIbyrulesmadeinaccordancewithRSA541-A.
+11 IV. Skins or unskinned carcasses taken under this section shall be sealed pursuant to RSA
+12 210:8beforesuchskinsorunskinnedcarcassesaresoldorgivenaway.
+13 V. The executive director or his or her agents shall provide advice relative to beaver control
+14 techniques when requested, including, when reasonably possible for a public informational
+15 meetingasdescribedinsubparagraphII-a(b).
+16 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2740
+12/4/25
+HB1530-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring notification of abutters and public review prior to disturbing beaver
+damsinnon-emergencysituations.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+FishandGameDepartment
+Expenditures* $0
+$10,000to$100,000PerYear
+FundingSource(s) FishandGameFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill would require landowners planning on removing or significantly lowering the water
+level of a “shared” beaver impoundment to notify the local governing body, conservation
+commission, and any abutting landowners at least 30 days prior to any action. It would also
+require the landowner to work with the local governing body of the city or town to hold a public
+informational meeting at least 15 days prior to any action. The term “shared” is defined as any
+beaverimpoundmentthatcoversordirectlyabutslandownedbyanotherindividualorapublicly
+owned beaver impoundment. This definition would therefore require the Fish and Game
+Department to follow this process for any beaver impoundments on Department owned land.
+This bill would also require Department staff to provide input or participate in any public
+informational meeting held as described above, regardless of ownership. The Department states
+this would result in a substantial increase in workload for existing staff and it cannot estimate
+how many informational meetings would need to be held under this new language. The
+
+Department states this could pull staff from existing responsibilities and could necessitate an
+additionalstaff member. The Department hasnot provided anydetails as topotential staffingit
+may need and estimates the cost could be between $10,000 and $100,000 per year. This bill
+providesneitherauthorizationnorappropriationfornewpersonnel.
+The New Hampshire Municipal Association states there may be a $10,000 or less impact, per
+municipality, associated with the requirements of this bill, if any informational meetings are
+held.
+ThisisnotexpectedtohaveanyimpactontheDepartmentofEnvironmentalServices.
+AGENCIESCONTACTED:
+Fish and Game Department, Department of Environmental Services, and New Hampshire
+MunicipalAssociation

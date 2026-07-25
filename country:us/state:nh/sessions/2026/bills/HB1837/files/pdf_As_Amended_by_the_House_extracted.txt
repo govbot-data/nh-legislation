@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1837-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0332h
+2026SESSION
+26-2990
+06/08
+1837-FN
+HOUSEBILL
+ANACT relativetotheNewHampshiremarinepatrol.
+SPONSORS: Rep. J. MacDonald, Carr. 6; Rep. Crawford, Carr. 3; Rep. Hamblen, Carr. 3; Rep.
+Peternel,Carr.6;Rep.Rung,Hills.12
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies boating laws by updating penalties, increasing mooring field fees, prohibiting
+certain operating practices, requiring vessel display standards, and removing specified safety
+provisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1837-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0332h 26-2990
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheNewHampshiremarinepatrol.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Penalties. AmendRSA270:18toreadasfollows:
+2 270:18 Penalty.
+3 I. If any person operates any boat required to be registered under RSA 270-E without
+4 registration, or violates any provision of RSA 270, or RSA 270-E, or any rule adopted by the
+5 department of safety relating to the equipment or operation of such boats, or does not exhibit, upon
+6 request, the certificate of registration of such boat to any duly authorized representative of the
+7 department, such person, and the owner of the boat if the boat is operated with his or her
+8 permissionorassent,shallbeguiltyofaviolation.
+9 II. Unless otherwise provided in statute, any person convicted of a violation of any
+10 provision of this chapter, or of any rule made under authority thereof, shall be fined $50
+11 plus penalty assessment for a first offense. For any subsequent offense committed during
+12 anycalendaryear,suchpersonshallbefined$100pluspenaltyassessment.
+13 2 Riding on Gunwales, Bow and Transom RSA 270-D:7 is repealed and reenacted to read as
+14 follows:
+15 270-D:7 Riding on Gunwales, Bow and Transom. No person shall operate a motorboat while a
+16 person is sitting on the gunwale, transom, or straddling the bow while the motorboat is in operation
+17 underway.
+18 3 Public and Congregate Mooring Fields, Permit Required. Amend RSA 270:67, I(c) to read as
+19 follows:
+20 (c) Each public mooring field applicant shall be assessed [a] an annual mooring fee [of
+21 $25 which shall be deposited in the navigation safety fund established under RSA 270-E:6-a]as
+22 specifiedinRSA270:62.
+23 4 Public and Congregate Mooring Fields; Permit Required. Amend RSA 270:67, II(c) to read as
+24 follows:
+25 (c) Each congregate mooring field applicant permitted by the director shall be assessed
+26 an annual mooring fee [of $25 for each mooring installed in the congregate mooring field which shall
+27 be deposited in the navigation safety fund established under RSA 270-E:6-a]as specified in RSA
+28 270:62.
+29 5 DisplayofNumbersandDecalsRequired. AmendRSA270-E:8toreadasfollows:
+30 270-E:8 DisplayofNumbersandDecalsRequired.
+
+HB1837-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 I. Every vessel required to be registered in this state shall display the boat fee decal under
+2 RSA270-E:5-aandthevesselnumbersissuedtothevesselaspartoftheregistrationprocess,unless
+3 thevesselisexemptundertheprovisionsofRSA270-E:9.
+4 II. The ownershall painton,attachor otherwise display toeachside of the forward
+5 half of the vessel the numbers assigned by the department not less than 3 inches in height,
+6 withblock letters of contrasting color, and they shall be clearly readable when the vessel is
+7 being operated. The numbers shall be maintained in legible condition. No numbers other
+8 than the numbers validly assigned to a vessel shall be painted, attached or otherwise
+9 displayedoneithersideoftheforwardhalfofsuchvessel.
+10 III. Any person who operates a vessel on the inland or tidal and coastal waters of this state
+11 without displaying the vessel numbers, boat fee decal, or other decal required by this chapter in the
+12 manner required bythis chapter, unless exempt under theprovisions of RSA270-E:9, shall beguilty
+13 ofaviolationforafirstoffenseandamisdemeanorforasecondoffense.
+14 6 Repeal. Thefollowingarerepealed:
+15 I. RSA270:46-a,relativetoboatsafetycourses.
+16 II. RSA270-D:2-c,III,relativetorentalboatsafetychecklists.
+17 7 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2990
+02/18/2026
+HB1837-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0332h)
+ANACT relativetotheNewHampshiremarinepatrol.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill modifies several boating-related statutes affecting penalties, safety requirements, and
+mooring fees. The bill standardizes violation penalties under RSA 270:18 by establishing a fine
+of $50 for a first offense and $100 for subsequent offenses within the same calendar year. The
+Department of Safety states the total fiscal impact anticipated with the change in the public
+mooring field fee is estimated to be less than $10,000 and change in fine criteria is
+indeterminable,asitwoulddependontheactivityoffutureenforcementefforts.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association

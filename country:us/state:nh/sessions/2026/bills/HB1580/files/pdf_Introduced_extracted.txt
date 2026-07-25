@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1580-FN-LOCAL-ASINTRODUCED
+2026SESSION
+26-3223
+07/08
+1580-FN-LOCAL
+HOUSEBILL
+ANACT relativetothetaxationofnon-primaryresidences.
+SPONSORS: Rep. Wheeler, Hills. 33; Rep. Leishman, Hills. 33; Rep. Coker, Belk. 2; Rep.
+Potenza,Straf.19;Rep.M.Smith,Straf.10
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillcreatesataxagainstpropertiesthatdonotactasprimaryresidences.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1580-FN-LOCAL-ASINTRODUCED
+26-3223
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothetaxationofnon-primaryresidences.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Taxation; Property Taxes; Non-Primary Residence Surcharge. Amend RSA 72
+2 byinsertingaftersection6-athefollowingnewsection:
+3 72:6-b Non-PrimaryResidenceSurcharge.
+4 I. Asusedinthissection:
+5 (a) “Non-primary residence” means any residential property, including single-family
+6 homes,condominiums,ormobilehomes,thatisnottheowner’sprincipalplaceofabode.
+7 (b) "Principal place of abode" means a dwelling where an owner resides for at least 183
+8 days per calendar year and lists as their residence for purposes of voter registration, driver’s license
+9 registration,ortaxfilingpurposes.
+10 (c) “Residential property”means anyrealestate, whetherimproved orunimproved, used
+11 primarilyforresidentialpurposes,includingstructuresandassociatedland.
+12 II.(a) An annual non-primary residence surcharge shall be levied on the assessed market
+13 valueofanyresidentialpropertyclassifiedasanon-primaryresidence.
+14 (b) The annual surcharge under subparagraph (a) shall be 0.75 percent of the assessed
+15 market value of the entire property, including all lands and structures, as determined by assessing
+16 officialsunderRSA75:1,inadditiontothestandardpropertytax.
+17 III.(a) ThesurchargeunderparagraphIIshallnotapplyto:
+18 (1) Propertiesusedastheowner’sprincipalplaceofabode.
+19 (2) Long-term rental properties leased for 6 or more consecutive months per year to
+20 thesametenant.
+21 (3) Propertieswithanassessedmarketvaluebelow$500,000.
+22 (4) PropertiesownedbyindividualsqualifyingforexemptionsunderRSA72:28,RSA
+23 72:35,orRSA72:39-b.
+24 (b) Owners may apply for exemptions annually by April 15, using forms prescribed by
+25 thedepartmentofrevenueadministration.
+26 IV.(a) Owners of residential properties shall annually certify the occupancy status of the
+27 propertyaspartoftheirfilingunderparagraphIII(b).
+28 (b) The department of revenue administration, pursuant to RSA 541-A, shall develop
+29 rules for identifyingnon-primary residences, includingverification throughresidency records, utility
+30 usage,orotherevidencemeasures.
+
+HB1580-FN-LOCAL-ASINTRODUCED
+-Page2-
+1 (c) Municipal assessing officials shall annually update and maintain a registry of non-
+2 primaryresidencesandreportcertificationsforusebythedepartmentofrevenueadministration.
+3 (d) A resident's willful failure to accurately certify a property's occupancy status shall
+4 resultanadditional10percentpropertysurcharge.
+5 V.(a) Allrevenues collectedunder thissectionshallberemittedtothemunicipalityinwhich
+6 the property is located, to be used exclusively for reducing municipal property taxes or funding local
+7 schools, infrastructure projects, conservation programs, or other services that benefit the
+8 community.
+9 (b) Municipalities shall report surcharge revenues and its use to the department of
+10 revenueadministrationannuallybyDecember31.
+11 VI. Property owners may appeal the classification of a property as a non-primary residence
+12 or the assessed surcharge to the municipal board of tax and land appeals within30 days of receiving
+13 theirtaxbill.
+14 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+
+LBA
+26-3223
+12/4/25
+HB1580-FN-LOCAL-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothetaxationofnon-primaryresidences.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $75,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 IndeterminableIncrease
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+Thisbillestablishesasurchargeof0.75%onpropertieswithavalueof$500,000ofmorethatare
+not primary residences which is a residential property not serving as the owner's principal place
+of abode for at least 183 days per year or not listed as the primary residence for voter
+registration, driver’s license registration, or tax filing purposes. Property owners must annually
+certify their property's occupancy status, and failure to do so accurately may result in an
+additional10% surcharge. Municipalities aretaskedwithmaintainingaregistryof non-primary
+residences and reporting surcharge revenues, which must be used for local purposes such as
+education, infrastructure, or conservation. The bill provides exemptions for long-term rentals
+andadditionalspecifiedpropertytypes.
+The Department of Revenue Administration (DRA) states this bill would result in an
+indeterminable increase in local property tax revenues beginning in FY 2027, as the number of
+
+qualifyingproperties is currentlyunknown. DRAwould beresponsiblefor developingexemption
+forms and rules for identifying non-primary residences, including verification of residency and
+estimatesacostof$75,000toupdatethemunicipaltaxratesettingportal.
+Additionally, DRA interprets the bill’s effective date as indicating that the surcharge would first
+apply to the 2027 property tax year, beginning April 1, 2027. The effective date of April 1, 2027
+would not allow sufficient time for implementation before the start of the tax year. Regarding
+the 10% penalty for failure to certify a property's occupancy status, the bill is unclear as to
+whether this refers to 10% of the 0.75% surcharge (i.e., 0.075% of the property’s value) or an
+additional10%surchargeonthefullassessedvalue. DRAassumestheformer,asitrepresentsa
+moreproportionatepenalty.
+The New Hampshire Municipal Association (NHMA) states the fiscal impact indeterminable due
+to the lack of statewide data on non-primary residences. NHMA estimates that if 1% of the
+state’s 400,000 single-family homes qualify, the surcharge could generate approximately $15
+million annually. NHMA acknowledges that while municipalities will incur new administrative
+costs the revenues would out way those costs. The figures below are estimates and may
+fluctuate, as the number of homes classified as 'non-primary residence' under this bill is
+currentlyunknown.
+· 1%of400,000homes=4,000homes
+· Minimumassessedvalueofhome=$500,000
+· Surchargerateperhome=0.75%
+· Surchargeperhome:
+o 500,000X0.0075=$3,750perhome
+· TotalRevenuefrom4,000homes:
+o 4,000X$3,750=$15,000,000
+The bill allows property owners to appeal to the Board of Tax and Land Appeals (BTLA), which
+could result in an indeterminable impact on BTLA’s administrative costs, as the volume of
+potentialappealsisunknown.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandNewHampshireMunicipalAssociation

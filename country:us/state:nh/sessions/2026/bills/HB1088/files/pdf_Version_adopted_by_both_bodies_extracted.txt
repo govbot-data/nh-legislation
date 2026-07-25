@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1088-FN-A-VERSIONADOPTEDBYBOTHBODIES
+04/09/2026 1268s
+4Jun2026...2153EBA
+2026SESSION
+26-2535
+08/05
+1088-FN-A
+HOUSEBILL
+ANACT transferring funding for the water well board from the general fund to a special
+nonlapsingfund.
+SPONSORS: Rep.Donnelly,Rock.25
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilltransfersfundingforthewaterwellboardfromthegeneralfundtoaspecialnonlapsing
+fund.
+Thisbillisarequestofthedepartmentofenvironmentalservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1088-FN-A-VERSIONADOPTEDBYBOTHBODIES
+04/09/2026 1268s
+4Jun2026...2153EBA 26-2535
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT transferring funding for the water well board from the general fund to a special
+nonlapsingfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Water Well Board Fund. Amend RSA 6:12,I (b) by inserting after
+2 subparagraph(410)thefollowingnewsubparagraph:
+3 (411) Moneys deposited in the water well board fund as established in RSA 482-B:4-
+4 a.
+5 2 New Section; Water Well Board Fund. Amend RSA 482-B by inserting after section 4 the
+6 followingnewsection:
+7 482-B:4-a WaterWellBoardFund. TheNewHampshirewaterwellboardfundisestablishedas
+8 a special fund in the state treasury. The fund shall be revolving, continually appropriated and
+9 nonlapsing. All fees, fines and civil penalties collected as provided in this chapter shall be paid into
+10 the state treasury immediately upon collection and credited to the water well board fund. The state
+11 treasurer shall invest the moneys deposited in accordance with RSA 6:8. Any earnings on fund
+12 moneys shall be added to the fund. The water well board fund shall be used to fund water well
+13 boarddutiesasoutlinedinthischapter.
+14 3 Fees;NewHampshireWaterWellBoard. AmendRSA482-B:14toreadasfollows:
+15 482-B:14 Fees.
+16 Fees received under this chapter shall be paid over to the state treasurer and deposited in the
+17 [generalfund]waterwellboardfundestablishedinRSA482-B:4-a.
+18 4 Enforcement and Penalties; New Hampshire Water Well Board. Amend RSA 482-B:16, VI to
+19 readasfollows:
+20 VI. All moneys collected under this section shall be forwarded to the state treasurer and
+21 deposited into the [general fund as unrestricted revenue] water well board fund established in
+22 RSA482-B:4-a.
+23 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2535
+4/14/26
+HB1088-FN-A-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1268s)
+ANACT transferring funding for the water well board from the general fund to a special
+nonlapsingfund.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+($121,300) ($242,600) ($242,600)
+GF GF GF
+Revenue $0
+$121,300 $242,600 $242,600
+WWBF WWBF WWBF
+RevenueFund(s) GeneralFundandWaterWellBoardFund(WWBF)
+($103,141) ($103,141)
+GF GF
+Expenditures* $0 $0
+$103,141 $103,141
+WWBF WWBF
+FundingSource(s) GeneralFundandWaterWellBoardFund(WWBF)
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the Water Well Board Fund as a special, nonlapsing, continually
+appropriated fund in the state treasury. All fees, fines, and civil penalties collected under RSA
+482-B would be deposited into this fund rather than the General Fund. The fund would be used
+tosupporttheoperationsanddutiesoftheWaterWellBoardandiseffectiveJanuary1,2027.
+The Department of Environmental Services states the Joint Legislative Committee on
+Administrative Rules recently approved a rule allowing the Water Well Board to charge a $100
+fee for each well completion report filed. Based on an average of 2,426 well completion reports
+submitted annually, the fee is expected to generate approximately $242,600 in annual revenue
+beginning July 1, 2026 (FY 2027). Currently, annual fee collections total approximately $43,480
+and are deposited into the General Fund. In addition, one full-time position (#18464) that
+administers the Water Well Board is funded by the General Fund at an annual cost of $103,141
+inFY2027.
+
+Under this bill, all Water Well Board-related revenues including the existing $43,480 and the
+newfeerevenuewillbedepositedintothenewlycreatedWaterWellBoardFundratherthanthe
+General Fund effective January 1, 2027. The total estimated revenue to the new fund in FY
+2027 is approximately $242,600, reflecting the Board’s revised fee structure and the
+consolidation of prior General Fund revenue. The position, which is currently funded through
+the General Fund, will instead be supported by the Water Well Board Fund. Due to the effective
+date occurring midway through FY 2027, it is assumed there will be no change to General Fund
+expenditures in FY 2027. Revenue collected in FY 2027 is assumed to be deposited into the
+General Fund during the first half of the year and into the Water Well Board Fund during the
+secondhalfoftheyear. BeginninginFY2028andcontinuingthereafter,thepositionisassumed
+to be fully funded by the Water Well Board Fund, resulting in a reduction in General Fund
+expenditures, and all associated revenue is assumed to be deposited into the Water Well Board
+Fund,resultinginareductioninGeneralFundrevenue.
+AGENCIESCONTACTED:
+Departmentof EnvironmentalServices

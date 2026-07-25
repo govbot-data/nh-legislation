@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate (2nd)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1718-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0582h
+05/07/2026 1791s
+05/14/2026 1909s
+2026SESSION
+26-3131
+06/08
+1718-FN
+HOUSEBILL
+ANACT relativetoauthorizingenergystorageinconnectionwithnetmetering.
+SPONSORS: Rep. Vose, Rock. 5; Rep. Cormen, Graf. 15; Rep. Bernardy, Rock. 36; Rep.
+Harrington, Straf. 18; Rep. Mattson, Ches. 18; Rep. McGhee, Hills. 35; Rep.
+Schneller, Hills. 2; Rep. D. Thomas, Rock. 16; Sen. Pearl, Dist 17; Sen. Watters,
+Dist4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds rulemaking authority for the department of energy regarding customer energy
+storagesystems, updates terminology, and authorizes the PUCto set compensation terms for energy
+storageexportschargedsolelyfromrenewablesources.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1718-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0582h
+05/07/2026 1791s
+05/14/2026 1909s 26-3131
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoauthorizingenergystorageinconnectionwithnetmetering.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Limited Electrical Energy Producers Definitions. Amend RSA 362-A:1-a, II-b to read as
+2 follows:
+3 II-b. "Eligible customer-generator" or "customer-generator" means an electric utility
+4 customer who owns, operates, or purchases power from an electrical generating facility either
+5 powered by renewable energy or which employs a heat led combined heat and power system, with a
+6 total peak generating capacity, or maximum nameplate rating, of up to and including one
+7 megawatt, except as provided for a municipal host as defined in paragraph II-c, that is located
+8 behindaretail meter onthecustomer's premises, is interconnected and operates inparallel withthe
+9 electric grid, and is used to offset the customer's own electricity requirements. Energy storage, as
+10 defined in RSA 374-H:1, III, may be added to such a generation facility without affecting
+11 the generation facility's size determination relating to its eligibility to net meter. Such
+12 energy storage,if configuredto allow electricity to be exportedto the grid,shall be charged
+13 onlyfromsuchgenerationfacility,exceptasprovidedforinRSA362-A:9,XXIV. Incremental
+14 generationaddedtoanexistinggenerationfacility,thatdoesnotitselfqualifyfornetmetering,shall
+15 qualify if such incremental generation meets the qualifications of this paragraph and is metered
+16 separatelyfromthe[nonqualifying]non-qualifyingfacility.
+17 2 New Paragraph; Customer Energy Storage Definitions. Amend RSA 374-H:1 by inserting
+18 afterparagraphIIthefollowingnewparagraph:
+19 II-a. "Department"meansthedepartmentofenergy.
+20 3 Customer Energy Storage Systems. Amend the introductory paragraph for RSA 374-H:2, I to
+21 readasfollows:
+22 I. The [commission] department shall adopt rules [or approve tariffs] clarifying policy for
+23 theinstallation[,] and interconnection[, and use] of energy storage systems by customers of utilities,
+24 while the commission may approve tariffs and issue orders in adjudicated proceedings
+25 that are consistent with such rules and pertain to the use of and utility compensation for
+26 such energy storage systems. The department and the commission [and] shall incorporate the
+27 followingprinciplesintotherulesandorders,respectively[orapprovedtariffs]:
+28 4 New Paragraph; Net Metering. Amend RSA 362-A:9 by inserting after paragraph XXIII the
+29 followingnewparagraph:
+
+HB1718-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 XXIV. The commission may determine terms and conditions for how a customer-generator
+2 may use and be compensated for exports to the grid from energy storage added to renewable energy
+3 generation sources in conjunction with net metering and related tariff provisions. The commission
+4 shall require such energy storage, if configured to allow electricity to be exported to the grid, to be
+5 charged only from such generation facility, unless charging is under the control of an entity other
+6 than the customer-generator or as otherwise authorized by the commission in an adjudicated
+7 proceeding.
+8 5 Customer Energy Storage; Customer Energy Storage Systems. Amend RSA 374-H:2, II to
+9 readasfollows:
+10 II. Nothinginthissectionaltersorsupersedeseither:
+11 (a) The principles of net energy metering under RSA 362-A:9, except to clarify that
+12 thecommissionhastheauthoritytoallowstorageaspartofthenetmetering;or
+13 (b) Any existing electrical permit requirements or any licensing or certification
+14 requirementsforinstallers,manufacturers,orequipment.
+15 6 Customer Energy Storage Systems; Department Safety Requirements. Amend RSA 374-H:2,
+16 I(b)toreadasfollows:
+17 (b) New Hampshire's consumers of electricity have a right to install, interconnect, and
+18 use energy storage systems on their property, subject to appropriate size and safety requirements
+19 established by the [commission]department, without the burden of unnecessary restrictions or
+20 regulations and without unduly discriminatory rates or fees, provided that such storage systems
+21 conformtolocalzoningordinancesandbuildingcodes.
+22 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3131
+5/18/26
+HB1718-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1909s)
+ANACT relativetoauthorizingenergystorageinconnectionwithnetmetering.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+$64,000 $131,000+ $137,000+
+(Utility (Utility (Utility
+Expenditures* $0 Assessments) Assessments) Assessments)
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+(State'sutility (State'sutility (State'sutility
+costs) costs) costs)
+UtilityAssessmentsunderRSA363-A:1,GeneralFund,HighwayFund,
+FundingSource(s)
+andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill authorizes energy storage to be added to net-metered renewable generation systems
+without affecting eligibility size limits, provided the storage system is charged solely from the
+renewable generation facility when exporting electricity to the grid unless otherwise authorized
+by the Public Utilities Commission (PUC). The bill also authorizes the PUC to determine the
+terms and conditions under which customer-generators may use and be compensated for exports
+to the grid from energy storage connected to renewable energy generation sources in conjunction
+
+withnetmeteringandrelatedtariffprovisions. Inaddition,thebillclarifiesstatutoryprovisions
+relatedtocustomerenergystoragesystems.
+TheDepartmentofEnergystatesthisbillupdatesthedefinitionofeligiblecustomergeneratorto
+allow energy storage to be added to and charged solely from a renewable generation facility
+without affecting the one megawatt size limit. The Department indicates these changes align
+with its current administrative responsibilities and that reviewing net metering applications
+under the updated criteria would not require additional staff or resources. Additionally, the
+Department states it is not possible to determine the fiscal impact on electricity costs, net
+meteringcompensation, or Class IIrenewable energy certificateobligations, and notes that costs
+could increase or decrease depending on system configuration. Because the State accounts for
+approximately 1% of total electricity purchases, an electric rate increase of $0.001 per kilowatt
+hourwouldresultinanestimatedStatecostincreaseofabout$77,000peryear.
+The Public Utilities Commission states this bill would require rulemaking and adjudicatory
+proceedings to establish terms and conditions for compensation of exports from storage systems
+charged solely from renewable energy. The Commission indicates it currently employs and is
+authorized to employ one full-time classified utility analyst, who is working at or near the
+position’s maximum utilization rate. Accordingly, the Commission anticipates needing one
+additional Miscellaneous Business Operations Specialist (13-1190 MISC BUS OPS SPECS-5
+SOC11-06) beginning January 1, 2027 to assist the Commission with analyzing, establishing,
+andadministeringalternativenetmeteringutilitytariffsforenergystoragesystems.
+The Commission estimates annual expenditures of $64,000 in FY 2027 (part year), $131,000 in
+FY2028,and$137,000inFY2029,fundedthroughtheUtilityAssessmentunderRSA363-A:1.
+Totheextentutilityassessments increasecountyand localutilityexpenditures couldalsoseean
+increase.
+AGENCIESCONTACTED:
+DepartmentofEnergyandPublicUtilitesCommission

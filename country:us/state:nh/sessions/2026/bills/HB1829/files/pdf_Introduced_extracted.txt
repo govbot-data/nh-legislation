@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1829-FN-ASINTRODUCED
+2026SESSION
+26-3092
+12/07
+1829-FN
+HOUSEBILL
+ANACT modifyingthedefinitionofpersistentlydangerousschools.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Nadeau, Rock. 4; Rep. L. Miner, Rock. 7; Rep.
+Freeman,Belk.8;Rep.Moffett,Merr.4;Rep.Terry,Belk.7
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds incidents of physical harm and persistently poor academic performance as
+qualifyingactsthatcanmakeaschoolpersistentlydangerous.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1829-FN-ASINTRODUCED
+26-3092
+12/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifyingthedefinitionofpersistentlydangerousschools.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Persistently Dangerous Schools; Definition Modified. Amend RSA 193-G:1, I to read as
+2 follows:
+3 I. A persistently dangerous school is a school in which 3 of the following acts have occurred
+4 asseparateincidentsduringtheperiodofoneschoolyearfor3consecutiveyears:
+5 (a) HomicideunderRSA630.
+6 (b) FirstorseconddegreeassaultunderRSA631:1andRSA631:2.
+7 (c) AggravatedfelonioussexualassaultunderRSA632-A:2.
+8 (d) ArsonunderRSA634:1.
+9 (e) RobberyasaclassAfelonyunderRSA636:1,III[;or].
+10 (f) UnlawfulpossessionorsaleofafirearmorotherdangerousweaponunderRSA159.
+11 (g) Incidents resulting in physical harm, including simple assault under RSA
+12 631:2-a, reckless conduct under RSA 631:3, criminal threatening under RSA 631:4, and
+13 studenthazingunderRSA631:7.
+14 (h) Persistently poor academic performance, including schools qualifying as
+15 targetedsupportandimprovementschoolspursuanttoRSA193:H-1,VII.
+16 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3092
+12/17/25
+HB1829-FN-FISCALNOTE
+ASINTRODUCED
+ANACT modifyingthedefinitionofpersistentlydangerousschools.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantisunabletocompleteafiscalnoteforthisbillasit
+is awaiting information from the Department of Education. The Department was initially
+contacted on 11/17/25 for a fiscal note worksheet, with follow-up contact made on 12/5/25.
+Whencompleted,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+AGENCIESCONTACTED:
+DepartmentofEducation

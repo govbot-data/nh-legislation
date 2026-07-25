@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1790-FN-ASINTRODUCED
+2026SESSION
+26-2999
+09/08
+1790-FN
+HOUSEBILL
+ANACT relative to involuntary admissions for certain individuals with a substance use
+disorder.
+SPONSORS: Rep.Long,Hills.26;Rep.Swanson,Hills.5
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill includes substance use disorder in the definition of mental illness for the purpose of
+evaluatingwhetherapersonmaybeinvoluntaryadmitted.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1790-FN-ASINTRODUCED
+26-2999
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to involuntary admissions for certain individuals with a substance use
+disorder.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MentalHealthServicesSystem. AmendRSA135-C:2,XV-atoreadasfollows:
+2 XV-a. "Substance use disorder" means the chronic or habitual consumption or
+3 ingestion of controlled substances or intentional inhalation of toxic vapors by a person to
+4 theextentthatsuchusesubstantiallyinjurestheperson'shealthorsubstantiallyinterferes
+5 with the person's social or economic functioning; or the person has lost the power of self-
+6 controlovertheuseofsuchcontrolledsubstancesortoxicvapors.
+7 XV-b. "Transitional housing program services" means a residential program that provides
+8 housing and support services to persons with serious and persistent mental illness through a
+9 contractwiththedepartmentofhealthandhumanservices.
+10 2 New Paragraph; Involuntary Emergency Admission. Amend RSA 135-C:27 by inserting after
+11 paragraphIIthefollowingnewparagraph:
+12 III. Notwithstanding RSA 135-C:2, X, as used in this subdivision, "mental illness" means a
+13 substantial impairment of emotional processes, or of the ability to exercise conscious control of one's
+14 actions, or of the ability to perceive reality or to reason, when the impairment is manifested by
+15 instances of extremely abnormal behavior or extremely faulty perceptions. It includes impairment
+16 primarily caused by substance use disorder, as that term is defined in RSA 135-C:2. It does not
+17 include impairment primarily caused by: epilepsy; intellectual disability; continuous or
+18 noncontinuousperiodsofintoxicationcausedbyalcohol;ordependenceuponoraddictiontoalcohol.
+19 3 NonemergencyInvoluntaryAdmission. AmendRSA135-C:34toreadasfollows:
+20 135-C:34 Involuntary Treatment Standard. The standard to be used by a court, physician, or
+21 psychiatristindeterminingwhetherapersonshouldbeadmittedtoareceivingfacilityfortreatment
+22 onaninvoluntarybasisshallbewhetherthepersonisinsuchmentalconditionasaresultofmental
+23 illness as to create a potentially serious likelihood of danger to himself or to others.
+24 Notwithstanding RSA 135-C:2, X, as used in this subdivision, "mental illness" means a
+25 substantial impairment of emotional processes, or of the ability to exercise conscious
+26 control of one's actions, or of the ability to perceive reality or to reason, when the
+27 impairment is manifested by instances of extremely abnormal behavior or extremely faulty
+28 perceptions. It includes impairment primarily caused by substance use disorder, as that
+29 term is defined in RSA 135-C:2. It does not include impairment primarily caused by:
+
+HB1790-FN-ASINTRODUCED
+-Page2-
+1 epilepsy; intellectual disability; continuous or noncontinuous periods of intoxication
+2 causedbyalcohol;ordependenceuponoraddictiontoalcohol.
+3 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2999
+Revised1/27/26
+HB1790-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to involuntary admissions for certain individuals with a substance use
+disorder.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable, Indeterminable,
+Revenue $0 $0 butpotentially butpotentially
+$2million+ $2million+
+RevenueFund(s) Privatepay/insurancerevenueformentalhealthtreatment
+Indeterminable, Indeterminable, Indeterminable,
+Expenditures* $0 butpotentially butpotentially butpotentially
+$40million+ $30million+ $30million+
+FundingSource(s) Generalfunds,privatepay/insurancepayments
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill amends RSA 135-Cto include substance use disorder (SUD) in thedefinition of “mental
+illness” for purposes of involuntary emergency admission and non-emergency involuntary
+admission to a receiving facility. As a result, individuals whose impairment is primarily caused
+by SUD could potentially be subject to involuntary admission if they meet the statutory danger
+criteria. The Department of Health and Human Services assumes the bill will result in
+increased demand for clinical evaluations, court hearings, and administrative processing for
+involuntaryadmissionsinvolvingSUDaswellasneedforadditionalpsychiatricstaff,legalstaff,
+case managers, Licensed Alcohol and Drug Counselors (LADC) and recovery coaches or peer
+supports to handle expanded eligibility. The bill will potentially require updates to Department
+systems (admission tracking, reporting) to reflect new statutory criteria. Finally, the
+Department assumes the bill will increase the number of beds needed in order to accommodate
+theincreaseinpatients.
+The Department expects that the bill's fiscal impact on New Hampshire Hospital (NHH) will be
+significant. Specifically, the Department assumes the increased need for beds will exceed
+current availability, creating a need for an estimated 70-bed facility to serve approximately 287
+
+annual patients, assuming a ninety-day stay per patient. A new facility is estimated to cost $40
+milliontoconstruct, withanannual operatingcost of about $33,302,200. Withanestimated five
+days covered by insurance at $1,599 per day, projected revenue would be approximately
+$2,294,600 per fiscal year. Eighty-five days would remain unpaid and funded through General
+Funds for an estimated $31,007,600 per year. The Department assumes that construction costs
+wouldbeincurredinFY27withoperationalcostsbeginninginFY28.
+The Department further anticipates that the increase in involuntary admissions will result in
+additional legal proceedings associated with petitions and hearings and psychiatric evaluations
+required to determine eligibility and risk. These services are mandated components of the
+process and would scale proportionally with any increase in volume. The Department
+anticipates an additional cost potentially exceeding $600,000 annually in new general fund
+obligations, assuming a 30 percent increase, with potential for higher costs depending on
+implementationandserviceutilizationrates.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

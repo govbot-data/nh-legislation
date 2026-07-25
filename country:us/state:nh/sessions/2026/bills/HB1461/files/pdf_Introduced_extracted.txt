@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1461-FN-LOCAL-ASINTRODUCED
+2026SESSION
+26-3214
+08/07
+1461-FN-LOCAL
+HOUSEBILL
+ANACT encouraging municipalities with sewage systems to extend system service to
+neighboringcommunities.
+SPONSORS: Rep. Veilleux, Hills. 34; Rep. Dargie, Hills. 43; Rep. Rung, Hills. 12; Rep. B. Boyd,
+Hills. 12; Rep. Dunn, Rock. 16; Rep. Pauer, Hills. 36; Rep. Edgar, Rock. 29; Sen.
+Watters,Dist4
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill encourages municipalities with sewage systems to extend system service to neighboring
+communities by creating an expedited review process for such applications and giving priority to
+suchprojectsduringadministrationofloanandgrantprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1461-FN-LOCAL-ASINTRODUCED
+26-3214
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT encouraging municipalities with sewage systems to extend system service to
+neighboringcommunities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Water Pollution and Waste Disposal; Duties of Department. Amend RSA
+2 485-A:4byinsertingafterparagraphXVIIthefollowingnewparagraph:
+3 XVII-a. The department shall establish anexpedited review process and target timelines for
+4 approvals required under this chapter, including permits under RSA 485-A:13 and plan approvals
+5 under RSA 485-A:29, for projects that extend municipal sewer service across municipal boundaries
+6 pursuanttoanagreementunderRSA53-Aandthatareconsistentwiththeregionalplanadoptedby
+7 the applicable regional planning commission under RSA 36, or are necessary to accommodate
+8 priority housing projects, economic development initiatives, or other community needs identified in
+9 either municipality's adopted master plan, or are otherwise consistent with state housing and
+10 infrastructure priorities, or are requested by the governing body of either the host municipality or
+11 receiving municipality. The commissioner shall adopt rules, pursuant to RSA 541-A, to implement
+12 thisparagraph.
+13 2 New Sections; Sewerage and Waste Disposal Systems; Intermunicipal Sewer Extensions.
+14 AmendRSA486byinsertingaftersection11thefollowingnewsections:
+15 486:11-a IntermunicipalSewerExtensions.
+16 I. The department of environmental services shall establish an expedited review process for
+17 applicationstoextendmunicipalsewerserviceacrossmunicipalboundarieswhere:
+18 (a) The host municipality and the receiving municipality have entered into an
+19 agreementunderRSA53-A;and
+20 (b) The extension is consistent with the regional plan adopted by the applicable regional
+21 planningcommissionunderRSA36,isnecessarytoaccommodatepriorityhousingprojects,economic
+22 developmentinitiatives,orothercommunityneedsidentifiedineithermunicipality'sadoptedmaster
+23 plan or is otherwise consistent state housing and infrastructure priorities, or is requested by the
+24 governingbodyofeitherthehostmunicipalityorreceivingmunicipality.
+25 II. The department shall give priority, within existing loan and grant programs
+26 administeredunderthischapter,toprojectsthatextendserviceunderthissection.
+27 III. Municipalities enteringintoagreements under this sectionmayrecover the proportional
+28 costs of construction and operation of the extension through user fees, assessments, or impact fees
+29 chargedtothereceivingmunicipalityordevelopersservedbytheextension.
+30 486:11-b CompellingNecessity;ApprovalofExtensions.
+
+HB1461-FN-LOCAL-ASINTRODUCED
+-Page2-
+1 I. This section shall apply only to municipal sewer systems that were substantially funded
+2 throughstateorfederalloanorgrantprograms. Incaseswherethecommissionerofthedepartment
+3 of environmental services determines that a compelling necessity exists, including but not limited to
+4 significant public health risks, material barriers to meeting state housing goals, or demonstrable
+5 economic harm of regional importance, the commissioner may require that a proposed
+6 intermunicipalsewerextensionbeapprovednotwithstandinglocalrefusal,providedthat:
+7 (a) Adequate treatment capacity exists or may reasonably be provided through
+8 expansion;
+9 (b) Neither existing sewer ratepayers nor general taxpayers of the host municipality
+10 shallbearincreasedcostssolelyasaresultofsuchextension,excepttotheextentthattheexpansion
+11 alsoprovidesadirectbenefittothem;and
+12 (c) The requesting municipality or the developers to be served shall be responsible for
+13 the proportional costs of construction, operation, and expansion necessary to provide such service,
+14 net of any grants, loan forgiveness, or other financial assistance available through state or federal
+15 programs.
+16 II. Priortoissuinganorderunderthissection,thecommissionershallprovidenoticeandan
+17 opportunityforhearingtotheaffectedmunicipalities.
+18 III. The commissioner may adopt rules, pursuant to RSA 541-A, to implement this section,
+19 including procedures for petitions, determinations of compelling necessity, cost allocation, and
+20 disputeresolution.
+21 3 New Section; Aid to Municipalities for Water Pollution Control; Intermunicipal Extensions;
+22 Priority. AmendRSA486byinsertingaftersection14thefollowingnewsection:
+23 486:14-a IntermunicipalSewerExtensions;Priority.
+24 I. Within existing loan and grant programs administered under this chapter, the
+25 department of environmental services shall give priority to projects that extend municipal sewer
+26 service across municipal boundaries pursuant to an agreement under RSA 53-A and that are
+27 consistent with the regional plan adopted by the applicable regional planning commission under
+28 RSA 36, or are necessary to accommodate priority housing projects, economic development
+29 initiatives, or other community needs identified in either municipality's adopted master plan, or are
+30 otherwise consistent with state housing and infrastructure priorities, or are requested by the
+31 governingbodyofeitherthehostmunicipalityorreceivingmunicipality.
+32 II. The commissioner shall adopt rules, pursuant to RSA 541-A, establishing application
+33 rankingcriteriaanddocumentationrequirementstoimplementthissection.
+34 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3214
+11/30/25
+HB1461-FN-LOCAL-FISCALNOTE
+ASINTRODUCED
+ANACT encouraging municipalities with sewage systems to extend system service to
+neighboringcommunities.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill requires the Department of Environmental Services (DES) to create an expedited
+review process for applications to extend municipal sewer service across municipal boundaries
+and establishes several criteria that make projects eligible for expedited consideration and
+priority within existing DES loan and grant programs. The bill also creates a “compelling
+necessity”processthatauthorizestheDEScommissionertoevaluatepetitionsand,whencertain
+public health, housing, or economic conditions are met, order approval of an intermunicipal
+sewerextension.
+DES states that any administrative costs associated withimplementing this bill can be absorbed
+within its existing budget. The bill would not change state expenditures, as no additional State
+Aid Grant (SAG) funding is provided and interconnection projects would compete within the
+existing SAG program. Local expenditures are indeterminable because it is unknown how many
+municipalities would choose to pursue interconnection projects. Sewer infrastructure typically
+costs more than $1.5 million per mile, so participation by local communities could result in
+significant local costs. Prioritizing interconnection projects within existing SAG resources may
+affect the timing or selection of other municipal sewer projects, as proposed projects currently
+exceedavailablefunding.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

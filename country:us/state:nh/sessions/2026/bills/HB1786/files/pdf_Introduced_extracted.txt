@@ -1,0 +1,361 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1786-FN-ASINTRODUCED
+2026SESSION
+26-2921
+06/09
+1786-FN
+HOUSEBILL
+ANACT relative to creating a state assessment on non-homestead luxury second homes to
+fund statewide housing development programs and address housing shortages
+andmakingappropriationstherefor.
+SPONSORS: Rep. Muns, Rock. 29; Rep. Booras, Hills. 8; Rep. de Vries, Rock. 29; Rep. Hegner,
+Hills. 41; Rep. Howland, Straf. 20; Rep. Lane, Merr. 16; Rep. D. Paige, Carr. 1;
+Rep. Preece, Hills. 17; Rep. Read, Rock. 10; Rep. Stavis, Graf. 13; Sen. Altschiller,
+Dist24;Sen.PerkinsKwoka,Dist21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Establishes a framework to expand affordable housing and housing-related infrastructure
+throughfinancing,taxcredits,workforcedevelopment,andmunicipalincentives.
+II. Establishes a multi-stakeholder commission to study how to leverage the state’s borrowing
+powertoprovidebelow-marketfinancingforhousingandinfrastructure,includingrecommendations
+foradedicatedinvestmentfund.
+III. Expands the community development finance authority’s investment tax credit program in
+phased amounts from FY 2026 to FY 2033, exclusively for housing and housing-related
+infrastructureprojects.
+IV. Offsets the expanded tax credits by transferring equivalent revenue from a new luxury
+secondhomestateassessment.
+V. Appropriates $15 million to the state workforce innovation fund to support building trades
+training,apprenticeships,tuitionassistance,andsupplementalapprenticewages.
+VI. Provides designated municipalities with access to grants, loans, expedited approvals, and
+financingtoolstoencouragehousingproductionandinfrastructuredevelopment.
+VII. Creates a nonlapsing fund to support municipal demolition of vacant or dilapidated
+buildings,administeredbythedepartmentofbusinessandeconomicaffairs.
+VIII. Establishes a fund to assist regional planning commissions in updating housing needs
+assessmentsandfairsharemodels.
+IX. Imposes a semi-annual assessment on residential properties over $1 million not used as a
+primary residence, with proceeds allocated to multiple housing-related programs and planning
+efforts
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+
+HB1786-FN-ASINTRODUCED
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1786-FN-ASINTRODUCED
+26-2921
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to creating a state assessment on non-homestead luxury second homes to
+fund statewide housing development programs and address housing shortages
+andmakingappropriationstherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act shall be known as the "Fair Chance for Everyone Housing Development
+2 Act".
+3 2 StatementofPurpose. Thegeneralcourtherebyfindsthat:
+4 I. The lack of affordable single-family homes and apartments is generally regarded as one–
+5 ifnot,themostimportant–issuesfacingourstate.
+6 II. The 2023 Statewide Housing Assessment published by the New Hampshire housing
+7 authoritysaidthatbasedonestimatedpopulationgrowth,wewillneedanadditional60,000units of
+8 housinginourstatebefore2030andatotalof90,000unitsbefore2040.
+9 III. There are many aspects to the problem and there is not one simple solution. State
+10 government will not “solve” this problem, but it can provide incentives to local authorities and the
+11 private sector to collaborate and address this challenge head on. This act hopes to provide some of
+12 thoseincentives.
+13 3 New Chapter; Fair Chance for Everyone Housing Development. Amend RSA by inserting
+14 afterchapter21-Vthefollowingnewchapter:
+15 CHAPTER21-W
+16 FAIRCHANCEFOREVERYONEHOUSINGDEVELOPMENT
+17 21-W:1 Purpose. The purpose of this chapter is to address New Hampshire’s urgent housing
+18 shortage by leveraging state financing capacity, expanding investment incentives, and supporting
+19 municipal and workforce development programs to increase the supply of affordable housing and
+20 housing-relatedinfrastructure.
+21 21-W:2 CommissionEstablished;HousingandInfrastructureFinancing.
+22 I. There is established a commission to study how to fully leverage the borrowing power of
+23 thestatetoprovidebelow-marketfinancingforhousingdevelopmentandrelatedinfrastructure.
+24 II. Thecommissionshallconsistof:
+25 (a) Twomembersofthehouseofrepresentatives,appointedbythespeakerofthehouse.
+26 (b) Twomembersofthesenate,appointedbythepresidentofthesenate.
+27 (c) Thestatetreasurer,ordesignee.
+28 (d) Theexecutivedirectorofthebusinessfinanceauthority,ordesignee.
+29 (e) Theexecutivedirectorofthehousingfinanceauthority,ordesignee.
+
+HB1786-FN-ASINTRODUCED
+-Page2-
+1 (f) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+2 (g) Theexecutivedirectorofthecommunitydevelopmentfinanceauthority,ordesignee.
+3 (h) Theexecutivedirectorofthemunicipalbondbank,ordesignee.
+4 (i) Thepresidentofthecommunityloanfund,ordesignee.
+5 (j) Thecommissionerofthebankingdepartment,ordesignee.
+6 (k) One representative each from the New Hampshire Bankers Association, Housing
+7 Action NH, New Hampshire Homebuilders Association, New Hampshire Municipal Association, and
+8 NewHampshireBusinessandIndustryAssociation.
+9 (l) Up to 3 municipal finance professionals from academia or the investment industry,
+10 appointedjointlybythespeakerofthehouseofrepresentativesandthepresidentofthesenate.
+11 III. Thecommissionshall:
+12 (a) Evaluatetheallocationanduseofthestate’sprivateactivitybondcap.
+13 (b) Identifyotherlow-costortax-exemptfundingmechanisms.
+14 (c) Assess the feasibility of a Housing and Infrastructure Development Investment
+15 Fund,includingbutnotlimitedto:
+16 (1) Recommend fund structure, how private housing and infrastructure developers
+17 willaccessthefund,repaymentmechanisms,andadministrativeoversight.
+18 (2) Analyzeimpactsonstatedebtaffordabilityandcreditratings.
+19 (3) Recommendstatutorychangesneededtoimplementthefund.
+20 IV. The commission shall hold its first meeting within 45 days of the effective date of this
+21 act, called by the first-named house member. The commission shall elect a chair from among its
+22 members.
+23 V. The commission shall report its findings and any recommendations for proposed
+24 legislation to the speaker of the house, president of the senate, house clerk, senate clerk, governor,
+25 andstatelibraryonorbeforeAugust1,2027.
+26 21-W:3 CommunityDevelopmentFinanceAuthority;InvestmentTaxCreditExpansion.
+27 I. The community development finance authority may allocate additional investment tax
+28 creditsasfollows:
+29 (a) $2,500,000infiscalyears2026–2027,toatotalof$10million.
+30 (b) $5,000,000infiscalyears2028–2029,toatotalof$12.5million.
+31 (c) $7,500,000infiscalyears2030–2031,toatotalof$15million.
+32 (d) $10,000,000infiscalyears2032–2033,toatotalof$17.5million.
+33 II. The additional credits shall be used exclusively for housing or housing-related
+34 infrastructureprojects.
+35 III. Credits shall be equal to 75 percent of the amount paid in business profits tax, business
+36 enterprisetax,orinsurancepremiumtax.
+
+HB1786-FN-ASINTRODUCED
+-Page3-
+1 IV. Tooffsettherevenuereduction,equivalentamountsshallbetransferredfromtheluxury
+2 secondhomestateassessmentestablishedinRSA76:22.
+3 21-W:4 Luxury Second Home State Assessment. The luxury second home state assessment
+4 establishedinRSA76:22shallbeusedtofundthehousingprogramsdescribedinthischapter.
+5 21-W:5 WorkforceDevelopment.
+6 I. The sum of $15,000,000 is hereby appropriated to the state workforce innovation fund
+7 establishedinRSA12-O:45forthefollowingpurposes:
+8 (a) $2,500,000 to expand building trades training at regional career and technical
+9 centersandcommunitycolleges.
+10 (b) $2,500,000 to support apprenticeship programs within building trades unions and
+11 housingcontractors.
+12 (c) $5,000,000 for tuition assistance and loan forgiveness for students entering the
+13 trades.
+14 (d) $5,000,000forsupplementalapprenticewages.
+15 II. The department of business and economic affairs shall administer tax credits for
+16 apprenticeprogramsponsors.
+17 21-W:6 HousingChampionIncentives.
+18 I. Municipalitiesdesignatedashousingchampionsshallbeeligiblefor:
+19 (a) HousingproductionandinfrastructuregrantsunderRSA12-O:73.
+20 (b) PropertytaxassessmentholidaysunderRSA79-A.
+21 (c) Expeditedstateapprovalsandpriorityforprojectsrequiringstateapprovals.
+22 (d) Additional funding if they collaborate with other neighboring housing champion
+23 designatedcommunitiesonhousingand/orinfrastructureinitiatives.
+24 (e) Accesstolow-costfinancingandCDFAtaxcredits.
+25 II. Municipalitiesthathavenotalreadyappliedtobedesignatedashousingchampions:
+26 (a) Shall immediately qualify for a grant under the housing planning regulation grant
+27 program established in RSA 12-O:72 to assist with their application. Priority shall be given to
+28 communities that, within the past 3 years, have adopted a land use regulation that scores on the
+29 housingchampionsscoringmatrix.
+30 (b) The criteria for housing champion designation shall be grandfathered once a
+31 municipalitysubmitsanapplication.
+32 (c) Developers of workforce housing in applicant communities shall retain eligibility for
+33 stateassistanceduringtheapplicationperiod.
+34 (d) Municipalities receiving planning grants shall submit a complete application within
+35 2years.
+36 (e) The department of business and economic affairs shall review housing champion
+37 applicationswithin90daysandissuefinaldeterminationswithin180days.
+
+HB1786-FN-ASINTRODUCED
+-Page4-
+1 21-W:7 Municipal Demolition Grant Program Fund Established. There is hereby established in
+2 the state treasury the municipal demolition grant program fund. The fund shall be administered by
+3 the department of business and economic affairs and used to provide grants to municipalities for the
+4 demolition of vacant or dilapidated buildings. The department shall adopt rules under RSA 541-A
+5 relative to eligibility, application procedures, and reporting requirements. The fund shall be
+6 nonlapsingandshallbecontinuallyappropriatedtothedepartmentforthepurposesofthissection.
+7 21-W:8 Regional Planning Commission Housing Assessment Support Fund Established. There
+8 is hereby established in the state treasury the regional planning commission housing assessment
+9 support fund. The fund shall be administered by the office of planning and development within the
+10 department of business and economic affairs and used to assist regional planning commissions in
+11 updating housing needs assessments, including 5-year updates to the fair share housing production
+12 model and county-level fair share tables. The fund shall be nonlapsing and shall be continually
+13 appropriatedtothedepartmentforthepurposesofthissection.
+14 4 New Paragraphs; State Treasurer; Special Funds. Amend RSA 6:12, I(b) by inserting after
+15 subparagraph(410)thefollowingnewsubparagraphs:
+16 (411) ThemunicipaldemolitiongrantprogramfundestablishedinRSA21-W:7.
+17 (412) The regional planning commission housing assessment support fund
+18 establishedinRSA21-W:8.
+19 5 New Subdivision; Non-Homestead Property Assessment. Amend RSA 76 by inserting after
+20 section21thefollowingnewsubdivision:
+21 Non-HomesteadPropertyAssessment
+22 76:22 Non-HomesteadPropertyAssessment.
+23 I. Anon-homesteadpropertyassessmentisherebyestablishedonresidentialpropertieswith
+24 an assessed value over $1,000,000 that are not used as a primary residence for at least 183 days per
+25 year.
+26 II. Theassessmentshallbe$2.50per$500ofassessedvalueabove$1,000,000.
+27 III. The $1,000,000 threshold shall be adjusted annually for inflation beginning January 1,
+28 2028.
+29 IV. Property owners may file a homestead declaration with the department of revenue
+30 administrationtoclaimexemption.
+31 V. ThedepartmentshalladoptrulesunderRSA541-Atoadministertheassessment.
+32 VI. The assessment shall be paid directly to the state of New Hampshire semi-annually,
+33 withthefirstpaymentduenolaterthanJune30,2027.
+34 6 Appropriation;HousingDevelopmentFundAllocations.
+35 I. There is hereby appropriated to the dedicated housing development fund the following
+36 sumsforthepurposesspecified:
+
+HB1786-FN-ASINTRODUCED
+-Page5-
+1 (a) The sum of $7,500,000 for the fiscal year ending June 30, 2027, and the sum of
+2 $14,500,000 annually thereafter, to be allocated to the affordable housing fund established under
+3 RSA204-C:57.
+4 (b) The sum of $2,500,000 for the fiscal year ending June 30, 2027, and the sum of
+5 $5,000,000 annually thereafter, to be allocated to the housing infrastructure municipal grant
+6 programestablishedunderRSA12-O:73.
+7 (c) The sum of $1,250,000 for the fiscal year ending June 30, 2027, and the sum of
+8 $2,500,000 annually thereafter, to be allocated to the housing planning and regulation grant
+9 programestablishedunderRSA12-O:72.
+10 (d) The sum of $1,250,000 for the fiscal year ending June 30, 2027, and the sum of
+11 $2,500,000annuallythereafter,tobeallocatedtothepartnersinhousingprogramestablishedunder
+12 RSA12-O:72-a.
+13 (e) The sum of $1,250,000 for the fiscal year ending June 30, 2027, and the sum of
+14 $2,500,000 annually thereafter, to be allocated to the housing production municipal grant program
+15 establishedunderRSA12-O:73.
+16 (f) The sum of $1,250,000 for the fiscal year ending June 30, 2027, and the sum of
+17 $2,500,000annuallythereafter,tobeallocatedtothemunicipaldemolitiongrantprogram.
+18 (g) The sum of $250,000 for the fiscal year ending June 30, 2027, and the sum of
+19 $500,000annuallythereafter,tobeallocatedtotheregionalplanningcommissions.
+20 (h) The sum of $468,750 for the fiscal year ending June 30, 2027, and the sum of
+21 $937,500 annually thereafter, to be deposited into the general fund to offset CDFA tax credit
+22 expansion.
+23 II. The governor is authorized to draw a warrant for said sums out of any money in the
+24 treasurynototherwiseappropriated,forthepurposesspecifiedinthissection.
+25 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2921
+Revised12/30/25
+HB1786-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to creating a state assessment on non-homestead luxury second homes to
+fund statewide housing development programs and address housing shortages
+andmakingappropriationstherefor.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+IndeterminableIncrease
+Revenue $0 $0
+(estimatedat$31,000,000+perFY)
+RevenueFund(s) GeneralFundandEducationTrustFundandVariousDedicatedFunds
+Expenditures* $0 $32,355,750 $31,692,000 $31,722,000
+FundingSource(s) VariousDedicatedFundsandGeneralFund(seebreakdownbelow)
+Appropriations* $0 $30,718,750 $30,937,500 $30,937,500
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 IndeterminableIncrease
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+ThisbillestablishestheFairChanceforEveryoneHousingDevelopmentAct,whichintroducesa
+new assessment on residential properties valued over $1 million that are not used as a primary
+residence for at least 183 days per year. It also creates a commission to explore leveraging the
+state’s borrowing power to provide below-market financing for housing and infrastructure
+development. In addition, the bill expands Community Development Finance Authority (CDFA)
+tax credits and appropriates general funds to several dedicated housing-related programs.
+Appropriationallocationsaredetailedinthetablebelow.
+AllocationofAppropriation FY2027 FY2028&Annually
+Thereafter
+AffordableHousingFund $ 7,500,000 $ 14,500,000
+
+HousingInfrastructureMunicipal $ 2,500,000 $ 5,000,000
+GrantProgram
+HousingPlanningandRegulation $ 1,250,000 $ 2,500,000
+GrantProgram
+PartnersinHousingProgram $ 1,250,000 $ 2,500,000
+HousingProductionMunicipal $ 1,250,000 $ 2,500,000
+GrantProgram
+MunicipalDemolitionGrant $ 1,250,000 $ 2,500,000
+Program
+RegionalPlanningCommissions $ 250,000 $ 500,000
+GeneralFund(tooffsetCDFATax $ 468,750 $ 937,500
+creditexpansion)
+WorkforceInnovationFund* $ 15,000,000 $ -
+Total $ 30,718,750 $ 30,937,500
+*The $15,000,000 appropriation to the Workforce Innovation Fund doesn't specify the funding
+source nor does is specify an appropriation date. The table assumes the appropriation will be
+made from the General fund and is assumed to be deposited on January 1, 2027, the effective
+dateofthebill.
+The Department of Business and Economic Affairs states this bill would increase state
+expenditures beginning in FY 2027. The Department indicates the Office of Workforce
+Opportunity would receive a one time appropriation of $15,000,000 in FY 2027 to expand
+building trades training, support apprenticeship programs, provide tuition assistance and loan
+forgiveness, and supplement apprentice wages. In addition, the Department states the Division
+of Planning and Community Development would be responsible for administering a new
+municipal demolition grant program, which would require program development, rulemaking,
+and fund administration. To manage the $15,000,000 for the expansion of the building trade
+training and the new municipal demolition grant program, the Department anticipates the need
+for at least two new full time positions (13-1110 Management Analysis-2 – SOC 13, pay band 5;
+step 1), with estimated costs of $174,000 in FY 2027, $182,000 in FY 2028, and $190,000 in FY
+2029. The Department notes the bill does not clearly identify funding for program
+administration,whichmaylimitimplementation.
+The Department of Revenue Administration (DRA) indicates anindeterminable increase in state
+revenues beginning in FY 2028 due to the new Non-Homestead Property Assessment (NHPA).
+The newly established NHPA is $2.50 per $500 of assessed value in excess of $1,000,000,
+applicabletoresidentialpropertieswithanassessedvalueover$1,000,000thatarenotusedasa
+primary residence for at least 183 days per year. Property owners would be entitled to file a
+homestead declaration with DRA to be exempted from the assessment. DRA estimates potential
+
+revenue of approximately $31 million+ annually from the NHPA, based on 2024 property data
+andsecond-homeownershiprates. Seebreakdowninthetablebelow.
+Total Average TotalAssessed %2nd Estimated EstimatedTotal Taxable Revenueat
+Home Assessed Value Homes Countof AssessedValue Value $2.50per
+Count Value 2nd of2ndHomes $500of
+Homes Taxable
+Value
+35,004 $1,707,182 $59,758,181,553 17.3% 6,064 $12,266,870,143 $6,202,870,143 $31,014,351
+DRA states there are significant implementation challenges, including the need for a new
+property tax billing and collection system as the DRA currently only provides support to
+municipalities in administering property taxes and does not directly perform billing or collection
+itself, seven new staff positions (3 Tax Examiner II's. 3 Tax Examiner III's, and 1 Collections
+Officer II), as well as annual mailing costs at $38,500 beginning in FY 2028. While DRA
+estimates an approximate cost of $1,200,000 for system upgrades the request for a true estimate
+is still pending. Therefore the total estimated costs for DRA are $1,463,000 in FY 2027,
+$572,500inFY2028,and$594,500inFY2029. Seethecostbreakdownbelow.
+ESTIMATEDFISCALIMPACT(ROUNDED)
+FY2027 FY2028 FY2029
+TaxExaminerII'sEquipment/Salaryand $105,000 $213,000 $222,000
+Benefits
+(3positions)
+TaxExaminerIII'sEquipment/Salaryand $114,000 $231,000 $240,000
+Benefits
+(3positions)
+CollectionsOfficerIIEquipment/Salary $44,000 $90,000 $94,000
+andBenefits
+(1position)
+RIMSSystemUpgrades $1,200,000 $0 $0
+MailingCosts $0 $38,500 $38,500
+TotalEstimatedCost $1,463,000 $572,500 $594,500
+Additionally, DRA states even with immediate funding, the system likely wouldn’t be
+operational until summer 2027, with revenue collection beginning in FY 2028 due to the timing
+of equalization studies, exemption processing, and billing. DRA also notes ambiguity regarding
+fund allocations and the Community Development Finance Authority (CDFA) tax credits as well
+as the Workforce Innovation Fund tax credits, making a precise fiscal impact estimates difficult.
+DRA notes however, that CDFA tax credits would not likely be useful to municipalities, who do
+notpaythetaxesagainstwhichthosecreditsmaybeclaimed.
+
+The New Hampshire Municipal Association (NHMA) notes that municipalities may experience
+increased costs from expanded housing development, including greater demand for public
+services and potential appeals of high-value property assessments. While municipalities could
+receive new revenue through grants and incentives, the overall fiscal impact is considered
+indeterminable because the timing of municipal participation, housing growth, and associated
+servicedemandswillvaryacrosscommunities.
+AGENCIESCONTACTED:
+DepartmentofBusinessandEconomicAffairs,DepartmentofRevenueAdministration,andNew
+HampshireMunicipalAssociation

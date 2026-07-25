@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1042-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0859h
+04/16/2026 1388s
+4Jun2026...2071CofC
+4Jun2026...2182EBA
+2026SESSION
+26-3166
+07/05
+1042
+HOUSEBILL
+ANACT relative to the cap on outstanding obligations for which the housing finance
+authorityisallowed.
+SPONSORS: Rep.Sweeney,Rock.25;Sen.Abbas,Dist22
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill raises the cap on outstanding obligations for which the housing finance authority is
+allowedandincreasesthebondingauthorityforthehousingfinanceauthority.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1042-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0859h
+04/16/2026 1388s
+4Jun2026...2071CofC
+4Jun2026...2182EBA 26-3166
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the cap on outstanding obligations for which the housing finance
+authorityisallowed.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 HousingFinanceAuthority;GeneralObligations. AmendRSA204-C:28toreadasfollows:
+2 204-C:28 GeneralObligations.
+3 I. Except as may otherwise be expressly provided by resolution of the authority, every issue
+4 of its notes and bonds shall be general obligations of the authority payable out of any revenues or
+5 moneysoftheauthority,subjectonlytoanyagreementswiththeholdersofparticularnotesorbonds
+6 pledging any particular revenues. The authority shall not at any time have outstanding obligations,
+7 other than obligations to which paragraph II applies, the unpaid principal amount of which is in
+8 excess of [$600,000,000] $1,000,000,000 in the aggregate. In computing the total amount of
+9 obligations of the authority which may at any time be outstanding for any purpose under this
+10 chapter, the amount of the outstanding obligations refunded or to be refunded from the proceeds of
+11 thesaleofnewobligationsorbytheexchangeofnewobligationsshallbeexcluded.
+12 II. In addition to the obligations which the authority may have outstanding under
+13 paragraphI,theauthoritymayissuenotesandbondsnotinexcessof[$800,000,000]$1,000,000,000
+14 for the purposes specified in this paragraph. Such notes and bonds shall constitute general
+15 obligations of the authority payable out of any revenues or moneys of the authority, subject only to
+16 any agreements with the holders of particular notes or bonds pledging any particular revenues. The
+17 purposes for which such notes and bonds may be issued pursuant to this paragraph shall be to
+18 providesufficientfundsforanyoneormoreofthefollowing:
+19 (a) The making of loans and mortgage loans to eligible mortgagors and eligible persons
+20 and families and the making of loans to lending institutions in each case to finance the acquisition,
+21 construction or rehabilitation of housing designed and planned, or being converted, to consist of not
+22 more than 4 family units for occupancy by eligible persons and families and of which at least one
+23 unitisoccupiedoristobeoccupiedbyaneligiblepersonorfamilyowningthehousing;
+24 (b) The making of loans or advances with interest and whether or not secured by a
+25 mortgage to a single eligible person or family for the costs of reconstruction, rehabilitation or other
+26 improvements of existing housing owned by such single person or family and consisting of not more
+27 than 4 family units of which one is or is to be occupied by the owner, and for down payment costs,
+28 closing costs and other initial expenses of acquiring, financing or refinancing housing owned or to be
+
+HB1042-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 owned by a single eligible person or family and consisting of not more than 4 family units of which
+2 one is or is to be occupied by the owner; the purchase of mortgages on any such housing or securing
+3 such loans or advances described above; the establishment of reserves to secure such notes and
+4 bonds,includinganyreservefundcreatedpursuanttoRSA204-C:40;and
+5 (c) All other expenditures of the authority incident to and necessary or convenient to
+6 carryout the issuance of notes and bonds to providesufficient funds for any one or more of the other
+7 purposes enumerated in this paragraph. The provisions of RSA 204-C:41 shall not apply with
+8 respect to any bond reserve fund established under RSA 204-C:40 with respect to bonds of the
+9 authoritytowhichthisparagraphapplies.
+10 III. In addition to the obligations which the authority may have outstanding under
+11 paragraphs I and II, the authority may issue notes and bonds not in excess of [$600,000,000]
+12 $1,000,000,000 for the purposes specified in this paragraph. Such notes and bonds shall constitute
+13 general obligations of the authority payable out of any revenue or moneys of the authority, subject
+14 only to any agreements with the holders of particular notes or bonds pledging any particular
+15 revenues. The purposes for which such notes and bonds may be issued shall be to provide sufficient
+16 funds for any purpose authorized by this chapter; such notes and bonds may, at the discretion of the
+17 authority, be subject to the provisions of RSA 204-C:41 with respect to any bond reserve fund
+18 established under RSA 204-C:40 and may, at the discretion of the authority, be subject to the
+19 provisionsofRSA204-C:49,II.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

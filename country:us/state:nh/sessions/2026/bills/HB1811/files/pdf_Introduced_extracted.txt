@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1811-FN-ASINTRODUCED
+2026SESSION
+26-2361
+05/08
+1811-FN
+HOUSEBILL
+ANACT repealingstatutoryimmunizationrequirementsforchildren.
+SPONSORS: Rep. Drew, Hills. 19; Rep. McGrath, Rock. 40; Rep. Polozov, Merr. 10; Rep.
+Wherry, Hills. 13; Rep. McFarlane, Graf. 18; Rep. Korzen, Coos 7; Rep. Tom
+Mannion,Hills.1;Rep.Kofalt,Hills.32
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals immunization requirements for children, including requirements regarding
+religiousandmedicalexemptions,recordkeepingbyschoolsandchildcareagencies,andrulemaking.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1811-FN-ASINTRODUCED
+26-2361
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingstatutoryimmunizationrequirementsforchildren.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPolicyandPurpose.
+2 I. The general court finds that vaccine mandates represent an overreach of governmental
+3 authority and are inherently coercive. Mandating that individuals receive any medical intervention
+4 without their explicit and informed consent constitutes a violation of fundamental rights and the
+5 principles of liberty. Mandates dictating medical choices without consent are unjust and amount to
+6 tyranny.
+7 II. The general court affirms that informed consent is the cornerstone of ethical medical
+8 practice. Publichealtheffortsshouldempowerindividualswiththeknowledgeneededtomaketheir
+9 ownhealthdecisions,includingwhethertobevaccinated. Mandatesdestroytheessenceof informed
+10 consent by stripping away personal agency and the right to make decisions about a citizen’s own
+11 healthand body. The stateof NewHampshireshould thereforereject vaccinemandates and instead
+12 prioritize transparent, evidence-based education that enables individuals and families to make
+13 voluntary,informedchoicesabouttheirhealthcare.
+14 2 CommunicableDisease;Immunization. AmendRSA141-C:20-a,Itoreadasfollows:
+15 141-C:20-a Immunization.
+16 [I. All parents or legal guardians shall have their children, who are residing in this state,
+17 immunized against diphtheria, mumps, pertussis, poliomyelitis, rubella, rubeola, tetanus, varicella,
+18 HepatitisB,andHaemophilusinfluenzaetypeB(Hib).
+19 II. No child shall be admitted or enrolled in any school or child care agency, public or
+20 private,unlessthefollowingisdemonstrated:
+21 (a) ImmunizationunderparagraphI;
+22 (b) Partial immunization relative to the age of the child as specified in rules adopted by
+23 thecommissioner;or
+24 (c) ExemptionunderRSA141-C:20-c.
+25 III. Nothing in this section shall require an immunization/vaccination requirement for
+26 diseasesthat arenoncommunicable.Noncommunicable diseasemeans adiseasethat is not infectious
+27 or transmissible from person-to-person.] The department of health and human services may
+28 recommend vaccinations for public, private, or daycare enrollment or entry. These
+29 recommendationsshall be construedonlyasadvisory opinionsofthe departmentandshall
+30 not be used to deny services or access to any person in the state of New Hampshire. The
+
+HB1811-FN-ASINTRODUCED
+-Page2-
+1 department and any political subdivision of the state of New Hampshire shall not require
+2 vaccinationsunderanycircumstance.
+3 3 MedicalFreedominImmunizations. AmendRSA141-C:1-a,Itoreadasfollows:
+4 I. Every person has the natural, essential, and inherent right to bodily integrity, free from
+5 any threat or compulsion by government to accept an immunization. Accordingly, no person may be
+6 compelledtoreceiveanimmunization[forCOVID-19]inordertosecure,receive,oraccessanypublic
+7 facility, any public benefit, or any public service from the state of New Hampshire, or any political
+8 subdivision thereof, including but not limited to counties, cities, towns, precincts, water districts,
+9 schooldistricts,schooladministrativeunits,orquasi-publicentities.
+10 4 Repeal. Thefollowingarerepealed:
+11 I. RSA 141-C:1-a, II(b), relative to a reference to vaccination as a prerequisite for admission
+12 toschoolorachildcareagency.
+13 I. RSA141-C:20-b,relativetorecordsofchildhoodimmunizations.
+14 II. RSA141-C:20-c,relativetoexemptionsfromchildhoodimmunizationrequirements.
+15 III. RSA 141-C:20-d, relative to an attendance exemption for unvaccinated children during
+16 anoutbreakofcommunicabledisease.
+17 IV. RSA 141-C:20-e, relative to immunization reports to the department of health and
+18 humanservicesbyschoolsandchildcareagencies.
+19 VI. RSA 141-C:6, XIV - XVII, relative to rulemaking requirements regarding childhood
+20 immunization requirements, including age for administration, number of doses, acceptable level of
+21 immunization for enrollment in school or child care agency, and maintenance of immunization
+22 records.
+23 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2361
+12/16/25
+HB1811-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingstatutoryimmunizationrequirementsforchildren.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 ($6.8million) ($7.3million) ($7.8million)
+RevenueFund(s) InsuranceassessmentthroughtheNHVaccineAssociation
+$6.8million $7.3million $7.8million
+reductionin reductionin reductionin
+direct direct direct
+expenditures; expenditures; expenditures;
+Approximately Approximately Approximately
+$400,000 $400,000 $400,000
+Expenditures* $0 increasein increasein increasein
+Department Department Department
+personnelcosts; personnelcosts; personnelcosts;
+seebelowfor seebelowfor seebelowfor
+discussionof discussionof discussionof
+possibleindirect possible possibleindirect
+costs indirectcosts costs
+FundingSource(s) InsuranceAssessmentthroughtheNHVaccineAssociation,generalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Thisbillrepealsallstatutoryimmunizationrequirementsforenrollmentinschoolsandchildcare
+centers in the state, and establishes that no person shall be compelled to receive an
+immunization in order to access any public benefit from the state or its political subdivisions.
+The direct fiscal impact of the bill is in the form of reduced expenditures for vaccine purchases,
+estimated at $6.8 million in FY27, $7.3 million in FY28, and $7.8 million in FY29. Such
+purchases are funded through an assessment on insurers through the NH Vaccine Association,
+andsotheassessmentwouldpresumablydecreasebythesameamounts. TheDepartmentnotes
+thatother vaccinepurchases would continuetooccur,tobedispensedonavoluntarybasis based
+onsharedclinicaldecisionsbetweenphysiciansandtheirpatient'sparentorlegalguardian.
+
+The Department states that there may be significant costs resulting from investigations and
+emergency response activities should the lack of mandated vaccines result in increased
+outbreaks. In order to address the anticipated increased need for outbreak investigation and
+monitoring, the Department assumes it will need two new public health nurse specialists, one
+vaccine preventable disease epidemiologist, and one vaccine accountability technician.
+Combined,thesepositionsareestimatedtocostapproximately$400,000peryear.
+In addition to ongoing personnel costs, the Department estimates additional investigation and
+response costs of $100,000 to $350,000 per outbreak, and notes that multiple outbreaks per year
+are possible. Finally, the Department cautions that up to $4 million per year of federal funds
+may be at risk if it is unable to meet federal requirements regarding disease outbreaks and the
+collectionanddistributionofimmunizationrequirements.
+TheDepartmentofEducationstatesthatitisunabletodeterminethefiscalimpactofthebill.
+AGENCIESCONTACTED:
+DepartmentsofEducationandHealthandHumanServices

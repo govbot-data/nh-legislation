@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1062-VERSIONADOPTEDBYBOTHBODIES
+04/16/2026 1383s
+4Jun2026...2094CofC
+2026SESSION
+26-2283
+08/05
+1062
+HOUSEBILL
+ANACT authorizing the secretary of state to conduct random audits of the citizenship
+qualificationofregisteredvoters.
+SPONSORS: Rep.Lynn,Rock.17
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the secretary of state to conduct random audits of the citizen qualification of
+registeredvoters.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1062-VERSIONADOPTEDBYBOTHBODIES
+04/16/2026 1383s
+4Jun2026...2094CofC 26-2283
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing the secretary of state to conduct random audits of the citizenship
+qualificationofregisteredvoters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Random Citizenship Audits. Amend RSA 654 by inserting after section 45 the
+2 followingnewsection:
+3 654:45-a RandomCitizenshipAudits.
+4 I. In addition to reviewing records contained in state databases, the secretary of state may
+5 conduct audits of the citizenship qualifications of registered voters who submitted a qualified voter
+6 affidavitasproofofcitizenship.
+7 II. The secretary of state shall ensure a random, statistically sound audit of such voters and
+8 publishapublicreportofthefindingsofthataudit.
+9 III. Where the citizenship of a voter is confirmed through either the use of available state
+10 sources or an investigation supporting the audit, such confirmation shall be noted in the statewide
+11 voter registration database, and that voter shall not be subject to further audit of his or her
+12 citizenship.
+13 IV. If the audits reveal information of any potential non-citizens on the checklist, such
+14 informationshallbesubmittedtotheattorneygeneralforfurtherreviewandappropriateaction.
+15 V. To carry out paragraph I of this section, the secretary of state may use data regarding
+16 individual voters with persons or entities that are not agencies of the state only if the secretary and
+17 thepersonorentityenterintoalegallybindingagreementthat:
+18 (a) Permits retention of the data only as long as necessary to carry out the purpose of
+19 thesharingorforoneyear,whicheverisshorter;
+20 (b) Prohibits further sharing or disclosure of the data without written authorization by
+21 thesecretary;
+22 (c) Requires minimum reasonable security measures to protect the data from
+23 unauthorizedaccess;and
+24 (d) Provides the state with ownership of, and direct control over, the data unless
+25 otherwiserequiredbystateorfederallaw.
+26 VI. The secretary of state shall permanently destroy all data gathered under this section
+27 that relates to an identifiable individual whose citizenship is confirmed by an audit upon such
+28 confirmationandwhosecitizenshipisnotsoconfirmedwhenthematterisfinallyresolved.
+29 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1813-FN-ASINTRODUCED
+2026SESSION
+26-2811
+05/08
+1813-FN
+HOUSEBILL
+ANACT relativetochangestohealthcarriercontractswithproviders.
+SPONSORS: Rep. Miles, Hills. 12; Rep. B. Boyd, Hills. 12; Rep. Cambrils, Merr. 4; Rep. W.
+MacDonald, Rock. 16; Rep. Mooney, Hills. 12; Rep. Mary Murphy, Hills. 27; Rep.
+L.Walsh,Rock.15;Sen.McGough,Dist11
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill regulates the notice requirements regarding changes to contracts between health
+carriersandhealthcareproviders.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1813-FN-ASINTRODUCED
+26-2811
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetochangestohealthcarriercontractswithproviders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Managed Care Law; Provider Contract Standards. Amend RSA 420-J:8,
+2 VIIIbyinsertingaftersubparagraph(f)thefollowingnewsubparagraph:
+3 (g)(1) A health carrier shall provide a participating provider or facility with 60 days
+4 notice of a proposed change to a contract, including any attachment, exhibit, and provider manual,
+5 only 4 times per calendar year effective on January 1, April 1, July 1, and October 1, except that at
+6 anytime:
+7 (A) The carrier and the participating provider or facility may mutually agree to
+8 waivethe60daynoticerequirement;
+9 (B) Acarrier mayfileanotice of aproposed change inresponsetoa requirement
+10 ofthestateorfederalgovernment;or
+11 (C) A carrier may file a notice of a proposed change due to a change in current
+12 proceduralterminologycodesusedbytheAmericanMedicalAssociation.
+13 (2) Aspartof thenoticerequirementunderthis subparagraph,ahealthcarrier shall
+14 provide to the participating provider or facility, printed or electronically, a copy of the contract,
+15 including any attachment, exhibit, and provider manual, without the changes and a copy of the
+16 revisedcontract, attachment,exhibit, and/orprovider manualwithchangesindicated byunderlining
+17 andboldingaddedlanguageandbyvisuallystrikingthroughdeletedlanguage.
+18 (3) If the change to a contract, attachment, exhibit, or provider manual results in an
+19 aggregate change in provider reimbursement of more than $500,000 per calendar year across all
+20 participating providers or facilities in the state with whom the carrier has a provider contract, the
+21 carriershallsubmittoeachparticipatingproviderorfacilityagoodfaithestimateofthetotalannual
+22 aggregate financial impact of the changes to their contract. The estimate and an explanation for all
+23 financial impacts as a result of the change under this subparagraph shall be submitted annually to
+24 the commissioner of insurance to be published annually on the insurance department's official
+25 websiteorbemadepubliclyavailableuponrequestofthedepartment.
+26 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2811
+12/16/25
+HB1813-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetochangestohealthcarriercontractswithproviders.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFund
+Expenditures* $0 Under$10,000 Under$10,000 Under$10,000
+FundingSource(s) NHInsuranceDepartmentOperatingBudget
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacomplete fiscalnoteforthisbill,
+as introduced, as it is awaiting information from the Department Health and Human Services.
+The Department was originally contacted on 10/23/25 for a fiscal note worksheet. When
+completed,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+METHODOLOGY:
+This bill amends RSA 420-J:8 to require health carriers to provide at least 60 days’ notice to
+participating providers or facilities before making certain contract changes. It limits such
+changes to four times per calendar year, requires carriers to provide redlined copies of affected
+documents, and to submit estimated financial impacts of contract changes exceeding $500,000 to
+theInsuranceDepartmentforposting.
+
+The Insurance Department states this bill will have an indeterminable fiscal impact on state
+revenues and expenditures. The Department may see a minor increase in workload related to
+collecting and publishing this information, which is estimated to be about $10,000 or less a year.
+Insurance Premium Tax revenue could increase if carriers raise premiums to offset additional
+compliance costs, though the extent is indeterminable. Counties and municipalities that
+purchasegrouphealthinsurancecouldalsoexperienceanindeterminableincreaseinpremiums.
+AGENCIESCONTACTED:
+InsuranceDepartment
