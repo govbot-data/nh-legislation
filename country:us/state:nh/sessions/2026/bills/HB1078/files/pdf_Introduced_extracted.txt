@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1078-FN-ASINTRODUCED
+2026SESSION
+26-2596
+07/06
+1078-FN
+HOUSEBILL
+ANACT creatingagoldstarfamilyandgoldstarfatherlicenseplate.
+SPONSORS: Rep. Michael Murphy, Coos 6; Rep. A. Davis, Coos 2; Rep. Korzen, Coos 7; Rep.
+Moffett,Merr.4;Rep.Ouellet,Coos3;Sen.Rochefort,Dist1
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillcreatesagoldstarfamilyandgoldstarfatherlicenseplate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1078-FN-ASINTRODUCED
+26-2596
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatingagoldstarfamilyandgoldstarfatherlicenseplate.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Motor Vehicles; Number Plates; Gold Star Number Plates. RSA 261:87-c is repealed and
+2 reenactedtoreadasfollows:
+3 261:87-c GoldStarNumberPlates.
+4 I. Forpurposesofthissection:
+5 (a) "Gold star mother" means the mother or stepmother of a person killed while on duty
+6 intheUnitedStatesarmedforces.
+7 (b) "Gold star family" means an immediate family member, who is not a gold star
+8 motherorfather,ofapersonkilledwhileondutyintheUnitedStatesarmedforces.
+9 (c) "Gold star father" means the father or stepfather of a person killed while on duty in
+10 theUnitedStatesarmedforces.
+11 II. The department shall furnish one set of special number plates, designed by the director
+12 with the approval of the commissioner, for one motor vehicle owned by a qualifying individual as
+13 follows: a gold star mother, gold star father, or gold star family of a person killed while on duty in
+14 theUnitedStatesarmedforces.
+15 III. The special plates shall feature the same base design approved by the commissioner.
+16 The plates shall be distinguished solely by wording on the plate, specifying "Gold Star Mother,"
+17 "GoldStarFather,"or"GoldStarFamily."
+18 IV. Eligibilityforagoldstarplateshallbedocumentedbysubmissionof:
+19 (a) DDForm1300,reportofcasualty,oranofficialcasualtynotificationdocument;
+20 (b) Proofofrelationshiptothedeceasedservicemember;and
+21 (c) A certification letter from the United States Department of Veterans Affairs or other
+22 recognizedauthority.
+23 V. Issuance shall be upon payment of regular registration fees, and no additional plate fees
+24 shallbecharged.
+25 VI. The director shall establish documentation and application procedures for issuance,
+26 includingverificationofeligibilityandmaintenanceofrecords.
+27 VII. Applicants may request a specific combination of characters to appear on their plate,
+28 subjecttothefollowingconditions:
+29 (a) The requested combination shall comply with all state requirements for letters,
+30 numbers,andsymbolsonregistrationplates;
+
+HB1078-FN-ASINTRODUCED
+-Page2-
+1 (b) The requested combination shall not already be in use or reserved by the division of
+2 motorvehicles;
+3 (c) The requested combination shall not contain offensive, profane, or otherwise
+4 inappropriatecontent,asdeterminedbythedirector;
+5 (d) The availability of the requested combination may be verified by the department at
+6 thetimeofapplication;and
+7 (e) The director may deny or revoke any requested combination that violates the
+8 provisionsofthissectionoranyotherapplicablestatuteordivisionrulepursuanttoparagraphVIII.
+9 VIII. The director is authorized to adopt rules, under RSA 541-A, relative to the design,
+10 applicationprocess,documentationrequirements,andissuanceofplatesunderthissection.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2596
+11/4/25
+HB1078-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creatingagoldstarfamilyandgoldstarfatherlicenseplate.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$28,000-
+Expenditures* $0 $0 $0
+$55,000
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates gold star father and gold star family motor vehicle license plates. The
+Department of Safety states this would require system changes, at a cost of approximately
+$25,000 and the creation of a new plate would range in cost from $3,000 to $30,000, depending
+on the number of plates that need to be manufactured. In total, this bill is expected to increase
+stateexpendituresby$28,000to$55,000inFY2027.
+AGENCIESCONTACTED:
+DepartmentofSafety

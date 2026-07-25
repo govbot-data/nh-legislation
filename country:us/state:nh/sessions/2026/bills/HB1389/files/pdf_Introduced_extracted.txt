@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1389 -ASINTRODUCED
+2026SESSION
+26-3198
+08/07
+1389
+HOUSEBILL
+ANACT relativetoPFASfacilityliability.
+SPONSORS: Rep. N. Murphy, Hills. 12; Rep. Muns, Rock. 29; Rep. Meuse, Rock. 37; Rep. N.
+Germana, Ches. 15; Rep. Lascelles, Hills. 14; Rep. Dunn, Rock. 16; Rep. Rung,
+Hills. 12; Rep. Donnelly, Rock. 25; Rep. W. Thomas, Hills. 12; Rep. Ebel, Merr. 7;
+Sen.Watters,Dist4;Sen.Altschiller,Dist24;Sen.Ricciardi,Dist9
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides for perfluoroalkyls (PFAS) facility liability for contaminations of groundwater
+qualitystandardsaccordingtofederalregulations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1389-ASINTRODUCED
+26-3198
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoPFASfacilityliability.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PFAS Definitions. RSA 147-B:2, VIII-j through VIII-o are repealed and reenacted to read as
+2 follows:
+3 VIII-j. “PFAS”meansallperfluoroalkylandpolyfluoroalkylsubstances.
+4 VIII-k. “Perfluoroalkyl substance” means a chemical of which all of the alkyl carbon atoms
+5 arefullyfluorinatedcarbonatoms.
+6 VIII-l. “Polyfluoroalkyl substance” means a chemical containing at least one fully
+7 fluorinatedcarbonatomandatleastonecarbonatomthatisnotafullyfluorinatedcarbonatom.
+8 VIII-m. “Fully fluorinated carbon atom” means a carbon atom on which all of the hydrogen
+9 substituentshavebeenreplacedbyfluorine.
+10 VIII-n. "Manufacturing process" means a process that turns raw materials into a finished
+11 product.
+12 2 PFAS; Strict Liability; Civil Action; PFAS Facilities. RSA 147-B:10, VIII is repealed and
+13 reenactedtoreadasfollows:
+14 VIII. Any person who owns or operates a PFAS facility where a release of PFAS at or from
+15 such PFAS facility has resulted in total combined concentrations in groundwater or surface water of
+16 500 parts per trillion or greater of PFAS compounds for which ambient groundwater quality
+17 standards have been established pursuant to RSA 485-C, or who owned or operated a PFAS facility
+18 at the time of such a release, shall be subject to the provisions of federal regulations in 40 CFR
+19 265.111 and 265.114. Such provisions shall apply to the closure, removal from service, or
+20 decommissioningof:
+21 (a) All tanks, piping, containers, manufacturing equipment, waste or wastewater
+22 treatment infrastructure, and air pollution control devices used to handle, convey, or otherwise
+23 managematerialsorwastescontainingPFAS;and
+24 (b) The interior and exterior surfaces of PFAS facility buildings and structures where
+25 materials or wastes containing PFAS are or have been used, stored, treated or otherwise managed.
+26 NothinginthisparagraphshallbeinterpretedtolimittheapplicabilityofRSA147-B:10orRSA147-
+27 B:10-atoreleasesofPFASotherwisesubjecttosuchsections.
+28 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

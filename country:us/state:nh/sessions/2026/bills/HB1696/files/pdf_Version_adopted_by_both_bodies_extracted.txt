@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1696-FN-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2420
+09/08
+1696-FN
+HOUSEBILL
+ANACT relativetotheissuanceofasummonsinsteadofarrest.
+SPONSORS: Rep.Rhodes,Ches.17;Rep.Berry,Hills.44;Rep.D.Mannion,Rock.25;Rep.Roy,
+Rock.31;Rep.Sweeney,Rock.25
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes it a misdemeanor to fail to remain of good behavior while released pursuant to a
+summonsinlieuofarrest,andprovidespenaltiesforviolationsofthetermsofthesummons.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1696-FN-VERSIONADOPTEDBYBOTHBODIES
+26-2420
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheissuanceofasummonsinsteadofarrest.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SummonsInsteadofArrest. AmendRSA594:14toreadasfollows:
+2 594:14 SummonsInsteadofArrest.
+3 I. In any case in which a peace officer has probable cause to believe that a person has
+4 committed a misdemeanor or violation, the officer may issue to the person in hand a written
+5 summonsinlieuofarrest. Thisshallnotapplyifthepeaceofficerhasprobablecausetobelievethat
+6 a person has committed abuse as defined under RSA 173-B:1, I, violated a temporary or permanent
+7 protective order issued under RSA 173-B or RSA 458:16, or violated stalking provisions under RSA
+8 633:3-a. Thesummonsshallbeinsubstantiallythefollowingform:
+9 TheStateofNewHampshire
+10 To.................................................................................................................................................................
+11 You are hereby notified to appear before the .......... circuit court of the State of New Hampshire,
+12 district division, to be holden in .......... on the ........ day of .......... 20 ...... at ....... o'clock in the
+13 forenoon (afternoon) to answer to a complaint (to be filed in said court) charging you with .... in
+14 violationof thelaws of theStateof New Hampshire. If youarecharged withaclass A misdemeanor
+15 or felony and you want a lawyer to represent you at the arraignment and throughout your case, but
+16 you cannot afford to hire a lawyer, you must fill out an application for court-appointed counsel and
+17 deliver it to the circuit court identified above as soon as possible. The court will appoint an attorney
+18 to represent you if your application shows that you are eligible. If you believe that you are eligible
+19 forappointedcounsel,youmayapplypriortoyourarraignment.
+20 Hereoffailnot,asyouwillansweryourdefaultunderthepenaltyofthelawinthatbehalfmadeand
+21 provided.
+22 Pendingappearanceasdescribedherein,youshallremainofgoodbehavior.
+23 Datedat............... Name....................
+24 the...............dayof.....20.......... Title.........................
+25 Upon failure to appear or to remain of good behavior, a warrant of arrest may issue. Any person
+26 who fails to appear in answer to such summons or fails to remain of good behavior shall be
+27 guilty of a misdemeanor as outlined in this section and shall be subject to the penalties of
+28 paragraphV.
+29 II. Asummonsmaybeissuedafteranarrestforamisdemeanororviolationinlieuofbail.
+30 III. A person is guilty of an offense if, after having been released under this section,
+31 they:
+
+HB1696-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 (a) Knowingly fail to appear before a court as required by the conditions of
+2 theirrelease;or
+3 (b) Knowingly fail to remain of good behavior as required by their conditions of
+4 release.
+5 IV. For the purpose of this section, "good behavior" means not committing any
+6 felony, misdemeanor, or major motor vehicle offense while on release. Proof of a criminal
+7 conviction shall not be required to show a violation of good behavior, but the state shall
+8 provethecommissionoftheunderlyingactsbeyondareasonabledoubt.
+9 V. Any person found guilty of violating this section shall be guilty of a
+10 misdemeanor.
+11 VI. A term of imprisonment imposed pursuant to this section shall be consecutive to
+12 thesentenceofimprisonmentforanyotheroffense.
+13 VII. It is an affirmative defense to a prosecution under this section that
+14 uncontrollable circumstances prevented the person from appearing and that the person
+15 did not contribute to the creation of such circumstances in reckless disregard of the
+16 requirement that he or she appear, and that he or she appeared as soon as such
+17 circumstancesceasedtoexist.
+18 VIII. Any person issued a summons under this section shall be subject to the
+19 conditions listed therein until bail is ordered or until the matter is resolved, whichever is
+20 earlier.
+21 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2420
+12/1/25
+HB1696-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheissuanceofasummonsinsteadofarrest.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

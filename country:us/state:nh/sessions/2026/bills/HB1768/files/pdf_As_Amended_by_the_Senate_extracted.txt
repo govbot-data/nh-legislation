@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1768-FN-ASAMENDEDBYTHESENATE
+12Feb2026...0358h
+05/07/2026 1745s
+2026SESSION
+26-2926
+06/08
+1768-FN
+HOUSEBILL
+ANACT relativetogiftsanddonationsreceivedbythedivisionofparksandrecreation.
+SPONSORS: Rep.Bridle,Rock.29;Rep.Bordes,Belk.5;Rep.Coker,Belk.2;Rep.Edgar,Rock.
+29;Rep.McGrath,Rock.40
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows the division of parks and recreation to solicit and receive monetary and in-kind
+donations and to acknowledge such donations through limited sponsor recognition. The bill also
+raises the value of individual gifts and donations that may be received by the division of parks and
+recreationwithouttheapprovalofthegovernorortheexecutivecouncil.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1768-FN-ASAMENDEDBYTHESENATE
+12Feb2026...0358h
+05/07/2026 1745s 26-2926
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetogiftsanddonationsreceivedbythedivisionofparksandrecreation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Fees for Park System; Acceptance of Donations by Division of Parks and
+2 Recreation. AmendRSA216-A:3-gbyinsertingafterparagraphVthefollowingnewparagraph:
+3 V-a.(a) Notwithstanding any other provision of law to the contrary, the department of
+4 naturalandculturalresources,throughthedivisionofparksandrecreation,maysolicit,receive,and
+5 procuremonetaryorin-kinddonations.
+6 (b) Donations received under this paragraph may be acknowledged through limited
+7 sponsor recognition, including the display of a name, logo, or identifying mark, as determined by the
+8 department, provided that such recognition is incidental to the donation, non-promotional in nature,
+9 anddoesnotimplyendorsementbythestate.
+10 (c) All monetary donations received under this paragraph shall be deposited in the state
+11 parksgiftsanddonationsaccountestablishedunderRSA216-A:3-oandexpendedinaccordancewith
+12 thatsection.
+13 2 Expansion of State Park System; State Park Gifts and Donations; Account Established.
+14 AmendRSA216-A:3-o,Itoreadasfollows:
+15 I. Notwithstandinganyotherprovisionoflawtothecontrary,individual giftsand donations
+16 not exceeding [$2,500] $50,000 in value in a fiscal year may be received by the division of parks and
+17 recreation without the approval of the governor or [the governor and] council. Individual gifts and
+18 donations exceeding [$2,500] $50,000 in value in a fiscal year may be received by the division of
+19 parksandrecreationwiththeapprovalofthegovernorandcouncil.
+20 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2926
+05/11/2026
+HB1768-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1745s)
+ANACT relativetogiftsanddonationsreceivedbythedivisionofparksandrecreation.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$0 $0 $0
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(StateParks (StateParks (StateParks
+Giftsand Giftsand Giftsand
+DonationsFund) DonationsFund) DonationsFund)
+RevenueFund(s) StateParkFundandStateParksGiftsandDonationsFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill increases the threshold for individual gifts and donations that may be accepted by the
+Division of Parks and Recreation without approval of the Governor and Executive Council from
+$2,500 to $50,000. To the extent donors provide gifts in excess of the prior $2,500 limit, the
+State Parks Gifts and Donations Account established under RSA 216-A:3-o could experience an
+indeterminable increase in revenue ranging from $0 to $47,500 per individual gift, depending on
+theamountandnumberofdonationsreceived.
+AGENCIESCONTACTED:
+None

@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1411-FN-ASINTRODUCED
+2026SESSION
+26-3090
+12/09
+1411-FN
+HOUSEBILL
+ANACT directing the state treasurer to withhold payments owed by the state to the
+federal government where the state has been deprived of federal aid as a result of
+presidentialexecutiveorder.
+SPONSORS: Rep. Simpson, Rock. 33; Rep. Wade, Straf. 15; Rep. D. Paige, Carr. 1; Rep.
+Cloutier, Sull. 6; Rep. Bay, Straf. 21; Rep. N. Germana, Ches. 15; Rep. Muirhead,
+Graf.12;Rep.Miller,Straf.21;Rep.Hakken-Phillips,Graf.12;Rep.Malloy,Rock.
+24;Sen.Rosenwald,Dist13;Sen.PerkinsKwoka,Dist21
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the state treasurer to withhold moneys owed to the federal government where
+the federal government has withheld existing or expected state aid to New Hampshire by means of
+an executive order or violation of a court order. The bill also authorizes the state treasurer to make
+payments owed to the federal government upon New Hampshire's receipt of existing or expected
+stateaid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1411-FN-ASINTRODUCED
+26-3090
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT directing the state treasurer to withhold payments owed by the state to the
+federal government where the state has been deprived of federal aid as a result of
+presidentialexecutiveorder.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This section shall be known as the "Protecting Our Taxes from Unauthorized
+2 SequestrationAct"orthe"POTUSAct."
+3 2 Statement of Purpose. This act ensures that New Hampshire safeguards state resources by
+4 withholding payments to the federal government if federal aid legally authorized by Congress is
+5 withheldunderanexecutiveorderorincontraventionofacourtorder.
+6 3 New Section; Frozen Federal Aid; Requirement to Withhold Moneys Owed to the Federal
+7 Government. AmendRSA6byinsertingaftersection10-dthefollowingnewsection:
+8 6:10-e WithholdingFederalPaymentsOwed.
+9 I. The state treasurer shall determine the approximate amount of federal aid that New
+10 Hampshireis deprived of, or expected to be deprived of, due to an executive order of the President of
+11 theUnitedStatesoraviolationofacourtorder.
+12 II. For the purposes of this section, "violation of a court order" means a circumstance where
+13 a court of law has issued an order for injunctive relief for the state against the federal government,
+14 including orders where federal aid is required to be released to the state, and the presidential
+15 administrationfailstocomplywithsuchorder.
+16 III. Within 60 days of the executive order or violation of a court order, the state treasurer
+17 shallsubmitareporttothegovernorandthegeneralcourt. Thereportshall:
+18 (a) Describeindetailtheamountoffederalaidwithheldorexpectedtobewithheld;and
+19 (b) Identifyall payments New Hampshireis required to make to thefederal government
+20 foranyreasonduringthe12monthsfollowingsubmissionofthereport.
+21 IV. Of the payments identified in the report, the state treasurer shall withhold payments to
+22 the federal government in an amount not to exceed the approximate amount of federal aid the state
+23 is being or is expected to be deprived of. The state treasurer shall maintain these withheld
+24 payments in an escrow or other dedicated account until the state has received all federal aid
+25 previously withheld under the executive order or in violation of the court order, at which time such
+26 withheldpaymentsshallbereleasedbythestatetreasurer.
+27 V. The state treasurer shall authorize payment of the withheld funds upon confirmation
+28 thatallwithheldfederalaidhasbeenrestoredtoNewHampshire.
+
+HB1411-FN-ASINTRODUCED
+-Page2-
+1 4 Severability. If any provision of this section or the application thereof to any person or
+2 circumstance is held invalid, the invalidity does not affect other provisions or applications of this
+3 section which can be given effect without the invalid provisions or applications, and to this end the
+4 provisionsofthissectionareseverable.
+5 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3090
+11/24/25
+HB1411-FN-FISCALNOTE
+ASINTRODUCED
+ANACT directing the state treasurer to withhold payments owed by the state to the
+federal government where the state has been deprived of federal aid as a result of
+presidentialexecutiveorder.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFundandVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 Indeterminable
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill creates the Protecting Our Taxes from Unauthorized Sequestration Act which requires
+the State Treasurer to withhold payments owed to the federal government if the federal
+government suspends or withholds federal aid to the state through an executive order or in
+violation of a court order. The bill requires the Treasurer to determine the amount of aid being
+withheld and report it within 60 days. The Treasurer would then withhold an equivalent
+amount of money it owes to the federal government in an escrow or other dedicated account, and
+onlyreleasethosefundsoncethepreviouslywithheldfederalaidisreceived.
+The Department of Administrative Services (DAS) states that this bill could lead to an
+indeterminable increase in state expenditures. The most likely source of funds the state might
+withhold from the federal government would be payroll taxes deducted from employee wages.
+
+However, failing to remit these taxes could subject the state to significant IRS fines and
+penalties. Additionally, the federal Treasury Offset Program (TOPS) allows the federal
+government to reduce the state’s access to federal funds in response. As a result, DAS indicates
+that the bill poses a risk to the state’s cash flow, jeopardizes federal funding, and could expose
+thestatetosubstantialfinancialpenalties.
+Additionally, the Treasury Department indicates that there would be an indeterminable impact
+atthecountylevelifthestateweretolosefundingrelativetotheMedicaidprogram.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServicesandTreasuryDepartment

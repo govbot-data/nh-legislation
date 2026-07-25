@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER312
+HB1807-FN-FINALVERSION
+11Mar2026...1004h
+04/23/2026 1508s
+4Jun2026...2014CofC
+4Jun2026...2175EBA
+2026SESSION
+26-2747
+07/05
+1807-FN
+HOUSEBILL
+ANACT relativetomandatoryreportstovoters.
+SPONSORS: Rep. Peternel, Carr. 6; Rep. Bernardy, Rock. 36; Rep. Berry, Hills. 44; Rep. Pauer,
+Hills. 36; Rep. Drago, Rock. 4; Rep. Colcombe, Hills. 30; Rep. DeVito, Rock. 8; Sen.
+Murphy,Dist16;Sen.Avard,Dist12;Sen.Lang,Dist2;Sen.Sullivan,Dist18
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill makes changes to the form and content of the mandatory report to voters distributed before
+anymeetingatwhichanyschooldistrictadoptsaschoolbudget.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER312
+HB1807-FN-FINALVERSION
+11Mar2026...1004h
+04/23/2026 1508s
+4Jun2026...2014CofC
+4Jun2026...2175EBA 26-2747
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomandatoryreportstovoters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 312:1 Education;StudentsFirstAct;MandatoryReporttoVoters. AmendRSA189:76,I-Vtoreadas
+2 follows:
+3 I. Before any meeting at which any school district adopts a school budget, whether or not the
+4 districthasadoptedtheprovisionsof RSA194-C:9-b, amandatoryreport tovoters[must]shallbeposted
+5 in at least 3 appropriate places, 2 of which [must] shallbe places of business or other public locations,
+6 andoneofwhich[shall]maybethelocalnewspaper[or,ifalocalnewspaperisnotavailable,thedistrict's
+7 website]. Thereportshallbepostedtotheschooldistrictwebsite,ifoneexists.Thereport[must]shallbe
+8 postedatleast7days,excludingSundaysandlegalholidays,priortothe[meeting]scheduleddateofthe
+9 firstbudgethearingheldpursuanttoRSA32:5,I.
+10 II. The report shall display the name of the school district, be prominently titled "Mandatory
+11 Report to Voters on School Expenses," and shall contain [3 line graphs] onegraphwith4financial
+12 indicators,andonetable. Whenpostedinpubliclocations,thereportshallbedisplayedon2pageswhich
+13 are eachatleast[18]8.5inches wide and [24]11inches tall. Thegraphsandtableshallfilleachpage,
+14 leavingmarginsnogreaterthanoneinch.
+15 III. The first line [graph] indicatorshall be titled "Average Cost Per Pupil" and shall display the
+16 district'sannualcost-per-pupilovertheprevious10years. Thesecondline[graph]indicatorshallbetitled
+17 "Average Teacher Salary" and shall display the district's yearly average teacher salary over the previous
+18 10 years. [A good faith effort shall be made to adjust each annual statistic for inflation using the U.S.
+19 Bureau of Labor Statistics Inflation Calculator or equivalent resource.] Each yearly statistic shall be
+20 clearly labeled. In each linegraph, the upper and lower boundaries of the dualy-axis [must] shallbe
+21 cappedatthenearestthousanddollars.
+22 IV. Thethirdlineindicatorgraphshallbetitled"AverageAdministratorSalaries"andshalldisplay
+23 [annual totals of all salaries paid to administrators employed or contracted by the district and
+24 corresponding school administrative unit] thedistrict'syearlyaverageadministratorsalary over the
+25 previous 10 years. Thefourthlineindicatorgraphshallbetitled"TotalAdministratorSalaries"andshall
+26 displayannualtotalsofallearnedwagespaidtoemployeesorcontractorsoftheschooladministrative
+27 unitplustheearnedwagesofalldistrictadministratorsthatarenotincludedintheschooladministrative
+28 unitovertheprevious10years. Administrators serving multiple districts may have annotation showing
+29 how their salary is apportioned among the multiple districts. [A good faith effort shall be made to adjust
+30 each annual statistic for inflation using the U.S. Bureau of Labor Statistics Inflation Calculator or
+
+CHAPTER312
+HB1807-FN-FINALVERSION
+-Page2-
+1 equivalent resource.] Each yearly total shall be clearly labeled. The upper and lower boundaries of the
+2 dualy-axis[must]shallbecappedatthenearest[hundred]tenthousanddollars.
+3 IV-a.Ifthedistricthasfewerthan10yearsofhistoricaldata,allavailableyearsshallbeusedfor
+4 therequiredgraphsinparagraphsIIIandIV.
+5 V. The table shall be titled "Top Administrator Salaries" and shall list the titles and current
+6 salaries of the [4]10highest-paid administrators employed or contracted by the district or corresponding
+7 school administrative unit andanyemployeepaidover$100,000inearnedwages. If less than [4] 10
+8 administratorsaresoemployed,alladministratorsshallbesolisted.
+9 V-a.Inthissection,"administrator"meansapersonwhoprovidesbuilding-,district-,orSAU-level
+10 administrativeservicesatthepre-K,elementary,orsecondarylevelincludingasuperintendent,assistant
+11 superintendent,principal,assistantprincipal,specialeducationadministrator,curriculumadministrator,
+12 careerandtechnicaleducationprincipal,anddistrictadministrator,asoutlinedinadministrativeruleEd
+13 506.
+14 312:2 New Section; Education; School Meetings; Annual Warrant Information. Amend RSA 197 by
+15 insertingaftersection1-gthefollowingnewsection:
+16 197:1-h Annual Warrant Information. In the annual warrant, the information in RSA 671:20, II (a)-(c)
+17 shall be printed immediately below the article number and title, and preceding the question of adopting a
+18 schoolbudget.
+19 312:3 Education;StudentsFirstAct;MandatoryReporttoVoters. AmendRSA189:76,I-Vtoreadas
+20 follows:
+21 I. Before any meeting at which any school district adopts a school budget, a mandatory report to
+22 voters[must]shallbepostedinatleast3appropriateplaces,2ofwhich[must]shallbeplacesofbusiness
+23 or other public locations, and one of which [shall]maybe the local newspaper [or, if a local newspaper is
+24 notavailable,thedistrict'swebsite]. Thereportshallbepostedtotheschooldistrictwebsite,ifoneexists.
+25 The report [must] shallbe posted at least 7 days, excluding Sundays and legal holidays, prior to the
+26 [meeting]scheduleddateofthefirstbudgethearingheldpursuanttoRSA32:5,I.
+27 II. The report shall display the name of the school district, be prominently titled "Mandatory
+28 Report to Voters on School Expenses," and shall contain [3 line graphs] onegraphwith4financial
+29 indicators,andonetable. Whenpostedinpubliclocations,thereportshallbedisplayedon2pageswhich
+30 are eachatleast[18]8.5inches wide and [24]11inches tall. Thegraphsandtableshallfilleachpage,
+31 leavingmarginsnogreaterthanoneinch.
+32 III. The first line [graph] indicatorshall be titled "Average Cost Per Pupil" and shall display the
+33 district'sannualcost-per-pupilovertheprevious10years. Thesecondline[graph]indicatorshallbetitled
+34 "Average Teacher Salary" and shall display the district's yearly average teacher salary over the previous
+35 10 years. [A good faith effort shall be made to adjust each annual statistic for inflation using the U.S.
+36 Bureau of Labor Statistics Inflation Calculator or equivalent resource.] Each yearly statistic shall be
+37 clearly labeled. In each linegraph, the upper and lower boundaries of the dualy-axis [must] shallbe
+38 cappedatthenearestthousanddollars.
+
+CHAPTER312
+HB1807-FN-FINALVERSION
+-Page3-
+1 IV. Thethirdlineindicatorgraphshallbetitled"AverageAdministratorSalaries"andshalldisplay
+2 [annual totals of all salaries paid to administrators employed or contracted by the district and
+3 corresponding school administrative unit] thedistrict'syearlyaverageadministratorsalary over the
+4 previous 10 years. Thefourthlineindicatorgraphshallbetitled"TotalAdministratorSalaries"andshall
+5 displayannualtotalsofallearnedwagespaidtoemployeesorcontractorsoftheschooladministrative
+6 unitplustheearnedwagesofalldistrictadministratorsthatarenotincludedintheschooladministrative
+7 unitovertheprevious10years. Administrators serving multiple districts may have annotation showing
+8 how their salary is apportioned among the multiple districts. [A good faith effort shall be made to adjust
+9 each annual statistic for inflation using the U.S. Bureau of Labor Statistics Inflation Calculator or
+10 equivalent resource.] Each yearly total shall be clearly labeled. The upper and lower boundaries of the
+11 dualy-axis[must]shallbecappedatthenearest[hundred]tenthousanddollars.
+12 IV-a.Ifthedistricthasfewerthan10yearsofhistoricaldata,allavailableyearsshallbeusedfor
+13 therequiredgraphsinparagraphsIIIandIV.
+14 V. The table shall be titled "Top Administrator Salaries" and shall list the titles and current
+15 salaries of the [4]10highest-paid administrators employed or contracted by the district or corresponding
+16 school administrative unit andanyemployeepaidover$100,000inearnedwages. If less than [4] 10
+17 administratorsaresoemployed,alladministratorsshallbesolisted.
+18 V-a.Inthissection,"administrator"meansapersonwhoprovidesbuilding-,district-,orSAU-level
+19 administrativeservicesatthepre-K,elementary,orsecondarylevelincludingasuperintendent,assistant
+20 superintendent,principal,assistantprincipal,specialeducationadministrator,curriculumadministrator,
+21 careerandtechnicaleducationprincipal,anddistrictadministrator,asoutlinedinadministrativeruleEd
+22 506.
+23 312:4 Contingency. If HB 564 of the 2026 regular legislative session becomes law, section 1 of this
+24 act shall not take effect and section 3 of this act shall take effect 60 days after its passage. If HB 564 of
+25 the 2026 regular legislative session does not become law, section 1 of this act shall take effect 60 days
+26 afteritspassageandsection3ofthisactshallnottakeeffect.
+27 312:5 EffectiveDate.
+28 I. Sections1and3ofthisactshalltakeeffectasprovidedinsection4ofthisact.
+29 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+Approved:July10,2026
+EffectiveDate:
+I.Sections1&3effectiveasprovidedinsection4
+II.RemaindereffectiveSeptember8,2026

@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1769-FN-ASINTRODUCED
+2026SESSION
+26-3146
+07/09
+1769-FN
+HOUSEBILL
+ANACT relative to certain prohibitions on abortion referrals by publicly funded medical
+facilities.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Notter, Hills. 12; Rep. M. Pearson, Rock. 34; Rep.
+Sellers, Graf. 10; Rep. Thibault, Merr. 25; Rep. Granger, Straf. 2; Rep. Bennett,
+Rock.4;Rep.SabourinditChoiniere,Rock.30;Sen.Avard,Dist12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Prohibits certain medical facilities that receive funding from the state from referring certain
+patientsforanabortion.
+II. Permits taxpayers to sue medical facilities or the state in instances where certain medical
+facilitiesthatreceivestatefundingrefercertainpatientsforanabortion.
+III. Permits a mother or certain family members to sue medical facilities or the state in
+instanceswherecertainmedicalfacilitiesthatreceivestatefundingreferthemotherforanabortion.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1769-FN-ASINTRODUCED
+26-3146
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to certain prohibitions on abortion referrals by publicly funded medical
+facilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Public Funding and Abortion Referrals. Amend RSA 329 by inserting after
+2 section50thefollowingnewsubdivision:
+3 PublicFundingandAbortionReferrals
+4 329:50-a Definitions.
+5 I. "Abortion"shallhavethesamemeaningasprovidedinRSA132:32,I.
+6 II. "Medicalfacility"shallhavethesamemeaningasprovidedinRSA329:43,VI.
+7 III. "Healthcareprovider"shallhavethesamemeaningasprovidedinRSA329:43,VII.
+8 IV. "Medicalemergency"shallhavethesamemeaningasprovidedinRSA329:44,III.
+9 V. “Pregnancy resource center” means a private nonprofit facility that provides pregnancy
+10 counseling, material support, or medical care to pregnant women but does not perform abortions or
+11 makereferralstoabortionproviders.
+12 329:50-b Prohibition.
+13 I. Notwithstanding any other provision of law to the contrary, no medical facility owned or
+14 operated by an entity that receives contractual payments, grants, or other funding from this state,
+15 any agency or subdivision thereof, any municipality, or any health care provider employed by or at
+16 suchafacility,shallreferanypatientforanabortionunless:
+17 (a) Any health care provider attending the patient reasonably believes that the patient
+18 isexperiencingamedicalemergencyassociatedwiththepregnancy;or
+19 (b) A healthcare provider attending thepatient also provides thepatient with a referral
+20 toapregnancyresourcecenter.
+21 II. A referral to a pregnancy resource center shall satisfy subparagraph I(b) whether or not
+22 the provider informs the patient that state law requires the referral. The provider may refer the
+23 patient to a pregnancy resource center of the provider’s choice or to the closest pregnancy resource
+24 center.
+25 III. No public body shall enter into any contract with, or make any grant or other payment
+26 to, any recipient organization that refers for abortions except as provided in paragraph I. Any
+27 recipient organization that has, at any time, referred patients for abortions shall, as a condition of
+28 receivinganycontract,grant,orotherpublicfundsfromapublicbody,submitanaffidavitstatingits
+29 intent to comply with RSA 329:50-b, I. The public body shall retain the affidavit for not less than 2
+30 years. Theaffidavitshallbesignedunderoathbyanauthorizedagentoftherecipientorganization.
+
+HB1769-FN-ASINTRODUCED
+-Page2-
+1 329:50-c Penalties.
+2 I. Any contract made in violation of RSA 329:50-b shall be voided as a matter of law and
+3 policyandanycourtofcompetentjurisdictionshallorderfullrescissionofthecontract.
+4 II. A taxpayer aggrieved by a violation of RSA 329:50-b shall have standing to challenge the
+5 violation under RSA 491:22, I, and shall be entitled to declaratory relief, injunctive relief, and
+6 reasonableattorney’sfeesinsuperiorcourtagainstthepublicentitythatenteredintothecontractor
+7 provided the payment. If the court finds that the public entity acted in willful disregard for the law,
+8 the taxpayer shall be further entitled to punitive damages in an amount determined by the trial
+9 court.
+10 329:50-d Severability. If any provision of this subdivision or the application thereof to any
+11 person or circumstances is held invalid, such invalidity shall not affect other provisions or
+12 applications of thesubdivisionwhich canbegiveneffect without theinvalid provisionor application.
+13 Thissubdivisionshallretainitspurposeandeffecttothemaximumextentpermittedunderthestate
+14 and federal constitutions, whether through the severance of provisions or applications, judicial
+15 injunctionorconstruction,oranyotherjustandproperremedy.
+16 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3146
+Revised02/10/2026
+HB1769-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to certain prohibitions on abortion referrals by publicly funded medical
+facilities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$10,000- $10,000-
+Expenditures* $0 $5,000-$50,000
+$100,000 $100,000
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+Thisbillstipulatesthatanymedicalfacilityownedoroperatedbyanentityreceivingcontractual
+payments, grants, or other state or municipal funding shall not refer any patient for an abortion
+unless the patient is experiencing a medical emergency. The Department of Health and Human
+Services states that it will need to modify existing contracting practices to incorporate new
+compliance requirements into sub-recipient monitoring. Additional responsibilities are likely,
+including verifying attestations when hiring new health care professionals and tracking changes
+in employees’ job duties to ensure continued compliance monitoring and contractual oversight.
+Implementation will require updates to contracting and sub-recipient monitoring procedures.
+The Department assumes it will incur costs of between $10,000 and $100,000 in order to fulfill
+these responsibilities. As the bill is effective January 1, 2027, this fiscal note assumes the
+impactinFY27willbehalfthatofafullyear.
+
+The New Hampshire Municipal Association states there will be indeterminable municipal
+administrative costs of under $10,000 per municipality associated with reviewing whether
+medical facilities currently receiving contractual payments, grants, or other funding are in
+compliance with this bill. There may be additional costs if a municipality has to terminate an
+existing contract and obtain similar (non-abortion-related) services from another medical facility
+or through an expansion of municipal services. In addition, the Association states that the bill
+increases the legal liability for municipalities, which may increase insurance and legal expenses.
+The Association notes that even if a municipality exercises due diligence to ensure medical
+facilities to which it provides contractual payments, grants, or other funding, the municipality
+maystill beexposed tolitigationif a rogue provider at a medical facilityotherwisein compliance
+withthisbillmakesanunauthorizedreferral.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServicesandNewHampshireMunicipalAssociation

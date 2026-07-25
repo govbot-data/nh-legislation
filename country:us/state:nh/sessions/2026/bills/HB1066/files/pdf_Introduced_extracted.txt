@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1066-FN-ASINTRODUCED
+2026SESSION
+26-2314
+07/05
+1066-FN
+HOUSEBILL
+ANACT relativetowarrantarticlesauthorizingleaseagreements.
+SPONSORS: Rep. Pauer, Hills. 36; Rep. Berry, Hills. 44; Rep. Bryer, Rock. 1; Rep. Crawford,
+Carr.3;Rep.Erf,Hills. 28;Rep.Harvey-Bolia,Belk.3; Rep.Kofalt,Hills.32; Rep.
+R. Brown, Carr. 8; Rep. Wherry, Hills. 13; Rep. Weyler, Rock. 14; Sen. Gannon,
+Dist23
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies rules and procedures regarding warrant articles that authorize lease
+agreements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1066-FN-ASINTRODUCED
+26-2314
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetowarrantarticlesauthorizingleaseagreements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Municipal Budget Law; Definition of Lease. Amend RSA 32:3 by inserting
+2 afterparagraphIVthefollowingnewparagraph:
+3 IV-a. "Lease" includes a lease agreement, lease-purchase agreement, sale and lease back
+4 agreement,installmentsale,orothersimilaragreementtoacquireuseorownershipofrealproperty,
+5 fixtures,equipment,oranycombinationoftheseasisfromtimetotimerequiredbythemunicipality
+6 underRSA33:7-eorRSA33:7-f,asapplicable.
+7 2 Towns, Cities, Village Districts, and Unincorporated Places; Municipal Budget Law;
+8 Definitions. AmendRSA32:3,VI(b)toreadasfollows:
+9 (b) Calls for an appropriation of an amount to be raised for a lease under RSA 33:7-e
+10 orRSA33:7-f,orbytheissuanceofbondsornotespursuanttoRSA33;or
+11 3 Towns, Cities, Village Districts, and Unincorporated Places; Municipal Budget Law; Budget
+12 Preparation. AmendRSA32:5,Itoreadasfollows:
+13 I. The governing body, or the budget committee if there is one, shall hold at least one public
+14 hearing on each budget, not later than 25 days before each annual or special meeting, public notice
+15 of which shall be given at least 7 days in advance, and after the conclusion of public testimony shall
+16 finalize the budget to be submitted to the legislative body. If a town or district uses sub-accounts to
+17 budget or track financial data it shall make that data available for public inspection at the public
+18 hearing. One or more supplemental public hearings may be held at any time before the annual or
+19 special meeting, subject to the 7-day notice requirement. If the first hearing or any supplemental
+20 hearing is recessed to a later date or time, additional notice shall not be required for a supplemental
+21 session if the date, time, and place of the supplemental session are made known at the original
+22 hearing. Public hearings on bonds and notes in excess of $100,000 shall be held in accordance with
+23 RSA 33:8-a, I, and public hearings on leases in excess of $100,000 shall be held in
+24 accordance to the procedure in RSA 33:7-f, II. Days shall be counted in accordance with RSA
+25 21:35.
+26 4 New Paragraph; Towns, Cities, Village Districts, and Unincorporated Places; Municipal
+27 Budget Law; Lapse of Appropriations. Amend RSA 32:7 by inserting after paragraph III the
+28 followingnewparagraph:
+29 III-a. The amount to be raised, in whole or in part, through a lease pursuant to RSA 33:7-f,
+30 shall not lapse until the fulfillment of the purpose or completion of the project being financed by the
+31 lease;or
+
+HB1066-FN-ASINTRODUCED
+-Page2-
+1 5 New Paragraph; Towns, Cities, Village Districts, and Unincorporated Places; Municipal
+2 Finance Act; Definitions. Amend RSA 33:1 by inserting after paragraph IV the following new
+3 paragraph:
+4 V. "Lease"shallhavethesamemeaningassetforthinRSA32:3,IV-a.
+5 6 Towns, Cities, Village Districts, and Unincorporated Places; Municipal Finance Act;
+6 RepaymentofLoans. AmendRSA33:2toreadasfollows:
+7 33:2 Repayment of Loans. Municipalities and counties shall not issue any bonds or notes, nor
+8 enter into any leases, that are payable on demand. They shall provide for the payment of all
+9 loans issued under authority of this chapter except notes issued under authority of RSA 33:7, in
+10 annual payments which shall be so arranged that the amount of the annual payment of principal
+11 and interest in any year on account of any loan shall not be less than the amount of principal and
+12 interest payable in any subsequent year by more than 2 percent of the principal of the entire loan.
+13 The total amount of such payments shall be sufficient to extinguish the entire loan on account of
+14 whichtheyaremadeatmaturity. Thefirstpaymentofprincipalonanyloanshallbemadenotlater
+15 than 2 years and the last payment not later than 30 years after the date thereof, provided, however,
+16 that no loan issued to pay for public work or improvement shall exceed the expected useful life of
+17 said public work or improvement as determined by the governing board or the city councils in the
+18 case of cities, or the county commissioners in the case of counties. Each authorized issue of notes or
+19 bonds, and each lease, shall be a separate loan. The amount of each payment of principal and
+20 interest on all loans shall, without vote of the municipality or county, be annually assessed and
+21 collected. Sinking funds and debt retirement funds for the payment of debt shall not hereafter be
+22 established.
+23 7 Towns, Cities, Village Districts, and Unincorporated Places; Municipal Finance Act; Lease
+24 AgreementsofEquipment. AmendRSA33:7-etoreadasfollows:
+25 33:7-e LeaseAgreementsofEquipment. Thegoverningbodymayenterintoleasesofequipment
+26 as required by the municipality. Appropriations to fund lease agreements with nonappropriation
+27 clauses may be approved by a simple majority vote of the legislative body. Lease agreements with
+28 nonappropriation clauses shall not be treated as debt under RSA 33:4-a. [For the purposes of this
+29 section, "lease" shall include lease-purchase, sale and lease back, installment sale, or other similar
+30 agreement to acquire use or ownership of such equipment as is from time to time required by the
+31 municipality. For purposes of this section and RSA 382-A, building or facility improvements related
+32 to the installation, purpose, or operation of such equipment shall be deemed to constitute equipment
+33 and the costs of such improvements may be financed through lease agreements under this section.]
+34 For purposes of this section and RSA 382-A, equipment as well as any building or facility
+35 improvements that become fixtures, shall not be financed through lease agreements under
+36 this section. Any lease agreement under this section exceeding $100,000 shall require a
+37 publichearingpursuanttoRSA33:7-f,II.
+
+HB1066-FN-ASINTRODUCED
+-Page3-
+1 8 New Section; General Lease Agreements. Amend RSA 33 by inserting after section 7-e the
+2 followingnewsection:
+3 33:7-f General Lease Agreements. The governing body may enter into leases of real property,
+4 fixtures, equipment, or any combination of such, as required by the municipality under this section,
+5 if the lease does not qualify under RSA 33:7-e. Lease agreements under this section shall be
+6 considered loans, which shall comply with RSA 33:2 and treated as debt under RSA 33:4-a.
+7 Appropriations to finance lease agreements under this section shall be approved via the following
+8 procedure:
+9 I. Leasesupto$100,000maybeapprovedbyasimplemajorityvoteofthelegislativebody.
+10 II. Leases in excess of $100,000 shall require at least one public hearing concerning the
+11 proposed lease before the governing body of the municipality. Said hearing shall be held at least 15
+12 days, but not more than 60 days, prior to the meeting, or adjourned session thereof, at which the
+13 leaseshallbevotedupon. Noticeofthetime,place,andsubjectofsuchhearingshallbepublishedin
+14 a newspaper of general circulation in the municipality at least 7 days before it is held. Whenever
+15 possible,thegoverningbodyshall determinetheform ofthewarrantarticleafter thepublic hearing.
+16 All articles appearing in the warrant which propose a lease in excess of $100,000 shall appear in
+17 consecutive numerical order and shall be acted upon prior to other business, except warrant articles
+18 proposingbonds or notes, theelectionof officers, actionontheadoption, revision, or amendment of a
+19 municipal charter, zoning matters, or other matters as determined by the voters at the meeting.
+20 Polls shall remain open and ballots accepted by the moderator on each such article for a period not
+21 less than one hour following the completion of discussion on each respective article. The lease shall
+22 only be authorized if at least a 3/5 majority of those voting on the warrant article vote "yes." For a
+23 municipality that has adopted an optional form of legislative body under RSA 49-D:3, I-a or RSA 49-
+24 D:3, II-a, the lease shall be authorized by a “yes” vote of at least 2/3 or 3/5 as adopted and provided
+25 forinthecharter. Ifsuchcharterdoesnotspecifywhichmajorityvoteisrequired,thentherequired
+26 majority vote shall be 3/5. Only votes in the affirmative or negative shall be included in the
+27 calculationof anymajority. Aseparateballot box shall beprovided for eachleasearticletobe voted
+28 uponpursuanttothissection.
+29 III. Thissectionshallnotapplytocities.
+30 IV. Upon favorable approval on the motion to reconsider the vote on a lease under
+31 paragraphII,actualreconsiderationoftheleaseshallnottakeplaceuntiltheexpirationofatleast7
+32 days from the date on which the original vote on the motion was taken. Notice of time and place
+33 where such reconsideration shall take place shall be published in a newspaper of general circulation
+34 inthemunicipalityatleast2daysbeforethereconsiderationvote.
+35 9 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2314
+10/27/25
+HB1066-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetowarrantarticlesauthorizingleaseagreements.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 Indeterminable
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill changes how municipalities approve lease agreements for things like buildings,
+equipment,orland. Itsetsstricterrulesforleasesover$100,000,requiringapublichearingand
+a supermajority vote to pass. Some leases will now count as debt, which means they’ll be
+includedinthetown’sborrowinglimits.
+The New Hampshire Municipal Association states the supermajority vote for lease agreements
+exceeding $100,000 could raise the approval threshold and classify certain leases as debt. As a
+result, municipalities could experience uncertain potential savings or costs over time depending
+ontheindividualmunicipality.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

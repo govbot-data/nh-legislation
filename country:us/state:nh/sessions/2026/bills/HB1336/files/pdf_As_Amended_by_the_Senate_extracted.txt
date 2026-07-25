@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1336-FN-ASAMENDEDBYTHESENATE
+11Mar2026...0763h
+11Mar2026...1100h
+05/14/2026 1724s
+2026SESSION
+26-2931
+06/07
+1336-FN
+HOUSEBILL
+ANACT relativetoregulatedconditionaldeposits.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. A. Murray, Hills. 20; Rep. Osborne, Rock. 2;
+Rep.Miles,Hills.12;Rep.S.Minor,Belk.5;Rep.Reinfurt,Hills.29
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows for the use of regulated conditional deposits by landlords and tenants and
+clarifiesthatadvancerentalpaymentsneednotbeheldinescrow,atrust,orareserveaccount.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1336-FN-ASAMENDEDBYTHESENATE
+11Mar2026...0763h
+11Mar2026...1100h
+05/14/2026 1724s 26-2931
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoregulatedconditionaldeposits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Regulated Conditional Deposits. Amend RSA 540-A by inserting after
+2 section8thefollowingnewsubdivision:
+3 RegulatedConditionalDeposits
+4 540-A:9 RegulatedConditionalDeposits.
+5 I. Aregulatedconditionaldepositshallbetreatedaspartofthesecuritydepositforpurposes
+6 of RSA 540-A:6 through RSA 540-A:8, except as otherwise specifically provided. Landlords may
+7 acceptpaymentofaregulatedconditionaldepositininstallments.
+8 II. An applicant may offer, and a landlord may accept or suggest, a regulated conditional
+9 depositif anapplicant fails tomeet thelandlord’s approval criteria, provided that theunmet criteria
+10 were disclosed prior to, or concurrently with, the submission of the rental application and payment
+11 ofanyapplicationfees,andfurtherprovidedthatatleastoneofthefollowingistrue:
+12 (a) The applicant’s credit score fails to meet the landlord’s requirements, and the
+13 landlord’sminimumcreditscorerequirementdoesnotexceed650.
+14 (b) The applicant’s combined verifiable household gross income from lawful sources, for
+15 any size household exceeds 350 percent of the federal poverty guidelines for a household size of 2 as
+16 reportedannuallybytheUnitedStatesDepartmentofHealthandHumanServicesandfailstomeet
+17 the landlord’s requirements, provided the landlord’s minimum gross income requirement does not
+18 exceed3timesthemonthlyrent.
+19 (c) The applicant fails to meet the landlord’s requirements regarding prior eviction
+20 proceedings, excluding cases dismissed without judgment against the applicant and excluding cases
+21 where the applicant provides a verifiable decision from the court that clearly states the basis for the
+22 evictionwasforoneofthefollowingreasons:
+23 (1) LeadabatementpursuanttoRSA540:2,II(f);
+24 (2) ExpirationoftheleasepursuanttoRSA540:2,II(i);or
+25 (3) Other good cause pursuant to RSA 540:2, II(e), where the other good cause was
+26 the landlord’s intent to renovate the unit, to remove the unit from the rental market, or to transfer
+27 orsellthepropertyabsenttenants;thelandlord'sintenttoleasetheunittorelatives;theapplicant’s
+28 refusaltoagreetoarentincreaseduringapriortenancy;orotherreasonsthatareclearlynotdueto
+29 thefaultoftheapplicant.
+
+HB1336-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 (d) The applicant fails to meet the landlord’s requirements regarding outstanding
+2 unpaid judgments issued within 7 years of the application, unless the applicant verifiably
+3 demonstrates that he or she is in compliance with all orders or agreements for periodic payments on
+4 the judgments, and has maintained such compliance for the earlier of the preceding 12 months or
+5 untilthejudgmentswerepaidinfull.
+6 (e) The prospective landlord was unable to verify the present landlord reference and the
+7 mostrecentpriorlandlordreference.
+8 III. Nothinginthissectionshallbeconstruedto:
+9 (a) Compelalandlordtoacceptaregulatedconditionaldeposit;
+10 (b) Compel a landlord to approve an applicant who fails to meet their approval criteria;
+11 or
+12 (c) Limit a landlord’s ability to set approval criteria at their discretion; provided,
+13 however, that a landlord may not accept a regulated conditional deposit on the basis of an approval
+14 criterion that is more restrictive than established under RSA 540-A:9, II. If no condition set forth
+15 underRSA540-A:9,IIapplies,thenthelimitssetforthunderRSA540-A:6,Ishallapply.
+16 IV. Priortoacceptingaregulatedconditionaldeposit,alandlordshallprovidewrittennotice
+17 to the applicant specifying the reasons for requiring the regulated conditional deposit, informing the
+18 applicant of their right to request a re-screening under RSA 540-A:9, VI and disclosing any fees for
+19 re-screening.
+20 V. The use of the following notice language, in at least 12-point type, provided prior to
+21 acceptingaregulatedconditionaldeposit,shallsatisfythenoticerequirementsofRSA540-A:9,IV:
+22 USEOFREGULATEDCONDITIONALDEPOSIT
+23 RegulatedConditionalDepositDefinition:
+24 RSA 540-A:5, V. “Regulated conditional deposit” means an amount accepted by a landlord pursuant
+25 to RSA 540-A:9, up to an additional one month’s rent in excess of the limit set forth in RSA 540-A:6,
+26 I(a).
+27 RegulatedConditionalDepositNotice:
+28 The applicant does not meet one or more of the following application criteria from RSA 540-A:9, II.
+29 Indicatewhichoneormoreapply:
+30 __(a) The applicant’s credit score fails to meet the landlord’s requirements, and the landlord’s
+31 minimumcreditscorerequirementdoesnotexceed650.
+32 __(b) The applicant’s combined verifiable household gross income from lawful sources, for any size
+33 household exceeds 350 percent of the federal poverty guidelines for a household size of 2 as reported
+34 annually by the United States Department of Health and Human Services and fails to meet the
+35 landlord’srequirements providedthelandlord’sminimumgrossincomerequirementdoesnotexceed
+36 3timesthemonthlyrent.
+
+HB1336-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 __(c) The applicant fails to meet the landlord’s requirements regarding prior eviction proceedings,
+2 excluding cases dismissed without judgment against the applicant, and excluding cases where the
+3 applicant provides a verifiable decision from the court that clearly states the basis for the eviction
+4 wasforoneofthefollowingreasons:
+5 (1) Leadabatementpursuantto RSA540:2,II(f);
+6 (2) ExpirationoftheleasepursuanttoRSA540:2,II(i);or
+7 (3) OthergoodcausepursuanttoRSA540:2,II(e),wheretheothergoodcausewasthelandlord’s
+8 intent to renovate the unit, to remove the unit from the rental market, or to transfer or sell the
+9 property absent tenants; landlord's intent to lease the unit to relatives; the applicant’s refusal to
+10 agree to a rent increase during a prior tenancy; or other reasons that are clearly not due to fault of
+11 theapplicant.
+12 __(d) The applicant fails to meet the landlord’s requirements regarding outstanding unpaid
+13 judgmentsissuedwithin7yearsoftheapplication,unlesstheapplicantverifiablydemonstratesthat
+14 heor she is incompliancewithall ordersor agreements for periodicpayments onthejudgments and
+15 has maintained such compliance for the earlier of the preceding 12 months or until the judgments
+16 werepaidinfull.
+17 __(e) Theprospectivelandlordwasunabletoverifypresentlandlordreferenceandmostrecentprior
+18 landlordreference.
+19 RegulatedConditionalDepositRe-Screening:
+20 RSA 540-A:9, VI. A tenant who provided a regulated conditional deposit and who has not been in
+21 material breach of the lease, including, but not limited to, nonpayment or late payments of monies
+22 owed,maysubmitawrittenrequestforre-screeningattheirownexpensenomorethanonceevery6
+23 months in the case of RSA 540-A:9, II(a)-(d), and no more than once in any 12-month period in the
+24 case of RSA 540-A:9, II(e). If a tenant establishes that they meet the landlord’s standard rental
+25 criteria, the landlord shall, at its option, issue a refund of any regulated conditional deposit or apply
+26 any regulated conditional deposit to the tenant’s future rental obligations within 30 days of the
+27 tenant’scompletesubmissionforre-screening.
+28 Thecostofre-screeningis$____________.
+29 Landlordhasprovidedtheregulatedconditionaldepositnoticesabove.
+30 Tenantacknowledgesreceiptoftheregulatedconditionaldepositnoticesabove.
+31 TenantSignature: ___________________________________Date: _____________
+32 LandlordSignature: __________________________________Date: _____________
+33 VI. Atenantwhoprovidedaregulatedconditionaldepositandwhohasnotbeeninmaterial
+34 breachof the lease, including, but not limited to, nonpayment or late payments of monies owed, may
+35 submit a written request for re-screening at their own expense no more than once every 6 months in
+36 the case of RSA 540-A:9, II(a)-(d), and no more than once in any 12-month period in the case of RSA
+37 540-A:9, II(e). If a tenant establishes that they meet the landlord’s standard rental criteria, the
+
+HB1336-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 landlord shall, at its option, issue a refund of any regulated conditional deposit or apply any
+2 regulated conditional deposit to the tenant’s future rental obligations within 30 days of the tenant’s
+3 completesubmissionforre-screening.
+4 VII. Theadministrativeofficeofthecourts shall,onaquarterlybasis,reportforeachcircuit
+5 court:
+6 (a) Thenumberofwritsofsummonsfiledinpossessoryactions;
+7 (b) The number of notices of default and the number of notices of judgments issued in
+8 favorofthelandlord,eachbrokenoutbythegroundsforevictionsetforthinRSA540:2,II;and
+9 (c) Thenumberofwritsofpossessionissuedinpossessoryactions.
+10 2 New Subparagraph; Prohibited Practices and Security Deposits; Security Deposits; Remedies.
+11 AmendRSA540-A:8,Ibyinsertingaftersubparagraph(b)thefollowingnewsubparagraph:
+12 (c) AnylandlordwhodoesnotcomplywithRSA540-A:9shallbedeemedtohaveviolated
+13 RSA358-A:2andbesubjectsolelytotheremediessetforthinRSA358-A:10,I.
+14 3 Prohibited Practices and Security Deposits; Security Deposits; Procedure. Amend RSA 540-
+15 A:6,I(a)toreadasfollows:
+16 I.(a) [A]ExceptasprovidedforinRSA540-A:9andRSA540-A:5,V,alandlordshallnot
+17 demand or receiveanysecuritydeposit inanamount or value inexcess of one month's rent [or $100,
+18 whichever is greater]. Nothing in this section shall prohibit a landlord from entering into a written
+19 lease that requires the quarterly or less frequent payment of rent; provided, however, that the
+20 securitydepositreceivedinadditiontotheinitialrentpaymentmaynotexceedtheequivalentofone
+21 month'srent.
+22 4 Prohibited Practices and Security Deposits; Security Deposits; Return of Security Deposit.
+23 AmendRSA540-A:7,Itoreadasfollows:
+24 I.(a) Except as provided in RSA 540-A:6, IV(c) and RSA 540-A:7, I(b), a landlord shall
+25 return a security deposit to a tenant and pay the interest due, if any, within 30 days from the
+26 termination of the tenancy. If there are any damages to the premises, excluding reasonable wear
+27 and tear, the landlord may deduct the costs of repair from the security deposit. The landlord shall
+28 provide the tenant with a written, itemized list of any damages for which the landlord claims the
+29 tenant is liable, which shall indicate with particularity the nature of any repair necessary to correct
+30 any damage and satisfactory evidence that repair necessary to correct these damages has been or
+31 will be completed. Satisfactory evidence may include, but not be limited to, receipts for purchased
+32 repairmaterialsandlaborestimates,billsorinvoicesindicatingtheactualorestimatedcostthereof.
+33 (b) If any portion of a security deposit waspaidby athird party on behalf of the
+34 tenant, the landlord may return any refundable portion of such contribution to the third
+35 party in accordance with the third party's written instructions, provided a copy of such
+36 instructions was delivered to the tenant in writing or by electronic communication prior to
+37 the commencement of the tenancy. Absent any agreement to the contrary, the landlord
+
+HB1336-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 shall make any deductions first from tenant-paid funds and second from any known third-
+2 party funds. The landlord shall furnish an itemized statement of any deductions from
+3 third-partyfundswithin30daysofawrittenrequestbythethirdparty. Alandlordwho,in
+4 good faith, apportions third-party funds in compliance with this section shall be
+5 discharged of liability related to such apportionment. Unless otherwise directed by the
+6 municipality, any security deposit funds paid by a municipality under RSA 165, together
+7 withanyinterestrequiredbylawandlessanylawfuldeductions,shallbereturneddirectly
+8 to the municipality within 30 days after termination of the tenancy. A landlord who, in
+9 good faith, returns such funds directly to a municipality shall be discharged of liability to
+10 anyotherpartyforthereturnofthosespecificmunicipalfunds.
+11 5 Prohibited Practices and Security Deposits; Security Deposits; Definitions. Amend RSA 540-
+12 A:5,IItoreadasfollows:
+13 II. "Security deposit" means all funds in excess of the monthly rent which are transferred
+14 from the tenant to the landlord for any purpose. An advance payment of rent is not a security
+15 deposit and shall not be required to be held in escrow, trust, or reserve. A landlord may
+16 accept advance rent payments provided that such payments are applied to uninterrupted,
+17 consecutive rental periods, beginning with the first rental period that has not yet been
+18 paid.
+19 6 New Paragraph; Prohibited Practices and Security Deposits; Security Deposits; Definitions.
+20 AmendRSA540-A:5byinsertingafterparagraphIVthefollowingnewparagraph:
+21 V. “Regulated conditional deposit” means an amount accepted by a landlord pursuant to
+22 RSA 540-A:9, up to an additional one month’s rent in excess of the limit set forth in RSA 540-A:6,
+23 I(a).
+24 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2931
+05/19/2026
+HB1336-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1724s)
+ANACT relativetoregulatedconditionaldeposits.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1716-FN-ASINTRODUCED
+2026SESSION
+26-3028
+12/08
+1716-FN
+HOUSEBILL
+ANACT relativetotheacademicaccountabilityofeducationfreedomaccounts.
+SPONSORS: Rep. Bricchi, Merr. 15; Rep. Fellows, Graf. 8; Rep. M. Hall, Merr. 9; Rep. Kluger,
+Hills.6;Rep.O'Rorke,Ches.7;Rep.Weinstein,Rock.10
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that records of educational attainment for students participating in the
+educationfreedomaccountprogrambereportedtothedepartmentofeducation. Thebillalsodirects
+thedivisionoflearnersupportwithinthedepartmentofeducationtodeveloparubricforeducational
+attainmentportfoliosandtocompiledataobtainedfromallrecordsofeducationalattainment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1716-FN-ASINTRODUCED
+26-3028
+12/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheacademicaccountabilityofeducationfreedomaccounts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 EducationFreedomAccounts;ApplicationApproval;EducationalAttainmentRecords. Amend
+2 RSA194-F:3,III(d)(3)toreadasfollows:
+3 (3) Toprovideanannualrecordofeducationalattainmentby:
+4 (A) Having the student take a nationally-standardized, norm-referenced
+5 achievement test and to provide the results to the scholarship organization by the end of each school
+6 year which the scholarship organization shall [make available] report to the department as
+7 aggregatescores;or
+8 (B) Having the student take the statewide student assessment test pursuant to
+9 RSA 193-C:6 and to provide the results to the scholarship organization by no later than the
+10 end of each school year which the scholarship organization shall report to the department;
+11 or
+12 (C) Maintaining a portfolio which conforms to the rubric established by the
+13 department in RSA 21-N:6, X which includes [including,] but is not limited to, a log which
+14 designates by title the reading materials used; samples of writings, worksheets, workbooks, or
+15 creative materials used or developed by the student. The parent shall have a certified teacher [or a
+16 teacher currently teaching in a nonpublic school], who is selected by the parent, evaluate the
+17 student's educational progress upon review of a portfolio and discussion with the parent or student.
+18 Upon completion of the evaluation and discussion, the certified teacher shall report their
+19 evaluationtothedepartment.
+20 2 Department of Education; Division of Learner Support; Duties. Amend RSA21-N:6, X to read
+21 asfollows:
+22 X. Administering the provisions of RSA 193-C relative to the statewide educational
+23 improvementandassessmentprogram.
+24 (1) Thedivisionoflearnersupportshalldevelopandmaintainarubrictobe
+25 used for the evaluation of portfolios pursuant to RSA 194-F:3, III(d)(3)(C), which shall
+26 include but is not limited to assessment of sources of learning, evidence of subject area
+27 competency, mastery of knowledge and skills learned, and evidence of reflection of
+28 learningoutcomes. Therubricshallbepublishedannually.
+29 (2) Uponreceiptof areportrequiredby RSA 194-F:3,III(d)(3),the division of
+30 learner support shall analyze and compile all data from such reports to determine
+31 academic proficiency rates amongst pupils participating in the educational freedom
+
+HB1716-FN-ASINTRODUCED
+-Page2-
+1 account program. Such data shall be compiled based on graduation rate, grade level,
+2 gender,race,anddifferentiatedaidcategories.
+3 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3028
+12/10/25
+HB1716-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheacademicaccountabilityofeducationfreedomaccounts.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $427,000 $342,000 $357,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires that records of educational attainment for students participating in the
+educationfreedomaccount(EFA)programbereportedtotheDepartmentofEducation. Thisbill
+also requires a rubric be developed and maintained by the Department and published annually.
+The Department would analyze and compile thedatafrom all these various reports to determine
+academicproficiencyratesofEFApupilsandcompiledatabasedongraduationrate,gradelevel,
+gender, race and differentiated aid categories. The Department states it would need three (3)
+new positions (program specialist III, SOC 13-05, step 5) to meet the requirements of this bill at
+an estimated cost of $327,000 in FY 2027, $342,000 in FY 2028, and $357,000 in FY 2029 (this
+bill provides neither authorization nor appropriation for new personnel). In addition, the
+Department estimates a one-time cost in FY 2027 of $100,000 to upgrade data systems to collect
+datarequiredbythisbill.
+AGENCIESCONTACTED:
+DepartmentofEducation

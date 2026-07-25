@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1004 -ASINTRODUCED
+2026SESSION
+26-2286
+07/06
+1004
+HOUSEBILL
+ANACT exemptingcertaindwellingunitsfromautomaticsprinklersystemrequirements.
+SPONSORS: Rep.Drew,Hills.19;Rep.Labrie,Hills.2
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillexemptscertaindwellingunitsfromautomaticsprinklersystemrequirements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1004-ASINTRODUCED
+26-2286
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT exemptingcertaindwellingunitsfromautomaticsprinklersystemrequirements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Public Safety and Welfare; State Board of Fire Control; State Fire Code; Rules. Amend RSA
+2 153:5,IIItoreadasfollows:
+3 III. The state fire code and associated rules shall not require automatic fire suppression or
+4 sprinkler systems in [detached one, or 2-family dwelling units in a structure] a detached building
+5 withupto4dwellingunitsusedonlyforresidentialpurposes.
+6 2 Public Safety and Welfare; State Board of Fire Control; Automatic Fire Warning Devices and
+7 CarbonMonoxideDetectionDevicesinDwellings. AmendRSA153:10-a,IIItoreadasfollows:
+8 III. The state fire marshal may adopt such rules pursuant to RSA 541-A as necessary to
+9 enforce paragraphs I, II, and II-a; provided that under no circumstances shall the rules require the
+10 installation of a fire sprinkler system in a [one- or 2-family dwelling unit] detached building with
+11 up to 4 dwelling units, used only for residential purposes, that otherwise meets the
+12 requirementsofthissection. Thestatefiremarshalshalleitherenforcetheprovisionsofthissection
+13 orappointtheappropriatemunicipalauthoritytoenforcetheprovisionsofthissection.
+14 3 Public Safety and Welfare; New Hampshire Building Code; State Building Code Review
+15 Board. AmendRSA155-A:10,VItoreadasfollows:
+16 VI. The state building code review board shall not adopt or enforce any rule requiring the
+17 installation of fire sprinkler systems in any new or existing detached [one- or 2-family dwelling unit
+18 in a structure] buildings with up to 4 dwelling units used only for residential purposes. This
+19 paragraph shall not prohibit a duly adopted requirement mandating that fire sprinkler systems be
+20 offeredtotheownersofdwellingsforareasonablefee.
+21 4 Planning and Zoning; Regulation of Subdivision of Land; Subdivision Regulations. Amend
+22 RSA674:36,VItoreadasfollows:
+23 VI. In accordance with RSA 153:5, III, the planning board shall not require, or adopt any
+24 regulation requiring, the installation of a fire suppression sprinkler system in proposed [one- or 2-
+25 family residences] detached buildings with up to 4 dwelling units used only for residential
+26 purposes as a condition of approval for a local permit. Nothing in this paragraph shall prohibit a
+27 duly adopted regulation mandating a cistern, dry hydrant, fire pond, or other credible water source
+28 otherthanafiresuppressionsprinklersystem.
+29 5 Applicability. This act shall apply to all new construction, renovations, or conversions of
+30 detached buildings with up to 4 dwelling units used only for residential purposes on or after the
+31 effective date of this act. Existing detached buildings with up to 4 dwelling units used only for
+
+HB1004 -ASINTRODUCED
+-Page2-
+1 residential purposes that do not have automatic sprinkler systems as of the effective date shall not
+2 berequiredtoretrofitsuchsystems.
+3 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

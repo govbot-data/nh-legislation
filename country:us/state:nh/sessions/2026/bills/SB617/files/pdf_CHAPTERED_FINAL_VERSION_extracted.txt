@@ -1,0 +1,321 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER274
+SB617-FINALVERSION
+03/26/2026 1218s
+23Apr2026...1510h
+14May2026...1755h
+2026SESSION
+26-2182
+09/08
+617
+SENATEBILL
+ANACT relativetotheregulationandappealofmotorvehicletowingfrompublichighwaysand
+relativetotheremovalofabandonedvehiclesbylawenforcement.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Innis, Dist 7; Sen. Birdsell, Dist 19; Sen. McGough, Dist
+11;Rep. Bernardy, Rock. 36;Rep. Litchfield, Rock. 32; Rep.Khan, Rock. 30; Rep. M.
+Pearson,Rock.34
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill extends deadlines for disputing towing and storage fees and requires invoices to include
+informationonhowtochallengecharges. Thisbillalsorevisestheproceduresandprocessesconcerning
+themaintenanceofandutilizationofalistofcontractedtowcompaniesusedbythedivisionofstatepolice
+fortheremovalofvehicles.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER274
+SB617-FINALVERSION
+03/26/2026 1218s
+23Apr2026...1510h
+14May2026...1755h 26-2182
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheregulationandappealofmotorvehicletowingfrompublichighwaysand
+relativetotheremovalofabandonedvehiclesbylawenforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 274:1 Fees for Removal and Impoundment of Motor Vehicles. Amend RSA 262:35-a to read as
+2 follows:
+3 262:35-a ReviewofFeesforRemovalandImpoundment.
+4 I. All fees charged for the removal and storage of any vehicle caused to be removed by an
+5 authorized official pursuant to RSA 262:32 or RSA 262:40-a shall be reasonable, and may reflect market
+6 variables, including, but not limited to, distance traveled to and from the storage facility, vehicle size and
+7 weight, the amount of time needed to remove and store the vehicle, any special equipment needed, and
+8 personnel costs. If the owner or other person lawfully entitled to possession of the vehicle wishes to
+9 challenge the reasonableness of the fee charged, the owner or other person may pay over to the
+10 custodian of the vehicle an amount equal to the towing and storage charges to secure the release of the
+11 vehicle, and, within [15]30days of the [release of the vehicle]receiptoftheinvoice, request in writing a
+12 review by the commissioner of safety. The commissioner of safety or designee shall review the claim to
+13 determine if there are sufficient grounds to conduct a hearing to determine whether the charge was
+14 reasonable. Ifthecommissionerordesigneedeterminesthatahearingisnecessary,thehearingshallbe
+15 scheduled by the bureau of hearings within 20 days after review by the commissioner, at which time the
+16 extent of removal and storage fees shall be determined. The commissioner or designee shall approve or
+17 disapprove of the decision of the bureau of hearings within 7 days after the hearing was held.
+18 NotwithstandingRSA262:25,anypersonaggrievedbyadecisionofthecommissionerordesigneeunder
+19 this section may appeal the decision to the superior court in the same manner as that prescribed in RSA
+20 263:75, II and III. If no request for review is filed within the [15-day] 30-dayperiod, the owner or other
+21 person lawfully entitled to possession of the vehicle shall be deemed to have waived all rights to review
+22 underthissectionandshallbeliableforthetotalamountbilled.
+23 II. Nothing in this section shall prevent a review of the reasonableness of the towing or other
+24 actionasmaybepermittedbylawsofthisstatebyacourtofcompetentjurisdiction.
+25 III. Any time that a person is storing a vehicle pursuant to the provisions of this subdivision, the
+26 person may remove any items from within the vehicle that are not a part of or accessories to the vehicle.
+27 The person may hold any such items, other than wallets, purses, life essential clothing, mail, legal
+28 documents, car seats, eyeglasses, medicine, medical equipment, or house keys pending payment of any
+29 fees due under this subdivision. If fees remain unpaid after [20]30days, the person may dispose of the
+30 items.
+
+CHAPTER274
+SB617-FINALVERSION
+-Page2-
+1 274:2 Abandoned Vehicles; Procedure for Removal and Impoundment. Amend RSA 262:33, II and
+2 IIItoreadasfollows:
+3 II. Whenever a vehicle is towed pursuant to RSA 262:31-a or RSA 262:32 the owner or other
+4 person lawfully entitled to the possession of the vehicle shall be entitled to recover said vehicle and
+5 releaseof the abovelien bypayment of all reasonable towingand storagecharges. If the owner or other
+6 person lawfully entitled to possession of the vehicle wishes to challenge whether there was sufficient
+7 grounds for towing and impoundment, he or she may pay over to the custodian of the vehicle an amount
+8 equaltothetowingandstoragechargestosecurethereleaseofsuchvehicle,and,within[15]30daysof
+9 the[towingandimpoundment]receiptoftheinvoice,requestinwritingahearing.
+10 III. The hearing shall be held before the head of the law enforcement agency which employs the
+11 authorizedofficialwhocausedthevehicletoberemovedandstored,orhisorherdesignee. Intheevent
+12 such agency head or his or her designee determines sufficient grounds did not exist for the removal and
+13 storage of the vehicle, the law enforcement agency shall reimburse the owner or other person lawfully
+14 claiming possession for any amount paid to the custodian to secure release of the vehicle,or,ifpayment
+15 hasnotyetbeenmade,orderthatthevehiclebeimmediatelyreleasedfromimpoundment,withthe
+16 agencyassumingfullliabilityofthelien.
+17 274:3 RequirementsforPlacementontheTowList. AmendRSA106-B:30,XVIIItoreadasfollows:
+18 XVIII. The tow business shall provide state police with a complete updated list of all rates for the
+19 services it performs related to the towing and storage of vehicles, on the letterhead of the business, and
+20 shall update such list when prices change. State Police shall not set the fees for these services nor use
+21 the rate schedule provided in determining placement on a rotation schedule. [Price lists shall remain
+22 confidential except when determining the reasonable fee in a requested hearing conducted by the
+23 departmentofsafety.]
+24 274:4 New Section; Notice of Right to Dispute Towing and Storage Charges. Amend RSA 262 by
+25 insertingaftersection35-athefollowingnewsection:
+26 262:35-b NoticeofRighttoDisputeTowingandStorageCharges.
+27 I. This section shall apply to any tow of a motor vehicle performed at the direction of a law
+28 enforcement officer within the state. This section shall not apply to any tow conducted pursuant to a
+29 privatepropertyagreement,municipalcontract,ormunicipalordinance.
+30 II. An invoice for towing or storage of a motor vehicle shall clearly indicate the process for
+31 appealing the reasonableness of such charges. Such notice shall be provided on the invoice and may
+32 includeanInternetwebsiteaddressorscannablecodelinkingtoadditionalinformation.
+33 III. Any towing service that fails to provide the notice required in paragraph II shall be guilty of a
+34 violationandshallbefined$100foreachviolation. Repeatedviolationsofthissectionmaybereferredto
+35 thedepartmentofsafetyforreviewandforanyactionauthorizedunderthelaw.
+36 274:5 StatePolice;UseofTowList. AmendRSA106-B:27,IVtoreadasfollows:
+37 IV. The director of state police with the approval of the commissioner of safety may adopt rules
+38 pursuant to RSA 541-A consistent with relevant provisions of this subdivision setting forth minimum
+39 qualifications of tow companies and their employees to participate in the state police tow list, including
+
+CHAPTER274
+SB617-FINALVERSION
+-Page3-
+1 qualifications, training, and minimum standards for equipment, response times, storage and release of
+2 towed vehicles and their contents, and criminal history and motor vehicle record checks of [tow truck
+3 drivers]employees.
+4 274:6 Definitions;RemovalofAbandonedVehicles. AmendRSA106-B:28toreadasfollows:
+5 106-B:28 Definitions.
+6 Inthissubdivision:
+7 I. "Employee"meansanyindividualemployedbythetowbusinesswhomayphysicallyrespond
+8 roadsidetoastatepolicetowcallforservice.
+9 II. "Heavy duty wrecker" means a wrecker intended and suitably equipped for towing vehicles in
+10 excess of 10,000 pounds gross weight, such as a tractor-trailer, large truck, or similar vehicle but
+11 excluding carriers and flatbeds, and meeting the following requirements, provided that come-a-longs,
+12 chains,orothersimilardevicesshallnotbeusedassubstitutesforwinchandcable:
+13 (a) A truck chassis having a minimum gross vehicle weight rating of not less than 54,500
+14 pounds;
+15 (b) Tandemaxles,oracab-to-axlelengthofnotlessthan102inches;
+16 (c) A combined winch capacity of not less than 50,000 pounds, as rated by the winch
+17 manufacturer;
+18 (d) A single winch in good operating condition with a capacity of 50,000 pounds, as rated by
+19 thewinchmanufacturer,orifequippedwith2winches,acombinedratingof50,000pounds;
+20 (e) Amanufacturedwheel-liftingoodoperatingcondition,withretractedliftingcapacityofnot
+21 less than 20,000 pounds, as rated by the lift manufacturer, with safety chains or a tow bar of equal
+22 capacity;
+23 (f) Awinchcableratedasspecifiedbythewinchmanufacturer,ingoodcondition;
+24 (g) Lightandairbrakehookupsforthetowedvehicle;and
+25 (h) AdditionalsafetyequipmentasspecifiedinthischapterandconsistentwithUnitedStates
+26 DepartmentofTransportationinspectionrequirements.
+27 [II.]III. "Light/Medium duty wrecker" means a wrecker intended and suitably equipped for safely
+28 towing vehicles weighing 26,000 pounds or less gross weight, including passenger cars, pickup trucks,
+29 motorcycles, small trailers, and similar vehicles, that meets the following requirements, provided that
+30 come-a-longs,chains,orothersimilardevicesshallnotserveassubstitutesforawinchandcable:
+31 (a) Aminimumgrossvehicleweightratingofnotlessthan14,500pounds;
+32 (b) Individual boom capacity of not less than 8,000 pounds, as rated by the boom
+33 manufacturer;
+34 (c) Individual power takeoff or hydraulic power or electric winch capacity of not less than
+35 8,000 pounds, as rated by the manufacturer, and wire rope of a capacity and length consistent with the
+36 devicemanufacturer;
+37 (d) A manufactured wheel-lift with a retracting lifting capacity of not less than 3,500 pounds,
+38 asratedbythemanufacturer,withsafetychains;
+39 (e) Dualrearwheels;
+
+CHAPTER274
+SB617-FINALVERSION
+-Page4-
+1 (f) Twochockblocksthatwillpreventrollingorslippageofthewrecker;and
+2 (g) AdditionalsafetyequipmentasspecifiedinthischapterandconsistentwithUnitedStates
+3 DepartmentofTransportationinspectionrequirements.
+4 [III.]IV. "Recovery vehicle" means a motor vehicle consisting of a commercially available truck
+5 chassisequippedwithacommerciallymanufacturedtowbodyorbedandthatisratedandissuedaserial
+6 numberbythemanufacturer,designedandequippedforandusedinthetowingorrecoveryofvehicles,in
+7 good condition and capable of towing a vehicle by means of a tow bar, sling, or wheel lift, and capable of
+8 recoveringavehiclebymeansofahoist,winch,ortowline.
+9 [IV.] V. "Rollback carrier" means a flatbed vehicle in good condition that meets the following
+10 requirements,providedthatcome-a-longs,chains,orsimilardevicesshallnotbeusedassubstitutesfora
+11 winchandcable:
+12 (a) Aminimumgrossvehicleweightratingofatleast19,500pounds;
+13 (b) Aspeciallyequippedchassiswitharamponwheelsandahydraulicliftwithacapacityto
+14 haulortowanothervehicle;
+15 (c) At leastone8,000poundwinch,asratedbythewinchmanufacturer, withat least50feet
+16 ofcable,asrecommendedbythewinchmanufacturer;and
+17 (d) AdditionalsafetyequipmentasspecifiedinthischapterandconsistentwithUnitedStates
+18 DepartmentofTransportationinspectionrequirements.
+19 [V.] VI. "Tow business" means a person, enterprise, partnership, company, LLC, or other
+20 corporationhavingaregisteredtradename,anactiveNewHampshiretaxidentificationnumber,anactive
+21 New Hampshire workers' compensation insurance policy or exemption papers, an active New Hampshire
+22 employment security account, and that meets all state and local legal requirements including, but not
+23 limited to, those related to payment of business related taxes, fees, and insurance coverage, and that
+24 regularlyengagesintheimpoundment,recovery,transport,orstorageoftowedorabandonedvehicles,or
+25 inthedisposalofabandonedvehicles.
+26 [VI.]VII. "Tow list" means a list or lists of qualified New Hampshire businesses compiled by the
+27 division of state police and used by them to dispatch wreckers and recovery and road service vehicles to
+28 tow, recover, and temporarily store a vehicle when the owner, driver, or other person responsible for the
+29 vehicle is not present or wishes to have the vehicle removed and expresses no choice or preference of a
+30 specifictowbusiness,orwhenpublicsafetyrequiresthelawenforcementofficialinchargeatthesceneto
+31 clear the vehicle from the location believing, in his or her sole opinion, the vehicle is causing a public
+32 hazardorsafetyissueorisstolen,unregistered,wasinvolvedinacrime,orisinviolationofastatutethat
+33 requiresimmediateremoval.
+34 [VII.] VIII. "Vehicle storage area" means a suitable yard or enclosed building where a qualified
+35 towbusinesskeepsorstorestowedorimpoundedvehicles.
+36 [VIII.]IX. "Wrecker" for purposes of this chapter and except where the context clearly indicates
+37 otherwise, means a tow truck, road service vehicle, or carrier and recovery vehicle used by tow
+38 businessesonthestatepolicetowlist.
+39 274:7 UseofTowList. AmendRSA106-B:29,Xtoreadasfollows:
+
+CHAPTER274
+SB617-FINALVERSION
+-Page5-
+1 X. A tow business may terminate or temporarily suspend its designation as a service provider
+2 and be removed from the rotation list by providing prompt written notice to state police [communications].
+3 In the event of unforeseen circumstances such as death, fire, bankruptcy, or loss of equipment from
+4 accidentorfailure,atowbusinessonthetowlistshalltimelynotifythedirectorofstatepoliceinwritingof
+5 itsintenttosuspenditsdesignationasaserviceprovider. Ifandwhenitdesirestoreturntoservice,such
+6 tow company shall send a new application to the director. If approved to resume operation, they shall be
+7 placedatthebottomoftherotationlist.
+8 274:8 UseofTowList. AmendRSA106-B:29,XVtoreadasfollows:
+9 XV. Atowbusinessshallnotsell,assign,transfer,pledge,surrender,encumber,ordisposeofits
+10 place on the rotation list. By applying to be placed on the list, a tow business agrees to respond to all
+11 statepolicecalls24hoursaday, 7daysaweek. If foranyreasonthebusinesscannot respondtoacall,
+12 it rotates to the bottom of the list. Businesses that develop a pattern of non-response to calls orfailto
+13 meettheresponsetimesoutlinedinRSA106-B:30may be subject to removal from the rotation list or
+14 actionsoutlinedinRSA106-B:34.
+15 274:9 RequirementsforPlacementontheTowList. AmendRSA106-B:30,II-IIItoreadasfollows:
+16 II. The tow business shall provide as part of its application a list of all [tow truck operator
+17 personnel] employees, including full name, current address, date and place of birth, driver's license
+18 number and type, and any restrictions, andlicense expiration date[, and social security number]. The
+19 application shall be updated with thestate police [communications] within 5 days of whenever a new
+20 employeeishired,oranemployeeleavestheemployofthebusiness.
+21 III. The application shall include an individual form approved by the director of state police for
+22 each [tow truck operator]employeeand for the owner and manager of the business and any supervisors,
+23 listingunderpenaltyofunswornfalsificationtheirfullname,dateandplaceofbirth,driverlicensenumber
+24 and type and any restrictions or limitations, and a listing of all motor vehicle offense convictions in this or
+25 anyotherstateorCanadianprovinceincludingtype,court,andyearinthepreceding5years,andalistof
+26 anycriminalconvictionsinthisoranyotherstateorCanadianprovincewithinthepast10years,including
+27 type of offense, year of conviction, court, and sentence imposed, and whether the person is currently on
+28 probationorparoleorhaseverbeenaregisteredsexoffenderorsubjecttoadomesticviolenceprotective
+29 order. Nothing in this paragraph shall restrict the employer or state police in case of doubt from verifying
+30 theinformationthrougharecordcheckorchecks.
+31 274:10 RequirementsforPlacementontheTowList. AmendRSA106-B:30,Vtoreadasfollows:
+32 V. If an [operator] individualis [employed by] anemployeeofmore than one listed towing
+33 company,eachcompanyshallmaintainanindependentandseparatedriverfileonsuchindividual. When
+34 [a driver, manager, or supervisor] anemployeeceases employment at the business or a new such
+35 employeeishired,thecompanyshallnotifythestatepolicedirectorinwritingwithin10daysandincludea
+36 copyoftheapplicationincludingacopyoftheformdescribedinparagraphIII. Itshallbetheresponsibility
+37 oftheoperatortomaintainappropriaterecordsofdrivingtimesshowingfullcompliancewithallapplicable
+38 laws,rules,andregulations.
+39 274:11 RequirementsforPlacementontheTowList. AmendRSA106-B:30,VIIItoreadasfollows:
+
+CHAPTER274
+SB617-FINALVERSION
+-Page6-
+1 VIII. Wreckers dispatched shall arrive at the scene within 30 minutes of being called, except for
+2 cases where the travel distance, posted speeds, or traffic and weather conditions and volume of traffic
+3 make this unreasonable. For heavy duty calls the company shall respond within a maximum of 60
+4 minutes regardless of the time of day. If the time exceeds the above limit and the tow business does not
+5 providestatepolicecommunicationsorthetrooperinchargeatthescenewithavalidreasonforthedelay
+6 within that time, a second rotation wrecker may be dispatched. If a second wrecker is requested before
+7 the arrival of the initially dispatched rotation wrecker, the initially requested wrecker shall forfeit the call
+8 and leave the incident scene. Repeated tardiness may result in suspension or removal from the rotation
+9 listoranyotherdisciplinaryactionasoutlinedinRSA106-B:34. Notwithstandinganyotherprovisionof
+10 law,forimminentconcernsrelatedtopublichealth,safety,orwelfare,thedirectormayorderthe
+11 immediatesuspensionofthetowbusinessattheirdiscretion,andwithoutahearing. Anysuch
+12 suspensionshallbesubjecttothehearingrequirementsandtimelinessetforthinRSA541-A:30,III.
+13 274:12 RequirementstoRemainontheTowList. AmendRSA106-B:31,XIIItoreadasfollows:
+14 XIII. State troopers or other designated department of safety personnel may be assigned at the
+15 discretion of the state police director to conduct reviews from time to time of towing businesses, their
+16 records, and equipment to ensure compliance with relevant rules and laws and make a recommendation[
+17 throughthestatepolicecommunicationscommander]tothedirectorastothelevelofcomplianceandany
+18 appropriateaction. Towbusinessesparticipatinginthetowlistshallmake,duringnormalbusinesshours,
+19 their records, vehicles, facility, and equipment available for examination for such reviews by troopers or
+20 other department of safety employees. In cases of non-compliance, the state police [communications
+21 commander] shall recommend appropriate action to the director, which may include a verbal or written
+22 reprimand, suspension, or revocation from continued participation in the rotating list. Such action is
+23 discretionaryandshallbebasedonthenatureandseriousnessofthediscrepancyandanypriorrecordof
+24 thebusiness.
+25 274:13 Compliance Action; Disciplinary Enforcement. RSA 106-B:34 is repealed and reenacted to
+26 readasfollows:
+27 106-B:34 ComplianceAction;DisciplinaryEnforcement.
+28 I. Participationinthestatepolicetowlistisaprivilegeandnotaright. Thedirectorofthedivision
+29 of state police shall administer the state police tow list and shall ensure that towing, storage, roadside
+30 emergency service, and vehicle recovery performed at the direction or request of the division of state
+31 police are conducted in compliance with state law and rules adopted pursuant to RSA 541-A, and in a
+32 mannerthatpromotespublicsafetyandmaintainstheconfidenceofthemotoringpublic.
+33 II. The director may take disciplinary action upon a finding, supported by satisfactory evidence,
+34 thatatowbusinessortowbusinessemployeehasviolated:
+35 (a) TheprovisionsofRSA106-B:29throughRSA106-B:33;or
+36 (b) Anyruleadoptedpursuanttothissubdivision.
+37 III. Disciplinaryactionsauthorizedunderthissectionmayinclude:
+38 (a) Averbalorwrittenwarning;
+
+CHAPTER274
+SB617-FINALVERSION
+-Page7-
+1 (b) Suspensionofatowbusiness,atowbusinessemployee,orboth,fromparticipationinthe
+2 statepolicetowlistforaperiodnottoexceed2years;or
+3 (c) Removal from the state police tow list. Tow businesses that are removed are eligible to
+4 reapplytothestatepolicetowlistafteraperiodofnotlessthan2years.
+5 IV. In determining the appropriate disciplinary action, the director shall consider the seriousness
+6 oftheviolation,anypriorhistoryofviolations,andanyresultingharmtothepublicortoproperty.
+7 V. Any person aggrieved by a disciplinary action imposed under this section may appeal the
+8 decisiontothedepartmentofsafetybureauofhearingsandthereaftertothesuperiorcourtinaccordance
+9 withRSA106-B:31,XIV.
+10 274:14 New Section; License Suspension; Failure to Pay Fines and Fees. Amend RSA 263 by
+11 insertingaftersection56-gthefollowingnewsection:
+12 263:56-h LicenseSuspensionProhibitedforUnpaidTowingorStorageFees.
+13 I. Undernocircumstancesshallthedirectorsuspendorrevokeadriver'slicenseforfailuretopay
+14 removal and storage fees for a vehicle towed or stored for any reason. The director is permitted to not
+15 renewadriver'slicenseforfailuretopaysuchfeesuntilsuchatimeasthefeesarepaid.
+16 II. A person whose driver's license has been suspended for outstanding vehicle removal or
+17 storagefeesandwhoisotherwiseeligibletodriveshallhavetheirdriver'slicensereinstatedandshallnot
+18 be required to pay a reinstatement fee. No later than 30 days after the effective date of this section, the
+19 divisionshall,without requiringareinstatementfee, reinstatethedriver'slicenseornonresident operating
+20 privilege.
+21 274:15 EffectiveDate.
+22 I. Sections1-4ofthisactshalltakeeffectJanuary1,2027.
+II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+Approved:July02,2026
+EffectiveDate:
+I.Sections1-4effectiveJanuary1,2027
+II.RemaindereffectiveAugust31,2026

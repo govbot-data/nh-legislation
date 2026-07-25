@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1384-ASAMENDEDBYTHEHOUSE
+12Mar2026...0921h
+2026SESSION
+26-3174
+07/09
+1384
+HOUSEBILL
+ANACT relative to prohibiting foreign adversary persons or foreign entities of concern
+fromfinancinglawsuits.
+SPONSORS: Rep. Cole, Hills. 26; Rep. Aures, Merr. 13; Rep. Kesselring, Hills. 18; Rep. Kofalt,
+Hills. 32; Rep. Ouellet, Coos 3; Rep. Post, Hills. 42; Rep. Wood, Merr. 13; Rep.
+Hunt, Ches. 14; Sen. Birdsell, Dist 19; Sen. Gannon, Dist 23; Sen. Reardon, Dist
+15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits foreign adversary persons or foreign entities of concern from financing
+lawsuits.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1384-ASAMENDEDBYTHEHOUSE
+12Mar2026...0921h 26-3174
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to prohibiting foreign adversary persons or foreign entities of concern
+fromfinancinglawsuits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; New Hampshire Third-Party Litigation Funding Transparency Act. Amend
+2 RSAbyinsertingafterchapter294-Ethefollowingnewchapter:
+3 CHAPTER294-F
+4 NEWHAMPSHIRETHIRD-PARTYLITIGATIONFUNDINGTRANSPARENCYACT
+5 294-F:1 Definitions. Inthischapter:
+6 I. "Commercial litigation financier" means a person in the business of entering into
+7 commercial litigation financing agreements or lawyer financing agreements. The term "commercial
+8 litigation financier" shall not include a nonprofit organization exempt from federal income tax under
+9 501(c)(3) of the United States Internal Revenue Code or its funders if the nonprofit organization
+10 represents the claimant on a pro bono basis, which may include an award of costs or attorney fees to
+11 thenonprofitorganizationorarelatedattorney.
+12 II. "Consumer legal funding agreement" means a non-recourse transaction in which a
+13 consumer litigation funding company purchases, and a consumer assigns to the company, a
+14 contingent right to receive an amount of the potential proceeds of a settlement, judgment, award, or
+15 verdictobtainedintheconsumer'slegalclaim.
+16 III. "Commercial litigation financing agreement" means, with respect to any civil action or
+17 groupofcivilactions,awrittenagreement:
+18 (a) Wherebyathirdpartyagreestoprovidefundstooneofthenamedparties,and
+19 (b) Which creates a direct or collateralized interest in the proceeds of a civil action or
+20 group of civil actions, by settlement, verdict, judgment, or otherwise, where such interest is based in
+21 wholeorinpartonafundingobligationtothefundedpartyintheactionorgroupofactions.
+22 (1) "Commerciallitigationfinancingagreement"shallincludeanycontract,including
+23 any option, forward contract, futures contract, short position, swap, or similar contract, or other
+24 agreementthatissubstantiallysimilartoalitigationfinancingagreement.
+25 (2) "Commerciallitigationfinancingagreement"shallnotinclude:
+26 (A) Aconsumerlegalfundingagreement;
+27 (B) An agreement by an attorney or law firm to provide legal services on a
+28 contingency fee basis to the claimant or to advance the claimant's legal costs in accordance with the
+29 NewHampshirerulesofprofessionalconduct;
+
+HB1384-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (C) A health insurer, medical provider, or assignee that has paid, is obligated to
+2 pay, or is owed any sums for a person’s health care under the terms of a health insurance plan or
+3 agreement;
+4 (D) A financial institution providing loans to the claimant or the claimant’s
+5 attorneyorlaw firmwhenrepaymentis notcontingent upontheoutcomeofthelegalclaim oronthe
+6 outcome of any matter within a portfolio that includes the legal claim and involves the same
+7 attorneyorlawfirmoraffiliatedattorneyorlawfirm;
+8 (E) Alawyerfinancingagreement;or
+9 (F) A person with a preexisting contractual obligation to indemnify or defend a
+10 partytoalegalclaim.
+11 IV. "Foreign country of concern" means a foreign government or person listed as a “foreign
+12 adversary”under15C.F.R.791.4.
+13 V. "Foreignentityofconcern"or"foreignpersonofconcern"meansanentityorpersonthat:
+14 (a) Isorganizedorincorporatedinaforeigncountryofconcern;
+15 (b) Is owned or controlled by the government, a political subdivision, or a political party
+16 ofaforeigncountryofconcern;
+17 (c) Hasitsprincipalplaceofbusinessinaforeigncountryofconcern;or
+18 (d) Is owned, organized, or controlled by, affiliated with, or acting on behalf of an
+19 individualorentitythatisorhasbeen:
+20 (1) OnasanctionslistmaintainedbytheOfficeofForeignAssetsControl,including:
+21 (A) SpeciallyDesignatedNationalsandBlockedPersonsList(SDNList);
+22 (B) ForeignSanctionsEvadersList;
+23 (C) Non-SDNIranSanctionsActList;
+24 (D) SectoralSanctionsIdentificationsList;or
+25 (E) List of Foreign Financial Institutions Subject to Correspondent Account and
+26 Payable-ThroughAccountSanctions;or
+27 (2) Designated by the United States Secretary of State as a foreign terrorist
+28 organization.
+29 294-F:2 Prohibitions Related toCommercial LitigationFunding. No personor entityshall enter
+30 intoacommerciallitigationfinancingagreementwithaforeignentityofconcernoraforeigncountry
+31 orpersonofconcern,oranyentitycontrolledbyanyoftheforegoingpersonsorentities.
+32 294-F:3 Applicability. This chapter shall apply to any commercial litigation financing
+33 agreement or lawyer financing agreement that is effectuated on or after the effective date of this
+34 chapter.
+35 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

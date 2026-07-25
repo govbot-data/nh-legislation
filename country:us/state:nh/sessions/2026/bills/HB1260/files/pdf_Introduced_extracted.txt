@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1260-FN-ASINTRODUCED
+2026SESSION
+26-2430
+04/09
+1260-FN
+HOUSEBILL
+ANACT relativetomarriageregistrationformsanddelayedcertificatesofmarriage.
+SPONSORS: Rep.Dargie,Hills.43;Rep.Petrigno,Hills.43
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes advancecompletionof the marriageapplicationworksheet and imposes a fee
+forfilingadelayedcertificateofmarriage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1260-FN-ASINTRODUCED
+26-2430
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomarriageregistrationformsanddelayedcertificatesofmarriage.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Marriage Registration Forms; Completion in Advance. Amend RSA 5-C:41, II to read as
+2 follows:
+3 II. The marriage application worksheet may be completed online or offline ahead of
+4 time, and shall be completed by the prospective bride and groom by signing it in the office of the
+5 clerk of the town or city. The town or city clerk shall also sign the marriage application
+6 worksheet. The information supplied by the groom shall include his full name; his usual residence
+7 by street and number, city, town or location, county and state; his birthplace; his date of birth; his
+8 socialsecuritynumber;hisfather'sfullname;hisfather'sbirthplace;hismother'smaidenname;and
+9 his mother's birthplace. The information supplied by the bride shall include her full name and
+10 maiden surname, if different; her usual residence by street and number, city, town or location,
+11 countyandstate;herbirthplace;herdateofbirth;hersocialsecuritynumber;herfather'sfullname;
+12 herfather'sbirthplace;hermother'smaidenname;and,hermother'sbirthplace.
+13 2 Marriage Registration Forms and Procedures; Delayed Certificate of Marriage Filing Fee.
+14 AmendRSA5-C:52,IItoreadasfollows:
+15 II. Registration of marriage pursuant to paragraph I requires that an application for a
+16 delayedcertificateofmarriagebeinitiatedbythebride,groom,ortheirlegalrepresentativewiththe
+17 clerk of the town or city where the marriage license was allegedly issued. The filing fee for a
+18 delayed certificate of marriage shall be $25 payable to the city or town clerk, to be retained
+19 by the city or town. To be acceptable for registration by the state registrar, the delayed certificate
+20 of marriage shall be supported by a copy of the marriage worksheet application, if available,
+21 obtained from the clerk of the town or city where the intentions were filed and at least 2 of the
+22 following:
+23 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2430
+11/15/25
+HB1260-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetomarriageregistrationformsanddelayedcertificatesofmarriage.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+None

@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1439-FN-ASINTRODUCED
+2026SESSION
+26-2649
+06/05
+1439-FN
+HOUSEBILL
+ANACT relative to exceeding part-time employment hourly limits for members of the New
+Hampshireretirementsystem.
+SPONSORS: Rep. J. MacDonald, Carr. 6; Rep. R. Brown, Carr. 8; Rep. Crawford, Carr. 3; Rep.
+Maggiore, Rock. 23; Rep. Rung, Hills. 12; Rep. J. Smith, Carr. 5; Rep. Peternel,
+Carr.6
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrevisesthepenaltystructureforretireeswhoexceedtheannualhourlimitforpart-time
+employment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1439-FN-ASINTRODUCED
+26-2649
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to exceeding part-time employment hourly limits for members of the New
+Hampshireretirementsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Exceeding Part-Time Hourly Limit. RSA 100-A:7, II is repealed and reenacted to read as
+2 follows:
+3 II. If a retired member works part-time for one or more participating employers in any
+4 calendaryearandexceedsthemaximumnumberofhourspermittedunderRSA100-A:1,XXXIV,the
+5 board shall impose a proportional reduction in the member’s state annuity portion of the retirement
+6 allowanceasfollows:
+7 (a) The board shall calculate the excess earnings resulting from hours worked in excess
+8 of the limit and shall reduce the retiree’s annuity in an amount equal to the excess earnings. The
+9 totalreductionshallbedistributedasequalmonthlyreductionsovera12-monthperiod.
+10 (b) Theboardshallnotsuspendaretiree’sentireannuitysolelyforexceedingtheannual
+11 hourlylimitation. Afullsuspensionmayoccur onlyiftheretireeknowinglyandwillfullyengaged in
+12 substantial continued employment that materially violated the hourly limitation, or if the retiree
+13 failed to respond in good faith to a written inquiry by the retirement system concerning hours
+14 worked.
+15 (c) A retiree may demonstrate just cause for having exceeded the hourly limitation,
+16 including reliance on inaccurate time or wage reporting by a part-time employer. If the board of
+17 trustees finds in writing that the retiree acted in good faith and that inequity would otherwise
+18 result,theboardmaywaiveallorpartoftheannuityreduction.
+19 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2649
+11/24/25
+HB1439-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to exceeding part-time employment hourly limits for members of the New
+Hampshireretirementsystem.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 IndeterminableDecrease
+RevenueFund(s) InternalServiceFund
+Expenditures* $0 $0 IndeterminableIncrease
+FundingSource(s) AgencyTransfersandAgencyIncome
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+Expenditures $0 $0 IndeterminableIncrease
+*The New Hampshire Retirement System states it is not able to separate the fiscal impact
+of this legislation between county and local government, therefore the fiscal impact is
+showntogetheraspoliticalsubdivisions.
+METHODOLOGY:
+This bill revises how the New Hampshire Retirement System addresses retirees who exceed
+part-time hour limits by replacing full pension suspensions with proportional reductions in the
+member’s state annuity based on excess earnings. Exceptions are allowed for good faith errors
+or employer misreporting, with full suspension reserved for willful, repeated violations or failure
+torespondtosysteminquiries.
+The Department of Administrative Services (DAS) states that retiree health premiums are
+usually withheld from the state annuity, but if the annuity is too low to cover the full amount,
+DAS must bill retirees directly, resulting in additional administrative costs. Since it's unknown
+how many retirees this would affect, the increase in state spending is indeterminable. This
+
+could also reduce net revenue by making it harder to collect contributions. Additionally, if
+retirees work over 30 hours per month, the state may be required to offer health benefits under
+theAffordableCareAct(ACA)toavoidIRSpenalties.
+The New Hampshire Retirement System (NHRS) states that the fiscal impact is indeterminable
+due to uncertainty about how many retirees would be affected, potential shifts from full-time to
+part-time positions, and unknown administrative costs related to system changes. Additionally,
+contribution rates for fiscal years 2026 and 2027 have been certified and are, therefore, not
+subjecttochange.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServicesandNewHampshireRetirementSystem

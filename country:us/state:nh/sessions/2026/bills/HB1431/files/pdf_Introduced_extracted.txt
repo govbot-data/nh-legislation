@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1431-FN-ASINTRODUCED
+2026SESSION
+26-2574
+08/07
+1431-FN
+HOUSEBILL
+ANACT restrictingtheuseofneonicotinoidpesticides.
+SPONSORS: Rep. J. MacDonald, Carr. 6; Rep. Crawford, Carr. 3; Rep. Damon, Sull. 8; Rep.
+Maggiore,Rock.23;Rep.Peternel,Carr.6;Rep.Rung,Hills.12
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restricts the use of neonicotinoid pesticides and requires the department of agriculture,
+markets, and food to create an educational program about the use of such pesticides and
+alternatives.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1431-FN-ASINTRODUCED
+26-2574
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restrictingtheuseofneonicotinoidpesticides.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Neonicotinoid Pesticides. Amend RSA 430 by inserting after section 58 the
+2 followingnewsubdivision:
+3 NeonicotinoidPesticides
+4 430:59 Definitions.Inthissubdivision:
+5 I. "Bloom" means appeared from the onset of flowering or inflorescence until the petal fall is
+6 complete.
+7 II. "Neonicotinoid pesticide" means any pesticide containing one or more of the following
+8 active ingredients: acetamiprid, clothianidin, dinotefuran, imidacloprid, nitenpyram, nithiazine,
+9 thiacloprid,orthiamethoxam.
+10 III. "Ornamental Plants" means perennials, annuals, and ground cover purposefully planted
+11 foraestheticreasons.
+12 430:60 NeonicotinoidPesticideUseRestricted.
+13 I. The department of agriculture shall re-classify neonicotinoid pesticides as “restricted use”
+14 andshalllimittheirapplicationtostatecertifiedapplicatorsonlyandsoldbylicenseddealersonly.
+15 II. Nopersonshalluseanyneonicotinoidpesticideforanon-agriculturalpurpose.
+16 430:61 UseofNeonicotinoidonStateProperty.
+17 I. No neonicotinoid pesticides shall be used on any property owned, leased, or managed by
+18 the state of New Hampshire, including but not limited to state parks, forests, recreational areas,
+19 highwayrights-of-way,leasedlands,andgroundssurroundingstatebuildings,except:
+20 (a) Forcontrolofinvasivespecies;
+21 (b) For structural pest control within state buildings when applied by licensed pest
+22 controloperators;or
+23 (c) Exemptions approved bythepesticidedivisionof thedepartment of agriculture onan
+24 “asneeded”basis.
+25 II. Application of neonicotinoid pesticides on state property shall be limited from dusk until
+26 dawn.
+27 III. Neonicotinoid pesticide shall not be applied to outdoor flowering plants during bloom
+28 periods.
+29 430:62 Education About Nenicotinoid Pesticides. The department shall develop an educational
+30 programto:
+
+HB1431-FN-ASINTRODUCED
+-Page2-
+1 I. Inform the public about the impacts of neonicotinoid pesticides on birds, bees, beneficial
+2 insectsandpollinators;
+3 II. Provideguidanceonpollinator-friendlyalternativestoneonicotinoidpesticides;
+4 III. Promoteintegratedpestmanagementpracticesthatprotectpollinators;and
+5 IV. Supporttheestablishmentofpollinatorhabitatonprivateandpubliclands.
+6 430:63 Penalties.
+7 I. Any person who violates any of the provisions of this subdivision shall be guilty of a
+8 misdemeanorifanaturalperson,orguiltyofafelonyifanyotherperson.
+9 II. Anypersonwhoviolatesanyprovisionofthissubdivisionshall,inaddition,beliablefora
+10 civil forfeiture not to exceed $5,000 for each such violation, or each day of a continuing violation,
+11 which may be collected in a civil action or in connection with an action for injunctive relief brought
+12 by the attorney general. The proceeds of any such forfeiture shall be utilized in the enforcement of
+13 this subdivision, for pesticide control research, or to remedy damage to the resources of the state
+14 causedbyunlawfulpesticideuseandapplication.
+15 III. Any person who violates any provision of this subdivision may be subject to the
+16 impositionofanadministrativefineleviedbythedivision,nottoexceed$1,000foreachviolation.
+17 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2574
+11/30/25
+HB1431-FN-FISCALNOTE
+ASINTRODUCED
+ANACT restrictingtheuseofneonicotinoidpesticides.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

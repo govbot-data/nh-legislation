@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1269 -ASINTRODUCED
+2026SESSION
+26-2519
+05/09
+1269
+HOUSEBILL
+ANACT relativetoqualificationstopracticeacupuncture.
+SPONSORS: Rep.Schmidt,Straf.14;Rep.Warden,Hills.39
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises educational requirements for acupuncture licensure; adds an acupuncture
+detoxification specialist to the acupuncture board; and revises the supervision requirement for
+certifiedacupuncturedetoxificationspecialists.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1269-ASINTRODUCED
+26-2519
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoqualificationstopracticeacupuncture.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DefinitionofNADATraining. AmendRSA328-G:2,XIItoreadasfollows:
+2 XII. "NADA training" means the standardized auricular acupuncture protocol developed by
+3 NADA[thatisineffectonJuly1,2017].
+4 2 New Subparagraph; Board of Acupuncture Licensing; Members. Amend RSA 328-G:3, I by
+5 insertingaftersubparagraph(b)thefollowingnewsubparagraph:
+6 (c) One certified acupuncture detoxification specialist, appointed by the governor with
+7 theadviceandconsentofthecouncil.
+8 3 Acupuncture. AmendRSA328-G:9,II(e)(1)toreadasfollows:
+9 (e)(1) Has earned [a baccalaureate,] an associate's degree or a minimum of 60
+10 credit hours at an accredited postsecondary educational institution, or has earned a
+11 registered nurse[,] or physician associate degree from an accredited institution, and has a current,
+12 valid license to practice acupuncture from another state whose requirements are substantially equal
+13 toorexceedtherequirementsofRSA328-G:9,II;or
+14 4 Certified Acupuncture Detoxification Specialist. Amend RSA 328-G:9-a, II(b) to read as
+15 follows:
+16 (b) "Generalsupervision"shallbeprovidedbysitevisit,phone,orotherelectronicmeans
+17 duringbusinesshourswithatleast2sitevisitsperyear,duringthe first2 yearsof certification,
+18 by a licensed acupuncturist currently licensed in New Hampshire pursuant to RSA 328-G:9. The
+19 supervising licensed acupuncturist shall not be required to be on site for direction and supervision,
+20 butshallbeavailableatleastbytelecommunications.
+21 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

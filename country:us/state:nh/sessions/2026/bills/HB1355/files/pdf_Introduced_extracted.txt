@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1355 -ASINTRODUCED
+2026SESSION
+26-3060
+09/08
+1355
+HOUSEBILL
+ANACT relativetoeliminatingthedefaultbudgetfromtheofficialballotreferenda.
+SPONSORS: Rep. Noble, Hills. 2; Rep. Ammon, Hills. 42; Rep. Aures, Merr. 13; Rep. Berry,
+Hills. 44; Rep. Drago, Rock. 4; Rep. Labrie, Hills. 2; Rep. Layon, Rock. 13; Rep.
+TomMannion,Hills.1;Rep.Pauer,Hills.36
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill eliminates the inclusion of a default budget in an operating budget warrant article for
+townsthatusetheofficialballotreferendaformofmeeting. Thisbillfurtherchangestheprocedures
+forwhatoccursshouldtheoperatingbudgetwarrantarticlefail.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1355-ASINTRODUCED
+26-3060
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoeliminatingthedefaultbudgetfromtheofficialballotreferenda.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 UseofOfficialBallot;DefaultBudget. AmendRSA40:13,IVtoreadasfollows:
+2 IV. The first session of the meeting, governed by the provisions of RSA 40:4, 40:4-a, 40:4-b,
+3 40:4-f, and 40:6-40:10, shall consist of explanation, discussion, and debate of each warrant article,
+4 including warrant articles pertaining to the operating budget [and the default budget]. A vote to
+5 restrict reconsideration shall be deemed to prohibit any further action on the restricted article until
+6 the second session, and RSA 40:10, II shall not apply. Warrant articles may be amended at the first
+7 session,subjecttothefollowinglimitations:
+8 (a) Warrantarticleswhosewordingisprescribedbylaw,orwarrantarticlesrequired
+9 orauthorizedbylawtobeprintedontheofficialballot,shallnotbeamended.
+10 (b) Warrant articles that are amended shall be placed on the official ballot for a final
+11 voteonthemainmotion,asamended.
+12 (c) No warrant article shall be amended to eliminate the subject matter of the article or
+13 to change the purpose of the article. An amendment that changes the dollar amount of an
+14 appropriationinawarrantarticleshallnotbedeemedtoviolatethissubparagraph.
+15 2 UseofOfficialBallot;DefaultBudget. AmendRSA40:13,IX-XI-atoreadasfollows:
+16 IX.[(a)] "Operating budget" as used in this subdivision means "budget," as defined in RSA
+17 32:3, III, exclusive of "special warrant articles," as defined in RSA 32:3, VI, and exclusive of other
+18 appropriationsvotedseparately.
+19 [(b) "Default budget" as used in this subdivision means the amount of the same
+20 appropriations as contained in the operating budget authorized for the previous year, reduced and
+21 increased,asthecasemaybe,bydebtservice,contracts,andotherobligationspreviouslyincurredor
+22 mandated by law, and reduced by one-time expenditures contained in the operating budget and by
+23 salariesandbenefitsofpositionsthathavebeeneliminatedintheproposedbudget.Forthepurposes
+24 ofthisparagraph,one-timeexpendituresshallbeappropriationsnotlikelytorecurinthesucceeding
+25 budget, and eliminated positions shall not include vacant positions under recruitment or positions
+26 redefined in the proposed operating budget, as determined by the governing body, unless the
+27 provisions of RSA 40:14-b are adopted, of the local political subdivision. In calculating the default
+28 budget amount, the governing body shall follow the statutory formula which may result in a higher
+29 orloweramountthantheproposedoperatingbudget.
+
+HB1355 -ASINTRODUCED
+-Page2-
+1 (c) "Contracts" as used in this subdivision means contracts previously approved, in the
+2 amount so approved, by the legislative body in either the operating budget authorized for the
+3 previousyearorinaseparatewarrantarticleforapreviousyear.]
+4 X. If no operating budget article is adopted, [the local political subdivision either shall be
+5 deemed to have approved the default budget or] the governing body [may] shall hold a special
+6 meetingpursuanttoparagraphXVItotakeuptheissueofarevisedoperatingbudgetonly;provided
+7 thatRSA31:5andRSA197:3shallnotapplytosuchaspecialmeeting.Ifnooperatingbudgetarticle
+8 isadoptedtheestimatedrevenuesshallneverthelessbedeemedtohavebeenapproved.
+9 XI.[(a) The default budget shall be disclosed and presented for questions and discussion at
+10 the first budget hearing held pursuant to RSA 32:5 or RSA 197:6. The governing body, unless the
+11 provisions of RSA 40:14-b are adopted, shall complete a default budget form created by the
+12 department of revenue administration to demonstrate how the default budget amount was
+13 calculated. The line item details for changes under subparagraph (2) shall be available for
+14 inspection by voters. The form and associated calculations shall, at a minimum, include the
+15 following:
+16 (1)Appropriationscontainedinthepreviousyear'soperatingbudget;
+17 (2) Reductions and increases to the previous year's operating budget including
+18 identification of specific items that constitute a change by account code, and the reasons for each
+19 change;
+20 (3)One-timeexpendituresasdefinedundersubparagraphIX(b);and
+21 (4) Reductions for eliminated positions and benefit expenditures as defined under
+22 subparagraphIX(b).
+23 (b)Thisamountshallnotbeamendedbythelegislativebody.However,thisamountmay
+24 be adjusted by the governing body, unless the provisions of RSA 40:14-b are adopted, acting on
+25 relevant new information at any time before the ballots are printed, provided the governing body,
+26 unlesstheprovisionsofRSA40:14-bareadopted,completesanamendeddefaultbudgetform.
+27 (c)] The wording of the second session ballot question concerning the operating budget
+28 shallbeasfollows:
+29 "Shall the (local political subdivision) raise and appropriate as an operating budget, not
+30 including appropriations by special warrant articles and other appropriations voted separately, the
+31 amounts set forth on the budget posted with the warrant or as amended by vote of the first session,
+32 for the purposes set forth therein, totaling $ ____________? Should this article be defeated, [the
+33 default budget shall be $ __________, which is the same as last year, with certain adjustments
+34 requiredbypreviousactionofthe(localpolitical subdivision)orbylaw; or]thegoverningbody[may]
+35 shall hold one special meeting, in accordance with RSA 40:13, X and XVI, to take up the issue of a
+36 revisedoperatingbudgetonly."
+
+HB1355 -ASINTRODUCED
+-Page3-
+1 XI-a. If a political subdivision maintains a separate fund for the revenues and expenditures
+2 related to the operation, maintenance, and improvement of a water or sewer system, and if any
+3 appropriation for such fund is to be raised through user fees or charges and is included in a warrant
+4 article separate from the operating budget, the warrant article may include a default amount for
+5 such appropriation, which shall be deemed to have been approved if the proposed appropriation is
+6 not approved. The default amount shall be determined by the governing body[, or by the budget
+7 committeeifthepoliticalsubdivisionhasadoptedtheprovisionsofRSA40:14-b,]andshallequalthe
+8 amount of the same appropriation for the preceding fiscal year, reduced and increased, as the case
+9 may be, by debt service, contracts, and other obligations previously incurred or mandated by law,
+10 and reduced by one-time expenditures contained in the previous year's appropriation. The warrant
+11 article shall state the default amount for the appropriation and shall state that if the appropriation
+12 proposedinthearticleisnotapproved,thedefaultamountshallbedeemedtohavebeenapproved.
+13 3 UseofOfficialBallot;DefaultBudget. AmendRSA40:13,XVItoreadasfollows:
+14 XVI. The warrant for anyspecial meeting shall prescribe the date, place and hour for both a
+15 first and second session. The second session shall be warned for a date not fewer than 28 days nor
+16 more than 60 days following the first session. The first and second sessions shall conform to the
+17 provisions of this subdivision pertaining to the first and second sessions of annual meetings. Special
+18 meetingsshallbesubjecttoRSA31:5,39:3,195:13,197:2,and197:3,providedthatnomorethanone
+19 special meeting may be held to raise and appropriate money for the same question or issue in any
+20 one calendar year or fiscal year, whichever applies, and further provided that any special meeting
+21 held pursuant to [paragraphs] paragraph X [and XI] shall not be subject to RSA 31:5 and RSA
+22 197:3 and shall not be counted toward the number of special meetings which may be held in a given
+23 calendarorfiscalyear.
+24 (a) For the special meeting first session under this paragraph, neither the
+25 governing body nor budget committee shall propose, nor shall the legislative body make an
+26 amendment, such that the operating budget is higher than the operating budget which
+27 failedduringtheannualmeetingsecondsessionballoting.
+28 (b) If no operating budget article is adopted via the special meeting second
+29 session ballot question under this paragraph, the adopted budget shall be the previous
+30 year’sadoptedbudgetreducedby10percent.
+31 (c) The wording of the second session ballot question of the special meeting
+32 underthisparagraphconcerningtheoperatingbudgetshallbeasfollows:
+33 "Shall the (local political subdivision) raise and appropriate as an operating budget,
+34 not including appropriations by special warrant articles and other appropriations voted
+35 separately, the amounts set forth on the budget posted with the warrant or as amended by
+36 vote of the first session of the special meeting, for the purposes set forth therein, totaling $
+
+HB1355 -ASINTRODUCED
+-Page4-
+1 ____________? Should this article be defeated, the adopted budget shall be $ __________,
+2 whichis10percentlowerthanthepreviousyear’sadoptedoperatingbudget."
+3 4 MunicipalBudgetLaw;Appropriations. AmendRSA32:7-a,IIItoreadasfollows:
+4 III. For each year after the first year, the amount designated for that year as provided in
+5 paragraph II shall be deemed appropriated without further vote by the legislative body, unless the
+6 appropriation is rescinded as provided in paragraph VI. [In a town or district that has adopted the
+7 official ballot referendum form of meeting, the amount designated for each year shall be included in
+8 thedefaultbudgetforthatyear.]
+9 5 DutiesandAuthorityoftheBudgetCommittee. AmendRSA32:16,Itoreadasfollows:
+10 I. To prepare the budget as provided in RSA 32:5[, and if authorized under RSA 40:14-b, a
+11 default budget under RSA 40:13, IX(b)] for submission to each annual or special meeting of the
+12 voters of the municipality, and, if the municipality is a town, the budgets of any school district or
+13 village district wholly within the town, unless the warrant for such meeting does not propose any
+14 appropriation.
+15 6 Repeal. Thefollowingarerepealed:
+16 I. RSA32:5,VII(b),relativetopostingofthedefaultbudget.
+17 II. RSA40:14-b,relativetodelegationofthedeterminationofthedefaultbudget.
+18 7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

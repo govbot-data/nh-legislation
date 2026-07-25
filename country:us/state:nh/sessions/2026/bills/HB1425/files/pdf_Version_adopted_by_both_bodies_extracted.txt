@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1425-FN-VERSIONADOPTEDBYBOTHBODIES
+5Mar2026...0528h
+2026SESSION
+26-2457
+04/09
+1425-FN
+HOUSEBILL
+ANACT relativetothedevelopmentofanonlinewetlandspermitprocessingsystem.
+SPONSORS: Rep.Donnelly,Rock.25
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill simplifies wetland permitting for small projects and gives the department of
+environmental services the authority to create an alternative adaptive permitting process for
+emergencyornaturaldisasterresponse.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1425-FN-VERSIONADOPTEDBYBOTHBODIES
+5Mar2026...0528h 26-2457
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedevelopmentofanonlinewetlandspermitprocessingsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Water Management and Protection; Wetland Permitting Procedures. Amend RSA 482-A:11,
+2 IIItoreadasfollows:
+3 III.(a) Upon written notification to the department by a municipal conservation
+4 commission[,] or a local river management advisory committee[, or the New Hampshire Rivers
+5 Council] that it intends to investigate any notice received by it pursuant to RSA 482-A:3, the
+6 departmentshallnotmakeitsdecisionontheapplicationthatisthesubjectofthenoticeuntilithas
+7 received and acknowledged receipt of a written report from such commission[,] or local river
+8 management advisory committee[, or the council], or until 40 days from the date of filing with the
+9 municipal clerk of such notice, whichever occurs earlier. In connection with any local investigation,
+10 a conservation commission may hold a public informational meeting or a public hearing, the record
+11 of which shall be made a part of the record of the department. If a conservation commission[,] or a
+12 local river management advisory committee[, or the New Hampshire Rivers Council] makes a
+13 recommendation to the department in its report, the department shall specifically consider such
+14 recommendation and shall make written findings with respect to each issue raised in such report
+15 which is contrary to the decision of the department. If notification by a local conservation
+16 commission[,] or local river management advisory committee[, or the New Hampshire Rivers
+17 Council] pursuant to this paragraph, is not received by the department within 14 days following the
+18 datethenoticeis filed withthe municipal clerk, the department shall not suspend its normal action,
+19 butshallproceedasifnonotificationhasbeenmade.
+20 (b) Relative to any [expedited] permit by notification under rules adopted in
+21 accordance with paragraph [VI] VI-a, the provisions of subparagraph (a) shall be modified as
+22 follows:
+23 (1) The40-daysuspendedactionlimitisreducedto21days;and
+24 (2) The notification by a municipal conservation commission, or local river
+25 management advisory committee where applicable, of intended investigation shall be assumed
+26 unless the [application filed under RSA 482-A:3] notification was signed by the conservation
+27 commission,or, ifone hasnot beenestablished inthemunicipality,bythelocal governingbody, and
+28 where applicable, by the local river management advisory committee, in which case the
+29 provisionsofsubparagraph(a)shallnotapply.
+30 2 Water Management and Protection; Emergency Response Wetland Permitting. Amend RSA
+31 482-A:11,VIandVI-atoreadasfollows:
+
+HB1425-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 VI. The commissioner shall adopt rules pursuant to RSA 541-A establishing [an expedited
+2 applicationandpermittingprocessforcertainminimumimpactprojects. TheprovisionsofRSA482-
+3 A:3, I and paragraph III of this section shall apply.] an alternative, adaptive permitting process
+4 toauthorize activitiesrequiredtorespondto anemergency ornatural disaster. Suchrules
+5 may allow for the ability to conduct certain activities prior to receiving authorization as
+6 necessarytoprotectpublicsafetyandproperty.
+7 VI-a. The commissioner shall adopt rules pursuant to RSA 541-A establishing a permit by
+8 notification process for certain minor projects determined to have minimum impact [projects.
+9 TheprovisionsofRSA482-A:3,I(a)and(c)shallapply].
+10 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2457
+3/5/26
+HB1425-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0528h)
+ANACT relativetothedevelopmentofanonlinewetlandspermitprocessingsystem.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

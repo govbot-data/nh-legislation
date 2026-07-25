@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER223
+HB1269-FINALVERSION
+11Mar2026...0795h
+05/07/2026 1651s
+2026SESSION
+26-2519
+05/09
+1269
+HOUSEBILL
+ANACT relativetoqualificationstopracticeacupuncture.
+SPONSORS: Rep.Schmidt,Straf.14;Rep.Warden,Hills.39
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill modifies requirements for acupuncture licensure; adds an acupuncture detoxification
+specialist to the acupuncture board; and updates the name of the certification commission from the
+NCCAOMtotheNCBAHM.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER223
+HB1269-FINALVERSION
+11Mar2026...0795h
+05/07/2026 1651s 26-2519
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoqualificationstopracticeacupuncture.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 223:1 DefinitionofNADATraining. AmendRSA328-G:2,XIItoreadasfollows:
+2 XII. "NADAtraining"meansthestandardizedauricularacupunctureprotocoldevelopedbyNADA
+3 [thatisineffectonJuly1,2017].
+4 223:2 Acupuncture; Board Membership. Amend the introductory paragraph of RSA 328-G:3, I(a) to
+5 readasfollows:
+6 (a) [Four] Threeacupuncturists, andonecertifiedacupuncturedetoxificationspecialist,
+7 appointedbythegovernorwiththeadviceandconsentofthecouncil,whoshall:
+8 223:3 Acupuncture. AmendRSA328-G:9,II(e)(1)toreadasfollows:
+9 (e)(1) Hasearned[abaccalaureate, registerednurse, or physicianassociatedegreefrom an
+10 accredited institution, and has] a current, valid license to practice acupuncture from another state whose
+11 requirementsaresubstantiallyequaltoorexceedtherequirementsofRSA328-G:9,II;or
+12 223:4 DefinitionofNCBAHM. RSA328-G:2,VIIisrepealedandreenactedtoreadasfollows:
+13 VII. "NCBAHM" means the National Certification Board of Acupuncture and Herbal Medicine,
+14 includingitspredecessorsandsuccessors.
+15 223:5 Change from NCCAOM to NCBAHM. Amend the following RSA provisions by replacing
+16 NCCAOMwithNCBAHM: RSA328-G:9,IIandX.
+223:6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July02,2026
+EffectiveDate:August31,2026

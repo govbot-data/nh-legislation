@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1770-FN-ASINTRODUCED
+2026SESSION
+26-3135
+06/09
+1770-FN
+HOUSEBILL
+ANACT relative to the allocation of parental rights and responsibilities and establishing a
+presumptionofequalparentingtime.
+SPONSORS: Rep. Sabourin dit Choiniere, Rock. 30; Rep. Bernardy, Rock. 36; Rep. Comtois,
+Belk. 7; Rep. DeRoy, Straf. 3; Rep. D. Kelley, Hills. 32; Rep. Perez, Rock. 16; Rep.
+Sirois,Hills.32;Rep.Kofalt,Hills.32;Rep.Popovici-Muller,Rock.17
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Replaces the discretionary best-interest standard in RSA 461-A:2 with a constitutional
+presumptionofequalparentingtime.
+II. Definesequalparentingasa50/50overnightsplitwithlimiteddeviation.
+III. Establishesstrictscrutinyforanyreductioninafitparent’stime.
+IV. LimitsrebuttaltoclearandconvincingevidenceofspecificharmunderRSA170-C:5.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1770-FN-ASINTRODUCED
+26-3135
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the allocation of parental rights and responsibilities and establishing a
+presumptionofequalparentingtime.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose; Parental Rights and Responsibilities. Amend RSA 461-A:2 to read as
+2 follows:
+3 461-A:2 StatementofPurpose.
+4 I. Because children do best when both parents have a stable and meaningful involvement in
+5 their lives, it is the policy of this state, [unless it is shown that in a particular case it is not in the
+6 best interest of a child, to] there shall be a constitutional presumption of equal parenting
+7 time:
+8 (a) [Encourageapproximatelyequalparentingtimebetweeneachchildandbothparents
+9 if it is in the best interest of the child] In any suit affecting the child-parent relationship,
+10 including initial determinations, temporary orders, and modifications of parenting time,
+11 the court shall begin with a constitutional presumption that equal parenting time is the
+12 leastrestrictivemeansofprotectingtherightsofthechild,orchildren,andbothparents.
+13 (b) [Encourage parents to share in the rights and responsibilities of raising their
+14 children after the parents have separated or divorced] Parents are presumed fit unless proven
+15 unfit by clear and convincing evidence of harm as defined in subparagraph (d). The court
+16 shallnotrequireaparenttoprovefitness.
+17 (c) [Encourage parents to develop their own parenting plan with the assistance of legal
+18 and mediation professionals, unless there is evidence of domestic violence, child abuse, or neglect]
+19 Equal parenting time means an allocation of parenting time and overnights on a
+20 substantially equal basis, such that each parent receives 50 percent of annual overnights,
+21 withnoparentreceivingmorethanthreeovernightsmore thantheother inanygivenyear.
+22 Anysuchdifferenceshallbecorrectedthefollowingyeartomaintainbalance.
+23 (d) [Grant parentsand courts thewidestdiscretionindevelopingaparentingplan] This
+24 presumption may be rebutted only under RSA 170-C:5 upon clear and convincing evidence
+25 of:
+26 (1) Abuse,neglect,ordomesticviolencethatposesactualharm;
+27 (2) A parent’s incapacity rendering them unable to safely care for the child;
+28 or
+29 (3) Specific,identifiableharmtothechild.
+
+HB1770-FN-ASINTRODUCED
+-Page2-
+1 (e) [Consider both the best interests of the child in light of the factors listed in RSA 461-
+2 A:6and thesafetyof the parties indevelopingaparenting plan] General conflict, parenting style
+3 differences, or judicial opinions of “best interest” are insufficient grounds to rebut equal
+4 parenting.
+5 (f) This section applies to original suits, temporary orders, and suits for
+6 modificationunderthischapter.
+7 (g) Any order reducing or limiting a fit parent’s equal parenting time shall be
+8 subjecttostrictscrutiny. Thecourtmustmakewrittenfindingsshowing:
+9 (1) Acompellingstateinterestjustifyingthelimitation;
+10 (2) That the limitation is narrowly tailored to prevent or remedy specific,
+11 identifiableharm;
+12 (3) Thatno lessrestrictive alternativewouldadequatelyprotectthechild,or
+13 children;and
+14 (4) Orders granting less than 50/50 equal shared parenting shall have a
+15 judicial officer pursuant to part 2, article 72-a and 73-a of the New Hampshire
+16 constitution, review and sign all orders ensuring the correct constitutional protections
+17 havebeenapplied.
+18 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3135
+Revised1/5/26
+HB1770-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the allocation of parental rights and responsibilities and establishing a
+presumptionofequalparentingtime.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2027through2029.
+AGENCIESCONTACTED:
+JudicialBranchandDepartmentofHealthandHumanServices

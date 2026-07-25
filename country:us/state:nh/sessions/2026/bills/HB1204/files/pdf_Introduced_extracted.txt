@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1204 -ASINTRODUCED
+2026SESSION
+26-2589
+08/09
+1204
+HOUSEBILL
+ANACT relativetothegradinganduseoftimbergrowninNewHampshire.
+SPONSORS: Rep. A. Davis, Coos 2; Rep. Tierney, Coos 1; Rep. Durkin, Coos 1; Rep. Cole, Hills.
+26
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows certain timber grown in New Hampshire to be graded as spruce-pine-fir and
+requirestheconsiderationofNewHampshireharvestedtimberforstatebuildingprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1204-ASINTRODUCED
+26-2589
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothegradinganduseoftimbergrowninNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Eligibility of New Hampshire Lumber for SPF Grading. Amend RSA 426 by
+2 insertingaftersection18thefollowingnewsection:
+3 426:18-a EligibilityforSPFGrading.
+4 Notwithstanding any provision of law or rule to the contrary, softwood timber harvested in New
+5 Hampshire at or above 44 degrees North latitude shall be eligible for classification and grading as
+6 spruce-pine-fir(SPF),providedthat:
+7 I. The timber is of a species customarily included in the SPF grouping under the American
+8 SoftwoodLumberStandard(PS20);and
+9 II. The timber meets all applicable structural and visual grading requirements for SPF as
+10 established by a recognized grading agency accredited by the American Lumber Standard
+11 Committee.
+12 2 New Paragraph; Public Safety and Welfare; New Hampshire Building Code; Building
+13 RequirementsforStateFundedBuildings. AmendRSA155-A:13byinsertingafterparagraphIIthe
+14 followingnewparagraph:
+15 III. The material specification of any state-funded building in New Hampshire shall give
+16 preference to lumber harvested in New Hampshire, unless design criteria necessitates utilizing
+17 importedsourcing.
+18 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

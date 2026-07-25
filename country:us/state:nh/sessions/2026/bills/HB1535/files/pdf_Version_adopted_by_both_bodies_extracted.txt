@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1535-VERSIONADOPTEDBYBOTHBODIES
+04/09/2026 1306s
+2026SESSION
+26-2577
+06/05
+1535
+HOUSEBILL
+ANACT relative to clarifying eligible renewable energy classes under the renewable
+portfoliostandard.
+SPONSORS: Rep.Cormen,Graf.15;Sen.Prentiss,Dist5
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies eligibility criteria for certain thermal energy sources within class I renewable
+energy.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1535-VERSIONADOPTEDBYBOTHBODIES
+04/09/2026 1306s 26-2577
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to clarifying eligible renewable energy classes under the renewable
+portfoliostandard.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Electric Renewable Energy Classes. RSA 362-F:4, I(b) is repealed and reenacted to read as
+2 follows:
+3 (b) Geothermal energy, but for useful thermal energy, the unit must begin operation
+4 afterJanuary1,2013.
+5 2 Electric Renewable Energy Classes. RSA 362-F:4, I(e) is repealed and reenacted to read as
+6 follows:
+7 (e) Methane gas, but for useful thermal energy, the unit must begin operation after
+8 January1,2013.
+9 3 Electric Renewable Energy Classes. RSA 362-F:4, I(g) is repealed and reenacted to read as
+10 follows:
+11 (g) Solar thermal energy, but for useful thermal energy, the unit must begin operation
+12 afterJanuary1,2013.
+13 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.

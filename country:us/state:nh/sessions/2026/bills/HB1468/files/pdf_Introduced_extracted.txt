@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1468 -ASINTRODUCED
+2026SESSION
+26-3061
+06/08
+1468
+HOUSEBILL
+ANACT relativetomunicipalfloodresilienceplanningandtheuseofplanninggrants.
+SPONSORS: Rep. Vail, Hills. 6; Rep. Damon, Sull. 8; Rep. Cloutier, Sull. 6; Rep. J. Aron, Sull.
+4;Rep.Berch,Ches.6;Rep.W.Thomas,Hills.12;Sen.Ward,Dist8
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes municipalities to include flood resilience planning in their master plans and
+expands eligibility for state housing planning grants to support flood hazard mitigation and related
+landuseupdates.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1468-ASINTRODUCED
+26-3061
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomunicipalfloodresilienceplanningandtheuseofplanninggrants.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. MunicipalitiesacrossNewHampshirehavesufferedflooddamageduetoextremeweather
+3 events that overwhelm aging and insufficient stormwater infrastructure. Municipalities must
+4 developpreventionandmitigationstrategiestoprotectthesafetyoftheircommunities.
+5 II. Itisinthepublicinteresttoallowmunicipalities,attheirlocaloption,toplanproactively
+6 for flood resilience, ensuring protection of public safety, property, and municipal infrastructure
+7 withoutimposingnewstatemandatesorcosts.
+8 2 MasterPlan;PurposeandDescription. AmendRSA674:2,III(e)toreadasfollows:
+9 (e) A natural hazards section which [documents the physical characteristics, severity,
+10 frequency, and extent of any potential natural hazards to the community. It should identify those
+11 elements of the built environment at risk from natural hazards as well as extent of current and
+12 futurevulnerabilitythatmayresultfromcurrentzoninganddevelopmentpolicies]identifiesareas
+13 susceptible to flooding, landslides, forest fire, or other hazards, assesses the risks, and
+14 proposes mitigation measures, including reference, where applicable, to any flood
+15 resilienceplanningconductedunderRSA674:2,III(o).
+16 3 MasterPlan;PurposeandDescription. AmendRSA674:2,III(o)toreadasfollows:
+17 (o) A coastal and inland flood resilience management section, which may address
+18 planning needs resulting from projected coastal property or habitat loss due to increased frequency
+19 of storm surge, flooding, and inundation, as well as inland flooding, riverine inundation,
+20 erosion, and related hazards, and provide guidance for the protection of people, property,
+21 habitat, and infrastructure, including considerations for evacuation routes, emergency
+22 access, and public safety in areas subject to flood risk. Inclusion of such a section shall be
+23 attheoptionofthemunicipalityasprovidedinthisparagraph.
+24 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

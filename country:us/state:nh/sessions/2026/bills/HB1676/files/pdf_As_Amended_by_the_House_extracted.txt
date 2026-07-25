@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1676-ASAMENDEDBYTHEHOUSE
+5Mar2026...0749h
+2026SESSION
+26-2809
+08/07
+1676
+HOUSEBILL
+ANACT limitingconsumeraccesstocertainhigh-riskrodenticides.
+SPONSORS: Rep. Barbour, Hills. 35; Rep. J. Aron, Sull. 4; Rep. Bixby, Straf. 13; Rep. N.
+Germana,Ches.15;Rep.Dupont,Hills.20;Sen.Pearl,Dist17
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the sale of certain rodenticides to persons not licensed or registered with the
+departmentofagriculture,markets,andfood.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1676-ASAMENDEDBYTHEHOUSE
+5Mar2026...0749h 26-2809
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT limitingconsumeraccesstocertainhigh-riskrodenticides.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Rodenticide Sales Restrictions. Amend RSA 430 by inserting after section
+2 58thefollowingnewsubdivision:
+3 RodenticideSalesRestrictions
+4 430:59 Applicability. This subdivision shall apply to any pesticide product containing one or
+5 more of the following active ingredients: brodifacoum, bromadiolone, difethialone, difenacoum,
+6 warfarin,chlorophacinone, diphacinone,or anyadditional activeingredientdesignated byrule of the
+7 commissionerunderRSA541-A.
+8 430:60 SalesRestricted.
+9 I. No person shall distribute, sell, or offer for sale any rodenticide product containing an
+10 active ingredient listed in RSA 430:59 to any purchaser in New Hampshire without first verifying
+11 thepurchaser’sstatusas:
+12 (a) AcertifiedapplicatorlicensedunderRSA430;or
+13 (b) A private applicator or commercial agricultural operation registered with the
+14 department.
+15 II. Verification shall be documented at the point of sale, whether in-person, online, or
+16 through any remote sales channel. Distributors and retailers shall maintain records of verification
+17 fornotlessthan3years.
+18 III.(a) No rodenticide product covered by this section shall be sold via internet, catalog, or
+19 remotesales toanypurchaser inNew Hampshireunless theseller verifies thepurchaser’s license or
+20 registrationstatusunderparagraphI.
+21 (b) Online marketplaces shall be prohibited from listing such products for direct-to-
+22 consumersalewithoutlicenseverification.
+23 430:61 Penalties.
+24 I. The department of agriculture, markets, and food, the state police, and other law
+25 enforcement agencies shall have authority to investigate, enforce, and penalize violations of this
+26 section,includingunlawfulinternetorcross-bordersales.
+27 II. Any violation of this subdivision shall be subject to a civil penalty not exceeding $5,000
+28 perviolation. Eachdayaviolationcontinuesshallconstituteaseparateoffense.
+29 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

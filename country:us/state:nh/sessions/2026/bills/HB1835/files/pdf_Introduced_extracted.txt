@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1835-FN-ASINTRODUCED
+2026SESSION
+26-2563
+04/09
+1835-FN
+HOUSEBILL
+ANACT relativetotheformulafordistributionofaidtoschooldistricts.
+SPONSORS: Rep.Raymond,Hills.5;Rep.Damon,Sull.8;Rep.Gregg,Hills.7
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restructures special education funding to reflect the actual costs of services provided to
+students.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1835-FN-ASINTRODUCED
+26-2563
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheformulafordistributionofaidtoschooldistricts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SpecialEducation;ReimbursementProcedures. AmendRSA198:40-a,II(d)toreadasfollows:
+2 (d) [An additional $2,100 for each pupil in the ADMR who is receiving special education
+3 services anytime during the determination year] As part of the cost of an adequate education,
+4 the state shall reimburse school districts on a quarterly basis 80 percent of the cost of
+5 services provided to a "child with a disability," as defined by RSA 186-C:2, I, necessary to
+6 comply with the individual education program to be implemented for that child pursuant
+7 to RSA 186-C:7 or required under federal law pursuant to the Individuals with Disabilities
+8 Education Act, 20 United States Code section 1400. The state, through the department of
+9 education, shall reimburses 80 percent of special education costs to the school district
+10 within 90 days of the department’s receipt of billing information. Districts may borrow
+11 funds pursuant to RSA 198:20-d to be redeemed upon receipt of reimbursement from the
+12 state.
+13 2 SpecialEducation;ReimbursementProcedures. AmendRSA198:20-dtoreadasfollows:
+14 198:20-d ReimbursementAnticipationNotes. Notwithstandinganyotherprovisionoflawtothe
+15 contrary, a school district or a city with a dependent school district may incur debt in anticipation of
+16 reimbursement under RSA 198:40-a, II(d) [186-C:18] and under RSA 198:42. The governing body,
+17 after notice and public hearing, may elect to borrow such funds and to recognize the proceeds of the
+18 borrowing as revenue for property tax rate setting purposes by providing written notification to the
+19 commissioner of the department of revenue administration stating the specific amount of borrowing
+20 to be recognized as revenue. Any borrowing under this section shall be exempt from the provisions
+21 ofRSA33,relativetodebtlimits.
+22 3 SettingofTaxRates;Distribution. AmendRSA21-J:35,VII(d)toreadasfollows:
+23 (d) Department of education: federal forest land aid pursuant to RSA 227-H:20 through
+24 RSA 227-H:22, state aid for an adequate education pursuant to RSA 198:40-a, school building aid
+25 pursuanttoRSA198:15-a,andspecialeducationaidpursuanttoRSA[186-C:18]198:40-a,II(d).
+26 4 Rulemaking;BoardofEducation. AmendRSA21-N:9,II(l)toreadasfollows:
+27 (l) Special education programs affecting all children with disabilities, as authorized by
+28 RSA186-C:5,186-C:16and[186-C:18,V]198:40-a,II(d).
+29 5 Definitions; Unanticipated Special Education Cost Recovery. Amend RSA 186-D:1, V to read
+30 asfollows:
+
+HB1835-FN-ASINTRODUCED
+-Page2-
+1 V. "Unanticipated special education cost recovery" means the program providing school
+2 districts with expanded pathways to recover those costs that are directly associated with special
+3 education provided to students assigned to the school district and payable under RSA [186-C:18]
+4 198:40-a,II(d)thatoccurafterschoolbudgetsarefixed.
+5 6 RequestsforProposals;SpecialEducation. AmendRSA186-D:4,I(a)toreadasfollows:
+6 (a) Annual cost, based on actuarial calculations, of self-funding a reimbursement pool
+7 including individual cost structure for each school district's unreimbursed costs directly associated
+8 with special education provided to students assigned to the school district and payable under RSA
+9 [186-C:18]198:40-a,II(d).
+10 7 RequestsforProposals;SpecialEducation. AmendRSA186-D:4,IVtoreadasfollows:
+11 IV. If the decision is to self-fund, the association board shall provide each member with an
+12 outline indicating, at minimum, the cost for the district and the risk pool reimbursement period,
+13 which shall be not more than 3 months after the state has reimbursed each school district in the
+14 association for the final portion of special education state aid under RSA [186-C:18] 198:40-a, II(d).
+15 Any eligible special education expenses incurred by a member school district that were not
+16 reimbursed by the state and were not reimbursed by a purchased insurance product through the
+17 association shall be reimbursed by the risk pool to the full extent permitted by the risk pool
+18 governingagreement.
+19 8 SchoolAttendance;DutyofParent. AmendRSA193:1,I(c)toreadasfollows:
+20 (c) The relevant school district superintendent has excused a child from attendance
+21 because the child is physically or mentally unable to attend school, or has been temporarily excused
+22 upon the request of the parent for purposes agreed upon by the school authorities and the parent.
+23 Such excused absences shall not be permitted if they cause a serious adverse effect upon the
+24 student's educational progress. Students excused for such temporary absences may be claimed as
+25 full-time pupils for purposes of calculating state aid under RSA [186-C:18] 198:40-a, II(d) and
+26 adequateeducationgrantsunderRSA198:41;
+27 9 ReimbursementAnticipationNotes. AmendRSA198:20-dtoreadasfollows:
+28 198:20-d ReimbursementAnticipationNotes.
+29 Notwithstanding any other provision of law to the contrary, a school district or a city with a
+30 dependent school district may incur debt in anticipation of reimbursement under RSA [186-C:18]
+31 198:40-a, II(d) and under RSA 198:42. The governing body, after notice and public hearing, may
+32 electtoborrowsuchfundsandtorecognizetheproceedsoftheborrowingasrevenueforpropertytax
+33 rate setting purposes by providing written notification to the commissioner of the department of
+34 revenue administration stating the specific amount of borrowing to be recognized as revenue. Any
+35 borrowingunderthissectionshallbeexemptfromtheprovisionsofRSA33,relativetodebtlimits.
+36 10 EducationTrustFundCreatedandInvested. AmendRSA198:39,I(l)toreadasfollows:
+
+HB1835-FN-ASINTRODUCED
+-Page3-
+1 (l) To distribute special education aid to school districts pursuant to RSA [186-C:18]
+2 198:40-a,II(d).
+3 11 Repeal. RSA 186-C:18, relative to state financial aid for extraordinary special education
+4 costs,isrepealed.
+5 12 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2563
+12/17/25
+HB1835-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheformulafordistributionofaidtoschooldistricts.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantisunabletocompleteafiscalnoteforthisbillasit
+is awaiting information from the Department of Education. The Department was initially
+contacted on 11/5/25 for a fiscal note worksheet, with follow-up contact made on 12/5/25.
+Whencompleted,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+AGENCIESCONTACTED:
+DepartmentofEducation

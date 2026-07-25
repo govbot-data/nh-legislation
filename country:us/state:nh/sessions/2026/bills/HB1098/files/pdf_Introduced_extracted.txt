@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1098 -ASINTRODUCED
+2026SESSION
+26-2686
+04/09
+1098
+HOUSEBILL
+ANACT relative to municipalities denying building or occupancy permits for property
+adjacenttoclassVIroadsundercertaincircumstances.
+SPONSORS: Rep. Parshall, Ches. 8; Rep. N. Germana, Ches. 15; Rep. Caplan, Merr. 8; Rep.
+Gruber,Ches.16;Rep.Preece,Hills.17;Sen.Fenton,Dist10
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows municipalities to consider road maintenance, public safety, and related issues
+whengrantingbuildingoroccupancypermitsforpropertyadjacenttoclassVIhighways.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1098-ASINTRODUCED
+26-2686
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to municipalities denying building or occupancy permits for property
+adjacenttoclassVIroadsundercertaincircumstances.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Planning and Zoning; Local Land Use Planning and Regulatory Powers; Erection of Buildings
+2 onStreets. RSA674:41,I(c)isrepealedandreenactedtoreadasfollows:
+3 (c) IsaclassVIhighway,providedthat:
+4 (1) The local governing body after review and comment by the planning board has
+5 voted to authorize the issuance of building permits for the erection of buildings on said class VI
+6 highwayoraportionthereof;and
+7 (2) The municipality neither assumes responsibility for maintenance of said class VI
+8 highwaynorliabilityforanydamagesresultingfromtheusethereof;and
+9 (3) Prior to the issuance of a building permit, the applicant shall produce evidence
+10 that notice of the limits of municipal responsibility and liability has been recorded in the county
+11 registryofdeeds;or
+12 2 EffectiveDate. ThisactshalltakeeffectJuly2,2026.

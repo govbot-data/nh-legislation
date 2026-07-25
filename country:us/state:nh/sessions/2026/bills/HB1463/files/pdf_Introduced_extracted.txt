@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1463-FN-ASINTRODUCED
+2026SESSION
+26-3184
+07/08
+1463-FN
+HOUSEBILL
+ANACT requiring the insurance department to conduct an analysis and produce a report
+detailingcompliancewiththestate'smanagedcareandmedicalutilizationreview
+laws.
+SPONSORS: Rep.Tellez,Hills.40;Rep.Nagel,Belk.6;Rep.Mandelbaum,Rock.21
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the insurance department to conduct an analysis and produce a report
+detailingcompliancewiththestate'smanagedcareandmedicalutilizationreviewlaws.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1463-FN-ASINTRODUCED
+26-3184
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the insurance department to conduct an analysis and produce a report
+detailingcompliancewiththestate'smanagedcareandmedicalutilizationreview
+laws.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 InsuranceDepartment;Directive. Theinsurancedepartmentshallconductadetailedanalysis
+2 and report, in consultation with practicing community physicians in every New Hampshire county
+3 and health system, to assess compliance with RSA 420-E and RSA 420-J and make
+4 recommendations for appropriate penalties for insurers and insurance carriers not in compliance
+5 with such chapters of law. The department shall report its findings to the speaker of the house of
+6 representatives, the president of the senate, the house clerk, the senate clerk, the governor, and the
+7 statelibraryonorbeforeNovember1,2026.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3184
+11/30/25
+HB1463-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the insurance department to conduct an analysis and produce a report
+detailingcompliancewiththestate'smanagedcareandmedicalutilizationreview
+laws.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$300,000to $300,000to $300,000to
+$500,000 $500,000 $500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Insurance Department to work with community physicians and health
+systems in every New Hampshire county to conduct a detailed analysis of compliance with RSA
+420-E and RSA 420-J regarding managed care and utilization review requirements. The
+Department must produce a report with findings and recommendations for penalties and submit
+thereportbyNovember1,2026.
+The Insurance Department states this bill will increase General Fund expenditures by an
+indeterminable amount beginning in FY 2027. The bill requires the Department to conduct a
+statewide, comprehensive review of insurer and carrier compliance with RSA 420-E and RSA
+420-J,inconsultationwithpracticingphysiciansacrossallcountiesandhealthsystems.
+The Department notes that it currently investigates and enforces these laws through existing
+complaint, market conduct, and examination processes under RSA 400-A:15 and RSA 400-A:16;
+however, the bill requires a much broader analysis that cannot be completed within existing
+resources. The Departmentstates itis unclearwhatadditional analysiswould benecessary, but
+completing an untargeted, statewide compliance study by the November 1, 2026 deadline would
+notbefeasiblewithoutsignificantadditionalstaffresourcesandoutsidecontractedsupport. The
+
+Departmentestimatesitwouldtakeuptofiveyearstocompleteameaningfulanalysisandcould
+requirecontracted servicescostingmorethan$1,500,000, withestimatedannual expenditures of
+$300,000 to $500,000 from FY 2027 through FY 2029. These expenditures would be paid from
+theGeneralFundastheDepartment’soperatingbudgetcannotabsorbthesecosts.
+AGENCIESCONTACTED:
+InsuranceDepartment

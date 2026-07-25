@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1134-ASAMENDEDBYTHEHOUSE
+5Mar2026...0204h
+2026SESSION
+26-2296
+07/08
+1134
+HOUSEBILL
+ANACT relativetothetownmeetingformoflocalgovernance.
+SPONSORS: Rep. Pauer, Hills. 36; Rep. Berezhny, Graf. 11; Rep. DeRoy, Straf. 3; Rep. Erf,
+Hills. 28; Rep. Granger, Straf. 2; Rep. Litchfield, Rock. 32; Rep. Nalevanko, Ches.
+9; Rep. Ammon, Hills. 42; Rep. Lascelles, Hills. 14; Rep. Harvey-Bolia, Belk. 3;
+Sen.Avard,Dist12;Sen.Murphy,Dist16
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill determines the order in which total appropriations in warrant articles accumulate for
+purposes of determining when a warrant article will trigger an override vote of a local tax or budget
+cap.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1134-ASAMENDEDBYTHEHOUSE
+5Mar2026...0204h 26-2296
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothetownmeetingformoflocalgovernance.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Towns, Cities, Village Districts, and Unincorporated Places; Proceedings; Consideration of
+2 WarrantArticles. AmendRSA40:11toreadasfollows:
+3 40:11 ConsiderationofWarrantArticles.
+4 I. Every article included in a warrant for a town meeting shall be acted upon before final
+5 adjournment of the town meeting, which shall include satisfying all provisions for debate
+6 pursuanttoRSA40:7.
+7 II. If voting on a warrant article requires the use of a ballot by statute, the
+8 moderator shall ensure the warrant article is acted upon by conducting a "yes-no" ballot
+9 voteforthatwarrantarticle.
+10 III. In determining when an appropriation in a warrant article will attempt to
+11 override a local tax cap pursuant to RSA 32:5-b or budget cap pursuant to RSA 32:5-e or
+12 RSA 32:5-g, or when an appropriation in a warrant article will exceed the 10 percent
+13 limitationonexpenditurespursuantto RSA32:18,total appropriationsinwarrant articles
+14 approved by a legislative body shall accumulate in the order in which the warrant articles
+15 aretakenupattheannualmeeting. Foratownordistrictthatusesanofficialballotform
+16 of meeting under RSA 40:13 or operates under a charter adopted pursuant to RSA 49-D,
+17 approved appropriations for warrant articles shall accumulate in the order in which
+18 warrant articles are approved at an annual meeting, if any, then accumulate in the order
+19 inwhichwarrantarticlesappearonanofficialballot.
+20 2 Towns,Cities,VillageDistricts,andUnincorporatedPlaces;OptionalFormofMeeting-Official
+21 BallotReferenda;UseofOfficialBallot. AmendRSA40:13,XIIItoreadasfollows:
+22 XIII. Approval of all warrant articles shall be by simple majority except for questions which
+23 requirea2/3or3/5votebylaw,contract,orwrittenagreement.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

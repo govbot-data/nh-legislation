@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1095 -ASINTRODUCED
+2026SESSION
+26-2670
+08/07
+1095
+HOUSEBILL
+ANACT increasingthemaximumweightofautilityterrainvehicleto3,000pounds.
+SPONSORS: Rep. Ouellet, Coos 3; Rep. Bridle, Rock. 29; Rep. A. Davis, Coos 2; Rep. Michael
+Murphy,Coos6;Sen.Rochefort,Dist1
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillincreasesthemaximumweightofautilityterrainvehicleto3,000pounds.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1095-ASINTRODUCED
+26-2670
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasingthemaximumweightofautilityterrainvehicleto3,000pounds.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 UtilityTerrainVehicle;MaximumWeight. AmendRSA215-A:1,XXIVtoreadasfollows:
+2 XXIV. "Utility terrain vehicle" means any mechanically propelled vehicle which is designed
+3 or adapted for travel over surfaces other than maintained roads with one or more tires or tracks
+4 equipped with a rollover protection system and/or safety belts, having capacity for passengers or
+5 otherpayloads,notinexcessof[2,000]3,000poundsunladendryweight,andnottoexceed65inches
+6 in overall width, excluding side mirrors. For purposes of this chapter, "utility terrain vehicle" shall
+7 includebutnotbelimitedtoside-by-side,ROV,gator,buggy,andOHVandabbreviatedasUTV,and
+8 allvehicleswithinthisdefinitionshallbeclassifiedasoffhighwayrecreationalvehicles.
+9 2 OHRV Weight On Certain Trails. Amend the introductory language of RSA 215-A:43, IV to
+10 readasfollows:
+11 IV. No person shall operate an OHRV wider than 50 inches or over 1000 pounds on any
+12 state-owned trails, except that no person shall operate an OHRV wider than 65 inches or over
+13 [2,000]3,000poundsunladendryweighton:
+14 3 OHRVWeight;JerichoMountainStatePark. AmendRSA215-A:43,VII(c)toreadasfollows:
+15 (c) ApersonmayoperateanOHRVwithinJerichoMountainstateparkwhichweighsup
+16 to[2,000]3,000poundsunladendryweightandisnowiderthan65inchesonspecificallydesignated
+17 trails within Jericho Mountain state park, provided that, in addition, the bureau of trails may
+18 permit operation of wider or heavier 4-wheel drive motor vehicles, as referenced in the Jericho
+19 Mountain state park master development plan, registered as OHRVs, at specific times and on
+20 specifictrails.
+21 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

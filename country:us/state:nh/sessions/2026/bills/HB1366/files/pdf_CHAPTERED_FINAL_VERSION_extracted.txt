@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER85
+HB1366-FN-FINALVERSION
+5Mar2026...0688h
+2026SESSION
+26-3106
+12/06
+1366-FN
+HOUSEBILL
+ANACT relativetomilitaryordersofprotection.
+SPONSORS: Rep. Roy, Rock. 31; Rep. Devoid, Merr. 1; Rep. Paquette, Hills. 25; Rep. Rhodes,
+Ches.17;Sen.Birdsell,Dist19;Sen.Carson,Dist14
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires law enforcement and peace officers to notify certain military agencies where said
+officer has probable cause to believe a member of the armed forces or national guard is in violation of a
+militaryprotectionorder.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER85
+HB1366-FN-FINALVERSION
+5Mar2026...0688h 26-3106
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomilitaryordersofprotection.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 85:1 New Paragraph; Notification; Domestic Violence Protective Orders; Military Protective Orders;
+2 Violations. AmendRSA173-B:8byinsertingafterparagraphIIIthefollowingnewparagraph:
+3 IV. If a law enforcement officer or peace officer has probable cause to believe a member of the
+4 armed forces is in violation of a military protection order, as defined in RSA 173-B:1, entered into the
+5 Federal Bureau of Investigation’s National Crime Information Center database, the law enforcement
+6 officershallnotifythelawenforcementagencythatenteredthemilitaryprotectionorderintothedatabase
+7 thattheservicemembermayhaveviolatedthemilitaryprotectionorder.
+8 85:2 MilitaryProtectiveOrders;Violation;Notification. AmendRSA110-B:19-atoreadasfollows:
+9 110-B:19-a NationalGuardandStaffJudgeAdvocate;AccesstoCriminalHistoryRecords.
+10 I. The New Hampshire [Air National Guard] airnationalguard, New Hampshire [Army National
+11 Guard] armynationalguard, and 157 Air Refueling Wing Offices of the Staff Judge Advocate shall be
+12 granted access to all confidential criminal history records, criminal investigation documentation, and
+13 public court records of New Hampshire [National Guard]nationalguardemployees and service members
+14 forthepurposeofcarryingouttheoffice'sresponsibilitiesandtherespectiveattorneys'dutiesunderstate,
+15 federal,andmilitarylawandregulations.
+16 II. Ifalawenforcementofficerorpeaceofficerhasprobablecausetobelieveamemberofthe
+17 NewHampshireairnationalguardorNewHampshirearmynationalguardisinviolationofamilitary
+18 protectionorder,thelawenforcementofficerorpeaceofficershallnotifytheofficeoftheNewHampshire
+19 nationalguardgeneralcounselortheirdesigneethattheservicemembermayhaveviolatedthemilitary
+20 protectiveorder.
+21 85:3 EffectiveDate. Thisactshalltakeeffect180daysafterpassage.
+Approved:May22,2026
+EffectiveDate:November18,2026

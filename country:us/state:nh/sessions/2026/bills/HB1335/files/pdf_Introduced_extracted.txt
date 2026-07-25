@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1335 -ASINTRODUCED
+2026SESSION
+26-2929
+05/06
+1335
+HOUSEBILL
+ANACT requiring health care providers to disclose to patients indirect financial incentives
+receivedbytheprovider.
+SPONSORS: Rep.Wherry,Hills.13;Rep.Litchfield,Rock.32;Rep.McGrath,Rock.40
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a physician who receives compensation exceeding $5,000 or more as the result
+of a preferential promotion to disclose this information to the patient prior to prescribing any
+treatmentassociatedwiththesourceofthepromotion.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1335-ASINTRODUCED
+26-2929
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring health care providers to disclose to patients indirect financial incentives
+receivedbytheprovider.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Physicians and Surgeons; Disclosure of Preferential Promotion Received by
+2 Provider; When Required. Amend RSA 329 by inserting after section 53 the following new
+3 subdivision:
+4 DisclosureofPreferentialPromotion
+5 329:54 Definitions. Inthissubdivision:
+6 (a) “Preferential promotion” means any financial arrangement, incentive, or
+7 compensation provided by a manufacturer, distributor, or third party that is intended to influence
+8 therecommendation,prescription,oruseofaspecificdrug,device,treatment,orservice.
+9 (b) “Compensation” includes payments, honoraria, travel, lodging, meals, gifts, or any
+10 othertransferofvalue.
+11 (c) “Reasonable costs” means expenses directly related to attendance at a medical
+12 conference, including registration fees, travel, lodging, and meals, not exceeding $5,000 in aggregate
+13 perevent.
+14 (d) “Informed consent” means the process by which a patient voluntarily confirms their
+15 willingness to undergo a particular medical intervention, after having been informed of all relevant
+16 facts,risks,benefits,andalternatives.
+17 329:55 DisclosureRequirement.
+18 I. Anyphysicianwhoreceivescompensationexceeding$5,000inaggregatewithinacalendar
+19 year from a single source as the result of a preferential promotion shall disclose this financial
+20 relationshiptoanypatientpriortorecommending,prescribing,oradministeringaproductorservice
+21 associatedwiththatsource.
+22 II. The disclosure shall be made in writing and included as part of the informed consent
+23 processandshallinclude:
+24 (a) Thenameoftheentityprovidingthecompensation.
+25 (b) Thenatureandamountofcompensationreceived.
+26 (c) Astatementthatthecompensationmaypresentapotentialconflictofinterest.
+27 (d) An affirmation that the recommendation is based on the practitioner’s independent
+28 clinicaljudgment.
+29 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

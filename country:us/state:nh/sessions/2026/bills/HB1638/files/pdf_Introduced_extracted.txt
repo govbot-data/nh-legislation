@@ -1,0 +1,226 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1638-FN-ASINTRODUCED
+2026SESSION
+26-3029
+07/08
+1638-FN
+HOUSEBILL
+ANACT creating a bypass mechanism for health insurer step therapy protocols when
+medicallynecessary.
+SPONSORS: Rep. Nagel, Belk. 6; Rep. Lundgren, Rock. 16; Rep. W. MacDonald, Rock. 16; Rep.
+Miles, Hills. 12; Rep. M. Pearson, Rock. 34; Rep. L. Walsh, Rock. 15; Rep. Woods,
+Merr.30;Sen.Avard,Dist12;Sen.Rosenwald,Dist13
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a bypass mechanism for health insurer step therapy protocols when medically
+necessary.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1638-FN-ASINTRODUCED
+26-3029
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating a bypass mechanism for health insurer step therapy protocols when
+medicallynecessary.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Step Therapy. Amend RSA 420-J by inserting after section 26 the following
+2 newsubdivision:
+3 StepTherapy
+4 420-J:27 Definitions. Asusedinthissubdivision:
+5 I. "Advanced, metastatic cancer" means a cancer that has spread from the primary or
+6 originalsiteofthecancertonearbytissues,lymphnodes,orotherareasorpartsofthebody.
+7 II. "Associated conditions" means the symptoms or side effects associated with advanced,
+8 metastatic cancer or its treatment and which, in the judgment of the health care practitioner,
+9 furtherjeopardizesthehealthofapatientifleftuntreated.
+10 III. "Clinical practice guidelines" means a systematically developed statement to assist
+11 prescriber and enrollee decisions about appropriate health care for specific clinical circumstances
+12 andconditions.
+13 IV. "Clinical review criteria" means the written screening procedures, decision abstracts,
+14 clinical protocols and practice guidelines used by a carrier or utilization review organization to
+15 determinethemedicalnecessityandappropriatenessofhealthcareservices.
+16 V. "Medically necessary," when using in the context of health services and supplies, means
+17 appropriate, under the applicable standard of care, to improve or preserve health, life or function; to
+18 slow the deterioration of health, life or function; or for the early screening, prevention, evaluation,
+19 diagnosisortreatmentofadisease,condition,illnessorinjury.
+20 VI. "Pharmaceutical sample" means a unit of a prescription drug that is not intended to be
+21 soldandisintendedtopromotethesaleofthedrug.
+22 VII. "Serious mental illness" means a mental disorder, as defined in the most recent edition
+23 of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric
+24 Association,thatresultsinseriousfunctionalimpairmentthatsubstantiallyinterfereswithorlimits
+25 oneormoremajorlifeactivities.
+26 VIII. "Stable on a prescription drug" means, with respect to an enrollee, receiving a positive
+27 therapeutic outcome on a prescription drug selected by the enrollee's health care provider for the
+28 enrollee'smedicalcondition.
+29 IX. "Step therapy override exception determination" means a determination based on a
+30 review of an enrollee's or prescriber's request for an override, along with supporting rationale and
+
+HB1638-FN-ASINTRODUCED
+-Page2-
+1 documentation,thatthesteptherapyprotocolshouldbeoverriddeninfavorofimmediatecoverageof
+2 thehealthcareprovider'sselectedprescriptiondrug.
+3 X. "Step therapy protocol" means a protocol that establishes a specific sequence in which
+4 prescription drugs for a specified medical condition are medically necessary for a particular enrollee
+5 and are covered under a pharmacy or medical benefit by a carrier, including self-administered and
+6 physician-administereddrugs.
+7 XI. "Utilization review organization" means an entity that conducts a utilization review,
+8 otherthanacarrierperformingautilizationreviewforitsownhealthbenefitplans.
+9 420-J:28 Clinical Review Criteria. Clinical review criteria used to establish a step therapy
+10 protocolshallbebasedonclinicalpracticeguidelinesthat:
+11 I. Recommend that the prescription drugs be taken in the specific sequence required by the
+12 steptherapyprotocol;
+13 II. Are developed and endorsed by a multidisciplinary panel of experts that manages
+14 conflictsofinterestamongthemembersofthewritingandreviewgroupsby:
+15 (a) Requiring members to disclose any potential conflicts of interest with entities,
+16 including carriers and pharmaceutical manufacturers, and recuse themselves from voting if they
+17 haveaconflictofinterest;
+18 (b) Using a methodologist to work with writing groups to provide objectivity in data
+19 analysis and ranking of evidence through the preparation of evidence tables and facilitating
+20 consensus;and
+21 (c) Offeringopportunitiesforpublicreviewandcomments;
+22 III. Arebasedonhigh-qualitystudies,researchandmedicalpractice;
+23 IV. Arecreatedbyanexplicitandtransparentprocessthat:
+24 (a) Minimizesbiasesandconflictsofinterest;
+25 (b) Explainstherelationshipbetweentreatmentoptionsandoutcomes;
+26 (c) Ratesthequalityoftheevidencesupportingrecommendations;
+27 (d) Considersrelevantpatientsubgroupsandpreferences;and
+28 V. Arecontinually updated througha review of new evidence, researchand newly developed
+29 treatments.
+30 420-J:29 Absence of Clinical Practice Guidelines. In the absence of clinical practice guidelines
+31 that satisfy the requirements under RSA 420-J:28, peer-reviewed publications may be used as a
+32 substitute.
+33 420-J:30 Consideration of Atypical Populations and Diagnoses. When establishing a step
+34 therapy protocol, a utilization review organization shall also take into account the needs of atypical
+35 patientpopulationsanddiagnoseswhenestablishingclinicalreviewcriteria.
+36 420-J:31 Construction. Thissubdivisionshallnotbeconstruedtorequirecarriersorthestateto
+37 createanewentitytodevelopclinicalreviewcriteriausedforsteptherapyprotocols.
+
+HB1638-FN-ASINTRODUCED
+-Page3-
+1 420-J:32 ExceptionsProcess.
+2 I. When coverage of a prescription drug for the treatment of any medical condition is
+3 restricted for use by a carrier or utilization review organization through the use of a step therapy
+4 protocol, the enrollee and prescriber shall have access to a clear, readily accessible and convenient
+5 process to request a step therapy override exception determination from that carrier or utilization
+6 revieworganization.
+7 II. A carrier or utilization review organization may use its existing medical exceptions
+8 process to provide step therapy override exception determinations, and the process established shall
+9 beeasilyaccessibleonthecarrier'sorutilizationrevieworganization'swebsite.
+10 III. A carrier or utilization review organization shall expeditiously grant a step therapy
+11 overrideexceptiondeterminationif:
+12 (a) The required prescription drug is contraindicated or will likely cause an adverse
+13 reactioninorphysicalormentalharmtotheenrollee;
+14 (b) The required prescription drug is expected to be ineffective based on the known
+15 clinical characteristics of the enrollee and the known characteristics of the prescription drug
+16 regimen;
+17 (c) The enrollee has tried the required prescription drug while under the enrollee's
+18 current or previous health insurance or health plan, or another prescription drug in the same
+19 pharmacologic class or with the same mechanism of action, and the prescription drug was
+20 discontinuedduetolackofefficacyoreffectiveness,diminishedeffectoranadversereaction;
+21 (d) The required prescription drug is not in the best interest of the enrollee, based on
+22 medicalnecessity;
+23 (e) The enrollee is stable on a prescription drug selected by the enrollee's health care
+24 provider for the medical condition under consideration while on a current or previous health
+25 insuranceorhealthplan;or
+26 (f) The prescription drug selected by the enrollee's health care provider is intended to
+27 assessortreattheenrollee'sseriousmentalillness.
+28 IV. Nothing in this section shall be construed to encourage the use of a pharmaceutical
+29 sample for the sole purpose of meeting the requirements for the granting of a step therapy override
+30 exceptiondetermination.
+31 V. Upon the granting of a step therapy override exception determination, the carrier or
+32 utilization review organization shall authorize coverage for the prescription drug prescribed by the
+33 prescriber.
+34 VI. A carrier or utilization review organization shall grant or deny a request for a step
+35 therapy override exception determination or an appeal of a determination and notify the covered
+36 person and the covered person’s health care provider of the determination within 72 hours of
+37 obtaining all information necessary to make the determination for an urgent review as defined in
+
+HB1638-FN-ASINTRODUCED
+-Page4-
+1 section 420-J:3, XXXIV whether submitted electronically or non-electronically. For a non-urgent
+2 request, the health carriers shall approve or deny the request and notify the covered person and the
+3 covered person’s health care provider of the determination within 7 calendar days for a request
+4 submitted electronically and within 14 days for a request filed non-electronically of obtaining all
+5 information necessary to make the determination. If emergent circumstances exist, a carrier or
+6 utilization review organization shall grant or deny the request within 24 hours after receipt of the
+7 request. The carrier shall provide coverage for the prescription drug prescribed by the prescriber
+8 during the pendency of the request for a step therapy override exception determination or an appeal
+9 of a determination. If a carrier or utilization review organization does not grant or deny the request
+10 withinthetimerequiredunderthisparagraph,theexceptionorappealshallbegranted.
+11 VII. Anenrolleemayappealasteptherapyoverrideexceptiondetermination.
+12 VIII. Thissectionshallnotprevent:
+13 (a) A carrier or utilization review organization from requiring an enrollee to try a
+14 generic drug or an interchangeable biological product prior to providing coverage for the equivalent
+15 brand-nameprescriptiondrug;or
+16 (b) A health care provider from prescribing a prescription drug that is determined to be
+17 medicallynecessary.
+18 420-J:33 Therapy Protocols Prohibited. Step therapy protocols shall be prohibited for certain
+19 prescriptiondrugstotreatadvanced,metastaticcancerandassociatedconditions:
+20 I. Consistent with best practices for the treatment of advanced, metastatic cancer or an
+21 associatedcondition;
+22 II. Supportedbypeer-reviewed,evidence-basedliterature;and
+23 III. ApprovedbytheUnitedStatesFoodandDrugAdministration.
+24 420-J:34 Rules. The commissioner may adopt rules, pursuant to RSA 541-A, to assist the
+25 insurancedepartmentwiththeimplementthissection.
+26 2 EffectiveDate. Thisactshalltakeeffect90daysafteritspassage.
+
+LBA
+26-3029
+12/2/25
+HB1638-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creating a bypass mechanism for health insurer step therapy protocols when
+medicallynecessary.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill creates a bypass mechanism for health insurer step therapy protocols when medically
+necessary.
+The Insurance Department states the bill imposes new administrative requirements on health
+carriers, including public review of clinical criteria, expanded exception processing, and
+adherence to more prescriptive timelines. These requirements will increase administrative
+burdensoncarriers. Becausemedicallossratiorulesrequireadministrativecoststobeabsorbed
+within the carrier’s overall premium structure, carriers may adjust premiums or other pricing
+strategiesinresponse.
+
+Step therapy is a cost management tool, and creating a bypass mechanism for certain conditions
+is expected to increase utilization of higher-cost drugs. Increased utilization and higher claim
+costs may lead to higher health insurance premiums, which in turn may result in an
+indeterminable increase in Insurance Premium Tax revenue. The Department cannot estimate
+the premium impact because it cannot quantify the number of exception requests, how clinical
+criteria may change, or how carriers will revise their utilization review processes. The
+Department is unable to estimate the administrative costs carriers may incur or the
+correspondingimpactonpremiumtaxrevenue;therefore,therevenueimpactisindeterminable.
+To the extent counties and municipalities purchase health insurance, they could see an increase
+intheirhealthinsurancepremiums.
+AGENCIESCONTACTED:
+InsuranceDepartment

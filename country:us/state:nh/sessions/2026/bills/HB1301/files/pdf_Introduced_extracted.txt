@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1301-FN-ASINTRODUCED
+2026SESSION
+26-2871
+08/05
+1301-FN
+HOUSEBILL
+ANACT increasing certain mooring fees and directing such funds to the cyanobacteria
+mitigationloanandgrantfund.
+SPONSORS: Rep. J. MacDonald, Carr. 6; Rep. R. Brown, Carr. 8; Rep. Crawford, Carr. 3; Rep.
+Damon, Sull. 8; Rep. Darby, Hills. 11; Rep. Ebel, Merr. 7; Rep. Hamblen, Carr. 3;
+Rep. Walker, Straf. 19; Rep. Peternel, Carr. 6; Rep. Rung, Hills. 12; Sen.
+McConkey,Dist3
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases the fee for moorings not in a congregate mooring field and directs such funds
+tothecyanobacteriamitigationloanandgrantfund.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1301-FN-ASINTRODUCED
+26-2871
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing certain mooring fees and directing such funds to the cyanobacteria
+mitigationloanandgrantfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DecalIssuance;MooringFee;CyanobacteriaFund. AmendRSA270:62,Vtoreadasfollows:
+2 V. A fee of $125 shall be charged for each initial decal issued pursuant to this subdivision
+3 which shall be deposited in the navigation safety fund established under RSA 270-E:6-a. An annual
+4 mooringfeeof$50foreachmooringinacongregatemooringfieldand[$25]$50foreachmooringnot
+5 in a congregate mooring field shall be charged for each decal renewed or replaced pursuant to this
+6 subdivision which shall be deposited in the navigation safety fund established under RSA 270-E:6-a
+7 and $25 shall be deposited into the cyanobacteria mitigation loan and grant fund
+8 establishedunderRSA485-A:61.
+9 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2871
+11/17/25
+HB1301-FN-FISCALNOTE
+ASINTRODUCED
+ANACT increasing certain mooring fees and directing such funds to the cyanobacteria
+mitigationloanandgrantfund.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$68,750to $68,750to $68,750to
+Revenue $0
+$80,000 $80,000 $80,000
+RevenueFund(s) CyanobacteriaMitigationFund
+$68,750to $68,750to $68,750to
+Expenditures* $0
+$80,000 $80,000 $80,000
+FundingSource(s) CyanobacteriaMitigationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalRevenue $0
+Increase Increaser Increase
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill increases the annual mooring fee for moorings not located in a congregate mooring field
+from $25 to $50 and directs $25 of each fee collected to the Cyanobacteria Mitigation Loan and
+GrantFundestablishedunderRSA485-A:61.
+TheDepartmentofEnvironmentalServices(NHDES)statesthisbillwillresultinanincreasein
+staterevenuesandexpendituresfromtheCyanobacteriaMitigationFundbeginninginFY2027.
+The Department, using data provided by the Department of Safety-Marine Patrol, estimates
+there are between 2,750 and 3,200 moorings on inland waterbodies that require annual
+registration under RSA 270:61–62. Increasing the fee by $25 per mooring and depositing this
+
+portion into the Cyanobacteria Mitigation Fund is projected to generate between $68,750 and
+$80,000 annually. These revenues would be used for competitive grants or loans to
+municipalities and nonprofit lake or watershed associations for projects that mitigate or prevent
+cyanobacteriablooms.
+The Department notes that the statutory language is not entirely clear and could be interpreted
+to apply the $25 fee increase to both congregate and individual moorings. If applied more
+broadly,thefiscalimpactcouldbehigher.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

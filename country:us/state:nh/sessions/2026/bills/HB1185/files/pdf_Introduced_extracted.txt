@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1185-FN-ASINTRODUCED
+2026SESSION
+26-2697
+09/08
+1185-FN
+HOUSEBILL
+ANACT relativetotheoffenseofendangeringthewelfareofachildorincompetent.
+SPONSORS: Rep. Markell, Rock. 18; Rep. DeSimone, Rock. 18; Rep. Nelson, Rock. 13; Rep.
+Rice,Hills.38;Sen.Long,Dist20
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill redefines the crime of endangering of the welfare of a child or incompetent, and adds
+revisedpenaltiesfortheviolationthereof.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1185-FN-ASINTRODUCED
+26-2697
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofendangeringthewelfareofachildorincompetent.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Endangering the Welfare of a Child or Incompetent. RSA 639:3 is repealed and reenacted to
+2 readasfollows:
+3 639:3 EndangeringWelfareofaChildorIncompetent.
+4 I. Any person who owes a child under 18 years of age, or an incompetent, a duty of care,
+5 protection, or support, and violates all or any portion of those duties, or induces such child or
+6 incompetent to engage in conduct that endangers the safety or health of such child or incompetent,
+7 by engaging in conduct or a pattern of conduct so as to expose the child or incompetent to a
+8 substantial and unjustifiable risk of serious bodily injury or death, shall be guilty of a class A
+9 misdemeanorifsuchendangermentwasnegligent,andaclassBfelonyifknowing.
+10 II. Any person convicted of a second or subsequent offense under this section shall be guilty
+11 ofaclassBfelony.
+12 III. If a person violates paragraph I by negligently engaging in conduct or a pattern of
+13 conduct that endangers the safety or health of such child or incompetent, and as a result of such
+14 exposure,causesseriousbodilyinjuryordeathofthechildorincompetent,thepersonshallbeguilty
+15 ofaclassAfelony.
+16 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2697
+10/27/25
+HB1185-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofendangeringthewelfareofachildorincompetent.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

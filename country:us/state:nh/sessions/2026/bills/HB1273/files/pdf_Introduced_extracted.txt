@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1273 -ASINTRODUCED
+2026SESSION
+26-2838
+06/08
+1273
+HOUSEBILL
+ANACT enabling municipal support and incentives for residential flood resilience
+improvements.
+SPONSORS: Rep. Muns, Rock. 29; Rep. Balboni, Rock. 38; Rep. Bridle, Rock. 29; Rep. Darby,
+Hills. 11; Rep. Grote, Rock. 24; Rep. Maggiore, Rock. 23; Rep. Sabourin dit
+Choiniere,Rock.30;Rep.Edgar,Rock.29;Sen.Altschiller,Dist24
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Renamesthecoastalresiliencezonetoafloodresilienceincentivezone.
+II. Expandsqualifyingimprovementsandfundingmechanisms.
+III. Authorizesmunicipalfloodresiliencefeesandrevolvingfunds.
+IV. Permitstaxcreditsandspecialassessmentsforfloodmitigationinvestments.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1273-ASINTRODUCED
+26-2838
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling municipal support and incentives for residential flood resilience
+improvements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FloodResilienceIncentiveZone. AmendRSA79-E:4-atoreadasfollows:
+2 79-E:4-a [Coastal]FloodResilienceIncentiveZone.
+3 I. A city or town may adopt the provisions of this section by vote of its legislative body,
+4 according to the procedures described in RSA 79-E:3, to establish a [coastal] flood resilience
+5 incentive zone ([CRIZ] FRIZ). Municipalities may use the New Hampshire Flood Hazards
+6 Viewer online tool developed by the New Hampshire floodplain management program to
+7 identify potentially impacted structures and the boundaries of such a FRIZ.
+8 MunicipalitiesadjacenttoGreatBayortheGulfofMainemayalsorefertostormsurge,sea-
+9 level rise, and extreme precipitation projections in the 2016 report of the New Hampshire Coastal
+10 Risk and Hazards Commission, "Preparing New Hampshire for Projected Storm Surge, Sea-Level
+11 Rise, and Extreme Precipitation," and its successor projections[, to identify potentially impacted
+12 structures]toassistwiththosedeterminations.
+13 II. Themunicipalityimplementinga[CRIZ]FRIZshalldeterminetheresiliencemeasuresit
+14 deems qualifying ("qualifying improvements")[,] such as, but not limited to, [elevation and free-
+15 board renovations, elevation of mechanicals, construction of resilient natural features, enhancement
+16 or creation of tidal marshes, elevation of private driveways and sidewalks, construction or
+17 enlargement of private culverts and other structures to enable increased water flow and storm-
+18 surge, and movement of propertyto higher elevationontheproperty or toanewlyacquired property
+19 at a higher elevation within the municipality. Municipalities may grant tax relief to the qualifying
+20 structure and property as described in RSA 79-E:4] providing flood and water damage
+21 mitigation and resiliency improvements, prioritizing repairs, replacement, or
+22 improvementsthatqualifyforreductionsinfloodinsurancepremiums,includingraisinga
+23 structure above the base flood elevation to reduce flood damage; constructing a flood
+24 diversion apparatus, drainage gate, or sea/lake/river wall improvement, including
+25 sea/lake/river wall repairs and sea/lake/river wall replacements; purchasing flood
+26 damage-resistant building materials; adopting water management practices that use the
+27 natural environment to address flooding events, such as vegetated rooftops, roadside
+28 plantings, absorbent gardens, bioswales, tree planting and other vegetation and other
+29 measures that capture, filters and reduce stormwater; or making electrical, mechanical,
+30 plumbing,orothersystemimprovementsthatreduceflooddamage.
+
+HB1273 -ASINTRODUCED
+-Page2-
+1 III. Municipalities may grant tax relief to the property with qualifying
+2 improvements.asdescribedinRSA79-E:4andthissection.
+3 [III] IV. Municipalities may provide other relief to properties in a [coastal] flood resilience
+4 incentive zone that are subject to repeated inundation[,] by acquiring preservation or water control
+5 easementsorestablishingtaxincrementfinancingdistricts.
+6 [IV] V. Municipalities may create a nonlapsing [CRIZ] FRIZ fund as a capital reserve fund
+7 under RSA 34 or RSA 35, or a town-created trust fund under RSA 31:19-a, to provide funding for
+8 projected municipal costs associated with projected storm surge, sea-level rise, and extreme
+9 precipitation, and such funds may be used to support the [coastal] flood resilience incentive zone
+10 purposeestablishedinthissection.
+11 VI. A municipality may create a nonlapsing FRIZ investment fund as a revolving
+12 fund under RSA 31:95-h to provide funding to support the FRIZ purposes established in
+13 thissection.
+14 (a) The FRIZ investmentfund shall be structuredso thatother sourcesof public
+15 and private funding intended to address risks from flooding in the FRIZ may be deposited
+16 into the fund and so that funding, through grants or below market loans, may be provided
+17 to individuals and businesses within the FRIZ intending to invest in qualifying
+18 improvements.
+19 (b) The legislative body of a municipality may vote to apply and collect a
+20 municipal flood resilience fee on each property within the entire municipality or within
+21 only the FRIZ, for deposit into the FRIZ investment fund. The fee may be collected as an
+22 additional assessment on the assessed value of all property in the area, in an amount not
+23 to exceed $0.50 per $1,000 of assessed valuation. Enforcement powers for nonpayment shall
+24 be as provided in RSA 31:39-c, RSA 31:39-d, and RSA 47:17-b, relative to enforcement of
+25 ordinances.
+26 (c) Disbursementsfrom the FRIZ investmentfund,whether inthe form of grants
+27 or below-market loans, shall be handled in accordance with RSA 31:95-h, II, with the
+28 understanding that all such requests shall be approved by the select board or city council
+29 pursuanttoproceduresandpoliciesestablishedbyandapprovedbythegoverningbody.
+30 VII. In addition to or in place of tax relief for flood resiliency qualifying
+31 improvements as provided under RSA 79-E:4, a city or town may, upon adoption pursuant
+32 to RSA 72:27-a, offer an annual property tax credit of not less than $100 and not more than
+33 $1,000 for a period not to exceed 5 years on a property with qualifying improvements. The
+34 total value of such credit over the period it is offered shall not exceed the value of the flood
+35 resiliency investment, and the credit shall attach to the property and not to the property
+36 owner.
+
+HB1273 -ASINTRODUCED
+-Page3-
+1 VIII. The collection of any municipal flood resilience fee under this section shall be
+2 made by the tax collector or other official responsible for the collection of property taxes or
+3 municipal service charges. A municipality shall commit bills for amounts due on the
+4 special assessments, including interest and charges, to the tax collector with a warrant
+5 signed by the appropriate municipal officials requiring the tax collector to collect them.
+6 Each year, bills for amounts due on the special assessments shall coincide with bills for
+7 property taxes or municipal service charges. Each special assessment imposed under a
+8 FRIZ program pursuant to an assessment contract, including any interest or penalty,
+9 shall, upon recording of the assessment contract in the county in which the district is
+10 located,constitute alien againstthe property on whichthe assessmentis imposeduntil the
+11 assessment, including interest or any penalty, is paid in full. The lien of the assessment
+12 contract shall run with the property until the assessment is paid in full and a satisfaction
+13 or release has been recorded by the municipality or its program administrator, and shall
+14 havethesamelienpriorityandstatusasotherpropertytaxandspecialassessmentliensas
+15 provided in RSA 80. The municipality or any permitted assignee shall have all rights and
+16 remedies in the case of default or delinquency in the payment of an assessment as provided
+17 inRSA80fordelinquentpropertytaxesandotherdelinquentspecialassessments.
+18 2 New Subparagraph;RevolvingFunds. AmendRSA31:95-h, Ibyinsertingafter subparagraph
+19 (g)thefollowingnewsubparagraph:
+20 (h) Grants or below market loans, or both, to fund qualifying improvements in a Flood
+21 ResilienceImprovementZone(FRIZ)pursuanttoRSA79-E:4-a.
+22 3 Definitions. AmendRSA79-E:2,II(e)toreadasfollows:
+23 (e) In a city or town that has adopted the provisions of RSA 79-E:4-a, "qualifying
+24 [structure] improvements" also means potentially impacted structures identified by the
+25 municipalitywithinthe[coastal]floodresilienceincentivezoneestablishedunderRSA79-E:4-a.
+26 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

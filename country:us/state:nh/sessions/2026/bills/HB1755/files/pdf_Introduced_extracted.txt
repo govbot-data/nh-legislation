@@ -1,0 +1,181 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1755-FN-ASINTRODUCED
+2026SESSION
+26-3133
+05/06
+1755-FN
+HOUSEBILL
+ANACT relativetothe340Bdiscounteddrugpurchasingprogram.
+SPONSORS: Rep.Polozov,Merr.10;Rep.Litchfield,Rock.32;Rep.Ulery,Hills.13
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires participants in the 340B program to report specified data annually to the
+department of health and human services and the department of justice. This bill also requires the
+departmentofhealthandhumanservicestoreportaggregateddatatothegeneralcourt.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1755-FN-ASINTRODUCED
+26-3133
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothe340Bdiscounteddrugpurchasingprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; 340B Discounted Drug Purchasing Program; Reporting Requirements.
+2 AmendRSA126-Abyinsertingaftersection106thefollowingnewsubdivision:
+3 340BDiscountedDrugPurchasingProgram;ReportingRequirements
+4 126-A:107 Definitions. Inthissubdivision:
+5 I. “340B Covered Entity” means an entity described in 42 U.S.C. 256b(a)(4)(L) through 42
+6 U.S.C.256b(a)(4)(O)that:
+7 (a) Is authorized to participate in the federal 340B Drug Pricing Program under Section
+8 340BofthefederalPublicHealthServiceAct;and
+9 (b) HasaserviceaddressinthestateofNewHampshireasofJanuary1ofthereporting
+10 year.
+11 (c) The term includes any offsite outpatient facility affiliated under the 340B program
+12 withanentitydescribedinthissubdivision.
+13 II. “340B program” refers to the federal 340B Drug Pricing Program established under 42
+14 U.S.C.256b.
+15 III. “Charity care” means the unreimbursed cost to a hospital of providing, funding, or
+16 otherwisefinanciallysupportinghealthcareservices:
+17 (a) To a person classified by the hospital as financially indigent or medically indigent on
+18 aninpatientoroutpatientbasis;and
+19 (b) To financially indigent patients through other nonprofit or public outpatient clinics,
+20 hospitals,orhealthcareorganizations.
+21 IV. “Financially indigent” means an uninsured or underinsured person who is accepted for
+22 care with no obligation or a discounted obligation to pay for the services rendered based on the
+23 hospital’s financial criteria and procedure used to determine if a patient is eligible for charity care.
+24 The criteria and procedure must include income levels and means testing indexed to the federal
+25 poverty guidelines. A hospital may determine that a person is financially or medically indigent
+26 underthehospital’seligibilitysystemafterhealthcareservicesareprovided.
+27 V. “Medically indigent” means a person whose medical or hospital bills after payment by
+28 third party payors exceed a specified percentage of the patient’s annual gross income as determined
+29 in accordance with the hospital’s eligibility system, and who is financially unable to pay the
+30 remainingbill.
+31 126-A:108 340BDrugPricingProgramReporting.
+
+HB1755-FN-ASINTRODUCED
+-Page2-
+1 I. Before April 1 of each year, a 340B covered entity shall report the following information
+2 and transactions to the department of health and human services and the attorney general
+3 concerning the 340B covered entity’s participation in or participation on behalf of the 340B covered
+4 entityinthefederal340Bprogramforthepreviouscalendaryear:
+5 (a) Name.
+6 (b) ServiceAddress.
+7 (c) 340BProgramIdentificationNumber.
+8 (d) Designation of entity type, as specified in 42 U.S.C. 256b(a)(4), of the 340B covered
+9 entity.
+10 (e) The aggregate acquisition cost for all prescription drugs obtained under the 340B
+11 programanddispensedoradministeredtopatients.
+12 (f) The aggregate payment amount received for all drugs obtained under the 340B
+13 programanddispensedoradministeredtopatients.
+14 (g) The aggregate payment made to pharmacies under contract to dispense drugs
+15 obtainedunderthe340Bprogram.
+16 (h) Thenumberofclaimsforprescriptiondrugsdescribedinsubparagraph(e).
+17 (i) How the 340B covered entity uses any savings from participating in the 340B
+18 program,includingtheamount of savings used for theprovisionof charitycare, communitybenefits,
+19 orasimilarprogramofprovidingunreimbursedorsubsidizedhealthcare.
+20 (j) The aggregate payments made to any other entity that is not a 340B covered entity
+21 andisnotacontractpharmacyformanaginganyaspectofthe340Bcoveredentity’s340Bprogram.
+22 (k) The aggregate payment made for any other administering expense for the 340B
+23 program.
+24 (l) Theaggregatenumberofprescriptiondrugsdispensedoradministeredtopatientsfor
+25 whichapaymentwasreportedundersubparagraph(e).
+26 (m) The percentage of the 340B covered entity’s claims that were for prescription drugs
+27 obtainedunderthe340Bprogram.
+28 (n) The number and percentage of low income patients of the 340B covered entity that
+29 were served by a sliding fee scale for a prescription drug dispensed or administered under the 340B
+30 program.
+31 (o) The340Bcoveredentity’stotaloperatingcosts.
+32 (p) The340Bcoveredentity’stotalcostsforcharitycare.
+33 (q) Acopyof the340Bcoveredentity’sfinancialassistancepolicyforthereportingyear.
+34 (r) Thenumberofpatientssenttocollections.
+35 (s) The aggregate number of financially indigent, medical indigent, and low income
+36 patientssenttocollections.
+
+HB1755-FN-ASINTRODUCED
+-Page3-
+1 II. The information required to be reported under paragraph I shall, to the extent feasible,
+2 bereportedbypayertype,includingthefollowing:
+3 (a) Commercial.
+4 (b) Medicaid.
+5 (c) Medicare.
+6 (d) Uninsured.
+7 III. The data submitted in the reports required under this section is confidential and is not
+8 availableforpublicinspection.
+9 IV. Before November 15 of each year, the department of health and human services shall
+10 prepareareportthataggregatesthedatasubmittedunderparagraphIand:
+11 (a) Submit the report to the speaker of the house of representatives, the senate
+12 president,andthehouseandsenateclerk.
+13 (b) Postthereportonthedepartmentofhealthandhumanserviceswebsite.
+14 V. Using all powers available under RSA 7:19 through RSA 7:32 and any related law, the
+15 director of charitable trusts shall review the data submitted pursuant to this subdivision, including
+16 information regarding the use of 340B savings and the sending of patients to collections, to evaluate
+17 compliancewithNewHampshirecharitabletrustandnonprofitobligationspursuanttoRSA7:24.
+18 VI. Inanylegaldeterminationastowhetheranentityisoperatingforabonafidecharitable
+19 purpose, knowingly sending a substantial number of financially indigent, medically indigent, or low-
+20 income patients to collections shall be considered a significant factor in favor of finding that the
+21 entityisoperatingasafor-profitbusiness.
+22 VII. If, after notice and opportunity for hearing under RSA 7:28-c, the director of charitable
+23 trusts makes a final determination that a charitable entity is operating primarily as a for-profit
+24 business in violation of RSA 7:24, the director shall promptly notify the internal revenue service
+25 exemptorganizationsdivisionofsuchfindings,includingsupportingdocumentation.
+26 126-A:109 Penalties.
+27 I. A 340B covered entitythat fails to provide theinformation required under this chapter by
+28 thedaterequiredshallbesubjecttoafineof$1,000perdayforwhichtheinformationispastdue.
+29 II. A violation of the intent of the 340B program identified by the director of charitable
+30 trusts shall be an unfair or deceptive trade practice under RSA 358-A and subject to all fines and
+31 penaltiesavailableunderRSA358-A.
+32 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3133
+12/15/25
+HB1755-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothe340Bdiscounteddrugpurchasingprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+asintroduced,asitisawaitinginformationfromtheDepartmentofHealthandHumanServices.
+The Department was originally contacted on 11/19/25 and again in 12/11/25 for a fiscal note
+worksheet. Whencompleted,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice
+METHODOLOGY:
+This bill requires all entities covered under the 340B discounted drug purchasing program to
+submit annual financial and programmatic data to the Department of Health and Human
+Services and the Department of Justice beginning in 2027. Required reporting includes drug
+acquisition and payment amounts, contract pharmacy arrangements, charity care, sliding-fee-
+scale usage, collection practices, and operating costs. The Department of Justice, through the
+Director of Charitable Trusts, is charged with reviewing the data for compliance with RSA 7:24,
+including whether entities’ collection practices and use of 340B savings align with their
+charitable purpose. The bill authorizes penalties for non-reporting and treats certain violations
+asunfairordeceptivetradepractices.
+The Department of Justice estimates it will need two additional full-time attorneys and one full-
+time financial analyst/investigator to manage the increased workload in the Charitable Trusts
+Unit.Thisadditionalpersonnelwillconductannualreviews,analysis,andpotentialenforcement
+of detailed 340B data, including evaluating charity care practices, reviewing financial records,
+
+assessing possible RSA 7:24 violations, and preparing for hearings or referrals. These positions
+areestimatedtocost$398,000inFY27,$402,000inFY28,and$408,000inFY29.
+As of this writing, the Department of Health and Human Services has not provided information
+relativetothecostofitsresponsibilitiesunderthebill.
+AGENCIESCONTACTED:
+DepartmentsofJusticeandHealthandHumanServices

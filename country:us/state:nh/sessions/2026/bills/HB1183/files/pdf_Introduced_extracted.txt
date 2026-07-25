@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1183-FN-ASINTRODUCED
+2026SESSION
+26-2495
+07/08
+1183-FN
+HOUSEBILL
+ANACT relativetothemathematicsrequirementforhighschoolgraduation.
+SPONSORS: Rep. Ladd, Graf. 5; Rep. Erf, Hills. 28; Rep. Noble, Hills. 2; Rep. Drye, Sull. 7;
+Rep.S.Smith,Sull.3;Sen.Abbas,Dist22;Sen.Ward,Dist8
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesamandatory4-coursehighschoolmathematicsgraduationrequirement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1183-FN-ASINTRODUCED
+26-2495
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothemathematicsrequirementforhighschoolgraduation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; State Board of Education; Rulemaking Authority; Standards; Employee
+2 Qualifications. AmendRSA186:8,VIIItoreadasfollows:
+3 VIII. Requiring a high school pupil to attain competency in mathematics for each year in
+4 whichhe or she is in highschool through graduationtoensure career and college readiness. A pupil
+5 [may] shall meet this requirement [either] by satisfactorily completing a minimum of 4 courses in
+6 mathematics [or by satisfactorily completing a minimum of 3 mathematics courses and one non-
+7 mathematics content area course, including, but not limited to, a CTE program under RSA 188-E, in
+8 which mathematics knowledge and skills are embedded and applied, as may be], as approved by the
+9 schoolboard. [Therulesshallbeimplementedinthe2015-16schoolyear.]
+10 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2495
+11/4/25
+HB1183-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothemathematicsrequirementforhighschoolgraduation.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill, effective for the 2027-2028 school year, changes the graduation requirement on high
+schoolstudents’competencyinmathematicsforcareerandcollegereadiness. Thiswouldrequire
+students to meet the competency, each year they are in high school until graduation, by
+completing four math courses, as approved by the school board. Previously, students could meet
+the competency requirement by completing four math courses or by completing three math
+courses and one non-mathematics course that embedded and applied mathematical knowledge.
+This bill’s impact on local school districts is indeterminable as costs would be based on the need
+for new course development, material purchases for additional courses, and additional
+staff/teachers. Costs,ifthereareany,wouldvaryfromdistricttodistrict.
+AGENCIESCONTACTED:
+DepartmentofEducation

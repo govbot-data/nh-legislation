@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1686-FN-ASINTRODUCED
+2026SESSION
+26-3124
+06/09
+1686-FN
+HOUSEBILL
+ANACT relative to establishing an intelligent speed assistance program as an alternative
+tolicensesuspensionforcertainmotorvehicleoffenses.
+SPONSORS: Rep.Long,Hills.26
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a program, administered by the department of safety, requiring intelligent
+speed assistance devices to be installed on the motor vehicles of drivers found to be habitual traffic
+offenders or convicted of operating at dangerously excessive speeds. This bill also sets requirements
+for installation, program length, enforcement, penalties for tampering, and related judicial
+procedures.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1686-FN-ASINTRODUCED
+26-3124
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to establishing an intelligent speed assistance program as an alternative
+tolicensesuspensionforcertainmotorvehicleoffenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Intelligent Speed Assistance Program. Amend RSA 265 by inserting after
+2 section79-cthefollowingnewsubdivision:
+3 IntelligentSpeedAssistanceProgram
+4 265:79-d IntelligentSpeedAssistanceRequiredforCertainOffenders.
+5 I. For purposes of this subdivision, "intelligent speed assistance device" means a device
+6 utilizing global positioning or vehicle telemetry to limit or audibly alert a driver when exceeding
+7 postedspeedlimits.
+8 II. The department of safety shall establish the "Intelligent Speed Assistance Program" to
+9 require certain motor vehicle offenders to install an intelligent speed assistance (ISA) device on any
+10 vehicletheyownoroperate.
+11 III. The court shall order any person convicted under RSA 265:79 for driving at a speed
+12 exceeding 100 miles per hour to enroll in the intelligent speed assistance program as a condition of
+13 probation, or as an alternative to license suspension, for any period not less than 6 months and not
+14 morethan2years.
+15 IV. Any driver certified by the department as a habitual offender under RSA 259:39 who, in
+16 lieu of license revocation, is permitted continued driving privileges, shall be required by the director
+17 toinstallanISAdeviceforthedurationofanyconditionaldrivingprivilege.
+18 V. No person ordered to install an ISA device shall operate any motor vehicle without an
+19 activeandfunctioningISAsystem.
+20 VI. The cost of purchase, installation, and maintenance of the ISA device shall be at the
+21 expenseof theoffender. Thedepartmentshallapprovemanufacturersandinstallationproviders.
+22 VII. Any person who tampers with, disables, or circumvents an ISA device required by this
+23 section shall be guilty of a misdemeanor, and upon conviction, the court may impose additional
+24 penaltiesincludinglicensesuspension.
+25 VIII. The department shall adopt rules pursuant to RSA 541-A setting device standards,
+26 programentryandexitrequirements,andreportingmechanisms.
+27 IX. Any violation of this section may be prosecuted as contempt of court or as a
+28 misdemeanor. Upon conviction, the court may revoke conditional driving privileges and impose any
+29 additionalpenaltiesrequiredbylaw.
+30 2 RecklessDriving;MinimumPenalty. AmendRSA265:79,IItoreadasfollows:
+
+HB1686-FN-ASINTRODUCED
+-Page2-
+1 II. Whoever upon any way drives a vehicle at a speed of 100 miles per hour or greater and
+2 thereby violates any of the provisions of this title or any rules adopted by the director, shall be,
+3 notwithstanding the provisions of title LXII, guilty of a violation and fined not less than $750 plus
+4 penalty assessment for the first offense and $1,000 plus penalty assessment for the subsequent
+5 offense and his or her license or operating privilege shall be revoked for a period of 90 days for the
+6 first offense and from 90 days to one year for the subsequent offense. In addition, any person
+7 convicted under this paragraph shall be subject to the requirements of RSA 265:79-d, the
+8 intelligentspeedassistanceprogram.
+9 3 New Paragraph; Habitual Offender. Amend RSA 259:39 by inserting after paragraph III the
+10 followingnewparagraph:
+11 IV. Any person certified under this section who is permitted continued driving privileges
+12 maybesubjecttotherequirementsofRSA265:79-d.
+13 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3124
+12/5/25
+HB1686-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to establishing an intelligent speed assistance program as an alternative
+tolicensesuspensionforcertainmotorvehicleoffenses.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+DepartmentofSafetyImpact
+$336K+inFY27,$221K+inFY28,
+and$231K+inFY29
+Expenditures* $0
+JudicialandCorrectionalSystemImpact
+Indeterminable
+GeneralFundandRestricted-HighwayFundCostofCollections-Per
+thestateconstitution,costsassociatedwiththe
+FundingSource collection/administrationofhighwayfundrevenuebytheDepartment
+ofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill creates an Intelligent Speed Assistance Device (ISAD) Program targeting Reckless
+Driving convictions where speeds of 100+ mph are a factor and Habitual Offender convictions.
+The bill defines ISAD as a device that uses GPS or vehicle telemetry to either limit a vehicle’s
+speed or alert the driver when they exceed posted speed limits. Offenders are required to install
+ISADs in any vehicle they operate. Tampering with or disabling the device would be a
+misdemeanor and may result in additional penalties to include license suspension. Additionally,
+violations of an ISAD order may be prosecuted as contempt of court, and the court may revoke
+
+conditional driving privileges along with any additional penalties for noncompliance. All costs
+forpurchases,installation,andmaintenanceoftheISADaretheresponsibilityoftheoffender.
+The Department of Safety states that given that no ISAD program currently exists in New
+Hampshire, implementation would require the creation of a new administrative framework.
+Based on similarities to the existing Ignition Interlock Device (IID) Program and the process for
+identifying Habitual Offenders, the Department makes the following assumptions related
+directly to this bill’s potential fiscal impact (assumptions are based on the operational structure
+oftheexistingIIDprogramandarescaledtomeetthebroaderscopeofanISADinitiative):
+ PersonnelCosts:Salariesandbenefitsofthree(3)newstaffpositions
+o One(1)ComplianceOfficer(SOC13-02,startdate01/01/27)
+o Two(2)Misc.RecordsClerks(SOC43-03,startdate01/01/27)
+ System Development: One-time costs related to interfaces, tracking, and creation of
+queuesandreporting
+ Itisunknowniftrainingandoutreachwillhaveafiscalimpact
+ Thecostassociatedwithconsumables,postage,trainingandoutreachrelatedtoanISAD
+programisindeterminable
+Description FY2027 FY2028 FY2029
+SystemDevelopment $220,000 $0 $0
+StaffingCosts* $116,000 $221,000 $231,000
+Training/Outreach/Other Indeterminable Indeterminable Indeterminable
+Total $336,000+ $221,000+ $231,000+
+*Thisbillprovidesneitherauthoritynorappropriationfornewpersonnel
+The Judicial Branch states any impact related to this bill would be absorbed within its normal
+operatingbudgetamounts.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association

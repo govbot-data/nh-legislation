@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1215-ASAMENDEDBYTHESENATE
+11Mar2026...0942h
+04/16/2026 1446s
+2026SESSION
+26-2892
+05/08
+1215
+HOUSEBILL
+ANACT relative to supporting the preferred method of communication of an individual
+with a communication disability and relative to transfers from freestanding
+hospitalemergencyfacilities.
+SPONSORS: Rep. Kofalt, Hills. 32; Rep. B. Boyd, Hills. 12; Rep. Newell, Ches. 4; Rep. Kuttab,
+Rock. 17; Rep. W. MacDonald, Rock. 16; Sen. Avard, Dist 12; Sen. Birdsell, Dist
+19;Sen.Carson,Dist14
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Supports the right of individuals with communication disabilities to use their preferred
+method of communication within the state service delivery system, including in residential settings
+andschoolsandwithotherserviceproviders.
+II. Establishes standards governing the transfer of patients from freestanding hospital
+emergency facilities to acute care hospitals to ensure that such transfers are based primarily on
+clinicalappropriateness,patientsafety,continuityofcare,andpatientchoice.
+III. Bans coercive or exclusive transfer practices, reinforces EMTALA requirements, and gives
+thestateauthoritytoenforceviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1215-ASAMENDEDBYTHESENATE
+11Mar2026...0942h
+04/16/2026 1446s 26-2892
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to supporting the preferred method of communication of an individual
+with a communication disability and relative to transfers from freestanding
+hospitalemergencyfacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Section2ofthisactshallbeknownas“Grace’sLaw”.
+2 2 New Section; Services for the Developmentally Disabled; Right to Preferred Method of
+3 Communication. AmendRSA171-Abyinsertingaftersection4thefollowingnewsection:
+4 171-A:4-a RighttoPreferredMethodofCommunication.
+5 I. An individual with a communication disability who is receiving services under this
+6 chapter shall have the right to select and utilize their preferred method of communication that
+7 enables such individual to independently express their own thoughts and wishes. Methods of
+8 communication that may enable an individual to independently express themselves include, but are
+9 notlimitedto,anyofthefollowingmethods:
+10 (a) AugmentativeandAlternativeCommunication(AAC)techniquesanddevices.
+11 (b) Independentuseofletterboardsandindependenttyping-basedcommunication.
+12 (c) Signlanguageandnon-verbalgesturalsystems.
+13 (d) Speech-generatingdevicesoranyotherassistivetechnology.
+14 II. Every school, day, residential and other program or service provider involved in the
+15 implementation of the individual’s individualized education program or the individual’s service
+16 agreement shall make all reasonable efforts to accommodate an individual’s preferred method of
+17 communication, including securing necessary training to communicate with the individual using the
+18 individual’spreferredmethodofcommunication.
+19 3 Purpose. Thepurposeofsection4thisactistoprotectpatientsafetyandcontinuityofcareby
+20 ensuring that transfers from freestanding hospital emergency facilities are based on clinical
+21 appropriateness, patient needs, and regional access to hospital services. Section4 of this act further
+22 seeks to prevent practices that may undermine community hospitals through coercive or exclusive
+23 transferarrangementsthatarenotclinicallyjustified.
+24 4 New Subdivision; Transfers from Freestanding Hospital Emergency Facilities. Amend RSA
+25 151byinsertingaftersection53thefollowingnewsubdivision:
+26 TransfersfromFreestandingHospitalEmergencyFacilities
+27 151:54 Definitions. Inthissubdivision:
+
+HB1215-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. “Freestanding hospital emergency facility” or “FHEF” means a facility licensed under this
+2 chapter that is geographically separate from an acute care hospital and provides emergency medical
+3 servicesonbehalfof,orinaffiliationwith,aparenthospital.
+4 II. “Parent hospital” means an acute care hospital that owns, controls, or operates a
+5 freestandinghospitalemergencyfacility,directlyorindirectly.
+6 III. “Clinically appropriate” means consistent with the judgment of the treating physician,
+7 thepatient’smedicalcondition,andapplicableregionalemergencymedicalservicesprotocols.
+8 IV. “Transfer” means the movement of a patient from a freestanding hospital emergency
+9 facility to another licensed hospital or health care facility for the purpose of providing continued
+10 medical care, and shall not include discharge to home or referral for non-emergent outpatient
+11 services.
+12 V. “Medically necessary” means determined by the treating physician or qualified
+13 practitioner to be required to prevent or address a material deterioration of the patient’s medical
+14 condition,consistentwithapplicablestandardsofcare.
+15 151:55 TransferStandards.
+16 I. When a transfer from a freestanding hospital emergency facility to an acute care hospital
+17 is medically necessary, the facility shall ensure that transfer decisions are based primarily on
+18 clinicalappropriateness,patientsafety,continuityofcare,andpatientchoice.
+19 II. A patient, or the patient’s legal representative when applicable, shall be informed of
+20 available receiving hospitals that are clinically appropriate and reasonably available, provided that
+21 suchdiscussiondoesnotdelayscreening,stabilization,ortransferrequiredunderfederallaw.
+22 III. No freestanding hospital emergency facility shall require or condition treatment,
+23 stabilization, or transfer upon selection of a receiving hospital based primarily on ownership or
+24 affiliation.
+25 IV. If a patient is unable to participate in the selection of a receiving hospital, the facility
+26 shallarrangetransfertoanappropriatehospitalconsistentwith:
+27 (a) RSA153-A:1andRSA151:19,VII;
+28 (b) State-designatedtrauma,stroke,orspecialtycaresystems;
+29 (c) Federalandstatelawgoverningemergencymedicaltreatmentandtransfer;and
+30 (d) Thepatient’smedicalconditionandsafety.
+31 151:56 ProhibitedPractices.
+32 I. No freestanding hospital emergency facility, nor any entity owning or operating such
+33 facility,shall:
+34 (a) Engage in materially misleading communication or coercive conduct for the primary
+35 purpose of directing patient transfers to an affiliated or parent hospital when another clinically
+36 appropriatehospitalisreasonablyavailable.
+37 (b) Conditiontransferdecisionsoninsurancestatusorpayerconsiderations.
+
+HB1215-ASAMENDEDBYTHESENATE
+-Page3-
+1 (c) Enter into exclusive transfer arrangements with emergency medical services
+2 providers that require patient transfers to an affiliated hospital without regard to clinical
+3 appropriateness,patientneeds,patientchoice,orregionalemergencymedicalservicesprotocols.
+4 II. Nothing in this section shall prohibit non-exclusive coordination agreements with
+5 emergency medical services providers for quality assurance, response efficiency, or specialty care,
+6 providedsuchagreementsdonotrequireexclusiveroutingbasedonownershipaffiliation.
+7 151:57 Federal Law EMTALA. Nothing in this subdivision shall be construed to alter, expand,
+8 orrestrictobligationsunderthefederalEmergencyMedicalTreatmentandLaborAct(EMTALA),42
+9 U.S.C. section 1395dd. Compliance with EMTALA shall be deemed compliance with this
+10 subdivision. Intheeventofaconflict,federallawshallcontrol.
+11 151:58 Enforcement;Rulemaking.
+12 I. The attorney general may adopt rules under RSA 541-A to define and implement
+13 enforcementstandards under this subdivision, includingbut not limited todefiningwhat constitutes
+14 apatternofviolations,coerciveconduct,ormateriallymisleadingcommunication.
+15 II. Upon a finding of a pattern of violations as defined by rule, the attorney general may
+16 pursueenforcementunderRSA358-A.
+17 III. Prior to referral for enforcement, the department of health and human services shall
+18 providenoticeofallegedviolationsandareasonableopportunitytocure.
+19 151:59 Scope. This subdivision applies only to transfers occurring prior to inpatient admission
+20 at the receiving hospital and shall not regulate post-admission referral, discharge planning, or
+21 electiveadmissiondecisions.
+22 5 EffectiveDate.
+23 I. Sections1and2ofthisactshalltakeeffect60daysafteritspassage.
+24 II. Theremainderof thisactshalltakeeffectuponitspassage.

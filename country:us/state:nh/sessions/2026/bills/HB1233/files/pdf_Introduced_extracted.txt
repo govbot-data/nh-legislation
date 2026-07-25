@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1233 -ASINTRODUCED
+2026SESSION
+26-3007
+12/05
+1233
+HOUSEBILL
+ANACT relativetotheminutesofnon-publicsessions.
+SPONSORS: Rep.Beaulier,Graf.1
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies theright-to-know law byrequiringthat theonlyminutes or decisions withheld
+from public disclosure are those portions covered by the motion to enter nonpublic session. The bill
+also adds start times and end times in the list of nonpublic session minutes available under the
+right-to-knowlaw.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1233-ASINTRODUCED
+26-3007
+12/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheminutesofnon-publicsessions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Right-to-Know; Nonpublic Sessions; Availability of Minutes and Decisions. Amend RSA 91-
+2 A:3,IIItoreadasfollows:
+3 III. Minutesofmeetingsinnonpublicsessionshallbekeptandtherecordofallactionsshall
+4 bepromptlymadeavailableforpublicinspection,exceptasprovidedinthissection. Minutesofsuch
+5 sessions shall record all actions in such a manner that the vote of each member is ascertained and
+6 recorded. Minutes and decisions reached in nonpublic session shall be publicly disclosed within 72
+7 hours of the meeting, unless, by recorded vote of 2/3 of the members present taken in public session,
+8 it is determined that divulgence of the information likely would affect adversely the reputation of
+9 any person other than a member of the public body itself, or render the proposed action ineffective,
+10 or pertain to terrorism, more specifically, to matters relating to the preparation for and the carrying
+11 out of all emergency functions, developed by local or state safety officials that are directly intended
+12 to thwart a deliberate act that is intended to result in widespread or severe damage to property or
+13 widespread injury or loss of life. This shall include training to carry out such functions. Only the
+14 portion of minutes or decisions directly covered by the motion may be withheld from public
+15 disclosure. Intheeventofsuchcircumstances,informationmaybewithhelduntil,intheopinionof
+16 a majority of members, the aforesaid circumstances no longer apply. For all meetings held in
+17 nonpublic session, where the minutes or decisions were determined to not be subject to full public
+18 disclosure, a list of such minutes or decisions shall be kept and this list shall be made available as
+19 soonaspracticableforpublicdisclosure. Thislistshallidentifythepublicbodyandincludethedate,
+20 [and] start time, and end time of the meeting in nonpublic session, the specific exemption under
+21 paragraph II on its face which is relied upon as foundation for the nonpublic session, the date of the
+22 decision to withhold the minutes or decisions from public disclosure, and the date of any subsequent
+23 decision, if any, to make the minutes or decisions available for public disclosure. Minutes related to
+24 a discussion held in nonpublic session under subparagraph II(d) shall be made available to the
+25 public as soon as practicable after the transaction has closed or the public body has decided not to
+26 proceedwiththetransaction.
+27 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

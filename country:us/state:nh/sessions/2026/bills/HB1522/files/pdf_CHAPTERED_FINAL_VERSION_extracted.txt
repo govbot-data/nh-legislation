@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER230
+HB1522-FN-FINALVERSION
+05/07/2026 1770s
+2026SESSION
+26-2398
+09/08
+1522-FN
+HOUSEBILL
+ANACT relative to amending and adding definitions related to the protection of persons from
+domesticviolenceandrelativetothedomesticviolencefatalityreviewcommittee.
+SPONSORS: Rep. Markell, Rock. 18; Rep. DeSimone, Rock. 18; Rep. Korzen, Coos 7; Rep.
+Litchfield, Rock. 32; Rep. W. MacDonald, Rock. 16; Rep. Mandelbaum, Rock. 21;
+Rep.Nelson,Rock.13
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Adds to the types of abuse the court can consider in determining whether to issue a domestic
+violenceorderofprotection.
+II. Enables the department of justice's domestic violence fatality review committee to review a case
+evenifthereisactualorpotentialcivillitigation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER230
+HB1522-FN-FINALVERSION
+05/07/2026 1770s 26-2398
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to amending and adding definitions related to the protection of persons from
+domesticviolenceandrelativetothedomesticviolencefatalityreviewcommittee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 230:1 Protection of Persons from Domestic Violence; Definitions. Amend RSA 173-B:1, I to read as
+2 follows:
+3 I. "Abuse"meansthecommissionorattemptedcommissionofoneormoreoftheactsdescribed
+4 insubparagraphs(a)through[(h)](i)byafamilyorhouseholdmemberorbyacurrentorformersexualor
+5 intimate partner, where such conduct is determined to constitute a credible present threat to the
+6 petitioner's safety. Initsanalysisofabuse,thecourtmayconsiderthepresenceofcoercivecontrolas
+7 definedinparagraphII-a. The court may alsoconsider evidence of such acts, regardless of their
+8 proximityintimetothefilingofthepetition,which,incombinationwithrecentconduct,reflectsanongoing
+9 pattern of behavior which reasonably causes or has caused the petitioner to fear for his or her safety or
+10 well-being:
+11 (a) AssaultorrecklessconductasdefinedinRSA631:1throughRSA631:3.
+12 (b) CriminalthreateningasdefinedinRSA631:4.
+13 (c) SexualassaultasdefinedinRSA632-A:2throughRSA632-A:5.
+14 (d) InterferencewithfreedomasdefinedinRSA633:1throughRSA633:3-a.
+15 (e) DestructionofpropertyasdefinedinRSA634:1andRSA634:2.
+16 (f) UnauthorizedentryasdefinedinRSA635:1andRSA635:2.
+17 (g) HarassmentasdefinedinRSA644:4.
+18 (h) CrueltytoanimalsasdefinedinRSA644:8.
+19 (i)NonconsensualdisseminationofprivatesexualimagesasdefinedinRSA644:9-a.
+20 230:2 NewParagraph;ProtectionofPersonsfromDomesticViolence;Definitions. AmendRSA173-
+21 B:1byinsertingafterparagraphIIthefollowingnewparagraph:
+22 II-a. "Coercive control" means a pattern of conduct that includes, but is not limited to, a
+23 manifestation of the defendant’s intent to threaten, intimidate, harass, isolate, coerce, control, or compel
+24 compliance, which causes the petitioner to reasonably fear for his or her physical safety. The acts may
+25 include,butarenotlimitedto:
+26 (a) Isolatingthepetitionerfromfriends,relatives,orothersourcesofsupport;
+27 (b) Deprivingthepetitionerofbasicneeds;
+28 (c) Controlling, regulating, or monitoring the petitioner’s activities, communications,
+29 movements,finances,economicresources,oraccesstoservices,includingthroughtechnologicalmeans;
+30 (d) Compelling the petitioner to engage in a specific activity, including, but not limited to,
+31 criminalconduct;
+
+CHAPTER230
+HB1522-FN-FINALVERSION
+-Page2-
+1 (e) Threatening to publish, or actually publishing, sensitive personal information relating to
+2 thepetitioner,otherthanmakingagoodfaithreporttoalawenforcementagency;or
+3 (f) Any single act which is intended to threaten intimidate, harass, isolate, coerce, control, or
+4 compel compliance of a petitioner to reasonably fear for their physical safety, consisting of harming, or
+5 threatingorattemptingtoharm,achild,relative,oranimalbelongingtothepetitioner.
+6 230:3 Protection of Persons from Domestic Violence; Commencement of Proceedings. Amend RSA
+7 173-B:3,Itoreadasfollows:
+8 I. Any personwhohassufferedabuseasdefinedinRSA173-B:1,Imay seek relief pursuant to
+9 RSA 173-B:5 by filing a petition, in the county or district where the plaintiff or defendant resides, alleging
+10 abusebythedefendant. Anypersonfilingapetitioncontainingfalseallegationsofabuseshallbesubject
+11 to criminal penalties. Notice of the pendency of the action and of the facts alleged against the defendant
+12 shall be given to the defendant, either personally or as provided in paragraph III. The plaintiff shall be
+13 permittedtosupplementoramendthepetitiononlyifthedefendantisprovidedanopportunitypriortothe
+14 hearing to respond to the supplemental or amended petition. All petitions filed under this section shall
+15 include the home and work telephone numbers of the defendant, if known. Notice of the whereabouts of
+16 the plaintiff shall not be revealed except by order of the court for good cause shown. Any answer by the
+17 defendantshallbefiledwiththecourtandacopyshallbeprovidedtotheplaintiffbythecourt.
+18 230:4 Department of Justice; Domestic Violence Fatality Review Committee. Amend RSA 21-M:16-
+19 a,VItoreadasfollows:
+20 VI. Thecommittee'sreviewofacaseshallnotbeinitiateduntilsuchtimeasthelawenforcement
+21 criminal investigation has beencompleted or fully adjudicated, whichever comes later. [Additionally, if, in
+22 theopinionoftheattorneygeneral,thereexiststhepotentialforcivillitigation,thecommittee'sreviewofa
+23 case shall not be initiated before 3 years from the date of the incident under review.] Anypotentialor
+24 pendingcivillitigationshallnotprecludethecommittee’sreviewofacaseandshallnotconstituteabasis
+25 foranyorganization,agency,orpersontowithholdrecordsortestimonythatarerequestedorcompelled
+26 bythecommitteepursuanttothissection.
+27 230:5 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:July02,2026
+EffectiveDate:July02,2026

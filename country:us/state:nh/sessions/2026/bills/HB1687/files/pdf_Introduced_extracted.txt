@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1687-FN-ASINTRODUCED
+2026SESSION
+26-2804
+12/09
+1687-FN
+HOUSEBILL
+ANACT removing the power of courts within the judicial branch family division to issue
+criminaldeterminations,judgments,andpenalties.
+SPONSORS: Rep.Love,Rock.13
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restricts the jurisdiction of courts within the judicial branch family division to not be
+able to issue any criminal determinations, judgments, or penalties relative to matters which they
+maypresideover.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1687-FN-ASINTRODUCED
+26-2804
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removing the power of courts within the judicial branch family division to issue
+criminaldeterminations,judgments,andpenalties.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;JudicialBranchFamilyDivision;RestrictiononJurisdiction. AmendRSA490-D
+2 byinsertingaftersection2thefollowingnewsection:
+3 490-D:2-a RestrictiononJurisdiction. Notwithstandinganyprovisionoflawtothecontrary,the
+4 judicialbranchfamilydivisionshallhavejurisdictionoverthematterssetforthinRSA490-D:2with
+5 the exception that the judicial branch family division shall not have jurisdiction to make any
+6 criminal determinations, enter criminal judgments, or impose criminal penalties and no finding,
+7 ruling, or order issued by the judicial branch family division shall constitute a criminal
+8 determination. Jurisdiction over such criminal determinations, criminal judgments, and criminal
+9 penalties relative to the matters set forth in RSA 490-D:2 shall be reserved for the superior court
+10 pursuant to RSA 592-A:1. This section shall not be construed to limit the jurisdiction of the judicial
+11 branch family division over the matters set forth in RSA 490-D:2 to resolve civil disputes, including
+12 equityjurisdictionpowerspursuanttoRSA490-D:3.
+13 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2804
+12/1/25
+HB1687-FN-FISCALNOTE
+ASINTRODUCED
+ANACT removing the power of courts within the judicial branch family division to issue
+criminaldeterminations,judgments,andpenalties.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1493-FN-ASINTRODUCED
+2026SESSION
+26-2303
+12/08
+1493-FN
+HOUSEBILL
+ANACT relative to health education and requiring pupils to view certain videos
+demonstratinggestationaldevelopmentoftheheart,brain,andothervitalorgans.
+SPONSORS: Rep.Sellers,Graf.10;Rep.Scully,Hills.8;Rep.Panek,Hills.1;Rep.Aures,Merr.
+13; Rep. Korzen, Coos 7; Rep. Drye, Sull. 7; Rep. M. Pearson, Rock. 34; Rep.
+Farrington,Straf.8;Sen.Murphy,Dist16;Sen.Sullivan,Dist18
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the viewing of a gestational development video as a part of the health
+curriculuminallschooldistricts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1493-FN-ASINTRODUCED
+26-2303
+12/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to health education and requiring pupils to view certain videos
+demonstratinggestationaldevelopmentoftheheart,brain,andothervitalorgans.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;Studies;HealthCurriculum.AmendRSA189:10byinsertingafterparagraph
+2 IIthefollowingnewparagraph:
+3 II-a. The health curriculum shall include age-appropriate, scientifically proven, and
+4 medically accurate sexuality education, which includes the presentation of a high-quality computer-
+5 generated animation or ultrasound video that shows the development of the heart, brain, and other
+6 vitalorgansintheembryoandfetalstagesofdevelopment.
+7 2 EffectiveDate. ThisactshalltakeeffectSeptember1,2026.
+
+LBA
+26-2303
+12/2/25
+HB1493-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to health education and requiring pupils to view certain videos
+demonstratinggestationaldevelopmentoftheheart,brain,andothervitalorgans.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill, effective for the 2026-2027 school year, requires the viewing of a gestational
+development video as a part of the health curriculum in all school districts. Costs, if any, for
+districts to comply with this requirement are indeterminable and will vary from district to
+district.
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER251
+SB442-FINALVERSION
+03/26/2026 1125s
+7May2026...1794h
+2026SESSION
+26-2243
+08/09
+442
+SENATEBILL
+ANACT relativetopettransfers.
+SPONSORS: Sen.Pearl, Dist 17;Sen. Watters, Dist4; Sen. Avard,Dist 12; Sen.Lang, Dist 2; Sen.
+Gannon, Dist 23; Sen. Murphy, Dist 16; Sen. Innis, Dist 7; Rep. Bixby, Straf. 13; Rep.
+J.Aron,Sull.4;Rep.C.McGuire,Merr.27;Rep.Moffett,Merr.4
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillchangesthetitlesforpethealthcertificates.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER251
+SB442-FINALVERSION
+03/26/2026 1125s
+7May2026...1794h 26-2243
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopettransfers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 251:1 Sale of Pets and Disposition of Unclaimed Animals; Transfer of Animals and Birds; Health
+2 CertificatesforDogs,Cats,andFerrets. AmendthetitleofRSA437:8toreadasfollows:
+3 437:8 [HealthCertificates]OfficialCertificatesofTransferforDogs,Cats,andFerrets.
+4 251:2 Sale of Pets and Disposition of Unclaimed Animals; Transfer of Animals and Birds;
+5 Confidentiality. AmendRSA437:8-b,Vtoreadasfollows:
+6 V. [Certificates of transfer] Officialcertificatesoftransfershall be removed from the animal
+7 recordsdatabaseafter4years.
+8 251:3 HealthCertificate;OfficialCertificateofTransfer. AmendRSA437:8,VI(f)toreadasfollows:
+9 (f) No animal shelter shall transfer any dog, cat, or ferret that is received from outside of the
+10 state without an official [health certificate]certificateoftransferand until the quarantine requirements in
+11 RSA437:8,IVhavebeenmet.
+251:4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July02,2026
+EffectiveDate:August31,2026

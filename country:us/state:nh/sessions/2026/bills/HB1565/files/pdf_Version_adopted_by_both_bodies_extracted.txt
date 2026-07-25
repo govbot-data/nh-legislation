@@ -1,0 +1,260 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1565-FN-VERSIONADOPTEDBYBOTHBODIES
+05/14/2026 1972s
+4Jun2026...2058CofC
+4Jun2026...2192EBA
+2026SESSION
+26-2438
+12/09
+1565-FN
+HOUSEBILL
+ANACT relativetothepenaltyforfalsereportsofsuspectedabuseandneglectmadetothe
+division for children, youth, and families, relative to owner's project manager
+services for school building aid projects, and relative to long-term care eligibility
+andmakinganappropriationtherefor.
+SPONSORS: Rep.Spillane,Rock.2;Rep.Cole,Hills.26;Rep.Aures,Merr.13;Rep.McFarlane,
+Graf.18; Rep. Notter, Hills.12; Rep. Kofalt, Hills. 32;Rep. Morton, Hills. 39; Rep.
+Ammon, Hills. 42; Rep. Roy, Rock. 31; Sen. Murphy, Dist 16; Sen. Sullivan, Dist
+18
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Provides that reports of suspected abuse and neglect may include the name of the person
+makingthereportandthatapersonwhomakesafalsereportmaliciouslyorwiththeintenttocause
+harmshallbeguiltyofamisdemeanor.
+II. Creates a private right of action for civil damages against a person who makes a false report
+ofsuspectedabuseorneglect.
+III. Requires schools to have engaged the services of an owner's project manager at the time
+theyapplyforschoolbuildingaid.
+IV. Establishes provisional eligibility for Medicaid nursing facility services as part of the long-
+term care application process and makes an appropriation to the department of health and human
+servicesforthispurpose.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1565-FN-VERSIONADOPTEDBYBOTHBODIES
+05/14/2026 1972s
+4Jun2026...2058CofC
+4Jun2026...2192EBA 26-2438
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltyforfalsereportsofsuspectedabuseandneglectmadetothe
+division for children, youth, and families, relative to owner's project manager
+services for school building aid projects, and relative to long-term care eligibility
+andmakinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Child Protection Act; Reporting Law; Nature of Report; Liability. Amend RSA 169-C:30 and
+2 RSA169-C:31toreadasfollows:
+3 169-C:30 NatureandContentofReport. Anoralreportshallbemadeimmediatelybytelephone
+4 or otherwise, and followed within 48hours bya report inwriting, if sorequested, tothe department.
+5 Such report shall, if known, contain the name and address of the child suspected of being neglected
+6 or abused and the person responsible for the child's welfare, the specific information indicating
+7 neglect or the nature and extent of the child's injuries (including any evidence of previous injuries),
+8 the identity of the person or persons suspected of being responsible for such neglect or abuse, and
+9 anyother informationthat might be helpful in establishingneglect or abuse or that maybe required
+10 by the department. Reports made to the department may include the name, address, or
+11 phonenumberofthepersonorpersonsmakingthereportofsuspectedabuseorneglectofa
+12 childunderthischapter.
+13 169-C:31 ImmunityFromLiability.
+14 I. Anyone participating in good faith in the making of a report pursuant to this chapter or
+15 who provides information or assistance, including medical evaluations or consultations, in
+16 connection with a report, investigation, or legal intervention pursuant to a good faith report of child
+17 abuse or neglect, is immune from any liability, civil or criminal, that might otherwise be incurred or
+18 imposed. Any such participant has the same immunity with respect to participation in any
+19 investigationbythedepartmentorjudicialproceedingresultingfromsuchreport.
+20 II. Nothing in this section shall provide civil or criminal immunity for a
+21 professional mandatory reporter who knowingly fails to make a report of suspected abuse
+22 orneglectunderRSA169-C:29orforapersonwhoknowinglyfilesafalsereportofabuseor
+23 neglect.
+24 2 New Sections; Child Abuse; Intentional False Report; Civil Liability. Amend RSA 169-C by
+25 insertingaftersection31thefollowingnewsections:
+26 169-C:31-a Intentional False Report of Abuse or Neglect. A person is guilty of a misdemeanor if
+27 he or she knowingly provides false information or causes another to provide false information of
+
+HB1565-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 suspected child abuse or neglect as defined by RSA 169-C:3 to the department or to any professional
+2 mandatoryreporterofsuspectedchildabuseidentifiedinRSA169-C:29.
+3 169-C:31-b Civil Liability. Any person harmed by the intentional submission of a false report of
+4 abuse or neglect under RSA 169-C:31-a may bring a civil action against the responsible party for
+5 monetarydamagesandotherappropriaterelief.
+6 3 School Building Aid; Approval of Plans; Specifications, and Costs of Construction or Purchase.
+7 AmendRSA198:15-c,IIItoreadasfollows:
+8 III. Aschooldistrictorcharteredpublicschoolthat[accepts]appliesforschoolbuildingaid
+9 for construction shall have [engage] engaged the services of an owner's project manager for
+10 construction or reconstruction/renovation projects of [$1,250,000] $1,500,000 or more, unless the
+11 commissioner waives such requirement as unnecessary. The owner's project manager shall have his
+12 or her own comprehensive liability and auto insurance, workers' compensation coverage, and
+13 professional liability coverage. The state board of education shall adopt rules pursuant to RSA 541-
+14 A relative to the required services, responsibilities, and qualifications for the owner's project
+15 managertoensuretheprojectowner'sbestinterestsarecarriedout.
+16 4 New Paragraphs; Application for Assistance. Amend RSA 167:8 by inserting after paragraph
+17 IIthefollowingnewparagraphs:
+18 III. Notwithstanding any other provision of this chapter, within 90 calendar days of the
+19 receipt of a long-term care medical assistance application by the department of health and human
+20 services, the department shall grant provisional eligibility on his or her application for Medicaid
+21 nursing facility services if the facility agrees through contract to comply with the terms of the
+22 contractandtheprovisionsofthischapter. Suchprovisionaleligibilityshallbemadewithoutregard
+23 towhethertheapplicationisdeemedcomplete.
+24 IV. The department shall maintain the applicant’s provisional eligibility and make
+25 payments for care at the same nursing facility rate as a fully eligible individual, until a
+26 determination is made on the individual’s application for nursing facility services. Provisional
+27 eligibility shall terminate 18 months from the application date unless otherwise terminated as a
+28 result of a final determination approving or denying the application or as otherwise provided for in
+29 this section. In the event that final approval of the application is not entered within 12 months of
+30 the application, the provider of care may, within 45 days, commence an action pursuant to RSA 151-
+31 I:2 for the appointment of a special Medicaid representative. If an action is not commenced timely,
+32 orifthefacilityotherwiserequestsatanytime,thenprovisionaleligibilityshallterminate.
+33 V. The department shall distribute state funds as payments to providers for services
+34 rendered to individuals provisionally eligible under this section upon execution of a contract
+35 approvedbygovernor and council. Once afinal determinationhasbeenmadeonanapplication, any
+36 provider who received payments under this section for services rendered for a provisionally eligible
+37 individual shall reimburse the department the total amount received for services rendered for that
+
+HB1565-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 provisionally eligible individual. Any facility who fails to reimburse the department for services
+2 renderedshallbesubjecttosanctionsinaccordancewiththetermsofthecontract.
+3 VI. Notwithstanding any other provision of law, if expenditures for the purposes of this
+4 section are greater than the amounts appropriated, the commissioner of the department of health
+5 and human services may request, with prior approval of the joint legislative fiscal committee of the
+6 general court, that the governor and council authorize additional funding to address the provisional
+7 eligibility shortfall. Upon fiscal committee and governor and council approval, the governor is
+8 authorizedtodrawawarrantfromanymoneyinthetreasurynototherwiseappropriated.
+9 5 Appropriation; Provisional Eligibility. The sum of $1 is hereby appropriated for the biennium
+10 ending June 30, 2027, to the department of health and human services for the purposes of funding
+11 provisional eligibility expenses RSA 167:8. The governor is authorized to draw a warrant for said
+12 sumoutofmoneyinthetreasurynototherwiseappropriated.
+13 6 County Reimbursement of Funds; Limitations on Payments. Amend RSA 167:18-a, I(b) to
+14 readasfollows:
+15 (b) Counties shall not be liable for provisional eligibility appropriations and/or
+16 payments as identified in RSA 167:8, and for Medicaid recipients in state institutions[, the
+17 Crotched Mountain Rehabilitation Center,] and intermediate care facilities (ICF) approved by the
+18 departmentofhealthandhumanservicesandservicingdevelopmentallyimpairedpersons.
+19 7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2438
+05/26/2026
+HB1565-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1972s)
+ANACT relativetothepenaltyforfalsereportsofsuspectedabuseandneglectmadetothe
+division for children, youth, and families, relative to owner's project manager
+services for school building aid projects, and relative to long-term care eligibility
+andmakinganappropriationtherefor.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Sections1-2:
+Indeterminable Sections1-2: Sections1-2:
+Indeterminable Indeterminable
+Expenditures* $0 Sections4-7:
+Indeterminable, Sections4-7: Sections4-7:
+butpotentially $258,000 $270,000
+$20.9million
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Sections1-2:Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Sections1-3:Indeterminable
+METHODOLOGY:
+Sections1and2ofthisbillmakesvariouschangesrelativetoreportsofsuspectedabuseand
+neglectmadetotheDivisionforChildren,Youth,andFamilies. Insodoing,thebillmodifies
+criminalpenalties,andmayhaveanimpactonthejudicialandcorrectionalsystems,which
+couldaffectprosecution,incarceration,probation,andparolecosts,forthestate,aswellas
+countyandlocalgovernments. Asummaryofsuchcostscanbefoundat:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf.
+
+In addition, the bill allows those harmed by the intentional submission of a false report of abuse
+or neglect under RSA169-C:31 to bringcivil actions for monetary damages and other relief. The
+JudicialBranchhasprovidedthefollowinginformationrelativetocivilcasecostsandfees:
+NHJudicialBranchAverageCivilCaseEstimates
+JudicialBranch
+FY2026 FY2027
+AverageCost
+SuperiorCourt
+ComplexCivilCase $1,283 $1,342
+SuperiorCourt
+RoutineCivilCase $476 $495
+CommonCivilCaseFees
+SuperiorCourt
+Asof07/01/25
+Fees
+OriginalEntryFee $325
+Third-PartyClaim $325
+MotiontoReopen $195
+Section 3 changes the time when a school district or chartered public school must retain the
+services of an owner’s project manager (OPM) for the purposes of applying for a school building
+aid grant. Currently, OPMs are only required to be retained for a building aid applicant to
+receive an award. This bill would require applicants to retain the services of an OPM prior to
+submitting a building aid application. At the time of application submittal, there is no
+guarantee that an appropriation will be available or that applicants will receive an award. Any
+impact that this bill may have on local school districts applying for school building aid is
+indeterminable. For informational purposes, the Department of Education states that the
+servicesforanOPMgenerallyrunat1%to5%ofthetotalprojectcost.
+Sections 4-7 establish provisional eligibility for Medicaid nursing facility services as part of the
+long-term care application process. The bill appropriates $1 to the Department of Health and
+HumanServices for theFY 26/27biennium tofund provisional eligibilityexpenses. The bill also
+establishes two positions to manage the provisional eligibility program and appropriates the
+general funds necessary to fund such positions in FY 2026 and FY 2027. In addition, the bill
+provides open warrant language stating that if expenditures for provisional eligibility are
+greater than the amounts appropriated, the Commissioner of the Department of Health and
+Human Services may request, with prior approval of the Joint Legislative Fiscal Committee,
+thattheGovernorandcouncilauthorizeadditionalfunding.
+
+The Department indicates it will pay state dollars to nursing facilities for services rendered to
+individualsprovisionallyeligibleuponexecutionofacontractapprovedbyGovernorandCouncil.
+Once a final determination on the long-term care medical assistance application has been made,
+nursing facilities, regardless of whether the application was approved or denied, will reimburse
+the Department for the amount received for services rendered for the applicant that was
+determined to be provisionally eligible. Any nursing facility that fails to reimburse the
+Departmentwillbeliableforsanctionsunderthecontract.
+The Department assumes a nursing facility will be reimbursed for its applicable nursing facility
+rate from the date of application to the date of approval. The Department assumes that, since
+nursing facilities will be liable to reimburse the Department within 90-days after a final
+determination of applicant’s application for long-term care medical assistance, the funds
+appropriated by the bill will create a revolving fund. Through this revolving fund, the
+Department will continue to pay nursing facilities for individuals deemed provisionally eligible
+and such nursing facilities will then reimburse the Department, replenishing the fund, for the
+totalamountpaidundertheprovisionaleligibilityperiod.
+Consistent with the cost estimates supplied for a similar bill (SB 131) from the 2025 session, the
+Department notes that in the preceding year, it was unable to make a determination on
+approximately 1,400 nursing facility long term care medical assistance applications within 90-
+days of the application date. (The Department states that this was due to applications being
+incomplete and missing required documentation from the applicant.) If all applications that
+exceed 90 days were granted up to 18 months of provisional eligibility, $34 million would be
+needed to pay one year of provisional eligibility claims. The Department assumes that not all
+nursing facilities will contract and elect to receive provisional eligibility for nursing facility long-
+termcaremedicalassistanceapplicationsthatexceed90days. TheDepartmentexpects nursing
+facilities will elect provisional eligibility for approximately 60 percent of applications eligible for
+provisionaleligibility, reducingthegeneralfunds appropriationsneeded tosupport therevolving
+paymentstructuretoapproximately$20.4million.
+The Department assumes the two positions established by the bill would be Program Planning
+and Review Specialists and estimated the cost for these positions would be $246,000 in FY27
+$258,000inFY28and$270,000forFY29.
+The Department also contends that an IT system would be needed to track the claims paid with
+general funds and then reconcile out the Medicaid payments that are eventually made with
+those initially paid claims. The cost of the development of this system is estimated at $255,000
+inFY27.
+
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

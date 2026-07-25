@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1017 -ASINTRODUCED
+2026SESSION
+26-2329
+06/08
+1017
+HOUSEBILL
+ANACT relativetoaccessorydwellingunitsandworkforcehousing.
+SPONSORS: Rep.Preece,Hills.17;Rep.Maggiore,Rock.23
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows municipalities to count qualifying accessory dwelling units as workforce housing
+toward their regional fair share obligation and authorizes the use of restrictive covenants to enforce
+affordabilitystandards.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1017-ASINTRODUCED
+26-2329
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoaccessorydwellingunitsandworkforcehousing.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Accessory Dwelling Unit Affordability. RSA 674:72, X is repealed and reenacted to read as
+2 follows:
+3 X. Anaccessorydwellingunitmaybedeemedaunitofworkforcehousingforthepurposesof
+4 satisfying the municipality's regional fair share obligation under RSA 674:59, III if the unit meets
+5 the criteria in RSA 674:58, IV for rental units. The municipality may require that if a property has
+6 any accessory dwelling units, the accessory dwelling units, or a portion thereof, shall meet the
+7 definition of workforce housing or affordable in RSA 674:58. A municipality may require a
+8 restrictive covenant consistent with RSA 674:60, IV to be recorded in the registry of deeds to enforce
+9 compliancewiththesedefinitions.
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

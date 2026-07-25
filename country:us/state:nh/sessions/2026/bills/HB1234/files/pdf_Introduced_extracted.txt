@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1234 -ASINTRODUCED
+2026SESSION
+26-2734
+08/06
+1234
+HOUSEBILL
+ANACT identifying certain school district offices as incompatible for purposes of school
+districtelections.
+SPONSORS: Rep. N. Murphy, Hills. 12; Rep. Petrigno, Hills. 43; Rep. Rung, Hills. 12; Rep.
+Pauer, Hills. 36; Rep. Kuttab, Rock. 17; Rep. Paquette, Hills. 25; Rep. Mooney,
+Hills.12;Sen.Fenton,Dist10;Sen.PerkinsKwoka,Dist21;Sen.Ricciardi,Dist9
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitsfilingformultipleincompatibleschooldistrictoffices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1234-ASINTRODUCED
+26-2734
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT identifying certain school district offices as incompatible for purposes of school
+districtelections.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 QualificationsforOffice;SchoolDistrictElections. AmendRSA671:18toreadasfollows:
+2 671:18 Qualifications.
+3 I. Tobecomeacandidateforanyschool district office, apersonmust bearegistered voter in
+4 the district. No person holding the office of member of the school board shall at the same time hold
+5 the office of district moderator, treasurer, or auditor, or elected school budget committee
+6 member. No person employed on a salaried basis by a school administrative unit or by any school
+7 district within a school administrative unit shall be a school board member in any district of the
+8 school administrative unit. Salaried positions shall include, but are not limited to, the following:
+9 teacher, custodian, administrator, secretary, school bus driver (if paid by the district), school lunch
+10 workerandteacher'saide.
+11 II. No person shall at the same time file a declaration of candidacy for any 2 or
+12 more elected offices that are incompatible under paragraph I nor shall they file a
+13 declaration of candidacy for an elected office that is incompatible with an office in
+14 paragraphIthattheycurrentlyhold.
+15 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

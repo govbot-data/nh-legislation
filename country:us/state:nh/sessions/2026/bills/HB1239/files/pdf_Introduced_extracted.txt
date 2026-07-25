@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1239-FN-ASINTRODUCED
+2026SESSION
+26-3095
+09/06
+1239-FN
+HOUSEBILL
+ANACT relativetotheoffenseofloiteringorprowling.
+SPONSORS: Rep. Roy, Rock. 31; Rep. Devoid, Merr. 1; Rep. Lascelles, Hills. 14; Rep. Paquette,
+Hills.25;Rep.Rhodes,Ches.17;Sen.Gannon,Dist23
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits certain registered offenders who are required to register due to a sexual
+offense against a child under 13 years of age from appearing within 1,000 feet of certain locations
+undercircumstancesthatwouldwarrantalarm.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1239-FN-ASINTRODUCED
+26-3095
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofloiteringorprowling.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Loitering or Prowling. Amend RSA 644:6 by inserting after paragraph I the
+2 followingnewparagraph:
+3 I-a. A person commits a violation if he or she, while being required to register as a tier II or
+4 tier III offender under RSA 651-B as a result of a sexual offense against a child under 13 years of
+5 age, knowingly appears within 1,000 feet of any of the following places under circumstances that
+6 warrantalarmforthesafetyofpersonsinthevicinity:
+7 (a) Anychildcarefacility.
+8 (b) Anychurch.
+9 (c) Anyschool.
+10 (d) Anyareawhereareasonablepersonwouldknowthatminorchildrencongregate.
+11 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3095
+10/29/25
+HB1239-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofloiteringorprowling.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

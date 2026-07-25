@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER174
+HB1535-FINALVERSION
+04/09/2026 1306s
+2026SESSION
+26-2577
+06/05
+1535
+HOUSEBILL
+ANACT relative to clarifying eligible renewable energy classes under the renewable portfolio
+standard.
+SPONSORS: Rep.Cormen,Graf.15;Sen.Prentiss,Dist5
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillclarifieseligibilitycriteriaforcertainthermalenergysourceswithinclassIrenewableenergy.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER174
+HB1535-FINALVERSION
+04/09/2026 1306s 26-2577
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to clarifying eligible renewable energy classes under the renewable portfolio
+standard.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 174:1 Electric Renewable Energy Classes. RSA 362-F:4, I(b) is repealed and reenacted to read as
+2 follows:
+3 (b) Geothermal energy, but for useful thermal energy, the unit must begin operation after
+4 January1,2013.
+5 174:2 Electric Renewable Energy Classes. RSA 362-F:4, I(e) is repealed and reenacted to read as
+6 follows:
+7 (e) Methanegas,butforusefulthermalenergy,theunitmustbeginoperationafterJanuary1,
+8 2013.
+9 174:3 Electric Renewable Energy Classes. RSA 362-F:4, I(g) is repealed and reenacted to read as
+10 follows:
+11 (g) Solar thermal energy, but for useful thermal energy, the unit must begin operation after
+12 January1,2013.
+174:4 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:June19,2026
+EffectiveDate:June19,2026

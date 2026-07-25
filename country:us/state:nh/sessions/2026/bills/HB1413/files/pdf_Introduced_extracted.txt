@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1413-FN-ASINTRODUCED
+2026SESSION
+26-3115
+09/08
+1413-FN
+HOUSEBILL
+ANACT reinstitutingthedeathpenaltyincasesofcapitalmurder.
+SPONSORS: Rep.Trottier,Belk.8;Rep.Tenczar,Hills.1;Rep.Bordes,Belk.5
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillreinstitutesthedeathpenaltyasapotentialsentencefortheoffenseofcapitalmurder.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1413-FN-ASINTRODUCED
+26-3115
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT reinstitutingthedeathpenaltyincasesofcapitalmurder.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CapitalMurder;DeathPenaltyReinstituted. AmendRSA630:1,IIItoreadasfollows:
+2 III. A person convicted of a capital murder [shall be sentenced to imprisonment for life
+3 withoutthepossibilityforparole]maybepunishedbydeath.
+4 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3115
+11/24/25
+HB1413-FN-FISCALNOTE
+ASINTRODUCED
+ANACT reinstitutingthedeathpenaltyincasesofcapitalmurder.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+IndeterminableIncrease
+Expenditures* $0
+$0tomorethan$3.5million
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostof
+bill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill reinstates the death penalty as a possible sentence for capital murder. This bill will
+increaseGeneralFundexpendituresbyanindeterminableamountrangingfrom$0tomorethan
+$3,000,000 per year, depending on whether capital cases are brought and how many proceed
+throughtrialandappealforFY2027andforward.
+The Department of Justice states that capital murder prosecutions are extremely resource
+intensive. Inprior capital cases, theDepartment expended approximately$3,522,488across two
+prosecutions (State v. Addison at $2,481,097 and State v. Brooks at $1,041,391). Based on this
+historical experience, and recognizing that these figures are more than 10 years old, the
+Department estimates that future capital prosecutions will be more than $2,500,000 per case for
+investigation, experts, trial preparation, litigation, and appellate work. The number of cases
+
+that may be brought under the proposed law is unknown; therefore, the total fiscal impact is
+indeterminable,buteachcasewouldexceed$2.5millioninGeneralFundexpenditures.
+The Judicial Branch indicates that capital cases require a full-time trial judge and full-time law
+clerkthroughoutpretrial,juryselection,trial,andpost-convictionlitigation. Ifoneormorecases
+are filed, the Branch may need to add a Superior Court judge, a court monitor, and a law clerk.
+The Branch estimates an indeterminable increase in expenditures in General Funds, but the
+impactcouldexceed$100,000andbelessthan$500,000percase.
+The Judicial Council assumes that 0–3 cases per year could be brought, and that most
+defendants would qualify for indigent defense services. Because capital representation is
+excluded from the Public Defender contract, these cases would require assigned counsel or
+special contracts. The Council estimates annual General Fund expenditures between $100,000
+and$500,000,dependingonthenumberofactivecasesandbillingpatterns.
+Lastly,thisbilladds,deletes,ormodifiesacriminalpenalty,orchangesstatutetowhichthereis
+a penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

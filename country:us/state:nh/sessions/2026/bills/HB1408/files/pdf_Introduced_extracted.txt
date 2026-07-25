@@ -1,0 +1,118 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1408-FN-ASINTRODUCED
+2026SESSION
+26-3077
+09/06
+1408-FN
+HOUSEBILL
+ANACT prohibitingpublic disclosure of personal information on theInternet by an elected
+official.
+SPONSORS: Rep. A. Murray, Hills. 20; Rep. Hegner, Hills. 41; Rep. Haskins, Rock. 11; Rep. C.
+Harvey, Ches. 6; Rep. Manohar, Hills. 9; Rep. Lucas, Graf. 7; Rep. Lovett, Graf. 8;
+Rep.Vail,Hills.6;Rep.O'Rorke,Ches.7
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a misdemeanor offense for an elected official to publicly disclose on the Internet
+personalinformationofaconstituentwiththeintenttoharass.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1408-FN-ASINTRODUCED
+26-3077
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingpublic disclosure of personal information on theInternet by an elected
+official.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Abuse of Office; Public Disclosure of Personal Information on the Internet by an
+2 ElectedOfficial. AmendRSA643byinsertingaftersection2thefollowingnewsection:
+3 643:3 PublicDisclosureofPersonalInformationontheInternetbyanElectedOfficial.
+4 I. Forpurposesofthissection:
+5 (a) “Personal information" means the name or any part thereof, home address or any
+6 part thereof, city or unincorporated area of residence, age, marital status, relationship to the elected
+7 official, race or ethnic background, telephone number, personal mobile telephone number, pager
+8 number, personal e-mail address, social media accounts or profiles, online identifiers, contact
+9 information, or a personal photograph or video of a constituent; directions to the home of a
+10 constituent; current or former employers of a constituent; current or former educational systems in
+11 whichaconstituentisenrolled;orphotographsorvideosofthehomeorvehicleofaconstituent.
+12 (b) Of a “harassing nature” means of a nature that a reasonable person would consider
+13 as seriously alarming, seriously annoying, seriously tormenting, or seriously terrorizing of the
+14 personandthatservesnolegitimatepurpose.
+15 (c) “Online identifiers” means any personally identifying information or signifiers that
+16 would tie an individual to a particular electronic service, device, or Internet application, website, or
+17 platform account, including, but not limited to, access names, access codes, account names, aliases,
+18 avatars, credentials, gamer tags, display names, handles, login names, member names, online
+19 identities, pseudonyms, screen names, user accounts, user identifications, usernames, Uniform
+20 ResourceLocators(URLs),domainnames,InternetProtocol(IP)addresses,andmediaaccesscontrol
+21 (MAC)addresses.
+22 II. An elected official is guilty of a misdemeanor if the elected official knowingly makes the
+23 personal information of a constituent, or a constituent’s immediate family, publicly available on the
+24 Internet:
+25 (a) With the intent to threaten, intimidate, or incite the commission of a crime of
+26 violenceagainstthatperson;or
+27 (b) With the intent and knowledge that the personal information will be used to
+28 threaten,intimidate,orfacilitatethecommissionofacrimeofviolenceagainstthatperson.
+29 III. AnelectedofficialwhoisconvictedforaviolationofparagraphIIshallbefinednotmore
+30 than$500orconfinedinjail fornotmorethanoneyear,orboth.
+
+HB1408-FN-ASINTRODUCED
+-Page2-
+1 IV.(a) A constituent may submit a written request to a state or local government official to
+2 remove personal information from records that are available on the Internet. If a state or local
+3 government receives the written request, then the state or local government official shall not
+4 knowingly make available on the Internet personal information about the constituent or the
+5 constituent’s immediate family. A constituent’s written request to a state or local government
+6 officialtoremoverecordsthattheofficialmakesavailableontheInternetshallinclude:
+7 (1) Evidence that the person submitting the request is a constituent of said elected
+8 official;and
+9 (2) An affirmation stating under penalty of perjury that the person submitting the
+10 request has reason to believe that the dissemination of the personal information contained in the
+11 recordsthattheofficialmakesavailableontheInternetposesanimminentandseriousthreattothe
+12 person’ssafetyorwellbeing,orthesafetyorwellbeingoftheperson’simmediatefamily.
+13 (b) Falsification of the evidence proffered to satisfy the requirements of this paragraph
+14 shallconstitutefalseswearingandshallbepunishableunderRSA641:2.
+15 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3077
+11/24/25
+HB1408-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibitingpublic disclosure of personal information on theInternet by an elected
+official.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

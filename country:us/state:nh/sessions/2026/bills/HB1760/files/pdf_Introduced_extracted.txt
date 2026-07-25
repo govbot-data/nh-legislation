@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1760-FN-A-ASINTRODUCED
+2026SESSION
+26-2441
+05/08
+1760-FN-A
+HOUSEBILL
+ANACT repealing the directive that the department of health and human services seek a
+waiver to establish pharmacy copayment and premium requirements under the
+stateMedicaidplanandmakinganappropriationtherefor.
+SPONSORS: Rep. Telerski, Hills. 11; Rep. Simpson, Rock. 33; Rep. Preece, Hills. 17; Rep.
+Weber, Ches. 5; Rep. Wallner, Merr. 19; Rep. Lloyd, Hills. 8; Rep. Wilhelm, Hills.
+21; Rep. Schultz, Merr. 29; Rep. Vail, Hills. 6; Rep. Stringham, Graf. 3; Sen.
+Rosenwald,Dist13;Sen.PerkinsKwoka,Dist21;Sen.Prentiss,Dist5
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals requirements in 2025, 141 (HB 2) that the department of health and human
+services file a Medicaid state plan amendment to increase prescription drug copayments. The bill
+also repeals requirements that the department of health and human services file a Medicaid waiver
+and state plan amendment, if necessary, to institute premiums under the New Hampshire
+advantage health care program and the children's health insurance program. The bill makes an
+appropriation to the department of health and human services to compensate for any shortfall for
+suchprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1760-FN-A-ASINTRODUCED
+26-2441
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the directive that the department of health and human services seek a
+waiver to establish pharmacy copayment and premium requirements under the
+stateMedicaidplanandmakinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act shall be known as "The Protecting Access to Affordable Health Care for
+2 WorkingFamiliesAct".
+3 2 Appropriation; Department of Health and Human Services; State Medicaid Program. The
+4 sum necessary to compensate the department of health and human services for the reduction in
+5 fundingforthestateMedicaidprogramresultingfromrepealofthepharmacycopaymentandhealth
+6 care premium requirements pursuant to section 3 of this act is hereby appropriated to the
+7 department of health and human services for the biennium ending June 30, 2027. The governor is
+8 authorized to draw a warrant for said sum out of any money in the treasury not otherwise
+9 appropriated.
+10 3 Repeal. Thefollowingarerepealed:
+11 I. 2025,141:65,relativetopharmacycopaymentsunderthestateMedicaidplan.
+12 II. RSA 126-AA:2-a, relative to premiums under the New Hampshire granite advantage
+13 healthcareprogram.
+14 III. RSA126-A:3,IX,relativetopremiumsunderthechildren'shealthinsuranceprogram.
+15 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2441
+Revised02/18/2026
+HB1760-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT repealing the directive that the department of health and human services seek a
+waiver to establish pharmacy copayment and premium requirements under the
+stateMedicaidplanandmakinganappropriationtherefor.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 ($16.75million) ($16.75million) ($16.75million)
+GraniteAdvantage,CHIP,andstandardMedicaidpremiumand/orcopay
+RevenueFund(s) revenuedepositedintotheGraniteAdvantagetrustfundandstategeneral
+fund.
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $16.75million $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill repeals premium requirements for the Granite Advantage and Children's Health
+Insurance Programs, as well as pharmacy copayments under the State Medicaid Plan. In
+addition, the bill makes a general fund appropriation in FY27 of the amount necessary to fill the
+resulting revenue shortfall. The premiums were established in HB 2 from 2025 (the budget
+trailer bill), and were anticipated to generate a combined $16 million in revenue in FY27 and
+subsequent years. (Granite Advantage premiums were expected to raise $5 million per year,
+while CHIP premiums were expected to raise $11 million per year.) The copayments were
+likewise established in the budget trailer bill, and were expected to generate $750,000 per year.
+Thebillisthereforeexpectedtoresultinageneralfundappropriationof$16.75millioninFY27.
+It should be noted that, per RSA 126-AA:3, the Granite Advantage trust fund is prohibited from
+accepting state general funds. For this reason, although the Department of Health and Human
+Services could accept the $5 million general fund appropriation attributable to the loss in
+Granite Advantage premiums, it will not be able to spend those funds on the program itself.
+Instead, any shortfall in funding will be covered via an automatic transfer of Liquor funds
+pursuant to RSA 126-AA:3, VI. If interpreted strictly as drafted, therefore, the bill may
+
+inadvertently result in both a $5 million appropriation and a $5 million transfer of Liquor funds
+takingplaceinFY27.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

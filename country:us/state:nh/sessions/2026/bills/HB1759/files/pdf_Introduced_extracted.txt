@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1759 -ASINTRODUCED
+2026SESSION
+26-2741
+06/05
+1759
+HOUSEBILL
+ANACT relativetothedisqualificationofamemberofalocallanduseboard.
+SPONSORS: Rep.Fracht,Graf.16;Rep.Aylward,Merr.5;Rep.Pauer,Hills.36
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes a land use board’s vote on whether a member should be disqualified binding
+ratherthanadvisory,requiringrecusalifamajorityfindsdisqualificationiswarranted.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1759-ASINTRODUCED
+26-2741
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedisqualificationofamemberofalocallanduseboard.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DisqualificationofMember. AmendRSA673:14,IItoreadasfollows:
+2 II. When uncertainty arises as to the application of paragraph I to a board member in
+3 particular circumstances, the board shall, upon the request of that member or another member of
+4 the board, vote on the question of whether that member should be disqualified. A simple majority
+5 shallbeconsideredevidenceofanaffirmativevoteandthemembershallnotparticipatein
+6 the pending matter. In the event of a tie, the member shall be allowed to participate. Any
+7 suchrequestandvoteshallbemadepriortooratthecommencementofanyrequiredpublichearing.
+8 Suchavoteshallbe[advisoryandnon-binding]binding,andmaynotberequestedbypersonsother
+9 than board members, except as provided by local ordinance or by a procedural rule adopted under
+10 RSA676:1.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,560 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1838-FN-ASINTRODUCED
+2026SESSION
+26-2582
+07/08
+1838-FN
+HOUSEBILL
+ANACT establishing a voter-owned elections fund and commission and raising vehicle
+registrationfees.
+SPONSORS: Rep.Muirhead,Graf.12
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Establishesavoter-ownedelectionsfund.
+II. Raisesmotorvehicleregistrationfees.
+III. Establishesaprivatemotorvehicleregistrationfee.
+IV. Creates a voter-owned elections commission to provide financial support to certain
+candidatesforoffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1838-FN-ASINTRODUCED
+26-2582
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a voter-owned elections fund and commission and raising vehicle
+registrationfees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 The State and Its Government; Department and Secretary of State; Commissions and Boards
+2 FunctioningWithinDepartment. AmendRSA5:13toreadasfollows:
+3 5:13 Commissions and Boards Functioning Within Department. The ballot law commission
+4 andthe voter-owned electionscommissionshall eachfunctionwithinthedepartment of stateas
+5 aseparateorganizational entityandwithallthepowers anddutiesas heretoforeprovided,except as
+6 otherwiseprovidedbylaw.
+7 2 New Subparagraph; The State and Its Government; State Treasurer; Application of Receipts.
+8 AmendRSA6:12,I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraph:
+9 (411) Moneys deposited in the New Hampshire voter-owned elections fund
+10 establishedinRSA664-A:2.
+11 3 Motor Vehicles; Registration Fees; Fees to be Collected. Amend RSA 261:141, III(cc) to read
+12 asfollows:
+13 (cc) Foreachvanitynumberplateset-[$60]$65.
+14 4 New Subparagraph; Motor Vehicles; Registration Fees; Fees to be Collected. Amend RSA
+15 261:141,IIIbyinsertingaftersubparagraph(dd)thefollowingnewsubparagraph:
+16 (ee) For all private passenger vehicles, as defined in RSA 259:81, subject to paragraph
+17 (g)ofthissection-$1.
+18 5 Motor Vehicles; Registration Fees; Fees to be Collected. Amend RSA 261:141, VII(d) to read
+19 asfollows:
+20 (d) Forvanityplateservicefee-[$60]$65.
+21 6 Motor Vehicles; Drivers' Licenses; Driver Training Fund. Amend RSA 263:52, II to read as
+22 follows:
+23 II. [The $60] Subject to RSA 664-A:2, III(f), the vanity plate service fee and the fee for
+24 renewal of vanity number plates shall automatically be credited to the driver training fund until all
+25 fees in such fund equal the amount of money estimated by the general court as available for
+26 expenditure for course materials, licensing of schools, and certification services in connection with
+27 driver training from that fund for that fiscal year. Once the driver training course materials,
+28 licensing of schools, and certification services have been funded in accordance with the legislative
+29 estimates for the current fiscal year, the next 1.5 million dollars shall be transferred to the
+
+HB1838-FN-ASINTRODUCED
+-Page2-
+1 department of safety as restricted revenue, thereafter the balance of all such fees shall be
+2 transferredtothegeneralfundandshallbeavailableasunrestrictedrevenue.
+3 7 Elections; Enforcement; Complaints. Amend the introductory paragraph of RSA 664:18 to
+4 readasfollows:
+5 Anycandidateorvotermaymakecomplaintinwritingtotheattorneygeneralofanyviolationof
+6 anyoftheprovisionsofthischapterorofRSA664-A.
+7 8 Elections;Enforcement;Penalty. AmendRSA664:21,Itoreadasfollows:
+8 I. Anyfine assessed under theprovisionof this sectionshall bepaid tothesecretaryof state
+9 fordepositintothe[generalfund]voter-ownedelectionsfundsestablishedinRSA664-A:2.
+10 9 New Chapter; Public Financing of Elections. Amend RSA by inserting after chapter 664 the
+11 followingnewchapter:
+12 CHAPTER664-A
+13 PUBLICFINANCINGOFELECTIONS
+14 664-A:1 Definitions. Asusedinthischapter:
+15 I. "Affidavit of registration" means a form completed and filed by a candidate according to
+16 procedures and forms developed by the voter-owned elections commission demonstrating and
+17 certifyingthatthecandidatewillcomplywithalltherequirementsofthischapter.
+18 II. "Commission"meansthevoter-ownedelectionscommissionestablishedinRSA664-A:9.
+19 III. "Contested general election" means an election in which 2 or more general election
+20 candidates for executive council each report expenditures of $10,000 or more during the current
+21 electioncycle.
+22 IV. "Electioncycle"hasthesamemeaningasprovidedinRSA664:2,XXIII.
+23 V. "Fund"meansthevoter-ownedelectionsfundestablishedinRSA664-A:2.
+24 VI. "General election campaign period" means the period beginning the day after the state
+25 primaryelectionandendingthedayofthestategeneralelection.
+26 VII. "Independentexpenditures"hasthesamemeaningasprovidedinRSA664:2,XI.
+27 VIII. "Participatingcandidate"meansacandidatewhohasbeencertifiedbythevoter-owned
+28 electionscommissiontoreceivevoter-ownedelectionsfundingpursuanttothischapter.
+29 IX. "Primary election" means a state primary election. For purposes of this chapter,
+30 primaryelectionshall include onlythose elections held to nominate candidates of aparty, as defined
+31 byRSA652:5.
+32 X. “Primary election campaign period” means the period beginning the first day of the
+33 currentelectioncycleandendingthedayofthestateprimaryelection.
+34 XI. "Private contribution" means a contribution to a participating candidate from a private
+35 individualorothernongovernmentalsource.
+36 XII. "Public contribution" means a contribution to a participating candidate from public
+37 funds,includingvoterdollarsandgrantsdescribedinRSA664-A:7andRSA664-A:8.
+
+HB1838-FN-ASINTRODUCED
+-Page3-
+1 XIII. "Qualifying contribution" means a contribution meeting the requirements of RSA 664-
+2 A:4.
+3 XIV. "Qualifying form" means a form developed by the voter-owned elections commission
+4 and completed by a contributor to accompany a qualifying contribution, meeting the requirements of
+5 RSA664-A:4.
+6 XV. "Qualifying period" means the period during which a candidate seeking to be a
+7 participating candidate shall file an affidavit of registration. This period begins on the first day of
+8 the current election cycle and ends on the last day on which nomination papers may be filed under
+9 RSA655:43,I.
+10 XVI. "Stategeneralelection"meansanelectiontochooseafederal,state,orcountyofficer.
+11 XIX. "Unspent public contributions" means the amount of public money remaining in
+12 participating candidate's campaign account at the end of his or her campaign or, for candidates who
+13 withdrawfromanelection,atthetimeofwithdrawal,andiscalculatedasthelesserof:
+14 (a) Totalpublicdonationsreceivedbythecandidateforthecurrentelectioncycle;and
+15 (b) All of the candidate's campaign funds remaining following the end of the current
+16 electioncycleandafteranypost-electionauditmandatedunderRSA664-A:10,II.
+17 664-A:2 Voter-OwnedElectionsFundEstablished.
+18 I. There is established a voter-owned elections fund to be used for the purposes of providing
+19 public financing for the primary and general election campaigns of participating candidates and
+20 payingfortheadministrativecostsofthischapter.
+21 II. This nonlapsing, revolving special fund shall hereby be continually appropriated to the
+22 commissionforthepurposeofimplementingRSA664-A,includingvoterdollars,grants,andallcosts
+23 necessary to administer the provisions of RSA 664-A. The state treasurer shall invest the moneys
+24 deposited in the fund as provided by law. Interest received on investments made by the state
+25 treasurershallalsobecreditedtothefund.
+26 III. Thefollowingmoneysshallbedepositedinthefund:
+27 (a) Voluntarydonationsmadedirectlytothefund.
+28 (b) Unspentpubliccontributions.
+29 (c) FinesassessedforviolationsofRSA664andRSA664-A.
+30 (d) Interestgeneratedbythefund.
+31 (e) AllproceedsfromthefeecollectedunderRSA261:141,III(ee).
+32 (f) Notwithstanding RSA 263:52, III(f), of the $65 vanity plate service fee and the fee for
+33 renewalofvanitynumberplates,$5shallbedepositedinthefund.
+34 (g) Additionalsourcesasapprovedbythegeneralcourt.
+35 IV. Unspent public contributions as defined in this chapter shall not be subject to the
+36 requirementsofRSA664:4-b.
+
+HB1838-FN-ASINTRODUCED
+-Page4-
+1 V. Moneys deposited in the fund shall only be used for purposes described in RSA 664-A:2, I
+2 andshallnotbetransferred,appropriated,orusedforanyotherpurpose.
+3 664-A:3 QualificationsforCertificationofParticipatingCandidates.
+4 I. A candidate for executive councilor shall qualify as a participating candidate for the
+5 primaryelectioncampaignperiodif:
+6 (a) The candidate collects the required number of qualifying contributions and, during
+7 thequalifyingperiod, fileswiththesecretaryofstateand thecommissionanaffidavit of registration
+8 of a declared candidate, signed by the candidate and the candidate's fiscal agent, according to
+9 procedures developed by the commission, certifying that the candidate has complied and shall
+10 complywiththerequirementsofthischapter.
+11 (b) Thecommissionthereaftercertifiesthecandidateasaparticipatingcandidate.
+12 II. A candidate for executive councilor shall qualify as a participating candidate for the
+13 general election campaign period if the candidate was a participating candidate for the primary
+14 electioncampaignperiodand:
+15 (a) Hasbeendeclarednominated;or
+16 (b) Didnothaveaprimarycontest.
+17 III. The commission shall provide candidates whom the commission has denied certification
+18 writtendeterminationofitsdecision. Suchcandidatesmayseekjudicialreviewofthatdecision.
+19 664-A:4 QualifyingContributionRequirements.
+20 I. Acandidateforexecutivecouncilorshallcollectatleast500qualifyingcontributions.
+21 II. Each qualifying contribution shall be acknowledged by a qualifying form, according to
+22 procedures developed by the commission, signed under penalty of perjury by the contributor. The
+23 form shall include the contributor's printed name, domicile for voting purposes, phone number, and
+24 email address; the name of the candidate; certification by the contributor that the contribution was
+25 all from the contributor’s personal funds; and certification that the purpose of the contribution is to
+26 help the candidate qualify for publicly financed elections funding and involved no exchange of
+27 consideration.
+28 III. Contributors may make qualifying contributions to multiple candidates, but only one
+29 qualifying contribution from a contributor shall count as a qualifying contribution for any individual
+30 candidateperelectioncycle.
+31 IV. Qualifying forms shall be submitted in bulk to the secretary of state during the
+32 qualifyingperiod,andshallbeaccompaniedbyalistinelectronicformatwhichmaybemadereadily
+33 accessibletothepublicaccordingtoproceduresdevelopedbythecommission.
+34 V. Thecandidateshallretaincopiesofthequalifyingforms.
+35 VI. Qualifying contributions shall be made by check or credit card payable to the candidate
+36 according to procedures developed by the commission. Qualifying contributions may be made by
+37 peer-to-peer payment applications, provided the commission establishes procedures to verify such
+
+HB1838-FN-ASINTRODUCED
+-Page5-
+1 payments and the payments comply with the requirements of this chapter. The commission shall
+2 provideguidanceonthedocumentationrequiredforverifyingqualifyingcontributions.
+3 VII. Qualifying contributions shall be made only from personal moneys by individuals who
+4 satisfythefollowingconditions:
+5 (a) Are at least 18 years of age on the date of the election for which voter dollars are
+6 distributed;
+7 (b) Currently reside in the district for which the candidate is seeking election and have
+8 residedinthestateformorethan30days;and
+9 (c) Arenotprohibitedfrommakingacontributionunder52U.S.C.section30121.
+10 VIII. Qualifying contributions shall be between $5 and $125 for candidates for executive
+11 councilandshallbereceivedbythecandidateduringthequalifyingperiod.
+12 IX. Qualifyingcontributionsshallbesubjecttoreviewandauditinnumber,amount, source,
+13 andqualificationsaccordingtoproceduresdevelopedbythecommission.
+14 664-A:5 Objection to Certification. Any objection to the certification of a candidate shall be
+15 made in writing to the voter-owned commission no later than 7 days following the last day of the
+16 qualifyingperiod. Uponreceiptoftheobjection,thecommissionshallnotifythecandidateinwriting
+17 of the time and place for its hearing. The commission shall determine whether a candidate qualifies
+18 as a participating candidate within 7 days of receiving the objection. If the commission determines
+19 that the candidate does not meet the requirements of this chapter, including whether the candidate
+20 has violated the requirements of this chapter or rules promulgated by the commission, it may refuse
+21 to certify the candidate or revoke the candidate's eligibility and order the candidate to return to the
+22 fund any payments received pursuant to this chapter. The commission shall provide candidates
+23 whom the commission has denied certification pursuant to this section written determination of its
+24 decision. Suchcandidatesmayseekjudicialreviewofthatdecision.
+25 664-A:6 RequirementsofParticipatingCandidates.
+26 I. Onlycandidatesforexecutivecouncilorshallbeeligibletobeparticipatingcandidates.
+27 II.(a) During the primary election campaign period, a participating candidate shall not
+28 accept aggregate private contributions, including qualifying contributions, from any single
+29 contributorexceeding$125.
+30 (b) During the general election campaign period, a participating candidate shall not
+31 accept aggregate private contributions, including qualifying contributions from any single
+32 contributorexceeding$125.
+33 (c) As public contributions, assigned voter dollars do not count toward the limits
+34 specifiedunderthissubsection.
+35 III.(a) Except as provided in subparagraph (b), a participating candidate may solicit or
+36 acceptprivatecontributionsonlyfromindividuals.
+
+HB1838-FN-ASINTRODUCED
+-Page6-
+1 (b) A participating candidate may not solicit or accept contributions from individuals
+2 whoareregisteredaslobbyistsunderRSA15:1.
+3 IV. Participating candidates may contribute up to $1,000 in personal, non-contributed funds
+4 for an executive council race. For purposes of this paragraph, race includes both primary and
+5 generalelections.
+6 V. A participating candidate's contributions and expenditures shall be directed through a
+7 singlecommittee.
+8 VI. A participating candidate's campaign funds may only be used for direct campaign
+9 purposes. Thefollowingusesofcampaignfundsarespecificallyprohibited:
+10 (a) Personaluse.
+11 (b) Payments to other candidates, political parties, political committees, and groups or
+12 individualsmakingindependentexpenditures.
+13 (c) Gifts.
+14 (d) Additionalusesdeterminedbythecommission.
+15 VII. Once certified as a participating candidate, the candidate shall submit all contribution
+16 andexpendituredataelectronicallyviathesystemdevelopedunderRSA664-A:9,X(e)(1)andcomply
+17 withreporting deadlines established by the commission. If any precertification data has not already
+18 beenenteredintothesystem,thecandidateshallimmediatelyresubmititelectronically.
+19 664-A:7 VoterDollars.
+20 I.(a) On a date to be determined by the commission, but no later than the first business day
+21 inMayofeverygeneralelectionyear,thesecretaryofstateshallmailtoeachpersonwhowasbythe
+22 previous November 15 registered to vote in this state, including any person prohibited from
+23 contributing private contributions under RSA 664-A:6, III(b), at his or her address in the voter
+24 registrationrecords,4certificatesworth25voterdollarseach.
+25 (b) Thereafter, the secretary of state shall issue 4 $25 certificates to any person who
+26 becomesaNewHampshireregisteredvoteronorbeforeOctober1ofthegeneralelectionyear.
+27 (c) The commission shall establish a secure online system for delivery of certificates to
+28 voters, without prejudice to any eligible person's right to receive certificates in the mail at his or her
+29 option, no later than the 2028 election cycle, unless the commission determines this target date is
+30 notpracticable;andinanyeventnolaterthanthe2032electioncycle.
+31 II. Each certificate shall state the holder's name, home address, unique certificate
+32 identificationnumber,theelectionyear,andwordsofassignmentwithblankspacesfortheholderto
+33 designateaparticipatingcandidate'snameandofficesoughtandtosigntheholder'sname.
+34 III. Certificates shall only be transferable or assignable as stated herein. Any person
+35 properly obtaining and holding a certificate may assign it by writing the name and office sought of
+36 the assignee candidate, and signing the holder's name on and dating the certificate where indicated
+37 thereon, and delivering the signed and dated certificate to the candidate, or to the commission, or to
+
+HB1838-FN-ASINTRODUCED
+-Page7-
+1 any candidate's representative who shall be registered for this purpose with the commission.
+2 Delivery of assigned certificates may be by mail, in person by any person the holder requests to
+3 deliverthecertificate,orelectronicallyviaasecureonlinesystemdevelopedbythecommission.
+4 IV.(a) No certificate may be assigned after the last business day in November following the
+5 election.
+6 (b) Acandidateorregisteredcandidaterepresentativemayseekassignmentinpersonor
+7 byassistingavotertoaccessthecommission'ssecureonlinesystem.
+8 (c) Avalidassignmentofacertificateshallbeirrevocable.
+9 (d) A person may assign any number of his or her certificates to the same candidate in a
+10 givenyear.
+11 (e) Assignment or transfer for cash or any consideration shall be prohibited. Offering to
+12 purchase, buy, or sell a certificate shall be prohibited. No person may give a certificate to another
+13 person, except by assigning it to a candidate as provided herein. Certificates shall have no cash
+14 value and are not assets, income, or property of the holder. A certificate shall not be assigned by
+15 proxyorpowerofattorneyorbyanagent.
+16 V. The commission shall pay from the fund to each participating candidate's campaign $25
+17 for each certificate that has been validly assigned to that candidate. Before issuing payments, the
+18 commissionshall ensure that each certificatewas validlyissued to and assigned byan eligible voter.
+19 The commission shall redeem certificates on published regular redemption dates. The redemption
+20 datesshallbenolessfrequentthantwicepermonthandnolessfrequentthanweeklyinthe4weeks
+21 prior to the election, and may include other redemption dates as notified in advance if practicable.
+22 The commission shall not redeem any certificate received by the commission after the first business
+23 dayinthemonthofDecemberfollowingthegeneralelection.
+24 VI. No executive council candidate shall be paid more than $84,000 per election cycle for
+25 voter dollar certificates assigned. The name of any participating candidate who has reached such
+26 limit shall be made publicly available on the commission’s website. The commission shall develop
+27 policies and procedures to permit assigned certificates to be returned to their assignors in the case
+28 that the assignee participating candidate has reached the limit under this section or otherwise
+29 cannotredeemtheassignedcertificatesandallowtheassignorstore-assignthecertificates.
+30 VII.(a) The commission shall administer the certificate program and shall adopt rules
+31 consistent with this section to ensure the certificate program is operated efficiently, fairly, and
+32 transparently. The rules shall provide for a complaint and adjudication process in which New
+33 Hampshire citizens and candidates may petition the commission for correction of errors or remedies
+34 forunlawfulactionaffectingthecertificateprogram.
+35 (b) Prior to each election cycle, the commission shall inform the public about the
+36 certificateprogramthroughthemediaandothersources,andshallpublishguidebooksandformsfor
+
+HB1838-FN-ASINTRODUCED
+-Page8-
+1 candidates and certificate recipients, and any other documents necessary for efficient and
+2 widespreadoperationoftheprogram.
+3 (c) The commission shall record and publish on its website the name, but not the
+4 address, of each certificate holder that has made an assignment and the name of the candidate that
+5 istheassignee.
+6 664-A:8 Grants.
+7 I. In addition to voter dollars collected pursuant to RSA 664-A:7, a candidate for executive
+8 councilor who has qualified as a participating candidate for the general election campaign period
+9 shallbeeligibleforthefollowingamountsfromthefund:
+10 (a) $60,000grantfromthefundforacontestedgeneralelection.
+11 (b) $10,000 grant from the fund for a general election that is not a contested general
+12 election.
+13 II. A candidate shall receive grant funding upon qualification as a participating candidate
+14 forthegeneralelectioncampaignperiod.
+15 664-A:9 Voter-OwnedElectionsCommission.
+16 I. Thereisherebyestablishedavoter-ownedelectionscommission.
+17 II. Themembersofthecommissionshallbeasfollows:
+18 (a) Onememberappointedbythepresidentofthesenate.
+19 (b) Onememberappointedbytheminorityleaderofthesenate.
+20 (c) Onememberappointedbyspeakerofthehouseofrepresentatives.
+21 (d) Onememberappointedbyminorityleaderofthehouseofrepresentative.
+22 (e) One member appointed by a majority of the appointees listed in subparagraphs (a)-
+23 (d).
+24 III. No person shall serve on the commission who is a candidate for executive councilor. No
+25 member of the commission shall publicly endorse any candidate for office or financially contribute to
+26 acandidateforofficewhileservingonthecommission.
+27 IV. All appointments tothe commissionshall bemade within60 days of theeffective date of
+28 thissection.
+29 V. Themembersofthecommissionshallelectachairmanfromamongthemembers.
+30 VI. The commission shall have jurisdiction of and be responsible for the execution of the
+31 provisionsofthischapter. Thecommissionshalladoptrulesrelativetothecommission'sprocedures.
+32 ThecommissionshallbeexemptfromtherequirementsofRSA14:49,II(b).
+33 VII. Thecommissionshallrecommendtothelegislatureanyadjustmentstodates,numbers,
+34 and dollar values in this chapter that the commission deems necessary. Positive adjustments for
+35 inflationasdescribedinRSA664-A:14shallbeexemptfromthisrequirement.
+
+HB1838-FN-ASINTRODUCED
+-Page9-
+1 VIII.(a) The commission shall evaluate and implement strategies for soliciting voluntary
+2 donations to the fund established in RSA 664-A:2. The commission shall develop solicitation
+3 strategiestargetingindividuals,businesses,nonprofitorganizations,andpoliticalorganizations.
+4 (b) The commission shall develop printed material with the secretary of state to be
+5 enclosed with mailings that explain the voter-owned elections system and instructs recipients on
+6 how to donate to the fund. Copies of materials developed under this subparagraph shall also be
+7 madeavailabletoagenciesrequestingthem.
+8 (c) The commission shall, based upon experience gained in the first or subsequent
+9 implementations of the public financing system, determine whether a candidate who has received
+10 contributions that do not meet the requirements of RSA 664-A:4, VII or VIII, or RSA 664-A:6, III, V,
+11 or VI may still be eligible for certification once the prohibited donations and the excess of donations
+12 that exceed the limits specified in RSA 664-A:4, VIII or RSA 664-A:6, III have either been returned
+13 tocontributorsordonatedtothefund.
+14 IX. The commission shall examine the feasibility of collecting voluntary donations to the
+15 fund via a system in which any state agency and political subdivision acting on behalf of any state
+16 agency, sending any tax bill, tax form, registration form, or license or certificate application or
+17 renewal by mail or online shall, upon request of the commission, include a brief statement about the
+18 voter-ownedelectionssystemandinclude:
+19 (a) The URL of a website providing information and a procedure for contributing to the
+20 fund;and
+21 (b) An add-on box allowing recipients to add money to their bill to benefit the fund,
+22 suggesteddonationamountstobedeterminedbythecommission.
+23 X. Thecommissionshall:
+24 (a) Render advisory opinions with respect to questions arising under this chapter upon
+25 the written request of a candidate, an officer of a political committee, or a member of the public, or
+26 uponitsowninitiative.
+27 (b) Make public the questions of interpretation for which advisory opinions will be
+28 considered by the commission and the advisory opinions rendered, including by publication on its
+29 websiteinaformatsuchthatadvisoryopinionsaresearchablebykeyword.
+30 (c) Develop a program for informing and training candidates and the public as to the
+31 purposeandeffectoftheprovisionsofthischapter,includingbymeansofawebsite.
+32 (d) In cooperation with the secretary of state, develop an interactive, searchable
+33 computer database that shall contain all information necessary for the proper administration of this
+34 chapter, including information on the assignment and redemption of certificates, contributions to
+35 and expenditures by candidates and their authorized committees and distributions of moneys from
+36 thefund,andthatshallbeaccessibletothepubliconthestatewebsite.
+
+HB1838-FN-ASINTRODUCED
+-Page10-
+1 (e)(1) In cooperation with the secretary of state, develop an electronic reporting system
+2 to process the campaign receipts, contributions, transfers, and expenditures required to be filed
+3 pursuanttotheprovisionsofthischapter.
+4 (2) Determine whether such a reporting system should be structured as a
+5 clearinghouse,thatis,asysteminwhichallcontributionstoparticipatingcandidatesareposted and
+6 vettedinrealtimeastheyaremade.
+7 (3) Makealldatafromtheelectronicreportingprocesspubliclyavailableatalltimes
+8 on the Internet in a format that is searchable by keyword and by the name of any candidate,
+9 contributor,orrecipientofcampaignexpendituresmentionedinthefiling.
+10 664-A:10 Audits.
+11 I. The commission may conduct a thorough examination and pre-election audit of the
+12 contributions and campaign expenses of every participating candidate. Such audits shall be
+13 conductedasfrequentlyasthecommissiondeemsnecessarytoensurecompliancewiththischapter.
+14 II. The commission shall conduct post-election audits as deemed necessary, but in any event
+15 shallauditnolessthan25percentofparticipatingcandidatesrunningforofficeineachelectionyear
+16 selected at random. The cost of complying with a post-election audit shall be borne by the
+17 candidate's authorized committee. A candidate who has received public funds under this chapter
+18 shall maintain a reserve of at least one percent of the total amount of public and private donations
+19 receivedinhisorhercampaignaccounttocomplywiththepost-electionaudit.
+20 III. Thecommissionshallissuetoeachcampaignauditedthefinalpost-electionaudit report
+21 that details its findings and shall provide such audit to the governor and legislative leaders and
+22 make such audit report available on the commission's website. Final post-election audit reports
+23 shall be completed no later than 12 months after the date of the election that is subject of the audit.
+24 This audit deadline shall not apply in cases involving potential campaign-related fraud, knowing
+25 violationsofthischapter,orothercriminalactivity.
+26 664-A:11 Penalties.
+27 I. Any person who violates this chapter, but cannot be shown to having knowingly done so,
+28 shall be subject to a civil penalty, unless the commission determines the violation was de minimis.
+29 Thepersonshallbesubject toafineofup to$10,000,orthetotal amountofillegalcontributions and
+30 expenditures,whicheverisgreater.
+31 II. Any person who knowingly violates the provisions of this chapter shall be guilty of a
+32 misdemeanor and shall be subject to a fine of up to $20,000 or twice the total amount of illegal
+33 contributions and expenditures, whichever is greater. Such violations by elected candidates may
+34 constituteimpeachableoffenses. ThelimitationsinRSA651:2,IVshallnotapplytofinesunderthis
+35 paragraph.
+
+HB1838-FN-ASINTRODUCED
+-Page11-
+1 III. Any person who knowingly makes a false statement or knowingly omits a material fact
+2 tothecommissionoranyanotherofficialduringanyinvestigationconductedpursuanttothissection
+3 shallbeguiltyofaclassBfelony.
+4 IV. Anypersonfoundbythecommissiontohaveviolatedprovisionsofthischaptermayseek
+5 judicialreview.
+6 V. Allfinesimposedpursuanttothissectionshallbemadepayabletothefund.
+7 664-A:12 ReportstotheGeneralCourt.
+8 I. As soon as practicable after each general election in which public contributions were
+9 expended, but no later than 30 days after the general election, the commission shall file a
+10 preliminary report to the governor and general court containing summary information about the
+11 fiscal status of the fund, make recommendations regarding appropriations to the fund in the
+12 followingyear,andtakewhateveractionsareappropriateto:
+13 (a) Secureanyadditionalfundsrequiredinthestatebudget.
+14 (b) Initiatelegislationtosecureadditionalfundingfromothersources.
+15 II. The commission shall report to the general court after each election cycle regarding the
+16 fund, no later than the first day of July of the year following a general election. The report shall
+17 include a detailed summary of all contributions, qualifying contributions, payments from the fund,
+18 and expenditures made by all participating candidates. The report shall also include a summary
+19 and evaluation of the commission's activities, and recommendations relative to the implementation
+20 andadministrationofthischapter.
+21 III. In the first report the commission prepares pursuant to paragraph II and, if applicable,
+22 to subsequent reports, the commission shall recommend whether the public financing system should
+23 be expanded to include special elections and elections for state senate and house of representatives.
+24 The recommendation shall state the potential benefits and obstacles of expanding the program, and,
+25 if the commission recommends expanding the program, shall estimate the cost of the expanded
+26 program and explain the need for additional commission staff or legal changes necessary to
+27 efficientlyimplementtheexpandedprogram.
+28 IV. In the second report the commission prepares pursuant to paragraph II and, if
+29 applicable, subsequent reports, the commission shall recommend whether the public financing
+30 system should be expanded to include elections for additional offices. The recommendation shall
+31 state the potential benefits and obstacles of expanding the program, and shall fully explore all legal
+32 obstacles to such expansion. If the commission recommends expanding the program, it shall
+33 estimate the cost of the expanded program and explain the need for additional commission staff or
+34 legalchangesnecessarytoefficientlyimplementtheexpandedprogram.
+35 664-A:13 ShortfallinFund.
+36 I. Following the state primary election, the commission shall project the amount of public
+37 funds to be distributed in the general election period. If the commission determines that there will
+
+HB1838-FN-ASINTRODUCED
+-Page12-
+1 not be sufficient money in the fund to finance all participating candidates in accordance with RSA
+2 664-A:7andRSA664-A:8,thecommissionshallmakeeveryattempttocorrecttheshortfallby,at its
+3 discretion:
+4 (a) Reducing the dollar amount to be paid out for each voter dollar certificate
+5 subsequentlyassigned;
+6 (b) Reducing the dollar amount of per-candidate limits on funds paid out for voter dollar
+7 certificates;
+8 (c) Reducingthedollaramounttobepaidoutineachgeneralelectiongrant.
+9 II. IfthereductionsinparagraphIofthissectionareinadequate,thecommissionmay,atits
+10 discretion, increase the private contribution dollar limits currently imposed upon participating
+11 candidates.
+12 III. In choosing any of the actions listed in paragraphs I and II of this section, the
+13 commissionshallnotintentionallyfavoranycandidateorpoliticalparty.
+14 664-A:14 Adjustment for Inflation. At the beginning of each general election year, commencing
+15 in 2024, the commission, using an inflation calculator based on the consumer price index for all
+16 urban consumers published by the United States Bureau of Labor Statistics, shall adjust to the
+17 nearest $5 the amount of each current dollar limit or threshold mentioned in this chapter, except for
+18 the qualifying contribution amounts specified under RSA 664-A:4, VIII, to account for inflation since
+19 eachlimit or threshold was last updated. Not later thanthefirst dayof Februaryineachsuch year,
+20 thecommissionshalladoptaruleestablishingeachadjustedamount.
+21 664-A:15 Severability. Ifanyclause,article,sentence,subdivision,paragraph,section,orpartof
+22 this chapter be adjudged by any court of competent jurisdiction to be invalid, such judgment shall
+23 not affect, impair, or invalidate the remainder thereof, but shall be confined in its operation to the
+24 clause, sentence, subdivision, paragraph, section, or part thereof directly involved in the controversy
+25 inwhichsuchjudgmentshallhavebeenrendered.
+26 664-A:16 CertificationbytheStateTreasurer.
+27 I. Thestatetreasurershallcertifytothevoter-ownedelectionscommissionthedatethatthe
+28 balance in the voter-owned elections fund reaches $1,200,000. On the November 1 next following
+29 such certification at least one year prior to the elections, the commission shall commence
+30 administering the public financing provisions of RSA 664-A relating to campaigns for executive
+31 council.
+32 10 Appropriation. The sum of $1 for the fiscal year ending June 30, 2025 and the sum of $1 for
+33 the fiscal year ending June 30, 2027 are hereby appropriated to the voter-owned elections fund
+34 established in RSA 664-A:2. The governor is authorized to draw a warrant for said sums out of any
+35 moneyinthetreasurynototherwiseappropriated.
+36 11 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2582
+12/5/25
+HB1838-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing a voter-owned elections fund and commission and raising vehicle
+registrationfees.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+IndeterminableIncreasemorethan
+Revenue $0 $2,520,226+
+$2.52millionperyear
+RevenueFund(s) Voter-OwnedElectionsFund
+Indeterminable
+Increasein
+Expenditures* $0 IndeterminableIncrease
+excessof
+$1,350,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $1 $1 $0
+FundingSource(s) Voter-OwnedElectionsFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates the Voter-Owned Elections Fund and a Voter-Owned Elections Commission to
+provide public financing for Executive Council candidates in New Hampshire. The bill raises
+fundsforthisprogrambyincreasingmotorvehicleregistrationfees,includinganew$1feeonall
+privatepassengervehicleregistrationsanda$5increase($60to$65)tovanityplatefees. Italso
+redirects certain civil fines to the new fund. Additionally, the Secretary of State shall issue 4
+$25 certificates to any registered voter for each general election year. This bill appropriates $1
+inFY2027and$1inFY2028totheVoter-OwnedElectionsFund.
+The Department of State reports that the cost to design, print, and track the four $25 voter
+dollar certificates is currently indeterminable. Mailing these certificates to approximately one
+million registered voters would cost around $780,000 at the current postage rate of $0.78, with
+potential increases depending on the contents of the mailing. However, costs may decline over
+time as more voters opt for secure online delivery. The Department is also responsible for
+carrying out numerous additional duties of the Voter-Owned Elections Commission, which will
+function as a separate entity within the Department and require additional general fund
+support. The Secretary of State notes that general funds will be necessary, as the Department’s
+
+current budget cannot absorb these new expenses. Furthermore, the bill would require
+significant upgrades to the online campaign finance system, with costs expected to exceed
+$500,000.
+The Department of Safety, Division of Motor Vehicles (DMV) anticipates an increase of
+$2,520,226 in revenue to the Voter-Owned Elections Fund from the increase in fees based on
+current registered vehicles and active vanity plate registrations. Revenues could increase
+further as certain civil penalties are to be directed into the Voter-Owned Elections Fund,
+however that number is indeterminable as it is impossible to estimate how many civil penalties
+and the cost of those penalties will occur. In order to process the new $1 fee on private
+passenger vehicle registrations and the $5 increase in the vanity plate fee the DMV would
+require a one time expenditure of $70,000 to update information-technology programming and
+testing of that program. Additionally, the DMV states it would take roughly six months to test
+andimplementthefeechangesinthisbill.
+The Treasury Department states there is no impact for the certification by the State Treasurer
+whentheVoter-OwnedElectionsFundreaches$1.2million.
+The Department of Justice states that since it is unknown how many complaints or how many
+Executive Councilors participate in the Election Fund and therefore the cost of this bill is
+indeterminable.
+AGENCIESCONTACTED:
+DepartmentofState,TreasuryDepartment,DepartmentofSafety,andDepartmentofJustice

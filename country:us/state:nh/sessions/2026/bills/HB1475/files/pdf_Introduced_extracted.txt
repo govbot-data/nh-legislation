@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1475-FN-ASINTRODUCED
+2026SESSION
+26-2955
+06/07
+1475-FN
+HOUSEBILL
+ANACT directing the department of energy to study the portion of electric distribution
+costsattributabletofixedversususage-basedcharges.
+SPONSORS: Rep. Harrington, Straf. 18; Rep. Berezhny, Graf. 11; Rep. Bernardy, Rock. 36;
+Rep.D.Thomas,Rock.16;Rep.Vose,Rock.5
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of energy to study the fixed and variable components of electric
+distributioncostsinNewHampshire,evaluatespecificcostcategories,andreportitsfindings.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1475-FN-ASINTRODUCED
+26-2955
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT directing the department of energy to study the portion of electric distribution
+costsattributabletofixedversususage-basedcharges.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DepartmentofEnergy;StudyRequired.
+2 I. The department of energy shall conduct a study of electric distribution utilities operating
+3 in New Hampshire to determine what portion of distribution costs are fixed and do not vary with a
+4 customer’s electricity usage, and what portion are variable and directly related to the quantity of
+5 electricityconsumed.
+6 II. Forthepurposesofthissection:
+7 (a) “Fixed charge” means a fee that is assessed to each customer in a rate class, without
+8 regardtokilowatt-hoursconsumed.
+9 (b) “Usage-based charge” means a fee that varies according to the number of kilowatt-
+10 hoursconsumedduringabillingperiod.
+11 III. The department shall consider, but not be limited to, the following cost categories in its
+12 study:
+13 (a) Stormrecoverycosts;
+14 (b) Costs for replacement of utility poles and other infrastructure not dependent on
+15 usage;and
+16 (c) Costs relating to capacity upgrades or additions required by increased electric
+17 demand.
+18 IV. Thedepartmentmayconsultwithelectricutilitiesandindependentexpertsasneeded.
+19 V. The department shall submit a report, including recommendations, to the house science,
+20 technology and energy committee, the senate energy and natural resources committee, and the
+21 governor,nolaterthanNovember1,2026. Thereportshallbemadeavailabletothepublic.
+22 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2955
+11/30/25
+HB1475-FN-FISCALNOTE
+ASINTRODUCED
+ANACT directing the department of energy to study the portion of electric distribution
+costsattributabletofixedversususage-basedcharges.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable
+Increase
+$1,000,000+
+DeMinimisIncrease
+(Utility
+Expenditures* $0 (VariousFunds)
+Assessments)
+DeMinimis
+Increase
+(VariousFunds)
+FundingSource(s) UtilityAssessmentsandVariousFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 DeMinimisIncrease
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 DeMinimisIncrease
+METHODOLOGY:
+This bill requires the Department of Energy to conduct a study of fixed and variable components
+of electric distribution costs for New Hampshire distribution utilities and report findings and
+recommendationstotheGovernorandlegislativecommitteesbyNovember1,2026.
+The Department of Energy states this bill will require work to be performed through docketed
+investigations into each of the three electric distribution utilities operating in New Hampshire.
+The Department would hire one or more consultants to conduct cost-of-service analyses with
+
+emphasis on storm recovery costs, pole and infrastructure replacement, and capacity upgrades
+tiedtodemand. TheDepartmentassumesallconsultantandproceedingcostswouldbespecially
+assessed to the utilities under existing statutory authority, meaning there would be no cost to
+the Department’s operating budget. Because the consultant work would be procured through an
+RFP, the Department cannot precisely estimate the charges; however, it expects the combined
+consultant costs for all three utilities to be at least $1,000,000, which would be fully recovered
+throughutilityassessments.
+Utilities are expected to pass these assessment costs through to ratepayers; however, the
+Department states the impact on individual customer bills, including state, county, and local
+accounts,wouldbedeminimis.
+AGENCIESCONTACTED:
+DepartmentofEnergy

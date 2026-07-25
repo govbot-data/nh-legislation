@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1049-FN-ASINTRODUCED
+2026SESSION
+26-2445
+09/06
+1049-FN
+HOUSEBILL
+ANACT relativetostoragerequirementsforfirearms.
+SPONSORS: Rep. Meuse, Rock. 37; Rep. Horrigan, Straf. 10; Rep. Seibert, Hills. 21; Rep. Selig,
+Straf.10;Rep.M.Smith,Straf.10;Sen.Altschiller,Dist24
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires firearms to be securely stored when not in use to prevent unauthorized access
+by minors. It also requires that a locking safety device accompany all private and commercial
+firearmstransactionsandexpandsthecriminalpenaltiesfornegligentstorageoffirearms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1049-FN-ASINTRODUCED
+26-2445
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetostoragerequirementsforfirearms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. The general court finds that it is in the best interests of child protection and public
+2 safety to minimize the occurrence of incidents involving negligent storage of firearms by enacting
+3 safe firearms storage requirements and corresponding penalties for violations that will reduce the
+4 riskofanunsecuredweaponfallingintothehandsofaminor,oraprohibitedparty.
+5 2 New Section; Secure Firearm Storage. Amend RSA 159 by inserting after section 12 the
+6 followingnewsection:
+7 159:12-a SecureFirearmStorageRequired.
+8 I. Inthissection:
+9 (a) "Commercial sale" means a transfer of ownership of a firearm listed or made
+10 available for public sale or exchange including but not limited to, a weapon purchased or exchanged
+11 for other goods and services at alicensed firearms dealer, agun show, or viathe commercial website
+12 ofadealer.
+13 (b) "Firearm" means any weapon or device designed to be used as a weapon, which will,
+14 is designed to, or may be readily converted to, expel a projectile by the action of an explosive,
+15 explosion, or other means of combustion, or the frame or receiver of such a device, provided the term
+16 "firearm"shallnotincludetheterm "antiquefirearm"asdefinedin18U.S.C.section921(a)(16),or a
+17 weapon that has been rendered permanently inoperable and is incapable of being readily restored to
+18 afiringcondition.
+19 (c) "Personalized firearm" means a firearm that has, as part of its original manufacture,
+20 incorporated design technology that allows the firearm to be fired only by the authorized user and
+21 prevents any of the safety characteristics of the firearm from being readily deactivated by anyone
+22 other than the authorized user. The technology limiting the firearm's operational use may include,
+23 but is not limited to, fingerprint verification, magnetic encoding, radio frequency tagging, and other
+24 automaticuseridentificationsystemsutilizingbiometric,mechanical,orelectronicsystems.
+25 (d) "Licensed firearms dealer," "licensed dealer," or "dealer" means a person who has a
+26 valid federal firearms dealer license under 18 U.S.C. section 923(a), and all additional licenses
+27 requiredbystateorlocallawtoengageinthebusinessofsellingortransferringfirearms.
+28 (e) "Private sale” means a transfer of ownership of a firearm between two parties where
+29 neitherpartyisalicensedfirearmsdealer.
+
+HB1049-FN-ASINTRODUCED
+-Page2-
+1 (f) "Safety device" means a device which has been specifically designed and
+2 manufactured for the purpose of allowing the owner to temporarily disable or securely store one or
+3 morefirearmsandmayinclude:
+4 (1) Trigger locks, cable locks, or other devices featuring a combination lock, key,
+5 digital key, radio frequency tag, automated fingerprint identification system, biometric key, voice
+6 recognition key, electronic key, or other personalized locking mechanism capable of preventing the
+7 firearmfrombeingdischargedbyapersonnotauthorizedbytheowner;or
+8 (2) A lockbox or storage device with a combination lock, key, digital key, radio
+9 frequency tag, automated fingerprint identification system, biometric key, voice recognition key,
+10 electronic key, or other personalized locking mechanism capable of preventing access to the firearm
+11 byapersonnotauthorizedbytheowner.
+12 (g) "Seller" means a person offering a firearm for commercial sale, private sale, or
+13 barter.
+14 II.(a) Firearms shall be securely stored when they are not in use to prevent access by
+15 unsupervised minors and other unauthorized users. A person responsibly and securely stores a
+16 firearmwhen:
+17 (1) The person carries the firearm on his or her person or within such close
+18 proximity thereto that the person can readily retrieve and use the firearm as if the person carried
+19 thefirearmonhisorherperson;
+20 (2) The firearm is kept in a locked gun safe or other secure container or in a manner
+21 that areasonable personwould believe tobesecure and ajuvenile or resident of thepremises who is
+22 ineligible to possess a firearm does not have access to the key, combination, or other unlocking
+23 mechanismnecessarytoopenthesafeorcontainer;
+24 (3) The person properly installs a locking safety device on the firearm and a juvenile
+25 or resident of the premises who is ineligible to possess a firearm does not have access to the key,
+26 combination,orotherunlockingmechanismnecessarytoremovethelockingdevice;or
+27 (4) The firearm is a personalized firearm and the safety characteristics of the
+28 firearmareactivated.
+29 (b)(1) A person commits unlawful storage of a firearm when the person fails to
+30 responsiblyandsecurelystoreafirearm,asdescribedinsubparagraphII(a)ofthissection,uponany
+31 premises that the person owns or controls and the person knows or reasonably should know that a
+32 juvenilecangainaccesstothefirearmwithoutthepermissionofthejuvenile'sparentorguardian.
+33 (2) It is an affirmative defense to the offense of unlawful storage of a firearm that a
+34 juvenile gained possession of, and used, the firearm for the purpose of exercising the rights
+35 containedinRSA627:4orindefenseoflivestock.
+36 (c) This section shall not apply to storing an antique firearm as defined in 18 U.S.C.
+37 section921(a)(16).
+
+HB1049-FN-ASINTRODUCED
+-Page3-
+1 III.(a) No firearm shall be sold or transferred via commercial sale or private sale unless the
+2 saleortransferincludesorisaccompaniedbyafirearmsafetydevice.
+3 (b) No firearm manufactured in this state shall be sold or transferred commercially or
+4 privately unless the sale or transfer includes or is accompanied by an approved firearm safety
+5 device.
+6 IV. ParagraphIIIshallnotapplyto:
+7 (a) Antiquefirearmsasdefinedin18U.S.C.section921(a)(16).
+8 (b) PersonalizedfirearmsasdefinedinRSA159:12-a,I(c).
+9 V. Sales or transfers shall be exempt from the requirements of paragraph III if the
+10 purchaser or transferee presents to the seller or owner a working safety or storage device when
+11 acceptingdeliveryofthefirearm.
+12 VI. Anypersonwhocommitsunlawfulstorageofafirearmoranylicensedfirearmsdealeror
+13 private seller who violates the provisions of paragraph III shall be guilty of a violation and shall be
+14 finednotmorethan$1,000.
+15 3 NegligentStorageofFirearms. AmendRSA650-C:1,III-IVtoreadasfollows:
+16 III. Any person who stores or leaves on premises under that person's control a loaded
+17 firearm[, and who knows or reasonably should know that a child is likely to gain access to the
+18 firearm] or an unloaded firearm with unsecured compatible ammunition in such a manner
+19 that it is available to a child without the supervision or permission of the child's parent or
+20 guardian,isguiltyof[aviolation]anoffenseifachildgainsaccesstoafirearmand:
+21 (a) Thefirearmisusedinarecklessorthreateningmanner;
+22 (b) Thefirearmisusedduringthecommissionofanymisdemeanororfelony;[or]
+23 (c) Thefirearmisnegligentlyorrecklesslydischarged;
+24 (d) Thefirearmisusedbyachildinasuicideattempt;
+25 (e) Thefirearmisexhibitedordisplayedtoothers;or
+26 (f) Thefirearmistakenofftheowner’spropertyandisbroughtbythechildonto
+27 thegroundsofanybuildingorfacility,publicorprivate,whereotherchildrenarepresent.
+28 IV. Any person who violates paragraph III shall be [fined not more than $1,000] guilty of a
+29 class B misdemeanor. If the child discharges a weapon obtained as a result of negligence
+30 resulting in the injury or death of the child or of another person, such person shall be
+31 guiltyofaclassAmisdemeanor.
+32 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2445
+10/17/25
+HB1049-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetostoragerequirementsforfirearms.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

@@ -1,0 +1,178 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1384 -ASINTRODUCED
+2026SESSION
+26-3174
+07/09
+1384
+HOUSEBILL
+ANACT relativetoreportingrequirementsforpersonsorentitiesfinancinglawsuits.
+SPONSORS: Rep. Cole, Hills. 26; Rep. Aures, Merr. 13; Rep. Kesselring, Hills. 18; Rep. Kofalt,
+Hills. 32; Rep. Ouellet, Coos 3; Rep. Post, Hills. 42; Rep. Wood, Merr. 13; Rep.
+Hunt, Ches. 14; Sen. Birdsell, Dist 19; Sen. Gannon, Dist 23; Sen. Reardon, Dist
+15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillregulatescommerciallitigationfinancingagreements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1384-ASINTRODUCED
+26-3174
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoreportingrequirementsforpersonsorentitiesfinancinglawsuits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose and Findings. The purpose of this act is to require certain disclosures concerning
+2 commercial litigation financing agreements and lawyer financing agreements and set forth certain
+3 prohibitionsregardingcommerciallitigationfinanciers.
+4 2 New Chapter; New Hampshire Third-Party Litigation Funding Transparency Act. Amend
+5 RSAbyinsertingafterchapter294-Ethefollowingnewchapter:
+6 CHAPTER294-F
+7 NEWHAMPSHIRETHIRD-PARTYLITIGATIONFUNDINGTRANSPARENCYACT
+8 294-F:1 Short Title. This chapter shall be known, and may be cited as, the "Third-Party
+9 LitigationFundingTransparencyAct."
+10 294-F:2 Definitions. Inthischapter:
+11 I. "Commercial litigation financier" means a person in the business of entering into
+12 commercial litigation financing agreements or lawyer financing agreements. The term commercial
+13 litigation financier does not include a nonprofit organization exempt from federal income tax under
+14 501(c)(3) of the United States Internal Revenue Code or its funders if the nonprofit organization
+15 represents the claimant on a pro bono basis, which may include an award of costs or attorney fees to
+16 thenonprofitorganizationorarelatedattorney.
+17 II. "Commercial litigation financing agreement" means, with respect to any civil action or
+18 groupofcivilactions,awrittenagreement:
+19 (a) Wherebyathirdpartyagreestoprovidefundstooneofthenamedparties,and
+20 (b) Which creates a direct or collateralized interest in the proceeds of a civil action or
+21 group of civil actions, by settlement, verdict, judgment, or otherwise, where such interest is based in
+22 wholeorpartonafundingobligationtothefundedpartyintheactionorgroupofactions.
+23 (c) "Commercial litigation financing agreement" includes any contract, including any
+24 option, forward contract, futures contract, short position, swap, or similar contract, or other
+25 agreementthatissubstantiallysimilartoalitigationfinancingagreement.
+26 (d) "Commerciallitigationfinancingagreement"doesnotinclude:
+27 (1) Aconsumerlegalfundingagreement;
+28 (2) An agreement by an attorney or law firm to provide legal services on a
+29 contingency fee basis to the claimant or to advance the claimant's legal costs in accordance with the
+30 NewHampshirerulesofprofessionalconduct;
+
+HB1384 -ASINTRODUCED
+-Page2-
+1 (3) A health insurer, medical provider, or assignee that has paid, is obligated to pay,
+2 or is owed any sums for a person’s health care under the terms of a health insurance plan or
+3 agreement;
+4 (4) A financial institution providing loans to the claimant or the claimant’s attorney
+5 or law firm whenrepayment is not contingent upon theoutcomeof thelegal claim or onthe outcome
+6 of any matter within a portfolio that includes the legal claim and involves the same attorney or law
+7 firmoraffiliatedattorneyorlawfirm;
+8 (5) Alawyerfinancingagreement;or
+9 (6) Apersonwithapreexistingcontractual obligationtoindemnifyor defend a party
+10 toalegalclaim.
+11 III. "Consumer"meansanaturalpersonorestateforadecedentwithalegalclaim.
+12 IV. "Consumer legal funding agreement" means an agreement memorializing a nonrecourse
+13 transaction in which a consumer legal funding company purchases, and a consumer assigns to the
+14 company, a contingent right to receive an amount of the potential proceeds of a settlement,
+15 judgment,award,orverdictobtainedintheconsumer’slegalclaim.
+16 V. "Foreign country of concern" means a foreign government or person listed as a “foreign
+17 adversary”in15C.F.R.791.4.
+18 VI. "Foreignentityofconcern"or“foreignpersonofconcern”meansanentityorpersonthat:
+19 (a) Isorganizedorincorporatedinaforeigncountryofconcern;
+20 (b) Is owned or controlled by the government, a political subdivision, or a political party
+21 ofaforeigncountryofconcern;
+22 (c) Hasitsprincipalplaceofbusinessinaforeigncountryofconcern;or
+23 (d) Is owned, organized, or controlled by, affiliated with, or acting on behalf of an
+24 individualorentitythatisorhasbeen:
+25 (1) On a sanctions list maintained by the Office of Foreign Assets Control, including
+26 thefollowing:
+27 (A) SpeciallyDesignatedNationalsandBlockedPersonsList("SDNList");
+28 (B) ForeignSanctionsEvadersList;
+29 (C) Non-SDNIranSanctionsActList;
+30 (D) SectoralSanctionsIdentificationsList;or
+31 (E) List of Foreign Financial Institutions Subject to Correspondent Account and
+32 Payable-ThroughAccountSanctions;or
+33 (2) Designated by the United States Secretary of State as a foreign terrorist
+34 organization.
+35 VII. “Lawyer financing agreement” means, with respect to any civil action or group of civil
+36 actions,awrittenagreement:
+
+HB1384 -ASINTRODUCED
+-Page3-
+1 (a) Whereby a third party agrees to provide funding to any counsel or law firm affiliated
+2 withthecivilactionorgroupofactions;and
+3 (b) Which creates a direct or collateralized interest in the fees, expenses, or other
+4 proceedsofacivilactionorgroupofcivilactions,bysettlement,verdict,judgmentorotherwise.
+5 VIII. "Legalclaim"meansacivilclaimorcauseofaction.
+6 294-F:3 ProhibitionsRelatedtoCommercialLitigationFunding.
+7 I. A commercial litigation financier shall not enter into a commercial litigation financing
+8 agreement with a foreign entity of concern or a foreign country or person of concern, or any entity
+9 controlledbyanyoftheforegoingpersonsorentities.
+10 II. An agreement shall not grant a commercial litigation financier control or approval rights
+11 withrespecttolitigationorsettlementdecisions.
+12 III. Acommerciallitigationfinanciershallnothavetherighttoreceivematerialsdesignated
+13 as confidential pursuant to a protective or confidentiality agreement or order in an action, unless
+14 explicitlyauthorizedbythetermsofsuchprotectiveorconfidentialityagreementororder.
+15 294-F:4 CommercialLitigationFinancingAgreementDisclosureandDiscovery.
+16 I. Except as otherwise stipulated or ordered by the court, a claimant or claimant’s counsel
+17 shall, without awaiting a discovery request, provide to the court, for in camera review, any
+18 commercial litigation financing agreement within 30 days after commencement of a legal action or
+19 30daysafterexecutionofacommerciallitigationfinancingagreement,whicheverislater.
+20 II. Except as otherwise stipulated by the parties or ordered by the court, counsel shall
+21 providetothecourt,forincamerareview,within30daysaftercommencementofalegalactionor30
+22 days after execution of a lawyer financing agreement, whichever is later, a sworn statement that
+23 such lawyer financing agreement complies with the prohibitions set forth in RSA 294-F:3 and with
+24 the New Hampshire rules of professional conduct. The court shall review, in camera, the lawyer
+25 financing agreement to ensure compliance with RSA 294-F:3 and the New Hampshire Rules of
+26 ProfessionalConduct.
+27 III. Except as otherwise stipulated by the parties or ordered by the court, a claimant or
+28 claimant’s counsel shall deliver to all other parties, within 30 days after commencement of a legal
+29 action or 30 days after execution of a commercial litigation financing agreement, whichever is later,
+30 aswornstatementdisclosing:
+31 (a) The identity of all contracting parties to the commercial litigation financing
+32 agreement, including the name, address and, if a party is a legal entity, the place of formation of
+33 suchentity;
+34 (b) WhethertheagreementcomplieswithRSA294-F:3;
+35 (c) The existence of any known conflict of interest between a commercial litigation
+36 financier,counsel,andthecourt;
+37 (d) Abriefdescriptionofthenatureofthefinancialinterest;and
+
+HB1384 -ASINTRODUCED
+-Page4-
+1 (e) Whether any foreign entity of concern or a foreign country or person of concern is
+2 providingfunding,directlyorindirectly,forthecommerciallitigationfinancingagreementand,if so,
+3 thename,address,andcountryofincorporationofsuchforeignentityofconcernoraforeigncountry
+4 orpersonofconcern.
+5 IV. Except as otherwise stipulated by the parties or ordered by the court, counsel shall
+6 deliver to all other parties, within 30 days after commencement of a legal action or 30 days after
+7 executionofalawyerfinancingagreement,whicheverislater,aswornstatement:
+8 (a) Disclosing the identity of all contracting parties to the lawyer financing agreement,
+9 includingthename,addressand,ifapartyisalegalentity,theplaceofformationofsuchentity;
+10 (b) Disclosing whether the legal claim at issue is a single claim or a part of a portfolio of
+11 funded legal claims, without, in the case of a portfolio, identifying any specific legal claims in the
+12 portfolio;
+13 (c) Providing a brief description of the nature of the financial interest, including but not
+14 limited to the repayment structure and increments, whether the financing is recourse or
+15 nonrecourse, and if the time to resolution of the legal claim will affect the contingent interest of the
+16 financier;
+17 (d) Affirming that the claimant is fully aware of the lawyer financing agreement and its
+18 terms and has been given the opportunity to obtain independent counsel to advise on the use of a
+19 lawyerfinancingagreementintheirlegalclaim;and
+20 (e) Affirming that such lawyer financing agreement complies with the prohibitions set
+21 forthinRSA294-F:3andwiththeNewHampshirerulesofprofessionalconduct.
+22 V. Information concerning the commercial litigation financing agreement and lawyer
+23 financingagreementarenotbyreasonofdisclosureadmissibleinevidenceattrial.
+24 294-F:5 Applicability.
+25 I. This chapter shall apply to any commercial litigation financing agreement or lawyer
+26 financingagreementthatiseffectuatedonoraftertheeffectivedateofthischapter.
+27 II. If any provision of this chapter is, for any reason, declared unconstitutional or invalid, in
+28 whole or in part by any court of competent jurisdiction, such portion shall be deemed severable and
+29 shallnot affectthevalidityof theremainingportionsof thischapter, whichshall remaininfull force
+30 andeffect.
+31 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1277 -ASINTRODUCED
+2026SESSION
+26-2848
+08/06
+1277
+HOUSEBILL
+ANACT relativetoproofofidentificationonabsenteeballotapplications.
+SPONSORS: Rep. Muirhead, Graf. 12; Rep. Bay, Straf. 21; Rep. Berry, Hills. 44; Rep. Lane,
+Merr.16;Rep.Prudhomme-O'Brien,Rock.13;Rep.Wherry,Hills.13
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires an applicant for an absentee ballot to write his or her drivers' license number
+ornondrivers'licenseidentificationnumberontheirapplication.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1277-ASINTRODUCED
+26-2848
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoproofofidentificationonabsenteeballotapplications.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Forms;Drivers'LicenseNumberIncluded. AmendRSA657:4,Itoreadasfollows:
+2 I. Prior toany state election, the secretary of state shall preparethe appropriate application
+3 forms for absentee ballots worded in substantially the following form. The secretary of state shall
+4 insert the names of all parties qualified as set forth in RSA 652:11 in the list of parties on the
+5 applicationform. Thesecretaryofstateshallpreparetheapplicationformsinsuchquantityasheor
+6 shedeemsnecessary:
+7 Absence (Excluding Absence Due to Residence Outside the United States), Religious Observance,
+8 andDisability:
+9 Iherebydeclarethat(checkone):
+10 _____Iamadulyqualifiedvoterwhoiscurrentlyregisteredtovoteinthistown/ward.
+11 _____ I am absent from the town/city where I am domiciled and will be until after the next election,
+12 or I am unable to register in person due to a disability, and request that the forms necessary for
+13 absenteevoterregistrationbesenttomewiththeabsenteeballot.
+14 Iwillbeentitledtovotebyabsenteeballotbecause(checkone):
+15 _____ I plan to be absent on the day of the election from the city, town, or unincorporated place
+16 whereIamdomiciled.
+17 _____Iamconfinedinapenalinstitutionforamisdemeanororwhileawaitingtrial.
+18 _____ I am requesting a ballot for the presidential primary election and I may be absent on the day
+19 of the election from the city, town, or unincorporated placewhere I am domiciled, but the date of the
+20 election has not been announced. I understand that I may only make such a request 14 days after
+21 thefilingperiodforcandidateshasclosed,andthatifIwillnotbeabsentonthedateoftheelectionI
+22 amnoteligibletovotebyabsenteeballot.
+23 _____Icannotappearinpubliconelectiondaybecauseofobservanceofareligiouscommitment.
+24 _____Iamunabletovoteinpersonduetoadisability.
+25 _____ I cannot appear at any time during polling hours at my polling place because of an
+26 employment obligation. For the purposes of this application, the term "employment" shall include
+27 thecareofchildrenandinfirmadults,withorwithoutcompensation.
+28 For use only on the Monday immediately prior to the election: I cannot appear at my polling place
+29 on election day because the National Weather Service has issued a winter storm warning, blizzard
+30 warning, or ice storm warning for election day applicable to my city, town, or unincorporated place
+31 andeither(checkone):
+
+HB1277 -ASINTRODUCED
+-Page2-
+1 _____ I am elderly or infirm or I have a physical disability, and would otherwise vote in person but I
+2 haveconcernsformysafetytravelinginthestorm.
+3 _____ I anticipate that school, child care, or adult care will be canceled, and would otherwise vote in
+4 personbutwillneedtocareforchildrenorinfirmadults.
+5 Any person who votes or attempts to vote using an absentee ballot who is not entitled to vote by
+6 absenteeballotshallbeguiltyofamisdemeanor.RSA657:24.
+7 Iamrequestinganofficialabsenteeballotforthefollowingelection(checkone):
+8 _____PresidentialPrimarytobeheldon____________________
+9 (MM/DD/YYYY)
+10 (Thedatemayappearasblankwhenthedateisnotknown.)
+11 _____StatePrimarytobeheldon____________________
+12 (MM/DD/YYYY)
+13 _____GeneralElection
+14 Forprimaryelections,IamamemberoforIamnowdeclaringmyaffiliationwiththe(checkone):
+15 _____RepublicanParty
+16 _____DemocraticParty
+17 _____ (name of any party determined by the secretary of state to have achieved official status under
+18 RSA652:11)
+19 andamrequestingaballotforthatparty'sprimary.
+20 Pleaseprint:
+21 Applicant'sName:
+22 ____________________
+23 (Last)(First)(Middle)(Sr.,Jr.,II.,III)
+24 Applicant'sVotingDomicile(homeaddress):
+25 ____________________
+26 (StreetNumber)(StreetName)(Apt/Unit)(City/Town)(Ward)(ZipCode)
+27 Mailtheballottomeatthisaddress(ifdifferentthanthehomeaddress):
+28 ____________________
+29 (StreetNumber)(StreetName)(Apt/Unit)(City/Town)(Ward)(ZipCode)
+30 Applicant'sPhoneNumber:____________________
+31 Applicant'sEmailAddress:____________________
+32 Applicant'sSignature:____________________
+33 DateSigned:____________________
+34 (MM/DD/YYYY)
+35 Applicant's New Hampshire Drivers License Number or Nondriver's Identification Number
+36 ________________
+37 IattestthatIassistedtheapplicantinexecutingthisformbecauseheorshehasadisability.
+
+HB1277 -ASINTRODUCED
+-Page3-
+1 Signature____________________PrintName____________________
+2 If your absentee ballot application or affidavit envelope has the printed name and signature of a
+3 person who assisted you with voting, your signature will not be compared to your signature on the
+4 absentee ballot affidavit to verify your identity. Otherwise, if your signatures do not appear to be
+5 madebythesameperson,yourabsenteeballotmaynotbecounted.
+6 The applicant must sign this form to receive an absentee ballot. Any person who witnesses and
+7 assists a voter with a disability in executing this form shall print and sign his or her name in the
+8 spaceprovidedontheapplicationform. Themoderatorwill notcomparethevoter'ssignatureonthe
+9 application with the signature on the absentee ballot affidavit when a person assisting the voter has
+10 signed the statement on the absentee ballot application or affidavit envelope that assistance was
+11 provided.
+12 2 VerificationofAbsenteeBallotApplicant. AmendRSA657:17-c,Itoreadasfollows:
+13 I. Every applicant for an absentee ballot shall provide verification before being issued an
+14 absenteeballot. Verificationshallbesatisfiedbyoneofthefollowingmethods:
+15 (a) Including a copy of the voter's photo identification with the absentee ballot
+16 application. TheidentificationshallmeettherequirementsofRSA659:13,II(a);
+17 (b) Includinganotarizedsignatureontheabsenteeballotapplicationform;[or]
+18 (c) Including a New Hampshire drivers' license number or nondriver's
+19 identification number on the absentee ballot request form that the town clerk or their
+20 designee can use to verify the identity of the absentee ballot applicant with the New
+21 Hampshiredivisionofmotorvehicles;or
+22 (d) Personally presenting a qualifying photo identification, as defined in RSA 659:13,
+23 II(a),tothecityortownclerkortheirdesigneepriortotheissuanceoftheabsenteeballot.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

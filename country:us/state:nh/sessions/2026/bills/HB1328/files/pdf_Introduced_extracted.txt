@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1328-FN-ASINTRODUCED
+2026SESSION
+26-2905
+09/08
+1328-FN
+HOUSEBILL
+ANACT relativetoalcoholandotherdruguseprofessionals.
+SPONSORS: Rep. Grote, Rock. 24; Rep. Layon, Rock. 13; Rep. C. McGuire, Merr. 27; Rep.
+Schmidt,Straf.14;Sen.Pearl,Dist17;Sen.PerkinsKwoka,Dist21
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Amendsthemembershipoftheboardoflicensingforalcoholandotherdruguseprofessionals.
+II. Eliminatesthelicensetypeoflicensedclinicalsupervisor.
+Thisbillisarequestoftheboardoflicensingforalcoholandotherdruguseprofessionals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1328-FN-ASINTRODUCED
+26-2905
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoalcoholandotherdruguseprofessionals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Alcohol and Other Drug Use Professionals; Board Established. Amend RSA 330-C:3, I to read
+2 asfollows:
+3 I. There is established aboard of licensingfor alcohol and other druguse professionals. The
+4 board shall comprise 7 members to be appointed by the governor with the consent of the council.
+5 The members of the board shall be citizens of the United States and shall include [4] 3 master
+6 licensed alcohol and drug counselors, [one] 2 licensed alcohol and drug [counselor] counselors, one
+7 certifiedrecoverysupportworker,andonememberofthegeneralpublic.
+8 2 Alcohol and Other Drug Use Professionals; Board Established. Amend RSA 330-C:3, IV to
+9 readasfollows:
+10 IV. [The] Each CRSW member shall be a resident of this state, certified in good standing
+11 under the provisions of this chapter, and currently engaged in the practice of the profession, and
+12 shall have no fewer than 3 years of experience as a CRSW, at least 2 of which shall have
+13 immediatelyprecededappointment.
+14 3 AlcoholandOtherDrugUseProfessionals;Title. AmendRSA330-C:14,Itoreadasfollows:
+15 I. Only persons licensed under this chapter may use the title "master licensed alcohol and
+16 drug counselor" and the abbreviation "MLADC," or the title "licensed alcohol and drug counselor"
+17 and the abbreviation"LADC," [or the title "licensed clinical supervisor" and the abbreviation "LCS,"]
+18 providedthatthetitleandabbreviationcorrespondtothelicenseheldpursuanttothischapter.
+19 4 Repeal. Thefollowingarerepealed:
+20 I. RSA330-C:2,XIV,relativetothedefinitionofa"licensedclinicalsupervisor."
+21 II. RSA330-C:12,relativetolicensedclinicalsupervisorsscopeofpractice.
+22 III. RSA330-C:18,relativetolicensedclinicalsupervisorinitiallicensing.
+23 IV. RSA330-C:24,II(b),relativetocontinuingeducationforlicensedclinicalsupervisors.
+24 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2905
+11/16/25
+HB1328-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoalcoholandotherdruguseprofessionals.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertification

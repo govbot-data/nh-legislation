@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1313-FN-ASINTRODUCED
+2026SESSION
+26-2902
+12/09
+1313-FN
+HOUSEBILL
+ANACT repealingbufferzonesforreproductivehealthcarefacilities.
+SPONSORS: Rep.Aures,Merr.13;Rep.Belcher,Carr.4;Rep.Granger,Straf.2;Rep.Thibault,
+Merr.25;Rep.Wood,Merr.13
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrepealstheprohibitiononenteringorremainingonapublicwayorsidewalkadjacentto
+areproductivehealthcarefacility.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1313-FN-ASINTRODUCED
+26-2902
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingbufferzonesforreproductivehealthcarefacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownas"TheSidewalkFreeSpeechAct."
+2 2 FindingsandPurpose. Thegeneralcourtfindsthat:
+3 I. Theexerciseofaperson’srighttofreespeechisafirstamendmentactivity,andonewhich
+4 the New Hampshire Bill of Rights is especially zealous in protecting. N.H. const. part 1 art. 22
+5 (stating that “Free speech… ought… to be inviolably preserved.”) The right to free speech protects
+6 viewpointswhicharecontroversial,unpopular,andoffensiveorotherwiseinconvenient.
+7 II. RSA132:37throughRSA132:40wouldinfringeuponfreespeech.
+8 III. The United States Supreme Court has observed that “‘one-on-one communication’ is ‘the
+9 most effective, fundamental, and perhaps economical avenue of political discourse.’… ‘handing out
+10 leaflets in the advocacy of a politically controversial viewpoint... is the essence of First Amendment
+11 expression’; ‘[n]o form of speech is entitled to greater constitutional protection.’… When the
+12 government makes it more difficult to engage in these modes of communication, it imposes an
+13 especially significant First Amendment burden.” McCullen v. Coakley, 573 U.S. 464, 488-489 (2014)
+14 (citing Meyer v. Grant, 486 U.S. 414, 424, (1988); McIntyre v. Ohio Elections Comm’n, 514 U.S. 334,
+15 347(1995)).
+16 IV. RSA 132:37 through RSA 132:40, if ever implemented through the demarcation of a
+17 buffer zone, would be subject to immediate constitutional challenge. Reddy v. Foster, (stating that
+18 plaintiffs will have standing to challenge the constitutionality of the law once an abortion clinic
+19 “demarcate[s]azone.”)
+20 V. If subject to constitutional challenge, RSA 132:37 through RSA 132:40 is likely to be, and
+21 ought to be, struck down under either the federal or state Bills of Rights. McCullen v. Coakley, 573
+22 U.S.464(2014)(correctlyinvalidatingMassachusettsbufferzonesundertheFirstAmendment).
+23 VI. RSA132:37throughRSA132:40hasservednopublicpurpose.
+24 3 Repeal. RSA 132:37 through 132:40, relative to access to reproductive health care facilities,
+25 arerepealed.
+26 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2902
+10/30/25
+HB1313-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingbufferzonesforreproductivehealthcarefacilities.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

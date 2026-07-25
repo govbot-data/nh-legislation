@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1311-FN-A-ASINTRODUCED
+2026SESSION
+26-2899
+06/08
+1311-FN-A
+HOUSEBILL
+ANACT establishing a regulatory analysis fund to evaluate the economic impact of
+proposedrulesandmakinganappropriationtherefor.
+SPONSORS: Rep.Layon,Rock.13
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a regulatory analysis fund to support economic impact reviews of proposed
+administrative rules and authorizes the joint legislative committee to hire external analysts and
+makesanappropriationtherefor.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1311-FN-A-ASINTRODUCED
+26-2899
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a regulatory analysis fund to evaluate the economic impact of
+proposedrulesandmakinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Regulatory Analysis Fund. Amend RSA 541-A by inserting after section 41 the
+2 followingnewsection:
+3 541-A:42 RegulatoryAnalysisFund.
+4 I. There is established in the office of the state treasurer a nonlapsing fund to be known as
+5 the regulatory analysis fund, which shall be kept distinct and separate from all other funds. The
+6 regulatory analysis fund shall assist the joint legislative committee on administrative rules and the
+7 general court indetermining theeconomic impact of rules proposed under this chapter on the state's
+8 economy.
+9 II. The joint legislative committee may, by majority vote, authorize the chair, working with
+10 the office of legislative services, to hire an external economic analyst to evaluate the impact of rules
+11 proposedunderthischapter,subjecttotheavailabilityoffundswithintheregulatoryanalysisfund.
+12 III. The treasurer shall deposit into the regulatory analysis fund any funds appropriated by
+13 the legislature, as well as any funds transferred by the fiscal committee of the general court, and
+14 shallcreditanyinterestorincomeearnedonmoniesondeposittothefund.
+15 2 Appropriation. There is hereby appropriated from the general fund to the regulatory analysis
+16 fund the sum of $1 for the fiscal year ending June 30, 2026. The governor is authorized to draw a
+17 warrantforsaidsumoutofanymoneyinthetreasurynototherwiseappropriated.
+18 3 New Subparagraphs; Application of Receipts; Regulatory Analysis Fund. Amend RSA 6:12,
+19 I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraphs:
+20 (411) Moneys deposited in the regulatory analysis fund as established in RSA 541-
+21 A:42.
+22 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2899
+11/6/25
+HB1311-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT establishing a regulatory analysis fund to evaluate the economic impact of
+proposedrulesandmakinganappropriationtherefor.
+FISCALIMPACT: Section2appropriates$1.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $1 $0 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a nonlapsing fund called the Regulatory Analysis Fund to allow the Joint
+Legislative Committee on Administrative Rules to contract with external economic analysts for
+evaluating the economic impact of proposed administrative rules. It includes an appropriation of
+$1forFY2026toinitiatethefund.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+None

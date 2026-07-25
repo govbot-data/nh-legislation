@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1426-FN-ASINTRODUCED
+2026SESSION
+26-2539
+08/06
+1426-FN
+HOUSEBILL
+ANACT requiring the department of environmental services to employ certified personnel
+ineachprogramarea.
+SPONSORS: Rep. Kesselring, Hills. 18; Rep. Cole, Hills. 26; Rep. Morse, Merr. 3; Rep. Markell,
+Rock.18;Rep.Morton,Hills.39;Rep.Drew,Hills.19;Rep.Dupont,Hills.20
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresthedepartmentofenvironmentalservicestoemploycertifiedpersonnelineach
+programarea.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1426-FN-ASINTRODUCED
+26-2539
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of environmental services to employ certified personnel
+ineachprogramarea.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Departmental Functions; Certified On Call Individuals. Amend RSA 21-O:1
+2 byinsertingafterparagraphIIthefollowingnewparagraph:
+3 III. Thedepartmentofenvironmentalservicesshallseek,throughrecruitmentandretention
+4 efforts, training, or state contracting to ensure that each of its program areas with regulatory,
+5 permitting, or enforcement responsibilities has at least one certified individual, either as a direct
+6 employee or through a contracted arrangement, who is on call to address program-related matters
+7 and any issues that may arise in the course of its operations. The department may use existing
+8 appropriations, federal grants, or program fees for costs associated with training and certification
+9 under this section. A certified individual shall be an employee who holds a current, valid
+10 certification or license in the program area they serve. Certified individuals employed by or
+11 contracted with a department of environmental services program area shall not be required to
+12 comply with certification maintenance requirements that present a conflict of interest, including but
+13 not limited to submitting work product to the department to maintain hours of work experience.
+14 Certified individuals employed by the department of environmental services shall not be responsible
+15 for paying licensing or certification fees to a department of environmental services program while so
+16 employed. No certified individual shall be liable for damages arising from their duties to carry out
+17 the statutory duty and regulatory requirements of their respective program at the department of
+18 environmentalservices.
+19 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2539
+11/30/25
+HB1426-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the department of environmental services to employ certified personnel
+ineachprogramarea.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable
+Increase Increase
+Expenditures* $0 $0
+$100,000to $100,000to
+$500,000 $500,000
+FundingSource(s) GeneralFundandMultipleOtherAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Environmental Services (DES) to ensure that each of its
+regulatory, permitting, or enforcement program areas has at least one certified individual
+availableoncall,eitherasanemployeeorthroughcontracting.
+DES states this bill will result in an indeterminable increase in state expenditures, estimated to
+be between $100,000 to $500,000 per a year starting in FY 2028. The Department notes that it
+would meet the requirements of the bill by incorporating certification or licensing requirements
+into job postings for vacant positions, identifying opportunities to upskill existing staff, and
+contracting for certified individuals when necessary. Costs would depend on the number of
+program areas requiring certified personnel, the availability of qualified applicants, training or
+upskillingexpenses,andtheneedforcontractedcertifiedindividuals.
+Because the bill provides DES with flexibility by directing it to “seek… to ensure,” actual
+expenditureswillvaryandcannotbeexactlydetermined.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

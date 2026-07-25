@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1230 -ASINTRODUCED
+2026SESSION
+26-2723
+07/08
+1230
+HOUSEBILL
+ANACT relativetoincreasesinstatetaxratesanddebts.
+SPONSORS: Rep.Ulery,Hills.13
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Requires that the state, political subdivisions of the state, or local districts cap total annual
+spending, changes to tax rates, or increases in debt at a rate tied to increases in inflation and
+populationchange.
+II. Creates aright ofactionagainst thestate, political subdivisionsof thestate, or local districts
+forpersonswhomrevealastateorlocalofficialtopreventsuchconduct.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1230-ASINTRODUCED
+26-2723
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoincreasesinstatetaxratesanddebts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State and Its Government; Debt Management; Spending Limits and Excess
+2 Revenues. AmendRSA6-Cbyinsertingaftersection2thefollowingnewsection:
+3 6-C:3 SpendingLimitsandExcessRevenues.
+4 I. The state's total fiscal year maximum annual percentage change in New Hampshire's
+5 fiscal year total spending shall be determined by the 4-year moving average rate of inflation, up to
+6 2.5 percent, and the annual percentage change in New Hampshire's population during the prior
+7 calendaryear.
+8 II. Every local taxing district's maximum annual percentage change in fiscal year total
+9 spendingshallbechangedannuallybythe4-yearmovingaveragerateofinflation,upto2.5percent,
+10 plusthepercentagechangeinthepoliticalsubdivision'spopulationduringthepriorcalendaryear.
+11 III. Excess revenues over the annual revenue limit, up to 10 percent, shall be deposited in
+12 an interest-bearing rainy day fund, and shall only be used to pay for expenses up to the spending
+13 limit. Excess revenues above the rainy day fund cap shall be refunded or, upon voter approval, used
+14 torepaydebts.
+15 IV. Neither New Hampshire, nor its political subdivisions, shall increase in excess of a 4-
+16 year moving average of inflation, up to 2.5 percent, and the percentage change in population, total
+17 annual spending, including obligations of the treasury, faster than the people's increase in after-tax
+18 income, any new or increased tax, or debt of the general treasury, without approval of the voters or
+19 thoseinrelevantin-stateregionsordistricts.
+20 V. Any citizen who contests that the state, or any of its political subdivisions, is in violation
+21 of this article shall be entitled to a jury trial within 12 months. If a jury finds that the state, or its
+22 political subdivisions, have violated this section, the citizen shall be entitled to reasonable attorney's
+23 fees,courtcosts,andanawardnottoexceed20timesthecitizen'sattorney'sfeesandcourtcosts.
+24 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.

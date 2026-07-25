@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1362-ASAMENDEDBYTHEHOUSE
+11Mar2026...1022h
+2026SESSION
+26-3082
+06/08
+1362
+HOUSEBILL
+ANACT relativetomotorvehicleequipmentspecifications.
+SPONSORS: Rep.T.Walsh,Merr.10
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillestablishesmotorvehiclestandardsfortiretreaddepthandbrakeliningmeasurements
+andinspectionstandardsforvehiclesteeringandsuspensionsystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1362-ASAMENDEDBYTHEHOUSE
+11Mar2026...1022h 26-3082
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomotorvehicleequipmentspecifications.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Equipment of Vehicles; Tire Tread Depth. Amend RSA 266 by inserting after
+2 section48thefollowingnewsection:
+3 266:48-a Tire Tread Depth; Measurement Requirements. No person shall drive a motor vehicle
+4 upon any way unless each tire mounted thereon has a minimum tread depth of not less than 2/32 of
+5 aninch.
+6 2 New Section; Equipment of Vehicles; Brake Performance; Brake Lining Measurements.
+7 AmendRSA266byinsertingaftersection28thefollowingnewsection:
+8 266:28-a BrakeLiningMeasurement;LiningThickness.
+9 I. No person shall drive a motor vehicle upon any way unless the brake lining or friction
+10 materialateachwheelhasaminimumthicknessof2/32ofaninch.
+11 II. Brake lining measurements shall be performed using a brake gauge, caliper, or other
+12 suitablemeasuringdevicecalibratedinthirty-secondsofaninch.
+13 (a) Forbrakeshoesordiscbrakepadswithrivetedlinings,measurementsshallbetaken
+14 tothetopofanyrivethead.
+15 (b) For brake shoes or disc brake pads with bonded linings, measurements shall be
+16 takenatthethinnestpointofthefrictionmaterial.
+17 3 NewSubdivision;SteeringandSuspension. AmendRSA266byinsertingaftersection117the
+18 followingnewsubdivision:
+19 SteeringandSuspension
+20 266:118 SteeringandSuspensionStandards.
+21 I. No vehicle shall be operated on the ways of this state if, upon inspection, any of the
+22 followingconditionsarefound:
+23 (a) Steeringlinkagefree-playexceedsthemanufacturer'sspecificationsoris:
+24 (1) Inexcessof1/4inchforwheels16inchesorlessindiameter;
+25 (2) Inexcessof3/8inchforwheels17or18inchesindiameter;or
+26 (3) Inexcessof1/2inchforwheelsover18inchesindiameter.
+27 (b) Anywheelbearingthatisnotwithinthemanufacturer'stoleranceforlooseness.
+28 (c) Anyballjointisbroken,cracked,orexceedsthemanufacturer'sspecifications.
+29 II. For purposes of this section, "manufacturer's specifications" means the tolerances and
+30 standards established by the original equipment manufacturer for the safe operation of the specified
+31 systemorcomponent.
+
+HB1362-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

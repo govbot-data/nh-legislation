@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1766-FN-ASINTRODUCED
+2026SESSION
+26-2839
+08/09
+1766-FN
+HOUSEBILL
+ANACT relativetocrueltytolivestock.
+SPONSORS: Rep.Comtois,Belk.7;Rep.J.Aron,Sull.4;Rep.Bixby,Straf.13
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the confiscation of animals from persons suspected of abuse of animals unless
+suchpersonischargedwithcrueltytoanimalsortheanimalsrequiretemporaryprotectivecustody.
+This bill also requires the state veterinarian or their designee to accompany an investigating
+officer when livestock are the subject of a cruelty case in order to set probable cause criteria for the
+takingoftheanimal.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1766-FN-ASINTRODUCED
+26-2839
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocrueltytolivestock.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CrueltytoAnimals;Livestock. AmendRSA644:8,IV(a)toreadasfollows:
+2 IV.(a)(1) AnypersonchargedwithanimalcrueltyunderparagraphsIIIorIII-amayhavehis
+3 or her animals confiscated by the arresting officer. No animal shall be confiscated unless a
+4 person is charged under this section, except when there is probable cause to believe the
+5 animal'slifeisinimminentdanger. Theinvestigatingofficerforacaseinvolvinglivestock
+6 as defined in RSA 427:38, III shall be accompanied by the state veterinarian or designee in
+7 person or by video who shall determine whether there is probable cause to believe that the
+8 animal'slifeisinimminentdanger.
+9 (2) A person charged under this section may petition the court to seek an
+10 examination of the animals by a veterinarian licensed under RSA 332-B of his or her choice at the
+11 expense of the person charged. The person charged shall be made aware of such right in
+12 writingbythearrestingofficer.
+13 (3) Courts shall give cases in which animals have been confiscated by an arresting
+14 officer priority on the court calendar. In cases in which animals have been confiscated by an
+15 arresting officer or his or her agency, a status hearing shall be held by the court within 14 days of
+16 theconfiscationoftheanimals.
+17 (4) Anypersonwithproofof soleownershiporco-ownershipofananimal confiscated
+18 by an arresting officer in an animal cruelty case and who is not a defendant or party of interest in
+19 the criminal case may petition the court for temporary custody of the animal. The court shall give
+20 such person priority for temporary custody of the animal if the court determines it is in the best
+21 interestoftheanimal'shealth,safety,andwellbeing.
+22 (5) No custodian of an animal confiscated under this section shall spay or neuter or
+23 otherwisepermanently alter the confiscated animal in his or her custody pendingfinal disposition of
+24 the court case unless a treating veterinarian deems such procedure necessary to save the life of the
+25 animal or the owner of the animal agrees in writing to the procedure or treatment. If the
+26 treating veterinarian determines the animal is in a state of extreme suffering, the animal
+27 maybeeuthanized.
+28 (6) Upon a person's conviction of cruelty to animals, the court shall dispose of the
+29 confiscated animal in any manner it decides except in a case in which the confiscated animal is
+30 owned or co-owned by persons other than the defendant. If the defendant does not have an
+31 ownership interest in the confiscated animal, the court shall give priority to restoring full ownership
+
+HB1766-FN-ASINTRODUCED
+-Page2-
+1 rights to any person with proof of ownership if the court determines that such is in the best interest
+2 oftheanimal'shealth,safety,andwellbeing. Iftheconfiscatedanimalisco-ownedbythedefendant,
+3 the court shall give priority to transferring the defendant's interest in the property to the remaining
+4 owner or co-owners equitably if the court determines that such is in the best interest of the animal's
+5 health,safety,andwellbeing.
+6 (7) Thecoststoprovidetheconfiscatedanimalswithhumanecareandadequateand
+7 necessary veterinary services, if any, incurred in boarding and treating the animal, pending
+8 disposition of the case, and in disposing of the animal upon a conviction of said person for cruelty to
+9 animals, shall be borne by the person so convicted in accordance with rules adopted by the
+10 departmentofagriculture,markets,andfood.
+11 (8) The name and address of the owner shall not be publicized until the case
+12 is adjudicated. Any donations raised using the stories or likenesses of the animals in
+13 protectivecustodyshallbeusedonlytooffsetthecostofcareofsuchanimals.
+14 2 Confiscationfor TemporaryProtectiveCustodyof anAnimal. RSA644:8,IV-ais repealed and
+15 reenactedtoreadasfollows:
+16 IV-a.(a) Except as provided in subparagraph (b) any appropriate law enforcement officer or
+17 municipal animal control officer may take into temporary protective custody any animal when the
+18 owner or caretaker is not present and there is probable cause to believe that it has been or is being
+19 abusedorneglectedinviolationofparagraphsIIIorIII-awhenthereisaclearandimminentdanger
+20 to the animal's health or life and there is not sufficient time to obtain a court order. Such officer
+21 shallleaveawrittennoticeindicatingthetypeand numberof animals takenintoprotectivecustody,
+22 the name of the officer, the time and date taken, the reason it was taken, the procedure to have the
+23 animal returned and any other relevant information. Such notice shall be left at the location where
+24 the animal was taken into custody. The officer shall provide for proper care and housing of any
+25 animal taken into protective custody under this paragraph. Unless charges have been filed or a
+26 warrant establishing probable cause has been issued, the animal or animals shall be returned to the
+27 owner or their designee or caretaker upon request. If, after 7 days, the animal has not been
+28 returned or claimed, the officer shall petition the municipal or district court seeking either
+29 permanent custody or a one-week extension of custody or shall file charges under this section. If a
+30 week'sextensionisgrantedbythecourtandafteraperiodof14daystheanimalremainsunclaimed,
+31 the title and custody of the animal shall rest with the officer on behalf of the officer's department.
+32 The department may dispose of the animal in any lawful and humane manner as if it were the
+33 rightful owner. If after 14 days the officer or the officer's department determines that charges
+34 should be filed under this section, the officer shall petition the court. An owner of an animal taken
+35 intoprotectivecustodyshallhavetherightasreferencedinsubparagraphIV(a)(2).
+
+HB1766-FN-ASINTRODUCED
+-Page3-
+1 (b) For purposes of subparagraph (a) the investigating officer for livestock, as defined in
+2 RSA 427:38, III, shall be accompanied by the state veterinarian or their designee in person or by
+3 videowhoshallsettheprobablecausecriteriafortakingtheanimaloranimals.
+4 (c) In cases where one or more lactating animals are confiscated, proof shall be provided
+5 by the confiscating party to the attending veterinarian and the owner or caretaker that proper care
+6 andfacilitiesshallbeprovidedforadultsand offspring. Nolactatinganimalshallbeseparated from
+7 itsnon-weanedoffspringunlesssuchseparationisauthorizedbyalicensedveterinarian.
+8 (d) No person, other than an employee of a government agency with jurisdiction to
+9 investigate violations of this section, and which is conducting an investigation under this section,
+10 may take part in or be present during any investigation into a complaint conducted pursuant to this
+11 section. No person who may be called upon to take possession of any animal seized as a result of a
+12 complaintunderthissectionmayparticipateinthedecisiontoseizeanyanimal.
+13 (e) In order to protect the integrity of complaint investigations an appropriate law
+14 enforcementofficer shallrequire anypersonor theirdesignated agentcalled upontotake possession
+15 of any animal seized or to assist during any complaint investigation, to sign a binding nondisclosure
+16 agreement intended to protect any shared or confidential information against unauthorized use
+17 pending final adjudication or dismissal of such complaint; provided that information may be
+18 disclosedonlytoofficialswithaneedtoknowwhoaresubjecttoconfidentialityobligations.
+19 (f) No custodian of an animal in temporary protective custody under this section shall
+20 spay or neuter or otherwise permanently alter the confiscated animal in his or her custody pending
+21 final disposition of the court case unless a treating veterinarian deems such procedure necessary to
+22 save the life of the animal or the owner of the animal agrees in writing to the procedure or
+23 treatment. If the treating veterinarian determines the animal is in a state of extreme suffering, the
+24 animalmaybeeuthanized.
+25 3 VeterinarianAssistant. AmendRSA644:8,Vtoreadasfollows:
+26 V. A veterinarian licensed to practice in the state and the state veterinarian or their
+27 designee shall be held harmless from either criminal or civil liability for any decisions made for
+28 services rendered under the provisions of this section or RSA 435:11-16. Such a veterinarian or
+29 designee is, therefore, under this paragraph, protected from a lawsuit for his part in an
+30 investigationofcrueltytoanimals.
+31 4 StateVeterinarian;Powers. AmendRSA436:8toreadasfollows:
+32 436:8 Powers. The state veterinarian, under the direction of the commissioner, shall have all of
+33 the powers of the commissioner and shall have general charge of the enforcement of this chapter.
+34 Complaints under RSA 644:8, 644:8-a, 644:8-aa and any other law pertaining to the abuse of
+35 domestic animals, as defined under RSA 436:1, shall initially be filed with the local law enforcement
+36 agency, animal control officer, state police, or sheriff which has jurisdiction over where the animal is
+37 located or kept. At the request of the local law enforcement agency, animal control officer, state
+
+HB1766-FN-ASINTRODUCED
+-Page4-
+1 police, or sheriff, the state veterinarian shall assist in a secondary capacity in enforcing the
+2 provisions of and investigating said complaints. [In the event the commissioner becomes
+3 incapacitated or a vacancy occurs in the office, the state veterinarian shall perform all the duties of
+4 that office during any such incapacity or until any such vacancy is filled. The commissioner may
+5 direct the state veterinarian to act for him or her in an official capacity whenever he or she may be
+6 absentfromhisorherduties.]
+7 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2839
+12/15/25
+HB1766-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocrueltytolivestock.
+FISCALIMPACT:
+The Office of Legislative Budget Assistant is unable to complete a fiscal note for this bill as it is
+awaiting information from the Department of Agriculture, Markets, and Food. The Department
+was initially contacted on 11/5/25 for a fiscal note worksheet, with follow-up contact made on
+12/9/25. Whencompleted,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+AGENCIESCONTACTED:
+DepartmentofAgriculture,Markets,andFood

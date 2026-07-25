@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1499-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0490h
+05/07/2026 1772s
+2026SESSION
+26-2449
+06/07
+1499-FN
+HOUSEBILL
+ANACT relativetoadditionalgroundsforevictionunderthelandlordandtenantstatute.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. Bean, Belk. 6; Rep. Beaulier, Graf. 1; Rep.
+Berry, Hills. 44; Rep. Kuttab, Rock. 17; Rep. Osborne, Rock. 2; Rep. Sweeney,
+Rock.25;Sen.Innis,Dist7;Sen.Lang,Dist2
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows eviction if a tenant uses someone else’s personal information to obtain the rental
+or if the tenant or an occupant has certain criminal convictions, including improper entry as a non-
+citizen or a conviction requiring registration as a sexual offender or offender against children. The
+landlord cannot use a conviction disclosed in writing before the start of the tenancy as grounds for
+eviction.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1499-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0490h
+05/07/2026 1772s 26-2449
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoadditionalgroundsforevictionunderthelandlordandtenantstatute.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraphs; Termination of Tenancy. Amend RSA 540:2, II by inserting after
+2 subparagraph(i)thefollowingnewsubparagraphs:
+3 (j)(1) Use of any personal identification that does not belongto the tenant or occupant to
+4 obtainormaintainatenancy.
+5 (2) Personal identification in this subparagraph includes but is not limited to any
+6 birth certificate, driver’s license, government identification, passport, social security number, or
+7 taxpayeridentificationnumber.
+8 (k)(1) Thetenantoranyoccupantoftherentedpremiseshasbeenconvictedofanyofthe
+9 following:
+10 (A) Improper entry by alien under 8 U.S.C. section 1325(a) and the conviction is
+11 lessthan3yearspriortotheserviceoftheevictionnotice;
+12 (B) Any offense which requires registration as a “sexual offender” as defined by
+13 RSA 651-B:1, IV, unless registration is no longer required prior to the service of the eviction notice;
+14 or
+15 (C) Any offense which requires registration as an “offender against children” as
+16 defined by RSA 651-B:1, VI, unless registration is no longer required prior to the service of the
+17 evictionnotice.
+18 (2) Any conviction disclosed in writing by the tenant or occupant to the landlord or
+19 disclosed via a criminal background check run by the landlord prior to the start of any tenancy shall
+20 prevent the landlord from later terminating the tenancy for any specific conviction disclosed. If the
+21 landlord does not conduct a background check or request disclosure on the tenant application form,
+22 thelandlordshallnotbeentitledtothegroundsforevictionestablishedbysubparagraphII(k)(1).
+23 (3) If any provision of this subparagraph or the application thereof to any person or
+24 circumstances is held invalid, such invalidity shall not affect other provisions or applications of the
+25 subparagraph which can be given effect without the invalid provision or application, and to this end
+26 theprovisionsofthissubparagrapharedeclaredtobeseverable.
+27 2 New Paragraph; Termination of Tenancy. Amend RSA 540:2 by inserting after paragraph
+28 VIIIthefollowingnewparagraph:
+
+HB1499-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 IX. AnyevictionbroughtpursuanttoRSA540:2,II(j)or(k)shallnameasdefendantonlythe
+2 person or persons alleged to have violated RSA 540:2, II(j) or (k) without naming remaining
+3 membersofthehouseholdandthecourtmayenterjudgmentagainstonlythenameddefendants.
+4 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2449
+5/8/26
+HB1499-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1772s)
+ANACT relativetoadditionalgroundsforevictionunderthelandlordandtenantstatute.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Increase$10,000 Increase$10,000 Increase$10,000
+to$100,000 to$100,000 to$100,000
+RevenueFund(s) GeneralFund
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$200,000to $200,000to $200,000to
+$700,000 $700,000 $700,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill expands the grounds for eviction to include use of another person’s personal
+identification to obtain or maintain a tenancy, convictions for improper entry under federal law
+within specified timeframes, and convictions requiring registration as a sexual offender or
+offender against children, subject to certain limitations. The bill also prohibits eviction based on
+convictions disclosed in writing by the tenant or occupant prior to the tenancy or disclosed
+throughacriminalbackgroundcheckconductedbythelandlordpriortothetenancy.
+The Judicial Branch states the bill would require modification of its case management system,
+updates to training materials and forms, and would increase the number of eviction cases filed
+statewide. The Branch notes that in 2024 there were 5,736 landlord-tenant cases filed, most of
+which were eviction actions, and that expanding eligibility for eviction will increase caseloads by
+anindeterminableamount. Totheextentevictionfilingsincrease,theBranchanticipatesaneed
+for at least one additional judge and several court operations specialists. Because the total
+increase in filings and their distribution across Circuit Court District Divisions cannot be
+precisely determined, the Branch estimates increased General Fund expenditures of an
+indeterminableamountofmorethan$200,000andlessthan$700,000peryear.
+
+TheJudicialBranchalsoanticipatesincreasedfilingfeerevenuefromadditionallandlord-tenant
+filings. At the current filing fee of $150, the Branch estimates General Fund revenue will
+increasebyanindeterminableamountofmorethan$10,000andlessthan$100,000annually.
+AGENCIESCONTACTED:
+JudicialBranch

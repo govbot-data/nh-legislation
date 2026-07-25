@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1405-FN-ASINTRODUCED
+2026SESSION
+26-2936
+07/08
+1405-FN
+HOUSEBILL
+ANACT relativetothehousingfinanceauthority'saffordablehousingguaranteeprogram.
+SPONSORS: Rep. Muns, Rock. 29; Rep. Booras, Hills. 8; Rep. de Vries, Rock. 29; Rep. Hegner,
+Hills. 41; Rep. Howland, Straf. 20; Rep. Lane, Merr. 16; Rep. Maggiore, Rock. 23;
+Rep.D.Paige,Carr.1;Rep.Read,Rock.10;Rep.Stavis,Graf.13;Sen.Altschiller,
+Dist24;Sen.PerkinsKwoka,Dist21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Establishes an affordable housing guarantee program within the housing finance authority to
+promoteaffordablehousingforlow-andmoderate-incomepersons.
+II. Requires the housing finance authority to offer loan guarantees to lenders who have current
+approvaltoprovidefinancingthroughthehousingfinanceauthoritytoreducetheriskoftheirloans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1405-FN-ASINTRODUCED
+26-2936
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothehousingfinanceauthority'saffordablehousingguaranteeprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Affordable Housing Guaranteed Loan Program. Amend RSA 204-C by
+2 insertingaftersection92thefollowingnewsubdivision:
+3 AffordableHousingGuaranteedLoanProgram
+4 204-C:93 Definitions. Inthissubdivision:
+5 I. "Affordablehousing"means:
+6 (a) Housing whose combined rental and utility costs, or combined mortgage loan debt
+7 services, property taxes, and required insurance, do not exceed 30 percent of the gross income of
+8 personsoflowormoderateincome.
+9 (b) Manufactured housing parks, as defined in RSA 205-A:1, provided that the park
+10 meetsthefollowingconditions:
+11 (1) The majority of residents, as evidenced by a survey conducted within 3 years of
+12 loanorigination,attesttobeingoflowormoderateincome;and
+13 (2) Lot rents and fees are determined to be affordable to residents of low and
+14 moderateincomeaccordingtocriteriaestablishedbytheauthority.
+15 (c) Homes for persons with disabilities, mobile homes, prefabricated homes, or any
+16 buildings, land, improvements, equipment, facilities, or other real or personal property deemed by
+17 theauthoritytobenecessary,convenient,ancillary,ordesirable.
+18 II. "Authority"meansthehousingfinanceauthorityestablishedunderRSA204-C:2.
+19 III. "Person of low income" means any individual or family whose gross income is greater
+20 than 50 percent, but less than or equal to 60 percent, of the state median income, which may be
+21 adjustedbasedonthenumberofpersonslivinginagivenhousehold.
+22 IV. "Person of moderate income" means any individual or family whose gross income is
+23 greaterthan60percent, butless thanor equal to80percent,of thestatemedianincome, whichmay
+24 beadjustedbasedonthenumberofpersonslivinginagivenhousehold.
+25 V. "Person of very low income" means any individual or family whose gross income is less
+26 thanor equal to50 percent of thestate medianincome, which maybe adjusted based onthe number
+27 ofpersonslivinginagivenhousehold.
+28 204-C:94 Rulemaking. The authority shall adopt rules, pursuant to its own procedures, relative
+29 to:
+30 I. Theconductofitsbusiness;
+31 II. Theselectionandmaintenanceofeligiblelenders;
+
+HB1405-FN-ASINTRODUCED
+-Page2-
+1 III. The schedule of fees and guarantee premiums to be charged for the issuance of
+2 certificatesofguaranteeorotherservices;
+3 IV. The types of activities eligible for financing with loans guaranteed pursuant to this
+4 subdivision;and
+5 V. Any matter necessary to carry out the powers and duties of the authority under this
+6 subdivision.
+7 204-C:95 Administration;Eligibility;Demonstration.
+8 I. The authority shall make a good faith effort to approve applications from nonprofit and
+9 for-profit lending organizations which provide, or are planning to provide, loans for the creation or
+10 preservation of affordable housing, consistent with the criteria established in this subdivision and
+11 rules adopted by the authority. When entering into contracts for guaranteed loans pursuant to this
+12 subdivision, the authority shall require that applicants demonstrate that they satisfy the
+13 requirementsofthissection.
+14 II. Eachapplicantshall:
+15 (a) Register with thesecretary of stateas aprivate, nonprofit or for-profit entity, or be a
+16 municipalhousingauthority.
+17 (b) Demonstrateaneedforaproposedloantodeveloporpreserveaffordablehousing.
+18 (c) Demonstratethattheborrowerhasagreedtoprovideaffordablehousingtopersonsof
+19 verylow,low,ormoderateincome,asdefinedinthissubdivision.
+20 (d) Demonstratethattheborrowerisfiscallysound,asshowninafinancialstatement.
+21 (e) Possessallnecessarylicensesandapprovalstooffercommercialloansinthisstate.
+22 (f) Establish procedures to monitor borrowers to ensure ongoing compliance with this
+23 subdivisionandrulesoftheauthorityforthetermoftheguaranteedloan.
+24 III. Loan guarantee recipients shall demonstrate to the authority the disposition of any
+25 money provided under the affordable housing guaranteed loan program, as defined by rules
+26 establishedbytheauthority.
+27 204-C:96 Guarantee. Upon application from a lender, in such form as the authority may
+28 require, the authority may issue, or commit itself to issue to the lender or its assigns, a certificate of
+29 guarantee equal to 80 percent of the principal due on the loan. In no instance shall any loan
+30 principalguaranteedunderthissectionexceed$30,000,000perlenderperfiscalyear. Theaggregate
+31 amountofloansguaranteedunderthissectionshallnotexceed$300,000,000atanytime.
+32 204-C:97 Guarantee Certificate Conclusive. A certificate of guarantee issued by the authority,
+33 inthehandsoftheoriginallendertowhomthecertificatewasissued,shallbeconclusiveevidenceof
+34 itsvalidityforthepurposesofthissubdivision,exceptininstancesoffraud.
+35 204-C:98 Guarantee; Creditof StatePledged. The fullfaithand creditof thisstateispledged to
+36 support and redeem certificates of guarantee issued by the authority. In furtherance of that pledge,
+37 the state treasurer shall advance to the authority, from available moneys in the treasury, such
+
+HB1405-FN-ASINTRODUCED
+-Page3-
+1 amounts as may be requested from time to time by the authority to enable it to perform all
+2 guaranteed obligations punctually and in accordance with their terms. The authority shall request
+3 such advances from time to time as required for such purpose. The treasurer shall report any such
+4 advancestothejointfiscalcommitteeatitsnextmeeting.
+5 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2936
+11/25/25
+HB1405-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothehousingfinanceauthority'saffordablehousingguaranteeprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $20,000 $15,000 $15,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates an affordable housing guarantee program through the New Hampshire Housing
+FinanceAuthority(NHHFA)forlowandmoderateincomecitizens. ItwouldletNHHFAbackup
+to 80% of a loan from a bank or lender. Each lender could get up to $30 million in loan
+guaranteesperfiscalyear,withatotalstatewidelimitof$300millionatanytime. The program
+sets rules for who can qualify, based on income and housing costs, and provides a state
+guaranteetoprovidemoneyifneededtokeeptheprogramrunning.
+The NHHFA states the program is expected to cost the $20,000 in its first year and $15,000
+annually thereafter, primarily for staffing and administrative expenses. These costs would
+initially be covered by General Funds, but NHHFA anticipates offsetting them over time by
+charginglendersamodestmonthlyfee.
+The Treasury Department states that the bill would have no immediate impact unless someone
+defaults on a loan, in which the state would be required to pay the loans guarantee, therefore
+any future impact is indeterminable. However, the potential liability of the state would be up to
+$300 million. This structure may complicate the calculation of the state’s debt limit under RSA
+6-C.
+AGENCIESCONTACTED:
+
+NewHampshireHousingFinanceAuthorityandTreasuryDepartment

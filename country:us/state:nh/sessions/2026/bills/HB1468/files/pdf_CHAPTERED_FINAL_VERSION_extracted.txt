@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER170
+HB1468-FINALVERSION
+04/09/2026 1234s
+2026SESSION
+26-3061
+06/08
+1468
+HOUSEBILL
+ANACT relativetoafloodresiliencesectioninmunicipalmasterplans.
+SPONSORS: Rep. Vail, Hills. 6; Rep. Damon, Sull. 8; Rep. Cloutier, Sull. 6; Rep. J. Aron, Sull. 4;
+Rep.Berch,Ches.6;Rep.W.Thomas,Hills.12;Sen.Ward,Dist8
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillprovidesforanoptionalfloodresiliencesectioninmunicipalmasterplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER170
+HB1468-FINALVERSION
+04/09/2026 1234s 26-3061
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoafloodresiliencesectioninmunicipalmasterplans.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 170:1 NewSubparagraph;MasterPlan;FloodResilienceSection. AmendRSA674:2,IIIbyinserting
+2 aftersubparagraphpthefollowingnewsubparagraph:
+3 (q) A flood resilience section that identifies existing and potential flood risks affecting the
+4 municipality, including but not limited to riverine flooding, stormwater runoff, culverts, drainage systems,
+5 erosion-prone areas, and areas subject to repeated flood damage, and which establishes goals and
+6 recommendations for reducing flood-related risks to public safety, property, municipal infrastructure,
+7 evacuationroutes,andemergencyaccess.
+170:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June19,2026
+EffectiveDate:August18,2026

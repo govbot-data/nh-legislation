@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1462 -ASINTRODUCED
+2026SESSION
+26-3213
+08/09
+1462
+HOUSEBILL
+ANACT relativetoelectionlawcomplaints.
+SPONSORS: Rep. Burnham, Straf. 2; Rep. Berry, Hills. 44; Rep. Bjelobrk, Graf. 5; Rep. DeRoy,
+Straf.3;Rep.Potenza,Straf.19;Rep.Wherry,Hills.13
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of justices to create an election law complaint form and to
+investigatecomplaints allegingavoter haswrongfullyvotedbyimproperlyclaimingdomicileinNew
+Hampshirethatarefiledusingsuchformandsubjecttocertainrestrictions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1462-ASINTRODUCED
+26-3213
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoelectionlawcomplaints.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Election Complaints. Amend RSA 654 by inserting after section 1 the following
+2 newsection:
+3 654:1-a Complaints.
+4 I.(a) The department of justice shall prepare and make available an election law complaint
+5 form for use by any person alleging that a voter has wrongfully voted by improperly claiming
+6 domicileinNewHampshire.
+7 (b) The form shall be available at the department of justice and at the secretary of
+8 state'sofficeandmayalsobemadeavailableonline.
+9 (c) No investigation under this section shall commence until a completed election law
+10 complaintformhasbeenreceivedbythedepartmentofjustice.
+11 II. Upon receipt of a properly completed election law complaint form, the attorney general
+12 mayinvestigatethecomplaintwithintheboundsofthissection.
+13 III. In the course of an investigation under this section, the attorney general may ask the
+14 voter,orobtainbyotherlawfulmeans,informationaboutwhetherthevoter:
+15 (a) Has ever voted in a state other than New Hampshire after being approved to vote in
+16 NewHampshire;
+17 (b) Has converted his or her New Hampshire domicile to a rental property and ceased
+18 spendingmorethandeminimistimelivinginit;
+19 (c) Hasprovidedanyfalseinformationatthetimeofbeingapprovedtovote;or
+20 (d) Has engaged in civic activity in New Hampshire or in another state, and to what
+21 extent.
+22 IV. In the course of an investigation under this section, the attorney general shall not ask
+23 the voter, or obtain by other means, information about any other aspects of the voter's private life,
+24 includingbutnotlimitedto:
+25 (a) The square footage of the voter's New Hampshire domicile compared to any other
+26 homeownedelsewhere;
+27 (b) Wherethevoterreceivesmedicalormentalhealthcare;
+28 (c) Theamountofthevoter'selectricityorheatingbill;
+29 (d) Thestateorlocaljurisdictionsinwhichthevoterpaystaxes;
+30 (e) Talkingtothevoter'semployeesortenants;or
+31 (f) Talkingtothevoter'sestrangedfamilyorfriends.
+
+HB1462 -ASINTRODUCED
+-Page2-
+1 V. The department of justice may adopt rules under RSA 541-A as necessary to implement
+2 this section, including but not limited to the format of the complaint form and procedures for its
+3 submissionandprocessing.
+4 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

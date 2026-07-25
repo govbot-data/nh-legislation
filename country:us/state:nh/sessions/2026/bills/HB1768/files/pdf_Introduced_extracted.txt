@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1768-FN-ASINTRODUCED
+2026SESSION
+26-2926
+06/08
+1768-FN
+HOUSEBILL
+ANACT relative to free day-use admission and metered parking at state parks for all
+honorablydischargedstateresidentveterans.
+SPONSORS: Rep.Bridle,Rock.29;Rep.Bordes,Belk.5;Rep.Coker,Belk.2;Rep.Edgar,Rock.
+29;Rep.McGrath,Rock.40
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes that honorably discharged New Hampshire veterans are exempt from day-
+useandmeteredparkingfeesatstateparksuponpresentingacceptableproofofstatus.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1768-FN-ASINTRODUCED
+26-2926
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to free day-use admission and metered parking at state parks for all
+honorablydischargedstateresidentveterans.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Fees for Park System. Amend RSA 216-A:3-g by inserting after paragraph V
+2 thefollowingnewparagraph:
+3 V-a.(a) Notwithstanding any other law to the contrary, except paragraph II, no New
+4 Hampshire resident who has been honorably discharged from the United States Armed Forces shall
+5 bechargedafeeforadmissiontoday-useareasofthestateparksystem.
+6 (b) No metered parking fee shall be charged at any state park lot, including but not
+7 limitedtoHamptonBeachSouthandWallisSands,foranyvehicledisplayingaveteranlicenseplate
+8 issuedbytheNewHampshiredivisionofmotorvehicles.
+9 (c) Satisfactoryproofof honorable dischargemayinclude, butis not limitedto, aveteran
+10 license plate, a DD-214 form, or other documentation recognized by the division of motor vehicles or
+11 thedepartmentofnaturalandculturalresources.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2926
+Revised1/5/26
+HB1768-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to free day-use admission and metered parking at state parks for all
+honorablydischargedstateresidentveterans.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Decrease Decrease Decrease
+Revenue $0
+($200,000to ($200,000to ($200,000to
+$450,000) $450,000) $450,000)
+RevenueFund(s) StateParkFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill exempts honorably discharged New Hampshire resident veterans from state park day
+useadmissionfeesandexemptsvehiclesdisplayingaNewHampshireveteranlicenseplatefrom
+meteredparkingfeesatstateparks.
+The Department of Natural and Cultural Resources states this bill would reduce revenues to the
+State Park Fund beginning in FY 2027. The Department, during the 2025 operating season,
+generated $5,178,239 in state park day use fees and $3,083,467 in parking meter fees, for total
+combined revenues of $8,261,706. Based on data published by New Hampshire Employment
+Security, approximately 7% of New Hampshire residents are veterans. Because the Department
+does not track either the residency or veteran status of park visitors, it assumed that between
+33% and 75% of park visitors are New Hampshire residents, and that 7% of those residents
+wouldqualifyfortheexemption.
+Using those assumptions, the Department estimates the annual revenue loss for a full operating
+seasonwouldrangefromapproximately$190,845to$433,740.
+AssumedShareofNHResidentVisitors EstimatedAnnualRevenueLoss
+33%ofvisitors $190,845
+50%ofvisitors $289,160
+
+66%ofvisitors $381,691
+75%ofvisitors $433,740
+The Department states this bill would not increase state expenditures and would not require
+additionalstaff.
+AGENCIESCONTACTED:
+DepartmentofNaturalandCulturalResources

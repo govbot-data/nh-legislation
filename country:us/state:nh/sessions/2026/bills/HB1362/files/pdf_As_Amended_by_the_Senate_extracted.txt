@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1362-ASAMENDEDBYTHESENATE
+11Mar2026...1022h
+05/07/2026 1613s
+2026SESSION
+26-3082
+06/08
+1362
+HOUSEBILL
+ANACT relativetomotorvehicleequipmentspecifications.
+SPONSORS: Rep.T.Walsh,Merr.10
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillestablishesmotorvehiclestandardsfortiretreaddepthandbrakeliningmeasurements
+andinspectionstandardsforvehiclesteeringandsuspensionsystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1362-ASAMENDEDBYTHESENATE
+11Mar2026...1022h
+05/07/2026 1613s 26-3082
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomotorvehicleequipmentspecifications.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Equipment of Vehicles; Tire Tread Depth. Amend RSA 266 by inserting after
+2 section48thefollowingnewsection:
+3 266:48-a TireTreadDepth;MeasurementRequirements.
+4 I. No person shall drivea motor vehicle uponany wayunless each tiremounted thereon has
+5 aminimumtreaddepthofnotlessthan2/32ofaninch.
+6 II. Notwithstanding any other provision of law to the contrary, this section shall not apply
+7 to:
+8 (a) Commercialmotorvehicles,asdefinedinRSA259:12-e,thatexceed10,000poundsin
+9 weight.
+10 (b) Schoolbuses,asdefinedinRSA259:96,thatexceed10,000poundsinweight.
+11 (c) Mixed use school buses, as defined in RSA 259:96-a, that exceed 10,000 pounds in
+12 weight.
+13 2 New Section; Equipment of Vehicles; Brake Performance; Brake Lining Measurements.
+14 AmendRSA266byinsertingaftersection28thefollowingnewsection:
+15 266:28-a BrakeLiningMeasurement;LiningThickness.
+16 I. No person shall drive a motor vehicle upon any way unless the brake lining or friction
+17 materialateachwheelhasaminimumthicknessof2/32ofaninch.
+18 II. Brake lining measurements shall be performed using a brake gauge, caliper, or other
+19 suitablemeasuringdevicecalibratedinthirty-secondsofaninch.
+20 (a) Forbrakeshoesordiscbrakepadswithrivetedlinings,measurementsshallbetaken
+21 tothetopofanyrivethead.
+22 (b) For brake shoes or disc brake pads with bonded linings, measurements shall be
+23 takenatthethinnestpointofthefrictionmaterial.
+24 III. Notwithstanding any other provision of law to the contrary, this section shall not apply
+25 to:
+26 (a) Commercialmotorvehicles,asdefinedinRSA259:12-e,thatexceed10,000poundsin
+27 weight.
+28 (b) Schoolbuses,asdefinedinRSA259:96,thatexceed10,000poundsinweight.
+29 (c) Mixed use school buses, as defined in RSA 259:96-a, that exceed 10,000 pounds in
+30 weight.
+
+HB1362-ASAMENDEDBYTHESENATE
+-Page2-
+1 3 NewSubdivision;SteeringandSuspension. AmendRSA266byinsertingaftersection117the
+2 followingnewsubdivision:
+3 SteeringandSuspension
+4 266:118 SteeringandSuspensionStandards.
+5 I. No vehicle shall be operated on the ways of this state if, upon inspection, any of the
+6 followingconditionsarefound:
+7 (a) Steeringlinkagefree-playexceedsthemanufacturer'sspecifications.
+8 (1) Inexcessof1/4inchforwheels16inchesorlessindiameter;
+9 (2) Inexcessof3/8inchforwheels17or18inchesindiameter;or
+10 (3) Inexcessof1/2inchforwheelsover18inchesindiameter.
+11 (b) Anywheelbearingthatisnotwithinthemanufacturer'stoleranceforlooseness.
+12 (c) Anyballjointisbroken,cracked,orexceedsthemanufacturer'sspecifications.
+13 II. For purposes of this section, "manufacturer's specifications" means the tolerances and
+14 standards established by the original equipment manufacturer for the safe operation of the specified
+15 systemorcomponent.
+16 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.

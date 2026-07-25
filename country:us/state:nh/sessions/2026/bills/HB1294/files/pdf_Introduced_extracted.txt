@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1294-FN-ASINTRODUCED
+2026SESSION
+26-2822
+06/08
+1294-FN
+HOUSEBILL
+ANACT relativetospeedregulationonRoute125inBrentwood.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. L. Miner, Rock. 7; Rep. DeVito, Rock. 8; Rep.
+Weyler,Rock.14;Sen.Gannon,Dist23
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill sets the speed limit on the portion of Route 125 located in the town of Brentwood,
+betweentheEppingtownlineandtheKingstontownline,at45milesperhour.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1294-FN-ASINTRODUCED
+26-2822
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetospeedregulationonRoute125inBrentwood.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. ThegeneralcourtherebyfindsthataRoadSafetyAuditcompletedinFebruary2024
+2 concluded that lower speed limits may enhance safety on this stretch of highway. The purpose of
+3 thisactistoenhancepublicsafetyforallusersofRoute125inBrentwood.
+4 2 New Subparagraph; Speed Limit on Route 125 in Brentwood. Amend RSA 265:62, IV by
+5 insertingaftersubparagraph(b)thefollowingnewsubparagraph:
+6 (c) NotwithstandingtheprovisionsofparagraphIandRSA265:60,II,thespeedlimit on
+7 that portion of Route 125 located in the town of Brentwood, between the Epping town line and the
+8 Kingston town line, shall be 45 miles per hour. The department of transportation shall install
+9 suitable signage reflecting the posted limit on this segment. The local police department shall have
+10 primaryresponsibilityforenforcement.
+11 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2822
+11/21/25
+HB1294-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetospeedregulationonRoute125inBrentwood.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

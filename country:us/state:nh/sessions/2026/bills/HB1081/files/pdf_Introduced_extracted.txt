@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1081-FN-ASINTRODUCED
+2026SESSION
+26-2587
+07/08
+1081-FN
+HOUSEBILL
+ANACT requiring political committees to certify with the secretary of state whether they
+have, or anticipate having, less than $1,000 in receipts or expenditures in an
+electioncycle.
+SPONSORS: Rep.Lane,Merr.16;Rep.H.Howard,Straf.4;Sen.PerkinsKwoka,Dist21
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequirespoliticalcommittees tocertifywiththesecretaryofstatewhethertheyhave, or
+anticipatehaving,lessthan$1,000inreceiptsorexpendituresinanelectioncycle.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1081-FN-ASINTRODUCED
+26-2587
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring political committees to certify with the secretary of state whether they
+have, or anticipate having, less than $1,000 in receipts or expenditures in an
+electioncycle.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Elections; Reports; Reporting by Political Committees. Amend RSA 664:6, IV to read as
+2 follows:
+3 IV. Any political committee not subject to a registration fee under RSA 664:3 which has any
+4 outstanding debt, obligation, or surplus following the election cycle shall have its registration
+5 automatically renewed for the next election cycle. All other registered political committees will be
+6 conditionallyrenewed pendingreceipt bythesecretaryof stateof theregistrationfeerequired under
+7 RSA 664:3. Political committees that report a zero balance and notify the secretary of state that
+8 they are filing their final statement will expire. Statements shall continue to be filed according to
+9 RSA 664:6, I until a zero balance is reported. All political committees shall file an electronic
+10 confirmation notice with the secretary of state's office certifying whether or not they have
+11 expended,orreceived,morethan$1,000inthepriorelectioncycle.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2587
+11/6/25
+HB1081-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring political committees to certify with the secretary of state whether they
+have, or anticipate having, less than $1,000 in receipts or expenditures in an
+electioncycle.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$30,000to
+Expenditures* $0 $0 $0
+$50,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires all political committees to file an electronic confirmation notice with the
+Secretary of State's Office certifying whether or not they have expended, or received, more than
+$1,000inthepriorelectioncycle.
+The Department of State indicates that this bill would require updates to the campaign finance
+systematanestimatedcostfor$30,000to$50,000inordertoreceivesuchconfirmationnotices.
+AGENCIESCONTACTED:
+DepartmentofState

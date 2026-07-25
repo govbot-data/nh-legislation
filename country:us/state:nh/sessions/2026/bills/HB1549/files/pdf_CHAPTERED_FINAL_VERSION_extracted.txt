@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER134
+HB1549-FINALVERSION
+19Feb2026...0625h
+2026SESSION
+26-2795
+06/08
+1549
+HOUSEBILL
+ANACT establishing that titles, bills of sale, and identification documents are required only at
+initialregistrationortransferofownership.
+SPONSORS: Rep.McFarlane,Graf.18;Rep.Giasson,Hills.29;Rep.Granger,Straf.2
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill limits the requirement to present ownership and identification documents to the initial
+registrationortransferofavehicleandaffirmsthatpriorregistrationissufficientforrenewal.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER134
+HB1549-FINALVERSION
+19Feb2026...0625h 26-2795
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing that titles, bills of sale, and identification documents are required only at
+initialregistrationortransferofownership.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 134:1 Purpose. Thegeneralcourtfindsthat:
+2 I. The current text of RSA 261:148 has resulted in uncertainty as to whether proof of ownership
+3 and identification documents must be presented at each annual vehicle registration, rather than only at
+4 initialregistrationortransferofownership.
+5 II. Related provisions of RSA 261, including RSA 261:10 through RSA 261:14, require proof of
+6 titleonlyatinitialregistrationorownershiptransfer.
+7 III. Paragraphs II and III of RSA 261:148 (regarding bills of sale) do not explicitly limit these
+8 requirements to initial registration or transfer, causing potential ambiguity inconsistent with the chapter’s
+9 structureandpurpose.
+10 IV. The purpose of RSA 261:148 is to establish ownership upon first registration and to prevent
+11 fraud,nottorequirerepeateddocumentationateachrenewal.
+12 V. It is in the public interest to align statutory language with established practice and clarify
+13 requirementsforclerks,residents,andlawenforcement.
+14 134:2 PermitRequired. AmendRSA261:148toreadasfollows:
+15 261:148 Permit Required. No vehicle, except an OHRV, snowmobile or moped, owned or controlled
+16 byaresidentofthisstateshallberegisteredundertheprovisionsofthischapteruntiltheownerorperson
+17 controlling the same has obtained a permit for registration from the city or town wherein he resides. The
+18 documentationrequirementsofparagraphsIthroughIIIshallapplyonlyatthetimeofinitialregistrationof
+19 avehicleinthisstateorupontransferofownership. This section shall not apply to vehicles which
+20 constitutestockintradeofamanufacturerorofabonafidedealer. Thetownorcityclerkshallissuesuch
+21 permits to vehicles exempted from registration fees under RSA 261:92 at no charge. If the town or city
+22 has adopted the provisions of RSA 231:130-a, no such permit shall be issued unless the town or city
+23 clerk's records reveal no outstanding parking violations in this state. No such permit shall be issued
+24 unlesstheownerorpersoncontrollingthevehiclepresentstothetownorcityclerk:
+25 I. A current, government-issued photo identification card and a certificate of title, if required by
+26 theprovisionsofthischapter,orapplicationforsuchcertificateoftitle;or
+27 II. In the case of a vehicle exempted from the title requirements of this chapter, a current,
+28 government-issuedphotoidentificationcardand:
+29 (a) Abillofsalefromsuchpreviousowner;or
+30 (b) If the previous owner was a dealer in vehicles, a temporary registration certificate or an
+31 applicationforacertificateoftitle.
+
+CHAPTER134
+HB1549-FINALVERSION
+-Page2-
+1 III. The bill of sale required by the provisions of paragraph II shall contain the following
+2 information:
+3 (a) Thedateofthesale;
+4 (b) Adescriptionofthevehicleincluding:
+5 (1) Make;
+6 (2) Model;
+7 (3) Vehicleidentificationnumber;
+8 (4) Modelyear;
+9 (5) Yearofmanufacture;
+10 (6) Typeofbody;and
+11 (7) Numberofcylinders.
+12 (c) Nameandaddressofpurchaser;and
+13 (d) Signatureandaddressofseller.
+14 IV. In the case of any vehicle, a certificate of registration to the same owner for a current or
+15 previousregistrationperiod. The clerkmay waivethe requirement for aphysical copyof thecertificate of
+16 registrationiftheclerkhasaccesstotheelectronicsystemofrecordandcanverifytheinformationforthe
+17 currentorpreviousregistrationperiod.
+18 V. Nothinginthissectionshallbeconstruedtorequirepresentationofacertificateoftitle,billof
+19 sale,oridentificationdocumentsatannualregistrationrenewal,exceptwhereownershiphaschangedor
+20 thevehicleisbeingregisteredinthestateforthefirsttime.
+134:3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June12,2026
+EffectiveDate:August11,2026

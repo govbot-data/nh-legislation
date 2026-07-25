@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1833-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0700h
+2026SESSION
+26-2886
+08/06
+1833-FN
+HOUSEBILL
+ANACT creating a special license for non-resident vessel operators participating in tuna
+tournaments.
+SPONSORS: Rep. Bridle, Rock. 29; Rep. Bernardy, Rock. 36; Rep. McGrath, Rock. 40; Rep.
+Porcelli,Rock.19;Rep.SabourinditChoiniere,Rock.30
+COMMITTEE: FishandGameandMarineResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a special license for non-resident vessel operators participating in tuna
+tournaments.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1833-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0700h 26-2886
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating a special license for non-resident vessel operators participating in tuna
+tournaments.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Nonresident Special Tuna License. Amend RSA 211 by inserting after section
+2 49-ethefollowingnewsection:
+3 211:49-f NonresidentSpecialTunaLicense.
+4 I. Any person who does not qualify as a resident under RSA 207:1, who takes, possesses,
+5 lands, or transports, as part of a tuna tournament, from or on the waters of this state, regardless of
+6 wherethecatchwastaken,anytunaspeciesbyanymethodforthepurposeofsellingthesame,shall
+7 first procure a valid license from the executive director to do so. A special tuna license shall be
+8 issued to a nonresident operator of the vessel who is a registered participant in a tuna tournament
+9 that is sponsored and operated by a nonprofit association that has existed for at least one year prior
+10 to the tournament. An individual shall not be issued more than one license per one eligible tuna
+11 tournament in any one calendar year. This license shall only be valid for the dates of the eligible
+12 tuna tournament, not to exceed 10 days. No other marine species may be taken, possessed, landed,
+13 ortransportedforthepurposeofsaleunderthislicense.
+14 II. The fee for an annual license shall be set by the executive director pursuant to RSA
+15 206:10, I. The executive director shall establish a surcharge on each license issued under this
+16 section of not more than $25, nor less than $10, to be deposited in the derelict fishing gear and
+17 coastal cleanup fund established in RSA 211:77 and shall adopt rules under RSA 541-A for
+18 implementing and collecting the surcharge. Any person who satisfactorily demonstrates to the
+19 executive director that he or she is participating in a coastal cleanup program shall not be required
+20 to pay the surcharge. The executive director shall adopt rules pursuant to RSA 541-A to determine
+21 what constitutes satisfactory participation in a coastal cleanup program and to account for licensees
+22 whoareexemptfromthesurchargeeachyear.
+23 III. Licensees shall be responsible for conducting their fishing activities in compliance with
+24 rulesadoptedbytheexecutivedirectorunderRSA541-A.
+25 IV. Any person so licensed shall furnish to the executive director such information
+26 concerning marine species and fishing activities as the executive director may require by rules
+27 adoptedunderRSA541-A.
+28 V. Anypersonconvictedofviolatinganyprovisionofthissectionshallbeguiltyofaviolation
+29 ifanaturalpersonorguiltyofamisdemeanorifanyotherperson. Inaddition,thedefendant'scatch
+30 shall be confiscated and sold according to rules adopted by the executive director pursuant to RSA
+
+HB1833-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 541-A, the proceeds of such sale shall become the property of the New Hampshire fish and game
+2 department.
+3 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2886
+03/19/2026
+HB1833-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0700h)
+ANACT creating a special license for non-resident vessel operators participating in tuna
+tournaments.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+DerelictFishingGearandCoastalCleanupFund
+RevenueFund
+FishandGameSystemCosts-
+$15,000to$25,000inFY2027
+Expenditures* $0
+CriminalPenaltyRelatedCosts-Indeterminable
+FundingSource FishandGameFund,GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill establishes a new special tuna license for nonresidents who take, possess, land,
+transport, or sell tuna in connection with a tuna tournament involving New Hampshire waters.
+The license must be obtained from the Fish and Game Department and is issued to a
+nonresident vessel operator participating in a qualifying nonprofit-sponsored tournament. A
+license is valid only for the tournament dates, not to exceed 10 days, and authorizes the
+commercial handling of tuna only. The Executive Director is authorized to set the license fee
+and must impose a $10 to $25 surcharge to support the Derelict Fishing Gear and Coastal
+CleanupFund,withexemptionsavailableforparticipantsinapprovedcoastalcleanupprograms.
+
+As this bill would create a new license type that does not currently exist, the Department states
+it would need to create a new license type within the licensing system and build functionality to
+track tournament-specific license validity periods. While the Department cannot estimate the
+exact cost for changes to the licensing database and related infrastructure to add a new license
+type, based on recent experience, similar system modifications have cost the Department over
+$20,000. Acomparablerangeof$15,000to$25,000isareasonableestimateforthiswork.
+The Department states that the revenue impact of this bill is indeterminable. Currently, it
+issues nonresident commercial saltwater licenses at a fee of $500, and in licensing years 2023
+and2024,16nonresidentlicenseeswhotargetedtunageneratedapproximately$8,000inannual
+revenue. The Department cannot determine whether these individuals were participating in
+tuna tournaments, nor can it estimate how many would seek the proposed special tuna
+tournament license or whether additional operators would apply. Because the fee for the new
+license would be set through administrative rulemaking, potential revenue is uncertain. To
+avoidanetloss,revenuefromthenewlicensewouldneedtoexceedcurrentcollectionsandcover
+anycostsassociatedwithsystemchangesandadditionalstafftime.
+Also,thisbilladds,deletes,ormodifiesacriminal penalty,orchangesstatutetowhichthereis a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Fish and Game Department, Judicial Branch, Judicial Council, Department of Justice,
+Department of Corrections, New Hampshire Association of Counties, and New Hampshire
+MunicipalAssociation

@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1505-FN-ASINTRODUCED
+2026SESSION
+26-2503
+07/06
+1505-FN
+HOUSEBILL
+ANACT requiring municipalities, towns, and cities to submit documentation to the
+department of revenue administration proving they are in compliance with local
+budgetandtaxcaps.
+SPONSORS: Rep. Pauer, Hills. 36; Rep. Ammon, Hills. 42; Rep. Girard, Sull. 6; Rep. Granger,
+Straf.2; Rep.Kofalt, Hills. 32;Rep. Lascelles,Hills. 14; Rep.McFarlane, Graf. 18;
+Rep. D. McGuire, Merr. 14; Rep. Sweeney, Rock. 25; Rep. Vose, Rock. 5; Sen.
+Avard,Dist12;Sen.Gannon,Dist23;Sen.Murphy,Dist16
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequires municipalities,towns,and citiestosubmitdocumentationtothedepartment of
+revenueadministrationprovingtheyareincompliancewithlocalbudgetandtaxcaps.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1505-FN-ASINTRODUCED
+26-2503
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring municipalities, towns, and cities to submit documentation to the
+department of revenue administration proving they are in compliance with local
+budgetandtaxcaps.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; The State and Its Government; Property Tax Rates; Reports Required.
+2 AmendRSA21-J:34byinsertingafterparagraphIIthefollowingnewparagraphs:
+3 II-a. For political subdivisions that have adopted a local tax cap under RSA 32:5-b, the
+4 governing body of the political subdivision shall forward the commissioner’s form for compliance
+5 with the adopted local tax cap. The form shall include the computation of the local tax cap for that
+6 year, proposed appropriations by the governing body and budget committee and estimated revenues
+7 going into the annual meeting showing estimated amount of local taxes to be raised, appropriations
+8 voted by the annual meeting of the legislative body, and the counts of any ballot votes taken to
+9 overridethelocaltaxcap.
+10 II-b. For political subdivisions that have adopted a school district budget cap under RSA
+11 32:5-e, or a town budget cap under RSA 32:5-g, the governing body of the political subdivision shall
+12 forward the commissioner’s form for compliance with the adopted budget cap. The form shall
+13 include the computation of the budget cap for that year, proposed appropriations by the governing
+14 body and budget committee, appropriations voted by the meeting of the legislative body, and the
+15 countsofanyballotvotestakentooverridethebudgetcap.
+16 2 Towns,Cities,VillageDistricts,andUnincorporatedPlaces;PreparationofBudgets;LocalTax
+17 Cap. AmendRSA32:5-b,III(a)toreadasfollows:
+18 (a) When using the official ballot form of meeting under RSA 40:13, if the warrant
+19 article for the operating budget results in appropriations exceeding the tax cap under this section
+20 and receives less than 3/5 majority "yes" vote, the adopted operating budget shall be reduced [by
+21 appropriations already raised] to remain compliant with the tax cap under this section, including
+22 reductions for any appropriations already raised. In this paragraph, "appropriations
+23 already raised" shall include approved appropriations in warrant articles appearing on
+24 ballotbeforethewarrantarticleinquestion.
+25 3 New Subparagraph; Towns, Cities, Village Districts, and Unincorporated Places; Preparation
+26 of Budgets; Local Tax Cap. Amend RSA 32:5-b, III by inserting after subparagraph (b) the following
+27 newsubparagraph:
+28 (c) Forthepurposesofdeterminingwhentheamountoflocaltaxesraisedbythetownor
+29 district exceed the local tax cap under this section, the amount of appropriations of the operating
+
+HB1505-FN-ASINTRODUCED
+-Page2-
+1 budget counting towards the tax cap shall be reduced by the estimated revenues reported to the
+2 department of revenue administration in the posted budget pursuant to RSA 32:5. In addition, the
+3 amount of appropriations in any warrant article that also includes anticipated revenue from a state
+4 or federal agency shall be reduced by the anticipated revenues for purposes of determining when the
+5 amountoflocaltaxesraisedbythetownordistrictexceedthetaxcapunderthissection.
+6 4 Towns, Cities, Village Districts, and Unincorporated Places; Preparation of Budgets; School
+7 DistrictBudgetCap. AmendRSA32:5-e,Itoreadasfollows:
+8 I. In a school district that has adopted this section, the total amount raised and
+9 appropriated for the fiscal year, including the operating budget and all other warrant articles with a
+10 taximpact, asshownonthebudgetcertified bytheschoolboard orthebudgetcommitteeand posted
+11 with the warrant for the annual meeting pursuant to RSA 32:5, shall not exceed the current per
+12 pupil cost, as defined herein, times the average daily membership in residence (ADMR), pursuant to
+13 RSA198:38,I-a,oftheschooldistrictasofOctober1oftheyearimmediatelyprecedingtheproposed
+14 budget year as reported to the department of education [times (1+ IF), where IF is an amount for an
+15 annual increase for inflation]. The first year after the budget cap is adopted, the current per pupil
+16 cost shall be the per pupil cost adopted in the warrant article per RSA 32:5-f, IV. In subsequent
+17 years, the current per pupil cost shall be the previous year's current per pupil cost times [(1+IFP)]
+18 (1+IF),where[IFP]IFisthe[previous]currentyear's[IF]annualincreaseforinflation.
+19 5 Towns, Cities, Village Districts, and Unincorporated Places; Preparation of Budgets; School
+20 DistrictBudgetCap. AmendRSA32:5-e,IV(a)toreadasfollows:
+21 (a) When using the official ballot form of meeting under RSA 40:13, if the warrant
+22 article for the operating budget results in appropriations exceeding the budget cap and receives less
+23 than 3/5 majority "yes" vote, the adopted operating budget shall be reduced by appropriations
+24 already raised to remain compliant with the budget cap, including reductions for any
+25 appropriations already raised. In this paragraph, "appropriations already raised" shall
+26 include approved appropriations in warrant articles appearing on ballot before the
+27 warrantarticleinquestion.
+28 6 Towns, Cities, Village Districts, and Unincorporated Places; Preparation of Budgets; Town
+29 BudgetCap. AmendRSA32:5-g,Itoreadasfollows:
+30 I. In a town that has adopted this section, the total amount raised and appropriated for the
+31 fiscalyear,includingtheoperatingbudgetandallotherwarrantarticleswithataximpact,asshown
+32 on the budget certified by the select board or the budget committee and posted with the warrant for
+33 the annual meeting pursuant to RSA 32:5, shall not exceed the current per resident expenditure, as
+34 defined in subparagraph (a), times the current town population, as defined in subparagraph (b)[,
+35 times(1+IF),whereIFisanamountforanannualincreaseforinflation].
+36 (a) The first year after the budget cap is adopted, the current per resident expenditure
+37 shall be the per resident expenditure adopted in the warrant article under RSA 32:5-h, IV. In
+
+HB1505-FN-ASINTRODUCED
+-Page3-
+1 subsequent years, the current per resident expenditure shall be the previous year's current per
+2 resident expenditure times [(1+IFP)] (1+IF), where [IFP] IF is the [previous] current year's [IF]
+3 annualincreaseforinflation.
+4 (b) The current town population shall be the most recent figure calculated by the
+5 department of business and economic affairs, office of planning and development, pursuant to RSA
+6 78-A:25,I.
+7 7 Towns, Cities, Village Districts, and Unincorporated Places; Preparation of Budgets; Town
+8 BudgetCaps. AmendRSA32:5-g,IVtoreadasfollows:
+9 IV. WhenusingtheofficialballotformofmeetingunderRSA40:13,ifthewarrantarticlefor
+10 the operating budget results in appropriations exceeding the budget cap and receives less than 3/5
+11 majority "yes" vote, the adopted operating budget shall be reduced by appropriations already raised
+12 to remain compliant with the budget cap, including reductions for any appropriations already
+13 raised. In this paragraph, "appropriations already raised" shall include approved
+14 appropriations in warrant articles appearing on ballot before the warrant article in
+15 question.
+16 8 New Section; Enforcement of Local Caps. Amend RSA 32 by inserting after section 5-h the
+17 followingnewsection:
+18 32:5-i EnforcementofLocalCaps.
+19 I. If,duringthereviewofreportsrequiredbyRSA21-J:34,II-aorII-b,andpursuanttoRSA
+20 21-J:35, II, the commissioner of revenue administration determines that the budget certified by the
+21 governing body or the budget committee, which includes the operating budget and all other warrant
+22 articles with a tax impact and posted with the warrant for the annual meeting pursuant to RSA
+23 32:5, exceeds the adopted local tax cap, the adopted school district budget cap, or the adopted town
+24 budget cap, the commissioner shall reduce the appropriation of the certified budget by the amount
+25 the certified budget exceeds the cap, pursuant to RSA 21-J:34, III. Appropriations in warrant
+26 articleshavingreceivedtherequired supermajorityballot votebythelegislativebodytooverridethe
+27 cap using the procedures in RSA 32:5-b, III for a local tax cap, RSA 32:5-e, III for a school district
+28 budgetcap,orRSA32:5-g,IIIforatownbudgetcapshallnotbeeliminatedorreduced.
+29 II. During the review of reports pursuant to RSA 21-J:34, II, if the commissioner of revenue
+30 administration determines that the required supermajority ballot vote by the legislative body for an
+31 appropriation in a warrant article to override the cap was not satisfied, or that there was a
+32 procedural failure in overriding the cap, that appropriation shall be deleted pursuant to RSA 21-
+33 J:34,III.
+34 9 Applicability. RSA 21-J:34, RSA 32:5-b, RSA 32:5-e, and RSA 32:5-g, as amended by this act,
+35 shall apply to the local tax caps, school district budget caps, and town budget caps adopted prior to
+36 the effective date of this act and shall not require local amendment or re-adoption by towns or
+37 districts.
+
+HB1505-FN-ASINTRODUCED
+-Page4-
+1 10 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2503
+12/4/25
+HB1505-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring municipalities, towns, and cities to submit documentation to the
+department of revenue administration proving they are in compliance with local
+budgetandtaxcaps.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $75,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+LocalExpenditures $0
+(under$10,000permunicipality)
+METHODOLOGY:
+This bill requires local governments to submit documentation to the Department of Revenue
+Administration (DRA) to prove compliance with local budget and tax caps. It clarifies how
+appropriations already raised are calculated and requires that any budget exceeding the cap
+without the required 3/5 majority vote be reduced accordingly. The bill also empowers DRA to
+enforcecompliancebyadjustingcertifiedbudgetsthatexceedcaps.
+The DRA states that this bill would require an estimated $75,000 in increased General Fund
+expenditures to update forms and electronic systems for rate setting. While DRA can absorb
+other administrative costs, local governments may have reduced property tax rates and budgets
+ifDRAidentifiesandcorrectscapviolationsduringtherate-settingprocess.
+
+The New Hampshire Municipal Association (NHMA) states this bill introduces new reporting
+obligations for municipalities, which are expected to result in additional administrative costs
+estimated at under $10,000 per municipality annually, though the exact amount is
+indeterminable.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandNewHampshireMunicipalAssociation

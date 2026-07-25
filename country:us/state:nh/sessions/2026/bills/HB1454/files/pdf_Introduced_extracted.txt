@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1454-FN-ASINTRODUCED
+2026SESSION
+26-2883
+09/06
+1454-FN
+HOUSEBILL
+ANACT relative to the possession of firearms following a court order requiring surrender
+offirearmsandammunition.
+SPONSORS: Rep.Markell,Rock.18;Rep.DeSimone,Rock.18;Rep.Lynn,Rock.17
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes it a criminal offense to possess a firearm in violation of a court order requiring
+the surrender of firearms, and also makes the offense a qualifying offense triggering the
+presumption that the defendant is dangerous and may be denied bail, if certain other conditions are
+met.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1454-FN-ASINTRODUCED
+26-2883
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the possession of firearms following a court order requiring surrender
+offirearmsandammunition.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Possession of Firearms in Violation of a Court Order. Amend RSA 159 by
+2 insertingaftersection3-athefollowingnewsection:
+3 159:3-b Possession of Firearms in Violation of a Court Order. Any person who possesses a
+4 firearm in violation of a court order requiring the immediate surrender of all firearms and
+5 ammunition over which he or she controlled, owned, or possessed shall be guilty of class A
+6 misdemeanorforafirstoffense,andguiltyofaclassBfelonyforsecondorsubsequentoffense.
+7 2 ReleaseofaDefendantPendingTrial. AmendRSA597:2,III(c)(13)-(14)toreadasfollows:
+8 (13) Anyfelonyoffense thathasas anelement theuse,attempted use,or threatened
+9 useofphysicalforceagainstaperson;[or]
+10 (14) Any felony offense, if the person has twice before been convicted of an offense
+11 listedinsubparagraph(c);or
+12 (15) Possession of firearms in violation of a court order under RSA 159:3-b,
+13 if:
+14 (A) The underlying court order the defendant is accused of violating was
+15 a domestic violence order of protection issued pursuant to RSA 173-B or other order issued
+16 inconnectionwithadomesticviolencecase;or
+17 (B) The defendant is also charged with domestic violence under RSA
+18 631:2-b.
+19 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2883
+11/17/25
+HB1454-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the possession of firearms following a court order requiring surrender
+offirearmsandammunition.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

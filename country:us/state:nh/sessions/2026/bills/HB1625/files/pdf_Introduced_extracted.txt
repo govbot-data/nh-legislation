@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1625-FN-ASINTRODUCED
+2026SESSION
+26-2887
+06/07
+1625-FN
+HOUSEBILL
+ANACT relativetoannualreportingonaccessorydwellingunitconstructionanduse.
+SPONSORS: Rep. B. Boyd, Hills. 12; Rep. Flanagan, Hills. 45; Rep. Nelson, Rock. 13; Rep.
+Turer, Rock. 6; Rep. Wheeler, Hills. 33; Sen. Birdsell, Dist 19; Sen. Prentiss, Dist
+5
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the office of planning and development to prepare an annual report on
+accessory dwelling units, including data on type, occupancy, affordability, and use, and to compile
+additionalinformationtoassiststateandlocalplanningforgrowthanddevelopment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1625-FN-ASINTRODUCED
+26-2887
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoannualreportingonaccessorydwellingunitconstructionanduse.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraphs; Office of Planning and Development. Amend RSA 12-O:53-a, II by
+2 insertingaftersubparagraph(b)thefollowingnewsubparagraphs:
+3 (1) Prepare an annual report on the number of accessory dwelling units, as defined
+4 by RSA 674:71, being built in the state and whether they are attached or detached, occupied by
+5 owners, tenants, or vacant, utilized as short-term rentals, as defined in RSA 48-A:1, converted from
+6 preexisting structures in accordance with RSA 672:72, meet the definition of "affordable” or
+7 “workforce housing,” as defined in RSA 674:58, and meet the definition manufactured housing, as
+8 definedbyRSA674:31;and
+9 (2) Compile any other information that will help the state and its political
+10 subdivisionsplanforgrowthanddevelopment.
+11 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2887
+12/8/25
+HB1625-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoannualreportingonaccessorydwellingunitconstructionanduse.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$100,000to $100,000to $100,000to
+$500,000 $500,000 $500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Business and Economic Affairs to prepare an annual report
+on accessory dwelling units (ADUs). The report must include information on type, occupancy,
+affordability, conversion status, use as short-term rentals, and other data that will assist state
+andlocalplanningefforts.
+The Department states the bill would substantially increase its research, data collection, and
+reporting responsibilities, particularly for the Division of Planning and Community
+Development. The Department does not currently have the staffing capacity to compile ADU
+data from all 234 cities and towns and 22 unincorporated areas or to create and maintain a
+statewide reporting system for this information. The Department anticipates that at least two
+full-time positions would be necessary to collect data, work with municipalities, build and
+maintain the reporting system, and produce the required annual report and would cost between
+$100,000 and $500,000. The Department did not provide specific positions to be authorized or
+specificappropriationamountsneededtoadministerthisbill.
+AGENCIESCONTACTED:
+DepartmentofBusinessandEconomicAffairs

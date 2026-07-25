@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1666-FN-ASINTRODUCED
+2026SESSION
+26-2981
+06/08
+1666-FN
+HOUSEBILL
+ANACT requiringcapacityplanninginthestate10-yearenergystrategy.
+SPONSORS: Rep. McGhee, Hills. 35; Rep. Caplan, Merr. 8; Rep. Cormen, Graf. 15; Sen. Lang,
+Dist2;Sen.PerkinsKwoka,Dist21;Sen.Watters,Dist4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands the state energy strategy to include electric capacity planning for emerging
+sectors,requiresperiodicexpertconsultation,andaddsananalysisofdemand-sidemeasures.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1666-FN-ASINTRODUCED
+26-2981
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringcapacityplanninginthestate10-yearenergystrategy.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; State Energy Strategy. Amend RSA 12-P:7-a by inserting after
+2 subparagraph(h)thefollowingnewsubparagraph:
+3 (i) Establish and maintain a report section on New Hampshire’s electric capacity
+4 planning, defined by state regional growth for electrification of new sectors of the economy, such as
+5 housing, transportation, technology, and data centers. This section report may require consulting
+6 withsubjectmatterexpertsincapacityplanningtodefinerecommendationsevery3years.
+7 2 New Section; State Energy Strategy. Amend RSA 12-P:7-a by inserting after section II the
+8 followingnewsection:
+9 II-a. The strategy shall also include consideration of the extent to which demand-side
+10 measures including efficiency, conservation, demand response, and load management can cost-
+11 effectivelymeetthestate'senergyneeds,andproposalstoincreasetheuseofsuchdemandresources
+12 toreduceenergycostsandincreaseeconomicbenefitstothestate.
+13 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2981
+12/2/25
+HB1666-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringcapacityplanninginthestate10-yearenergystrategy.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) UtilityAssessmentsandGeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill expands the state energy strategy to include electric capacity planning for emerging
+sectors,requiresperiodicexpertconsultation,andaddsananalysisofdemand-sidemeasures.
+The Department of Energy states that Section 1 requires the State Energy Strategy to include a
+new section on “capacity planning,” which, based on context, is assumed to relate to electric
+capacity; however, the bill does not specify whether this refers to generation, distribution, or
+transmission needs. Because the scope and level of detail expected for this planning
+requirement are not clear in the bill language, the Department cannot determine the scale of
+staff time, analysis, or external expertise that may be needed resulting in an indeterminable
+impactonStateexpenditures.
+Section 2 of the bill restates existing statutory language in a newly numbered section and
+thereforehasnofiscalimpactontheDepartment.
+AGENCIESCONTACTED:
+DepartmentofEnergy

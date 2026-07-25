@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1350-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0151h
+2026SESSION
+26-3152
+06/09
+1350-FN
+HOUSEBILL
+ANACT relativetoantiquemotorvehicles.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Giasson, Hills. 29; Rep. Granger, Straf. 2; Rep.
+Litchfield,Rock.32;Rep.SabourinditChoiniere,Rock.30;Sen.Innis,Dist7
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill revises the definition of antique motor vehicle to provide that the vehicle is not maintained
+forprimarytransportationuse.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1350-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0151h 26-3152
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoantiquemotorvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Antique Motor Vehicle, Farm Tractor, Retired Fire Apparatus, or Motorcycle. Amend RSA
+2 259:4toreadasfollows:
+3 259:4 Antique Motor Vehicle, Farm Tractor, Retired Fire Apparatus, or Motorcycle. "Antique
+4 motor vehicle, farm tractor, retired fire apparatus, or motorcycle" shall mean any motor vehicle,
+5 including a truck regardless of its weight, over 25 years old, and in the case of a retired fire
+6 apparatus,over20yearsold,whichismaintainedforuseinexhibitions,clubactivities,parades,and
+7 other functions of public interest, but not for use in commerce. For the purposes of this section,
+8 "maintained for use" shall mean a motor vehicle, retired fire apparatus, or motorcycle [in its original
+9 condition or restored to original or better condition and not intended for daily use] not maintained
+10 forprimarytransportationuse.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3152
+02/12/2026
+HB1350-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0151h)
+ANACT relativetoantiquemotorvehicles.
+FISCALIMPACT:
+Thisbillclarifiesthephrase“maintainedforuse”withintheexistingdefinitionsofantiquemotor
+vehicle, farm tractor, retired fire apparatus, and motorcycle to align with current administrative
+interpretation and enforcement practices. This is not expected to alter registration volumes,
+compliance procedures, or associated revenues, and therefore has no fiscal impact on the current
+antiqueregistrationprocess.
+AGENCIESCONTACTED:
+DepartmentofSafety

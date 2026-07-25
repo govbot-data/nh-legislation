@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER326
+HB1376-FINALVERSION
+11Mar2026...0865h
+05/14/2026 1542s
+05/14/2026 1938s
+4Jun2026...2073CofC
+4Jun2026...2189EBA
+2026SESSION
+26-3035
+12/09
+1376
+HOUSEBILL
+ANACT relative to a parent's ability to raise their child in a manner consistent with the child's
+biologicalsexandrelativetobreastsurgeriesforminors.
+SPONSORS: Rep. Korzen, Coos 7; Rep. Kesselring, Hills. 18; Rep. Litchfield, Rock. 32; Rep.
+Mazur, Hills. 44; Rep. Prudhomme-O'Brien, Rock. 13; Rep. Reinfurt, Hills. 29; Rep.
+Sabourin dit Choiniere, Rock. 30; Rep. Sirois, Hills. 32; Rep. Thibault, Merr. 25; Sen.
+Murphy,Dist16;Sen.Avard,Dist12
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Exempts child rearing consistent with the child's biological sex from being considered within the
+definitionsofabusedchildandendangeringchildwelfare.
+II. Removes child rearing consistent with the child's biological sex from being a basis for findings
+relative to family law determinations, including: adoptions, child-placing agency licensing, and best
+interestsofthechilddeterminations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER326
+HB1376-FINALVERSION
+11Mar2026...0865h
+05/14/2026 1542s
+05/14/2026 1938s
+4Jun2026...2073CofC
+4Jun2026...2189EBA 26-3035
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to a parent's ability to raise their child in a manner consistent with the child's
+biologicalsexandrelativetobreastsurgeriesforminors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 326:1 Definitions; Parenting Based on Biological Sex Excluded. Amend RSA 169-C:3, II to read as
+2 follows:
+3 II.(a)"Abusedchild"meansanychildwhohasbeen:
+4 [(a)](1)Sexuallyabused;or
+5 [(b)](2)Intentionallyphysicallyinjured;or
+6 [(c)](3) Psychologically injured so that said child exhibits symptoms of emotional problems
+7 generallyrecognizedtoresultfromconsistentmistreatmentorneglect;or
+8 [(d)](4)Physicallyinjuredbyotherthanaccidentalmeans;or
+9 [(e)](5)Subjected,byanyperson,tohumantraffickingasdefinedinRSA633:7;or
+10 [(f)](6)SubjectedtoanactprohibitedbyRSA632-A:10-d.
+11 (b)Nochildshallbeconsideredan"abusedchild"underthischapterforthereasonthatthey
+12 havebeenraisedbytheirparentorguardianconsistentwiththeirbiologicalsex,includingbutnotlimited
+13 toreferringtoachildconsistentwiththeirbiologicalsexandmakingmentalhealthormedicaldecisions
+14 basedonthechild'sbiologicalsex. Nothinginthissubparagraphshallbeconstruedtoauthorizeany
+15 otheractsoromissionsthatmeetthedefinitionof"abusedchild"insubparagraphII(a).
+16 326:2 New Section; Basis for Findings of Child Abuse; Exclusions. Amend RSA 169-C by inserting
+17 aftersection6-bthefollowingnewsection:
+18 169-C:6-c BasisforFindingsofChildAbuse;Exclusion.
+19 I. Parents or guardians raising a child consistent with their biological sex, referring to a child
+20 consistent with their biological sex, or making mental health or medical decisions based on the child's
+21 biologicalsexshallnotconstituteabasisfor:
+22 (a) Acourtorderrelativetoremovingachildfromthehome,asdescribedinRSA169-C:6-b;
+23 (b) Groundsforfilingapetitionallegingneglectorabuseofachild,asdescribedinRSA169-
+24 C:7;
+25 (c) EvidenceofconductestablishingtherebuttablepresumptionofharmdefinedinRSA169-
+26 C:12-f;
+27 (d) Grounds for filing a petition for the termination of the parent-child relationship, as
+28 describedinRSA170-C:4;or
+29 (e) Conditionsforterminationoftheparent-childrelationshipasdescribedinRSA170-C:5.
+
+CHAPTER326
+HB1376-FINALVERSION
+-Page2-
+1 II. Nothing in this section shall be construed to preclude consideration of any other acts or
+2 omissionsthatmeetthedefinitionofabuseorneglectofachild,orthatarecontrarytothechild’swelfare,
+3 asdefinedorprovidedforunderthischapter.
+4 326:3 NewParagraph;EndangeringChildWelfare;ExclusionAdded. AmendRSA639:3byinserting
+5 afterparagraphVIthefollowingnewparagraph:
+6 VII. Anyparent,guardian,orpersonhavingcustodyorcontroloverachildunder18yearsofage,
+7 orany other personprovidingcaretoorsupervisionof suchchild, isnot guiltyof endangeringthewelfare
+8 of a child under this section for raising a child consistent with the child’s biological sex. Raising a child
+9 consistent with their biological sex shall include, but is not limited to, referring to a child consistent with
+10 their biological sex and making related mental health or medical decisions based on the child’s biological
+11 sex. Nothing in this paragraph shall be construed to authorize or allow any other acts or omissions that
+12 wouldconstituteendangeringthewelfareofachildunderthissection.
+13 326:4 New Paragraphs; Assessment for Adoptions; Best Interest of the Child; Recognition of
+14 BiologicalSex. AmendRSA170-B:18byinsertingafterparagraphIthefollowingnewparagraphs:
+15 I-a. The department or a licensed child-placing agency shall not consider an adoptive or
+16 prospective adoptive parent's refusal, unwillingness, or lack of support for enabling a child to engage in
+17 gender transition, or the parent's intent to raise a child consistent with the child's biological sex, including
+18 referring to a child consistent with the child's biological sex and making related mental health or medical
+19 decisions based on the child's biological sex, as a basis for determining that such parent is disqualified
+20 fromconsiderationasanadoptiveparentorthatthehomeisunsuitableforadoption.
+21 I-b. NothinginparagraphI-ashallbeconstruedtorelievethedepartmentofitsdutytomakeeach
+22 placement consistent with the best interests of the child as otherwise required by law. Nothing in
+23 paragraph I-a shall preclude the department from taking into account the religious or moral beliefs of a
+24 particular child, considered in relation to the religious or moral beliefs of a prospective adoptive parent
+25 whendeterminingwhichplacementisinthebestinterestsofthechild.
+26 326:5 New Paragraph; Child Placing Licensing; Prohibition Against Endangerment; Exclusion.
+27 AmendRSA170-E:27byinsertingafterparagraphIIthefollowingnewparagraph:
+28 III. Forthepurposesofthissection:
+29 (a) Alicenseeorprospectivelicensee'srefusal,unwillingness,orlackofsupportforenabling
+30 a child to engage in gender transition, or belief that a child should be raised consistent with the child's
+31 biologicalsex,including,butnotlimitedto,referringtoachildconsistentwiththechild'sbiologicalsexand
+32 makingrelatedmental healthor medical decisionsbasedonthechild'sbiological sex,shall not constitute
+33 endangerment. Nor shall such refusal, unwillingness, lack of support, or belief be the basis for the
+34 departmenttodenyanylicense,renewal,orotherauthorizationrequiredtoserveasafosterparent.
+35 (b) Nothing in subparagraph (a) shall be construed to relieve the department of its duty to
+36 makeeachplacementconsistentwiththebestinterestsofthechildasotherwiserequiredbylaw. Nothing
+37 in subparagraph (a) shall preclude the department from taking into account the religious or moral beliefs
+38 of a particular foster child, considered in relation to the religious or moral beliefs of a prospective foster
+39 parentwhendeterminingwhichplacementisinthebestinterestsofthechild.
+
+CHAPTER326
+HB1376-FINALVERSION
+-Page3-
+1 326:6 New Paragraph; Best Interest of the Child; Determining Factors; Exclusion. Amend RSA 461-
+2 A:6byinsertingafterparagraphI-athefollowingnewparagraph:
+3 I-b. In determining the best interests of the child with respect to parental rights and
+4 responsibilities under this section, including residential responsibility, the court shall not consider as an
+5 adverse factor a parent’s raising a child consistent with their biological sex, including but not limited to,
+6 referring to a child consistent with their biological sex and making mental health or medical decisions
+7 based on the child's biological sex. This paragraph shall not be construed to limit the court from
+8 consideringanyotherfactorrelevanttodeterminingwhatisinthebestinterestofthechild,asprovidedfor
+9 bylaw.
+326:7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July15,2026
+EffectiveDate:September13,2026

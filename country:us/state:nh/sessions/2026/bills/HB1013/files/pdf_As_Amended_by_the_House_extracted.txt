@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1013-ASAMENDEDBYTHEHOUSE
+5Mar2026...0718h
+2026SESSION
+26-2323
+08/09
+1013
+HOUSEBILL
+ANACT relativetogameswhereintheobjectistocaptureapig.
+SPONSORS: Rep. C. Harvey, Ches. 6; Rep. Bixby, Straf. 13; Rep. Gruber, Ches. 16; Rep.
+Newell,Ches.4;Rep.Berch,Ches.6; Sen.Watters,Dist4
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the commissioner of the department of agriculture, markets, and food to
+develop best practices and recommendations for games in which the object is to capture a pig and to
+developrulesforenforcementofsuchpractices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1013-ASAMENDEDBYTHEHOUSE
+5Mar2026...0718h 26-2323
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetogameswhereintheobjectistocaptureapig.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Contests Involving Pigs. Amend RSA 644 by inserting after section 8-g the
+2 followingnewsection:
+3 644:8-h ContestsInvolvingPigs.
+4 I. Inordertopromoteaneducational,humane,andsafeeventforcontestants,livestock,and
+5 viewers, and in consultation with livestock farmers, livestock veterinarians, the state fair
+6 association, and the university of New Hampshire cooperative extension, the commissioner of the
+7 department of agriculture, markets, and food shall identify and publish best handling practices and
+8 recommendations for contests involving the capture of pigs. Such practices and recommendations
+9 shallbepublishedinadvanceofthe2027fairseasonandshallinclude:
+10 (a) Handlingofpigsduringreleaseandcapture.
+11 (b) Supervisionofcontestantsduringtheevent.
+12 (c) Guidancefortrainingofindividualssupervisingorassisting.
+13 (d) The manner and provisions for the transportation of pigs to be taken home by
+14 contestants.
+15 II. Thedepartmentofagriculture,markets,andfoodshallalsoadoptrulesunderRSA541-A
+16 relative to enforcement of best practices ensuring that rules are followed by organizers and
+17 participants, including a penalty for violating such best practices which includes a period of time for
+18 whichaviolativecontestshallnotbeinoperation.
+19 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2323
+03/25/2026
+HB1013-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0718h)
+ANACT relativetogameswhereintheobjectistocaptureapig.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+Increase Increase Increase
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Agriculture, Markets, and Food to develop and publish best
+handlingpracticesforcontestsinvolvingthecaptureofpigsandtoadoptrulesforenforcementof
+thosepractices.
+The Department of Agriculture, Markets, and Food states it does not have sufficient information
+regarding the number, frequency, or location of such events to determine the level of effort
+required to implement the bill. The Department states it is currently operating at capacity and
+would be unable to absorb additional responsibilities within its existing budget. As a result, the
+Department reports an indeterminable increase in state expenditures beginning in FY 2026 and
+each year thereafter. Based on limited information, expenditures could range from $10,000 to
+$100,000 or more annually, depending on the need for additional staff, overtime, rulemaking,
+anddevelopmentofeducationalmaterials.
+AGENCIESCONTACTED:
+DepartmentofAgriculture,Markets,andFood

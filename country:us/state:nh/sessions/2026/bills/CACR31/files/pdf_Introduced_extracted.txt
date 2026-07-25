@@ -1,0 +1,223 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CACR31 -ASINTRODUCED
+2026SESSION
+26-2544
+08/09
+CONSTITUTIONALAMENDMENT
+31
+CONCURRENTRESOLUTION
+RELATINGTO: ballotreconciliation.
+PROVIDINGTHAT: the state adopt certain provisions and penalties relative to the ballot
+reconciliationprocess.
+SPONSORS: Rep. Sabourin dit Choiniere, Rock. 30; Rep. Burnham, Straf. 2; Rep.
+McGrath, Rock. 40; Rep. Wherry, Hills. 13; Rep. Wood, Merr. 13; Rep.
+Bernardy,Rock.36;Rep.Belcher,Carr.4;Rep.TomMannion,Hills.1
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This resolution adopts provisions governing ballot reconciliation, ballot access, ballot retention,
+pollinglocationlimits,selectionofpollworkers,allowanceofregisteredvotersforpost-electionballot
+viewing, allowance for recording ballot lot and voting documentation during citizen audits and
+compliance with Presidential Executive Order 14248 (March 25, 2025) in the New Hampshire
+constitution.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype
+
+CACR31-ASINTRODUCED
+26-2544
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+CONCURRENTRESOLUTIONPROPOSINGCONSTITUTIONALAMENDMENT
+RELATINGTO: ballotreconciliation.
+PROVIDINGTHAT: the state adopt certain provisions and penalties relative to the ballot
+reconciliationprocess.
+BeitResolvedbytheHouseofRepresentatives,theSenateconcurring,thatthe
+ConstitutionofNewHampshirebeamendedasfollows:
+1 I. That the second part of the constitution shall be amended by inserting after article 32 the
+2 followingnewarticle:
+3 [Art.] 32-a. [Ballot Reconciliation.] New Hampshire will adopt the following provisions and
+4 penalties for all elections held in this state, regarding ballots, statewide election policies and
+5 procedures; polling location limits, poll workers, allowance of registered voters' for post-election
+6 ballot viewing, ballot lot and voting documentation viewing, and scanning and recording
+7 photographically during citizen audits, and compliance of certain provisions of Presidential
+8 Executive Order 14248 (March 25, 2025) “Preserving and Protecting the Integrity of American
+9 Elections”:
+10 (a) Allballotsshallbehandcounted;
+11 (b) Allballotsshallbeserial-numbered;
+12 (c) All ballots shall have a dated, and matching, serial numbered perforated tab, the
+13 perforated serial number tab matching the ballot serial number, and including the poll location
+14 number,toberetainedbyandforthevoter'sreceiptofher/hiscastedballot;
+15 (d) Allballots,includingabsenteeballots,shallbereconciledbythemoderator
+16 pre-election, during the hand count, and be held in the same fashion during post-election, until the
+17 ballotlotretentiontimehasexpired;
+18 (e) Municipalities shall not print or copy serial-numbered ballots, the secretary of state
+19 shall by this law, be authorized to provide perforated, serial numbered ballots for all registered
+20 votersofeachmunicipality;
+21 (f) The secretary of the state shall track all serial-numbered absentee ballots, and paper
+22 ballots, pre-election and post-election, and publicly publish his or her findings once per year in non-
+23 votingyears;
+24 (g) The moderator or clerk shall complete a chain of custody log for all ballots pre-
+25 election and post-election; this log will require a dual signature sign off to be kept with the ballots
+26 fortherequiredretentionperiod;
+27 (h) Allelectiondaysignoffsignaturesshallnotberedactedforanyreason;
+
+CACR31 -ASINTRODUCED
+-Page2-
+1 (i) Any unused or voided ballots of each printed, serial numbered and designated lot
+2 shall be properly labeled and kept with all other ballots of the same printed, serial numbered and
+3 designatedlot;
+4 (j) All ballots shall be stored in a twenty-four hour, continuously electronically
+5 surveilled, secured, and locked, ballot storage area, accessed by only authorized election officials, or
+6 by registered voters accompanied by such authorized officials, beginning the day ending one week
+7 aftertheballotsarecountedanddeclared,andthereafter,butbyappointment,post-election;
+8 (k) Theelectionshallendatmidnightonelectionday;
+9 (l) When each poll is closed, ballot counting shall begin, and end only when completely
+10 finished,andwithimmediacybedeclared,inthemostprecise,butspeedymannerpossible;
+11 (m) All ballots and any election records shall be retained in a secured specified location
+12 of the respective city or town for a period of sixty months, including times of recounts, and shall be
+13 accessible by appointment upon one week’s notice, to registered voters during the retention period
+14 whileaccompaniedbyalocalelectionofficialforviewingand/orrecordingofsaidrecords;
+15 (n) All original ballots of each printed, serial numbered and designated lot shall be
+16 retained with its printed lot, in whole, pre-election and post-election, and no original copy shall be
+17 separatedorremovedfromtheroomorvaultholdingitsprinted,serialnumberedanddesignated lot
+18 after counting and being stored, nor shall any original copy be removed from the ballot storage area,
+19 room or vault unless publicly memorialized and printed, first by the local government, and then by
+20 thesecretaryofstate,duringthesixtymonthretentionperiod;
+21 (o) Any new ballot storage room, vault or facility in any town, city or municipality, and
+22 deemed secure and approved by the same, may only be filled with election ballots, ballot lots,
+23 documents, or pertaining materials, but shall only be deemed for usage of the next election's ballots,
+24 documentation or pertaining materials, after the next subsequent election. And any movement of
+25 prior stored election ballot lots, documentation or pertaining materials to a new ballot storage
+26 facility shall be memorialized and publicly printed by the local government, and the projected move
+27 shallbeforehand,bememorializedandpubliclyprintedbythesecretaryofstate;
+28 (p) Any original ballots of each printed, serial numbered and designated lot needed for
+29 judicial reasons, shall bedone by copyingoriginal ballots and other retained election documentation;
+30 no originals shall for judicial reasons, be removed from said ballot storage room, vault or ballot
+31 storagefacilityuntilthesixtymonthretentiondatehasexpired;
+32 (q) All New Hampshire towns and cities, through their moderators and clerks, shall
+33 administer any and all elections held in this state with complete honesty and transparency. All
+34 moderators and clerks shall attend annual specific training to ensure complete compliance with the
+35 statewideelectionprocesspoliciesandproceduresregardingballotreconciliations;
+36 (r) Pollinglocationsarelimitedto5,000lawfulvoters;
+
+CACR31 -ASINTRODUCED
+-Page3-
+1 (s) Lawful voters from the current checklist shall be chosen at random to be poll
+2 workers;and
+3 (t) At least two municipalities from each county, chosen at random by the secretary of
+4 state shall be audited after each election by state citizens domiciled from that, or a different intra-
+5 state county; or be granted egress from out of state as voter integrity experts, but upon request by a
+6 non-refusable notice to the secretary of state by any citizen or citizens of the state of New
+7 Hampshire.
+8 II. That the above amendment proposed to the constitution be submitted to the qualified
+9 votersofthestateatthestategeneralelectiontobeheldinNovember,2026.
+10 III. That the selectmen of all towns, cities, wards and places in the state are directed to
+11 insert in their warrants for the said 2026 election an article to the following effect: To decide
+12 whether the amendments of the constitution proposed by the 2026 session of the general court shall
+13 beapproved.
+14 IV. Thatthewordingofthequestionputtothequalifiedvotersshallbe:
+15 “Are you in favor of amending the second part of the constitution by inserting after article 32 a new
+16 articletoreadasfollows:
+17 [Art.] 32-a. [Ballot Reconciliation.] New Hampshire will adopt the following provisions and
+18 penalties for all elections held in this state, regarding ballots, statewide election policies and
+19 procedures; polling location limits, poll workers, allowance of registered voters' for post-election
+20 ballot viewing, ballot lot and voting documentation viewing, and scanning and recording
+21 photographically during citizen audits, and compliance of certain provisions of Presidential
+22 Executive Order 14248 (March 25, 2025) “Preserving and Protecting the Integrity of American
+23 Elections”:
+24 (a) Allballotsshallbehandcounted;
+25 (b) Allballotsshallbeserial-numbered;
+26 (c) All ballots shall have a dated, and matching, serial numbered perforated tab, the
+27 perforated serial number tab matching the ballot serial number, and including the poll location
+28 number,toberetainedbyandforthevoter'sreceiptofher/hiscastedballot;
+29 (d) All ballots, including absentee ballots, shall be reconciled by the moderator pre-
+30 election,duringthehandcount,andbeheldinthesamefashionduringpost-election,untiltheballot
+31 lotretentiontimehasexpired;
+32 (e) Municipalities shall not print or copy serial-numbered ballots, the secretary of state
+33 shall by this law, be authorized to provide perforated, serial numbered ballots for all registered
+34 votersofeachmunicipality;
+35 (f) The secretary of the state shall track all serial-numbered absentee ballots, and paper
+36 ballots, pre-election and post-election, and publicly publish his or her findings once per year in non-
+37 votingyears;
+
+CACR31 -ASINTRODUCED
+-Page4-
+1 (g) The moderator or clerk shall complete a chain of custody log for all ballots pre-
+2 electionandpost-election;thislogwillrequireadualsignaturesignofftobekeptwiththeballotsfor
+3 therequiredretentionperiod;
+4 (h) Allelectiondaysignoffsignaturesshallnotberedactedforanyreason;
+5 (i) Any unused or voided ballots of each printed, serial numbered and designated lot
+6 shall be properly labeled and kept with all other ballots of the same printed, serial numbered and
+7 designatedlot;
+8 (j) All ballots shall be stored in a twenty-four hour, continuously electronically
+9 surveilled, secured, and locked, ballot storage area, accessed by only authorized election officials, or
+10 by registered voters accompanied by such authorized officials, beginning the day ending one week
+11 aftertheballotsarecountedanddeclared,andthereafter,butbyappointment,post-election;
+12 (k) Theelectionshallendatmidnightonelectionday;
+13 (l) When each poll is closed, ballot counting shall begin, and end only when completely
+14 finished,andwithimmediacybedeclared,inthemostprecise,butspeedymannerpossible;
+15 (m) All ballots and any election records shall be retained in a secured specified location
+16 of the respective city or town for a period of sixty months, including times of recounts, and shall be
+17 accessible by appointment upon one week’s notice, to registered voters during the retention period
+18 whileaccompaniedbyalocalelectionofficialforviewingand/orrecordingofsaidrecords;
+19 (n) All original ballots of each printed, serial numbered and designated lot shall be
+20 retained with its printed lot, in whole, pre-election and post-election, and no original copy shall be
+21 separated or removed from theroom or vault holdingits printed, serial numbered and designated lot
+22 after counting and being stored, nor shall any original copy be removed from the ballot storage area,
+23 room or vault unless publicly memorialized and printed, first by the local government, and then by
+24 thesecretaryofstate,duringthesixtymonthretentionperiod;
+25 (o) Any new ballot storage room, vault or facility in any town, city or municipality, and
+26 deemed secure and approved by the same, may only be filled with election ballots, ballot lots,
+27 documents, or pertaining materials, but shall only be deemed for usage of the next election's ballots,
+28 documentation or pertaining materials, after the next subsequent election. And any movement of
+29 prior stored election ballot lots, documentation or pertaining materials to a new ballot storage
+30 facility shall be memorialized and publicly printed by the local government, and the projected move
+31 shallbeforehand,bememorializedandpubliclyprintedbythesecretaryofstate;
+32 (p) Any original ballots of each printed, serial numbered and designated lot needed for
+33 judicial reasons, shall be done by copying original ballots and other retained election documentation;
+34 no originals shall for judicial reasons, be removed from said ballot storage room, vault or ballot
+35 storagefacilityuntilthesixtymonthretentiondatehasexpired;
+36 (q) All New Hampshire towns and cities, through their moderators and clerks, shall
+37 administer any and all elections held in this state with complete honesty and transparency. All
+
+CACR31 -ASINTRODUCED
+-Page5-
+1 moderators and clerks shall attend annual specific training to ensure complete compliance with the
+2 statewideelectionprocesspoliciesandproceduresregardingballotreconciliations;
+3 (r) Pollinglocationsarelimitedto5,000lawfulvoters;
+4 (s) Lawfulvotersfromthecurrentchecklistshallbechosenatrandomtobepoll
+5 workers;and
+6 (t) At least two municipalities from each county, chosen at random by the secretary of
+7 state shall be audited after each election by state citizens domiciled from that, or a different intra-
+8 state county; or be granted egress from out of state as voter integrity experts, but upon request by a
+9 non-refusable notice to the secretary of state by any citizen or citizens of the state of New
+10 Hampshire."
+11 V. That the secretary of state shall print the question to be submitted on a separate ballot
+12 with other constitutional questions or on the official ballot. The ballot containing the question shall
+13 include2ovalsnexttothequestionallowingthevotertovote“Yes”or“No.” Ifnoovalismarked,the
+14 ballotshallnotbecountedonthequestion. Theoutsideoftheballotshallbethesameastheregular
+15 official ballot except that the words “Questions Relating to Constitutional Amendments proposed by
+16 the2026GeneralCourt”shallbeprintedinboldtypeatthetopoftheballot.
+17 VI. Thatiftheproposedamendmentisapprovedby2/3ofthosevotingontheamendment, it
+18 becomeseffectivewhenthegovernorproclaimsitsadoption.
+19 VII. Voters'Guide.
+20 AT THE PRESENT TIME, the provisions governing ballot reconciliation, ballot
+21 access, ballot retention, polling location limits, selection of poll workers, allowance of registered
+22 voters for post-election ballot viewing, allowance for recording ballot lot and voting documentation
+23 during citizen audits and compliance with Presidential Executive Order 14248 (March 25, 2025) are
+24 notadoptedintheNewHampshireconstitution.
+25 IF THE AMENDMENT IS ADOPTED, the provisions governing ballot reconciliation,
+26 ballot access, ballot retention, polling location limits, selection of poll workers, allowance of
+27 registered voters for post-election ballot viewing, allowance for recording ballot lot and voting
+28 documentation during citizen audits and compliance with Presidential Executive Order 14248
+29 (March25,2025)willbeadoptedintheNewHampshireconstitution.

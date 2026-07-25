@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER226
+HB1384-FINALVERSION
+12Mar2026...0921h
+05/14/2026 1911s
+05/14/2026 1928s
+2026SESSION
+26-3174
+07/09
+1384
+HOUSEBILL
+ANACT relative to prohibiting foreign adversary persons or foreign entities of concern from
+financing lawsuits, prohibiting foreign principals from registering as lobbyists, and
+requirescertaindisclosuresforpersonsactingonbehalfofforeignprincipals.
+SPONSORS: Rep. Cole, Hills. 26; Rep. Aures, Merr. 13; Rep. Kesselring, Hills. 18; Rep. Kofalt,
+Hills. 32; Rep. Ouellet, Coos 3; Rep. Post, Hills. 42; Rep. Wood, Merr. 13; Rep. Hunt,
+Ches.14;Sen.Birdsell,Dist19;Sen.Gannon,Dist23;Sen.Reardon,Dist15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits foreign adversary persons or foreign entities of concern from financing lawsuits,
+prohibits foreign principals from registering as lobbyists, and requires certain disclosures for persons
+actingonbehalfofforeignprincipals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER226
+HB1384-FINALVERSION
+12Mar2026...0921h
+05/14/2026 1911s
+05/14/2026 1928s 26-3174
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to prohibiting foreign adversary persons or foreign entities of concern from
+financing lawsuits, prohibiting foreign principals from registering as lobbyists, and
+requirescertaindisclosuresforpersonsactingonbehalfofforeignprincipals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 226:1 New Chapter; New Hampshire Third-Party Litigation Funding Transparency Act. Amend RSA
+2 byinsertingafterchapter294-Ethefollowingnewchapter:
+3 CHAPTER294-F
+4 NEWHAMPSHIRETHIRD-PARTYLITIGATIONFUNDINGTRANSPARENCYACT
+5 294-F:1 Definitions. Inthischapter:
+6 I. "Commercial litigation financier" means a person in the business of entering into commercial
+7 litigationfinancingagreementsorlawyerfinancingagreements. Theterm"commerciallitigationfinancier"
+8 shall not include a nonprofit organization exempt from federal income tax under 501(c)(3) of the United
+9 StatesInternal RevenueCodeoritsfundersif thenonprofit organizationrepresentstheclaimant onapro
+10 bonobasis,whichmayincludeanawardofcostsorattorneyfeestothenonprofitorganizationorarelated
+11 attorney.
+12 II. "Consumer legal funding agreement" means a non-recourse transaction in which a consumer
+13 litigation funding company purchases, and a consumer assigns to the company, a contingent right to
+14 receive an amount of the potential proceeds of a settlement, judgment, award, or verdict obtained in the
+15 consumer'slegalclaim.
+16 III. "Commerciallitigationfinancingagreement"means,withrespecttoanycivilactionorgroupof
+17 civilactions,awrittenagreement:
+18 (a) Wherebyathirdpartyagreestoprovidefundstooneofthenamedpartiesoranylawfirm
+19 affiliatedwiththeactionorgroupofactions;and
+20 (b) Which creates a direct or collateralized interest in the proceeds of a civil action or group
+21 of civil actions, by settlement, verdict, judgment, or otherwise, wheresuch interest isbased inwholeor in
+22 partonafundingobligationtothefundedpartyintheactionorgroupofactions.
+23 (1) "Commercial litigation financing agreement" shall include any contract, including any
+24 option,forwardcontract,futurescontract,shortposition,swap,orsimilarcontract,orotheragreementthat
+25 issubstantiallysimilartoalitigationfinancingagreement.
+26 (2) "Commerciallitigationfinancingagreement"shallnotinclude:
+27 (A) Aconsumerlegalfundingagreement;
+28 (B) An agreement by an attorney or law firm to provide legal services on a
+29 contingencyfeebasistotheclaimantortoadvancetheclaimant'slegalcostsinaccordancewiththeNew
+30 Hampshirerulesofprofessionalconduct;
+
+CHAPTER226
+HB1384-FINALVERSION
+-Page2-
+1 (C) Ahealthinsurer,medicalprovider,or assigneethathaspaid,isobligatedtopay,
+2 orisowedanysumsforaperson’shealthcareunderthetermsofahealthinsuranceplanoragreement;
+3 (D) Afinancialinstitutionprovidingloanstotheclaimantortheclaimant’sattorneyor
+4 law firm when repayment is not contingent upon the outcome of the legal claim or on the outcome of any
+5 matter within a portfolio that includes the legal claim and involves the same attorney or law firm or
+6 affiliatedattorneyorlawfirm;or
+7 (E) A person with a preexisting contractual obligation to indemnify or defend a party
+8 toalegalclaim.
+9 IV. "Foreign country of concern" means a foreign government or person listed as a “foreign
+10 adversary”under15C.F.R.791.4.
+11 V. "Foreignentityofconcern"or"foreignpersonofconcern"meansanentityorpersonthat:
+12 (a) Isorganizedorincorporatedinaforeigncountryofconcern;
+13 (b) Is owned or controlled by the government, a political subdivision, or a political party of a
+14 foreigncountryofconcern;
+15 (c) Hasitsprincipalplaceofbusinessinaforeigncountryofconcern;or
+16 (d) Isowned,organized,orcontrolledby,affiliatedwith,oractingonbehalfofanindividualor
+17 entitythatisorhasbeen:
+18 (1) OnasanctionslistmaintainedbytheOfficeofForeignAssetsControl,including:
+19 (A) SpeciallyDesignatedNationalsandBlockedPersonsList(SDNList);
+20 (B) ForeignSanctionsEvadersList;
+21 (C) Non-SDNIranSanctionsActList;
+22 (D) SectoralSanctionsIdentificationsList;or
+23 (E) List of Foreign Financial Institutions Subject to Correspondent Account and
+24 Payable-ThroughAccountSanctions;or
+25 (2) DesignatedbytheUnitedStatesSecretaryofStateasaforeignterroristorganization.
+26 294-F:2 ProhibitionsRelatedtoCommercialLitigationFunding. Nopersonorentityshallenterintoa
+27 commerciallitigationfinancingagreementwith,orintoanagreementfundeddirectlyorindirectly,inwhole
+28 or inpart, byaforeignentityof concernor aforeigncountryor personof concern, or anyentitycontrolled
+29 byanyoftheforegoingpersonsorentities.
+30 294-F:3 Applicability. This chapter shall apply to any commercial litigation financing agreement that
+31 iseffectuatedonoraftertheeffectivedateofthischapter.
+32 226:2 Lobbyists;Registration. AmendRSA15:1,Itoreadasfollows:
+33 I. Any person who is employed for a consideration by any other person, except the state of New
+34 Hampshire,inarepresentativecapacityforthepurposesspecifiedinparagraphIIofthissectionshallfirst
+35 register as a lobbyist with the secretary of state through the secretary of state's online lobbyist filing
+36 system. Each registration shall report the existence of a relationship between a single client and either a
+37 singlelobbyistorapartnership,firm,orcorporationwithoneormorepartners,members,oremployeesof
+38 afirm actingaslobbyist. Theregistrationshallstatewhethertheclientisaforeignprincipalasdefinedin
+39 RSA477:22-b,and,ifso,thenameoftheforeigncountryofconcernasdefinedinRSA477:22-b.
+
+CHAPTER226
+HB1384-FINALVERSION
+-Page3-
+1 226:3 NewParagraphs;Lobbyists;Registration. AmendRSA15:1byinsertingafterparagraphVIthe
+2 followingnewparagraphs:
+3 VII. Aforeignprincipal, asdefinedinRSA477:22-b, may not register asa lobbyist inthestate of
+4 NewHampshire.
+5 VIII. Any person registered under this chapter who appears before a legislative committee or
+6 otherpublichearingonbehalfofaforeignprincipal,asdefinedbyRSA477:22-b,shall:
+7 (a) Identifythemselvesfortherecord;and
+8 (b) Disclose that they are registered as a lobbyist on behalf of a foreign principal or foreign
+9 countryofconcern.
+10 IX. The secretary of state shall provide an annual report to the president of the senate, the
+11 speaker of the house of representatives, and the governor listing anyone registered as a lobbyist in the
+12 state of New Hampshire for a foreign principal, as defined in RSA 477:22-b, and shall include the names
+13 oftherelevantforeigncountriesofconcern,asdefinedinRSA477:22-b,represented.
+14 226:4 Lobbyists;Statements. AmendRSA15:6,V(d)toreadasfollows:
+15 (d) For each lobbying client, the full name and business address of the client, the scope of
+16 the representation or lobbyist services being paid for, the gross amount of all fees received from that
+17 client, not reduced by any expenses, that are related, directly or indirectly, to lobbying, such as public
+18 advocacy, government relations, or public relations services including research, monitoring legislation,
+19 and related legal work, a statement of the aggregate total of fees received that are related, directly or
+20 indirectly,tolobbyingservicesduringthecalendar year,andastatement ofanyfeepayment due,but not
+21 yetpaid. IftheclientisaforeignprincipalasdefinedinRSA477:22-b,thestatementshallclearlyindicate
+22 thisstatusandthenameoftheforeigncountryofconcernasdefinedinRSA477:22-b.
+23 226:5 EffectiveDate.
+24 I. Section2ofthisactshalltakeeffectat12:01a.m.onJanuary1,2027.
+II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+Approved:July02,2026
+EffectiveDate:
+I.Section2effective12:01a.m.January1,2027
+II.RemaindereffectiveJanuary1,2027

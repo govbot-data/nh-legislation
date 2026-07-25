@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER73
+HB1175-FN-FINALVERSION
+2026SESSION
+26-2631
+09/08
+1175-FN
+HOUSEBILL
+ANACT relativetotheoffenseofuseofscanningdeviceorreencodertodefraud.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. Kuttab, Rock. 17; Rep. A. Murray, Hills. 20; Rep.
+Rhodes, Ches. 17; Rep. Rice, Hills. 38; Rep. Roy, Rock. 31; Sen. Lang, Dist 2; Sen.
+Reardon,Dist15;Sen.Sullivan,Dist18;Sen.Ricciardi,Dist9
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill updates the offense prohibiting the use of a scanning device or reencoder to defraud by
+including the scanning and reencoding of information contained on integrated circuit chips of payment
+cardsinsteadofjustmagneticstripsorstripes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER73
+HB1175-FN-FINALVERSION
+26-2631
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofuseofscanningdeviceorreencodertodefraud.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 73:1 Use of Scanning Device or Reencoder to Defraud Prohibited. Amend RSA 638:29, I to read as
+2 follows:
+3 I. A person is guilty of the crime of using a scanning device or reencoder to defraud when the
+4 personknowingly:
+5 (a) Uses a scanning device to access, read, obtain, memorize, or store, temporarily or
+6 permanently, information encoded on the magnetic strip or stripe oronanintegratedcircuitchipof a
+7 payment card without the permission of the authorized user of the payment card and with the intent to
+8 defraudtheauthorizeduser,theissueroftheauthorizeduser'spaymentcard,oramerchant;or
+9 (b) Uses a reencoder to place information encoded on the magnetic strip or stripe or
+10 integratedcircuitchipof a payment card onto the magnetic strip or stripe orintegratedcircuitchipof a
+11 differentcardwithoutthepermissionoftheauthorizeduserofthecardfromwhichtheinformationisbeing
+12 reencodedandwith theintent todefraud theauthorizeduser, theissuer of the authorizeduser's payment
+13 card,oramerchant.
+14 73:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:May18,2026
+EffectiveDate:January01,2027

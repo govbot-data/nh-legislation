@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1063-FN-ASINTRODUCED
+2026SESSION
+26-2292
+07/06
+1063-FN
+HOUSEBILL
+ANACT reducingtheamountofmealsandroomstaxesoperatorscanretain.
+SPONSORS: Rep. Petrigno, Hills. 43; Rep. Oppel, Graf. 9; Rep. Cahill, Rock. 10; Rep. Veilleux,
+Hills.34;Rep.Dargie,Hills.43
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillreducestheamountofmealsandroomstaxesoperatorscanretain.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1063-FN-ASINTRODUCED
+26-2292
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT reducingtheamountofmealsandroomstaxesoperatorscanretain.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation; Tax on Meals and Rooms; Collection of Tax. Amend RSA 78-A:7, III to read as
+2 follows:
+3 III. To compensate operators for keeping the prescribed records and the proper account and
+4 remitting of taxes by them, operators are allowed to retain [3] 1.5 percent of the taxes due and to be
+5 remitted if the return and payment are timely received by the department of revenue
+6 administration,asprovidedinRSA78-A:8,III.
+7 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2292
+11/4/25
+HB1063-FN-FISCALNOTE
+ASINTRODUCED
+ANACT reducingtheamountofmealsandroomstaxesoperatorscanretain.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Increase Increase Increase
+RevenueFund(s) GeneralFundandEducationTrustFund,M&RMunicipalRevenueFund
+Indeterminable Indeterminable
+Expenditures* $0 $0
+Increase Increase
+FundingSource(s) M&RMunicipalRevenueFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+Indeterminable Indeterminable
+LocalRevenue $0 $0
+Increase Increase
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill will decrease the Meals and Rooms (M&R) operator commission from 3% to 1.5% for
+returnsthataretimelyandelectronicallyfiledwiththeDepartmentofRevenueAdministration.
+The Department states this bill will result in an indeterminable increase in General Fund and
+Education Trust Fund revenue, increase in M&R Municipal Revenue Fund revenue and
+expenditures, and increase inrevenue tomunicipalities. The Department is not ableto estimate
+the exact fiscal impact as the Department does not know the total M&R revenue or the amount
+that will be retained by operators in future years. Using FY 2025 M&R data, the Department is
+able provide an estimated fiscal impact of this bill. In FY 2025, operators retained $12.8 million
+in commission at 3%. If the operator commission had been the proposed 1.5%, approximately
+$6.4millionwouldhavebeenretainedbyoperators,increasingM&Rrevenuetothestateby$6.4
+
+million, of which $6.3 million would have been General Fund revenue and $0.1 million would
+havebeenEducationTrustFundrevenue.
+It should be noted that with an effective date of 7/1/26, the first month of the reduced operators
+commission retained would not be recognized until 8/15/26, as the M&R revenue is due by the
+15th day of the month following the taxable period. As a result, the revenue increase in FY
+2027, using the static analysis of FY 2025 data, would be approximately $5.8 million ($5.7
+millioninGeneralFundsand$0.1millioninEducationTrustFunds). Seetablebelow.
+StaticAnalysisUsingFY2025
+DecreasetheM&ROperatorCommissionfrom3.0%to1.5%
+($inmillions)
+FiscalImpact
+(Proposed
+Legislation
+CurrentLaw3% ProposedLaw Comparedto
+Fund Retained 1.5%Retained CurrentLaw)
+FY2027
+GeneralFund ($11.3) ($5.6) $5.7
+EducationTrust
+Fund ($0.3) ($0.2) $0.1
+Total ($11.6) ($5.8) $5.8
+FY2028and
+Forward
+GeneralFund ($12.5) ($6.2) $6.3
+EducationTrust ($0.3) ($0.2) $0.1
+Fund
+Total ($12.8) ($6.4) $6.4
+As a result of the increased General Fund revenue back to the state, the M&R Municipal
+Revenue Fund would experience an increase in revenue and expenditures beginning in FY 2028.
+TheDepartmentestimatestheincreasewouldbeapproximately$1.7million($5.7million*30%)
+inFY2028and$1.8million($6.3million*30%)inFY2029andeachyearthereafter.
+Due to the increased M&R Municipal Revenue Fund transfer, the net impact to the General
+Fund in FY 2028 would be a$4.0 million increase ($5.7 million less $1.7 million to M&R
+Municipal Revenue Fund) and in FY 2029 and each year thereafter would be $4.5 million
+increase($6.3millionless$1.8milliontoM&RMunicipalRevenueFund).
+The Department is able to absorb any administrative costs that might be associated with the
+changescontainedinthisbill.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

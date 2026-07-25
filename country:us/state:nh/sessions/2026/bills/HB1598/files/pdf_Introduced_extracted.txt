@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1598-FN-ASINTRODUCED
+2026SESSION
+26-3181
+07/06
+1598-FN
+HOUSEBILL
+ANACT relativetonoticefortenantsandlandlordsengagedinevictionprocesses.
+SPONSORS: Rep. Dumont, Hills. 13; Rep. Cole, Hills. 26; Rep. Beaulier, Graf. 1; Rep. Ulery,
+Hills.13;Sen.Carson,Dist14
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates an expedited eviction procedure for landlords who seek to evict tenants for non-
+paymentofrentorforamaterialbreachofarentalagreement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1598-FN-ASINTRODUCED
+26-3181
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetonoticefortenantsandlandlordsengagedinevictionprocesses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Proceedings in Special Cases; Actions Against Tenants; Possessory Action. Amend RSA
+2 540:12toreadasfollows:
+3 540:12 Possessory Action. The owner, lessor, or purchaser at a mortgage foreclosure sale of any
+4 tenement or real estate may recover possession thereof from a lessee, occupant, mortgagor, or other
+5 person in possession, holding it without right, after notice in writing to quit the same as herein
+6 prescribed. Nothinginthissectionshallpreventtheissuanceofawritofpossessionwithout
+7 hearing in an expedited possessory action brought under RSA 540:13-f when the tenant
+8 failstofileatimelyappearanceoranswer.
+9 2 New Paragraph; Proceedings in Special Cases; Actions Against Tenants; Writ; Service;
+10 Discovery; Record; Default. Amend RSA 540:13 by inserting after paragraph VII the following new
+11 paragraph:
+12 VIII. The court shall not grant any stay of execution or delay the issuance of a writ of
+13 possession in actions brought under the expedited procedure in RSA 540:13-f, except as expressly
+14 providedinthatsection.
+15 3 New Section; Proceedings in Special Cases; Actions Against Tenants; Expedited Eviction for
+16 Non-Payment or Material Non-Compliance. Amend RSA 540 by inserting after section 13-e the
+17 followingnewsection:
+18 540:13-f ExpeditedEvictionforNon-PaymentorMaterialNon-Compliance.
+19 I. Notwithstanding RSA 540:12 and RSA 540:13, a landlord may elect to bring an expedited
+20 possessoryactionunderthissectionwhenthesolegroundforevictionis:
+21 (a) Non-paymentofrent;or
+22 (b) A material breach of a rental agreement that materially affects health or safety or
+23 constitutescriminalactivityordrug-relatedcriminalactivity.
+24 II. In anexpeditedevictionproceedingunderthissection:
+25 (a) The landlord shall serve a 5-day notice to quit that contains, in 14-point bold type,
+26 thefollowingstatement:
+27 “THISISANEXPEDITEDEVICTIONACTION. Ifyoudonotvacateorpayallpast-duerentwithin
+28 5days,thelandlordmayfileacourtactionseekingimmediatepossession. Youwillhaveonly3days
+29 after service of the court summons to file an answer or you will lose by default and the court may
+30 orderyourimmediateremoval.”
+
+HB1598-FN-ASINTRODUCED
+-Page2-
+1 (b) If the tenant fails to vacate or cure, the landlord may file a landlord-tenant writ
+2 marked“EXPEDITED”withthecircuitcourt.
+3 (c) Thereturndayshallbenotlessthan3days,normorethan7daysafterfiling.
+4 (d) The tenant must file any answer or counterclaims within 3 days of service of the
+5 writ. Failure to file a timely answer shall result in default and immediate issuance of a writ of
+6 possessionwithoutfurtherhearing.
+7 (e) Ifthetenantdoesfileatimelyanswer,thecourtshallholdanevidentiaryhearingno
+8 laterthan7daysaftertheanswerisfiled. Thescopeofthehearingshallbelimitedto:
+9 (1) Whetherrentisowedandunpaid;or
+10 (2) Whether the alleged material breach occurred. Defenses unrelated to these
+11 issuesshallnotbeheardintheexpeditedactionandmayonlyberaisedinaseparatecivilaction.
+12 III. No stays of execution under RSA 540:13 shall be granted in expedited actions except for
+13 paymentofallarrearspluscostsandstatutoryinterestwithin48hoursofjudgment.
+14 IV. The court shall issue the writ of possession immediately upon default or upon finding in
+15 favor of the landlord after hearing. Execution may occur as soon as 24 hours after issuance unless
+16 thetenantpostsabondequalto2months’rent.
+17 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3181
+12/8/25
+HB1598-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetonoticefortenantsandlandlordsengagedinevictionprocesses.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$50,000to $100,000to $100,000to
+$250,000 $500,000 $500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates an expedited eviction procedure for cases involving nonpayment of rent or a
+material breach of a rental agreement. It shortens response deadlines for tenants, requires the
+court to schedule expedited hearings, limits available defenses, restricts stays of execution, and
+requirespromptissuanceofwritsofpossession.
+The Judicial Branch states this bill will require new forms, revised court procedures, updated
+training materials, and modifications to the court’s case management system. Because
+expedited eviction cases will require accelerated scheduling, the Branch would need additional
+staffing to manage the new timelines. The Branch anticipates that additional administrative
+and case-processing responsibilities will range between $100,000 to $500,000 per a year starting
+inFY2028. SincethebilltakeeffectJanuary1,2027theestimatedimpactforthehalf-yearcost
+will be between $50,000 to $250,000. The Branch did not provide information on what positions
+orexactoperationalcoststhatwillbeneededtoimplementtheexpeditedevictionprocess.
+AGENCIESCONTACTED:
+JudicialBranch

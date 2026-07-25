@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1410-FN-ASINTRODUCED
+2026SESSION
+26-3084
+06/09
+1410-FN
+HOUSEBILL
+ANACT creatinganewclassificationforelectricvehicles.
+SPONSORS: Rep.T. Walsh,Merr. 10;Rep. St.Clair, Belk.5; Rep.Veilleux, Hills.34; Rep. Hill,
+Merr.2
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill defines out-of-class electric vehicles, establishes disclosure requirements for sellers,
+restricts public operation unless reclassified, sets equipment and licensing standards, imposes age
+andsafetyrequirements,andestablishespenaltiesforviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1410-FN-ASINTRODUCED
+26-3084
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatinganewclassificationforelectricvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Out-of-Class Electric Vehicles. Amend RSA 259 by inserting after section 27-a
+2 thefollowingnewsection:
+3 259:27-b Out-of-ClassElectricVehicles.
+4 I. “Out-of-classelectricvehicle”or“OCEV”meansanyvehiclewithfewerthan4wheelsthat:
+5 (a) Is powered by an electric motor with a continuous rated output of 750 watts or
+6 greater;
+7 (b) Is capable of attaining a speed of 20 miles per hour or greater on motor power alone;
+8 and
+9 (c) Isnototherwiseclassifiedas:
+10 (1) Amoped;
+11 (2) Amotor-assistedscooter;
+12 (3) Amotorcycle;
+13 (4) Amotor-drivencycle;or
+14 (5) Anelectricpersonalassistivemobilitydevice.
+15 II. AvehicleshallalsobeconsideredanOCEVifit:
+16 (a) Hasmultipleoperatingmodes,includinganymodethatexceeds20milesperhouron
+17 motorpoweralone;or
+18 (b) Is advertised, marketed, or sold in a manner that implies it functions as an electric
+19 bicyclebutdoesnotmeetthedefinitionof“electricbicycle”underRSA259:27-a.
+20 III. OCEVs shall be considered “motor vehicles” under RSA 259:60 solely for the purposes of
+21 violationsofRSA265-A:2andRSA265-A:3.
+22 2 New Section; Disclosures. Amend RSA 357-C by inserting after section 3-a the following new
+23 section:
+24 357-C:3-b DisclosureofOut-of-ClassElectricVehicleStatusRequired.
+25 I. Any seller of a new or used electric vehicle with fewer than 4 wheels that does not meet
+26 the definition in RSA 259:27-a shall provide the following disclosure at the point of sale and in all
+27 advertising:
+28 "THIS VEHICLE IS NOT AN ELECTRIC BICYCLE AS DEFINED BY NH RSA 259:27-a AND IS
+29 INSTEAD A TYPE OF MOTOR VEHICLE AND SUBJECT TO APPLICABLE MOTOR VEHICLE
+30 LAWSIFUSEDONPUBLICROADSORPUBLICLANDS."
+31 II. Thisdisclosureshall:
+
+HB1410-FN-ASINTRODUCED
+-Page2-
+1 (a) Beinbold,capitalletters;
+2 (b) Appearinafontsizeequaltoorlargerthanthevehicledescription;and
+3 (c) Be included in all online listings, printed materials, and social media posts for the
+4 vehicle.
+5 III. Failure to provide this disclosure constitutes prima facie evidence of a deceptive trade
+6 practiceunderRSA358-A:2.
+7 3 New Sections; Operation and Classification. Amend RSA 265 by inserting after section 144-a
+8 thefollowingnewsections:
+9 265:144-b OperationandClassificationofOut-of-ClassElectricVehicles.
+10 I. An OCEV shall not be operated on any public way or non-motorized rail trail system
+11 unless:
+12 (a) ThevehicleisreclassifiedunderachapteroftheRSAthatpermitssuchuse;
+13 (b) Itmeetsallapplicablesafetyandregistrationrequirements;and
+14 (c) Theoperatorshallfollowallapplicablerulesoftheroad.
+15 II. OCEVs shall be exempt from the electric vehicle registration fee established in RSA
+16 261:141-c.
+17 III. NopersonshalloperateanOCEVunlessitisequippedwith:
+18 (a) At least one, but not more than 2, headlights in working order for use from one hour
+19 aftersunsettoonehourbeforesunrise;
+20 (b) Oneormorereartaillightsinworkingorderforthesameperiod;
+21 (c) Adequate brakes capable of stopping the vehicle within 40 feet at 20 miles per hour
+22 orlockingthewheelstoastandstill;
+23 (d) Atleastonemirror;and
+24 (e) Eitherabellorhorn.
+25 IV. Aspeedometerisrequiredunlessonewasnotoriginallyinstalledbythemanufacturer.
+26 V. OperatorsofOCEVsshall:
+27 (a) Holdavalidoperator’slicenseinaccordancewithRSA263:1;and
+28 (b) Be subject to RSA 263:64 if operating an OCEV upon a public way while under
+29 licensesuspensionorrevocation.
+30 265:144-c DesignatedUseandAgeRestrictionsforOut-of-ClassElectricVehicles.
+31 I. OCEVsmaybeoperatedonlyindesignatedareasasdefinedbyRSA.
+32 II. Operation on public ways or non-motorized rail trails is prohibited unless explicitly
+33 authorized.
+34 III. Operatorsshallweareyeglasses,goggles,oraprotectivefaceshieldwhenoperatingona
+35 publicway.
+36 IV. Nopersonunder16yearsofageshalloperateanOCEV.
+37 V. Anyriderunder18yearsofageshallwearahelmet.
+
+HB1410-FN-ASINTRODUCED
+-Page3-
+1 265:144-d Penalties for Violations of Out-of-Class Electric Vehicle Laws. Any person or entity
+2 foundinviolationofthisactshallbeguiltyofaviolationandsubjecttoafineof$250peroffense.
+3 4 EffectiveDate.
+4 I. Section2ofthisactshalltakeeffectJuly1,2026.
+5 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3084
+11/25/25
+HB1410-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creatinganewclassificationforelectricvehicles.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+None
+RevenueFund
+DepartmentofSafety-$16,000inFY2027
+Expenditures*
+CriminalJusticeSystem-Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+Thisbillcreatesanewclassificationforcertainhigh-powered,non-standardelectricvehiclesthat
+fall outside of existing definitions as out-of-class electric vehicles (OCEVs). In addition to
+definitions, it also establishes disclosure requirements, operating rules, safety standards, age
+restrictions, and penalties. OCEVs are defined as motor vehicles solely for the purposes of DUI
+statutes and are subject to all DUI conviction requirements and sanctions, as well as fines
+associated with violations under the outlined legislation proposed. To implement these changes,
+the Department of Safety states it would incur a one-time cost (information technology and form
+changes)of$16,000inFY2027.
+
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association

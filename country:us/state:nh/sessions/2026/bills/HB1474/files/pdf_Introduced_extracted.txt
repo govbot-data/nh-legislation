@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1474-FN-ASINTRODUCED
+2026SESSION
+26-2959
+04/09
+1474-FN
+HOUSEBILL
+ANACT relativetotheformulaofdistributionofrevenuefromthemealsandroomstax.
+SPONSORS: Rep. D. McGuire, Merr. 14; Rep. Pauer, Hills. 36; Rep. Spilsbury, Sull. 3; Rep.
+Cole, Hills. 26; Rep. Layon, Rock. 13; Rep. Aures, Merr. 13; Rep. Ohm, Hills. 10;
+Rep. S. Smith, Sull. 3; Sen. Murphy, Dist 16; Sen. Rosenwald, Dist 13; Sen.
+Sullivan,Dist18;Sen.Birdsell,Dist19
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillestablishesaframeworkfordistributingaportionofNewHampshire'smealsandrooms
+taxrevenuetomunicipalitiesbasedonrelativefiscalcapacity.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1474-FN-ASINTRODUCED
+26-2959
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheformulaofdistributionofrevenuefromthemealsandroomstax.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Sections; Meals and Rooms Municipal Revenue Fund Established. Amend RSA 78-A by
+2 insertingaftersection26thefollowingnewsections:
+3 78-A:27 Mealsand RoomsMunicipal Revenue FundEstablished. There isherebyestablished in
+4 thetreasurythemealsand rooms municipalrevenue fund. Anymoneydepositedintothemeals and
+5 rooms municipal revenue fund shall be nonlapsing and continually appropriated to the state
+6 treasurer for distribution to the unincorporated towns, unorganized places, towns, and cities
+7 pursuanttoRSA78-A:28.
+8 78-A:28 Meals and Rooms Municipal Revenue Fund. On or before December 1, 2026, and each
+9 December 1 thereafter, 30 percent of the net income determined under RSA 78-A:26, I of the most
+10 recent fiscal year, after deductions for the cost of administration and revenues deposited in the
+11 education trust fund pursuant to RSA 78-A:26, II, shall be deposited into the meals and rooms
+12 municipal revenue fund established pursuant to RSA 78-A:27 for distribution to the unincorporated
+13 towns,unorganizedplaces,towns,andcities.
+14 78-A:29 MealsandRoomsMunicipalRevenueFundDistributionFormula.
+15 I. The amount to be distributed to each such town, place, or city from the meals and rooms
+16 municipal revenue fund shall be determined based on the most recent community population
+17 estimates adjusted by removing those living in property tax exempt housing including on-campus
+18 college housing, prisons, jails and similar institutions, county nursing homes and not for profit
+19 nursinghomes,andthemostrecentequalizedpropertyvaluespercommunity.
+20 II. The state treasurer shall calculate the average equalized property value per adjusted
+21 population and distribute funds to each such town, place, or city with an average equalized property
+22 valueperadjustedpopulationequaltoorlesserthan$500,000asfollows:
+23 (a) For each town, place, or city, the state treasurer shall calculate a factor by
+24 subtracting the average equalized property value per adjusted population from $500,000 and then
+25 dividingsaidsumby$200,000.
+26 (b) The factor calculated pursuant to subparagraph (a) shall then be multiplied against
+27 theadjustedpopulationofeachtown,place,orcitytoarriveatapopulationfactor.
+28 (c) Distributions shall then be determined by multiplying the population factor
+29 calculated pursuant to subparagraph (b) against the result of the total distribution calculated
+30 pursuanttoRSA78-A:28asdividedbythesumofallpopulationfactors.
+31 2 ApplicationofReceipts. AmendRSA6:12,I(b)(369)toreadasfollows:
+
+HB1474-FN-ASINTRODUCED
+-Page2-
+1 (369) Moneys deposited in the meals and rooms municipal revenue fund established
+2 inRSA[78-A:26,IV]78-A:27.
+3 3 Repeal. Thefollowingarerepealed:
+4 I. RSA78-A:26,IIIandIV,relativetothedispositionofmealsandroomstaxrevenue.
+5 II. RSA 198:39, II(i), relative to the school portion of any revenue sharing funds apportioned
+6 toschooldistrictsinthepropertytaxratecalculations.
+7 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2959
+11/30/25
+HB1474-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheformulaofdistributionofrevenuefromthemealsandroomstax.
+FISCALIMPACT:
+This bill does not impact the amount of Meals and Rooms (M&R) tax revenue remitted back to
+the state or the amount distributed from the M&R Municipal Revenue Fund. However, the bill
+does alter the amount individual municipalities may receive from the M&R Municipal Revenue
+Fund by using a more complex apportionment based on a population factor and excluding
+locations with an average equalized property value per adjusted population greater than
+$500,000.
+TheformulatocalculatetheM&Rdistributiontoeachtown,placeorcitywouldbe:
+$500,000–ave.equalizedpropertyvalueperadjustedpopulation
+______________________________________________________ x adjustedpopulationfactor
+$200,000
+Determiningeachlocation’sadjustedpopulationwouldrequireexcludingthoselivinginproperty
+tax exempt housing including on-campus college housing, prisons, jails and other similar
+institutions,countynursinghomesandnot forprofitnursinghomes. TheTreasuryDepartment
+indicates it would be able to obtain the adjusted population data from the Department of
+BusinessandEconomicAffairs.
+The Treasury Department would not be able to calculate the distribution of the M&R Municipal
+Revenue as the average equalized property value is not available. The Treasury Department
+confirmed with the Department of Revenue Administration that total equalized values by
+municipality,notaverageequalizedvalues,isavailable.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandTreasuryDepartment

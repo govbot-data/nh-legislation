@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1691 -ASINTRODUCED
+2026SESSION
+26-2689
+06/07
+1691
+HOUSEBILL
+ANACT relativetolimitationsandqualificationsforlandplacedincurrentuse.
+SPONSORS: Rep.Read,Rock.10;Rep.Wheeler,Hills.33
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill restrictseligibilityforcurrent usepropertytaxassessment basedonparcelsize, zoning,
+and sustainability criteria, and limits municipal approval percentages. This bill also imposes
+retroactivetaxliabilityforviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1691-ASINTRODUCED
+26-2689
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolimitationsandqualificationsforlandplacedincurrentuse.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Restriction of Current Use Taxation Eligibility. Amend RSA 79-A by
+2 insertingaftersection26thefollowingnewsubdivision:
+3 RestrictionofCurrentUseTaxationEligibility
+4 79-A:27 RestrictionofCurrentUseTaxationEligibility.
+5 I. Eligibilityforcurrentuseassessmentshallbelimitedasfollows:
+6 (a) No person, entity, shareholder, or member of a limited liability company, shall be
+7 eligibletoenrollmorethanonelotoflandincurrentuseunderthissection.
+8 (b) The maximum area within a given lot that is eligible for current use discounted tax
+9 assessmentshallnotexceed40acresinsemi-ruralzones. "Semi-ruralzone"meansazone:
+10 (1) Not located within an urbanized area or urban cluster as defined by the United
+11 States Census Bureau, where an “urban area” is any area with a population of 50,000 or more and
+12 an“urbancluster”isanyareawithapopulationofatleast2,500andlessthan50,000;and
+13 (2) Not meeting the definition of “rural” as used for Department of Agriculture rural
+14 development programs, where a “rural area” is defined as any area other than a city or town with a
+15 population greater than 35,000 and not contiguous to a city or town with a population greater than
+16 50,000;and
+17 (3) Is characterized by low to moderate population density, limited commercial or
+18 mixed commercial or agricultural activity, or both, and is not predominantly used for either
+19 intensiveagriculturalproductionordenseurbandevelopment.
+20 (c) In developed, suburban, or high-density zones, no more than 10 acres within a given
+21 lot shall be eligible for current use discounted tax assessment, and only if the parcel contains or
+22 abuts designated conservation or watershed land. For purposes of this section, “high-density zone”
+23 meansanyareathat:
+24 (1) Is part of an urbanized area or urban cluster as defined by the United States
+25 Census Bureau, where an “urbanized area” is a densely settled territory with a population of 50,000
+26 or more and a density of at least 1,000 persons per square mile, and an “urban cluster” has a
+27 populationofatleast2,500andlessthan50,000withsimilardensitycharacteristics;or
+28 (2) Is otherwise identified by the Department of Agriculture or the United States
+29 Census Bureau as non-rural based on population density thresholds or housing unit density
+30 standards exceeding 500 persons per square mile or 2,000 housing units per area as determined by
+31 themostrecentdecennialcensus.
+
+HB1691 -ASINTRODUCED
+-Page2-
+1 (d) No landlocated inhigh-densityzonesshall beeligibleforcurrent use taxassessment
+2 unlessthelotismadeavailableforpublicrecreationalusepursuanttoRSA79-A:4,II.
+3 II. Municipallimitationsoncurrentuseassessmentsshallbeasfollows:
+4 (a) No municipality shall approve current use for more than 75 percent of rural zones
+5 withinitsjurisdiction.
+6 (b) No municipality shall approve current use for more than 20 percent of semi-rural
+7 zones.
+8 (c) No municipality shall approve current use for more than 10 percent of suburban
+9 zones.
+10 (d) No municipality shall approve current use for more than 5 percent of high-density
+11 zones.
+12 III. Qualificationsforagriculturalandforestryuseundercurrentuseshallinclude:
+13 (a) Operations shall employ sustainable management techniques consistent with
+14 university of New Hampshire cooperative extension guidance, including invasive species
+15 management.
+16 (b) Chemical fertilizers or pesticides, including nitrogen- or sulfate-based substances,
+17 shallnotbeapplied.
+18 (c) Monoculture, tillage, and bare soil shall be limited in scope and confined to areas
+19 necessaryforoperationalviability,asdeterminedbygenerallyacceptedconservationpractices.
+20 (d) Clear-cuttingshall beprohibited. Forestryoperations shall demonstrate appropriate
+21 levels and methods of replanting and a net increase in total lumber-foot volume over time, once
+22 forestryoperationsundercurrentusehavebeenunderwayfor10years.
+23 (e) Nospeciesmayberaisedorplantedoutdoorsifitis:
+24 (1) NeithernativetoNewHampshirenordomesticated;
+25 (2) Potentially invasive, harmful to the ecosystem, or dangerous to humans,
+26 domesticatedanimals,orproperty;and
+27 (3) Identified as such under guidance from the university of New Hampshire
+28 cooperativeextension.
+29 (f) Agricultural or forestry operations shall not report profit or revenue that
+30 substantiallyexceedstypicalreturnsforcomparableoperationsundercurrentuse.
+31 IV. If any person or entity is found to have violated any provisions of this section, all
+32 deferredtaxes,calculatedusingthebestandhighestuserates,fromthelastdateofcomplianceshall
+33 be assessed and owed to the municipality. If the best and highest use assessments cannot be
+34 calculated for previous years, the current year assessment shall be used to calculate deferred taxes
+35 fromthelastdateofcompliance.
+36 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

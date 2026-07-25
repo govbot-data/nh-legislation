@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1516-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0610h
+2026SESSION
+26-2337
+07/06
+1516-FN
+HOUSEBILL
+ANACT allowing municipalities to vote to require that pie charts, bar charts, and QR
+codes be placed on property tax bills depicting where and how tax dollars are
+beingallocated.
+SPONSORS: Rep. Labrie, Hills. 2; Rep. Cole, Hills. 26; Rep. Drago, Rock. 4; Rep. Drew, Hills.
+19; Rep. Osborne, Rock. 2; Rep. Pauer, Hills. 36; Rep. Schneller, Hills. 2; Rep.
+Sweeney,Rock.25;Sen.McGough,Dist11;Sen.Sullivan,Dist18
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires municipalities to produce pie charts, bar charts, and QR codes on property tax
+billsdepictingwhereandhowtaxdollarsarebeingallocated.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1516-FN-ASAMENDEDBYTHEHOUSE
+12Mar2026...0610h 26-2337
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing municipalities to vote to require that pie charts, bar charts, and QR
+codes be placed on property tax bills depicting where and how tax dollars are
+beingallocated.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;Taxation;Apportionment,Assessment,andAbatementofTaxes;Information.
+2 AmendRSA76:11-abyinsertingafterparagraphIIthefollowingnewparagraph:
+3 II-a.(a) This paragraph shall only apply to municipalities that adopt the question posed in
+4 subparagraph(b)bymajorityvoteofthelegislativebody.
+5 (b) If a town uses an official ballot system, the following question of adoption shall be
+6 placedontheofficialballotattheannualtownmeetingasfollows:
+7 “Shall this town adopt the provisions of RSA 76:11-a, II-a, requiring the posting of detailed property
+8 taxallocationinformationonthemunicipalwebsite,ifany,otherwisepostedpublicly,includingapie
+9 chart,10-yearlinegraphs,andlinkstoapprovedbudgetsandmeetingminutes?”
+10 (c) A question to rescind the question posed in subparagraph (b) shall be placed on the
+11 officialballotattheannualtownmeetingasfollows:
+12 “Shall this town rescind the provisions of RSA 76:11-a, II-a, requiring the posting of detailed
+13 property tax allocation information on the municipal website or publicly, including a pie chart, 10-
+14 yearlinegraphs,andlinkstoapprovedbudgetsandmeetingminutes?”
+15 (d) If a town does not use an official ballot system, the question shall be considered and
+16 voted on at the town meeting. In a city or town with a town council form of government, adoption
+17 shalloccurbyamajorityvoteofthecityortowncouncil,asapplicable.
+18 (e) Upon adoption of the question under subparagraph (b), the governing body shall
+19 ensure that the year-end property tax bill includes a link on the municipality’s website, if one is
+20 maintained, labeled “Detailed PropertyTax Information,” where theinformation insubparagraph (f)
+21 shall be posted and updated at least annually before property tax bills are issued. The tax bill may
+22 include a quick response (QR) code for this website link instead. If the municipality does not
+23 maintain a website, the information shall be posted in a public location, with the physical address of
+24 thelocationlistedonthepropertytaxbillinsteadofawebsitelink.
+25 (f) The governing body shall post the following complete documents, or provide the
+26 locationswheretheymaybeinspected:
+27 (1) A pie chart showing the following categories of taxation and their rates, if any,
+28 labeled with percentages of the total: state education, school, city or town, county, and precinct or
+
+HB1516-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 village district. If more than one school district is supported by the municipality, the chart shall
+2 showstateeducationandschooltaxratesforeachdistrict.
+3 (2) A 10-year line graph of approved appropriations for each category listed in
+4 subparagraph(1),includingalabelortablewiththedollaramountforeachyear.
+5 (3) Links tothedisclosureofstatefundingreceivedreportedpursuant toRSA32:5-d
+6 forthemunicipalityandeachschooldistrictsupportedbythemunicipality.
+7 (4) Alinktothemostrecentcityortownreport.
+8 (5) Links to minutes of meetings where the most recent budgets were adopted,
+9 including the annual county meeting, the annual meeting or council meeting for the town or city,
+10 andtheannualmeetingsofschoolandvillagedistrictssupportedbythemunicipality,ifany.
+11 (6) Links to approved budgets for each political subdivision listed in subparagraph
+12 (4)anddetailsofanyadoptedtaxcap,localtaxcap,orbudgetcapforeachsubdivision.
+13 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+
+LBA
+26-2337
+03/17/2026
+HB1516-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0610h)
+ANACT allowing municipalities to vote to require that pie charts, bar charts, and QR
+codes be placed on property tax bills depicting where and how tax dollars are
+beingallocated.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None

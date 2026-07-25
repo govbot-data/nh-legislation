@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1548-FN-ASINTRODUCED
+2026SESSION
+26-2794
+04/09
+1548-FN
+HOUSEBILL
+ANACT requiring the department of education to collect and publish data regarding the
+costs associated with providing special education services to students of public,
+charter,private,trade,andotherK-12schoolsoracademies.
+SPONSORS: Rep.Hicks,Merr.24;Rep.Fracht,Graf.16
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillrequirestheNewHampshiredepartmentofeducationtocollectandpublishdataonthe
+costs of special education services across public school districts, charter schools, and approved
+privateschools.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1548-FN-ASINTRODUCED
+26-2794
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to collect and publish data regarding the
+costs associated with providing special education services to students of public,
+charter,private,trade,andotherK-12schoolsoracademies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Reporting and Publication of Special Education Cost Data. Amend RSA 186-C
+2 byinsertingaftersection18thefollowingnewsection:
+3 186-C:18-a Reporting and Publication of Special Education Cost Data. The department of
+4 education shall provide the legislature and publish on its website a report detailing the costs of
+5 special education and related services provided to a child with a disability pursuant to an individual
+6 education program. The report shall break down costs by school district and by provider type,
+7 including services delivered directly by the district or through chartered public schools, public
+8 academies, joint maintenance agreements, state facilities, or private special education providers.
+9 The report shall also include related transportation costs. If the department does not currently
+10 collect all required data, it shall publish available information and adopt rules under RSA 541-A to
+11 requireschooldistrictstoreporttheremainingdata.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2794
+12/4/25
+HB1548-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the department of education to collect and publish data regarding the
+costs associated with providing special education services to students of public,
+charter,private,trade,andotherK-12schoolsoracademies.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill requires the Department of Education to publish and provide the General Court with
+detailedreportsonspecialeducationcosts. TheDepartmentstatesitwouldneedtoemploymore
+staff to analyze and organize this data further to meet the requirements of this bill. The
+Department has not provided any details of staffing it may require or estimated costs. This bill
+provides neither authority nor appropriation for new personnel. Costs, if any, for local school
+districts complying with the requirements of this bill are indeterminable and will vary by
+district.
+AGENCIESCONTACTED:
+DepartmentofEducation

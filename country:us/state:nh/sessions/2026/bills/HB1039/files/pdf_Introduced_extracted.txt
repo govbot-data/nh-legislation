@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1039 -ASINTRODUCED
+2026SESSION
+26-3053
+09/05
+1039
+HOUSEBILL
+ANACT relativetothecontentsofparentingplans.
+SPONSORS: Rep.Nelson,Rock.13;Rep.DeSimone,Rock.18;Rep.Rice,Hills.38
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables a parenting plan to include provisions relative to the sharing of a child's image
+onsocialmedia.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1039-ASINTRODUCED
+26-3053
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecontentsofparentingplans.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ParentingPlans;Contents. AmendRSA461-A:4,II(f)-(h)toreadasfollows:
+2 (f) Agreementregardingsharingofthechild'simagesdigitallyonsocialmedia.
+3 (g) Relocationofparents.
+4 [(g)] (h) Procedure for review and adjustment of the plan, including the grounds for
+5 modificationinRSA461-A:11.
+6 [(h)](i) Methodsforresolvingdisputes.
+7 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

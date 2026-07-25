@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1807-FN-ASINTRODUCED
+2026SESSION
+26-2747
+07/05
+1807-FN
+HOUSEBILL
+ANACT relative to information on tax rates and tax impact information on warrant
+articles.
+SPONSORS: Rep.Peternel, Carr. 6; Rep.Bernardy, Rock. 36; Rep.Berry, Hills. 44; Rep. Pauer,
+Hills.36;Rep.Drago,Rock.4;Rep.Colcombe,Hills.30;Rep.DeVito,Rock.8;Sen.
+Murphy,Dist16;Sen.Avard,Dist12;Sen.Lang,Dist2;Sen.Sullivan,Dist18
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillamendsthemeaningof,andcalculationsrelativeto,costsperpupil.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1807-FN-ASINTRODUCED
+26-2747
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to information on tax rates and tax impact information on warrant
+articles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Education; Students First Act; Current Per-Pupil Cost. Amend RSA 189 by
+2 insertingaftersection75thefollowingnewsection:
+3 189:75-a Current Per-Pupil Cost. In computing the current per-pupil cost, the annual average
+4 daily membership in residence (ADMR) shall be the ADMR reported to the department of education,
+5 pursuant to RSA 198:38, I-a, as of October 1 preceding the date of the budget hearing held pursuant
+6 to RSA 32:5, I. For single town districts, the current per-pupil cost shall be the preceding year’s
+7 total approved appropriations divided by the district’s annual ADMR. For cooperative school
+8 districts under RSA 195, the current per-pupil cost shall be shall be the preceding year’s total
+9 approved appropriations apportioned to the preexisting district pursuant to RSA 195:7 divided by
+10 the annual ADMR of the preexisting district within the cooperative school district. For authorized
+11 regional enrollment area (AREA) schools under RSA 195-A, the current per-pupil cost shall be shall
+12 be the sum of the sending district’s preceding year’s tuition paid pursuant to RSA 195-A:1, IX and
+13 annual rental charge per pupil pursuant to RSA 195-A:1, X divided by the annual ADMR of the
+14 sending district to the AREA schools. In multi-town school districts, the notation shall be included
+15 foreachtownbyprefixingthenotationwiththenameofeachtown.
+16 2 Education;StudentsFirstAct;MandatoryReporttoVoters. AmendRSA189:76,IIItoreadas
+17 follows:
+18 III. The first line graph shall be titled "[Average Cost Per Pupil] Current Per-Pupil Cost"
+19 and shall display the district's annual cost-per-pupil over the previous 10 years. The second line
+20 graphshallbetitled"AverageTeacher Salary"andshall displaythedistrict's yearlyaverageteacher
+21 salary over the previous 10 years. A good faith effort shall be made to adjust each annual statistic
+22 forinflationusingtheU.S.BureauofLaborStatisticsInflationCalculatororanequivalentresource.
+23 Each yearly statistic shall be clearly labeled. In each graph, the upper and lower boundaries of the
+24 y-axismustbecappedatthenearestthousanddollars.
+25 3 New Section; Education; School Meetings; Annual Warrant Information. Amend RSA 197 by
+26 insertingaftersection1-gthefollowingnewsection:
+27 197:1-h AnnualWarrantInformation. Intheannualwarrant,theinformationinRSA671:20,II
+28 (a)-(c)shallbeprintedbeforethefirstwarrantarticle.
+29 4 Elections; Preparation of Ballots; By School District Clerk. Amend RSA 671:20, II(a)-(b) to
+30 readasfollows:
+
+HB1807-FN-ASINTRODUCED
+-Page2-
+1 (a) The [average cost-per-pupil] current per-pupil cost for the preceding year as
+2 calculatedinaccordancewithRSA[189:75,I(a)]189:75-a.
+3 (b) School district achievement proficiency scores obtained from the department of
+4 educationfortheprecedingyeartobeprintedas:
+5 "ELAProficiency: X%;MathProficiency: X%;ScienceProficiency: X%".
+6 (c) The estimated new school tax rate and percent increase if all warrant
+7 articleshavingataximpactareapproved,tobeprintedas:
+8 "Ifallwarrantarticleswithtaximpactareapproved,thenewschooltaxratewillbe$X.XX
+9 per$1,000 of property valuation,an(increase or decrease)of$Y.YY per $1,000,an(increase
+10 ordecrease)ofZZ.Z%."
+11 Inmulti-townschooldistricts,thenotationshallbeincludedforeachtownbyprefixingthe
+12 notationwiththenameofeachtown.
+13 5 Repeal. RSA189:75,I,relativetothedefinitionofcost-per-pupil,isrepealed.
+14 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2747
+Revised12/30/25
+HB1807-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to information on tax rates and tax impact information on warrant
+articles.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill seeks to modify the requirements relative to information posted at public budget
+hearings, posted warrant articles, and ballot for elected school officials. The Department of
+Education states this bill has some technical flaws which may make it difficult for school
+districtstoimplementproperly.Anyimpactthisbillmayhaveonlocalschooldistrictsbudgetsis
+indeterminable.
+TheDepartmenthasprovidedthefollowing:
+ Average Daily Membership in Residence (ADM-R) cannot be measured as of October 1st.
+ADM-Rmeasuresentireschoolyearandnotamomentintime.
+o Forexample,ADM-Rcouldbecapturedforthemostcurrentcompletedschoolyear.
+ The definition of ADM-R, for the purpose of adequacy, only describes what the State funds
+through the adequacy formula and does not describe all of the students the district is
+responsible for educating through the adoption of their budget and expenditure of
+appropriations.
+o For example, a district may elect to have a pre-kindergarten program which is not
+funded by adequacy. Furthermore, districts educate students and raise and
+appropriate funds to educate students in their Average Daily Membership in
+Attendance(ADM-A)thatarenotintheirADM-R.
+
+ The bill suggests anAuthorized Regional Enrollment Area (AREA) school as compromising a
+whole school district. A school district may operate a school and also may be part of an
+AREAschoolagreement.
+ The bill does not specify when in the apportionment process costs would be allocated, nor
+doesitclarifywhichmethodologieswouldapplyincalculatingaper-pupilcostforcooperative
+schooldistricts.
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,829 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+11Mar2026...0365h
+05/14/2026 1623s
+05/14/2026 1916s
+2026SESSION
+26-2533
+05/09
+1772-FN-A
+HOUSEBILL
+ANACT relative to prescribing ibogaine for investigational use only and adopting the
+physicianassociatelicensurecompact.
+SPONSORS: Rep. Moffett, Merr. 4; Rep. Ammon, Hills. 42; Rep. Edwards, Rock. 31; Rep. Foss,
+Hills. 41; Rep. Freeman, Belk. 8; Rep. Roy, Rock. 31; Sen. McGough, Dist 11; Sen.
+Pearl,Dist17
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Permits licensed health care providers to administer ibogaine under the framework of an
+FDA-approvedresearchprotocol.
+II. AdoptsthePAlicensurecompact.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+11Mar2026...0365h
+05/14/2026 1623s
+05/14/2026 1916s 26-2533
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to prescribing ibogaine for investigational use only and adopting the
+physicianassociatelicensurecompact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Ibogaine; Administered Under FDA-approved Research Protocol. Amend RSA
+2 329byinsertingaftersectionRSA329:1-hthefollowingnewsection:
+3 329:1-i Ibogaine; Administered Under FDA-approved Research Protocol. To the extent
+4 allowable by federal law, licensed physicians or qualified licensed practitioners may administer
+5 ibogaineundertheframeworkofanFDA-approvedresearchprotocol.
+6 2 New Section; Physician Associates; Physician Associate Licensure Compact Adopted. Amend
+7 RSA328-Dbyinsertingaftersection18thefollowingnewsection:
+8 328-D:18-a Physician Associate Licensure Compact Adopted. The state of New Hampshire
+9 herebyadoptstheprovisionsofthephysicianassociatelicensurecompactasfollows:
+10 Section1. Purpose.
+11 In order to strengthen access to medical services, and in recognition of the advances in the
+12 delivery of medical services, the participating states of the PA licensure compact have allied in
+13 common purpose to develop a comprehensive process that complements the existing authority of
+14 state licensing boards to license and discipline PAs and seeks to enhance the portability of a license
+15 to practice as a PA while safeguarding the safety of patients. This compact allows medical services
+16 to be provided by PAs, via the mutual recognition of the licensee’s qualifying license by other
+17 compact participatingstates. This compact alsoadopts theprevailingstandard for PAlicensure and
+18 affirms that the practice and delivery of medical services by the PA occurs where the patient is
+19 located at the time of the patient encounter, and therefore requires the PA to be under the
+20 jurisdiction of the state licensing board where the patient is located. State licensing boards that
+21 participate in this compact retain the jurisdiction to impose adverse action against a compact
+22 privilege in that state issued to a PA through the procedures of this compact. The PA licensure
+23 compact will alleviate burdens for military families by allowing active duty military personnel and
+24 their spouses to obtain a compact privilege based on having an unrestricted license in good standing
+25 fromaparticipatingstate.
+26 Section2. Definitions.
+27 Inthiscompact:
+28 A. “Adverseaction”meansanyadministrative,civil,equitable, orcriminalactionpermittedbya
+29 state’s laws which is imposed by a licensing board or other authority against a PA license or license
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page2-
+1 application or compact privilege such as license denial, censure, revocation, suspension, probation,
+2 monitoringofthelicensee,orrestrictiononthelicensee’spractice.
+3 B. “Compact privilege” means the authorization granted by a remote state to allow a licensee
+4 from another participating state to practice as a PA to provide medical services and other licensed
+5 activitytoapatientlocatedintheremotestateundertheremotestate’slawsandregulations.
+6 C. “Conviction” means a finding by a court that an individual is guilty of a felony or
+7 misdemeanor offense through adjudication or entry of a plea of guilt or no contest to the charge by
+8 theoffender.
+9 D. “Criminal background check” means the submission of fingerprints or other biometric based
+10 information for a license applicant for the purpose of obtaining that applicant’s criminal history
+11 record information, as defined in 28 C.F.R. § 20.3(d), from the state’s criminal history record
+12 repositoryasdefinedin28C.F.R.§20.3(f).
+13 E. “Data system” means the repository of information about licensees, including but not limited
+14 to license status and adverse actions, which is created and administered under the terms of this
+15 compact.
+16 F. “Executive committee” means a group of directors and ex-officio individuals elected or
+17 appointedpursuanttoSection7.F.2.
+18 G. “Impaired practitioner” means a PA whose practice is adversely affected by health related
+19 condition(s)thatimpacttheirabilitytopractice.
+20 H. “Investigative information” means information, records, or documents received or generated
+21 byalicensingboardpursuanttoaninvestigation.
+22 I. “Jurisprudence requirement” means the assessment of an individual’s knowledge of the laws
+23 andrulesgoverningthepracticeofaPAinastate.
+24 J. “License” means current authorization by a state, other than authorization pursuant to a
+25 compact privilege, for a PA to provide medical services, which would be unlawful without current
+26 authorization.
+27 K. “Licensee” means an individual who holds a license from a state to provide medical services
+28 asaPA.
+29 L. “Licensingboard”meansanystateentityauthorizedtolicenseandotherwiseregulatePAs.
+30 M. “Medical services” means health care services provided for the diagnosis, prevention,
+31 treatment, cure, or relief of a health condition, injury, or disease, as defined by a state’s laws and
+32 regulations.
+33 N. “Model compact” means the model for the PA licensure compact on file with the council of
+34 stategovernmentsorotherentityasdesignatedbythecommission.
+35 O. “Participatingstate”meansastatethathasenactedthiscompact.
+36 P. “PA” means an individual who is licensed as aphysician associate ina state. For purposes of
+37 this compact, any other title or status adopted by a state to replace the term “physician assistant”
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page3-
+1 shall be deemed synonymous with “physician associate” and shall confer the same rights and
+2 responsibilitiestothelicenseeundertheprovisionsofthiscompactatthetimeofitsenactment.
+3 Q. “PA licensure compact commission,” “compact commission,” or “commission” mean the
+4 nationaladministrativebodycreatedpursuanttosection7.Aofthiscompact.
+5 R. “Qualifying license” means an unrestricted license issued by a participating state to provide
+6 medicalservicesasaPA.
+7 S. “Remote state” means a participating state where a licensee who is not licensed as a PA is
+8 exercisingorseekingtoexercisethecompactprivilege.
+9 T. “Rule”meansaregulationpromulgatedbyanentitythathastheforceandeffectoflaw.
+10 U. “Significant investigative information” means investigative information that a licensing
+11 board, after an inquiry or investigation that includes notification and an opportunity for the PA to
+12 respond if required by state law, has reason to believe is not groundless and, if proven true, would
+13 indicatemorethanaminorinfraction.
+14 V. “State”meansanystate,commonwealth,district,orterritoryoftheUnitedStates.
+15 Section3. StateParticipationinthisCompact.
+16 A. Toparticipateinthiscompact,aparticipatingstateshall:
+17 1. LicensePAs.
+18 2. Participateinthecompactcommission’sdatasystem.
+19 3. Have a mechanism in place for receiving and investigating complaints against licensees
+20 andlicenseapplicants.
+21 4. Notify the commission, in compliance with the terms of this compact and commission
+22 rules, of any adverse action against a licensee or license applicant and the existence of significant
+23 investigativeinformationregardingalicenseeorlicenseapplicant.
+24 5. Fully implement a criminal background check requirement, within a time frame
+25 established by commission rule, by its licensing board receiving the results of a criminal background
+26 checkandreportingtothecommissionwhetherthelicenseapplicanthasbeengrantedalicense.
+27 6. Complywiththerulesofthecompactcommission.
+28 7. Utilize passage of a recognized national exam such as the NCCPA PANCE as a
+29 requirementforPAlicensure.
+30 8. Grantthecompactprivilegetoaholderofaqualifyinglicenseinaparticipatingstate.
+31 B. Nothing in this compact prohibits a participating state from charging a fee for granting the
+32 compactprivilege.
+33 Section4. CompactPrivilege.
+34 A. Toexercisethecompactprivilege,alicenseemust:
+35 1. Have graduated from a PA program accredited by the Accreditation Review Commission
+36 onEducationforthePhysicianAssistant,Inc.orotherprogramsauthorizedbycommissionrule.
+37 2. HoldcurrentNCCPAcertification.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page4-
+1 3. Havenofelonyormisdemeanorconviction.
+2 4. Have never had a controlled substance license, permit, or registration suspended or
+3 revokedbyastateorbytheUnitedStatesDrugEnforcementAdministration.
+4 5. Haveauniqueidentifierasdeterminedbycommissionrule.
+5 6. Holdaqualifyinglicense.
+6 7. Have had no revocation of a license or limitation or restriction on any license currently
+7 heldduetoanadverseaction.
+8 8. If a licensee has had a limitation or restriction on a license or compact privilege due to an
+9 adverse action, 2 years must have elapsed from the date on which the license or compact privilege is
+10 nolongerlimitedorrestrictedduetotheadverseaction.
+11 9. If a compact privilege has been revoked or is limited or restricted in a participating state
+12 for conduct that would not be a basis for disciplinary action in a participating state in which the
+13 licensee is practicing or applying to practice under a compact privilege, that participating state shall
+14 have the discretion not to consider such action as an adverse action requiring the denial or removal
+15 ofacompactprivilegeinthatstate.
+16 10. Notify the compact commission that the licensee is seeking the compact privilege in a
+17 remotestate.
+18 11. Meetanyjurisprudencerequirementofaremotestateinwhichthelicenseeisseekingto
+19 practice under the compact privilege and pay any fees applicable to satisfying the jurisprudence
+20 requirement.
+21 12. Report to the commission any adverse action taken by a non-participating state within
+22 30daysaftertheactionistaken.
+23 B. The compact privilege is valid until the expiration or revocation of the qualifying license
+24 unless terminated pursuant to an adverse action. The licensee must also comply with all of the
+25 requirements of subsection A above to maintain the compact privilege in a remote state. If the
+26 participating state takes adverse action against a qualifying license, the licensee shall lose the
+27 compact privilege in any remote state in which the licensee has a compact privilege until all of the
+28 followingoccur:
+29 1. Thelicenseisnolongerlimitedorrestricted;and
+30 2. Two years have elapsed from the date on which the license is no longer limited or
+31 restrictedduetotheadverseaction.
+32 C. Once a restricted or limited license satisfies the requirements of subsection B.1 and 2, the
+33 licensee must meet the requirements of subsection A to obtain a compact privilege in any remote
+34 state.
+35 D. For each remote state in which a PA seeks authority to prescribe controlled substances, the
+36 PAshallsatisfyallrequirementsimposedbysuchstateingrantingorrenewingsuchauthority.
+37 Section5. DesignationoftheStatefromWhichLicenseeisApplyingforaCompactPrivilege.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page5-
+1 A. Upon a licensee’s application for a compact privilege, the licensee shall identify to the
+2 commission the participating state from which the licensee is applying, in accordance with
+3 applicablerulesadoptedbythecommission,andsubjecttothefollowingrequirements:
+4 1. Whenapplyingforacompactprivilege,thelicenseeshallprovidethecommissionwiththe
+5 address of the licensee’s primary residence and thereafter shall immediately report to the
+6 commissionanychangeintheaddressofthelicensee’sprimaryresidence.
+7 2. When applying for a compact privilege, the licensee is required to consent to accept
+8 service of process by mail at the licensee’s primary residence on file with the commission with
+9 respect to any action brought against the licensee by the commission or a participating state,
+10 including a subpoena, with respect to any action brought or investigation conducted by the
+11 commissionoraparticipatingstate.
+12 Section6. AdverseActions.
+13 A. A participating state in which a licensee is licensed shall have exclusive power to impose
+14 adverseactionagainstthequalifyinglicenseissuedbythatparticipatingstate.
+15 B. In addition to the other powers conferred by state law, a remote state shall have the
+16 authority,inaccordancewithexistingstatedueprocesslaw,todoallofthefollowing:
+17 1. Take adverse action against a PA’s compact privilege within that state to remove a
+18 licensee’scompact privilegeor takeother actionnecessaryunder applicablelaw toprotect the health
+19 andsafetyofitscitizens.
+20 2. Issue subpoenas for both hearings and investigations that require the attendance and
+21 testimony of witnesses as well as the production of evidence. Subpoenas issued by a licensing board
+22 in a participating state for the attendance and testimony of witnesses or the production of evidence
+23 from another participating state shall be enforced in the latter state by any court of competent
+24 jurisdiction, according to the practice and procedure of that court applicable to subpoenas issued in
+25 proceedings pending before it. The issuing authority shall pay any witness fees, travel expenses,
+26 mileage, and other fees required by the service statutes of the state in which the witnesses or
+27 evidencearelocated.
+28 3. Notwithstanding paragraph 2, subpoenas may not be issued by a participating state to
+29 gather evidence of conduct in another state that is lawful in that other state for the purpose of
+30 taking adverse action against a licensee’s compact privilege or application for a compact privilege in
+31 thatparticipatingstate.
+32 4. Nothing in this compact authorizes a participating state to impose discipline against a
+33 PA’s compact privilege or to deny an application for a compact privilege in that participating state
+34 fortheindividual’sotherwiselawfulpracticeinanotherstate.
+35 C. For purposes of taking adverse action, the participating state which issued the qualifying
+36 license shall give the same priority and effect to reported conduct received from any other
+37 participating state as it would if the conduct had occurred within the participating state which
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page6-
+1 issued the qualifying license. In so doing, that participating state shall apply its own state laws to
+2 determineappropriateaction.
+3 D. A participating state, if otherwise permitted by state law, may recover from the affected PA
+4 the costs of investigations and disposition of cases resulting from any adverse action taken against
+5 thatPA.
+6 E. A participatingstatemay take adverseaction based onthe factual findings of aremote state,
+7 providedthattheparticipatingstatefollowsitsownproceduresfortakingtheadverseaction.
+8 F. Jointinvestigations.
+9 1. In addition to the authority granted to a participating state by its respective state PA
+10 laws and regulations or other applicable state law, any participating state may participate with
+11 otherparticipatingstatesinjointinvestigationsoflicensees.
+12 2. Participating states shall share any investigative, litigation, or compliance materials in
+13 furtheranceofanyjointorindividualinvestigationinitiatedunderthiscompact.
+14 G. If an adverse action is taken against a PA’s qualifying license, the PA’s compact privilege in
+15 all remote states shall be deactivated until 2 years have elapsed after all restrictions have been
+16 removed from the state license. All disciplinary orders by the participating state which issued the
+17 qualifying license that impose adverse action against a PA’s license shall include a statement that
+18 thePA’scompactprivilegeisdeactivatedinallparticipatingstatesduringthependencyoftheorder.
+19 H. If any participating state takes adverse action, it promptly shall notify the administrator of
+20 thedatasystem.
+21 Section7. EstablishmentofthePALicensureCompactCommission.
+22 A. The participating states hereby create and establish a joint government agency and national
+23 administrative body known as the PA licensure compact commission. The commission is an
+24 instrumentalityofthecompactstatesactingjointlyandnotaninstrumentalityofanyonestate. The
+25 commission shall come into existence on or after the effective date of the compact as set forth in
+26 section11.A.
+27 B. Membership,voting,andmeetings.
+28 1. Each participating state shall have and be limited to one delegate selected by that
+29 participating state’s licensing board or, if the state has more than one licensing board, selected
+30 collectivelybytheparticipatingstate’slicensingboards.
+31 2. Thedelegateshallbeeither:
+32 a. A current PA, physician, or public member of a licensing board or PA
+33 council/committee;or
+34 b. Anadministratorofalicensingboard.
+35 3. Any delegate may be removed or suspended from office as provided by the laws of the
+36 statefromwhichthedelegateisappointed.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page7-
+1 4. The participating state licensing board shall fill any vacancy occurring in the commission
+2 within60days.
+3 5. Each delegate shall be entitled to one vote on all matters voted on by the commission and
+4 shall otherwise have an opportunity to participate in the business and affairs of the commission. A
+5 delegate shall vote in person or by such other means as provided in the bylaws. The bylaws may
+6 provide for delegates’ participation in meetings by telecommunications, video conference, or other
+7 meansofcommunication.
+8 6. The commission shall meet at least once during each calendar year. Additional meetings
+9 shallbeheldassetforthinthiscompactandthebylaws.
+10 7. Thecommissionshallestablishbyruleatermofofficefordelegates.
+11 C. Thecommissionshallhavethefollowingpowersandduties:
+12 1. Establishacodeofethicsforthecommission;
+13 2. Establishthefiscalyearofthecommission;
+14 3. Establishfees;
+15 4. Establishbylaws;
+16 5. Maintainitsfinancialrecordsinaccordancewiththebylaws;
+17 6. Meet and take such actions as are consistent with the provisions of this compact and the
+18 bylaws;
+19 7. Promulgate rules to facilitate and coordinate implementation and administration of this
+20 compact. The rules shall have the force and effect of law and shall be binding in all participating
+21 states;
+22 8. Bring and prosecute legal proceedings or actions in the name of the commission, provided
+23 that the standing of any state licensing board to sue or be sued under applicable law shall not be
+24 affected;
+25 9. Purchaseandmaintaininsuranceandbonds;
+26 10. Borrow, accept, or contract for services of personnel, including, but not limited to,
+27 employeesofaparticipatingstate;
+28 11. Hire employees and engage contractors, elect or appoint officers, fix compensation,
+29 defineduties,grantsuchindividualsappropriateauthoritytocarryoutthepurposesofthiscompact,
+30 and establish the commission’s personnel policies and programs relating to conflicts of interest,
+31 qualificationsofpersonnel,andotherrelatedpersonnelmatters;
+32 12. Accept any and all appropriate donations and grants of money, equipment, supplies,
+33 materials and services, and receive, utilize, and dispose of the same; provided that at all times the
+34 commissionshallavoidanyappearanceofimproprietyorconflictofinterest;
+35 13. Lease, purchase, accept appropriate gifts or donations of, or otherwise own, hold,
+36 improve, or use, any property, real, personal or mixed; provided that at all times the commission
+37 shallavoidanyappearanceofimpropriety;
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page8-
+1 14. Sell, convey, mortgage, pledge, lease, exchange, abandon, or otherwise dispose of any
+2 propertyreal,personal,ormixed;
+3 15. Establishabudgetandmakeexpenditures;
+4 16. Borrowmoney;
+5 17. Appoint committees, including standing committees composed of members, state
+6 regulators, state legislators or their representatives, and consumer representatives, and such other
+7 interestedpersonsasmaybedesignatedinthiscompactandthebylaws;
+8 18. Provideandreceiveinformationfrom,andcooperatewith,lawenforcementagencies;
+9 19. Elect a chair, vice chair, secretary, and treasurer and such other officers of the
+10 commissionasprovidedinthecommission’sbylaws.
+11 20. Reserve for itself, in addition to those reserved exclusively to the commission under the
+12 compact,powersthattheexecutivecommitteemaynotexercise;
+13 21. Approve or disapprove a state’s participation in the compact based upon its
+14 determination as to whether the state’s compact legislation departs in a material manner from the
+15 modelcompactlanguage;
+16 22. Prepareandprovidetotheparticipatingstatesanannualreport;and
+17 23. Performsuchotherfunctionsasmaybenecessaryorappropriatetoachievethepurposes
+18 ofthiscompactconsistentwiththestateregulationofPAlicensureandpractice.
+19 D. Meetingsofthecommission.
+20 1. All meetings of the commission that are not closed pursuant to this subsection shall be
+21 open to the public. Notice of public meetings shall be posted on the commission’s website at least 30
+22 dayspriortothepublicmeeting.
+23 2. Notwithstanding subsection D.1 of this section, the commission may convene a public
+24 meeting by providing at least 24 hours prior notice on the commission’s website, and any other
+25 means as provided in the commission’s rules, for any of the reasons it may dispense with notice of
+26 proposedrulemakingundersection9.L.
+27 3. The commission may convene in a closed, non-public meeting or non-public part of a
+28 publicmeetingtoreceivelegaladviceortodiscuss:
+29 a. Non-complianceofaparticipatingstatewithitsobligationsunderthiscompact;
+30 b. The employment, compensation, discipline, or other matters, practices or procedures
+31 related to specific employees or other matters related to the commission’s internal personnel
+32 practicesandprocedures;
+33 c. Current,threatened,orreasonablyanticipatedlitigation;
+34 d. Negotiation of contracts for the purchase, lease, or sale of goods, services, or real
+35 estate;
+36 e. Accusinganypersonofacrimeorformallycensuringanyperson;
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page9-
+1 f. Disclosure of trade secrets or commercial or financial information that is privileged or
+2 confidential;
+3 g. Disclosure of information of a personal nature where disclosure would constitute a
+4 clearlyunwarrantedinvasionofpersonalprivacy;
+5 h. Disclosureofinvestigativerecordscompiledforlawenforcementpurposes;
+6 i. Disclosure of information related to any investigative reports prepared by or on behalf
+7 of or for use of the commission or other committee charged with responsibility of investigation or
+8 determinationofcomplianceissuespursuanttothiscompact;
+9 j. Legaladvice;or
+10 k. Matters specifically exempted from disclosure by federal or participating states’
+11 statutes.
+12 4. If a meeting, or portion of a meeting, is closed pursuant to this provision, the chair of the
+13 meetingorthechair’sdesigneeshallcertifythatthemeetingorportionofthemeetingmaybeclosed
+14 andshallreferenceeachrelevantexemptingprovision.
+15 5. The commission shall keep minutes that fully and clearly describe all matters discussed
+16 ina meeting and shall providea full and accurate summaryof actions taken, including a description
+17 of the views expressed. All documents considered in connection with an action shall be identified in
+18 such minutes. All minutes and documents of a closed meeting shall remain under seal, subject to
+19 releasebyamajorityvoteofthecommissionororderofacourtofcompetentjurisdiction.
+20 E. Financingofthecommission.
+21 1. The commission shall pay, or provide for the payment of, the reasonable expenses of its
+22 establishment,organization,andongoingactivities.
+23 2. The commission may accept any and all appropriate revenue sources, donations, and
+24 grantsofmoney,equipment,supplies,materials,andservices.
+25 3. The commission may levy on and collect an annual assessment from each participating
+26 state and may impose compact privilege fees on licensees of participating states to whom a compact
+27 privilege is granted to cover the cost of the operations and activities of the commission and its staff,
+28 whichmustbeinatotalamountsufficienttocoveritsannualbudgetasapprovedbythecommission
+29 each year for which revenue is not provided by other sources. The aggregate annual assessment
+30 amount levied on participating states shall be allocated based upon a formula to be determined by
+31 commissionrule.
+32 a. A compact privilege expires when the licensee’s qualifying license in the participating
+33 statefromwhichthelicenseeappliedforthecompactprivilegeexpires.
+34 b. Ifthelicenseeterminatesthequalifyinglicensethroughwhichthelicenseeappliedfor
+35 the compact privilege before its scheduled expiration, and the licensee has a qualifying license in
+36 another participating state, the licensee shall inform the commission that it is changing to that
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page10-
+1 participatingstatetheparticipatingstatethroughwhichitappliesforacompactprivilegeandpayto
+2 thecommissionanycompactprivilegefeerequiredbycommissionrule.
+3 4. The commission shall not incur obligations of any kind prior to securing the funds
+4 adequate to meet the same; nor shall the commission pledge the credit of any of the participating
+5 states,exceptbyandwiththeauthorityoftheparticipatingstate.
+6 5. The commission shall keep accurate accounts of all receipts and disbursements. The
+7 receiptsanddisbursementsofthecommissionshallbesubjecttothefinancialreviewandaccounting
+8 procedures established under its bylaws. All receipts and disbursements of funds handled by the
+9 commission shall be subject to an annual financial review by a certified or licensed public
+10 accountant,andthereportofthefinancialreviewshallbeincludedinandbecomepartoftheannual
+11 reportofthecommission.
+12 F. Theexecutivecommittee.
+13 1. The executive committee shall have the power to act on behalf of the commission
+14 accordingtothetermsofthiscompactandcommissionrules.
+15 2. Theexecutivecommitteeshallbecomposedof9members:
+16 a. Seven voting members who are elected by the commission from the current
+17 membershipofthecommission;
+18 b. One ex-officio, nonvoting member from a recognized national PA professional
+19 association;and
+20 c. One ex-officio, nonvoting member from a recognized national PA certification
+21 organization.
+22 3. Theex-officiomemberswillbeselectedbytheirrespectiveorganizations.
+23 4. The commission may remove any member of the executive committee as provided in its
+24 bylaws.
+25 5. Theexecutivecommitteeshallmeetatleastannually.
+26 6. Theexecutivecommitteeshallhavethefollowingdutiesandresponsibilities:
+27 a. Recommend to the commission changes to the commission’s rules or bylaws, changes
+28 to this compact legislation, fees to be paid by compact participating states such as annual dues, and
+29 anycommissioncompactfeechargedtolicenseesforthecompactprivilege;
+30 b. Ensure compact administration services are appropriately provided, contractual or
+31 otherwise;
+32 c. Prepareandrecommendthebudget;
+33 d. Maintainfinancialrecordsonbehalfofthecommission;
+34 e. Monitor compact compliance of participating states and provide compliance reports to
+35 thecommission;
+36 f. Establishadditionalcommitteesasnecessary;
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page11-
+1 g. Exercise the powers and duties of the commission during the interim between
+2 commission meetings, except for issuing proposed rulemaking or adopting commission rules or
+3 bylaws, or exercising any other powers and duties exclusively reserved to the commission by the
+4 commission’srules;and
+5 h. Performotherdutiesasprovidedinthecommission’srulesorbylaws.
+6 7. All meeting of the executive committee at which it votes or plans to vote on matters in
+7 exercising the powers and duties of the commission shall be open to the public and public notice of
+8 suchmeetingsshallbegivenaspublicmeetingsofthecommissionaregiven.
+9 8. The executive committee may convene in a closed, non-public meeting for the same
+10 reasons that the commission may convene in a non-public meeting as set forth in section 7.D 3 and
+11 shall announce the closed meeting as the commission is required to under section 7.D.4 and keep
+12 minutesoftheclosedmeetingasthecommissionisrequiredtoundersection7.D.5.
+13 G. Qualifiedimmunity,defense,andindemnification.
+14 1. The members, officers, executive director, employees, and representatives of the
+15 commissionshallbeimmunefromsuitandliability,bothpersonallyandintheirofficialcapacity,for
+16 any claim for damage to or loss of property or personal injury or other civil liability caused by or
+17 arising out of any actual or alleged act, error, or omission that occurred, or that the person against
+18 whom the claim is made had a reasonable basis for believing occurred within the scope of
+19 commission employment, duties or responsibilities; provided that nothing in this paragraph shall be
+20 construed to protect any such person from suit or liability for any damage, loss, injury, or liability
+21 caused by the intentional or willful or wanton misconduct of that person. The procurement of
+22 insurance of any type by the commission shall not in any way compromise or limit the immunity
+23 grantedhereunder.
+24 2. The commission shall defend any member, officer, executive director, employee, and
+25 representative of the commission in any civil action seeking to impose liability arising out of any
+26 actual or alleged act, error, or omission that occurred within the scope of commission employment,
+27 duties, or responsibilities, or as determined by the commission that the person against whom the
+28 claim is made had a reasonable basis for believing occurred within the scope of commission
+29 employment, duties, or responsibilities; provided that nothing herein shall be construed to prohibit
+30 that person from retaining their own counsel at their own expense; and provided further, that the
+31 actual or alleged act, error, or omission did not result from that person’s intentional or willful or
+32 wantonmisconduct.
+33 3. The commission shall indemnify and hold harmless any member, officer, executive
+34 director, employee, and representative of the commission for the amount of any settlement or
+35 judgment obtained against that person arising out of any actual or alleged act, error, or omission
+36 that occurred within the scope of commission employment, duties, or responsibilities, or that such
+37 person had a reasonable basis for believing occurred within the scope of commission employment,
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page12-
+1 duties, or responsibilities, provided that the actual or alleged act, error, or omission did not result
+2 fromtheintentionalorwillfulorwantonmisconductofthatperson.
+3 4. Venue is proper and judicial proceedings by or against the commission shall be brought
+4 solely and exclusively in a court of competent jurisdiction where the principal office of the
+5 commission is located. The commission may waive venue and jurisdictional defenses in any
+6 proceedingsasauthorizedbycommissionrules.
+7 5. Nothing herein shall be construed as a limitation on the liability of any licensee for
+8 professional malpractice or misconduct, which shall be governed solely by any other applicable state
+9 laws.
+10 6. Nothing herein shall be construed to designate the venue or jurisdiction to bring actions
+11 for alleged acts of malpractice, professional misconduct, negligence, or other such civil action
+12 pertaining to the practice of a PA. All such matters shall be determined exclusively by state law
+13 otherthanthiscompact.
+14 7. Nothing in this compact shall be interpreted to waive or otherwise abrogate a
+15 participating state’s state action immunity or state action affirmative defense with respect to
+16 antitrust claims under the Sherman Act, Clayton Act, or any other state or federal antitrust or
+17 anticompetitivelaworregulation.
+18 8. Nothing in this compact shall be construed to be a waiver of sovereign immunity by the
+19 participatingstatesorbythecommission.
+20 Section8. DataSystem.
+21 A. Thecommissionshall providefor thedevelopment, maintenance, operation,and utilizationof
+22 a coordinated data and reporting system containing licensure, adverse action, and the reporting of
+23 the existence of significant investigative information on all licensed PAs and applicants denied a
+24 licenseinparticipatingstates.
+25 B. Notwithstanding any other state law to the contrary, a participating state shall submit a
+26 uniformdatasettothedatasystemonallPAstowhomthiscompactisapplicable(utilizingaunique
+27 identifier)asrequiredbytherulesofthecommission,including:
+28 1. Identifyinginformation;
+29 2. Licensuredata;
+30 3. Adverseactionsagainstalicenseorcompactprivilege;
+31 4. Any denial of application for licensure, and the reason(s) for such denial (excluding the
+32 reportingofanycriminalhistoryrecordinformationwhereprohibitedbylaw);
+33 5. Theexistenceofsignificantinvestigativeinformation;and
+34 6. Other information that may facilitate the administration of this compact, as determined
+35 bytherulesofthecommission.
+36 C. Significant investigative information pertaining to a licensee in any participating state shall
+37 onlybeavailabletootherparticipatingstates.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page13-
+1 D. The commission shall promptly notify all participating states of any adverse action taken
+2 against a licensee or an individual applying for a license that has been reported to it. This adverse
+3 actioninformationshallbeavailabletoanyotherparticipatingstate.
+4 E. Participating states contributing information to the data system may, in accordance with
+5 state or federal law, designate information that may not be shared with the public without the
+6 express permission of the contributing state. Notwithstanding any such designation, such
+7 informationshallbereportedtothecommissionthroughthedatasystem.
+8 F. Any information submitted to the data system that is subsequently expunged pursuant to
+9 federal law or the laws of the participating state contributing the information shall be removed from
+10 thedatasystemuponreportingofsuchbytheparticipatingstatetothecommission.
+11 G. The records and information provided to a participating state pursuant to this compact or
+12 through the data system, when certified by the commission or an agent thereof, shall constitute the
+13 authenticated business records of the commission, and shall be entitled to any associated hearsay
+14 exception in any relevant judicial, quasi-judicial or administrative proceedings in a participating
+15 state.
+16 Section9. Rulemaking.
+17 A. Thecommissionshallexerciseitsrulemakingpowerspursuanttothecriteriasetforthinthis
+18 section and the rules adopted thereunder. Commission rules shall become binding as of the date
+19 specifiedbythecommissionforeachrule.
+20 B. The commission shall promulgate reasonable rules in order to effectively and efficiently
+21 implement and administer this compact and achieve its purposes. A commission rule shall be
+22 invalid and have not force or effect only if a court of competent jurisdiction holds that the rule is
+23 invalid because the commission exercised its rulemaking authority in a manner that is beyond the
+24 scope of the purposes of this compact, or the powers granted hereunder, or based upon another
+25 applicablestandardofreview.
+26 C. The rules of the commission shall have the force of law in each participating state, provided
+27 however that where the rules of the commission conflict with the laws of the participating state that
+28 establish the medical services a PA may perform in the participating state, as held by a court of
+29 competent jurisdiction, the rules of the commission shall be ineffective in that state to the extent of
+30 theconflict.
+31 D. If a majority of the legislatures of the participating states rejects a commission rule, by
+32 enactmentofastatuteorresolutioninthesamemannerusedtoadoptthiscompactwithin4yearsof
+33 the date of adoption of the rule, then such rule shall have no further force and effect in any
+34 participatingstateortoanystateapplyingtoparticipateinthecompact.
+35 E. Commissionrulesshallbeadoptedataregularorspecialmeetingofthecommission.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page14-
+1 F. Prior to promulgation and adoption of a final rule or rules by the commission, and at least 30
+2 days in advance of the meeting at which the rule will be considered and voted upon, the commission
+3 shallfileanoticeofproposedrulemaking:
+4 1. Onthewebsiteofthecommissionorotherpubliclyaccessibleplatform;and
+5 2. Topersonswhohaverequestednoticeofthecommission’snoticesofproposedrulemaking,
+6 and
+7 3. Insuchotherway(s)asthecommissionmaybyrulespecify.
+8 G. Thenoticeofproposedrulemakingshallinclude:
+9 1. The time, date, and location of the public hearing on the proposed rule and the proposed
+10 time,date,andlocationofthemeetinginwhichtheproposedrulewillbeconsideredandvotedupon;
+11 2. Thetextoftheproposedruleandthereasonfortheproposedrule;
+12 3. A request for comments on the proposed rule from any interested person and the date by
+13 whichwrittencommentsmustbereceived;and
+14 4. The manner in which interested persons may submit notice to the commission of their
+15 intentiontoattendthepublichearingorprovideanywrittencomments.
+16 H. Prior to adoption of a proposed rule, the commission shall allow persons to submit written
+17 data,facts,opinions,andarguments,whichshallbemadeavailabletothepublic.
+18 I. If the hearing is to be held via electronic means, the commission shall publish the mechanism
+19 foraccesstotheelectronichearing.
+20 1. All persons wishing to be heard at the hearing shall as directed in the notice of proposed
+21 rulemaking, not less than 5 business days before the scheduled date of the hearing, notify the
+22 commissionoftheirdesiretoappearandtestifyatthehearing.
+23 2. Hearingsshall beconductedinamannerprovidingeachpersonwho wishestocomment a
+24 fairandreasonableopportunitytocommentorallyorinwriting.
+25 3. All hearings shall be recorded. A copy of the recording and the written comments, data,
+26 facts, opinions, and arguments received in response to the proposed rulemaking shall be made
+27 availabletoapersonuponrequest.
+28 4. Nothing in this section shall be construed as requiring a separate hearing on each
+29 proposed rule. Proposed rules may be grouped for the convenience of the commission at hearings
+30 requiredbythissection.
+31 J. Following the public hearing the commission shall consider all written and oral comments
+32 timelyreceived.
+33 K. The commissionshall, bymajorityvoteof alldelegates, takefinal actionontheproposed rule
+34 andshalldeterminetheeffectivedateoftherule,ifadopted,basedontherulemakingrecordandthe
+35 fulltextoftherule.
+36 1. Ifadopted,theruleshallbepostedonthecommission’swebsite.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page15-
+1 2. The commission may adopt changes to the proposed rule provided the changes do not
+2 enlargetheoriginalpurposeoftheproposedrule.
+3 3. The commissionshall provideon its website anexplanation of the reasons for substantive
+4 changes made to the proposed rule as well as reasons for substantive changes not made that were
+5 recommendedbycommenters.
+6 4. The commission shall determine a reasonable effective date for the rule. Except for an
+7 emergency as provided in subsection L, the effective date of the rule shall be no sooner than 30 days
+8 afterthecommissionissuedthenoticethatitadoptedtherule.
+9 L. Upon determination that an emergency exists, the commission may consider and adopt an
+10 emergency rule with 24 hours prior notice, without the opportunity for comment, or hearing,
+11 provided that the usual rulemaking procedures provided in this compact and in this section shall be
+12 retroactively applied to the rule as soon as reasonably possible, in no event later than 90 days after
+13 the effective date of the rule. For the purposes of this provision, an emergency rule is one that must
+14 beadoptedimmediatelybythecommissioninorderto:
+15 1. Meetanimminentthreattopublichealth,safety,orwelfare;
+16 2. Preventalossofcommissionorparticipatingstatefunds;
+17 3. Meet a deadline for the promulgation of a commission rule that is established by federal
+18 laworrule;or
+19 4. Protectpublichealthandsafety.
+20 M. The commission or an authorized committee of the commission may direct revisions to a
+21 previouslyadopted commission rule for purposes of correcting typographical errors, errors in format,
+22 errors in consistency, or grammatical errors. Public notice of any revisions shall be posted on the
+23 websiteofthecommission. Therevisionshallbesubjecttochallengebyanypersonforaperiodof30
+24 days after posting. The revision may be challenged only on grounds that the revision results in a
+25 material change to a rule. A challenge shall be made as set forth in the notice of revisions and
+26 delivered to the commission prior to the end of the notice period. If no challenge is made, the
+27 revision will take effect without further action. If the revision is challenged, the revision may not
+28 takeeffectwithouttheapprovalofthecommission.
+29 N. Noparticipatingstate’srulemakingrequirementsshallapplyunderthiscompact.
+30 Section10. Oversight,DisputeResolution,andEnforcement.
+31 A. Oversight.
+32 1. The executive and judicial branches of state government in each participating state shall
+33 enforcethiscompactandtakeallactionsnecessaryandappropriatetoimplementthecompact.
+34 2. Venue is proper and judicial proceedings by or against the commission shall be brought
+35 solely and exclusively in a court of competent jurisdiction where the principal office of the
+36 commission is located. The commission may waive venue and jurisdictional defenses to the extent it
+37 adopts or consents to participate in alternative dispute resolution proceedings. Nothing herein shall
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page16-
+1 affect or limit the selection or propriety of venue in any action against a licensee for professional
+2 malpractice,misconductoranysuchsimilarmatter.
+3 3. The commission shall be entitled to receive service of process in any proceeding regarding
+4 the enforcement or interpretation of the compact or the commission’s rules and shall have standing
+5 to intervene in such a proceeding for all purposes. Failure to provide the commission with service of
+6 processshall render ajudgment or orderinsuchproceedingvoid as tothecommission, this compact,
+7 orcommissionrules.
+8 B. Default,technicalassistance,andtermination.
+9 1. If the commission determines that a participating state has defaulted in the performance
+10 of its obligations or responsibilities under this compact or the commission rules, the commission
+11 shall provide written notice to the defaulting state and other participating states. The notice shall
+12 describe the default, the proposed means of curing the default and any other action that the
+13 commission may take and shall offer remedial training and specific technical assistance regarding
+14 thedefault.
+15 2. If a state in default fails to cure the default, the defaulting state may be terminated from
+16 this compact upon an affirmative vote of a majority of the delegates of the participating states, and
+17 all rights, privileges and benefits conferred by this compact upon such state may be terminated on
+18 the effective date of termination. A cure of the default does not relieve the offending state of
+19 obligationsorliabilitiesincurredduringtheperiodofdefault.
+20 3. Termination of participation in this compact shall be imposed only after all other means
+21 of securing compliancehave been exhausted. Notice of intent tosuspend or terminateshall be given
+22 by the commission to the governor, the majority and minority leaders of the defaulting state’s
+23 legislature,andtothelicensingboard(s)ofeachoftheparticipatingstates.
+24 4. A state that has been terminated is responsible for all assessments, obligations, and
+25 liabilities incurred through the effective date of termination, including obligations that extend
+26 beyondtheeffectivedateoftermination.
+27 5. The commissionshall notbearanycostsrelated toastatethatis foundtobeindefault or
+28 that has been terminated from this compact, unless agreed upon in writing between the commission
+29 andthedefaultingstate.
+30 6. The defaulting state may appeal its termination from the compact by the commission by
+31 petitioningtheUnitedStatesDistrictCourtfortheDistrictofColumbiaorthefederaldistrict where
+32 the commission has its principal offices. The prevailing member shall be awarded all costs of such
+33 litigation,includingreasonableattorney’sfees.
+34 7. Upon the termination of a state’s participation in the compact, the state shall
+35 immediatelyprovidenoticetoalllicenseeswithinthatstateofsuchtermination:
+36 a. Licensees who have been granted a compact privilege in that state shall retain the
+37 compactprivilegefor180daysfollowingtheeffectivedateofsuchtermination.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page17-
+1 b. Licenseeswhoarelicensedinthatstatewhohavebeengrantedacompactprivilegein
+2 a participating state shall retain the compact privilege for 180 days unless the licensee also has a
+3 qualifying license in a participating state or obtains a qualifying license in a participating state
+4 beforethe180-dayperiodends,inwhichcasethecompactprivilegeshallcontinue.
+5 C. Disputeresolution.
+6 1. Upon request by a participating state, the commission shall attempt to resolve disputes
+7 related to this compact that arise among participating states and between participating and non-
+8 participatingstates.
+9 2. Thecommissionshallpromulgatearuleprovidingforbothmediationandbindingdispute
+10 resolutionfordisputesasappropriate.
+11 D. Enforcement.
+12 1. Thecommission,inthereasonableexerciseofitsdiscretion,shallenforcetheprovisionsof
+13 thiscompactandrulesofthecommission.
+14 2. Ifcomplianceisnotsecured afterallmeans tosecurecompliancehavebeenexhausted, by
+15 majority vote, the commission may initiate legal action in the United States District Court for the
+16 District of Columbia or the federal district where the commission has its principal offices, against a
+17 participating state in default to enforce compliance with the provisions of this compact and the
+18 commission’s promulgated rules and bylaws. The relief sought may include both injunctive relief
+19 and damages. In the event judicial enforcement is necessary, the prevailing party shall be awarded
+20 allcostsofsuchlitigation,includingreasonableattorney’sfees.
+21 3. The remedies herein shall not be the exclusive remedies of the commission. The
+22 commissionmaypursueanyotherremediesavailableunderfederalorstatelaw.
+23 E. Legalactionagainstthecommission.
+24 1. A participating state may initiate legal action against the commission in the United
+25 StatesDistrictCourtfortheDistrictofColumbiaorthefederaldistrictwherethecommissionhasits
+26 principal offices to enforce compliance with the provisions of the compact and its rules. The relief
+27 sought may include both injunctive relief and damages. In the event judicial enforcement is
+28 necessary, the prevailing party shall be awarded all costs of such litigation, including reasonable
+29 attorney’sfees.
+30 2. No person other than a participating state shall enforce this compact against the
+31 commission.
+32 Section11. DateofImplementationofthePALicensureCompactCommission.
+33 A. This compact shall come into effect on the date on which this compact statute is enacted into
+34 lawintheseventhparticipatingstate.
+35 1. Onoraftertheeffectivedateofthecompact,thecommissionshallconveneandreviewthe
+36 enactmentofeachofthestatesthatenactedthecompactpriortothecommissionconvening(“charter
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page18-
+1 participating states”) to determine if the statute enacted by each such charter participating state is
+2 materiallydifferentthanthemodelcompact.
+3 a. Acharterparticipatingstatewhoseenactmentisfoundtobemateriallydifferentfrom
+4 themodelcompactshallbeentitledtothedefaultprocesssetforthinsection10.B.
+5 b. If any participating state later withdraws from the compact or its participation is
+6 terminated, the commission shall remain in existence and the compact shall remain in effect even if
+7 the number of participating states should be less than 7. Participating states enacting the compact
+8 subsequent to the commission convening shall be subject to the process set forth in section 7.C.21 to
+9 determine if their enactments are materially different from the model compact and whether they
+10 qualifyforparticipationinthecompact.
+11 2. Participatingstatesenactingthecompactsubsequenttothe7initialcharterparticipating
+12 states shall be subject to the process set forth in section 7.C.21 to determine if their enactments are
+13 materially different from the model compact and whether they qualify for participation in the
+14 compact.
+15 3. Allactionstakenforthebenefitofthecommissionorinfurtheranceofthepurposesofthe
+16 administration of the compact prior to the effective date of the compact or the commission coming
+17 into existence shall be considered to be actions of the commission unless specifically repudiated by
+18 thecommission.
+19 B. Any state that joins this compact shall be subject to the commission’s rules and bylaws as
+20 they exist on the date on which this compact becomes law in that state. Any rule that has been
+21 previously adopted by the commission shall have the full force and effect of law on the day this
+22 compactbecomeslawinthatstate.
+23 C. Any participating state may withdraw from this compact by enacting a statute repealing the
+24 same.
+25 1. A participating state’s withdrawal shall not take effect until 180 days after enactment of
+26 the repealing statute. During this 180-day period, all compact privileges that were in effect in the
+27 withdrawing state and were granted to licensees licensed in the withdrawing state shall remain in
+28 effect. If any licensee licensed in the withdrawing state is also licensed in another participating
+29 state or obtains a license in another participating state within the 180 days, the licensee’s compact
+30 privilegesinotherparticipatingstatesshallnotbeaffectedbythepassageofthe180days.
+31 2. Withdrawal shall not affect the continuing requirement of the state licensing boards of
+32 the withdrawing state to comply with the investigative, and adverse action reporting requirements
+33 ofthiscompactpriortotheeffectivedateofwithdrawal.
+34 3. Upon the enactment of a statute withdrawing a state from this compact, the state shall
+35 immediately provide notice of such withdrawal to all licensees within that state. Such withdrawing
+36 state shall continue to recognize all licenses granted pursuant to this compact for a minimum of 180
+37 daysafterthedateofsuchnoticeofwithdrawal.
+
+HB1772-FN-A-ASAMENDEDBYTHESENATE
+-Page19-
+1 D. Nothing contained in this compact shall be construed to invalidate or prevent any PA
+2 licensure agreement or other cooperative arrangement between participating states and between a
+3 participating state and non-participating state that does not conflict with the provisions of this
+4 compact.
+5 E. This compact may be amended by the participating states. No amendment to this compact
+6 shall become effective and binding upon any participating state until it is enacted materially in the
+7 samemannerintothelawsofallparticipatingstatesasdeterminedbythecommission.
+8 Section12. ConstructionandSeverability.
+9 A. This compact and the commission’s rulemaking authorityshall beliberally construed so as to
+10 effectuate the purposes, and the implementation and administration of the compact. Provisions of
+11 the compact expressly authorizing or requiring the promulgation of rules shall not be construed to
+12 limitthecommission’srulemakingauthoritysolelyforthosepurposes.
+13 B. The provisions of this compact shall be severable and if any phrase, clause, sentence or
+14 provision of this compact is held by a court of competent jurisdiction to be contrary to the
+15 constitution of any participating state, a state seeking participation in the compact, or of the United
+16 States, or the applicability thereof to any government, agency, person, or circumstance is held to be
+17 unconstitutional by a court of competent jurisdiction, the validity of the remainder of this compact
+18 and the applicability thereof to any other government, agency, person, or circumstance shall not be
+19 affectedthereby.
+20 C. Notwithstanding subsection B or this section, the commission may deny a state’s
+21 participation in the compact or, in accordance with the requirements of section 10.B, terminate a
+22 participating state’s participation in the compact, if it determines that a constitutional requirement
+23 ofaparticipatingstateis,orwouldbewithrespecttoastateseekingtoparticipateinthecompact,a
+24 material departure from the compact. Otherwise, if this compact shall be held to be contrary to the
+25 constitution of any participating state, the compact shall remain in full force and effect as to the
+26 remaining participating states and in full force and effect as to the participating state affected as to
+27 allseverablematters.
+28 Section13. BindingEffectofCompact.
+29 A. Nothing herein prevents the enforcement of any other law of a participating state that is not
+30 inconsistentwiththiscompact.
+31 B. Anylaws inaparticipatingstateinconflict withthis compact aresuperseded totheextent of
+32 theconflict.
+33 C. All agreements between the commission and the participating states are binding in
+34 accordancewiththeirterms.
+35 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2533
+05/21/2026
+HB1772-FN-A-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENTS#2026-1623sand#2026-1916s)
+ANACT relative to prescribing ibogaine for investigational use only and adopting the
+physicianassociatelicensurecompact.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable(section2)
+RevenueFund(s) OfficeofProfessionalLicensureandCertificationFund
+Indeterminable
+increaseof
+Expenditures* $0 Indeterminableincrease(section2)
+$10,000ormore
+(section2)
+FundingSource(s) OfficeofProfessionalLicensureandCertificationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Section 1 of this bill permits licensed health care providers to administer ibogaine under the
+framework of a federally-approved research protocol. This section is expected to have no fiscal
+impact.
+Section 2 adopts the Physician Associate Licensure Compact by allowing a Physician Associate
+(PA) with an unrestricted license in one participating state to obtain a compact privilege to
+practiceinanotherparticipatingstate.
+The Office of Professional Licensure and Certification (OPLC) states that it would need to adopt
+and implement the PA Licensure Compact and create a new compact license type within its
+licensing system. The estimated one time cost to upgrade the software to support this new
+license type is $10,000. OPLC also notes that enforcement activity may increase if complaints
+arise involving PAs practicing in New Hampshire under compact privileges, but the associated
+costcannotbeestimatedbecausethenumberofpotentialcomplaintsisunknown.
+Because the compact allows PAs to practice in New Hampshire through a compact privilege
+rather than holding a standard New Hampshire license, OPLC anticipates a reduction in PA
+
+license revenue. Of the 1,636 current PA licensees, 488 have a home address outside New
+Hampshire, and if these individuals rely on compact privileges instead of maintaining a NH
+license, OPLC estimates a potential revenue loss of approximately $93,000. The OPLC may see
+some new revenue from PAs who newly designate New Hampshire as their home state for
+compact purposes, but because the number of such licensees cannot be predicted, any potential
+increaseisindeterminable.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertification

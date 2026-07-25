@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1312-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0390h
+05/07/2026 1637s
+4Jun2026...2160EBA
+2026SESSION
+26-2901
+09/06
+1312
+HOUSEBILL
+ANACT relativetotheauthorityofvariousboards.
+SPONSORS: Rep.Layon,Rock.13;Rep.Grote,Rock.24;Sen.Reardon,Dist15
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Authorizes boards under the purview of the office of professional licensure and certification to
+establishsubcommittees,subjecttorulesestablishedbytheoffice.
+II. Removestheauthorityoftheboardofregistrationinoptometrytomodifythelistofapproved
+pharmaceuticalsforusebyoptometrists,excepttoupdatetheformularyforpharmaceuticalagents.
+III. Moves the approval of medical imaging and radiation therapy educational programs to the
+rulemakingauthorityoftheexecutivedirectoroftheofficeofprofessionallicensureandcertification,
+inconsultationwiththeadvisoryboardofmedicalimagingandradiationtherapy.
+IV. Modifies the duties of the board of family mediator certification and reallocates certain
+authoritytotheofficeofprofessionallicensureandcertification.
+V. Removestheauthorityoftheboardofaccountancytoestablishadministrativefinesbyrule.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1312-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0390h
+05/07/2026 1637s
+4Jun2026...2160EBA 26-2901
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheauthorityofvariousboards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Office of Professional Licensure and Certification; Board Subcommittees.
+2 AmendRSA310:2byinsertingafterparagraphIIIthefollowingnewparagraph:
+3 IV. With the approval of the executive director, any board may establish a subcommittee or
+4 subcommittees for the purpose of reviewing and making recommendations on matters which could
+5 be handled by the full board. The office shall determine the composition and duration of any
+6 subcommittee, the frequency of its meetings, other logistics, and resources used for it based upon
+7 rulesadoptedbytheexecutivedirectorpursuanttoRSA541-a.
+8 2 Optometry;Definitions. AmendRSA327:1,III(c)-(m)toreadasfollows:
+9 (c) Mioticagents[approvedpursuanttoRSA327:6-a,VI].
+10 (d) Antibiotics, [sulfonomides] sulfonamides, and combinations thereof, which are
+11 topically applied or orally administered to treat or alleviate the effects of disease or abnormal
+12 conditions of the human eye, adnexa, and eyelids, or structures posterior to the iris[, approved
+13 pursuanttoRSA327:6-a,VI].
+14 (e) Anti-allergy medications, including but not limited to antihistamines, decongestants,
+15 andmast-cellstabilizerswhicharetopicallyapplied.
+16 (f) Anestheticsanddyeswhicharetopicallyapplied.
+17 (g) Ocularlubricantsandhypertonicagentswhicharetopicallyapplied.
+18 (h) Orally administered analgesic agents used for the purpose of alleviating pain caused
+19 by a disease or abnormal condition of the human eye or eyelid, or structures posterior to the iris.
+20 This may include class III and IV controlled substances [approved pursuant to RSA 327:6-a, VI and
+21 includedintheformulary].
+22 (i) Other pharmaceutical agents, any solely diagnostic agents, and diagnostic agents
+23 combinedwithpharmaceutical agents asdefined inthis paragraphand included in the formulary
+24 [asapproved]pursuanttoRSA327:6-a,VI.
+25 (j) Non-steroidalanti-inflammatoryagents[approvedpursuanttoRSA327:6-a,VI].
+26 (k) Anti-glaucoma agents provided that an optometrist may dispense or prescribe such
+27 agentsiftheoptometristhasmettherequirementsofRSA327:6-c.
+28 (l) Corticosteroidswhicharetopicallyapplied[,asapprovedbytheboard].
+29 (m) Antivirals[whichareapprovedpursuanttoRSA327:6-a,VI].
+
+HB1312-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 3 Optometry; Authorization for Pharmaceutical Agents. Amend RSA 327:6-a, VI to read as
+2 follows:
+3 VI. [To the extent approval of pharmaceuticals is referenced in RSA 327:1, III,] The board
+4 shall have the authority to review and [approve pharmaceuticals] update the formulary for
+5 pharmaceutical agents as described in RSA 327:1, III(i) for use by optometrists certified to use
+6 pharmaceuticalagentsinthepracticeofoptometry.
+7 4 Office of Professional Licensure and Certification; Rulemaking Authority. Amend RSA 310:6,
+8 IItoreadasfollows:
+9 II. Such organizational and procedural rules necessary to administer the boards in the
+10 office, including rules governing the administration of complaints and investigations, hearings,
+11 disciplinaryandnon-disciplinaryproceedings,manufacturedhousingdisputeresolution,inspections,
+12 payment processing procedures, board subcommittees, and application procedures. For purposes
+13 of this paragraph, "manufactured housing dispute resolution" means a program for the timely
+14 resolution of disputes between manufacturers, retailers, and installers of manufactured homes,
+15 including the issuance of appropriate orders, regarding responsibility for the correction or repair of
+16 defectsinmanufacturedhomesfordefectsthat arereportedduringtheone-yearperiodbeginningon
+17 thedateofinstallation.
+18 5 Medical Imaging and Radiation Therapy; Rulemaking Authority. Amend RSA 328-J:7, XII to
+19 readasfollows:
+20 XII. Standards for educational [program approval by the executive director] programs
+21 which shall be no less stringent than the standards approved by the Joint Review
+22 Committee on Education in Radiologic Technology, Joint Review Committee on Education
+23 in Nuclear Medicine Technology, or Commission on Accreditation of Allied Health
+24 EducationPrograms.
+25 6 New Paragraph; Family Mediators; Definitions. Amend RSA 328-C:2 by inserting after
+26 paragraphVIthefollowingnewparagraph:
+27 VI-a. "Office"or"OPLC"meanstheofficeofprofessionallicensureandcertification.
+28 7 FamilyMediators;Board. AmendRSA328-C:4,I(d)toreadasfollows:
+29 (d) Three certified family mediators, [nominated by the New Hampshire Conflict
+30 ResolutionAssociationand]appointedbythegovernorwiththeconsentofthecouncil.
+31 8 FamilyMediators;Board. AmendRSA328-C:4,IIItoreadasfollows:
+32 III.(a) Theboardshallhold6regularmeetingseachyear,[oneeachinJanuary,March,May,
+33 June or July or August, September, and November,] and special meetings at such times as it may
+34 deem necessary. Annually, in January, the board shall establish atime of day and day of the month
+35 fortheregularmeetings.
+36 (b) [If a regular meeting cannot occur on the designated day because of a lack of a
+37 quorum,weatherconditions,oranemergency,itshallberescheduledwithinthespecifiedmonth.
+
+HB1312-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 (c)]Aquorumshallbe[3]amajorityofthememberscurrentlyservingontheboard.
+2 9 FamilyMediators;Qualifications. AmendRSA328-C:5,VI-VIItoreadasfollows:
+3 VI. Certification of a mediator or a mediator training program shall be valid for [3] 2 years
+4 from the date of issuance, and shall expire [3] 2 years from the date of issuance, unless renewed
+5 pursuanttoRSA310:8andrulesadoptedbytheboardpursuanttoRSA541-A.
+6 VII. If timely and sufficient application has been made in accordance with [board rules for
+7 renewal of certification] RSA 310:8, III, the existing certification shall not expire until the [board]
+8 office has taken final action on the application for renewal. If the application is either untimely or
+9 insufficient, [it] the license shall [lapse] expire and be subject to reinstatement in accordance with
+10 RSA310:8andrulesadoptedbytheboardpursuanttoRSA541-A.
+11 10 FamilyMediators;ConfidentialityofInformation. AmendtheintroductoryparagraphofRSA
+12 328-C:5-a,Itoreadasfollows:
+13 I. Unless waived by the person to whom the information pertains, the following information
+14 relative to certified family mediators, applicants for certification, qualified interns, and formerly
+15 certified family mediators which may be in the possession of the office or the board shall be
+16 confidential and shall not be subject to disclosure, except as provided in paragraph II, absent an
+17 orderofthecourt:
+18 11 FamilyMediators;ContinuingEducation. AmendRSA328-C:6toreadasfollows:
+19 328-C:6 Continuing Education. To renew a certification, each family mediator shall provide
+20 evidence of attendance within the last [3] 2 years of at least [24] 16 hours of continuing education
+21 approved by the board. A certified family mediator training program seeking renewal shall provide
+22 evidencethat it has met any reportingrequirements established under RSA328-C:4-a and that each
+23 of the family mediators associated with the program has met the annual continuing education
+24 requirements.
+25 12 Repeal. Thefollowingarerepealed:
+26 I. RSA309-B:4,VI(h),relativetoboardofaccountancyrulemakingonadministrativefines.
+27 II. RSA328-J:8,relativetomedicalimagingandradiationtherapyeducationalprograms.
+28 III. RSA 328-C:4-a, I, relative to compiling and maintaining a public list of certified family
+29 mediatorsandcertifiedfamilytrainingprograms.
+30 13 OfficeofProfessionalLicensureandCertification;RulemakingAuthority.AmendRSA310:6,
+31 IItoreadasfollows:
+32 II. Such organizational and procedural rules necessary to administer the boards in the
+33 office, including rules governing the administration of complaints and investigations, hearings,
+34 disciplinary and non-disciplinary proceedings, expungement of disciplinary action, manufactured
+35 housing dispute resolution, inspections, payment processing procedures, board subcommittees,
+36 and application procedures. For purposes of this paragraph, "manufactured housing dispute
+37 resolution" means a program for the timely resolution of disputes between manufacturers, retailers,
+
+HB1312-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 and installers of manufactured homes, including the issuance of appropriate orders, regarding
+2 responsibility for the correction or repair of defects in manufactured homes for defects that are
+3 reportedduringtheone-yearperiodbeginningonthedateofinstallation.
+4 14 Contingency. If SB 470 of the 2026 regular legislative session becomes law, section 4 of this
+5 act shall not take effect and section 13 of this act shall take effect 60 days after its passage. If SB
+6 470 of the 2026 regular legislative session does not become law, section 4 of this act shall take effect
+7 60daysafteritspassageandsection13ofthisactshallnottakeeffect.
+8 15 EffectiveDate.
+9 I. Sections4and13ofthisactshalltakeeffectasprovidedinsection14ofthisact.
+10 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.

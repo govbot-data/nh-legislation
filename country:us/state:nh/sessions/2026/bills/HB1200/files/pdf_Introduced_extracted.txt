@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1200-FN-ASINTRODUCED
+2026SESSION
+26-2576
+06/09
+1200-FN
+HOUSEBILL
+ANACT relativetoexemptionsfromvesselregistrationandboatfeedecal.
+SPONSORS: Rep.Aures,Merr.13
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillchangesthevesselregistrationexemptionperiodfrom30consecutivedaysto10.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1200-FN-ASINTRODUCED
+26-2576
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoexemptionsfromvesselregistrationandboatfeedecal.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ExemptionsfromRegistrationandBoatFeeDecal. AmendRSA270-E:4,IItoreadasfollows:
+2 II. Vessels registered in another state or country temporarily using the waters of this state
+3 fornotmorethan[30]10consecutivedays.
+4 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2576
+11/15/25
+HB1200-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoexemptionsfromvesselregistrationandboatfeedecal.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue Indeterminable
+RevenueFund VariousDedicatedFunds(SeeMethodologyBelow)
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill reduces, from 30 days to 10 days, how long vessels registered elsewhere may use state
+waters without state registration. To the extent this bill reduces an exemption to registration,
+there could be an increase in boat registrations to operate in NH for more than 10 days. The
+Department has not provided estimates as to how many there could be, or the corresponding
+revenue impact to various state funds. Per RSA 270-E:5-a and RSA 270-E:7, portions of the
+registrationanddecalfeesarecreditedtothenavigationsafetyfundestablishedunderRSA270-
+E:6-a, the lake restoration and preservation fund established under RSA 487:25, the fish and
+game search and rescue fund established under RSA 206:42, the statewide public boat access
+fund established under RSA 233-A:13, and the harbor dredging and pier maintenance fund
+establishedunderRSA12-G:46.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association

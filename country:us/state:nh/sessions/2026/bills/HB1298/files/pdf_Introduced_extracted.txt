@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1298 -ASINTRODUCED
+2026SESSION
+26-2827
+08/06
+1298
+HOUSEBILL
+ANACT relative to the disposal of electronic ballot counting device external memory
+devices.
+SPONSORS: Rep.Berry,Hills.44
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the external memory devices from electronic ballot counting devices to be
+destroyedinthesamewayasballots.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1298-ASINTRODUCED
+26-2827
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the disposal of electronic ballot counting device external memory
+devices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DisposalandRetentionSchedule;ElectronicBallotCountingDeviceExternalStorageDevices.
+2 AmendRSA33-A:3-a,XXXVI-XXXVIItoreadasfollows:
+3 XXXVI. Elections-federal elections: ballots and absentee ballot applications, affidavit
+4 envelopes, lists, and electronic ballot counting device external storage devices: by the town clerk
+5 until the contest is settled and all appeals have expired or at least 22 months after the election,
+6 whichever is longer. Extra electronic ballot counting device external storage devices programmed
+7 for, but not used during the election are exempt from preservation. Electronic ballot counting
+8 device external storage devices shall be disposed of in the same manner as ballots and
+9 absenteeballotapplications,affidavitenvelopes, andlists.
+10 XXXVII. Elections-not federal: ballots and absentee ballot applications, affidavit envelopes,
+11 lists, and electronic ballot counting device external storage devices: by the town clerk until the
+12 contest is settled and all appeals have expired or at least 60 days after the election, whichever is
+13 longer. Extra electronic ballot counting device external storage devices programmed for, but not
+14 used during the election are exempt from preservation. Electronic ballot counting device
+15 external storage devices shall be disposed of in the same manner as ballots and absentee
+16 ballotapplications,affidavitenvelopes, andlists.
+17 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

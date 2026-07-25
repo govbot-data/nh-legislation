@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1444-FN-ASINTRODUCED
+2026SESSION
+26-2749
+09/08
+1444-FN
+HOUSEBILL
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+SPONSORS: Rep. Moffett, Merr. 4; Rep. Cambrils, Merr. 4; Rep. Freeman, Belk. 8; Rep.
+Litchfield, Rock. 32; Rep. Mandelbaum, Rock. 21; Rep. Notter, Hills. 12; Rep.
+Creighton,Hills.30;Sen.Pearl,Dist17;Sen.Sullivan,Dist18
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the creation of a list of unmanned aircraft systems that are deemed not to be a
+potential threat tothe stateand prohibits the stateor local governments from acquiring systems not
+onthelistafterJanuary1,2028.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1444-FN-ASINTRODUCED
+26-2749
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Prohibition on Purchase or Acquisition of Certain Unmanned Aircraft Systems.
+2 AmendRSAbyinsertingafterchapter162-Uthefollowingnewchapter:
+3 CHAPTER162-V
+4 PROHIBITIONONPURCHASEORACQUISITIONOFCERTAINUNMANNEDAIRCRAFT
+5 SYSTEMS
+6 162-V:1 Definitions.
+7 As used in this chapter, “unmanned aircraft system” or “drone” means a powered, aerial vehicle
+8 that:
+9 I. Does not carry a human operator and is operated without the possibility of direct human
+10 interventionfromwithinorontheaircraft;
+11 II. Usesaerodynamicforcestoprovidevehiclelift;
+12 III. Canflyautonomouslyorbepilotedremotely;and
+13 IV. Canbeexpendableorrecoverable.
+14 162-V:2 Prohibition on Purchase or Acquisition of Certain Unmanned Aircraft Systems by the
+15 State.
+16 I. EffectiveJanuary1,2028,nostateagencyshallpurchaseoracquireadroneor unmanned
+17 aircraftsystemotherthanthoseclearedpursuanttoRSA162-V:4.
+18 II. To the extent practicable, state agencies shall purchase or acquire only those drones and
+19 unmannedaircraftsystemsclearedpursuanttoRSA162-V:4priortoJanuary1,2028.
+20 III. EffectiveJanuary1,2028, nostatefundsshallbeusedtopurchaseoracquireadroneor
+21 unmannedaircraftsystemwhosepurchasewouldbeprohibitedbyparagraphI.
+22 IV. A contract or agreement for the purchase or acquisition of a drone or unmanned aircraft
+23 systeminviolationofthissectionisvoidandunenforceable.
+24 162-V:3 Prohibition on Purchase or Acquisition of Certain Unmanned Aircraft Systems by
+25 Localities.
+26 I. Effective January 1, 2028, no county, city, town or other political subdivision shall
+27 purchase or acquire a drone or unmanned aircraft system other than those cleared pursuant to RSA
+28 162-V:4.
+29 II. To the extent practicable, any county, city, town or other political subdivision shall
+30 purchase or acquire only thosedrones and unmanned aircraft systems cleared pursuant to RSA 162-
+31 V:4,priortoJanuary1,2028.
+
+HB1444-FN-ASINTRODUCED
+-Page2-
+1 III. A contract or agreement for the purchase or acquisition of a drone or unmanned aircraft
+2 systeminviolationofthissectionisvoidandunenforceable.
+3 162-V:4 CreationandMaintenanceofClearedDronesList.
+4 I. On or before January 1, 2028, the department of safety, in consultation with the
+5 department of administrative services, shall create and shall regularly maintain a cleared list of
+6 dronesandunmannedaircraftsystemsthatare:
+7 (a) ClearedbytheDepartmentofDefensethroughits“BlueUAS”Program;
+8 (b) Determined to be compliant with the requirements of the National Defense
+9 AuthorizationActof2024,PublicLaw118-31;
+10 (c) Determined by the department of safety to be designed, maintained, modified, or
+11 operated in a manner that they are incapable under normal operating conditions of transmitting
+12 datatounauthorizedpersonsorentities;or
+13 (d) Otherwise determined by the department of safety to present no threat to the
+14 securityofthestate.
+15 II. This list shall be updated at least every 6 months, and those devices and vendors on the
+16 clearedlistshallbepreferredoverothersinstateandlocalprocurementactions.
+17 III. In creating and maintaining its cleared list, the department of safety shall consult with
+18 recognized cybersecurity experts from the private and public sector to ensure the integrity and
+19 securityofalldatacollectedbyunmannedaircraftsystemsusedinthisstate.
+20 IV. The cleared list of preferred drones shall be a public document; however, all documents
+21 or processes related to its assessment and decision-making process shall be exempt from public
+22 disclosurepursuanttoRSA91-A.
+23 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2749
+11/24/25
+HB1444-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $500,000to$1,000,000IncreasePerYear
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+Thisbillrequiresthecreationofalistofdronesandunmannedaircraftsystems(UAS)permitted
+for use by the state or political subdivisions. The Department of Safety will be responsible for
+creating and maintaining the list and states that due to the technical and security-sensitive
+nature of this work, significant personnel time and inter-agency coordination will be required,
+including collaboration with cybersecurity experts, vendor vetting, and regular updates to the
+list expected at least every six months. While the Department states no new full-time positions
+arenecessaryatthistime,theworkloadwilllikelyrequirereallocationofexistingstaffresources
+or contracted support, both of which carry substantial cost implications. In addition to
+administrative costs, the Division of State Police (NHSP) will likely incur substantial expenses
+to replace existing drones that do not meet the new compliance requirements. Most drones on
+the Blue UAS list are significantly more expensive than commercially available alternatives.
+Assuming NHSP UAS assets need to be replaced, this will result in training on the new
+
+platforms and the need for supplies and software for the new platforms. While some federal
+grants may be available to offset these costs—such as through the Department of Homeland
+Security’sSAVERprogram,theByrne-JAGprogram(asamendedbytheDRONEActof2025),or
+the Counter-UAS Grant Program, these funding sources are competitive and not guaranteed.
+The Department states that while the exact fiscal impact is difficult to determine without a
+comprehensive inventory of current drone assets, costs to the Department will likely be between
+$500,000and$1,000,000peryear.
+This bill may also have an impact on local and county governments. Any impact is
+indeterminableandwouldvarybycountyormunicipality.
+AGENCIESCONTACTED:
+DepartmentofSafety

@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER302
+HB1362-FINALVERSION
+11Mar2026...1022h
+05/07/2026 1613s
+4Jun2026...2165EBA
+2026SESSION
+26-3082
+06/08
+1362
+HOUSEBILL
+ANACT relativetomotorvehicleequipmentspecifications.
+SPONSORS: Rep.T.Walsh,Merr.10
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes motor vehicle standards for tire tread depth and brake lining measurements and
+inspectionstandardsforvehiclesteeringandsuspensionsystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER302
+HB1362-FINALVERSION
+11Mar2026...1022h
+05/07/2026 1613s
+4Jun2026...2165EBA 26-3082
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomotorvehicleequipmentspecifications.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 302:1 New Section; Equipment of Vehicles; Tire Tread Depth. Amend RSA 266 by inserting after
+2 section48thefollowingnewsection:
+3 266:48-a TireTreadDepth;MeasurementRequirements.
+4 I. No person shall drive a motor vehicle upon any way unless each tire mounted thereon has a
+5 minimumtreaddepthofnotlessthan2/32ofaninch.
+6 II. Notwithstandinganyotherprovisionoflawtothecontrary,thissectionshallnotapplyto:
+7 (a) Commercial motor vehicles, as defined in RSA 259:12-e, that exceed 10,000 pounds in
+8 weight.
+9 (b) Schoolbuses,asdefinedinRSA259:96,thatexceed10,000poundsinweight.
+10 (c) Mixed use school buses, as defined in RSA 259:96-a, that exceed 10,000 pounds in
+11 weight.
+12 302:2 New Section; Equipment of Vehicles; Brake Performance; Brake Lining Measurements.
+13 AmendRSA266byinsertingaftersection28thefollowingnewsection:
+14 266:28-a BrakeLiningMeasurement;LiningThickness.
+15 I. No person shall drive a motor vehicle upon any way unless the brake lining or friction material
+16 ateachwheelhasaminimumthicknessof2/32ofaninch.
+17 II. Brake lining measurements shall be performed using a brake gauge, caliper, or other suitable
+18 measuringdevicecalibratedinthirty-secondsofaninch.
+19 (a) For brake shoes or disc brake pads with riveted linings, measurements shall be taken to
+20 thetopofanyrivethead.
+21 (b) For brake shoesor discbrake pads withbonded linings, measurements shall be taken at
+22 thethinnestpointofthefrictionmaterial.
+23 III. Notwithstandinganyotherprovisionoflawtothecontrary,thissectionshallnotapplyto:
+24 (a) Commercial motor vehicles, as defined in RSA 259:12-e, that exceed 10,000 pounds in
+25 weight.
+26 (b) Schoolbuses,asdefinedinRSA259:96,thatexceed10,000poundsinweight.
+27 (c) Mixed use school buses, as defined in RSA 259:96-a, that exceed 10,000 pounds in
+28 weight.
+29 302:3 New Subdivision; Steering and Suspension. Amend RSA 266 by inserting after section 117
+30 thefollowingnewsubdivision:
+31 SteeringandSuspension
+
+CHAPTER302
+HB1362-FINALVERSION
+-Page2-
+1 266:118 SteeringandSuspensionStandards.
+2 I. No vehicle shall be operated on the ways of this state if, upon inspection, any of the following
+3 conditionsarefound:
+4 (a) Steeringlinkagefree-playexceedsthemanufacturer'sspecifications.
+5 (b) Anywheelbearingthatisnotwithinthemanufacturer'stoleranceforlooseness.
+6 (c) Anyballjointisbroken,cracked,orexceedsthemanufacturer'sspecifications.
+7 II. For purposes of this section, "manufacturer's specifications" means the tolerances and
+8 standards established by the original equipment manufacturer for the safe operation of the specified
+9 systemorcomponent.
+302:4 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:July10,2026
+EffectiveDate:July10,2026

@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1772-FN-A-ASAMENDEDBYTHEHOUSE
+11Mar2026...0365h
+2026SESSION
+26-2533
+05/09
+1772-FN-A
+HOUSEBILL
+ANACT relativetoprescribingibogaineforinvestigationaluseonly.
+SPONSORS: Rep. Moffett, Merr. 4; Rep. Ammon, Hills. 42; Rep. Edwards, Rock. 31; Rep. Foss,
+Hills. 41; Rep. Freeman, Belk. 8; Rep. Roy, Rock. 31; Sen. McGough, Dist 11; Sen.
+Pearl,Dist17
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillpermitshealthcareproviderstoproscribeibogaineforinvestigationaluseonly.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1772-FN-A-ASAMENDEDBYTHEHOUSE
+11Mar2026...0365h 26-2533
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoprescribingibogaineforinvestigationaluseonly.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Ibogaine; Prescription for Investigational Use. Amend RSA 329 by inserting
+2 aftersectionRSA329:1-hthefollowingnewsection:
+3 329:1-i Ibogaine; Prescription for Investigational Use Only. Notwithstanding any provision of
+4 law to the contrary, physicians and other health care providers licensed to prescribe drugs in this
+5 statemayprescribeibogaineforinvestigationaluseonly.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2533
+03/23/2026
+HB1772-FN-A-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0365h)
+ANACT relativetoprescribingibogaineforinvestigationaluseonly.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None

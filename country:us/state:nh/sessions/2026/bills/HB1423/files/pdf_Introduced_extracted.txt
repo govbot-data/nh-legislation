@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1423-FN-ASINTRODUCED
+2026SESSION
+26-2366
+09/08
+1423-FN
+HOUSEBILL
+ANACT relativetotheoffenseofimproperinfluence.
+SPONSORS: Rep. Ammon, Hills. 42; Rep. Giasson, Hills. 29; Rep. Thibault, Merr. 25; Rep.
+Sirois, Hills. 32; Rep. Aures, Merr. 13; Rep. Labrie, Hills. 2; Rep. Popovici-Muller,
+Rock.17;Rep.Belcher,Carr.4
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands the offense of improper influence to include threats to immediate family
+members of a public servant, party official, or voter. This bill further provides mandatory minimum
+penaltiesforthecertainviolationsoftheoffense.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1423-FN-ASINTRODUCED
+26-2366
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofimproperinfluence.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ImproperInfluence. AmendRSA640:3toreadasfollows:
+2 640:3 ImproperInfluence.
+3 I. ApersonisguiltyofaclassBfelonyifhe:
+4 (a) Threatens any harm to a public servant, party official or voter, or immediate
+5 family member of a public servant, party official, or voter, with the purpose of influencing his
+6 action,decision,opinion,recommendation,nomination,voteorotherexerciseofdiscretion;or
+7 (b) Privately addresses to any public servant who has or will have an official discretion
+8 in a judicial or administrative proceeding any representation, argument or other communication
+9 with the purpose of influencing that discretion on the basis of considerations other than those
+10 authorizedbylaw;or
+11 (c) Being a public servant or party official, fails to report to a law enforcement officer
+12 conductdesignedtoinfluencehiminviolationofsubparagraph(a)or(b)hereof.
+13 II. "Harm" means any disadvantage or injury, to person or property or pecuniary interest,
+14 including disadvantage or injury to any other person or entity in whose welfare the public servant,
+15 partyofficial,orvoter,ortheir immediate familymember,isinterested,providedthatharmshall
+16 not be construed to include the exercise of any conduct protected under the First Amendment to the
+17 UnitedStatesConstitutionoranyprovisionofthefederalorstateconstitutions.
+18 III. "Immediate family member" means a spouse, domestic partner, parent, child,
+19 sibling, grandparent, grandchild, or any person residing in the same household as the
+20 publicservant,partyofficial,orvoter.
+21 IV. AnypersonconvictedundersubparagraphI(a)ofthissectionshallbesentenced
+22 to:
+23 (a) A mandatory minimum term of imprisonment of not less than one year for
+24 each separately charged public servant, party official, voter, or immediate family member
+25 whowasthreatened;and
+26 (b) A mandatory minimum fine of not less than $1,000 for each separately
+27 charged public servant, party official, voter, or immediate family member who was
+28 threatened.
+29 V. ThemandatoryminimumpenaltiesunderparagraphIV:
+30 (a) Shallapplyseparatelyforeachindividualthreatened;
+31 (b) Shallnotbesuspended,deferred,orreduced;
+
+HB1423-FN-ASINTRODUCED
+-Page2-
+1 (c) Shallbeservedconsecutivelyformultiplevictims;
+2 (d) Shall preclude eligibility for parole until the mandatory minimum term has
+3 beenserved;and
+4 (e) Areinadditiontoanyotherpenaltiesthatmaybeimposed.
+5 2 Severability. If any provision of this act or the application thereof to any person or
+6 circumstances is held invalid, such invalidity shall not affect other provisions or applications of the
+7 act which can be given effect without the invalid provision or application, and to this end the
+8 provisionsofthisactaredeclaredtobeseverable.
+9 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2366
+11/30/25
+HB1423-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofimproperinfluence.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

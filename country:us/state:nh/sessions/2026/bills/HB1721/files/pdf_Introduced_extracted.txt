@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1721-FN-ASINTRODUCED
+2026SESSION
+26-2960
+06/08
+1721-FN
+HOUSEBILL
+ANACT relative to limiting new system enrollment and adjusting compliance payments
+undertherenewableportfoliostandardprogram.
+SPONSORS: Rep. Harrington, Straf. 18; Rep. Berezhny, Graf. 11; Rep. Bernardy, Rock. 36;
+Rep.SabourinditChoiniere,Rock.30
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Limitsrenewableenergycertificate(REC)eligibilitytosystemsqualifiedbefore2026.
+II. CapsRECdurationat20years.
+III. RequiresthedepartmentofenergytoreviseRECstandardsorhaltnewenrollments.
+IV. Mandatesannualreductionsinalternativecompliancepaymentsaseligiblesystemsdecline.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1721-FN-ASINTRODUCED
+26-2960
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to limiting new system enrollment and adjusting compliance payments
+undertherenewableportfoliostandardprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Renewable Portfolio Standard Eligibility and Credits; Renewable Energy
+2 Certificates. AmendRSA362-Fbyinsertingaftersection6thefollowingnewsection:
+3 362-F:6-a RenewablePortfolioStandardEligibilityandCredits.
+4 I. Renewable energy systems that began operation prior to the effective date of this section
+5 shall remain eligible to enroll in the renewable portfolio standard and receive renewable energy
+6 certificates (RECs). Any additional systems that begin operation within 6 months after the effective
+7 date shall also be eligible. After that 6-month period, no new renewable energy systems shall be
+8 eligibletoenrollintherenewableportfoliostandardortoreceiveRECs.
+9 II. ForsystemsalreadyqualifiedandreceivingRECspriortoJuly1,2026:
+10 (a) ThemaximumlifetimeeligibilityforanysystemtoreceiveRECsshallbe20years.
+11 (b) AnysystemthathasalreadyreceivedRECsformorethan15yearsasoftheeffective
+12 dateofthissectionshallbeeligibleforupto5additionalyearsofRECcredits.
+13 III. On an annual basis, the department of energy shall reduce the alternative compliance
+14 paymentrequirementsunderRSA362-F:10annuallyasthenumberofeligiblesystemsdeclines.
+15 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2960
+12/11/25
+HB1721-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to limiting new system enrollment and adjusting compliance payments
+undertherenewableportfoliostandardprogram.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Decrease Decrease Decrease
+RevenueFund(s) RenewableEnergyFund
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+Decrease Decrease Decrease
+FundingSource(s) RenewableEnergyFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill limits new system eligibility under the Renewable Portfolio Standard (RPS) by
+prohibiting any renewable energy system from enrolling after 6 months following the effective
+date of the bill. It caps renewable energy certificate (REC) eligibility for existing systems at 20
+years, permits up to 5 additional years for systems already beyond 15 REC-eligible years, and
+requires the Department of Energy to annually reduce Alternative Compliance Payment (ACP)
+requirementsaseligibleREC-producingsystemsdecline.
+The Department of Energy states this bill modifies existing REC oversight duties but can be
+implemented within the Department’s current administrative structure. However, because ACP
+revenue fully funds the Renewable Energy Fund (REF), the Department states that limiting
+REC eligibility and mandating annual ACP reductions will likely decrease REF revenue over
+time. Reductions in ACP revenue would result in proportional decreases in REF-funded
+programs and could eventually eliminate the REF entirely. The average ACP revenue into the
+REF over the past five years has been approximately $6.7 million per year. The Department of
+Energy reports that nine full-time positions across the Sustainable Division, Office of Energy
+Innovation, Division of Administration, and Policy and Programs Division are currently funded
+entirelyfromtheREF. ThesepositionssupportRECcertification,RPScompliancereview,group
+
+net-metering application processing, RPS-related rulemaking, administration of all REF grant
+and rebate programs, and oversight of low-moderate income initiatives. As REF revenue
+decreases,thesepositionswouldnolongerhaveafundingsource.
+AGENCIESCONTACTED:
+DepartmentofEnergy

@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1366-FN-ASAMENDEDBYTHEHOUSE
+5Mar2026...0688h
+2026SESSION
+26-3106
+12/06
+1366-FN
+HOUSEBILL
+ANACT relativetomilitaryordersofprotection.
+SPONSORS: Rep. Roy, Rock. 31; Rep. Devoid, Merr. 1; Rep. Paquette, Hills. 25; Rep. Rhodes,
+Ches.17;Sen.Birdsell,Dist19;Sen.Carson,Dist14
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires law enforcement and peace officers to notify certain military agencies where
+said officer has probable cause to believe a member of the armed forces or national guard is in
+violationofamilitaryprotectionorder.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1366-FN-ASAMENDEDBYTHEHOUSE
+5Mar2026...0688h 26-3106
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomilitaryordersofprotection.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Notification; Domestic Violence Protective Orders; Military Protective
+2 Orders; Violations. Amend RSA 173-B:8 by inserting after paragraph III the following new
+3 paragraph:
+4 IV. If a law enforcement officer or peace officer has probable cause to believe a member of
+5 the armed forces is in violation of a military protection order, as defined in RSA 173-B:1, entered
+6 into the Federal Bureau of Investigation’s National Crime Information Center database, the law
+7 enforcement officer shall notify the law enforcement agency that entered the military protection
+8 orderintothedatabasethattheservicemembermayhaveviolatedthemilitaryprotectionorder.
+9 2 MilitaryProtectiveOrders;Violation;Notification. AmendRSA110-B:19-atoreadasfollows:
+10 110-B:19-a NationalGuardandStaffJudgeAdvocate;AccesstoCriminalHistoryRecords.
+11 I. The New Hampshire [Air National Guard] air national guard, New Hampshire [Army
+12 National Guard] army national guard, and 157 Air Refueling Wing Offices of the Staff Judge
+13 Advocate shall be granted access to all confidential criminal history records, criminal investigation
+14 documentation, and public court records of New Hampshire [National Guard] national guard
+15 employees and service members for the purpose of carrying out the office's responsibilities and the
+16 respectiveattorneys'dutiesunderstate,federal,andmilitarylawandregulations.
+17 II. If a law enforcement officer or peace officer has probable cause to believe a
+18 memberoftheNewHampshireairnationalguardorNewHampshirearmynationalguard
+19 is in violation of a military protection order, the law enforcement officer or peace officer
+20 shall notify the office of the New Hampshire national guard general counsel or their
+21 designeethattheservicemembermayhaveviolatedthemilitaryprotectiveorder.
+22 3 EffectiveDate. Thisactshalltakeeffect180daysafterpassage.
+
+LBA
+26-3106
+3/6/26
+HB1366-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0688h)
+ANACT relativetomilitaryordersofprotection.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

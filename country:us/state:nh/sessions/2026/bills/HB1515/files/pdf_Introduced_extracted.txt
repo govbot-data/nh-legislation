@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1515-FN-ASINTRODUCED
+2026SESSION
+26-2635
+05/09
+1515-FN
+HOUSEBILL
+ANACT repealing the child care grant program administered by the department of health
+andhumanservices.
+SPONSORS: Rep. Turcotte, Straf. 4; Rep. D. Kelley, Hills. 32; Rep. R. Brown, Carr. 8; Rep.
+Perez, Rock. 16; Rep. Andrus, Merr. 5; Rep. Terry, Belk. 7; Rep. Sirois, Hills. 32;
+Rep.Belcher,Carr.4
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals appropriations made to the department of health and human services for the
+purposeofprovidingrecruitment,retention,andbenefitgrantstochildcareemployers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1515-FN-ASINTRODUCED
+26-2635
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the child care grant program administered by the department of health
+andhumanservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. 2025, 141:431, making an appropriation to the department of health and human
+2 servicesforthepurposeofprovidinggrantstoNewHampshirechildcareemployers,isrepealed.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2635
+12/4/25
+HB1515-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealing the child care grant program administered by the department of health
+andhumanservices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill repeals Chapter 141:431, Laws of 2025, a section in HB 2 (the budget trailer bill) that
+appropriated$7.5millionineachyearoftheFY26/27bienniumtotheDepartmentofHealthand
+Human Services for the purpose of providing grants to NH childcare providers for employee
+recruitment and retention. The appropriation was to be made from federal Temporary
+Assistance to Needy Families (TANF) reserve funds, and was contingent upon the Department
+seeking formal approval from the federal government for this use of the funds. The Department
+has since relayed to the Office of the Legislative Budget Assistant that it has sought guidance
+from the federal government, which has determined that federal TANF funds cannot be used for
+this purpose. For this reason, although the repeal of this section would remove the
+appropriation (as well as the Department's authority to provide grants to eligible childcare
+providers),therepealisanticipatedtohavenofiscalimpactinpractice.
+AGENCIESCONTACTED:
+None

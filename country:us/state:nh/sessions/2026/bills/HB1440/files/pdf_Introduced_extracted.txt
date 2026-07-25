@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1440-FN-ASINTRODUCED
+2026SESSION
+26-2672
+08/06
+1440-FN
+HOUSEBILL
+ANACT relativetopropertiesenrolledincarbonsequestrationprograms.
+SPONSORS: Rep. Ouellet, Coos 3; Rep. A. Davis, Coos 2; Rep. Tierney, Coos 1; Rep. Durkin,
+Coos1;Sen.Rochefort,Dist1
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires owners of properties enrolled in carbon sequestration programs to submit
+managementplanstothedivisionofforestandlandsandtothefishandgamedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1440-FN-ASINTRODUCED
+26-2672
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopropertiesenrolledincarbonsequestrationprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Forest Carbon Sequestration Management. Amend RSA 79 by inserting after
+2 section37thefollowingnewsection:
+3 79:38 ForestCarbonSequestrationManagement.
+4 I. Any landowner enrolling property in a carbon sequestration program that involves
+5 forestland within the state shall submit a forest management plan to the division of forests and
+6 lands. Theplanshalldemonstrateadherencetobestforestrypractices.
+7 II. The forest management plan shall also include a habitat protection component developed
+8 inconsultationwithbiologistsfromtheNewHampshirefishandgamedepartment. Thiscomponent
+9 shallidentifyandaddresspotentialimpactstofishandwildlifehabitat.
+10 III. The division of forests and lands and the fish and game department shall jointly review
+11 and approve the submitted forest management plan. Approval shall be contingent upon a
+12 determinationthattheplan:
+13 (a) Complieswithbestforestrypracticesasdefinedbythedivision;and
+14 (b) Adequatelyprotectsfishandwildlifehabitat.
+15 IV. The division and the department shall conduct periodic on-site inspections to ensure
+16 compliance with the approved plan. If a landowner is found to be in material noncompliance, the
+17 divisionmaysuspendorrevokeapprovaloftheplan.
+18 V. The commissioner of the department of natural and cultural resources, in consultation
+19 with the executive director of fish and game, may adopt rules under RSA 541-A to implement the
+20 provisionsofthissection,includingbutnotlimitedto:
+21 (a) Standardsforforestmanagementandhabitatprotectionplans;
+22 (b) Proceduresforplansubmission,review,andapproval;
+23 (c) Inspectionprotocolsandenforcementmechanisms.
+24 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2672
+11/24/25
+HB1440-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetopropertiesenrolledincarbonsequestrationprograms.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+DNCRImpact
+$141KinFY27,$100KinFY28,and$101KinFY29
+Expenditures* $0
+F&GImpact
+$10K-$100KPerYear
+FundingSource(s) GeneralFundandFishandGameFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires landowners who enroll in a carbon sequestration program to submit a forest
+management plan to the Department of Natural and Cultural Resources Division of Forest and
+Lands (Division). The plan must adhere to best forestry practices and include a habitat
+protection component developed in consultation with a Fish and Game biologist, which identifies
+and addresses potential impacts to fish and wildlife. It requires the Division and the Fish and
+Game Department to jointly review and approve submitted plans. It also requires both to
+conduct periodic on-site inspections to ensure compliance with an approved plan. Current data
+indicates that there are over 15 landowners enrolled in such programs totaling approximately
+183,000acresstatewide.
+DepartmentofNaturalandCulturalResourcesImpact
+The Department states administering this law would require one full-time, licensed New
+Hampshire Forester (SOC11-01, Step 6, Forester I). Total salary, benefit, and equipment costs,
+isestimatedtobe$141,000inFY2027,$100,000inFY2028,and$101,000inFY2029.
+FishandGameDepartmentImpact
+
+The Department states it unlikely it would be able to conduct this work given current staffing
+and funding levels and would need to hire an additional staff member to conduct this work,
+particularly if landowner participation in carbon sequestration programs increases over time.
+TheDepartmenthasprovidednopositiondata,butbelievestheestimatedcostwouldbebetween
+$10,000and$100,000peryear.
+TheDepartmentofRevenueAdministrationhasidentifiednoimpactsrelativetothisbill.
+AGENCIESCONTACTED:
+Departmentof Naturaland CulturalResources, Fishand GameDepartment, andDepartment of
+RevenueAdministration

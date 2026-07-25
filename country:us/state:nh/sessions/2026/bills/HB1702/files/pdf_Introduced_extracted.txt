@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1702-FN-ASINTRODUCED
+2026SESSION
+26-3147
+06/09
+1702-FN
+HOUSEBILL
+ANACT relative to notice requirements and enforcement for pharmacies dispensing
+medicationsintendedtoinducechemicalabortions.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Mooney, Hills. 12; Rep. Notter, Hills. 12; Rep. M.
+Pearson, Rock. 34; Rep. Perez, Rock. 16; Rep. Sellers, Graf. 10; Rep. Thibault,
+Merr. 25; Rep. Bennett, Rock. 4; Rep. Sabourin dit Choiniere, Rock. 30; Sen.
+Avard,Dist12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Defines"chemical"and"medicalabortion"drugs.
+II. Requires medical facilities and pharmacies that provides chemical abortion drugs to post a
+standardizednoticeregardingthepotentialreversibilityofmifepristone.
+III. Establishes signage requirements by facility type, imposes a class B felony for intentional
+noncompliance,andauthorizescivilactionsforfailuretoprovidetherequirednotice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1702-FN-ASINTRODUCED
+26-3147
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to notice requirements and enforcement for pharmacies dispensing
+medicationsintendedtoinducechemicalabortions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. The purpose of this act is to inform women seeking chemical abortions that it may
+2 bepossibletoundotheeffectsofmifepristone,adrugcommonlyusedtoinduceabortions.
+3 2 New Subdivision; Chemical Abortion. Amend RSA 329 by inserting after section 53 the
+4 followingnewsubdivision:
+5 ChemicalAbortion
+6 329:54 Definitions. Inthissubdivision:
+7 I. "Chemical abortion" or "medical abortion" means the use or prescription of any drug or
+8 chemicalforthepurposesofinducinganabortionincluding,butnotlimitedto,mifepristone.
+9 II. "Medicalfacility"shallhavethesamemeaningasdefinedinRSA329:43,VI.
+10 329:55 Notice.
+11 I. Any medical facility or pharmacy in New Hampshire where any chemical abortion drug is
+12 prescribed, dispensed, or administered for the purposes of inducing a medical abortion shall post a
+13 conspicuous sign at least 8.5 inches by 11 inches that is clearly visible to patients and customers.
+14 Suchsignshallbeprinted withletteringthatislegibleandatleast3/4of aninchboldfacedtypeand
+15 shallread:
+16 "NOTICE TO PATIENTS HAVING CHEMICAL ABORTIONS THAT USE MIFEPRISTONE OR
+17 OTHER CHEMICAL ABORTION DRUG: Mifepristone, also known as 'RU-486,' alone is not always
+18 effective in ending a pregnancy. It may be possible to reverse its intended effect if the second pill or
+19 tablet has not been taken or administered. If you change your mind and wish to continue the
+20 pregnancy, you can get immediate help by accessing available resources, including Option Line by
+21 HeartbeatInternationalat[insertphonenumberhere]."
+22 II. Any private office or freestanding surgical outpatient clinic where mifepristone is
+23 prescribed, dispensed, or administered for the purposes of inducing a medical abortion shall post the
+24 signrequiredunderparagraphIineachpatientwaitingroomandpatientconsultationroomusedby
+25 patientsseekingmedicalabortions.
+26 III. A hospital or other medical care facility or clinic where mifepristone is prescribed,
+27 dispensed,oradministeredforthepurposesofinducingamedicalabortionthatisnotaprivateoffice
+28 or freestanding surgical outpatient clinic shall post the sign required under paragraph I in each
+29 patientadmissionarea.
+
+HB1702-FN-ASINTRODUCED
+-Page2-
+1 IV. A pharmacy where mifepristone is prescribed, dispensed, or administered for the
+2 purposeofinducingamedicationabortionshallpostthesignrequiredunderparagraphIinthearea
+3 inside the premises where customers are provided prescription medications, and on the exterior of
+4 the premises in the area where customers are provided prescription medications via a drive-through
+5 window.
+6 329:56 Enforcement.
+7 I. A health care provider or pharmacy that knowingly violates RSA 329:55 shall be guilty of
+8 aclassBfelony.
+9 II. Anywomanprescribed,dispensed,oradministeredadrugintendingtoinduceachemical
+10 abortion without being informed by the notice outlined under RSA 329:55 may, in a civil action,
+11 obtain appropriate relief against the party in violation of RSA 329:55. Such relief shall include
+12 monetary damages for any psychological or physical injuries, or both, caused by a violation of this
+13 subdivision.
+14 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3147
+12/3/25
+HB1702-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to notice requirements and enforcement for pharmacies dispensing
+medicationsintendedtoinducechemicalabortions.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

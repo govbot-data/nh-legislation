@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1522-FN-ASINTRODUCED
+2026SESSION
+26-2398
+09/08
+1522-FN
+HOUSEBILL
+ANACT relative to amending and adding definitions related to the protection of persons
+fromdomesticviolence.
+SPONSORS: Rep. Markell, Rock. 18; Rep. DeSimone, Rock. 18; Rep. Korzen, Coos 7; Rep.
+Litchfield, Rock. 32; Rep. W. MacDonald, Rock. 16; Rep. Mandelbaum, Rock. 21;
+Rep.Nelson,Rock.13
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds to the types of abuse the court can consider in determining whether to issue a
+domesticviolenceorderofprotection.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1522-FN-ASINTRODUCED
+26-2398
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to amending and adding definitions related to the protection of persons
+fromdomesticviolence.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Protection of Persons from Domestic Violence; Definitions. Amend RSA 173-B:1, I to read as
+2 follows:
+3 I. "Abuse" means the commission or attempted commission of one or more of the acts
+4 described in subparagraphs (a) through [(h)] (j) by a family or household member or by a current or
+5 formersexual or intimatepartner, where suchconductis determined toconstituteacrediblepresent
+6 threat to the petitioner's safety. The court may consider evidence of such acts, regardless of their
+7 proximity in time to the filing of the petition, which, in combination with recent conduct, reflects an
+8 ongoing pattern of behavior which reasonably causes or has caused the petitioner to fear for his or
+9 hersafetyorwell-being:
+10 (a) AssaultorrecklessconductasdefinedinRSA631:1throughRSA631:3.
+11 (b) CriminalthreateningasdefinedinRSA631:4.
+12 (c) SexualassaultasdefinedinRSA632-A:2throughRSA632-A:5.
+13 (d) InterferencewithfreedomasdefinedinRSA633:1throughRSA633:3-a.
+14 (e) DestructionofpropertyasdefinedinRSA634:1andRSA634:2.
+15 (f) UnauthorizedentryasdefinedinRSA635:1andRSA635:2.
+16 (g) HarassmentasdefinedinRSA644:4.
+17 (h) CrueltytoanimalsasdefinedinRSA644:8.
+18 (i) Nonconsensual dissemination of private sexual images as defined in RSA
+19 644:9-a.
+20 (j) CoercivecontrolasdefinedinparagraphII-a.
+21 2 New Paragraph; Protection of Persons from Domestic Violence; Definitions. Amend RSA 173-
+22 B:1byinsertingafterparagraphIIthefollowingnewparagraph:
+23 II-a. "Coercive control" means a pattern of conduct that includes, but is not limited to, a
+24 manifestation of the defendant’s intent to threaten, intimidate, harass, isolate, coerce, control, or
+25 compelcompliance,whichcausesthepetitionertoreasonablyfearforhisorherphysicalsafety. The
+26 actsmayinclude,butarenotlimitedto:
+27 (a) Isolatingthepetitionerfromfriends,relatives,orothersourcesofsupport;
+28 (b) Deprivingthepetitionerofbasicneeds;
+
+HB1522-FN-ASINTRODUCED
+-Page2-
+1 (c) Controlling, regulating, or monitoring the petitioner’s activities, communications,
+2 movements, finances, economic resources, or access to services, including through technological
+3 means;
+4 (d) Compelling the petitioner to engage in a specific activity, including, but not limited
+5 to,criminalconduct;
+6 (e) Threatening to publish, or actually publishing, sensitive personal information
+7 relatingtothepetitioner,otherthanmakingagoodfaithreporttoalawenforcementagency;or
+8 (f) Any single act which is intended to threaten intimidate, harass, isolate, coerce,
+9 control,orcompelcomplianceofapetitionertoreasonablyfearfortheirphysicalsafety,consistingof
+10 harming,orthreatingorattemptingtoharm,achild,relative,oranimalbelongingtothepetitioner.
+11 3 ProtectionofPersonsfromDomesticViolence;CommencementofProceedings. Amend
+12 RSA173-B:3,Itoreadasfollows:
+13 I. Any person who has suffered abuse as defined in RSA 173-B:1, I may seek relief
+14 pursuant to RSA 173-B:5 by filing a petition, in the county or district where the plaintiff or
+15 defendant resides, alleging abuse by the defendant. Any person filing a petition containing false
+16 allegations of abuse shall be subject to criminal penalties. Notice of the pendency of the action and
+17 of the facts alleged against the defendant shall be given to the defendant, either personally or as
+18 providedinparagraphIII. Theplaintiffshallbepermittedtosupplementoramendthepetitiononly
+19 if the defendant is provided an opportunity prior to the hearing to respond to the supplemental or
+20 amended petition. All petitions filed under this section shall include the home and work telephone
+21 numbers of the defendant, if known. Notice of the whereabouts of the plaintiff shall not be revealed
+22 except by order of the court for good cause shown. Any answer by the defendant shall be filed with
+23 thecourtandacopyshallbeprovidedtotheplaintiffbythecourt.
+24 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2398
+11/5/25
+HB1522-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to amending and adding definitions related to the protection of persons
+fromdomesticviolence.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

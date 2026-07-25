@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1746-FN-ASINTRODUCED
+2026SESSION
+26-3016
+08/09
+1746-FN
+HOUSEBILL
+ANACT subjectingtaxpayerfundedinvestigationstotheright-to-knowlaw.
+SPONSORS: Rep. Sabourin dit Choiniere, Rock. 30; Rep. Ammon, Hills. 42; Rep. Bailey, Straf.
+2; Rep. Corcoran, Hills. 28; Rep. Granger, Straf. 2; Rep. Tim Mannion, Hills. 1;
+Rep.TomMannion,Hills.1;Rep.Spillane,Rock.2
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires certain information from investigations funded using public money to be
+subjecttotheright-to-know-law.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1746-FN-ASINTRODUCED
+26-3016
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT subjectingtaxpayerfundedinvestigationstotheright-to-knowlaw.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPurposeandFindings. Thegeneralcourtfindsthat:
+2 I. Investigations conducted or commissioned by public bodies are funded by taxpayers and
+3 thereforebelongtothepublic.
+4 II. Secrecyinpubliclyfundedinvestigationsunderminesaccountabilityandpublictrust.
+5 III. Narrow redactions are sufficient to protect genuine privacy interests while ensuring
+6 publicaccesstoinvestigativefindings.
+7 2 Minutes and Records Available for Public Inspection. New Paragraph; Minutes and Records
+8 Available for Public Inspection. Amend RSA 91-A:4 by inserting after paragraph IX the following
+9 newparagraph:
+10 X. Notwithstanding RSA 91-A:5, any record, report, or other material generated in the
+11 course of an investigation funded in whole or in part with public funds shall be subject to disclosure
+12 underthischapter,providedthat:
+13 (a) The public body or agency may redact only those portions necessary to comply with
+14 federal or state law protecting personal privacy, including but not limited to the Family Educational
+15 Rights and Privacy Act (FERPA), the Health Insurance Portability and Accountability Act (HIPAA),
+16 orotherapplicablestatutoryprivileges.
+17 (b) Such redactions shall be narrowly tailored to remove only information strictly
+18 requiredbylawtobewithheld.
+19 (c) Findings, conclusions, recommendations, and factual summaries shall not be
+20 withheldintheirentiretyonthebasisofprivacyexemptions.
+21 (d) Public officials and employees acting in their official capacities shall have no right of
+22 personalprivacyinsuchinvestigations.
+23 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3016
+12/15/25
+HB1746-FN-FISCALNOTE
+ASINTRODUCED
+ANACT subjectingtaxpayerfundedinvestigationstotheright-to-knowlaw.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$130,000to $130,000to $130,000to
+$500,000 $500,000 $500,000
+FundingSource(s) GeneralFundandHighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+LocalExpenditures $0 ($10kto$100k ($10kto$100k ($10kto$100k
+per per per
+municipality) municipality) municipality)
+METHODOLOGY:
+ThisbillamendsRSA91-Atorequirethatanyrecord,report,orothermaterialgeneratedduring
+an investigation funded in whole or in part with public money be subject to disclosure under the
+right-to-know law, with only narrowly tailored redactions permitted. The bill applies to public
+bodies and agencies and alters which investigative materials must be made available for
+inspectionunderRSA91-A:4.
+
+The Office of State and Public Sector Labor Relations states this bill expands the categories of
+investigative records that must be disclosed under the right-to-know law. The Office, which
+includes the Office of the Right-to-Know Ombudsman, is involved in governmental records
+requests. The Office explains that its access to general governmental records request data is
+limited to the 91 complaints filed with the Ombudsman. The Office states the fiscal impact is
+unabletobequantifiedasthevolumeofrequestsresultingfromthislegislationisunknown.
+The Department of Justice states this bill would make investigatory files subject to disclosure
+under RSA 91-A, requiring legal review and redaction to protect privacy and other confidential
+information. Because the Department conducts a wide range of investigations, the bill would
+increase the number of files requiring review prior to release, and this workload cannot be
+absorbed within existing staff resources. To implement the bill, the Department anticipates the
+needfor one part timeAssistant AttorneyGeneral and one part timeinvestigativeparalegal (23-
+2010 Paralegals Legal Assistants-5, SOC23-05). The cost for the Assistant Attorney General is
+estimated at $76,000 in FY 2027, $75,000 in FY 2028, and $75,000 in FY 2029. The cost for the
+investigative paralegal is estimated at $51,000 in FY 2027, $49,000 in FY 2028, and $51,000 in
+FY 2029. The total estimated cost for both positions is $127,000 in FY 2027, $124,000 in FY
+2028, and $126,000 in FY 2029, funded through the General Fund. However, The Department
+states the bill does not provide funding or position authorization and that these costs cannot be
+absorbedwithinitsexistingoperatingbudget.
+The Department of Safety, NH State Police states this bill expands the records required to be
+disclosed under RSA 91-A and anticipates a significant workload increase. The Department of
+Safety explains that it receives approximately 1,000 right-to-know requests each year, and each
+requestrequiresDOSpersonneltolocate,review,andinspectrecordsinadditiontotheirnormal
+duties. The Department states that current RSA 91-A requests already require substantial staff
+time and often require work outside of regular hours. If the bill increases the volume or types of
+recordsthatmustbecollected,examined,andredacted,theDepartmentanticipatesasignificant
+increase in personnel overtime. The Department states the fiscal impact is indeterminable, but
+based on current workload demands, it believes the impact will likely fall within the range of
+more than $100,000 to $500,000 per year. These increase in expenditures would be split with
+75% coming from the General Fund and 25% coming from the Highway Fund. However, the
+Department states the bill does not provide funding or position authorization and that these
+costscannotbeabsorbedwithinitsexistingoperatingbudget.
+The New Hampshire Municipal Association (NHMA) states this bill could increase local
+expenditures by an indeterminable amount depending on the number of requests for records
+related to personnel, school, police, fire marshal, or other investigations conducted in a given
+year. Local costs would be associated with legal review of investigative records to determine
+
+appropriate redactions and with legal expenses incurred in responding to right to know lawsuits
+alleging improper withholding or over redaction of information. Depending on the volume and
+complexityofrequests,thesecostscouldrangefrom$10,000to$100,000permunicipality.
+The New HampshireAssociationof Counties states this bill will increase countyexpenditures by
+an indeterminable amount. They explain counties conduct or fund a wide range of
+investigations, and the bill would require disclosure of those materials with only narrow
+redactions. Because counties cannot predict the number or type of investigations that will
+require disclosure, nor the amount of time needed to review, redact, and release those records,
+theAssociationisunabletocalculatethefiscalimpactasthecostsmayvarysignificantly.
+AGENCIESCONTACTED:
+The Office of State and Public Sector Labor Relations, Department of Justice, Department of
+Safety,NewHampshireMunicipalAssociation,andNewHampshireAssociationofCounties

@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1421-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0445h
+2026SESSION
+26-2339
+06/08
+1421-FN
+HOUSEBILL
+ANACT modifyingtitleexemptionsformotorvehiclesmanufacturedbeforetheyear2000.
+SPONSORS: Rep.Granger,Straf.2;Rep.Giasson,Hills.29
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillexemptsanymotorvehiclethatisatleast20yearsoldfromtherequirementtoobtaina
+certificate of title, except for heavy trucks and truck-tractors with a gross vehicle weight over 18,000
+pounds. This exemption applies on a rolling basis as vehicles reach 20 years of age. This bill also
+allowsapersonwhoownsatitle-exemptvehicletheabilitytovoluntarilyrequestatitle.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1421-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0445h 26-2339
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifyingtitleexemptionsformotorvehiclesmanufacturedbeforetheyear2000.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Certificates of Title and Registration of Vehicles; Exempted Vehicles. Amend RSA 261:3, I(k)
+2 toreadasfollows:
+3 (k) Any motor vehicle whose manufacturer's model year is older than 20 years [before
+4 the year 2000], except heavy trucks and truck-tractors whose gross vehicle weight exceeds 18,000
+5 pounds.
+6 2 New Paragraph; Certificate of Title; Exempted Vehicle; Voluntary Certificate of Title. Amend
+7 RSA261:3byinsertingafterparagraphIIthefollowingnewparagraph:
+8 III. For any vehicle where a certificate of title need not be obtained pursuant to this section,
+9 a person may obtain a voluntary title for such vehicle by submitting to the department a previously
+10 issued, current or expired New Hampshire certificate of registration, a valid out-of-state certificate
+11 of title, an application for a certificate of title, or a current New Hampshire vehicle identification
+12 numberverificationformasprescribedbythedirector. Forthepurposesofthissection,atemporary
+13 registration issued pursuant to RSA 261:57 shall not meet the requirement of a previously issued
+14 NewHampshirecertificateofregistration.
+15 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2339
+02/18/2026
+HB1421-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0445h)
+ANACT modifyingtitleexemptionsformotorvehiclesmanufacturedbeforetheyear2000.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Upto$525,000
+Revenue $0 $525,000PerYearDecrease
+Decrease
+RevenueFund(s) HighwayFund
+Upto$11,550 Upto$74,550 $74,550
+Expenditures* $0
+Decrease Decrease Decrease
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,
+costsassociatedwiththecollection/administrationofhighwayfundrevenue
+FundingSource(s)
+bytheDepartmentofSafetyisdeductedpriortofundsbeingcreditedas
+unrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+Upto$63,000 $63,000
+LocalExpenditures $0 $0
+Decrease Decrease
+METHODOLOGY:
+Thisbillmakesthefollowingchangesrelativetomotorvehicletitles:
+ Changes the certificate of title exemption threshold from vehicles with a manufacturer’s
+modelyearpriorto2000tovehiclesthataremorethan20yearsold,therebyestablishing
+arollingexemptionperiod.
+ Clarifies that heavy trucks and truck-tractors with a gross vehicle weight rating
+exceeding18,000poundsremainsubjecttotitlerequirementsregardlessofage.
+ Authorizes the issuance of voluntary certificates of title for vehicles otherwise exempt
+frommandatorytitlingandspecifiesacceptabledocumentationtoobtainsuchtitle.
+ ClarifiesthatatemporaryregistrationissuedpursuanttoRSA261:57doesnotqualifyas
+a previously issued New Hampshire registration for purposes of obtaining a voluntary
+title.
+
+The Department of Safety has identified 15,212 titles issued for vehicles (excluding heavy trucks
+and trick tractors over 18,000 pounds) that reached the 20-year threshold in 2025. Therefore,
+this bill will reduce state title fee revenue by approximately $525,000 per year ($35 x 15,000
+titles issued). Also, pursuant to RSA 235:23 (“Apportionment A”), 12 percent of highway fund
+road toll and motor vehicle fee revenue collected is distributed to municipalities in the year
+following collection. Therefore, this bill would also reduce state expenditures and local revenue,
+beginning in FY 2028, by approximately $63,000. In addition, the Department states that state
+expenditures for direct mailing titles would also decrease by approximately $11,550 per year
+($0.77pertitle).
+All amounts in the first year of implementation (FY 2027) will be reduced as this bill is effective
+60 days after passage. Typically, legislation impacting motor vehicle licensing, registration, and
+titlingareeffectiveJanuary1.
+AGENCIESCONTACTED:
+DepartmentofSafety

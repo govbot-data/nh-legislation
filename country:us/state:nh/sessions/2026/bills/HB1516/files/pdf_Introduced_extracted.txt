@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1516-FN-ASINTRODUCED
+2026SESSION
+26-2337
+07/06
+1516-FN
+HOUSEBILL
+ANACT requiring municipalities to produce pie charts, bar charts, and QR codes on
+propertytaxbillsdepictingwhereandhowtaxdollarsarebeingallocated.
+SPONSORS: Rep. Labrie, Hills. 2; Rep. Cole, Hills. 26; Rep. Drago, Rock. 4; Rep. Drew, Hills.
+19; Rep. Osborne, Rock. 2; Rep. Pauer, Hills. 36; Rep. Schneller, Hills. 2; Rep.
+Sweeney,Rock.25;Sen.McGough,Dist11;Sen.Sullivan,Dist18
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires municipalities to produce pie charts, bar charts, and QR codes on property tax
+billsdepictingwhereandhowtaxdollarsarebeingallocated.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1516-FN-ASINTRODUCED
+26-2337
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring municipalities to produce pie charts, bar charts, and QR codes on
+propertytaxbillsdepictingwhereandhowtaxdollarsarebeingallocated.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;Taxation;Apportionment,Assessment,andAbatementofTaxes;Information.
+2 AmendRSA76:11-abyinsertingafterparagraphIIthefollowingnewparagraph:
+3 II-a. The governing body shall ensure the year-end property tax bill issued by each
+4 municipality shall include a link on the official municipal website with the label “Detailed Property
+5 Tax Information,” where the information in subparagraphs (a) through (e) shall be posted. The tax
+6 bill may optionally also include a quick response (QR) code for this website link. The detailed
+7 property tax information in subparagraphs (a) through (e) shall be updated at least annually before
+8 the year-end property tax bills are issued. If the municipality does not have a website, the detailed
+9 property tax information in subparagraphs (a) through (e) shall be posted by the governing body in
+10 anappropriateplaceinthemunicipality, and thephysical address of this placeshall belisted on the
+11 property tax bill instead of a website link. The governing body shall post the following complete
+12 documents or, alternatively, post the physical locations where these documents are available for
+13 inspection:
+14 (a) A pie chart depicting the categories of taxation with each tax rate, labeled with
+15 percentages of the total: state education, school, city or town, county, and each precinct or village
+16 district, if any. If the municipality supports more than one school district, the pie chart shall depict
+17 thestateeducationandschooltaxrateforeachschooldistrict.
+18 (b) A 10-year line graph depicting the approved appropriations for each of the categories
+19 oftaxationlistedinsubparagraph(a),forthecurrentyearandprevious9years,withalabelortable
+20 listingthedollarfigureforeachdatapoint.
+21 (c) Alinktothemostrecentcityortownreport.
+22 (d) Links to the minutes where the most recent budgets were adopted: the annual
+23 county meeting, the annual meeting or council meeting for the town or city, the annual meetings of
+24 schooldistrictssupportedbythemunicipality,andtheannualmeetingsofvillagedistrictssupported
+25 bythemunicipality,ifany.
+26 (e) Links to theapproved budgets for each political subdivision in subparagraph (d), and
+27 thedetailsofanyadoptedtaxcap,localtaxcap,orbudgetcapineachpoliticalsubdivision,ifany.
+28 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+
+LBA
+26-2337
+12/3/25
+HB1516-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring municipalities to produce pie charts, bar charts, and QR codes on
+propertytaxbillsdepictingwhereandhowtaxdollarsarebeingallocated.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+LocalExpenditures $0
+(lessthan$10,000permunicipality)
+METHODOLOGY:
+This bill requires towns and cities to update property tax bills to include pie charts, bar graphs,
+andQRcodesandshowhowlocaltaxdollarsarebeingspent.
+The New Hampshire Municipal Association states this bill may cost towns and cities less than
+$10,000toupdatetheirtaxbillformattomeetnewrules. Ifthechangesmaketaxbillslongeror
+require four-color printing, it could lead to ongoing increases in printing and mailing costs. The
+actual cost depends on the size of the municipality, with larger towns likely spending more due
+tothehighervolumeoftaxbills.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

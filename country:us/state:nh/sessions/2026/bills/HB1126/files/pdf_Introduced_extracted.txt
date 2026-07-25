@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1126 -ASINTRODUCED
+2026SESSION
+26-2353
+09/08
+1126
+HOUSEBILL
+ANACT repealingthecertificationrequirementtoperformresidentialmoldassessments.
+SPONSORS: Rep.Slottje,Hills.13
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrepealstherequirementforcertificationtoperformresidentialmoldassessments.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1126-ASINTRODUCED
+26-2353
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthecertificationrequirementtoperformresidentialmoldassessments.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA310-A:189-b,relativetomoldassessmentcertifications,isrepealed.
+2 2 Directive; Report Required; Office of Professional Licensure and Certification. The office of
+3 professional licensure and certification (OPLC) shall repeal any administrative rules adopted
+4 pursuant to RSA 310-A:189-b, and shall inform the general court in a report to the speaker of the
+5 house of representatives and the senate president by January 1, 2027 if the OPLC believes any
+6 furtherstatutorychangesarenecessarytoaccomplishthegoalsofthisact.
+7 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

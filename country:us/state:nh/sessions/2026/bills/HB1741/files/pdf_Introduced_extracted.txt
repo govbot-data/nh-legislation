@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1741-FN-ASINTRODUCED
+2026SESSION
+26-2724
+06/08
+1741-FN
+HOUSEBILL
+ANACT relative to the enrollment and use of distributed energy resource aggregations by
+electricutilities.
+SPONSORS: Rep. Caplan, Merr. 8; Rep. Cormen, Graf. 15; Rep. McGhee, Hills. 35; Rep.
+Cloutier, Sull. 6; Rep. Parshall, Ches. 8; Rep. W. Thomas, Hills. 12; Sen. Fenton,
+Dist10
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a distributed power plant program requiring electric utilities to coordinate
+distributed energy resources for grid services, with commission oversight, incentive payments, cost
+recoverymechanisms,andperformancetargets.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1741-FN-ASINTRODUCED
+26-2724
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the enrollment and use of distributed energy resource aggregations by
+electricutilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. Thegeneralcourtfinds:
+2 I. It is in the public interest to advance customer choice and leverage private sector
+3 innovationtoimplementcost-effectivecleanenergysolutions.
+4 II. Aggregated distributed energy resources (DERs) can provide grid resilience, reduce
+5 ratepayercosts,andsupportpublicpolicygoals.
+6 III. Distributed power plants (DPPs), aggregations of behind-the-meter DERs, can reduce
+7 peakdemand,shiftload,provideancillaryservices,andimprovesystemreliability.
+8 IV. DPPsoptimizerenewableenergyuseandreducerelianceonfossil-fuelpeakerplants.
+9 V. DPPspromoteequitybyexpandingDERaccessandreducingemissions.
+10 VI. The Department of Energy estimates that 80–160 GW of DPPs could be deployed by
+11 2030,yieldingsignificantratepayersavings.
+12 VII. Statutory and regulatory support is needed to overcome barriers to DPP deployment
+13 andintegration.
+14 2 New Subdivision; Distributed Power Plants. Amend RSA 362-A by inserting after section 9
+15 thefollowingnewsubdivision:
+16 DistributedPowerPlants
+17 362-A:10 Definitions. Inthissubdivision:
+18 I. “Aggregator” means a third-party entity that enrolls customers in a distributed power
+19 plant(DPP)programandcoordinatesdistributedenergyresources(DER)operations.
+20 II. “Battery”meansdistributedstorageasdefinedinRSA374-F:2,IX.
+21 III. “Commission”meansthepublicutilitiescommission.
+22 IV. “Customer” means an active electric service account holder of a regulated distribution
+23 utility.
+24 V. “Directparticipant”meansacustomerenrolleddirectlywiththeutility.
+25 VI. “Distributed energy resource” or “DER” means a resource connected to the distribution
+26 grid as defined in RSA 374-F:2, VII or RSA 374-G:2, I(b), including solar PV, batteries, smart
+27 thermostats,andelectricvehicles.
+28 VII. “Distributed power plant” or “DPP” means an aggregation of DERs operated in
+29 coordinationtoprovidegridservices.
+
+HB1741-FN-ASINTRODUCED
+-Page2-
+1 VIII. “Enrollment program” means a utility-approved program for enrolling DERs, either
+2 directlyorthroughaggregators.
+3 IX. “Gridevent”meansaconditionforwhichtheutilitydispatchesenrolleddevices.
+4 X. “Grid service” means a capacity, energy, or ancillary service that supports grid
+5 operations.
+6 XI. “Participant”meansanaggregatorordirectparticipant.
+7 XII. “Performancepayment”meanscompensationforgridservicesduringagridevent.
+8 XIII. “Performancepaymentrate”meanstheratepaidforgridservices.
+9 XIV. “Upfrontincentivepayment”meansaone-timeenrollmentpayment.
+10 362-A:11 DistributedPowerPlantProgram.
+11 I. EachelectricutilityshallfileaDPPprogramproposalwiththecommission.
+12 II. The commission shall conduct an adjudicated proceeding with stakeholder input and
+13 approveormodifyeachproposalwithin100days.
+14 III. EachDPPprogramshallinclude:
+15 (a) Upfront incentive payments for DERs providing peak load reduction and grid
+16 services;
+17 (b) Enrollmentprogramsforbatteries,electricvehicles,andcombinedtechnologies;and
+18 (c) Aggregatorprogramscompensatingforavoidedcostsandgridservices.
+19 IV. Utilities may integrate existing demand management programs into DPP enrollment
+20 programs.
+21 V. Gridservicesmayinclude:
+22 (a) Systemwideandlocalpeakreduction;
+23 (b) Transmissionanddistributiondeferral;
+24 (c) Voltagesupportandancillaryservices;or
+25 (d) Emergencyservices.
+26 VI. The program shall define operational parameters, including minimum and maximum
+27 grideventsandnotificationrequirements.
+28 VII. Aggregators shall receive dispatch signals, submit performance data, and receive
+29 paymentsdirectly.
+30 VIII. Direct participants shall receive dispatch signals and payments, with equipment
+31 requirementslimitedtothosenecessaryforparticipation.
+32 IX. Battery performance shall be measured at the device level without requiring additional
+33 meters.
+34 X. No penalties shall be assessed for nonperformance, but the commission may authorize
+35 disenrollmentmechanisms.
+36 XI. Higherupfrontpaymentsmaybeofferedtolow-andmoderate-incomecustomers.
+
+HB1741-FN-ASINTRODUCED
+-Page3-
+1 XII. Participants may lock in performance payment rates for 5 years, with re-enrollment
+2 options.
+3 XIII. Participation in other grid service programs and incentives shall be permitted unless
+4 otherwiserestricted.
+5 XIV. Utilitiesshallnotrequirecollateralfromparticipants.
+6 362-A:12 Cost Recovery. Utilities may recover prudent costs associated with DPP program
+7 implementation and performance payments and related costs shall be recovered through
+8 commission-approvedmechanisms,includingreasonableinterestonworkingcapital.
+9 362-A:13 PerformanceTargetsandIncentives.
+10 I. Thecommissionshallestablishcapacityprocurementtargetsandperformanceincentives.
+11 II. The commission shall set annual targets for system peak reduction over a 5-year period,
+12 withfinancialrewardsandpotentialpenalties.
+13 III. Additionaltargetsforothergridservicesshallbeestablished.
+14 IV. Utilitiesshallfileannual reportstothecommissionbyJanuary31ofeachyear detailing
+15 enrollment,performance,andrecommendations.
+16 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2724
+12/15/25
+HB1741-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the enrollment and use of distributed energy resource aggregations by
+electricutilities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+$200,000to $350,000to $350,000to
+$500,000 $800,000 $800,000
+Expenditures* $0 (Utility (Utility (Utility
+Assessments) Assessments) Assessments)
+Indeterminable Indeterminable Indeterminable
+Increase(State's Increase(State's Increase(State's
+UtilityCosts) UtilityCosts) UtilityCosts)
+FundingSource(s) UtilityAssessments,GeneralFund,HighwayFund,andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill establishes a distributed power plant program that allows electric utilities to enroll and
+coordinate aggregated distributed energy resources to provide grid services. The bill requires
+each electric utility to file a distributed power plant program proposal with the Public Utilities
+Commission, authorizes upfront incentive and performance payments for participating
+
+resources, permits cost recovery for program costs, and directs the Commission to establish
+performancetargetsandoversightrequirements.
+The Department of Energy states this bill creates a new classification of distributed energy
+resources known as distributed power plants, defined as aggregations of distributed resources
+operated in coordination to provide grid services such as peak demand reduction, load shifting,
+and system reliability benefits. The bill allows third party aggregators to enroll customers and
+coordinate operations with electric utilities and requires utilities to submit program proposals
+for Commission approval. The Department assumes it would be an active participant in the
+Commission’s adjudicative proceedings reviewing distributed power plant proposals and would
+need to hire consultants with specialized expertise to evaluate utility filings, including incentive
+structures and performance payments. The Department estimates consulting costs would range
+from $150,000 to $250,000 and would be paid by the petitioning utility through a special
+assessment. In addition to consultant costs, the Department anticipates increased
+administrative responsibilities associated with stakeholder participation, regulatory
+proceedings,and review of annual performancereports. The Department indicates theremaybe
+a need for additional staffing or resources, likely equivalent to one full time position and
+anticipatesthetotalimpacttoexpenditurestobebetween$100,000to$500,000.
+The Public Utilities Commission states this bill would require the Commission to conduct
+adjudicative proceedings to review and approve distributed power plant program proposals
+submitted by electric utilities, establish performance targets and incentives, and review annual
+utility reports on program enrollment and performance. The Commission states its current
+utility analyst and attorney staffing is already working at or near full utilization and cannot
+absorb this additional workload. To meet the bill’s requirements, the Commission anticipates
+theneedforonefull-timeUtilityAnalyst(13-1190MiscellaneousBusinessOperationsSpecialist-
+5) and one full-time Attorney IV (23-1010 Lawyers and Judicial Law Clerks-4) beginning
+January 1, 2027. The estimated cost for these two positions would be $127,000 total in FY 2027
+reflectingahalfyear ofcosts,$266,000inFY2028and $280,000inFY 2029,fundedthroughthe
+utilityassessmentunderRSA363A.
+AGENCIESCONTACTED:
+DepartmentofEnergyandPublicUtilitiesCommission

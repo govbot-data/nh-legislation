@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1541-FN-ASINTRODUCED
+2026SESSION
+26-2744
+08/06
+1541-FN
+HOUSEBILL
+ANACT requiring the secretary of state to provide all voting precincts with secure
+containersforstoringballots.
+SPONSORS: Rep. Porcelli, Rock. 19; Rep. Bernardy, Rock. 36; Rep. Burnham, Straf. 2; Rep.
+Kuttab, Rock. 17; Rep. Nelson, Rock. 13; Rep. See, Merr. 26; Rep. Wherry, Hills.
+13; Rep. Wood, Merr. 13; Rep. Tenczar, Hills. 1; Rep. McGrath, Rock. 40; Sen.
+Innis,Dist7;Sen.McGough,Dist11
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the secretary of state to provide all voting precincts with secure containers for
+storingballots.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1541-FN-ASINTRODUCED
+26-2744
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the secretary of state to provide all voting precincts with secure
+containersforstoringballots.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SecretaryofStatetoPrepareContainers,Sealers. AmendRSA659:97toreadasfollows:
+2 659:97 Secretary of State to Prepare Containers, Sealers. The secretary of state shall, before
+3 any state and federal election, prepare and distribute to each town and ward clerk secure,
+4 durable, reusable, transportable, stackable and marked containers to be used for preserving
+5 ballotswithlocks,tamper-evident[and]sealers[tosealeachsuchcontainer]andregistrationor
+6 serial numbers for each marked containers. [He] The secretary of state shall prepare special
+7 durable and easily transportable containers capable of being secured and with tamper-
+8 evident sealers to be used for preserving any special and separate ballots for questions to voters.
+9 The secretary of state shall prescribe the size and form of such containers, locks and tamper-
+10 evident sealers and shall prescribe the form of any endorsement blank printed upon the sealers,
+11 providedthattheblankisinsubstanceconsistentwiththeprovisionsofRSA659:95. Thesecretary
+12 of state shall implement the secure container replacement program using available
+13 funding pursuant to the Help America Vote Act of 2002, Public Law 107-252, with
+14 measurable progress reported each year. The secretary of state shall prepare this annual
+15 progress report and will include the number of secure containers replaced, locations, and
+16 plannedcontainerreplacementforthefollowingyear.
+17 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2744
+12/3/25
+HB1541-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the secretary of state to provide all voting precincts with secure
+containersforstoringballots.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) HelpAmericaVoteAct(HAVA)Funds/GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Secretary of State to provide all voting precincts with secure, durable,
+reusable, and tamper-evident containers for storing ballots. These containers must be lockable,
+stackable, transportable, and individually numbered. Help America Vote Act (HAVA) Funds
+shallbeusedforimplementationofthesecurecontainerreplacementprogram. Additionally,the
+Secretary of State shall provide an annual progress report to include the number of secure
+containersreplaced,locations,andplannedcontainerreplacementforthefollowingyear.
+The Department of State indicates the bill would necessitate the purchase and distribution of
+these containers and related materials before each election. The containers would need to
+accommodate various ballot sizes and quantities, requiring custom manufacturing. The
+Secretary of State anticipates needing enough containers for five elections initially, after which
+only replacements or additional units would be necessary. The fiscal impact is indeterminable
+due to unknown costs for manufacturing, shipping, and potential funding limitations. There are
+no funds currentlyappropriated for this initiative, and theSecretary of Statewould need to seek
+clarification from the Election Assistance Commission (EAC) on whether Help America Vote Act
+(HAVA)fundscanbeusedforthesepurchases.
+AGENCIESCONTACTED:
+
+DepartmentofState

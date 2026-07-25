@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1630-FN-ASINTRODUCED
+2026SESSION
+26-2996
+05/08
+1630-FN
+HOUSEBILL
+ANACT prohibiting the sale of nitrous oxide and certain inhalants for recreational
+purposes.
+SPONSORS: Rep.N.Murphy,Hills.12;Rep.Newell,Ches.4;Rep.Rung,Hills.12;Rep.Woods,
+Merr.30;Rep.Lucas,Graf.7;Rep.B.Boyd,Hills.12;Rep.Mooney,Hills.12;Sen.
+Ricciardi,Dist9;Sen.Fenton,Dist10;Sen.Abbas,Dist22
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitsthepossession,use,orsaleofcertaininhalantsandotherchemicalcompounds
+forrecreationalpurposesandestablishescriminalpenaltiesforviolation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1630-FN-ASINTRODUCED
+26-2996
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the sale of nitrous oxide and certain inhalants for recreational
+purposes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Unlawful Sale of Inhalants. Amend RSA 644 by inserting after section 5-a the
+2 followingnewsection:
+3 644:5-b UnlawfulSaleofInhalants.
+4 I. A person doing business within the state commits the crime of unlawful sale of inhalants
+5 if a reasonable, prudent person would believe that the products in subparagraphs I(a), I(b), and I(c)
+6 arebeingsold,offeredforsale, otherwisetransferred,orpurchasedfor useinviolationofRSA644:5-
+7 arelativeto"inhalingtoxicvaporsforeffect,"anddoesanyofthefollowing:
+8 (a) Sells, offers for sale, or otherwise transfers any compound, liquid, gas, or chemical
+9 which contains butyl nitrite, isobutyl nitrite, secondary butyl nitrite, tertiary butyl nitrite, or any
+10 mixturescontainingbutylnitrite,isobutylnitrite,secondarybutylnitrite,ortertiarybutylnitrite.
+11 (b) Sells, offers for sale, or otherwise transfers any compound, liquid, gas, or chemical
+12 which contains nitrous oxide, commonly known as "laughing gas," or any amyl nitrite, commonly
+13 knownas"poppers"or"snappers."
+14 (c) Sells, offers for sale, or otherwise transfers any tube or other container which
+15 contains a liquid, gas, chemical, or compound listed in subparagraphs I(a) and I(b) that has the
+16 propertyofreleasingtoxicvaporsorfumes.
+17 II. A person doing business within the state, shall not sell including by delivery sale, offer
+18 for sale, give, furnish, or distribute to any consumer in this state, any compound, liquid, gas, or
+19 chemical in subparagraphs I(a), I(b), I(c), or willingly allow such substances to be taken from such
+20 business entity or corporation by any person, if a reasonable, prudent person would believe that the
+21 substancesinsubparagraphsI(a),I(b),andI(c)arebeingsold,offeredforsale,otherwisetransferred,
+22 orpurchasedforuseinviolationofRSA644:5-arelativeto"inhalingtoxicvaporsforeffect."
+23 III. AnypersonfoundinviolationofthissectionshallbeguiltyofaclassAmisdemeanor.
+24 IV. Thissectionshallnotapplytoanyofthefollowing:
+25 (a) Thesaleofflavoredorunflavored,cannedwhippedcream.
+26 (b) The saleor transfer of any compound, liquid, gas, or chemical which contains nitrous
+27 oxide:
+28 (1) To, orby,alicensedhospitalor otherhealthcarefacility,oralicensedmedical or
+29 dentalpractitioner,forthepurposesofthelawfulprescription,order,oradministrationtoapatient.
+
+HB1630-FN-ASINTRODUCED
+-Page2-
+1 (2) Intended for use by a manufacturer as part of a manufacturing process or
+2 industrialoperation,byapersonatleast21yearsofage.
+3 (3) As a propellant in food preparation for restaurant, food service, or houseware
+4 products,byapersonatleast21yearsofage.
+5 (4) Forautomotivepurposes,byapersonatleast21yearsofage.
+6 V. The presence of additional flavoring in a substance or labeling on any part of a container
+7 of a substance, referring to the substance being flavored shall create a rebuttable presumption
+8 againsttheexceptionslistedinparagraphIV. Thisshallinclude:
+9 (a) Having the taste or smell of any food, including, but not limited to, any fruit, candy,
+10 dessert, alcoholic beverage, herb, or spice, that is distinguishable by an ordinary consumer either
+11 priortoorduringconsumptionoruseoftheproduct;
+12 (b) Any substance marketed as having the taste or smell of any food, including, but not
+13 limitedto,anyfruit,candy,dessert,alcoholicbeverage,herb,orspice;or
+14 (c) Products which the manufacturer, seller, or any person authorized by, or acting with
+15 theconsent of, themanufacturer or seller, has madeapublic statement or claim, whether express or
+16 implied, that such product has the taste or smell of any food, including, but not limited to, any fruit,
+17 candy,dessert,alcoholicbeverage,herb,orspice.
+18 VI. For purposes of this section "delivery sale” means to sell, give, or furnish products by
+19 mail or delivery service, through the Internet or a computer network, by telephone, or through any
+20 otherelectronicmethod.
+21 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2996
+12/4/25
+HB1630-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibiting the sale of nitrous oxide and certain inhalants for recreational
+purposes.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

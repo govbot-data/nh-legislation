@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1593-FN-ASINTRODUCED
+2026SESSION
+26-2932
+12/09
+1593-FN
+HOUSEBILL
+ANACT relativetonondiscriminationduetodisability.
+SPONSORS: Rep.Cornell,Hills.22;Rep.Damon,Sull.8;Rep.Selig,Straf.10;Rep.M.Murray,
+Hills. 37; Rep. M. Hall, Merr. 9; Rep. Balboni, Rock. 38; Rep. Bricchi, Merr. 15;
+Sen.Long,Dist20
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill codifies the language of section 504 of the Rehabilitation Act of 1973, which prohibits
+discriminationbasedondisabilitybyrecipientsandprovidersofstateorfederalfinancialassistance.
+The bill also codifies remedies available under section 505, which includes reasonable attorneys' fees
+forcertainprevailingparties.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1593-FN-ASINTRODUCED
+26-2932
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetonondiscriminationduetodisability.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Sections; Disability Discrimination Prohibited; Remedies. Amend RSA 354-A by
+2 insertingaftersection16thefollowingnewsections:
+3 354-A:16-a Disability Discrimination Prohibited. No otherwise qualified individual with a
+4 disability in New Hampshire, as defined in RSA 354-A:2, IV, shall solely by reason of her or his
+5 disability, be excluded from the participation in, be denied the benefits of, or be subjected to
+6 discrimination under any program or activity receiving federal or state financial assistance. The
+7 headofeachstateagencyshallpromulgateregulationsasmaybenecessarytocarryoutthissection.
+8 I. Forthepurposesofthissection,theterm‘‘programoractivity’’meansalloftheoperations
+9 of:
+10 (a) A department, agency, special purpose district, or other instrumentality of the state
+11 orlocalgovernment;
+12 (b) An entity of the state or local government that distributes assistance and each such
+13 departmentoragencytowhichtheassistanceisextended;
+14 (c) A college, university, or other postsecondary institution, or a public system of higher
+15 education;
+16 (d) A local educational agency, as defined in RSA 110-D:3, IX, a system of vocational
+17 education,orotherschoolsystem;
+18 (e) An entire corporation, partnership, or other private organization, or an entire sole
+19 proprietorshipif:
+20 (1) Assistance is extended to such corporation, partnership, private organization, or
+21 soleproprietorshipasawhole;or
+22 (2) Such corporation, partnership, private organization, or sole proprietorship is
+23 principally engaged in the business of providing education, health care, housing, social services, or
+24 parksandrecreation;
+25 (f) An entire plant or other comparable, geographically separate facility to which federal
+26 or state financial assistance is extended, in the case of any other corporation, partnership, private
+27 organization,orsoleproprietorship;or
+28 (g) Any other entity which is established by two or more of the entities described in this
+29 paragraphandtowhichanypartthereofisextendedfederalorstatefinancialassistance.
+30 II. Small providers are not required under this section to make significant structural
+31 alterations to their existing facilities for the purpose of assuring program accessibility, if alternative
+
+HB1593-FN-ASINTRODUCED
+-Page2-
+1 meansofprovidingtheservicesareavailable. Thetermsusedinthissectionshallbeconstruedwith
+2 referencetotheregulationsexistingonthedateoftheenactmentofthissection.
+3 III. The standards used to determine whether this section has been violated in a complaint
+4 allegingemployment discriminationunder this sectionshall bethestandards applied undertitleIof
+5 the Americans with Disabilities Act of 1990 and the provisions of sections 501 through 504, and 510,
+6 oftheAmericanswithDisabilitiesActof1990,assuchsectionsrelatetoemployment.
+7 354-A:16-b Remedies.
+8 I. The remedies, procedures, and rights to bring civil action, obtain an injunction or
+9 declaratory relief, right to appeal, and right to attorneys' fees shall be available, with respect to any
+10 complaintunderRSA354-A:16-atoanyemployeeorapplicantforemploymentaggrievedbythefinal
+11 disposition of such complaint, or by the failure to take final action on such complaint. In
+12 establishing an equitable or affirmative action remedy under this section, a court may take into
+13 account the reasonableness of the cost of any necessary workplace accommodation, and the
+14 availability of alternatives therefor or other appropriate relief in order to achieve an equitable and
+15 appropriateremedy.
+16 II. The remedies, procedures, and rights set forth in title VI of the Civil Rights Act of 1964
+17 shall be available to any person aggrieved by any act or failure to act by any recipient of federal or
+18 state assistance or a federal or state provider of such assistance, with the exception of the remedy of
+19 compensatorydamages,whichshallnotbeavailable.
+20 III. In any action or proceeding to enforce or charge a violation of a provision of RSA 354-
+21 A:16-a, the court, in its discretion, may allow the prevailing party, other than the United States or
+22 stateofNewHampshireareasonableattorney'sfeeaspartofthecosts.
+23 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2932
+12/2/25
+HB1593-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetonondiscriminationduetodisability.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

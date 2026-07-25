@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1228-ASAMENDEDBYTHESENATE
+04/16/2026 1340s
+2026SESSION
+26-2947
+09/06
+1228
+HOUSEBILL
+ANACT relativetotheenforcementofalimonyordersandrelativetowaiversofalimony.
+SPONSORS: Rep.Markell, Rock. 18; Rep.Georges, Hills. 23; Rep.Korzen, Coos 7; Rep. Kuttab,
+Rock.17;Rep.Nelson,Rock.13;Rep.M.Pearson,Rock.34
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Requires that orders for the payment of past due amounts of alimony shall be enforced
+accordingtotheirtermsunlessmodifiedbyanagreementorstatute.
+II. Requireswaiversofalimonytobeenforcedunlessthewaiverisfoundinvalid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1228-ASAMENDEDBYTHESENATE
+04/16/2026 1340s 26-2947
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheenforcementofalimonyordersandrelativetowaiversofalimony.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraphs;TermandReimbursementAlimony. AmendRSA458:19-abyinsertingafter
+2 paragraphVIthefollowingnewparagraphs:
+3 VII. Orders for the payment of past due amounts of alimony shall be enforced according to
+4 theirtermsunlessmodifiedbyanagreementofthepartiesorpursuanttoRSA458:19-aa.
+5 VIII. Agreements in which the parties waive any and all rights to past, present, or future
+6 alimony, or any portion thereof, shall be given full force and effect unless the agreement is found by
+7 a preponderance of the evidence to be invalid due to coercion, deceit, duress, fraud, mutual mistake,
+8 material misrepresentation, supervening illegality, or where such enforcement would be
+9 unconscionableor thefactsand circumstances have changedsince theagreementwas executed soas
+10 tomaketheagreementunenforceable.
+11 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

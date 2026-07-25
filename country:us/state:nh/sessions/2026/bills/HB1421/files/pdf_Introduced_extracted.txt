@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1421-FN-ASINTRODUCED
+2026SESSION
+26-2339
+06/08
+1421-FN
+HOUSEBILL
+ANACT modifyingtitleexemptionsformotorvehiclesmanufacturedbeforetheyear2000.
+SPONSORS: Rep.Granger,Straf.2;Rep.Giasson,Hills.29
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillexemptsanymotorvehiclethatisatleast15yearsoldfromtherequirementtoobtaina
+certificate of title, except for heavy trucks and truck-tractors with a gross vehicle weight over 18,000
+pounds. Thisexemptionappliesonarollingbasisasvehiclesreach15yearsofage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1421-FN-ASINTRODUCED
+26-2339
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifyingtitleexemptionsformotorvehiclesmanufacturedbeforetheyear2000.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Certificates of Title and Registration of Vehicles; Exempted Vehicles. Amend RSA 261:3, I(k)
+2 toreadasfollows:
+3 (k) Any motor vehicle whose manufacturer's model year is 15 years before the current
+4 year [2000], except heavy trucks and truck-tractors whose gross vehicle weight exceeds 18,000
+5 pounds.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2339
+12/1/25
+HB1421-FN-FISCALNOTE
+ASINTRODUCED
+ANACT modifyingtitleexemptionsformotorvehiclesmanufacturedbeforetheyear2000.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Upto$2,000,000
+Revenue $0 $2,000,000PerYearDecrease
+Decrease
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+RevenueFund(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Upto$44,000 Upto$288,000 $288,000
+Expenditures* $0
+Decrease Decrease Decrease
+HighwayFundandRestricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource(s)
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriortofunds
+beingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+Upto$240,000 $240,000
+LocalRevenue $0 $0
+Decrease Decrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill redefines the manufacture year in which a vehicle will be exempt from title (except for
+heavy trucks and truck-tractors with a gross vehicle weight over 18,000 pounds). Under current
+law, such exemption applied to vehicles model year 2000 and older, and this bill changes the
+exemption to vehicles 15 years or older. In 2024, the Department of Safety states there were
+approximately 57,000 original titles issued for vehicles with a model year between 2000 and
+2010. At the current rate of $35 per application, this bill could reduce state revenue by
+approximately $1,995,000 per year. Therefore, this bill is expected to decrease state revenue by
+approximately $2,000,000 per year. Also, pursuant to RSA 235:23 (“Apportionment A”), 12
+
+percent of highway fund road toll and motor vehicle fee revenue collected is distributed to
+municipalities in the year following collection. Therefore, this bill would also reduce state
+expenditures and local revenue, beginning in FY 2028, by approximately $240,000 per year. In
+addition, the Department states that state expenditures for direct mailing titles would also
+decreasebyapproximately$44,000peryear($0.77pertitle).
+All amounts in the first year of implementation (FY 2027) will be reduced as this bill is effective
+60 days after passage. Typically, legislation impacting motor vehicle licensing, registration, and
+titlingareeffectiveJanuary1.
+AGENCIESCONTACTED:
+DepartmentofSafety

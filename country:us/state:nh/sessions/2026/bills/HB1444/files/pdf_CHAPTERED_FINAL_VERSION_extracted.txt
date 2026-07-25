@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER95
+HB1444-FN-FINALVERSION
+19Feb2026...0558h
+2026SESSION
+26-2749
+09/08
+1444-FN
+HOUSEBILL
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+SPONSORS: Rep. Moffett, Merr. 4; Rep. Cambrils, Merr. 4; Rep. Freeman, Belk. 8; Rep. Litchfield,
+Rock. 32; Rep. Mandelbaum, Rock. 21; Rep. Notter, Hills. 12; Rep. Creighton, Hills.
+30;Sen.Pearl,Dist17;Sen.Sullivan,Dist18
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits the state or local governments from acquiring certain drones or unmanned aircraft
+systemsafterJanuary1,2028.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER95
+HB1444-FN-FINALVERSION
+19Feb2026...0558h 26-2749
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 95:1 New Chapter; Prohibition on Purchase or Acquisition of Certain Unmanned Aircraft Systems.
+2 AmendRSAbyinsertingafterchapter162-Uthefollowingnewchapter:
+3 CHAPTER162-V
+4 PROHIBITIONONPURCHASEORACQUISITIONOFCERTAINUNMANNEDAIRCRAFTSYSTEMS
+5 162-V:1 Definitions. Asusedinthischapter,“unmannedaircraftsystem”or“drone”meansthesame
+6 as"aircraft"asdefinedinRSA422:3,VI.
+7 162-V:2 ProhibitiononPurchaseorAcquisitionofCertainUnmannedAircraftSystemsbytheState.
+8 I. Effective January 1, 2028, no state agency shall purchase or acquire a drone or unmanned
+9 aircraftsystemotherthanthoseclearedpursuanttoRSA162-V:3.
+10 II. To the extent practicable, state agencies shall purchase or acquire only those drones and
+11 unmannedaircraftsystemsclearedpursuanttoRSA162-V:3priortoJanuary1,2028.
+12 III. Effective January 1, 2028, no state funds shall be used to purchase or acquire a drone or
+13 unmannedaircraftsystemwhosepurchasewouldbeprohibitedbyparagraphI.
+14 IV. A contract or agreement for the purchase or acquisition of a drone or unmanned aircraft
+15 systeminviolationofthissectionisvoidandunenforceable.
+16 162-V:3 ProhibitiononPurchaseorAcquisitionofCertainUnmannedAircraftSystemsbyLocalities.
+17 I. EffectiveJanuary 1, 2028, nocounty, city, town, or other political subdivisionshall purchase or
+18 acquireadroneorunmannedaircraftsystemthatdoesnotmeettherequirementsoftheNationalDefense
+19 Authorization Act of 2024, Public Law 118-31, or that has been included on the "covered list" of devices
+20 deemed by the Federal Communications Commission to pose an unacceptable risk to the national
+21 securityoftheUnitedStatesortothesecurityandsafetyofUnitedStatesresidents.
+22 II. A contract or agreement for the purchase or acquisition of a drone or unmanned aircraft
+23 systeminviolationofthissectionisvoidandunenforceable.
+24 95:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May28,2026
+EffectiveDate:July27,2026

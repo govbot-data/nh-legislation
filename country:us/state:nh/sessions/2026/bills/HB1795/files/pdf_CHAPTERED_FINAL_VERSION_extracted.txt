@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER76
+HB1795-FN-FINALVERSION
+2026SESSION
+26-3068
+12/09
+1795-FN
+HOUSEBILL
+ANACT requiringcriminalhistoryrecordchecksfortherenewalofteachinglicenses.
+SPONSORS: Rep.Noble,Hills.2;Rep.Freeman,Belk.8;Rep.Litchfield,Rock.32
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresindividualsseekingrenewalofateachingcredentialsubmitacriminalhistoryrelease
+formtothedepartmentofeducationasaconditionofrenewingtheircredential. Thebillalsoaddsneglect
+tothecriminalhistoryrecordcheck.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER76
+HB1795-FN-FINALVERSION
+26-3068
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringcriminalhistoryrecordchecksfortherenewalofteachinglicenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 76:1 New Subparagraph; Credentialing Applicant Criminal History Records Check; Educator
+2 Definition Added. Amend RSA 189:13-c, I by inserting after subparagraph (b) the following new
+3 subparagraph:
+4 (c) “Educator” means an individual currently holding a New Hampshire state board of
+5 education issued credential including teachers, administrators, paraprofessionals, school nurses,
+6 instructionalspecialists,andeducationalspecialists.
+7 76:2 New Subparagraph; Credentialing Applicant Criminal History Records Check; Educator
+8 Renewal Requirement. Amend RSA 189:13-c, III by inserting after subparagraph (b) the following new
+9 subparagraph:
+10 (c) All educators shall submit a criminal history release form to the department of education
+11 asaconditionofrenewingtheircredentialevery3yearsatleast60dayspriortotheircredentialexpiration
+12 date.
+13 76:3 Rulemaking;Educator LicensingStandards; RenewingCredential HoldersAdded. AmendRSA
+14 21-N:9,II(s)(1)toreadasfollows:
+15 (1) The establishment and implementation of a secure system for conducting criminal
+16 backgroundcheckspursuanttoRSA189:13-aforallfirst-timeapplicantsandrenewingcredentialholders
+17 listedinthissection,
+18 76:4 Rulemaking; Educator Licensing Standards; Neglect Added. Amend RSA 21-N:9, II(s)(3) to
+19 readasfollows:
+20 (3) The establishment and implementation of a secure system for accessing findings of
+21 abuse andneglectfor individuals on the central registry pursuant to RSA 169-C:35, and other states'
+22 centralregistriesuponapprovalofamemorandumofunderstandingbythegovernorandcouncil,and
+23 76:5 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+Approved:May18,2026
+EffectiveDate:July01,2027

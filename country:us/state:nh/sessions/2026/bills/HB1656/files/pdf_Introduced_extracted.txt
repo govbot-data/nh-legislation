@@ -1,0 +1,186 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1656-FN-ASINTRODUCED
+2026SESSION
+26-3056
+07/08
+1656-FN
+HOUSEBILL
+ANACT relativetoinsurancecoverageforpelvichealththerapy.
+SPONSORS: Rep. Beauchemin, Hills. 3; Rep. Colby, Merr. 9; Rep. Lucas, Graf. 7; Rep.
+Mandelbaum,Rock.21;Rep.Tellez,Hills.40;Sen.PerkinsKwoka,Dist21
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Requiresinsurerstoofferpelvichealthinsurancecoverage.
+II. Requiresinsurerstoreportondataregardingpelvichealthtreatmentandcare.
+III. Requires the insurance department to publish an annual report relative to insurer data
+concerningpelvichealthinsurancecoverage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1656-FN-ASINTRODUCED
+26-3056
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoinsurancecoverageforpelvichealththerapy.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindings. Thegeneralcourtherebyfindsthat:
+2 I. Pregnancy, childbirth, gynecologic conditions, pelvic surgeries, menopause, and aging
+3 commonlycausepelvic-floordysfunction.
+4 II. Conservative pelvic-floor physical therapy (PFPT) and supervised pelvic-floor muscle
+5 training(PFMT)areevidence-basedfirst-linetreatmentsthatimprovesymptoms,qualityoflife,and
+6 oftenreduceneedforsurgeriesrelatedtopelvic-floordysfunction.
+7 III. Leading clinical guidelines and recent systematic reviews recommend supervised PFMT
+8 programs of approximately 8–12 weeks as a first-line care for stress or mixed urinary incontinence
+9 and support PFPT for fecal incontinence, pelvic organ prolapse conservative management, pelvic
+10 painandsexualpaindisorders.
+11 IV. Coverage expansion for such treatment would promote prevention and speedy recovery,
+12 reducesdownstreamcosts,andimprovesmaternalmentalhealth.
+13 2 New Chapter; Pelvic Health Insurance Coverage. Amend RSA by inserting after chapter 420-
+14 Qthefollowingnewchapter:
+15 CHAPTER420-R
+16 PELVICHEALTHINSURANCECOVERAGE
+17 420-R:1 Definitions. Inthischapter:
+18 I. "Pelvic floor physical therapy" means assessment and treatment by a licensed physical
+19 therapist or other licensed clinician with pelvic-health training addressing pelvic floor muscle
+20 function, bladder/bowel training, manual therapy, biofeedback, therapeutic exercise, education and
+21 behavioralinterventions.
+22 II. "Covered diagnoses" means urinary incontinence, fecal incontinence, pelvic organ
+23 prolapse, diastasis recti, pelvic girdle pain, dyspareunia, pelvic pain, vulvodynia, rehab after
+24 cesareanorvaginalbirth,andperiormenopausalpelvicdysfunction.
+25 III. "Prehabilitation" means targeted pelvic floor physical therapy prior to pelvic surgery to
+26 optimizefunctionalstatusandreducepostoperativemorbidity.
+27 420-R:2 BaselineCoverage.
+28 I. Notwithstanding any other provision of law to the contrary, all health insurance plans in
+29 this state shall include pelvic-floor physical therapy (PFPT) as a covered rehabilitative benefit. No
+30 plansubjecttothischaptershallcategoricallyexcludecoverageforPFPT.
+
+HB1656-FN-ASINTRODUCED
+-Page2-
+1 II. Initial evaluations shall be covered without prior authorization when ordered by an
+2 authorizedprovider.
+3 III. Notwithstanding any other provision of law to the contrary, insurers shall allow direct
+4 accesstopelvic-healthphysicaltherapyincompliancewiththischapter.
+5 IV. Co-pays and deductibles for services under this chapter shall be no less favorable than
+6 thoseforotherphysicaltherapyservices.
+7 420-R:3 Diagnosis-SpecificCoverage. Insurersshallprovidecoverageforthefollowing:
+8 I. Initial assessments and supervised pelvic-floor physical therapy (PFPT) programs for the
+9 followingdiagnoses:
+10 (a) Stress urinary incontinence (SUI), urgency urinary incontinence (UUI), and mixed
+11 urinaryincontinence(MUI);
+12 (b) Fecalincontinence;
+13 (c) Pelvicorganprolapse(POP);
+14 (d) Diastasisrectiabdominis(DRA)andabdominalseparation-relateddysfunction;
+15 (e) Pelvicgirdlepain;
+16 (f) Dyspareunia,pelvicpainsyndromes,andvulvodynia;
+17 (g) Rehabilitation after cesarean or vaginal birth, including perineal tear repair follow-
+18 ups;and
+19 (h) Pelvic-floordysfunctionrelatedtomenopause.
+20 II. Oneinitialcomprehensiveevaluation.
+21 III. TwelveweeksofsupervisedPFPT:
+22 IV. Forpostpartumpatientswithperinealtears,immediatepostpartumPFPTvisits.
+23 V. Therapeutic exercises, biofeedback, vaginal or rectal manual therapy, myofascial release,
+24 neuromuscular retraining, bladder or bowel retraining, behavior modification, education, pelvic
+25 girdlestabilization,andscarmobilizationaftercesareanorperinealrepair.
+26 VI. Telehealth or group sessions for diagnoses or services under paragraphs I-V where
+27 appropriate.
+28 VII. An extension for services offered under paragraphs I-VI for up to 12 months where
+29 medicallynecessary. Forchronicorrecurrentconditions,coveragemaybeextendedwhereclinicians
+30 request authorization for an additional 12 months of coverage, provided that authorization is
+31 resubmittedevery3months.
+32 420-R:4 PrehabilitationandPost-SurgicalRehabilitationCoverage.
+33 I. For patients scheduled for pelvic reconstructive surgery, continence surgery, major
+34 gynecologic surgery, or colorectal/anal sphincter repair, insurers shall cover no more than 6
+35 preoperative pelvic-floor physical therapy (PFPT) sessions, to be delivered within 4 to 12 weeks
+36 before surgery, that are focused on education about pelvic-floor optimization, toileting strategies,
+37 pre-opstrengthening,andfunctionaltraining.
+
+HB1656-FN-ASINTRODUCED
+-Page3-
+1 II. After any pelvic surgery, insurers shall cover post-op PFPT packages, initial post-op
+2 evaluation, and no more than 12 sessions in the first 12 weeks for education regarding complex or
+3 prolonged post-op surgery recovery, with an additional 24 sessions in a 12-month period if deemed
+4 medicallynecessary.
+5 III. Insurers shall encourage bundled payment programs where prehabilitation, surgery,
+6 andpost-oprehabilitationarecoordinatedtoincentivizebetteroutcomesandfewerreadmissions.
+7 420-R:5 Credentialing;Cost;andReporting.
+8 I. Covered pelvic-floor physical therapy (PFPT) services shall be provided by licensed
+9 physicaltherapistswithdocumentedcompetencyinpelvichealth.
+10 II. No blanket bans on internal vaginal/rectal assessments shall be allowed under this
+11 chapter.
+12 III. Prior authorization shall only be required after an initial covered package and shall be
+13 conducted within 7 business days for non-urgent authorizations and within one business day for
+14 urgentauthorizations.
+15 IV. Telehealth and group supervised pelvic floor muscle training classes shall be treated by
+16 inthesamemannerasin-personclasses,whenclinicallyappropriate.
+17 V. Insurers shall deliver group sessions, tele-rehab, and early intervention models under
+18 thischapterinacost-effectivemanner.
+19 VI. Notwithstanding any other provision of law to the contrary, insurers shall report
+20 annuallytoinsurancedepartmentandthedepartmentofhealthandhumanservicesdataon:
+21 (a) ThenumberofPFPT-relatedepisodesauthorized;
+22 (b) ThenumberofPFPT-relateddiagnoses,
+23 (c) TheaveragenumberPFPTsessionsused;
+24 (d) Patientoutcomemeasures,whereavailable;
+25 (e) SurgicalratesforPFPT-relateddiagnoses;and
+26 (f) ThetimebetweenaPFPT-relateddiagnosesreferralandafirstappointment.
+27 420-R:6 Annual Report. The insurance department shall prepare and publish on or before
+28 October 1 of each year an annual report evaluating access, utilization, disparities, cost offsets, and
+29 suchotherPFPT-relatedmattersastheinsurancedepartmentshalldetermine.
+30 420-R:7 Rulemaking. The insurance department may adopt rules, pursuant to RSA 541-A,
+31 relativetoin-networkprovidercredentialingandeducatingprovidersaboutthischapter.
+32 3 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-3056
+12/1/25
+HB1656-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoinsurancecoverageforpelvichealththerapy.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+Thisbillrequiresinsurerstocoverpelvic-floorphysicaltherapyservices,toreportutilizationand
+outcomes data to the Insurance Department and Department of Health and Human Services,
+andrequirestheDepartmenttopublishanannualreport.
+The Insurance Department states the financial impact of this bill is indeterminable. Although
+rehabilitativetherapyisalreadyanessentialhealthbenefitinNewHampshire,totheextentthe
+bill requires coverage beyond what is currently provided, premiums could increase, resulting in
+an indeterminable increase in Insurance Premium Tax revenue. The Department notes that the
+Affordable Care Act requires states to defray mandate costs in the individual and small group
+qualified health plan markets and an actuarial mandate study would be required to determine a
+
+more precise impact. There may also be initial administrative and implementation costs for
+carriers.
+To the extent counties and municipalities purchase health insurance, they may experience
+increasedpremiumcosts.
+AGENCIESCONTACTED:
+InsuranceDepartment

@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1565-FN-ASINTRODUCED
+2026SESSION
+26-2438
+12/09
+1565-FN
+HOUSEBILL
+ANACT relativetothepenaltyforfalsereportsofsuspectedabuseandneglectmadetothe
+divisionforchildren,youth,andfamilies.
+SPONSORS: Rep.Spillane,Rock.2;Rep.Cole,Hills.26;Rep.Aures,Merr.13;Rep.McFarlane,
+Graf.18; Rep. Notter, Hills.12; Rep. Kofalt, Hills. 32;Rep. Morton, Hills. 39; Rep.
+Ammon, Hills. 42; Rep. Roy, Rock. 31; Sen. Murphy, Dist 16; Sen. Sullivan, Dist
+18
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides that reports of suspected abuse and neglect may include the name of the
+person making the report and that a person who makes a false report maliciously or with the intent
+to cause harm shall be guilty of a misdemeanor. The bill also creates a private right of action for
+civildamagesagainstapersonwhomakesafalsereportofsuspectedabuseorneglect.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1565-FN-ASINTRODUCED
+26-2438
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltyforfalsereportsofsuspectedabuseandneglectmadetothe
+divisionforchildren,youth,andfamilies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Child Protection Act; Reporting Law; Nature of Report; Liability. Amend RSA 169-C:30 and
+2 RSA169-C:31toreadasfollows:
+3 169-C:30 NatureandContentofReport. Anoralreportshallbemadeimmediatelybytelephone
+4 or otherwise, and followed within 48hours bya report inwriting, if sorequested, tothe department.
+5 Such report shall, if known, contain the name and address of the child suspected of being neglected
+6 or abused and the person responsible for the child's welfare, the specific information indicating
+7 neglect or the nature and extent of the child's injuries (including any evidence of previous injuries),
+8 the identity of the person or persons suspected of being responsible for such neglect or abuse, and
+9 anyother informationthat might be helpful in establishingneglect or abuse or that maybe required
+10 by the department. Reports made to the department may include the name, address, or
+11 phonenumberofthepersonorpersonsmakingthereportofsuspectedabuseorneglectofa
+12 childunderthischapter.
+13 169-C:31 ImmunityFromLiability.
+14 I. Anyone participating in good faith in the making of a report pursuant to this chapter or
+15 who provides information or assistance, including medical evaluations or consultations, in
+16 connection with a report, investigation, or legal intervention pursuant to a good faith report of child
+17 abuse or neglect, is immune from any liability, civil or criminal, that might otherwise be incurred or
+18 imposed. Any such participant has the same immunity with respect to participation in any
+19 investigationbythedepartmentorjudicialproceedingresultingfromsuchreport.
+20 II. Nothing in this section shall provide civil or criminal immunity for a
+21 professional mandatory reporter who knowingly fails to make a report of suspected abuse
+22 orneglectunderRSA169-C:29orforapersonwhoknowinglyfilesafalsereportofabuseor
+23 neglect.
+24 2 New Sections; Child Abuse; Intentional False Report; Civil Liability. Amend RSA 169-C by
+25 insertingaftersection31thefollowingnewsections:
+26 169-C:31-a Intentional False Report of Abuse or Neglect. A person is guilty of a misdemeanor if
+27 he or she knowingly provides false information or causes another to provide false information of
+28 suspected child abuse or neglect as defined by RSA 169-C:3 to the department or to any professional
+29 mandatoryreporterofsuspectedchildabuseidentifiedinRSA169-C:29.
+
+HB1565-FN-ASINTRODUCED
+-Page2-
+1 169-C:31-b Civil Liability. Any person harmed by the intentional submission of a false report of
+2 abuse or neglect under RSA 169-C:31-a may bring a civil action against the responsible party for
+3 monetarydamagesandotherappropriaterelief.
+4 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2438
+12/4/25
+HB1565-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepenaltyforfalsereportsofsuspectedabuseandneglectmadetothe
+divisionforchildren,youth,andfamilies.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf.
+In addition, the bill allows those harmed by the intentional submission of a false report of abuse
+or neglect under RSA169-C:31 to bringcivil actions for monetary damages and other relief. The
+JudicialBranchhasprovidedthefollowinginformationrelativetocivilcasecostsandfees:
+NHJudicialBranchAverageCivilCaseEstimates
+
+JudicialBranch
+FY2026 FY2027
+AverageCost
+SuperiorCourt
+ComplexCivilCase $1,283 $1,342
+SuperiorCourt
+RoutineCivilCase $476 $495
+CommonCivilCaseFees
+SuperiorCourt
+Asof07/01/25
+Fees
+OriginalEntryFee $325
+Third-PartyClaim $325
+MotiontoReopen $195
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

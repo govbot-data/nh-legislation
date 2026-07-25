@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1144-FN-ASINTRODUCED
+2026SESSION
+26-2338
+07/05
+1144-FN
+HOUSEBILL
+ANACT amendingthe excavationtaxrate.
+SPONSORS: Rep.Schamberg,Merr.6
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillraisestheexcavationtaxrate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1144-FN-ASINTRODUCED
+26-2338
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT amendingthe excavationtaxrate.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation; Excavation Tax; Excavation Tax and Taxation of Excavation Area. Amend the
+2 introductoryparagraphofRSA72-B:1,Itoreadasfollows:
+3 I. Earth, as defined in RSA 155-E:1, I, shall be exempt from taxation as real property under
+4 RSA 72:6 and RSA 72:13. An excavation tax shall be assessed upon the excavation of earth against
+5 an owner as defined in RSA 72-B:2, VIII. Such tax shall be assessed at the rate of [$.02] $0.04 per
+6 cubicyardofearthexcavated. Thefollowingareexemptfromtheexcavationtax:
+7 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2338
+10/22/25
+HB1144-FN-FISCALNOTE
+ASINTRODUCED
+ANACT amendingthe excavationtaxrate.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue NoImpactUntilFY2030
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill doubles the excavation tax rate from $0.02 to $0.04 per cubic yard of earth excavated.
+As the bill does not change the tax year and takes effect FY 2028, this bill will not have a fiscal
+impact until FY 2030. The excavation tax is collected locally, therefore any fiscal impact would
+beatthelocallevel.
+The Department of Revenue Administration is not able to determine the exact impact of this bill
+as it cannot predict the volume of material that will be excavated each year. Using ongoing
+excavations and excavation volume reports, the Department is able to provide the impact this
+bill would have had on tax year 2024. In tax year 2024, there were 12.1 million cubic yards of
+taxableearthexcavatedfor allmunicipalities statewide. At arateof$0.02percubic yard, under
+current law municipalities collected about $242,000 in excavation tax. If the tax rate had been
+doubled, municipalities would have collected an estimated additional $242,000 in tax year 2024,
+statewide.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

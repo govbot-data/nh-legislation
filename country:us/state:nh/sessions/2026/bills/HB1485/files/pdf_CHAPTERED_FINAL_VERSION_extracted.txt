@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER37
+HB1485-FN-FINALVERSION
+2026SESSION
+26-2687
+06/08
+1485-FN
+HOUSEBILL
+ANACT relativetoeligibilityandfeesforlaterefundrequestsofroadtolls.
+SPONSORS: Rep.Cormen,Graf.15
+COMMITTEE: PublicWorksandHighways
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies that agencies of political subdivisions within the state may receive a waiver of filing
+deadlinesforjustcausewithoutbeingsubjecttotheassociatedfee,andlimitssuchwaiverstoonceevery
+3yearsperrequester.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER37
+HB1485-FN-FINALVERSION
+26-2687
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoeligibilityandfeesforlaterefundrequestsofroadtolls.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 37:1 Refunds. AmendRSA260:47,III(a)(1)(B)toreadasfollows:
+2 (B) These filing deadlines may be waived by the commissioner for just cause [for
+3 agencies of political subdivisions within the state]. Whenawaiverisgranted,afeeshallbeassessed
+4 amountingto5percentoftheamountoftherefundor$50,whicheverisgreater. Nofeeshallbe
+5 assessedtoanagencyofapoliticalsubdivisionwithinthestate. The waiver shall not be granted to any
+6 [suchagency]particularrequestermoreoftenthanoncein3years.
+7 37:2 EffectiveDate. Thisactshalltakeeffect30daysafterpassage.
+Approved:April22,2026
+EffectiveDate:May22,2026

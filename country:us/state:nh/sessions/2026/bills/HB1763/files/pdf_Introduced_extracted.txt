@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1763-FN-ASINTRODUCED
+2026SESSION
+26-2781
+07/09
+1763-FN
+HOUSEBILL
+ANACT requiring the department of health and human services to disburse funds to
+municipalities in an amount equal to the sum of the assessed property values of
+nonprofitresidentialfacilitiesinthosemunicipalities.
+SPONSORS: Rep. Drago, Rock. 4; Rep. Bennett, Rock. 4; Rep. Ford, Rock. 3; Rep. Nadeau,
+Rock. 4; Rep. Mazur, Hills. 44; Rep. Perez, Rock. 16; Rep. Bogert, Belk. 5; Rep.
+Barbour,Hills.35
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of health and human services to disburse funds to
+municipalitiesinanamountequaltothesumoftheassessedpropertyvaluesofnonprofitresidential
+facilitiesinthosemunicipalities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1763-FN-ASINTRODUCED
+26-2781
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of health and human services to disburse funds to
+municipalities in an amount equal to the sum of the assessed property values of
+nonprofitresidentialfacilitiesinthosemunicipalities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known and cited as the "Municipal Property Tax Compensation
+2 Act".
+3 2 Statement of Purpose. The general court finds that this act shall help ensure that
+4 municipalities are compensated for property tax revenue lost due to the tax-exempt status of
+5 nonprofitresidentialfacilitiesreceivingfundingfromthedepartmentofhealthandhumanservices.
+6 3 New Section; Public Health; Department of Health and Human Services; Compensation for
+7 Nonprofit Residential Facilities. Amend RSA 126-A by inserting after section 24 the following new
+8 section:
+9 126-A:24-a CompensationforNonprofitResidentialFacilities.
+10 I. Inthissection:
+11 (a) "Nonprofit residential facility" means a residential care facility, nursing home,
+12 shelter, or other residential entity operated by a nonprofit organization exempt from property
+13 taxationunderRSA72:23,whichreceivesfundingfromthedepartment.
+14 (b) "Lost property tax revenue" means the amount of property tax revenue a
+15 municipality would have collected if the property owned or leased by a nonprofit residential facility
+16 weretaxableatthemunicipality'scurrenttaxrateandassessedvalue.
+17 (c) "Department"meansthedepartmentofhealthandhumanservices.
+18 II.(a) Prior to disbursing funds to a nonprofit residential facility, the department shall
+19 calculate and disburse to the affected municipality an amount equal to the lost property tax revenue
+20 attributabletothefacility'stax-exemptstatus.
+21 (b) The compensation shall be based on the assessed value of the property, as
+22 determined by the municipal assessing officials under RSA 75, and the municipality's property tax
+23 rateforthefiscalyearinwhichthefundsaredisbursed.
+24 III.(a) The nonprofit residential facility shall submit to the department, as part of its
+25 funding application, a statement from the municipal assessing officials verifying the assessed value
+26 ofthepropertyandcompliancewithalllocalzoninglaws.
+27 (b) The department shall verify the calculation of lost property tax revenue with the
+28 municipalitybeforedisbursingcompensation.
+
+HB1763-FN-ASINTRODUCED
+-Page2-
+1 (c) Compensation shall be paid to the municipality no later than 30 days prior to the
+2 disbursementoffundstothenonprofitresidentialfacility.
+3 (d) The department may request additional documentation from the nonprofit
+4 residentialfacilityorthemunicipalitytoensureaccuratecalculationofthecompensationamount.
+5 IV. The department shall use existing appropriations or seek additional appropriations as
+6 necessary to comply with this section. No funds shall be disbursed to a nonprofit residential facility
+7 unlesstherequiredmunicipalcompensationhasbeenpaid.
+8 V. The department shall submit an annual report to the governor, the speaker of the house
+9 of representatives, the president of the senate, and the fiscal committee of the general court,
+10 detailing the total amount of compensation paid to municipalities under this section, the nonprofit
+11 residentialfacilitiesinvolved,andtheimpactondepartmentalfunding.
+12 VI. No community living facility certified under this section shall be exempt from state or
+13 localzoningordinances,orexemptfromstateorlocalsafetyordinances.
+14 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2781
+12/15/25
+HB1763-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the department of health and human services to disburse funds to
+municipalities in an amount equal to the sum of the assessed property values of
+nonprofitresidentialfacilitiesinthosemunicipalities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $11.5million+ $23million+ $23million+
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $11.5million+ $23million+ $23million+
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to disburse to affected
+municipalities an amount equal to the lost property tax revenues attributable to the tax exempt
+status of each non-profit residential facility in the state. A "non-profit residential facility” is
+defined as a residential care facility, nursing home, shelter, or other residential entity operated
+by a nonprofit organization that receives funds from the department. The compensation is to be
+based on the assessed value of the property, as determined by the municipality and the
+municipality’s property tax rate for the applicable fiscal year. The bill prohibits the Department
+frompayingfundstonon-profitresidentialfaciltiesuntiltheaffectedmunicipalityhasbeenpaid.
+The Department states that it is unable to determine the non-profit status of all possible
+organizations contemplated by the broad definition of “non-profit residential facility.” The
+
+Department also was not able to survey all affected facilities to determine property tax revenue
+lost. To determine a rough estimate of property tax revenue lost, the Department selected an
+example of each type of affected facility, determined the example facility’s tax liability based on
+the applicable tax rate, and multiplied the example facility’s tax liability by the number of
+facilitiesoftheapplicabletypethattheDepartmentexpectstohaveanon-profitstatus.
+Calculation of the tax liability of example facilities is below. The Department was not readily
+abletosecuretheassessed valueofadomesticviolence shelterbecausedomesticviolence shelter
+locations are generally confidential. The Department assumes the tax liability of domestic
+violencesheltersissimilartotransitionalhomelessshelters.
+TypeofFacility ExampleFacility Town Assessed TaxRate TotalTax
+Value per$1,000
+NursingFacilities Courville Nashua $ 11,450,000 $ 15.90 $182,055
+ResidentialCareFacilities BedfordFalls Bedford $ 11,297,500 $ 16.49 $186,296
+CommunityResidences EmeraldHouse Keene $ 406,900 $ 33.07 $ 13,456
+TransitionalHomelessShelter CrossRoadsHouse Portsmouth $ 812,700 $ 11.18 $ 9,086
+BehavioralResidentialTreatment HarborCare Claremont $ 371,500 $ 29.26 $ 10,870
+SUDRecoveryHouse GraniteSoberLiving Derry $ 1,200,000 $ 18.69 $ 22,428
+Children'sResidentialTreatment DoverChildren'sHome Dover $ 2,300,000 $ 18.70 $ 43,010
+TheDepartmentcalculatesthetotalcostforallfacilitiesasfollows:
+TypeofFacility Numberof ~Numberof TaxofExample TotalCost
+Facilities NonProfits Facility
+NursingFacilities 79 47 $ 182,000 $ 8,554,000
+ResidentialCareFacilities 138 55 $ 186,000 $10,230,000
+CommunityResidences* 70 105 $ 13,500 $ 1,417,500
+TransitionalHomelessShelter 35 35 $ 9,000 $ 315,000
+BehavioralResidentialTreatment* 27 41 $ 10,900 $ 446,900
+SUDRecoveryHouse* 40 42 $ 22,400 $ 940,800
+Children'sResidentialTreatment* 20 30 $ 43,000 $ 1,290,000
+DVShelter 11 11 $ 9,000 $ 99,000
+Total $23,293,200
+For facilities with an asterisk, the Department notes that number of non-profit providers was
+adjustedupwardstoaccountforprovidersthathavemultiplefacilitiesundersamelicense.
+
+In addition to the costs above, the Department anticipates needing one full-time and one part-
+time Business Administrator I to support operations required by the bill. Total costs of the two
+positionsareestimatedat$146,000forFY28and$153,000forFY29.
+As the bill has an effective date of January 1, 2027, the Department assumes the cost in FY27
+willbehalfofthoseforafullfiscalyear.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServicesandNewHampshireMunicipalAssociation

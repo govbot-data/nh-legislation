@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1223 -ASINTRODUCED
+2026SESSION
+26-2718
+08/05
+1223
+HOUSEBILL
+ANACT relativetothemoderator'sauthoritytoverifythedevicecountduringanelection.
+SPONSORS: Rep. Scully, Hills. 8; Rep. See, Merr. 26; Rep. Kenny, Hills. 13; Rep. Wood, Merr.
+13;Rep.Cambrils,Merr.4;Sen.Pearl,Dist17;Sen.Avard,Dist12
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables the moderator to conduct a hand count of ballots in order to verify the device
+countduringanelection.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1223-ASINTRODUCED
+26-2718
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothemoderator'sauthoritytoverifythedevicecountduringanelection.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Authority of Moderator; Device Count. Amend RSA 659 by inserting after
+2 section60thefollowingnewsection:
+3 659:60-a AuthorityofModeratortoVerifytheDeviceCount.
+4 I. At his or her sole discretion, a moderator may perform a hand count of the votes of any
+5 race in any election and compare the hand count total to the tabulator print out total, in order to
+6 verifythatthevotesinthatracearebeingtabulatedaccurately.
+7 II. In the event that the hand count total does not match the tabulator total, the hand count
+8 total shall prevail and the moderator shall use the hand count results to certify the election in that
+9 race.
+10 III. If the moderator certifies the election using the hand count, instead of the machine
+11 count,themoderatorshallreportthisfacttothecityortownclerk.
+12 IV. The moderator shall report to the city or town clerk which election result was
+13 determinedbyhandcountandshallreportthefollowingforthatelection:
+14 (a) Thetotalvoterecordedbythemachine.
+15 (b) Thetotalvotescountedbyhand.
+16 (c) Themachine-countelectionresult.
+17 (d) Thehand-countelectionresult.
+18 (e) The difference in election result between the machine-count and the hand-count for
+19 thecandidatesaffected.
+20 2 GeneralContentofReturn. AmendRSA659:73,VI-VIItoreadasfollows:
+21 VI. If the results reported as specified by paragraph I include the moderator's
+22 hand-count results in lieu of the machine results, these machine results shall also be
+23 reportedasanaddendum.
+24 VII. The town or city clerk may require that forms be completed under this section earlier
+25 thanthetimerequiredbythesecretaryofstate.
+26 [VII.] VIII. The city or town clerk shall, within 7 days of an election, post copies of the
+27 election return forms submitted to the secretary of state under paragraphs I and II of this section.
+28 Thecityortownclerkshallpostcopiesinthe2placeswherethemunicipalityregularlypostsnotices
+29 of its governing body meetings, which may include the municipality's main website and any social
+30 mediaaccountsutilizedbythemunicipality.
+31 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

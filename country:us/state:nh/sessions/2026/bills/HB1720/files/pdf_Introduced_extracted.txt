@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1720-FN-ASINTRODUCED
+2026SESSION
+26-3129
+05/08
+1720-FN
+HOUSEBILL
+ANACT relativetonoticetochilddaycareprovidersofchildcarescholarships.
+SPONSORS: Rep. Peternel, Carr. 6; Rep. Reinfurt, Hills. 29; Rep. Litchfield, Rock. 32; Rep.
+Drye,Sull.7
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides that when the department of health and human services receives an
+application for a child care scholarship that names a licensed child care program as the intended
+provider,thedepartmentshallnotifytheproviderbyelectronicmeanswithinaspecifiedtimeframe.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1720-FN-ASINTRODUCED
+26-3129
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetonoticetochilddaycareprovidersofchildcarescholarships.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Child Care Scholarship Program; Notification to Licensees. Amend RSA 167 by
+2 insertingaftersection83thefollowingnewsection:
+3 167:83-a ChildCareScholarshipProgram;NotificationtoLicensees.
+4 I. When the department receives an application for a child care scholarship which names a
+5 licensed child care program as the intended provider, the department shall notify the license holder
+6 viaelectronicmeanswithin3businessdays.
+7 II. The notice shall include the child’s name, anticipated start date if provided, and a
+8 statementthattheapplicationispendingeligibilitydetermination.
+9 III. The department shall provide follow-up notice via electronic means to the program
+10 within3businessdayswhentheapplicationisapproved,denied,orwithdrawn.
+11 IV. The commissioner shall adopt rules under RSA 541-A relative to the form, content, and
+12 securetransmissionofthenoticesrequiredunderthissection.
+13 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3129
+12/11/25
+HB1720-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetonoticetochilddaycareprovidersofchildcarescholarships.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$150,000general
+Expenditures* $0 funds;$100,000 $0 $0
+federalfunds
+FundingSource(s) Generalfunds,federalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to notify licensed childcare
+providers within three business days when the Department receives a childcare scholarship
+application that names the childcare program as the intended provider. The Department
+assumes that its NH Electronic Application System (NH EASY) will need to be modified to
+providenotificationtoproviders,sincethismethodwillminimizesecurityconcernsregardingthe
+sharing of personally identifiable information. The Department expects the cost of the system
+changes will be $230,000, and the cost for salary and benefits for staff to make necessary
+changes will be approximately $20,000. These costs will be incurred in FY27 only, and will be
+fundedwith40percentfederalfundsand60percentstategeneralfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

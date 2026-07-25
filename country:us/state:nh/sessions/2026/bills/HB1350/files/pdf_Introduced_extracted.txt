@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1350-FN-ASINTRODUCED
+2026SESSION
+26-3152
+06/09
+1350-FN
+HOUSEBILL
+ANACT relativetoantiquemotorvehicles.
+SPONSORS: Rep. Farrington, Straf. 8; Rep. Giasson, Hills. 29; Rep. Granger, Straf. 2; Rep.
+Litchfield,Rock.32;Rep.SabourinditChoiniere,Rock.30;Sen.Innis,Dist7
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Broadens the definition of “antique” vehicles to include all motor vehicles, trucks of any
+weight, motorcycles farm tractors, and retired fire apparatus that are more than 25 years old
+regardlessofhowtheyareusedormaintained.
+II. Removesanyrestrictionondailyuse,commercialuse,oroperationalpurposes.
+III. Removesanyrequirementsthatsuchvehiclesbemaintainedonlyforexhibition,paradeuse,
+clubactivities,orbekeptinoriginalorrestoredcondition.
+IV. Allowseverytypeof vehicle,regardless of weightor purpose,tobecomeeligiblefor "antique"
+statussolongasitismorethan25yearsold.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1350-FN-ASINTRODUCED
+26-3152
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoantiquemotorvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Antique Motor Vehicle, Farm Tractor, Retired Fire Apparatus, or Motorcycle. Amend RSA
+2 259:4toreadasfollows:
+3 259:4 Antique Motor Vehicle, Farm Tractor, Retired Fire Apparatus, or Motorcycle. "Antique
+4 motor vehicle, farm tractor, retired fire apparatus, or motorcycle" shall mean any motor vehicle,
+5 including a truck regardless of its weight, over 25 years old[, and in the case of a retired fire
+6 apparatus,over20yearsold,whichismaintainedforuseinexhibitions,clubactivities,parades,and
+7 other functions of public interest, but not for use in commerce. For the purposes of this section,
+8 "maintained for use" shall mean a motor vehicle, retired fire apparatus, or motorcycle in its original
+9 condition or restored to original or better condition and not intended for daily use]. For the
+10 purposes of this section, "antique" shall not impose any restriction on use or operation
+11 beyondthosegenerallyapplicabletoallmotorvehiclesunderstatelaw.
+12 2 Repeal. RSA266:33,relativetoantiquevehicleexemptions,isrepealed.
+13 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3152
+10/21/25
+HB1350-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoantiquemotorvehicles.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Decreaseofupto$2.7Mto$4.5MPerYear
+RevenueFund(s) HighwayFund
+Decreaseofupto
+Expenditures* $0 $0
+$324Kto$540KPerYear
+FundingSource(s) HighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+Decreaseofupto
+LocalRevenue $0 $0
+$324Kto$540KPerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+The Department of Safety states this bill would allow approximately 75,000 additional vehicles,
+that are currently registered under other plate types, to qualify for antique registration. Of the
+75,000 vehicles that would be newly qualified, about 35,670 currently hold a passenger-style
+registration. Passenger vehicle registration fees range from $42 to $66 per year, depending on
+vehicle weight, and heavier vehicles are charged at a rate of $1.06 per hundred pounds of gross
+weight. The current state registration fees for antique vehicles are significantly lower than
+standard registration fees ($6.00 per year for vehicles). The Department states if all 75,000
+vehicles opted for an antique registration, the potential decrease to state highway fund revenue
+would be between $2,700,000 and $4,500,000 per fiscal year (a $6 registration fee paid rather
+than a registration fee of $42 to $66). Also, pursuant to RSA 235:23 (“Apportionment A”), 12
+percent of highway fund road toll and motor vehicle fee revenue collected is distributed to
+municipalities in the year following collection, therefore, this bill would also reduce state
+expendituresandlocalrevenue,beginninginFY2028,ofupto$324,000to$540,000peryear.
+
+AGENCIESCONTACTED:
+DepartmentofSafety

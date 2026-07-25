@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1732-FN-ASINTRODUCED
+2026SESSION
+26-2698
+06/08
+1732-FN
+HOUSEBILL
+ANACT relative to housing accessibility and voucher allocation in new multi-unit
+developments.
+SPONSORS: Rep.Horrigan,Straf.10;Rep.H.Howard,Straf.4
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a requirement that certain new multi-unit housing developments must
+comply with inclusion and accessibility standards, including reserving a portion of units for
+individualseligibleunderthefederalMainstreamHousingVoucherprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1732-FN-ASINTRODUCED
+26-2698
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to housing accessibility and voucher allocation in new multi-unit
+developments.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSubdivision;InclusiveHousingDevelopments. AmendRSA674byinsertingaftersection
+2 61thefollowingnewsubdivision:
+3 InclusiveHousingDevelopments
+4 674:61-a InclusiveHousingDevelopmentRequirements.
+5 I. Any new multi-unit housing development containing more than 6 dwelling units shall
+6 meetthefollowingrequirements:
+7 (a) At least 5 percent of the dwelling units shall be designated for individuals who
+8 qualifyforafederalMainstreamHousingVoucherunder24C.F.R.section982.201.
+9 (b) At least 5 percent of the dwelling units shall be designed and constructed in
+10 accordance with universal design standards, as defined by the United States Access Board or its
+11 successor,toensurebaselineaccessibilityforindividualswithdisabilities.
+12 II. Paragraph I shall apply to developments approved by a planning board on or after
+13 January1,2027.
+14 III. Regional and municipal housing authorities shall monitor compliance with this section
+15 andmayissueguidancetodevelopersandmunicipalitiesasnecessary.
+16 IV. The department of health and human services, in consultation with the New Hampshire
+17 housing finance authority, shall develop and distribute informational materials to assist housing
+18 authoritiesanddevelopersinimplementingthissection.
+19 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2698
+12/12/25
+HB1732-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to housing accessibility and voucher allocation in new multi-unit
+developments.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$120,000-
+Expenditures* $0 $100,000 $100,000
+$130,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a requirement that certain new multi-unit housing developments must
+comply with inclusion and accessibility standards, including reserving a portion of units for
+individuals eligible under the federal Mainstream Housing Voucher program. In addition, the
+bill states that the Department of Health and Human Services, in consultation with the New
+Hampshire Housing Finance Authority, shall develop and distribute informational materials to
+assisthousingauthoritiesanddevelopers.
+The New Hampshire Housing Finance Authority (NHHFA) anticipates needing one additional
+staff member at the estimated cost of $100,000 per year in order to meet the requirements of
+monitoring compliance and assisting with the Department of Health and Human Services in the
+developinganddistributinginformationalmaterialstoassisthousingauthoritiesanddevelopers.
+The Department of Health and Human Services (DHHS) has indicated that the development of
+housing-related informational materials falls outside its area of expertise and recommends
+clarifying its role in this initiative or evaluating whether another agency with housing-specific
+expertise may be better positioned to lead the effort. A consultant will need to be contracted to
+support this effort. DHHS estimates a one-time cost of approximately $25,000 to develop and
+
+distribute materials related to inclusive housing initiatives. However, actual costs may vary
+basedonthescopeandformat,withaprojectedrangebetween$20,000and$30,000.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServicesandNewHampshireHousingFinanceAuthority

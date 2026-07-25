@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1093 -ASINTRODUCED
+2026SESSION
+26-2665
+06/07
+1093
+HOUSEBILL
+ANACT relative to public charter schools and the state building code and governmental
+landuseexemptions.
+SPONSORS: Rep.Donnelly,Rock.25; Rep.Harvey-Bolia,Belk.3; Rep.Janigian,Rock.25; Rep.
+D.Mannion,Rock.25;Rep.Mooney,Hills.12
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the state building code provisions and school construction aid statutes to
+extend full building code compliance and state-funded construction aid eligibility to chartered public
+schoolsonthesamebasisastraditionalpublicschools.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1093-ASINTRODUCED
+26-2665
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to public charter schools and the state building code and governmental
+landuseexemptions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StateBuildingCode. AmendRSA155-A:2,Itoreadasfollows:
+2 I. All buildings, building components, and structures constructed in New Hampshire shall
+3 comply with the state building code and state fire code. The construction, design, structure,
+4 maintenance, and use of all buildings or structures to be erected and the alteration, renovation,
+5 rehabilitation, repair, removal, or demolition of all buildings and structures previously erected shall
+6 begovernedbytheprovisionsofthestatebuildingcode. Thestatebuildingcodeineffectatthetime
+7 that the application for the building permit required by RSA 155-A:4 is received by the governing
+8 authority shall remain in effect for the duration of the work covered by that permit. This
+9 requirement notwithstanding, for a period of 6 months after the effective date of the code adopted
+10 under RSA 155-A:1, IV, a concurrency period is established, allowing building permits, and other
+11 required documents, at the election of the applicant, to show compliance using either the code in
+12 effect just prior the effective date of the code adopted under RSA 155-A:1, IV, or the code adopted
+13 under RSA 155-A:1, IV, but not a combination of the 2 codes. For purposes of this section,
+14 "public school building" includes facilities owned, operated, or occupied by public charter
+15 schoolsestablishedunderRSA194-B.
+16 2 Building Requirements for State Funded Buildings. Amend RSA 155-A:13, II(e) to read as
+17 follows:
+18 (e) Publicschoolfacilities,includingpubliccharter schoolsestablishedunder RSA
+19 194-B,thataresubjecttoRSA198:15-c.
+20 3 AmountofGrant. RSA198:15-b,I(b)(3)isrepealedandreenactedtoreadasfollows:
+21 (b)(3) The amount of the grant to any chartered public school established in accordance
+22 with RSA 194-B:3-a shall be calculated and disbursed in the same manner as a grant to a school
+23 district under subparagraphs (1) and (2). Chartered public schools shall be eligible for the same
+24 percentageofeligibleconstructioncosts,andthesamescheduleofstatedisbursement,asprovidedto
+25 schooldistrictsforeligibleschoolconstructionprojectsunderthissection.
+26 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

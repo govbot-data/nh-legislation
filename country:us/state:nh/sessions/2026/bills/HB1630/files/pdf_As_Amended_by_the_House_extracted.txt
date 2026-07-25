@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1630-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0867h
+2026SESSION
+26-2996
+05/08
+1630-FN
+HOUSEBILL
+ANACT prohibiting the sale of nitrous oxide and certain inhalants for recreational
+purposes.
+SPONSORS: Rep.N.Murphy,Hills.12;Rep.Newell,Ches.4;Rep.Rung,Hills.12;Rep.Woods,
+Merr.30;Rep.Lucas,Graf.7;Rep.B.Boyd,Hills.12;Rep.Mooney,Hills.12;Sen.
+Ricciardi,Dist9;Sen.Fenton,Dist10;Sen.Abbas,Dist22
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits licensees from using their premises for illegal purposes, requires compliance
+with laws on inhaling toxic vapors, and bans selling nitrous oxide devices, with violations subject to
+enforcementbytheliquorcommissionandrepeatoffensesleadingtolicenserevocation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1630-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0867h 26-2996
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the sale of nitrous oxide and certain inhalants for recreational
+purposes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Premise Restrictions; Unlawful Purposes. RSA 179:50 is repealed and reenacted to read as
+2 follows:
+3 179:50 UnlawfulPurpose.
+4 I. No licensee shall use, or allow to be used, his or her premises for any purpose contrary to
+5 law.
+6 II. All licensees shall comply with the provisions of RSA 644:5-a, relative to inhaling toxic
+7 vaporsforeffect.
+8 III. A licensee shall not sell, distribute, furnish, or offer for sale any nitrous oxide device,
+9 canister,cartridge,orreceptaclecontainingnitrousoxide. Thisparagraphshallnotapplytothesale
+10 ofnitrousoxidecontainedinfoodproductsforuseasapropellant.
+11 IV. Whether a violation of paragraph II or III occurred, and the penalty for such violation,
+12 shall be determined by the commission in accordance with rules adopted under RSA 541-A.
+13 However,asecondoffenseunderparagraphIIshallresultinrevocationofthelicense.
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2996
+3/11/26
+HB1630-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0867h)
+ANACT prohibiting the sale of nitrous oxide and certain inhalants for recreational
+purposes.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

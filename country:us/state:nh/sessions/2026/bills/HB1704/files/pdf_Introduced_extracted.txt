@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1704-FN-ASINTRODUCED
+2026SESSION
+26-3159
+12/09
+1704-FN
+HOUSEBILL
+ANACT permitting public employees to bargain individually with public employers
+withoutanyintervention.
+SPONSORS: Rep. Labrie, Hills. 2; Rep. Drago, Rock. 4; Rep. Drew, Hills. 19; Rep. Farrington,
+Straf. 8; Rep. Granger, Straf. 2; Rep. Morton, Hills. 39; Rep. Osborne, Rock. 2;
+Rep.Schneller,Hills.2;Rep.Berry,Hills.44;Rep.Noble,Hills.2
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides certain public employees with independent bargaining rights and authorizes
+said employees to engage in independent bargaining with employers free of any interference. The
+bill also establishes penalties for any violations of these public employee's independent bargaining
+rights.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1704-FN-ASINTRODUCED
+26-3159
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT permitting public employees to bargain individually with public employers
+withoutanyintervention.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thissectionshallbeknownasthe"PublicEmployeeChoiceAct".
+2 2 StatementofFindings. Thegeneralcourtmakesthefollowingfindingsanddeclares:
+3 I. Public employees and employees and employers should be free to contract on their own
+4 terms;
+5 II. Monopolycollectivebargaininglawsviolatethisfreedom;and
+6 III. It is against New Hampshire public policy to impose monopoly collective bargaining on
+7 employeeswhowishtorepresentthemselves.
+8 3 New Section; Public Employee Choice Act. Amend RSA 273 by inserting after section 11 the
+9 followingnewsection:
+10 273-A:11-a PublicEmployeeIndependentBargaining.
+11 I. Forthepurposesofthissection:
+12 (a) "Independent bargaining" shall mean negotiating with a public employer regarding
+13 wages, hours, grievance adjustments, or other employment terms without intervention of an
+14 employeeorganizationorexclusivebargainingrepresentative;
+15 (1) "Independent bargaining" does not confer greater or lesser rights than employees
+16 inunitswithexclusiverepresentation;
+17 (2) "Independent bargaining" does not impose greater or lesser duties on employers
+18 thanthoseowedtoemployeesinunitswithexclusiverepresentation;
+19 (b) "Employee organization" shall mean any association, organization, or committee
+20 advocatingforemployeesconcerningwages,labordisputes,hours,orconditionsofwork;
+21 (c) "Publicemployee"shallmeananypersonemployedbythestateofNewHampshireor
+22 apoliticalsubdivision,publicschool,authority,commission,board,orotherpublicserviceentity;
+23 (d) "Publicemployer"shallmeananystateorlocalgovernment,agency,instrumentality,
+24 schoolboard,orotherpublicentityemployingoneormorepersons;
+25 (e) "Collective bargaining" shall mean the mutual obligation of employer and certified
+26 exclusive bargaining representative to negotiate in good faith regarding wages, hours, and
+27 employmentterms;and
+28 (f) "Exclusivebargainingrepresentative" shallmeananyemployeeorganizationcertified
+29 by the public employment labor relations board under RSA 273-A to represent employees in a
+30 bargainingunit.
+
+HB1704-FN-ASINTRODUCED
+-Page2-
+1 II. For the purposes of this section, the following categories of public employees are exempt
+2 fromindependentbargainingrights:
+3 (a) LawenforcementofficersasdefinedinRSA106-L:2;
+4 (b) Firefighters;
+5 (1) Firefightersshallincludeemployeesthat:
+6 (A) Havetheauthorityandresponsibilitytoengageintheprevention,control, or
+7 extinguishmentoffires,and whoperformactivities thatarerequiredfor anddirectlyconcerned with
+8 theprevention,control,orextinguishmentoffires,includingincidentalnon-firefightingfunctions;
+9 (B) As a job requirement are fully certified as a firefighter by the New
+10 Hampshirefirestandardsandtrainingcommission;and
+11 (C) As a job requirement meets all physical, mental, educational, and other
+12 qualifications for continuing certification as a firefighter that may be established by the certifying
+13 authority;
+14 (2) Firefighters shall not include any persons employed auxiliary, intermittent,
+15 special,part-time,volunteer,call,orreservefirefighters;
+16 (c) Emergency medical service personnel as defined in RSA 153-A:2, VI, with the
+17 exceptionofemployeesormembersservingaprivateorganization;
+18 (d) Stateandcountycorrectionsofficersthat:
+19 (1) Are responsible for the physical custody and security of inmates at a state or
+20 countycorrectionalfacility;
+21 (2) Areauthorizedbylawtouseforcetopreventescapesfromsuchfacility;
+22 (3) As a job requirement are fully certified as a corrections officer by the New
+23 Hampshirepolicestandardsandtrainingcouncil;and
+24 (4) As a job requirement meets all the physical, mental, educational, and other
+25 qualifications for continuing certification as a corrections officer that may be established by the
+26 certifyingauthority;and
+27 (e) Any other category of employee for which federal law requires exclusive
+28 representationtopreserveeligibilityforfederalfunding.
+29 III. Independent bargaining rights established under this paragraph shall not apply to
+30 exempt employees as defined in paragraph II. Employees in these exempt categories remain subject
+31 to exclusive representation under RSA 273-A. Independent bargaining rights established under this
+32 paragraphshallinclude:
+33 (a) Therightofemployeestobargainindependently;
+34 (b) That no agreement between an employee organization and a public employer, nor
+35 anypolicy,mayrequireemployeeswhooptforindependentbargainingtoberepresentedbyaunion;
+36 (c) That no collective bargaining agreement may limit an employee's ability to negotiate
+37 oradjustgrievancesdirectly;
+
+HB1704-FN-ASINTRODUCED
+-Page3-
+1 (d) That only one exclusive bargaining representative may be certified per bargaining
+2 unit;and
+3 (e) That no agreement may link wages or conditions of independent employees to
+4 unionizedemployees.
+5 IV. Any agreement, understanding, or practice violating employee rights under this section
+6 is unlawful, null, and void. Any strike, picketing, boycott, or other action by an employee
+7 organizationintendedtoinduceprohibitedagreementsisillegal.
+8 V. It is unlawful for any person, union, officer, agent, or public employer to threaten,
+9 intimidate, or coerce employees or their families to join, affiliate with, or financially support an
+10 employeeorganization.
+11 VI. ViolationsofthissectionareaclassAmisdemeanor,subjectto:
+12 (a) Afineofupto$5,000;
+13 (b) Imprisonmentupto6months;or
+14 (c) Acombinationofbothpenaltiesthereof.
+15 VII. The attorney general shall investigate complaints of violations and prosecute offenders
+16 toensureeffectiveenforcement.
+17 VIII. If any provisionof this sectionor the applicationthereof to anypersonor circumstance
+18 isheldinvalid,theinvaliditydoesnotaffectotherprovisionsorapplicationsofthissectionwhichcan
+19 be given effect without the invalid provisions or applications, and to this end the provisions of this
+20 sectionareseverable.
+21 4 Application. This section applies to all contracts or extensions entered into after the effective
+22 date,butnotlaterthantwoyearsfromtheeffectivedate.
+23 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3159
+12/3/25
+HB1704-FN-FISCALNOTE
+ASINTRODUCED
+ANACT permitting public employees to bargain individually with public employers
+withoutanyintervention.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

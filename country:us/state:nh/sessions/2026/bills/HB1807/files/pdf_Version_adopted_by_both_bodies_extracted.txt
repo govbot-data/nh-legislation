@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1807-FN-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...1004h
+04/23/2026 1508s
+4Jun2026...2014CofC
+4Jun2026...2175EBA
+2026SESSION
+26-2747
+07/05
+1807-FN
+HOUSEBILL
+ANACT relativetomandatoryreportstovoters.
+SPONSORS: Rep.Peternel, Carr. 6; Rep.Bernardy, Rock. 36; Rep.Berry, Hills. 44; Rep. Pauer,
+Hills.36;Rep.Drago,Rock.4;Rep.Colcombe,Hills.30;Rep.DeVito,Rock.8;Sen.
+Murphy,Dist16;Sen.Avard,Dist12;Sen.Lang,Dist2;Sen.Sullivan,Dist18
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill makes changes to the form and content of the mandatory report to voters distributed
+beforeanymeetingatwhichanyschooldistrictadoptsaschoolbudget.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1807-FN-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...1004h
+04/23/2026 1508s
+4Jun2026...2014CofC
+4Jun2026...2175EBA 26-2747
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomandatoryreportstovoters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Students First Act; Mandatory Report to Voters. Amend RSA 189:76, I-V to read
+2 asfollows:
+3 I. Beforeanymeetingatwhichanyschooldistrictadoptsaschoolbudget,whetherornotthe
+4 district has adopted the provisions of RSA 194-C:9-b, a mandatory report to voters [must] shall be
+5 posted in at least 3 appropriate places, 2 of which [must] shall be places of business or other public
+6 locations, and one of which [shall] may be the local newspaper [or, if a local newspaper is not
+7 available, the district's website]. The report shall be posted to the school district website, if
+8 oneexists. Thereport[must]shallbepostedatleast7days,excludingSundaysandlegalholidays,
+9 priortothe[meeting]scheduleddateofthefirstbudgethearingheldpursuanttoRSA32:5,I.
+10 II. Thereportshalldisplaythenameoftheschooldistrict,beprominentlytitled"Mandatory
+11 Report to Voters on School Expenses," and shall contain [3 line graphs] one graph with 4
+12 financial indicators, and one table. When posted in public locations, the report shall be displayed
+13 on 2 pages which are each at least [18] 8.5 inches wide and [24] 11 inches tall. The graphs and
+14 tableshallfilleachpage,leavingmarginsnogreaterthanoneinch.
+15 III. The first line [graph] indicator shall be titled "Average Cost Per Pupil" and shall
+16 display the district's annual cost-per-pupil over the previous 10 years. The second line [graph]
+17 indicator shall be titled "Average Teacher Salary" and shall display the district's yearly average
+18 teacher salary over the previous 10 years. [A good faith effort shall be made to adjust each annual
+19 statistic for inflation using the U.S. Bureau of Labor Statistics Inflation Calculator or equivalent
+20 resource.] Each yearly statistic shall be clearly labeled. In each line graph, the upper and lower
+21 boundariesofthedualy-axis[must]shallbecappedatthenearestthousanddollars.
+22 IV. The third line indicator graph shall be titled "Average Administrator Salaries" and
+23 shall display [annual totals of all salaries paid to administrators employed or contracted by the
+24 district and corresponding school administrative unit] the district's yearly average
+25 administrator salary over the previous 10 years. The fourth line indicator graph shall be
+26 titled "Total Administrator Salaries" and shall display annual totals of all earned wages
+27 paidto employeesor contractorsof the school administrative unitplusthe earnedwages of
+28 all district administrators that are not included in the school administrative unit over the
+29 previous 10 years. Administrators serving multiple districts may have annotation showing how
+
+HB1807-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 their salary is apportioned among the multiple districts. [A good faith effort shall be made to adjust
+2 each annual statistic for inflation using the U.S. Bureau of Labor Statistics Inflation Calculator or
+3 equivalent resource.] Each yearly total shall be clearly labeled. The upper and lower boundaries of
+4 thedualy-axis[must]shallbecappedatthenearest[hundred]tenthousanddollars.
+5 IV-a. If the district has fewer than 10 years of historical data, all available years
+6 shallbeusedfortherequiredgraphsinparagraphsIIIandIV.
+7 V. The table shall betitled "Top Administrator Salaries" and shall list thetitles and current
+8 salaries of the [4] 10 highest-paid administrators employed or contracted by the district or
+9 corresponding school administrative unit and any employee paid over $100,000 in earned
+10 wages. Iflessthan[4]10administratorsaresoemployed,alladministratorsshallbesolisted.
+11 V-a. In this section, "administrator" means a person who provides building-,
+12 district-, or SAU-level administrative services at the pre-K, elementary, or secondary level
+13 including a superintendent, assistant superintendent, principal, assistant principal,
+14 special education administrator, curriculum administrator, career and technical
+15 educationprincipal,anddistrictadministrator,asoutlinedinadministrativeruleEd506.
+16 2 New Section; Education; School Meetings; Annual Warrant Information. Amend RSA 197 by
+17 insertingaftersection1-gthefollowingnewsection:
+18 197:1-h AnnualWarrantInformation. Intheannualwarrant,theinformationinRSA671:20,II
+19 (a)-(c)shallbeprinted immediatelybelowthearticlenumberandtitle,and precedingthequestionof
+20 adoptingaschoolbudget.
+21 3 Education; Students First Act; Mandatory Report to Voters. Amend RSA 189:76, I-V to read
+22 asfollows:
+23 I. Before any meeting at which any school district adopts a school budget, a mandatory
+24 report to voters [must] shall be posted in at least 3 appropriate places, 2 of which [must] shall be
+25 places of business or other public locations, and one of which [shall] may be the local newspaper [or,
+26 if a local newspaper is not available, the district's website]. The report shall be posted to the
+27 school district website, if one exists. The report [must] shall beposted at least 7days, excluding
+28 Sundays and legal holidays, prior to the [meeting] scheduled date of the first budget hearing
+29 heldpursuanttoRSA32:5,I.
+30 II. Thereportshalldisplaythenameoftheschooldistrict,beprominentlytitled"Mandatory
+31 Report to Voters on School Expenses," and shall contain [3 line graphs] one graph with 4
+32 financial indicators, and one table. When posted in public locations, the report shall be displayed
+33 on 2 pages which are each at least [18] 8.5 inches wide and [24] 11 inches tall. The graphs and
+34 tableshallfilleachpage,leavingmarginsnogreaterthanoneinch.
+35 III. The first line [graph] indicator shall be titled "Average Cost Per Pupil" and shall
+36 display the district's annual cost-per-pupil over the previous 10 years. The second line [graph]
+37 indicator shall be titled "Average Teacher Salary" and shall display the district's yearly average
+
+HB1807-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 teacher salary over the previous 10 years. [A good faith effort shall be made to adjust each annual
+2 statistic for inflation using the U.S. Bureau of Labor Statistics Inflation Calculator or equivalent
+3 resource.] Each yearly statistic shall be clearly labeled. In each line graph, the upper and lower
+4 boundariesofthedualy-axis[must]shallbecappedatthenearestthousanddollars.
+5 IV. The third line indicator graph shall be titled "Average Administrator Salaries" and
+6 shall display [annual totals of all salaries paid to administrators employed or contracted by the
+7 district and corresponding school administrative unit] the district's yearly average
+8 administrator salary over the previous 10 years. The fourth line indicator graph shall be
+9 titled "Total Administrator Salaries" and shall display annual totals of all earned wages
+10 paidto employeesor contractorsof the school administrative unitplusthe earnedwages of
+11 all district administrators that are not included in the school administrative unit over the
+12 previous 10 years. Administrators serving multiple districts may have annotation showing how
+13 their salary is apportioned among the multiple districts. [A good faith effort shall be made to adjust
+14 each annual statistic for inflation using the U.S. Bureau of Labor Statistics Inflation Calculator or
+15 equivalent resource.] Each yearly total shall be clearly labeled. The upper and lower boundaries of
+16 thedualy-axis[must]shallbecappedatthenearest[hundred]tenthousanddollars.
+17 IV-a. If the district has fewer than 10 years of historical data, all available years
+18 shallbeusedfortherequiredgraphsinparagraphsIIIandIV.
+19 V. The table shall betitled "Top Administrator Salaries" and shall list thetitles and current
+20 salaries of the [4] 10 highest-paid administrators employed or contracted by the district or
+21 corresponding school administrative unit and any employee paid over $100,000 in earned
+22 wages. Iflessthan[4]10administratorsaresoemployed,alladministratorsshallbesolisted.
+23 V-a. In this section, "administrator" means a person who provides building-,
+24 district-, or SAU-level administrative services at the pre-K, elementary, or secondary level
+25 including a superintendent, assistant superintendent, principal, assistant principal,
+26 special education administrator, curriculum administrator, career and technical
+27 educationprincipal,anddistrictadministrator,asoutlinedinadministrativeruleEd506.
+28 4 Contingency. If HB 564 of the 2026 regular legislative session becomes law, section 1 of this
+29 actshallnottakeeffectandsection3ofthisactshalltakeeffect60daysafteritspassage. IfHB564
+30 of the 2026 regular legislative session does not become law, section 1 of this act shall take effect 60
+31 daysafteritspassageandsection3ofthisactshallnottakeeffect.
+32 5 EffectiveDate.
+33 I. Sections1and3ofthisactshalltakeeffectasprovidedinsection4ofthisact.
+34 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2747
+04/29/2026
+HB1807-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1508s)
+ANACT relativetomandatoryreportstovoters.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable(PossiblyNoImpact)
+METHODOLOGY:
+This bill standardizes and expands the mandatory report to voters for school district budget
+meetings, including 10-year trends on per-pupil costs, teacher salaries, and average
+administrator salaries, and a table of the highest-paid administrators, and revises posting and
+annualwarrantrequirements. Costs,ifany,fordistrictstocomplyareindeterminable.
+AGENCIESCONTACTED:
+None

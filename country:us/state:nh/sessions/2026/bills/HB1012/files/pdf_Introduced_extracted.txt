@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1012 -ASINTRODUCED
+2026SESSION
+26-2317
+07/06
+1012
+HOUSEBILL
+ANACT repealingaccessorydwellingunitsanddetachedaccessorydwellingunits.
+SPONSORS: Rep. Turcotte, Straf. 4; Rep. B. Boyd, Hills. 12; Rep. Perez, Rock. 16; Rep. Terry,
+Belk. 7; Rep. Foote, Rock. 13; Rep. R. Brown, Carr. 8; Rep. Fracht, Graf. 16; Rep.
+D.Kelley,Hills.32
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrepealsuseofaccessorydwellingunitsanddetachedaccessorydwellingunits.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1012-ASINTRODUCED
+26-2317
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingaccessorydwellingunitsanddetachedaccessorydwellingunits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Dwelling Units. Amend RSA 21 by inserting after section 55 the following new
+2 section:
+3 21:56 References to Dwelling Units. The following definitions may be referenced when
+4 construingthemeaningofaccessoryordetachedaccessorydwellingunits:
+5 I. "Accessory dwelling unit" means a residential living unit that is located on a lot
+6 containing a single-family dwelling that provides independent living facilities for one or more
+7 persons,includingprovisionsforsleeping,eating,cooking,andsanitation,onthesameparcelofland
+8 astheprincipaldwellingunititaccompanies.
+9 II. “Attached unit” means a unit that is within or attached to the principal dwelling unit, or
+10 completelycontainedwithinapreexistingdetachedstructure.
+11 III. “Detached unit” means a unit that is neither within nor physically connected to the
+12 principaldwellingunit,norcompletelycontainedwithinapreexistingdetachedstructure
+13 2 Repeals. Thefollowingarerepealed.
+14 I. RSA674:71,relativetothedefinitionsofaccessoryanddetachedaccessorydwellingunits.
+15 II. RSA674:72,relativetoaccessorydwellingunits.
+16 III. RSA674:73,relativetodetachedaccessorydwellingunits.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

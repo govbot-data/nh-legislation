@@ -1,0 +1,282 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+5Mar2026...0693h
+4Jun2026...2057CofC
+4Jun2026...2172EBA
+2026SESSION
+26-2430
+04/09
+1260-FN
+HOUSEBILL
+ANACT relativetomarriageregistrationformsanddelayedcertificatesofmarriage.
+SPONSORS: Rep.Dargie,Hills.43;Rep.Petrigno,Hills.43
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill permits marriage applicants to complete the marriage application in advance,
+establishes a fee for filing a delayed marriage certificate, and updates all relevant statutory
+languageinthechaptertobegenderneutral.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+5Mar2026...0693h
+4Jun2026...2057CofC
+4Jun2026...2172EBA 26-2430
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomarriageregistrationformsanddelayedcertificatesofmarriage.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Definitions;MarriageLicense. AmendRSA5-C:1,XXIItoreadasfollows:
+2 XXII. "Marriage license" means the vital record document that is completed by the [bride
+3 and groom]marriage applicants and the clerk of the town or city showing that all legal
+4 requirementshavebeenmetandthecoupleiseligibletobemarried.
+5 2 MarriageRegistrationForms. AmendRSA5-C:41toreadasfollows:
+6 5-C:41 MarriageRegistrationForms.
+7 I. There shall be 2 forms for the completion of a marriage registration. The marriage
+8 application worksheet, which shall be the form that is used to record marriage intentions, shall be
+9 completed by the prospective [bride and groom]marriage applicants and the clerk of the town or
+10 city and shall contain the information needed to complete the marriage license. The marriage
+11 license, which shall be the form that is used to record that the marriage ceremony has taken place
+12 and to record who solemnized the marriage, shall be completed by the [bride, groom]marriage
+13 applicants, the officiant, and the clerk of the town or city in accordance with this section and RSA
+14 5-C:42. The marriage license shall be the official copy of the certificate of marriage when the
+15 marriageisregisteredwiththedivision.
+16 II. The marriage application worksheet may be completed online or offline ahead of
+17 time, and shall be completed by the prospective [bride and groom]marriage applicants by
+18 signing itintheofficeof theclerk of thetownor city. The town or city clerk shall also sign the
+19 marriage application worksheet. The information supplied by [the groom]both marriage
+20 applicants shall include his or her full name; his or her usual residence by street and number,
+21 city, town or location, county and state; his or her birthplace; his or her date of birth; his or her
+22 social security number; his or her father's full name; his or her father's birthplace; his or her
+23 mother's maiden name; and his or her mother's birthplace. If applicable, a party shall also
+24 provide their surname if different from their current name. [The information supplied by the
+25 brideshallincludeherfullnameandmaidensurname,ifdifferent;herusualresidencebystreetand
+26 number, city, town or location, county and state; her birthplace; her date of birth; her social security
+27 number;herfather'sfullname;herfather'sbirthplace;hermother'smaidenname;and,hermother's
+28 birthplace.]
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 II-a.(a) Uponenteringintomarriage,eitherpartymayretainhisorhersurnamepriortothe
+2 marriageorchangehisorhersurnametothesurnameoftheotherpartyorchangethesurnametoa
+3 hyphenated combination of the full surnames of both parties. If a party requests a surname change
+4 under this paragraph, that party may also change his or her middle name to his or her surname
+5 prior to the marriage. Each party shall indicate on the marriage application worksheet the party's
+6 nameaftermarriage.
+7 (b) Provided that the change is not made for a fraudulent criminal or wrongful purpose,
+8 the name of each party after marriage as indicated on the marriage application worksheet and
+9 marriage license shall become the sole legal name of each party after marriage. If a party indicates
+10 a name change other than as described in subparagraph (a), the party shall request approval of the
+11 court.
+12 III. The clerk of the town or city shall complete the following statistical and legal
+13 informationonthemarriageapplicationworksheetforboththeapplicantswithinformationsupplied
+14 by the applicants: the number which represents the currently intended marriage; if previously
+15 married, whether a civil annulment occurred or the marriage ended by death or divorce; the date of
+16 civil annulment or that the last marriage ended; whether proof of age of the applicants was
+17 demonstrated using identification with photograph; if applicable, the divorce decree; and, if
+18 applicable,thedeathrecordoftheformerspouse.
+19 IV. The [bride and groom]marriage applicants shall record the following on the marriage
+20 application worksheet after the clerk of the town or city completes information on the application
+21 worksheet as described in paragraph III: the date and the city or town where the marriage is
+22 intended to take place, if known; the name and address of the officiant for the marriage ceremony, if
+23 known; the [groom's] marriage applicants' mailing [address] addresses and phone
+24 [number]numbers;[ the bride's mailing address and phone number;] the [groom's] marriage
+25 applicants' [signature] signatures and date signed; [the bride's signature and date signed;] and
+26 certification that the information provided is correct to the best of his or her knowledge and belief
+27 andthatheorsheisfreetomarryunderthelawsofNewHampshire.
+28 V. Once all of theinformationon themarriageapplicationworksheet has beenobtained, the
+29 clerk of the town or city shall transfer the information as listed in paragraphs II and III from the
+30 marriage application worksheet to the marriage license as well as record the following information
+31 on the marriage license: the date that the marriage license is issued, the signature of the clerk, and
+32 thenameofthecityortownofissuance.
+33 VI. Pursuant to RSA 457:26, the date that the marriage license is issued shall be not more
+34 than90daysfromthedatethatmarriageintentionswerefiled.
+35 VII. Uponrequest of[thegroom] either marriage applicant, thename of alegal guardian
+36 shall be substituted on the marriage license for a natural parent's name, regardless of whether the
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 [groom] marriage applicant who makes the request is of legal age at thetime when intentions are
+2 beingfiled.
+3 [VIII. Upon request of the bride, the name of a legal guardian shall be substituted on the
+4 marriagelicenseforanaturalparent'sname,regardlessofwhetherthebridewhomakestherequest
+5 isoflegalageatthetimewhenintentionsarebeingfiled.]
+6 [IX.]VIII. Thesubstitutionofstepparents'namesshallnotbepermitted.
+7 [X.] IX. Persons entering dates on the marriage license shall use the full or abbreviated
+8 nameofthemonthratherthannumerals.
+9 [XI.] X. When listing the birthplace on the marriage license, if the person is known to have
+10 been born in the United States, but the state is unknown then "U.S.-Unknown" shall be entered,
+11 and, if the person is known to have been born in a foreign country, but the country is unknown,
+12 "ForeignUnknown"shallbeentered.
+13 [XII.]XI. Ifnoinformationisavailableregardingplaceofbirth,"Unknown"shallbeentered.
+14 [XIII.] XII. The prospective [bride and groom]marriage applicants shall review the
+15 information on the marriage license for completeness and accuracy prior to signing the marriage
+16 license.
+17 [XIV.]XIII. Repealed.
+18 [XV.] XIV. The officiant shall record the following on the marriage license after the
+19 marriage ceremony has taken place: certification that he or she is duly authorized to solemnize the
+20 marriage in accordance with RSA 457; the officiant's status, pursuant to RSA 457:31; the date of the
+21 marriage ceremony; the city, town or location and county where the couple were married;
+22 certification that the [bride and groom]marriage applicants were married by the officiant in
+23 conformance with RSA 457 and that the information noted is correct to the best of his or her
+24 knowledge; the signature of the officiant; the officiant's typed or printed name; the officiant's title
+25 andaddress;andanindicationofwhethertheceremonywasreligiousorcivil.
+26 [XVI.]XV. Thedatethemarriagelicenseisreceivedbytheclerkofthetownorcityfromthe
+27 officiantshallberecordedonthemarriagecertificateasthedatethemarriageregistrationisfiled.
+28 [XVII.] XVI. The marriage license shall include the signature of the clerk of the town or city
+29 andthenameofthetownorcity.
+30 3 MarriageLicenseandRegistration. AmendRSA5-C:42,Vtoreadasfollows:
+31 V. If either partyor bothis a member of the armed forces and is unable to appear in person,
+32 the following shall apply: the armed services' legal representative shall prepare the marriage
+33 application worksheet; the completed application worksheet shall be signed by the service person;
+34 the armed services' legal representative, company commander or other superior officer, shall sign a
+35 statement attesting that the information provided is correct; the service person, if unable to appear,
+36 shall submit a signed statement authorizing the non-service person to sign for both the [bride and
+37 groom]marriage applicants; the completed application, and signed releaseif applicable, shall then
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 be forwarded to the clerk of the town or city who issued the application; when the application
+2 worksheet is received by the clerk of the town or city, it shall then be used as an acceptable
+3 substitute for the personal appearance of the service person; the license shall then be prepared
+4 pursuant to RSA 5-C:41 with the non-service applicant being permitted to sign the license for both
+5 the [bride and groom] marriage applicants; and the application worksheet received from the
+6 servicepersonshallberetainedpermanentlybytheclerkofthetownorcity.
+7 4 MarriageLicenseandRegistration. AmendRSA5-C:42,XIVtoreadasfollows:
+8 XIV. The date of the signing of the worksheet by either [the bride or groom] marriage
+9 applicant, or the earlier of 2 dates if applicable, shall be used by the clerk of the town or city to
+10 indicate when the intention of marriage was received and recorded and the date to be used to
+11 establish the beginning of the time period during which the license shall be valid. The marriage
+12 license shall be valid pursuant to RSA 457:26 for not more than 90 days from the date the marriage
+13 intentions were filed. When 90 days have elapsed from the date the marriage intentions were filed
+14 and a completed marriage certificate or a delayed certificate of marriage has not been processed, the
+15 clerk of the town or city shall make a notation on the marriage application worksheet stating the
+16 marriage presumably did not take place. In the case where the marriage certificate is received
+17 within 6 months of the end of the 90-day period, the clerk of the town or city shall remove the
+18 notationand issue thecertificate. Inthecasewhere themarriagecertificateis received morethan6
+19 months after the end of the 90-day period, the clerk of the town or city shall follow the procedure for
+20 issuingadelayedcertificateofmarriage.
+21 5 Distribution of the Marriage License. Amend RSA 5-C:43 Distribution of the Marriage
+22 Licensetoreadasfollows:
+23 5-C:43 Distribution of the Marriage License. After the clerk of a town or city has forwarded the
+24 completed marriage license to the division, the registrar shall give the original to the prospective
+25 [bride and groom] marriage applicants. A marriage license may be mailed to the [bride or groom]
+26 marriage applicants if mailed via certified mail with return receipt requested and the cost for the
+27 certified mail handling shall be paid by the applicants. The [bride and groom] marriage
+28 applicantsshallprovidethemarriagelicensetotheofficiantpriortothemarriageceremony.
+29 6 OfficiantResponsibilities. AmendRSA5-C:49,VItoreadasfollows:
+30 VI. In accordance with paragraph I, the officiant shall report the fact that a marriage has
+31 taken place, even if the [bride and groom] marriage applicants have a change of mind after the
+32 ceremonyandasktheofficiantnottoreportthemarriagetotheclerkofthetownorcity. Thedateof
+33 themarriageshallbethedatethattheceremonytookplace.
+34 7 Marriage Registration Forms and Procedures; Delayed Certificate of Marriage Filing. Amend
+35 RSA5-C:52toreadasfollows:
+36 5-C:52 DelayedCertificateofMarriage.
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 I. The registration of a marriage after 6 months from the actual date of the marriage shall
+2 beaccomplishedusingaregularcertificateofmarriage,completedinaccordancewithRSA5-C:42.
+3 II. Registration of marriage pursuant to paragraph I requires that an application for a
+4 delayed certificate of marriage be initiated by the [bride, groom] marriage applicants, or their
+5 legal representative with the clerk of the town or city where the marriage license was allegedly
+6 issued. Thefilingfeeforadelayedcertificateofmarriageshallbe$25payabletothecityor
+7 town clerk, to be retained by the city or town. To be acceptable for registration by the state
+8 registrar, the delayed certificate of marriage shall be supported by a copy of the marriage worksheet
+9 application, if available, obtained from the clerk of the town or city where the intentions were filed
+10 andatleast2ofthefollowing:
+11 (a) An affidavit from the officiant, if obtainable, stating that he or she had officiated at
+12 theweddinginquestion.
+13 (b) A copy of the marriage certificate signed by the officiant and given to the married
+14 coupleaftertheallegedceremony.
+15 (c) Oneormorecopiesofnewspaperaccountsoftheweddinginquestion.
+16 (d) A copy of a city or town report showing that the marriage in question was listed
+17 therein.
+18 (e) Acertifiedcopyofadivorcedecreedissolvingthemarriageinquestion.
+19 (f) Pictures of the wedding ceremony accompanied by a notarized affidavit by, but not
+20 limited to, the best man, maid of honor, mother or father of [the bride or groom] either marriage
+21 applicant,orbridesmaids,testifyingtothepersonsshowninthepictures.
+22 (g) Notarized affidavits from other members of the wedding party including participants
+23 andwitnesses.
+24 (h) Acensusbureaureportontheapplicant'shouseholddemonstratingmaritalstatus.
+25 III. When evidence as cited in paragraph II is presented to the clerk of the town or city, he
+26 or she shall initiate preparation of a new marriage certificate. The marriage certificate shall be a
+27 replica of the original when possible, showing all dates and related information, and signatures of
+28 the[brideandgroom]marriageapplicantsshallbeobtainedbytheclerkofthetownorcityonthe
+29 newmarriagerecord.
+30 8 Marriage Registration Forms and Procedures; Delayed Certificate of Marriage Procedures.
+31 AmendRSA5-C:53,IIItoreadasfollows:
+32 III. The clerk of the town or city shall send the completed form and all original supporting
+33 documentation to the division after his or her signature has been affixed. A copy of the completed
+34 form shall be retained by the clerk of the town or city and a copy shall be sent to the [bride and
+35 groom]marriageapplicants.
+36 9 Marriage Registration Forms and Procedures; Application for and Preparation of a Certified
+37 CopyofaMarriageCertificate. AmendRSA5-C:57toreadasfollows:
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 5-C:57 ApplicationforandPreparationofaCertifiedCopyofaMarriageCertificate.
+2 I. The following information shall be provided on an application for certified copy of
+3 marriagerecord,beforeacertifiedcopyisissued:
+4 (a) [The groom's full name and the bride's full maiden name] The full name of both
+5 marriageapplicants,includinganypriorsurnameifdifferentfromthecurrentname.
+6 (b) Thedateofmarriage.
+7 (c) Theplaceofmarriage.
+8 (d) Thepurposeforwhichthecertificateisrequested.
+9 (e) Theapplicant'ssignature.
+10 (f) Theapplicant'srelationshiptothe[brideandgroom]marriageapplicants.
+11 (g) Theapplicant'sname,address,andtelephonenumber.
+12 II. Theapplicantshalldemonstrateadirectandtangibleinterestintherecord.
+13 10 False Information on the Marriage Application Worksheet. Amend RSA 5-C:91, I to read as
+14 follows:
+15 I. Ifitbecomesknowntotheclerkofthetownorcitywhohasissuedamarriagelicensethat
+16 false information was given on the worksheet and included on the license, or if the clerk discovers
+17 information that is known to be incorrect because of inconsistencies with other records, the clerk
+18 shall notify the [bride and groom]marriage applicants and, if appropriate, the officiant, by
+19 certified mail of the inconsistency and request that they respond in writing within 30 days. The
+20 clerk shall also request that they attach to the response letter any information which will assist in
+21 correcting the worksheet information; send a copy of the letter to the division; and prepare the
+22 appropriateformunderRSA5-C:85tocorrectthevitalrecord.
+23 11 Registrar'sDuties;MarriageLicenses. AmendRSA5-C:97,Itoreadasfollows:
+24 I. If the marriage license issued to the prospective [bride and groom]marriage applicants
+25 isnotusedforanyreason,itshallbereturnedtotheclerkofthetownorcityofissuance.
+26 12 Disclosure of Information to Individuals; Direct and Tangible Interest. Amend RSA 5-C:102,
+27 XItoreadasfollows:
+28 XI. When publishing information regarding vital record events for statistical purposes in
+29 city or town reports, the following procedure shall apply. A written request from a resident that a
+30 particular vital event be omitted from the city or town report shall always be granted. A written
+31 request from a resident registrant that a certain event be published in the city or town report,
+32 including the birth of a child to a unwed mother, shall be granted. Items included in a city or town
+33 reportforbirthshallbelimitedto: thechild'sname;thenameofthefather;thenameofthemother;
+34 the place of birth; and, the date of birth. Items included in a city or town report for death shall be
+35 limited to: the name of deceased; the place of death; the name of the father; the maiden name of the
+36 mother; and the date of death. Items included in a city or town report for marriage shall be limited
+
+HB1260-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 to: [thegroom'snameandplaceofresidence;thebride'snameandplaceofresidence]themarriage
+2 applicants'namesandplaceofresidence;andthedateofthemarriageceremony.
+3 13 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2430
+3/6/26
+HB1260-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0693h)
+ANACT relativetomarriageregistrationformsanddelayedcertificatesofmarriage.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+None

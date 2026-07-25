@@ -1,0 +1,279 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER228
+HB1502-FINALVERSION
+4Jun2026...2139EBA
+2026SESSION
+26-2491
+07/09
+1502
+HOUSEBILL
+ANACT governingspecialbankandcredituniondeposits.
+SPONSORS: Rep.Hunt,Ches.14
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill regulates deposits held at banks and credit unions that are used for a specific, contingent
+purposeonbehalfofabeneficiary.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER228
+HB1502-FINALVERSION
+4Jun2026...2139EBA 26-2491
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT governingspecialbankandcredituniondeposits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 228:1 NewChapter;UniformSpecialDepositsAct. AmendRSAbyinsertingafterchapter384-Gthe
+2 followingnewchapter:
+3 CHAPTER384-H
+4 UNIFORMSPECIALDEPOSITSACT
+5 384-H:1 ShortTitle. Thischaptermaybeknownandcitedasthe"UniformSpecialDepositsAct".
+6 384-H:2 Definitions. Inthischapter:
+7 I. “Accountagreement”meansanagreementthat:
+8 (a) Isinarecordbetweenabankandoneormoredepositors;
+9 (b) Mayhaveoneormorebeneficiariesasadditionalparties;and
+10 (c) Statestheintentionofthepartiestoestablishaspecialdepositgovernedbythischapter.
+11 II. “Bank” means a person engaged in the business of banking and includes a savings bank,
+12 savings and loan association, and credit union. The term includes a bank as defined in RSA 383-A:2-
+13 201(a)(3).Eachbranchorseparateofficeofabankisaseparatebankforthepurposeofthischapter.
+14 III. “Beneficiary”meansapersonthat:
+15 (a) Isidentifiedasabeneficiaryinanaccountagreement;or
+16 (b) If not identified as a beneficiary in an account agreement, may be entitled to payment
+17 fromaspecialdeposit:
+18 (1) Undertheaccountagreement;or
+19 (2) Onterminationofthespecialdeposit.
+20 IV. “Contingency” means an event or circumstance stated in an account agreement that is not
+21 certaintooccurbutmustoccurbeforethebankisobligatedtopayabeneficiary.
+22 V. “Creditor process” means attachment, garnishment, levy, notice of lien, sequestration, or
+23 similarprocessissuedbyoronbehalfofacreditororotherclaimant.
+24 VI. “Depositor”meansapersonthatestablishesorfundsaspecialdeposit.
+25 VII. “Good faith” means honesty in fact and observance of reasonable commercial standards of
+26 fairdealing.
+27 VIII. “Knowledge”ofafactmeans:
+28 (a) Withrespecttoabeneficiary,actualknowledgeofthefact;or
+29 (b) Withrespecttoabankholdingaspecialdeposit:
+30 (1) Ifthebank:
+31 (A) Has established a reasonable routine for communicating material information to
+32 anindividualtowhomthebankhasassignedresponsibilityforthespecialdeposit;and
+
+CHAPTER228
+HB1502-FINALVERSION
+-Page2-
+1 (B) Maintains reasonable compliance with the routine, actual knowledge of the fact
+2 bythatindividual;or
+3 (2) If thebankhasnot establishedandmaintainedreasonablecompliancewitharoutine
+4 describedinsubparagraph(1)(A)orotherwiseexercisedduediligence,impliedknowledgeofthefactthat
+5 would have come to the attention of an individual to whom the bank has assigned responsibility for the
+6 specialdeposit.
+7 IX. “Obligated to pay abeneficiary” means a beneficiary isentitled under the account agreement
+8 toreceivefromthebankapaymentwhen:
+9 (a) Acontingencyhasoccurred;and
+10 (b) Thebankhasknowledgethecontingencyhasoccurred.
+11 IX-a. “Obligationtopayabeneficiary”hasacorrespondingmeaningtothedefinitionof"obligated
+12 topayabeneficiary"underparagraphIX.
+13 X. “Permissible purpose” means a governmental, regulatory, commercial, charitable, or
+14 testamentaryobjectiveofthepartiesstatedinanaccountagreement. Thetermincludesanobjectiveto:
+15 (a) Holdfunds:
+16 (1) Inescrow,includingforapurchaseandsale,lease,buyback,orothertransaction;
+17 (2) Asasecuritydepositofatenant;
+18 (3) That may be distributed to a person as remuneration, retirement or other benefit, or
+19 compensationunderajudgment,consentdecree,courtorder,orotherdecisionofatribunal;or
+20 (4) Fordistributiontoadefinedclassofpersonsafteridentificationoftheclassmembers
+21 andtheirinterestinthefunds;
+22 (b) Provide assurance with respect to an obligation created by contract, such as earnest
+23 moneytoensureatransactioncloses;
+24 (c) Settleanobligationthatarisesintheoperationofapaymentsystem,securitiessettlement
+25 system,orotherfinancialmarketinfrastructure;
+26 (d) Provide assurance with respect to an obligation that arises in the operation of a payment
+27 system,securitiessettlementsystem,orotherfinancialmarketinfrastructure;or
+28 (e) Hold margin, other cash collateral, or funds that support the orderly functioning of
+29 financialmarketinfrastructureortheperformanceofanobligationwithrespecttotheinfrastructure.
+30 XI. “Person” means an individual, estate, business or nonprofit entity, government or
+31 governmental subdivision, agency, or instrumentality, or other legal entity. The term includes a protected
+32 series, however denominated, of an entity if the protected series is established under law that limits, or
+33 limits if conditions specified under law are satisfied, the ability of a creditor of the entity or of any other
+34 protectedseriesoftheentitytosatisfyaclaimfromassetsoftheprotectedseries.
+35 XII. “Record”meansinformation:
+36 (a) Inscribedonatangiblemedium;or
+37 (b) Storedinanelectronicorothermediumandretrievableinperceivableform.
+38 XIII. “Special deposit” means a deposit that satisfies RSA 384-H:5. The term shall not include a
+39 “specialdeposit”withinthemeaningofRSA383-B:6-602.
+
+CHAPTER228
+HB1502-FINALVERSION
+-Page3-
+1 XIV. “State”meansastateoftheUnitedStates,theDistrictofColumbia,PuertoRico,theUnited
+2 States Virgin Islands, or any other territory or possession subject to the jurisdiction of the United States.
+3 Thetermincludesanagencyorinstrumentalityofthestate.
+4 384-H:3 Scope;ChoiceofLaw;Forum.
+5 I. This chapter shall apply to a special deposit under an account agreement that states the
+6 intention of the parties to establish a special deposit governed by this chapter, regardless of whether a
+7 partytotheaccountagreementoratransactionrelatedtothespecialdeposit,orthespecialdeposititself,
+8 hasareasonablerelationtothisstate.
+9 II. The parties to an account agreement may choose a forum in this state for settling a dispute
+10 arisingoutofthespecialdeposit,regardlessofwhetherapartytotheaccountagreementoratransaction
+11 relatedtothespecialdeposit,orthespecialdeposititself,hasareasonablerelationtothisstate.
+12 III. Thissectionshallnotaffect:
+13 (a) A right or obligation relating to a deposit other than a special deposit under this chapter;
+14 or
+15 (b) Thevoidabilityofadepositortransferthatisfraudulentorvoidableunderanyotherlaw.
+16 384-H:4 VariationbyAgreementorAmendment.
+17 I. The effects of RSA 384-H:2 through 384-H:6, 384-H:8 through 384-H:11, and 384-H:14 shall
+18 not be varied by agreement, except as provided in those sections. Subject to paragraph II, the effects of
+19 RSA384-H:7,384-H:12,and384-H:13maybevariedbyagreement.
+20 II. A provision in an account agreement or other record that substantially excuses liability or
+21 substantially limits remedies for failure to perform an obligation under this chapter shall be insufficient to
+22 varytheeffectofaprovisionofthischapter.
+23 III. Ifabeneficiaryisapartytoanaccountagreement,thebankandthedepositormayamendthe
+24 agreementwithouttheconsentofthebeneficiaryonlyiftheagreementexpresslypermitstheamendment.
+25 IV. If a beneficiary is not a party to an account agreement and the bank and the depositor know
+26 the beneficiary has knowledge of the agreement’s terms, the bank and the depositor may amend the
+27 agreementwithouttheconsentofthebeneficiaryonlyiftheamendmentdoesnotadverselyandmaterially
+28 affectapaymentrightofthebeneficiary.
+29 V. If a beneficiary is not a party to an account agreement and the bank and the depositor do not
+30 know whether the beneficiary has knowledge of the agreement’s terms, the bank and the depositor may
+31 amendtheagreementwithouttheconsentofthebeneficiaryonlyiftheamendmentismadeingoodfaith.
+32 384-H:5 RequirementsforSpecialDeposit. Adepositshallqualifyasaspecialdepositifitis:
+33 I. Adepositoffundsinabankunderanaccountagreement;
+34 II. Forthebenefitofatleast2beneficiaries,oneormoreofwhichmaybeadepositor;
+35 III. Denominated in a medium of exchange that is currently authorized or adopted by a domestic
+36 orforeigngovernment;
+37 IV. Forapermissiblepurposestatedintheaccountagreement;and
+38 V. Subjecttoacontingency.
+39 384-H:6 PermissiblePurpose.
+
+CHAPTER228
+HB1502-FINALVERSION
+-Page4-
+1 I. Aspecialdepositshallserveatleastonepermissiblepurposestatedintheaccountagreement
+2 from the time the special deposit is created in the account agreement until termination of the special
+3 deposit.
+4 II. If,beforeterminationofthespecialdeposit,thebankoracourtdeterminesthespecialdeposit
+5 no longer satisfies paragraph I, RSA 384-H:8 through RSA 384-H:11 shall cease to apply to any funds
+6 depositedinthespecialdepositafterthespecialdepositceasestosatisfyparagraphI.
+7 III. If, before termination of a special deposit, the bank determines the special deposit no longer
+8 satisfiesparagraphI,thebankmaytakeactionitbelievesisnecessaryunderthecircumstances,including
+9 terminatingthespecialdeposit.
+10 384-H:7 PaymenttoBeneficiarybyBank.
+11 I. Unless the account agreement provides otherwise, the bank shall be obligated to pay a
+12 beneficiaryiftherearesufficientactuallyandfinallycollectedfundsinthebalanceofthespecialdeposit.
+13 II. ExceptasprovidedinparagraphIII,theobligationtopaythebeneficiaryshallbeexcusedifthe
+14 fundsavailableinthespecialdepositareinsufficienttocoversuchpayment.
+15 III. Unlesstheaccountagreementprovidesotherwise,ifthefundsavailableinthespecialdeposit
+16 are insufficient to cover an obligation to pay a beneficiary, a beneficiary may elect to be paid the funds
+17 that are available or, if there is more than one beneficiary, a pro rata share of the funds available.
+18 Paymenttothebeneficiarymakingtheelectionunderthisparagraphshalldischargethebank’sobligation
+19 to pay a beneficiary and shall not constitute an accord and satisfaction with respect to another person
+20 obligatedtothebeneficiary.
+21 IV. Unlesstheaccountagreementprovidesotherwise,theobligationofthebankobligatedtopay
+22 abeneficiaryshallbeimmediatelydueandpayable.
+23 V. Thebankmaydischargeitsobligationunderthissectionby:
+24 (a) Creditinganothertransactionaccountofthebeneficiary;or
+25 (b) Takingotheractionthat:
+26 (1) Ispermittedundertheaccountagreementforthebanktoobtainadischarge;or
+27 (2) Otherwisewouldconstituteadischargeunderlaw.
+28 VI. If the bank obligated to pay a beneficiary has incurred an obligation to discharge the
+29 obligation of another person, the obligation of the other person shall be discharged if action by the bank
+30 under paragraph V would constitute a discharge of the obligation of the other person under law that
+31 determineswhetheranobligationissatisfied.
+32 384-H:8 PropertyInterestofDepositororBeneficiary.
+33 I. Neitheradepositornorabeneficiaryshallhaveapropertyinterestinaspecialdeposit.
+34 II. Any property interest with respect to a special deposit shall be only in the right to receive
+35 payment if the bank is obligated to pay a beneficiary and not in the special deposit itself. Any property
+36 interestunderthisparagraphisdeterminedunderotherlaw.
+37 384-H:9 WhenCreditorProcessEnforceableAgainstBank.
+38 I. Subject to paragraph II, creditor process with respect to a special deposit shall not be
+39 enforceableagainstthebankholdingthespecialdeposit.
+
+CHAPTER228
+HB1502-FINALVERSION
+-Page5-
+1 II. Creditor process shall be enforceable against the bank holding a special deposit with respect
+2 toanamountthebankisobligatedtopayabeneficiaryoradepositoriftheprocess:
+3 (a) Isservedonthebank;
+4 (b) Provides sufficient information to permit the bank to identify the depositor or the
+5 beneficiaryfromthebank’sbooksandrecords;and
+6 (c) Givesthebankareasonableopportunitytoactontheprocess.
+7 III. Creditorprocessservedonabankbeforeitisenforceableagainstthatbankunderparagraph
+8 II shall not create a right of the creditor against the bank or a duty of the bank to the creditor. Other law
+9 shall determine whether creditor process creates a lien enforceable against the beneficiary on a
+10 contingentinterest ofabeneficiary,includingadepositor asabeneficiary,evenifnot enforceableagainst
+11 thebank.
+12 384-H:10 Injunction or Similar Relief. A court may enjoin, or grant similar relief that would have the
+13 effect of enjoining, a bank from paying a depositor or beneficiary only if payment would constitute a
+14 materialfraudorfacilitateamaterialfraudwithrespecttoaspecialdeposit.
+15 384-H:11 RecoupmentorSetOff.
+16 I. Except asprovided inparagraphII or III, abankshall not exercise aright of recoupment or set
+17 offagainstaspecialdeposit.
+18 II. Anaccountagreementmayauthorizethebanktodebitthespecialdeposit:
+19 (a) When the bank becomes obligated to pay a beneficiary, in an amount that does not
+20 exceedtheamountnecessarytodischargetheobligation;
+21 (b) Forafeeassessedbythebankthatrelatestoanoverdraftinthespecialdepositaccount;
+22 (c) Forcostsincurredbythebankthatrelatedirectlytothespecialdeposit;or
+23 (d) To reverse an earlier credit posted by the bank to the balance of the special deposit
+24 account, if the reversal occurs under an event or circumstance warranted under other law of this state
+25 governingmistakeandrestitution.
+26 III. The bank holding a special deposit may exercise a right of recoupment or set off against an
+27 obligationtopayabeneficiary,evenifthebankfundspaymentfromthespecialdeposit.
+28 384-H:12 DutiesandLiabilityofBank.
+29 I. Abankshallnothaveafiduciarydutytoanypersonwithrespecttoaspecialdeposit.
+30 II. When a bank holding a special deposit becomes obligated to pay a beneficiary, a debtor-
+31 creditorrelationshipshallarisebetweenthebankandbeneficiary.
+32 III. Abankholdingaspecialdepositshallhaveadutytoabeneficiarytocomplywiththeaccount
+33 agreementandthischapter.
+34 IV. If a bank holding a special deposit does not comply with the account agreement or this
+35 chapter,thebankshallbeliabletoadepositororbeneficiaryonlyfordamagesproximatelycausedbythe
+36 noncompliance. Except as provided by other law of this state, the bank shall not be liable for
+37 consequential,special,orpunitivedamages.
+38 V. A bank holding a special deposit may rely on records presented in compliance with the
+39 accountagreementtodeterminewhetherthebankisobligatedtopayabeneficiary.
+
+CHAPTER228
+HB1502-FINALVERSION
+-Page6-
+1 VI. If the account agreement requires payment on presentation of a record, a bank shall
+2 determine within a reasonable time whether the record is sufficient to require payment. If the agreement
+3 requires action by the bank on presentation of a record, the bank shall not be liable for relying in good
+4 faithonthegenuinenessoftherecordiftherecordappearsonitsfacetobegenuine.
+5 VII. Unlesstheaccountagreementprovidesotherwise,abankshallnotberequiredtodetermine
+6 whetherapermissiblepurposestatedintheagreementcontinuestoexist.
+7 384-H:13 TermandTermination.
+8 I. Unless otherwise provided inthe account agreement, a special deposit shall terminate 5 years
+9 afterthedatethespecialdepositwasfirstfunded.
+10 II. Unless otherwise provided in the account agreement, if the bank cannot identify or locate a
+11 beneficiary entitled to payment when the special deposit is terminated, and a balance remains in the
+12 special deposit, the bank shall pay the balance to the depositor or depositors as a beneficiary or
+13 beneficiaries.
+14 III. A bank that pays the remaining balance as provided in this chapter has no further obligation
+15 withrespecttothespecialdeposit.
+16 384-H:14 Principles of Law and Equity. The Uniform Commercial Code, RSA 382-A:9-101 to 382-
+17 A:9-628,andlawgoverningconsumerprotection,lawgoverningdepositsgenerally,lawrelatedtoescheat
+18 and abandoned or unclaimed property, and the principles of law and equity, including law related to
+19 capacity to contract, principal and agent, estoppel, fraud, misrepresentation, duress, coercion, mistake,
+20 andbankruptcy,maysupplementthischapterexcepttotheextentinconsistentwiththischapter.
+21 384-H:15 Uniformity of Application and Construction. In applying and construing this uniform act, a
+22 courtshallconsiderthepromotionofuniformityofthelawamongjurisdictionsthatenactit.
+23 384-H:16 TransitionalProvision. Thischaptershallapplyto:
+24 I. A special deposit made under an account agreement executed on or after the effective date of
+25 thischapter;and
+26 II. Adepositmadeunderanagreementexecutedbeforetheeffectivedateofthischapter,if:
+27 (a) All parties entitled to amend the agreement agree to make the deposit a special deposit
+28 governedbythischapter;and
+29 (b) ThespecialdepositreferencedintheamendedagreementsatisfiesRSA384-H:5.
+30 384-H:17 Severability. The provisions of this chapter shall be severable. If any provision of this
+31 chapter or its application is held invalid, that invalidity shall not affect other provisions or applications that
+32 canbegiveneffectwithouttheinvalidprovisionorapplication.
+228:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July02,2026
+EffectiveDate:August31,2026

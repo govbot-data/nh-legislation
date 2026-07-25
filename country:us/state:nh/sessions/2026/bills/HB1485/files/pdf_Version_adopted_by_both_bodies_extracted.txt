@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1485-FN-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2687
+06/08
+1485-FN
+HOUSEBILL
+ANACT relativetoeligibilityandfeesforlaterefundrequestsofroadtolls.
+SPONSORS: Rep.Cormen,Graf.15
+COMMITTEE: PublicWorksandHighways
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies that agencies of political subdivisions within the state may receive a waiver of
+filing deadlines for just cause without being subject to the associated fee, and limits such waivers to
+onceevery3yearsperrequester.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1485-FN-VERSIONADOPTEDBYBOTHBODIES
+26-2687
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoeligibilityandfeesforlaterefundrequestsofroadtolls.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Refunds. AmendRSA260:47,III(a)(1)(B)toreadasfollows:
+2 (B) These filing deadlines may be waived by the commissioner for just cause [for
+3 agencies of political subdivisions within the state]. When a waiver is granted, a fee shall be
+4 assessed amounting to 5 percent of the amount of the refund or 50 dollars, whichever is
+5 greater. No fee shall be assessed to an agency of a political subdivision within the state.
+6 The waiver shall not be granted toany [such agency] particular requester moreoften than once in
+7 3years.
+8 2 EffectiveDate. Thisactshalltakeeffect30daysafterpassage.
+
+LBA
+26-2687
+11/30/25
+HB1485-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoeligibilityandfeesforlaterefundrequestsofroadtolls.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) HighwayFund
+Expenditures* $0 $13,800 $0 $0
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill would allow any entity, not just political subdivisions within the state, to apply for a
+waiver to the current road toll refund filing deadlines. When a waiver request is granted for an
+entity other than a political subdivision within the state, a fee of 5% of the amount of the refund
+or $50, whichever is greater, would be assessed. The waiver shall not be granted to any
+requester moreoften thanonce in threeyears. The Department of Safetystates it would incur a
+one-time system change cost of $13,800 in FY 2027 to implement the provisions of this bill. Any
+impactthisbillmayhaveonstaterevenueisindeterminableasitcannotbepredictedhowmany
+filingdeadlinesmaybemissed,andhowmanywaiversmayberequestedandapproved.
+AGENCIESCONTACTED:
+DepartmentofSafety

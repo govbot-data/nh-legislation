@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1036 -ASINTRODUCED
+2026SESSION
+26-2797
+09/08
+1036
+HOUSEBILL
+ANACT relativetothemaximumdurationoftermalimony.
+SPONSORS: Rep. Vose, Rock. 5; Rep. DeSimone, Rock. 18; Rep. Kofalt, Hills. 32; Rep. Kuttab,
+Rock.17;Rep.Lynn,Rock.17
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill limits the maximum duration of term alimony that a court can set absent agreement by
+thepartiesortheinterestofjusticeto8years.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1036-ASINTRODUCED
+26-2797
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothemaximumdurationoftermalimony.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 TermAlimony;MaximumTerm. AmendRSA458:19-atoreadasfollows:
+2 III. The maximum duration of term alimony shall be 50 percent of the length of the
+3 marriage, but not to exceed 8 years, unless the parties agree otherwise or the court finds that
+4 justicerequiresanadjustmentunderparagraphIV. Ifjusticerequires,thecourtmayuseadifferent
+5 beginning or ending date in measuring the length of the marriage. Term alimony shall end on the
+6 remarriage of the payee, unless the order is based on an agreement of the parties that provides
+7 otherwise.
+8 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

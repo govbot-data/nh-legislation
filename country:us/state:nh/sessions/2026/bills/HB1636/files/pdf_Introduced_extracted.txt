@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1636-FN-ASINTRODUCED
+2026SESSION
+26-3019
+12/09
+1636-FN
+HOUSEBILL
+ANACT directing the department of revenue administration to study options for
+generatingstaterevenue.
+SPONSORS: Rep.Oppel,Graf.9
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresthedepartmentofrevenueadministrationtostudyoptionsforgeneratingstate
+revenue and directs the department to submit to certain entities and the public a report detailing a
+menuofrevenueoptionstoraiseadditionalstatefunds.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1636-FN-ASINTRODUCED
+26-3019
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT directing the department of revenue administration to study options for
+generatingstaterevenue.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ReportRequired.
+2 I. On or before October 1, 2026, the department of revenue administration shall submit to
+3 the speaker of the house of representatives, the president of the senate, the chairs and ranking
+4 members of the house and senate ways and means committees, the minority party leaders in the
+5 house and senate, and publish publicly a report detailing a menu of revenue options to raise
+6 additional state funds and the impacts such changes would have on residents and households by
+7 incomegroup.
+8 II. The report shall present not fewer than 5 distinct options, each of which may be a
+9 package containing one or more taxes, that, if fully implemented, are estimated to raise at least
+10 $500,000,000perstatefiscalyeartopayforthe“minimumconservativethreshold”baseadequacyas
+11 ruled by the New Hampshire supreme court. Options may include modifications to existing taxes as
+12 wellastaxesorotherrevenuesourcesnotcurrentlyimposedorrelieduponinNewHampshire.
+13 III. Foreachoptionorpackage,thedepartmentshallprovide:
+14 (a) A plain-language description of the tax base, rate or rates, proposed or possible
+15 exemptionsandexclusions,effectivedates,andanyphase-inrequirements;
+16 (b) An estimated annual revenue yield for the first full fiscal year and steady state, with
+17 keyassumptions;
+18 (c) An administration and compliance assessment, including data needs, systems,
+19 enforcement,andtheburdenontaxpayers;
+20 (d) A summary of all legal considerations, including any potential constitutional issues
+21 andinteractionswithexistingstatutes;
+22 (e) A distributional or “tax incidence” analysis showing the impact on New Hampshire
+23 residenthouseholdsbyincomedecile,and,ifreasonable,byrenterandownerstatus;
+24 (f) A distributional or “tax incidence” analysis showing the impact on New Hampshire
+25 businessesbysizeandindustry,includingthemethodologyandincidenceassumptions;
+26 (g) Identification of specific exemptions or rebates that could alter the impact of each
+27 optionorpackageonlowandmoderateincomeresidents;and
+28 (h) Identificationofsignificantmunicipalimpactsorinteractionswithdedicatedfunds.
+
+HB1636-FN-ASINTRODUCED
+-Page2-
+1 IV. In conducting distributional analysis, the department shall use the broadest feasible
+2 measure of economic income, disclose assumptions, and, where necessary, may contract with
+3 academicorprofessionalentitiestoperformtheanalysis.
+4 V. Nothing in this legislation authorizes the disclosure of confidential taxpayer information.
+5 Analysescreatedpursuanttothislegislationshallrelyonaggregatedoranonymizeddata.
+6 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3019
+12/3/25
+HB1636-FN-FISCALNOTE
+ASINTRODUCED
+ANACT directing the department of revenue administration to study options for
+generatingstaterevenue.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$175,000-
+Expenditures* $0 $0 $0
+$600,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Thisbill directstheDepartment ofRevenue Administrationtostudyoptionsfor generatingstate
+revenue at least $500,000,000 per fiscal year and publish a report detailing a menu of revenue
+options to raise additional state funds and the impacts such changes would have on residents
+and households by income group. Additionally, it authorizes DRA to contract with academic or
+professionalentitiestoperformthenecessaryanalysis.
+The Department of Revenue Administration has indicated that it currently lacks the internal
+resources necessary to conduct the study and produce the required report. As a result, the
+Department would need to engage external consultants to fulfill the reporting requirement.
+Preliminary estimates from two consultants suggest costs ranging from $175,000 to $600,000 to
+meet the reporting deadline of October 1, 2026. To obtain a more accurate and competitive cost
+estimate,aRequestforProposal(RFP)processwouldbenecessary.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

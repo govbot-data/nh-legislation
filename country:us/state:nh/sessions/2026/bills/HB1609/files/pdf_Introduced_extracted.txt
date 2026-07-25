@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1609-FN-ASINTRODUCED
+2026SESSION
+26-2436
+09/06
+1609-FN
+HOUSEBILL
+ANACT limiting the use of state, county, and municipal funds and property for
+constructionandoperationofcertainimmigrantdetentionfacilities.
+SPONSORS: Rep. Meuse, Rock. 37; Rep. Bay, Straf. 21; Rep. N. Germana, Ches. 15; Rep. A.
+Murray, Hills. 20; Rep. Scherr, Rock. 26; Rep. Seibert, Hills. 21; Sen. Perkins
+Kwoka,Dist21
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill places restrictions on the use of state, county, and municipal funds and property for the
+purposeofdetentionofimmigrants.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1609-FN-ASINTRODUCED
+26-2436
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT limiting the use of state, county, and municipal funds and property for
+constructionandoperationofcertainimmigrantdetentionfacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; ParticipationinFederal ImmigrationPrograms. Amend RSA106-Pbyinserting
+2 aftersection1thefollowingnewsection:
+3 106-P:2 UseofFundsForImmigrationDetentionFacilities.
+4 I. ThestateofNewHampshireanditspoliticalsubdivisionsshallnot:
+5 (a) Expend state, county, or municipal funds for the purpose of constructing, renovating,
+6 or repurposing any state, county, or municipally-owned property for use as an immigrant detention
+7 facility.
+8 (b) Sell or donate any state, county, or municipally-owned property toa private entity or
+9 toanothergovernmentalentityforuseasanimmigrantdetentionfacility.
+10 (c) Pay, reimburse, subsidize, or defray in any way costs related to the sale, purchase,
+11 construction, development, ownership, management, or operation of an immigrant detention facility
+12 thatisowned,managed,oroperatedbyaprivateentity.
+13 (d) Provide payment related to the detention of individuals in an immigration detention
+14 facilitythatisorwillbeowned,inwholeorinpart,byaprivateentity.
+15 II. Nothinginthissectionshallbeconstruedto:
+16 (a) Prevent a law enforcement entity or county corrections facility that has entered into
+17 a 287(g) agreement with the Department of Homeland Security from cooperating with federal
+18 immigrationauthoritiesasspecifiedinRSA106-P:1.
+19 (b) Prohibit any local government entityor stateentity from providing healthand safety
+20 resourcestoindividualswhoarebeingdetainedforimmigrationpurposes.
+21 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2436
+12/8/25
+HB1609-FN-FISCALNOTE
+ASINTRODUCED
+ANACT limiting the use of state, county, and municipal funds and property for
+constructionandoperationofcertainimmigrantdetentionfacilities.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 IndeterminableDecrease
+CountyExpenditures $0 IndeterminableIncrease
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+Thisbill prohibitstheuseof state,county,and municipalfunds orpropertyfortheconstruction,
+renovation, repurposing, or operation of immigrant detention facilities, particularly those
+managed by private entities. It also restricts the sale or donation of public property for such
+purposesanddisallowsfinancialsupportforfacilitiesownedoroperatedbyprivateentities.
+The New Hampshire Association of Counties (NHAC) states this bill may result in an
+indeterminable loss of county revenue and potential litigation costs. Counties currently have
+statutory authority under RSA 30-B to enter into agreements with federal agencies, and the
+proposed restrictions may conflict with that authority. This could lead counties to decline or
+renegotiate contracts, eliminating potential federal reimbursement for housing detainees. The
+fiscalimpactvariesbycountyandthereforeisindeterminable.
+The New Hampshire Municipal Association (NHMA) states this bill would have no impact on
+municipal revenues or expenditures, as it creates a prospective ban on the use of funds for
+immigrationdetentionfacilities.
+The Department of AdministrativeServices states thereshould be no impact on staterevenue or
+expenditures however, any legal defense of the bill in federal court could result in additional,
+thoughindeterminable,legalcoststothestate.
+AGENCIESCONTACTED:
+
+Department of Administrative Services, New Hampshire Association of Counties, and New
+HampshireMunicipalAssociation

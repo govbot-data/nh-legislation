@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1371 -ASINTRODUCED
+2026SESSION
+26-3009
+07/08
+1371
+HOUSEBILL
+ANACT prohibitingapplicationfeesforresidentialrentalagreements.
+SPONSORS: Rep.Lucas,Graf.7;Rep.Booras,Hills.8;Rep.Read,Rock.10;Rep.Hegner,Hills.
+41;Rep.Hicks,Merr.24
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitsapplicationfeesforresidentialrentalagreements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1371-ASINTRODUCED
+26-3009
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingapplicationfeesforresidentialrentalagreements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Trade and Commerce; Protection of Tenants in Conversion of Rental Units;
+2 Residential Rental Application Fees. Amend RSA 356-C by inserting after section 11 the following
+3 newsection:
+4 356-C:12 ResidentialRentalApplicationFees.
+5 I. A landlord or a landlord’s agent shall not charge an application fee to any individual in
+6 order toapply toenter into arental agreement for a residential dwelling unit. This sectionshall not
+7 beconstruedtoprohibitapersonfromchargingafeetoapersoninordertoapplytorentcommercial
+8 ornonresidentialproperty.
+9 II.(a) In order to conduct a background or credit check, a landlord shall accept any of the
+10 following:
+11 (1) Anoriginaloracopyofanyunexpiredformofgovernment-issuedidentification;
+12 (2) Anindividualtaxpayeridentificationnumber;or
+13 (3) Asocialsecuritynumber.
+14 (b) A landlord or a landlord’s agent shall not require a social security number for the
+15 completion of a residential rental application or refuse to accept an application due to the lack of a
+16 socialsecuritynumber.
+17 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

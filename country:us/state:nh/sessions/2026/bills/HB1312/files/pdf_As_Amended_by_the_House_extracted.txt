@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1312-ASAMENDEDBYTHEHOUSE
+11Mar2026...0390h
+2026SESSION
+26-2901
+09/06
+1312
+HOUSEBILL
+ANACT relativetotheauthorityofvariousboards.
+SPONSORS: Rep.Layon,Rock.13;Rep.Grote,Rock.24;Sen.Reardon,Dist15
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Authorizes boards under the purview of the office of professional licensure and certification to
+establishsubcommittees,subjecttorulesestablishedbytheoffice.
+II. Removestheauthorityoftheboardofregistrationinoptometrytomodifythelistofapproved
+pharmaceuticalsforusebyoptometrists.
+III. Removestheauthorityoftheboardofaccountancytoestablishadministrativefinesbyrule.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1312-ASAMENDEDBYTHEHOUSE
+11Mar2026...0390h 26-2901
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheauthorityofvariousboards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Office of Professional Licensure and Certification; Board Subcommittees.
+2 AmendRSA310:2byinsertingafterparagraphIIIthefollowingnewparagraph:
+3 IV. With the approval of the executive director, any board may establish a subcommittee or
+4 subcommittees for the purpose of reviewing and making recommendations on matters which could
+5 be handled by the full board. The office shall determine the composition and duration of any
+6 subcommittee, the frequency of its meetings, other logistics, and resources used for it based upon
+7 rulesadoptedbytheexecutivedirectorpursuanttoRSA541-a.
+8 2 Optometry;Definitions. AmendRSA327:1,III(c)-(m)toreadasfollows:
+9 (c) Mioticagents[approvedpursuanttoRSA327:6-a,VI].
+10 (d) Antibiotics, sulfonomides, and combinations thereof, which are topically applied or
+11 orally administered to treat or alleviate the effects of disease or abnormal conditions of the human
+12 eye,adnexa,andeyelids,orstructuresposteriortotheiris[,approvedpursuanttoRSA327:6-a,VI].
+13 (e) Anti-allergy medications, including but not limited to antihistamines, decongestants,
+14 andmast-cellstabilizerswhicharetopicallyapplied.
+15 (f) Anestheticsanddyeswhicharetopicallyapplied.
+16 (g) Ocularlubricantsandhypertonicagentswhicharetopicallyapplied.
+17 (h) Orally administered analgesic agents used for the purpose of alleviating pain caused
+18 by a disease or abnormal condition of the human eye or eyelid, or structures posterior to the iris.
+19 This may include class III and IV controlled substances [approved pursuant to RSA 327:6-a, VI and]
+20 includedintheformulary.
+21 (i) Other pharmaceutical agents, any solely diagnostic agents, and diagnostic agents
+22 combined with pharmaceutical agents as defined in this paragraph [and as approved pursuant to
+23 RSA327:6-a,VI].
+24 (j) Non-steroidalanti-inflammatoryagents[approvedpursuanttoRSA327:6-a,VI].
+25 (k) Anti-glaucoma agents provided that an optometrist may dispense or prescribe such
+26 agentsiftheoptometristhasmettherequirementsofRSA327:6-c.
+27 (l) Corticosteroidswhicharetopicallyapplied,asapprovedbytheboard.
+28 (m) Antivirals[whichareapprovedpursuanttoRSA327:6-a,VI].
+29 3 Office of Professional Licensure and Certification; Rulemaking Authority. Amend RSA 310:6,
+30 IItoreadasfollows:
+
+HB1312-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 II. Such organizational and procedural rules necessary to administer the boards in the
+2 office, including rules governing the administration of complaints and investigations, hearings,
+3 disciplinaryandnon-disciplinaryproceedings,manufacturedhousingdisputeresolution,inspections,
+4 payment processing procedures, board subcommittees, and application procedures. For purposes
+5 of this paragraph, "manufactured housing dispute resolution" means a program for the timely
+6 resolution of disputes between manufacturers, retailers, and installers of manufactured homes,
+7 including the issuance of appropriate orders, regarding responsibility for the correction or repair of
+8 defectsinmanufacturedhomesfordefectsthat arereportedduringtheone-yearperiodbeginningon
+9 thedateofinstallation.
+10 4 Repeal. Thefollowingarerepealed:
+11 I. RSA309-B:4,VI(h),relativetoboardofaccountancyrulemakingonadministrativefines.
+12 II. RSA 327:6-a, VI, relative to authority for the board to modify the list of approved
+13 pharmaceuticalsforusebyoptometrists.
+14 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

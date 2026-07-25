@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1444-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0558h
+2026SESSION
+26-2749
+09/08
+1444-FN
+HOUSEBILL
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+SPONSORS: Rep. Moffett, Merr. 4; Rep. Cambrils, Merr. 4; Rep. Freeman, Belk. 8; Rep.
+Litchfield, Rock. 32; Rep. Mandelbaum, Rock. 21; Rep. Notter, Hills. 12; Rep.
+Creighton,Hills.30;Sen.Pearl,Dist17;Sen.Sullivan,Dist18
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits the state or local governments from acquiring certain drones or unmanned
+aircraftsystemsafterJanuary1,2028.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1444-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0558h 26-2749
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Prohibition on Purchase or Acquisition of Certain Unmanned Aircraft Systems.
+2 AmendRSAbyinsertingafterchapter162-Uthefollowingnewchapter:
+3 CHAPTER162-V
+4 PROHIBITIONONPURCHASEORACQUISITIONOFCERTAINUNMANNEDAIRCRAFT
+5 SYSTEMS
+6 162-V:1 Definitions. As used in this chapter, “unmanned aircraft system” or “drone” means the
+7 sameas"aircraft"asdefinedinRSA422:3,VI.
+8 162-V:2 Prohibition on Purchase or Acquisition of Certain Unmanned Aircraft Systems by the
+9 State.
+10 I. EffectiveJanuary1,2028,nostateagencyshallpurchaseoracquireadroneor unmanned
+11 aircraftsystemotherthanthoseclearedpursuanttoRSA162-V:3.
+12 II. To the extent practicable, state agencies shall purchase or acquire only those drones and
+13 unmannedaircraftsystemsclearedpursuanttoRSA162-V:3priortoJanuary1,2028.
+14 III. EffectiveJanuary1,2028, nostatefundsshallbeusedtopurchaseoracquireadroneor
+15 unmannedaircraftsystemwhosepurchasewouldbeprohibitedbyparagraphI.
+16 IV. A contract or agreement for the purchase or acquisition of a drone or unmanned aircraft
+17 systeminviolationofthissectionisvoidandunenforceable.
+18 162-V:3 Prohibition on Purchase or Acquisition of Certain Unmanned Aircraft Systems by
+19 Localities.
+20 I. Effective January 1, 2028, no county, city, town or other political subdivision shall
+21 purchaseoracquireadroneorunmannedaircraftsystemthatdoesnotmeettherequirementsofthe
+22 National Defense Authorization Act of 2024, Public Law 118-31, or that has been included on the
+23 "covered list" of devices deemed by the Federal Communications Commission to pose an
+24 unacceptablerisktothenationalsecuritytotheUnitedStatesortothesecurityandsafetyofUnited
+25 Statesresidents.
+26 II. A contract or agreement for the purchase or acquisition of a drone or unmanned aircraft
+27 systeminviolationofthissectionisvoidandunenforceable.
+28 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2749
+03/23/2026
+HB1444-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0558h)
+ANACT relativetothepurchaseoracquisitionofcertainunmannedaircraftsystems.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 Indeterminable
+FundingSource(s) GeneralFund,FishandGameFund,andHighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 Indeterminable
+METHODOLOGY:
+This bill defines an unmanned aircraft system (UAS) consistent with the statutory definition of
+“aircraft” and restricts the purchase or acquisition of certain drones by state and local
+government entities. Beginning January 1, 2028, state agencies may only acquire drones that
+meet specified clearance requirements, and state funds may not be used to obtain prohibited
+systems. Similarly, counties, municipalities, and other political subdivisions areprohibited from
+acquiring drones that do not comply with federal security standards under the National Defense
+Authorization Act of 2024 or that appear on the Federal Communications Commission’s covered
+list,withanynoncompliantpurchaseagreementsdeemedunenforceable.
+DepartmentofSafety
+
+The Department states this bill will not create an immediate fiscal impact relative to its UAS
+operations. The fiscal impact after January 1, 2028, is indeterminable, due to factors that
+include:
+ TheprevalenceofforeignsystemsthathavehistoricallydominatedtheUASmarket.
+ ThespeedofdomesticUAStechnologyadvancementandavailability.
+ Thescopeofequipmentencompassedbyfuturecovered/approvedlistsforpurchase.
+FishandGameDepartment
+The Department assumes that any drones or UAS purchased on or after January 1, 2028, would
+be required to comply with the requirements of RSA 162-V. The Department is unable to
+estimatehow manysuch systems it may need to acquire in the future. Based on current market
+conditions, compliant drones are estimated to cost between approximately $5,000 and $40,000
+per unit, depending on factors such as payload capacity, flight duration, and sensor capabilities.
+Inaddition,stafftrainingwouldberequiredtooperateanynewlyacquiredsystems,withannual
+training costs estimated to range from $2,500 to $5,000. Accordingly, the Department assumes
+thatthecombinedannualcostforpurchasingcompliantdronesandprovidingnecessarytraining
+couldrangefrommorethan$10,000toupto$100,000,dependingonfutureoperationalneeds.
+CountyandLocalGovernments
+Thisbill’spotentialimpactoncountyandlocalgovernments,ifany,isindeterminableandwould
+varybyagency.
+AGENCIESCONTACTED:
+DepartmentofSafety,FishandGameDepartment,andNewHampshireMunicipalAssociation

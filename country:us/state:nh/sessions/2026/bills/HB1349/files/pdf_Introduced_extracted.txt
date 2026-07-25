@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1349 -ASINTRODUCED
+2026SESSION
+26-3144
+06/08
+1349
+HOUSEBILL
+ANACT relative to exemptions from multi-family zoning requirements for small or low-
+densitycommunities.
+SPONSORS: Rep.Meuse,Rock.37;Rep.Mandelbaum,Rock.21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts municipalities with fewer than 250 residents per square mile from the
+statutory requirement to permit multi-family residential development on commercially zoned land,
+regardlessoffederalruralorurbandesignationsoroverlappingareaclassifications.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1349-ASINTRODUCED
+26-3144
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to exemptions from multi-family zoning requirements for small or low-
+densitycommunities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Amendment to Zoning Regulations. Amend RSA 674:80 by inserting after
+2 paragraphIVthefollowingnewparagraph:
+3 V. A municipality with a population density of less than 250 residents per square mile, as
+4 determined by the latest population data from the United States Census Bureau, shall be exempt
+5 from this section. This exemption shall apply to municipalities regardless of any designation by the
+6 United States Census Bureau of a community being a rural or urban area and by any resulting
+7 overlappingoftheseareas.
+8 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

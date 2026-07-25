@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1047-FN-ASINTRODUCED
+2026SESSION
+26-2416
+09/08
+1047-FN
+HOUSEBILL
+ANACT relativetotheoffenseofcapitalmurder.
+SPONSORS: Rep. Morton, Hills. 39; Rep. Drye, Sull. 7; Rep. Girard, Sull. 6; Rep. Labrie, Hills.
+2; Rep. D. Mannion, Rock. 25; Rep. McFarlane, Graf. 18; Rep. Paquette, Hills. 25;
+Sen.Lang,Dist2
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes it a capital murder offense to knowingly cause the death of the governor or
+governor-elect of New Hampshire, a member or member-elect of the executive council, or any
+member or member-elect of theNew Hampshire senate or New Hampshire house of representatives,
+or any candidate for any such offices after such candidate has been nominated at his or her party's
+primary,whensuchkillingismotivatedbyknowledgeoftheforegoingcapacityofthevictim.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1047-FN-ASINTRODUCED
+26-2416
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofcapitalmurder.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CapitalMurder. AmendRSA630:1,I(f)-(g)toreadasfollows:
+2 (f) Another before, after, while engaged in the commission of, or while attempting to
+3 commitanoffensepunishableunderRSA318-B:26,I(a)or(b);[or]
+4 (g) Another, who is licensed or privileged to be within an occupied structure, or
+5 separately secured or occupied section thereof, before, after, or while in the commission of, or while
+6 attemptingtocommit,burglaryasdefinedinRSA635:1;or
+7 (h) The governor or governor-elect of New Hampshire, a member or member-
+8 elect of the executive council, or any member or member-elect of the New Hampshire senate
+9 or New Hampshire house of representatives, or any candidate for any such offices after
+10 such candidate has been nominated at his or her party's primary, when such killing is
+11 motivatedbyknowledgeoftheforegoingcapacityofthevictim.
+12 2 FirstDegreeMurder. AmendRSA630:1-a,I(b)(4)toreadasfollows:
+13 (4) The president or president-elect or vice-president or vice-president-elect of the
+14 United States, the governor or governor-elect of [New Hampshire or] any state other than New
+15 Hampshire, or any member or member-elect of the congress of the United States, or any candidate
+16 for such office after such candidate has been nominated at his or her party's primary, when such
+17 killingismotivatedbyknowledgeoftheforegoingcapacityofthevictim.
+18 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2416
+10/17/25
+HB1047-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofcapitalmurder.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

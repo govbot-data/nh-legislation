@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1443-FN-ASINTRODUCED
+2026SESSION
+26-2733
+06/08
+1443-FN
+HOUSEBILL
+ANACT allowing retired state employees to defer earned retirement medical benefits to
+theirsurvivingspouse.
+SPONSORS: Rep.SabourinditChoiniere,Rock.30;Rep.TomMannion,Hills.1
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies that the state’s payment of a premium or partial premium for retiree medical
+coverageappliestoeachMedicare‑eligibleretiredemployeeand/ortheemployee’sspouse.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1443-FN-ASINTRODUCED
+26-2733
+06/
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing retired state employees to defer earned retirement medical benefits to
+theirsurvivingspouse.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MedicalandSurgicalBenefits. AmendRSA21-I:30,IItoreadasfollows:
+2 II. The state shall pay a premium or partial premium for each Medicare-eligible retired
+3 employee, as defined in paragraphs VI and VII of this section, and/or his or her spouse for their
+4 lifetimes, toward group hospitalization, hospital medical care, surgical care and other medical
+5 benefits plan or a self-funded alternative within the limits of the funds appropriated at each
+6 legislative session and providing any change in plan is approved by the fiscal committee of the
+7 general court, after a duly noticed public hearing on any proposed changes to the plan is held before
+8 the fiscal committee, prior to its adoption. Retired employees who are eligible for Medicare may
+9 voluntarilyceaseparticipationinplanbenefitsatanytimeandmayreenrollwithoutrestriction.
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2733
+11/24/25
+HB1443-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowing retired state employees to defer earned retirement medical benefits to
+theirsurvivingspouse.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) InternalServiceFund
+Expenditures* $0 Indeterminable
+FundingSource(s) AgencyIncomeandAgencyTransfer
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill clarifies that the state's contribution toward retiree medical premiums applies to each
+Medicare-eligibleretiredemployeeand/ortheirspouse.
+The Department of Administrative Services (DAS) states that if the bill’s intent is to confirm
+that survivingspouses areentitled tolifetime healthbenefits, therewould beno fiscal impact on
+theRetireeHealthBenefitPlan,astheseindividualsarealreadyeligible.
+However, if the bill aims to grant spouses independent eligibility regardless of whether the
+retiree elects coverage, the fiscal impact would be indeterminable and potentially significant.
+DAS cannot estimate how many spouses would enroll or determine how many would be
+Medicare-eligibleversusnon-Medicare-eligible.
+DASnotes that duringcalendar year 2026thestatewillcontribute$1,213.12permonthfor each
+person enrolled in the non-Medicare retiree health plan, and $197.85 per month for each person
+intheMedicareretireehealthplanwhoarerequiredtopayapremium.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServices

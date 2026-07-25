@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1327 -ASINTRODUCED
+2026SESSION
+26-2903
+06/09
+1327
+HOUSEBILL
+ANACT relativetothedefinitionofcommercially-zonedland.
+SPONSORS: Rep. B. Boyd, Hills. 12; Rep. Grote, Rock. 24; Rep. Panek, Hills. 1; Rep. Parshall,
+Ches. 8; Rep. M. Pearson, Rock. 34; Rep. Tierney, Coos 1; Rep. Flanagan, Hills.
+45;Rep.Nelson,Rock.13;Sen.Gannon,Dist23
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillredefines"mixeduse"and"commerciallyzonedland."
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1327-ASINTRODUCED
+26-2903
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedefinitionofcommercially-zonedland.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Multi-Family Residential Development on Commercially Zoned Land. Amend RSA 674:79, I
+2 andIItoreadasfollows:
+3 I. "Commercially zoned land" means land [zoned for such commercial activities as retail and
+4 office space] located in a zoning district that permits commercial uses, as defined in local
+5 ordinances.
+6 II. "Mixed-use" means a type of development that combines residential, commercial,
+7 cultural, institutional, or entertainment uses within a single building or development [area] shown
+8 onasubdivisionorsiteplanapprovedbytheplanningboard.
+9 2 EffectiveDate. ThisactshalltakeeffectonJuly1,2026at12:01a.m.

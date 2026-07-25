@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1238-FN-ASINTRODUCED
+2026SESSION
+26-3085
+09/08
+1238-FN
+HOUSEBILL
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+SPONSORS: Rep. Roy, Rock. 31; Rep. Devoid, Merr. 1; Rep. Lascelles, Hills. 14; Rep. D.
+Mannion, Rock. 25; Rep. Paquette, Hills. 25; Rep. Rhodes, Ches. 17; Rep. Trottier,
+Belk.8;Sen.Abbas,Dist22;Sen.Birdsell,Dist19;Sen.Gannon,Dist23
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillamendsthepenaltiesfortheoffenseofdisobeyinganofficer.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1238-FN-ASINTRODUCED
+26-3085
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DisobeyinganOfficer;Penalties. AmendRSA265:4,II-IIItoreadasfollows:
+2 II. Any person who violates any provision of paragraph I of this section may have his or her
+3 licenseorprivilegetodriveandanyregistrationsissuedinhisorhernamesuspended.
+4 III. InadditiontothepenaltylistedinparagraphII:
+5 (a) Any person who violates the provisions of subparagraphs I (a), (b), (d), (e), or (f) of
+6 thissectionshallbeguiltyofaclassAmisdemeanor.
+7 [III.(a) In addition to the penalties listed in paragraph II,] (b) Any person who violates the
+8 provisionsofsubparagraphI(c)shall beguiltyofaclassB felony[Amisdemeanorand shallbefined
+9 notlessthan$500].
+10 [(b) Any person who violates the provisions of subparagraph I(c), and is involved in a
+11 motor vehicle accident which causes serious bodily injury as defined in RSA 625:11, VI while being
+12 pursued,shallbeguiltyofaclassBfelony.]
+13 (c) Any person who violates the provisions of subparagraph I(c), and is involved in a
+14 motor vehicle accident which injures or causes the death of a person [another while being
+15 pursued],shallbeguiltyofaclassAfelony.
+16 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3085
+10/28/25
+HB1238-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

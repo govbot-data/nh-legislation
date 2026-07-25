@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1362 -ASINTRODUCED
+2026SESSION
+26-3082
+06/08
+1362
+HOUSEBILL
+ANACT adding steering and suspension specifications relative to requirements for the
+equipmentofmotorvehicles.
+SPONSORS: Rep.T.Walsh,Merr.10
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesinspectionstandardsforvehiclesteeringandsuspensionsystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1362-ASINTRODUCED
+26-3082
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT adding steering and suspension specifications relative to requirements for the
+equipmentofmotorvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSubdivision;SteeringandSuspension. AmendRSA266byinsertingaftersection117the
+2 followingnewsubdivision:
+3 SteeringandSuspension
+4 266:118 SteeringandSuspensionStandards.
+5 I. No vehicle shall be operated on the ways of this state if, upon inspection, any of the
+6 followingconditionsarefound:
+7 (a) Steeringlinkagefree-playexceedsthemanufacturer'sspecificationsoris:
+8 (1) Inexcessof1/4inchforwheels16inchesorlessindiameter;
+9 (2) Inexcessof3/8inchforwheels17or18inchesindiameter;or
+10 (3) Inexcessof1/2inchforwheelsover18inchesindiameter.
+11 (b) Anywheelbearingexceedsthemanufacturer'stoleranceforlooseness.
+12 (c) Anyballjointisbroken,cracked,orexceedsthemanufacturer'sspecifications.
+13 II. For purposes of this section, "manufacturer's specifications" means the tolerances and
+14 standards established by the original equipment manufacturer for the safe operation of the specified
+15 systemorcomponent.
+16 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

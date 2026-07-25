@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER317
+SB599-FN-FINALVERSION
+06/04/2026 1990CofC
+2026SESSION
+26-2270
+12/06
+599-FN
+SENATEBILL
+ANACT relativetotherenewableenergyfund.
+SPONSORS: Sen. Pearl, Dist 17; Sen. Lang, Dist 2; Sen. Innis, Dist 7; Sen. Watters, Dist 4; Rep.
+Mooney,Hills.12;Rep.Erf,Hills.28
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires that remaining moneys from certain electricity provider payments made to the
+renewable energy fund shall first be used by the department of energy for administrative costs up to
+$1,000,000, with the remainder to be used to support thermal and electrical renewable energy initiatives.
+The bill also prohibits any remaining moneys from being used to support individual residential solar
+initiatives.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER317
+SB599-FN-FINALVERSION
+06/04/2026 1990CofC 26-2270
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotherenewableenergyfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 317:1 Renewable Energy Fund; Priority of Use of Funds; Administrative Costs. Amend RSA 362-
+2 F:10,I,asamendedby2025,286:6toreadasfollows:
+3 I. There is hereby established a renewable energy fund. This nonlapsing special fund shall be
+4 continually appropriated to the department of energy to be expended in accordance with this section;
+5 providedthatatthestartoftheperiodinwhichthereisnoadoptedstateoperatingbudget,thedepartment
+6 of energy shall in a timely manner seek the approval of the fiscal committee of the general court to
+7 continue using moneys from the renewable energy fund to support renewable energy rebate and grant
+8 programs in order to ensure there are no interruptions to the programs. The state treasurer shall invest
+9 the moneys deposited therein as provided by law. Income received on investments made by the state
+10 treasurershallalsobecreditedtothefund.Allpaymentstobemadeunderthissectionshallbedeposited
+11 inthefund. AnyremainingmoneyspaidintothefundunderparagraphIIofthissection,excludingclassII
+12 moneys, shall firstbe used by the department of energy [to support thermal and electrical renewable
+13 energy initiatives]foradministrativecosts, including the office of energy innovation. Afterfundingofthe
+14 administrativecosts,upto$1,000,000annuallyshallsupportthermalandelectricalrenewableenergy
+15 initiatives,pursuanttoRSA362-F:10,VIII,andshallnotbeusedtosupportindividualresidentialsolar
+16 initiatives.Anymoniesremainingshallbetransferredtothegeneralfund. ClassIImoneysshallprimarily
+17 be used to support solar energy technologies in New Hampshire. All initiatives supported out of these
+18 funds shall be subject to audit by the department of energy as deemed necessary. All fund moneys
+19 includingthosefrom class II maybe usedtoadminister this chapter, but all newemployeepositions shall
+20 be approved by the fiscal committee of the general court. No new employees shall be hired by the
+21 departmentofenergyduetotheinclusionofusefulthermalenergyinclassIproduction.
+22 317:2 Applicability. This act shall apply to funds collected on and after July 1, 2025 until June 30,
+23 2027.
+24 317:3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:July10,2026
+EffectiveDate:July10,2026

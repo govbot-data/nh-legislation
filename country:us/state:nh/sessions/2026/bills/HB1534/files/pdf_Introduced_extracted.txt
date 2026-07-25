@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1534 -ASINTRODUCED
+2026SESSION
+26-2569
+06/08
+1534
+HOUSEBILL
+ANACT relativetoutilitydefaultservice.
+SPONSORS: Rep. Cormen, Graf. 15; Rep. Caplan, Merr. 8; Rep. Darby, Hills. 11; Rep. McGhee,
+Hills.35;Rep.Muns,Rock.29;Rep.W.Thomas,Hills.12
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies certain policy principles regarding electric utility default service, including
+defaultserviceratesandrecoveryforover-orunder-collection.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1534-ASINTRODUCED
+26-2569
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoutilitydefaultservice.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Electric Utility Restructuring; Restructuring Policy Principles; Universal Service. Amend
+2 374-F:3,V(c)toreadasfollows:
+3 (c) Utility default service should be designed to provide a safety net and to assure
+4 universal access and system integrity, minimize customer risk, not unduly harm the
+5 development of competitive markets, and mitigate against price volatility without creating
+6 newdeferredcosts. Utilitydefaultserviceshouldbeprocuredthroughthecompetitivemarketand
+7 may be administered by independent third parties. Any prudently incurred costs arising from
+8 compliance with the renewable portfolio standards of RSA 362-F for utility default service or
+9 [purchased power agreements] purchases of power, capacity, and ancillary services to serve
+10 utility default service shall be recovered through [the] default service [charge] charges. To the
+11 extent that there are separate utility default service rates, the costs to serve customers on
+12 those separate default service rates, including any prior period under- or over- collections,
+13 shall be recovered through the respective future default service rates as approved by the
+14 commission. The allocation of the costs of administering default service should be borne by the
+15 customersofdefaultserviceinamannerapprovedbythecommission. Ifthecommissiondetermines
+16 it to be in the public interest, the commission may implement measures to discourage misuse, or
+17 long-term use, of default service. Revenues, if any, generated from such measures should be used to
+18 defraystrandedcosts.
+19 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

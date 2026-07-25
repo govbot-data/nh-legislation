@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1110-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2555
+09/05
+1110
+HOUSEBILL
+ANACT relativetotheNewHampshirerealestatepracticeact.
+SPONSORS: Rep.Flanagan,Hills.45
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Clarifiesthatvariouseducationalrequirementsaremeasuredincredithours.
+II. Makes edits clarifying that inactive licensed principal or managing brokers are not required
+to maintain a surety bond, that annulled convictions are not considered for disciplinary proceedings,
+andthatprohibiteddiscriminationalsoappliestorentalactivityandnotjustsalesactivity.
+III. Correctscross-referencesbasedonrecentupdatestothestatutes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1110-VERSIONADOPTEDBYBOTHBODIES
+26-2555
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheNewHampshirerealestatepracticeact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Real Estate Practice Act; Qualifications for Licensure. Amend RSA 331-A:10, II(b) to read as
+2 follows:
+3 (b) Has successfully completed an examination administered or approved by the
+4 commission which demonstrates satisfactory knowledge and understanding of the principles of real
+5 estatepractice. Theofficeshallonlyacceptforlicensure,anapplicantwhoshowsproofofcompletion
+6 of 60 credit hours of approved study which shall have been completed prior to the date of the
+7 applicant'sexamination;
+8 2 RealEstatePractice;InactiveLicensureStatus. AmendRSA331-A:12-b,Itoreadasfollows:
+9 I. Any licensee who does not want to perform as a broker or salesperson as defined in RSA
+10 331-A:2, and who wants to preserve his or her license while not engaged in any brokerage activities,
+11 including making any referrals for commission or for other compensation, or for the promise of such
+12 commission or other compensation, may surrender that license to the commission for placement on
+13 inactive status; provided, however, that while on inactive status, the licensee may be compensated
+14 by his or her previous responsible broker for brokerage activities or referrals for which the licensee
+15 participated while the licensee's license was active, pursuant to RSA 331-A:26, XXIV. The
+16 commission shall place the licensee on inactive status only upon a written request by the licensee.
+17 While on inactive status, the licensee shall renew the license biennially by satisfying any renewal
+18 requirements and continuing education requirements adopted by the commission, but shall not be
+19 required to maintain a place of business, or in the case of [a] an inactive licensed principal or
+20 managingbroker,shallnotberequiredtomaintainasuretybondpursuanttoRSA331-A:14.
+21 3 Real Estate Practice Act; Programs of Study; Preparatory Education; Continuing Education.
+22 AmendRSA331-A:20,II(a)toreadasfollows:
+23 (a) Continuing education [3-hour] 3 credit hour core courses shall cover, but not be
+24 limited to, changes in state and federal laws dealing with real estate brokerage, housing, financing
+25 of real property and consumer protection as well as changes in state enabling laws dealing with
+26 zoningandsubdivisionpractices. Thecorecoursesshallbedesignedtoassistthelicenseeinkeeping
+27 abreast of changing laws, rules and practices which will affect the interest of the licensee's clients or
+28 customers.
+29 4 Real Estate Practice Act; Programs of Study; Preparatory Education; Continuing Education.
+30 AmendtheintroductoryparagraphofRSA331-A:20,IVtoreadasfollows:
+
+HB1110-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 IV. Any instructors accredited by the office to teach a preparatory or continuing education
+2 program who commits any of the following acts, conduct, or practices shall, after a hearing under
+3 RSA310[331-A:30],besubjecttodisciplinaryactionasprovidedinRSA310[331-A:28]:
+4 5 Real Estate Practice Act; Practice by Brokers in Other Jurisdictions. Amend RSA 331-A:22-a,
+5 Vtoreadasfollows:
+6 V. An out-of-state broker or out-of-state salesperson who fails to comply with any provision
+7 ofthissectionshallbeconsideredinviolationofRSA310:13[331-A:34].
+8 6 RealEstatePracticeAct;Rulemaking. AmendRSA331-A:25,IXtoreadasfollows:
+9 IX. A minimum of a [3-hour] 3 credit hour core course of continuing education for active
+10 and inactive license renewal, and an additional 12 elective credit hours of continuing education for
+11 active license renewals. The initial 12 hours of continuing education for salespersons prior to their
+12 first license renewal shall be established by the commission in specified topics or courses related to
+13 thesalesperson'spractice.
+14 7 RealEstatePracticeAct;ProhibitedConduct. AmendtheintroductoryparagraphofRSA331-
+15 A:26toreadasfollows:
+16 331-A:26 Prohibited Conduct. The following acts, conduct or practices are prohibited, and any
+17 licensee found guilty after a hearing shall be subject to disciplinary action as provided in RSA 310
+18 [331-A:28]:
+19 8 RealEstatePractice;ProhibitedConduct. AmendRSA331-A:26,IIItoreadasfollows:
+20 III. Being convicted in a court of competent jurisdiction of this or any other state, or federal
+21 court, of forgery, embezzlement, obtaining money under false pretenses, bribery, larceny, extortion,
+22 conspiracy to defraud, sexual crimes, drug distribution, arson, physical violence, or any similar
+23 offense or offenses; provided that, for the purposes of this section being convicted shall include all
+24 instances in which a plea of guilty or nolo contendere is the basis for the conviction, and all
+25 proceedings in which the sentence has been deferred or suspended. This paragraph applies only
+26 whentheconvictionhasnotfirstbeenannulledbyacourtpursuanttoRSA651:5.
+27 9 RealEstatePractice;ProhibitedConduct. AmendRSA331-A:26,XVIItoreadasfollows:
+28 XVII. Discrimination against any person in hiring or in sales or in rental activity, on the
+29 basis of race, color, creed or national origin, or violating any of the provisions of any state or federal
+30 antidiscrimination law. A certified copy of the final holding of any court of competent jurisdiction in
+31 such matter, or a certified copy of the order issued by any state or federal administrative agency
+32 having jurisdiction in such matter, shall be conclusive evidence in any hearing conducted under this
+33 chapter.
+34 10 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

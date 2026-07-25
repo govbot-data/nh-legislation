@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1508-FN-ASINTRODUCED
+2026SESSION
+26-2525
+07/09
+1508-FN
+HOUSEBILL
+ANACT permittingone-partyconsentforaudioandvideorecordingsincertaininstances.
+SPONSORS: Rep. Barton, Graf. 1; Rep. Beaulier, Graf. 1; Rep. McFarlane, Graf. 18; Rep.
+Thibault,Merr.25;Rep.Kuttab,Rock.17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Permits video and audio recordings of conversations so long as it is not made in violation of
+privacyorusedforpurposesofblackmailorharassment.
+II. Requires the department of justice to create and conduct a public information campaign
+explainingthechangesinlawasimplementedbythisact.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1508-FN-ASINTRODUCED
+26-2525
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT permittingone-partyconsentforaudioandvideorecordingsincertaininstances.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known and cited as the "Transparency and Protection in
+2 CommunicationsAct."
+3 2 New Subparagraph; Public Justice; Wiretapping and Eavesdropping; Interception and
+4 Disclosure of Telecommunication or Oral Communications Prohibited. Amend RSA 570-A:2, II by
+5 insertingaftersubparagraph(m)thefollowingnewsubparagraph:
+6 (n) Any person who is a party to an oral communication or telecommunication to record
+7 suchcommunicationwithouttheconsentofanotherpartyprovidedthat:
+8 (1) Therecordingisnotmadeinviolationofprivacy,asdefinedinRSA644:9;and
+9 (2) Therecordingisnotusedforpurposesofblackmailorharassment.
+10 3 Public Awareness of the Act. The department of justice, in coordination with the
+11 administrativeofficeofthecourts,may:
+12 I. Issuepublicguidanceexplainingthechangesinlawasrequiredbythisact;
+13 II. Conduct a public awareness campaign regarding lawful and unlawful uses of recordings;
+14 and
+15 III. Provide training resources for law enforcement and prosecutors regarding the changes
+16 inlawasrequiredbythisact.
+17 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2525
+12/4/25
+HB1508-FN-FISCALNOTE
+ASINTRODUCED
+ANACT permittingone-partyconsentforaudioandvideorecordingsincertaininstances.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$500,000toless $200,000to $200,000to
+than$1,000,000 $500,000 $500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill permits one-party consent for audio and video recordings under RSA 570-A so long as
+the recording is not made in violation of privacy under RSA 644:9 and is not used for blackmail
+or harassment. The bill also authorizes the Department of Justice, in coordination with the
+Administrative Office of the Courts, to develop and distribute public guidance, conduct a
+statewide public information campaign, and provide training resources for law enforcement and
+prosecutorsregardingthechangesinlaw.
+The Department of Justice states the bill will increase state expenditures because it requires a
+statewide public information and awareness campaign, legal and educational material
+development, and training efforts. The Department anticipates one-time costs associated with
+producing and disseminating a media campaign using television, radio, print, and Internet
+advertisement with an estimates one time cost of at least $500,000, depending on scope and
+duration. In addition, the Department anticipates the need for at least one full-time employee,
+eitheraprogramcoordinatorand/oranattorneytocoordinatethecampaignandmanageongoing
+educational efforts. The position costs for an unclassified attorney is estimated at $137,000 for
+FY 2027, $138,000 for FY 2028, and $138,000 for FY 2029. If the position is authorized it is
+assumedtheDOJwouldincludethepositionintheirFY2028andFY2029budgetrequest.
+
+AGENCIESCONTACTED:
+DepartmentofJustice

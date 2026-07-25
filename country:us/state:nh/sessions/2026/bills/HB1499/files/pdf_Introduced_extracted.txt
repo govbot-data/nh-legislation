@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1499-FN-ASINTRODUCED
+2026SESSION
+26-2449
+06/07
+1499-FN
+HOUSEBILL
+ANACT relativetoadditionalgroundsforevictionunderthelandlordandtenantstatute.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. Bean, Belk. 6; Rep. Beaulier, Graf. 1; Rep.
+Berry, Hills. 44; Rep. Kuttab, Rock. 17; Rep. Osborne, Rock. 2; Rep. Sweeney,
+Rock.25;Sen.Innis,Dist7;Sen.Lang,Dist2
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds new grounds for termination of tenancy based on a tenant’s immigration status,
+certaincriminalconvictions,orstatusasaregisteredsexualoffender.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1499-FN-ASINTRODUCED
+26-2449
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoadditionalgroundsforevictionunderthelandlordandtenantstatute.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Termination of Tenancy. Amend RSA 540:2, II by inserting after
+2 subparagraph(i)thefollowingnewsubparagraph:
+3 (j)(1) Thetenantand/oranyoccupantoftherentedpremisesisunlawfullypresentinthe
+4 UnitedStatesofAmerica,or
+5 (2) The tenant and/or any occupant of the rented premises, within 3 years prior to
+6 the service of the eviction notice on the tenant, has been convicted, in any state or in any federal
+7 court, of one or more of the following: murder, felonious assault, sexual assault, rape, kidnapping,
+8 stalking, possession or sale of controlled substances, robbery, domestic violence, criminal
+9 threatening,burglaryoranyviolentcrimewhichresultedininjurytoanyotherperson,or
+10 (3) The tenant and/or any occupant of the rented premises is a “sexual offender” as
+11 definedbyRSA651-B:1,IV.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2449
+12/4/25
+HB1499-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoadditionalgroundsforevictionunderthelandlordandtenantstatute.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Increase$10,000 Increase$10,000 Increase$10,000
+to$100,000 to$100,000 to$100,000
+RevenueFund(s) GeneralFund
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$500,000to $500,000to $500,000to
+$1,000,000 $1,000,000 $1,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill expands the grounds for eviction to include certain criminal convictions within three
+years of service of an eviction notice, tenants who meet the statutory definition of “sexual
+offenders,” and tenants or household members who are present in the country without legal
+authority.
+The Judicial Branch states the bill would require modification of its case management system,
+updates to training materials and forms, and would increase the number of eviction cases filed
+statewide. The Branch notes that in 2024 there were 5,736 landlord-tenant cases filed, most of
+which were eviction actions, and that expanding eligibility for eviction will increase caseloads by
+anindeterminableamount. Totheextentevictionfilingsincrease,theBranchanticipatesaneed
+for at least one additional judge and several court operations specialists. Because the total
+increase in filings and their distribution across Circuit Court District Divisions cannot be
+precisely determined, the Branch estimates increased General Fund expenditures of an
+indeterminableamountofmorethan$500,000andlessthan$1,000,000peryear.
+
+TheJudicialBranchalsoanticipatesincreasedfilingfeerevenuefromadditionallandlord-tenant
+filings. At the current filing fee of $150, the Branch estimates General Fund revenue will
+increasebyanindeterminableamountofmorethan$10,000andlessthan$100,000annually.
+AGENCIESCONTACTED:
+JudicialBranch

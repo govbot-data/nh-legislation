@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1456 -ASINTRODUCED
+2026SESSION
+26-3170
+07/08
+1456
+HOUSEBILL
+ANACT repealingthelegislature'sdeclarationofauthorityoverpubliceducation.
+SPONSORS: Rep. Cloutier, Sull. 6; Rep. Vail, Hills. 6; Rep. Woods, Merr. 30; Rep. Ryan, Hills.
+4; Rep. N. Murphy, Hills. 12; Rep. O'Rorke, Ches. 7; Rep. Hegner, Hills. 41; Rep.
+Burton, Straf. 10; Rep. Haskins, Rock. 11; Rep. Spier, Hills. 6; Sen. Prentiss, Dist
+5;Sen.Fenton,Dist10
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrepealsthelegislature'sdeclarationofauthorityoverpubliceducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1456-ASINTRODUCED
+26-3170
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthelegislature'sdeclarationofauthorityoverpubliceducation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA 2025, 141:389, relative to the legislative declaration of authority regarding
+2 publiceducation,isrepealed.
+3 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

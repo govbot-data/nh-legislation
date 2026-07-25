@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1336-FN-ASINTRODUCED
+2026SESSION
+26-2931
+06/07
+1336-FN
+HOUSEBILL
+ANACT allowing exceptions to the cap on residential security deposits for applicants not
+meetingstandardapprovalcriteria.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. A. Murray, Hills. 20; Rep. Osborne, Rock. 2;
+Rep.Miles,Hills.12;Rep.S.Minor,Belk.5;Rep.Reinfurt,Hills.29
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows landlords to require a security deposit of up to 2 months’ rent from applicants
+who do not meet specified approval criteria, establishes disclosure and re-screening requirements,
+andclarifiesconditionsunderwhichthehigherdepositmayberemovedorrefunded.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1336-FN-ASINTRODUCED
+26-2931
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing exceptions to the cap on residential security deposits for applicants not
+meetingstandardapprovalcriteria.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Procedure. AmendRSA540-A:6,I(a)toreadasfollows:
+2 I.(a) Except as provided for in RSA 540-A:9, a landlord shall not demand or receive any
+3 security deposit in an amount or value in excess of one month's rent or $100, whichever is greater.
+4 Nothing in this section shall prohibit a landlord from entering into a written lease that requires the
+5 quarterly or less frequent payment of rent; provided, however, that the security deposit received in
+6 additiontotheinitialrentpaymentmaynotexceedtheequivalentofonemonth'srent.
+7 2 New Section; Security Deposits for Applicants Not Meeting Landlord's Approval Criteria.
+8 AmendRSA540-Abyinsertingaftersection8thefollowingnewsection:
+9 540-A:9 SecurityDepositsforApplicantsNotMeetingLandlord’sApprovalCriteria.
+10 I. A landlord may require a security deposit of up to 2 months’ rent if an applicant fails to
+11 meet the landlord’s approval criteria, provided that the unmet criteria were disclosed prior to or
+12 concurrently with the submission of the rental application, and further provided that at least one of
+13 thefollowingistrue:
+14 (a) The applicant’s credit score fails to meet the landlord’s requirements, and the
+15 landlord’sminimumFICOscorerequirementdoesnotexceed650.
+16 (b) The applicant’s verifiable gross income from lawful sources fails to meet the
+17 landlord’s requirements, and the landlord’s minimum gross income requirement does not exceed 3
+18 timesthemonthlyrent.
+19 (c) The applicant fails to meet the landlord’s requirements regarding prior eviction
+20 proceedings,excludingcasesdismissedwithoutjudgmentagainstthetenant.
+21 (d) The applicant fails to meet the landlord’s requirements regarding outstanding
+22 unpaidjudgmentspertainingtorentalorfinancialobligations.
+23 (e) The applicant has no prior rental history and is unable to provide a landlord
+24 reference.
+25 II. Nothinginthissectionshallbeconstruedto:
+26 (a) Compelalandlordtoacceptahighersecuritydepositasacompensatingfactor;
+27 (b) Compel a landlord to approve an applicant who fails to meet their approval criteria;
+28 or
+
+HB1336-FN-ASINTRODUCED
+-Page2-
+1 (c) Limit a landlord’s ability to set approval criteria at their discretion; provided,
+2 however, that a landlord whose approval criteria are more restrictive than the thresholds specified
+3 inRSA540-A:9,IshallconformtothelimitssetforthinRSA540-A:6,I.
+4 III. Alandlordwhorequiresasecuritydepositexceedingonemonth’srentunderthissection
+5 shall provide written notice to the applicant specifying the grounds for the higher deposit, informing
+6 the applicant of their right to request a re-screening under RSA 540-A:9, IV, and disclosing any fees
+7 forre-screening.
+8 IV. A tenant who was required to provide a security deposit exceeding one month’s rent
+9 underthissectionmaysubmitawrittenrequestforre-screeningattheirownexpense,nomorethan
+10 onceevery6months. Ifthetenantestablishesthattheymeetthelandlord’sstandardrentalcriteria,
+11 the landlord shall remove the additional security deposit requirement. The landlord shall, at its
+12 option, issue a refund of rent or apply any excess deposit amount to the tenant’s future rental
+13 obligationswithin30daysofthetenant’ssubmissionforre-screening.
+14 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2931
+11/16/25
+HB1336-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowing exceptions to the cap on residential security deposits for applicants not
+meetingstandardapprovalcriteria.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

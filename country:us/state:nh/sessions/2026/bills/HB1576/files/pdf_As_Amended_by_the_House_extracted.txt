@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1576-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0366h
+2026SESSION
+26-2889
+09/08
+1576-FN
+HOUSEBILL
+ANACT relativetotheenforcementofcriminalrestitutionobligations.
+SPONSORS: Rep. Paquette, Hills. 25; Rep. Cole, Hills. 26; Rep. Dupont, Hills. 20; Rep. Gagne,
+Hills. 16; Rep. Kesselring, Hills. 18; Rep. Korzen, Coos 7; Rep. McGrath, Rock. 40;
+Rep. McLean, Hills. 15; Rep. Morton, Hills. 39; Rep. Grill, Hills. 18; Sen. Innis,
+Dist7;Sen.Sullivan,Dist18
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides for new mechanisms for the enforcement of criminal restitution obligations,
+includingmandatoryfinancialreevaluationandadditionalpenaltiesfornoncompliance.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1576-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0366h 26-2889
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheenforcementofcriminalrestitutionobligations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Legislative Findings and Purpose. The general court finds that restitution is a court-ordered
+2 obligation intended to help victims recover from the harm caused by crime. The current statutory
+3 framework does not provide sufficient safeguards to ensure timely disbursement of restitution,
+4 consistent enforcement of payment obligations, or regular review of an offender’s ability to pay. Too
+5 often, victims are left waiting for payments or without clear communication regarding enforcement.
+6 It is therefore the purpose of this act to modernize New Hampshire’s restitution system by requiring
+7 mandatory financial reevaluations, strengthening enforcement mechanisms, improving victim
+8 communication, requiring prompt disbursement of collected funds, and extending restitution
+9 obligations to a victim’s estate when appropriate. These reforms are remedial in nature and shall
+10 apply to both current and future restitution orders, so that all victims may benefit from the
+11 protectionshereinprovided.
+12 2 Restitution;TimeandMethod. AmendRSA651:64,Itoreadasfollows:
+13 I. The time and method of restitution payments or performance of restitution services shall
+14 be specified by the department of corrections. Monetary restitution may be by lump sum, or by
+15 periodic installments in any amounts. The court shall not be required to reduce the total obligation
+16 as a result of the offender's inability to pay. The offender shall bear the burden of demonstrating
+17 lack of ability to pay. Restitution shall be paid by the offender to the department of corrections
+18 unless otherwise ordered by the court. Monetary restitution shall not bear interest, except as
+19 authorized by this section. Restitution shall be made to any collateral source or subrogee, if
+20 authorized by that source and after restitution to the victim, and to the victims' assistance fund, if
+21 applicable, has been satisfied. Restitution shall be a continuing obligation of the offender's estate
+22 and shall inure to the benefit of the victim's estate, provided that no indebtedness shall pass to any
+23 heiroftheoffender'sestate.
+24 3 Restitution; Time and Method; Enforcement. RSA 651:64, III is repealed and reenacted to
+25 readasfollows:
+26 III.(a) The department of corrections shall conduct a mandatory reevaluation of each
+27 offender’sfinancialabilitytopayrestitutionatleastonceevery12months.
+28 (b) If a reevaluation determines that the offender’s ability to pay has substantially
+29 increased, including but not limited to salary increases, lump sum payments, inheritance,
+30 settlement, or other financial gain, the department shall adjust the payment schedule upward
+31 within30days.
+
+HB1576-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (c) Any adjustment shall apply retroactively to the date of the increase, with arrears
+2 addedtothebalanceowed.
+3 (d) Any such adjustment shall trigger immediate notification to the victim pursuant to
+4 paragraphV.
+5 (e) Each reevaluation shall also include a review of the offender’s payment history. If
+6 the offender has missed payments, paid less than ordered without good cause, or intentionally
+7 delayedpayments,thedepartmentshallinitiateenforcementmeasurespursuanttoparagraphIV.
+8 (f) The offender shall promptly notify the department of corrections of any change in
+9 theirabilitytopaythatoccursoutsidethereevaluationperiod.
+10 IV. For any incarcerated offender, the department of corrections shall automatically deduct
+11 10 percent of all incoming monies from the offender's resident account to pay restitution unless
+12 otherwiseprecludedbycourtorder.
+13 V.(a) Intheeventofnoncompliance,thedepartmentofcorrectionsshallinitiateenforcement
+14 actions,whichmayinclude:
+15 (1) Wagegarnishment.
+16 (2) Interceptionoftaxrefunds.
+17 (3) Placementofliensonrealpropertyandassets.
+18 (4) Referral totheappropriateprosecutingauthorityfor considerationof prosecution
+19 forcontempt,pursuanttoRSA651:67.
+20 (b) Intentional nonpayment shall result in interest accruing on the unpaid balance at
+21 the civil judgment rate established pursuant to RSA 336:1, II, together with a financial penalty, as
+22 establishedbyrule,designedtodeternoncompliance.
+23 VI.(a) Thedepartmentofcorrectionsshallprovidewrittennoticetovictimswithin30daysof
+24 anyreevaluationresults,paymentschedulechanges,orenforcementactionstaken.
+25 (b) In the absence of any change, the department of corrections shall provide quarterly
+26 paymentstatusupdatestovictimsunlessthevictimelectsotherwiseinwriting.
+27 (c) If restitution payments will be delayed for any reason, including administrative or
+28 technical delays, the department of corrections shall provide the victim with written notice
+29 explainingthereasonforthedelayandtheexpectedpaymentdate.
+30 VII. The department of corrections, or any agent acting on its behalf, shall disburse all
+31 restitution payments to victims within 45 days of receipt of the funds from the offender or the
+32 offender's financial institution. In the event that disbursement is disrupted for any reason, the
+33 department of corrections shall notify the victim in writing of the delay, the reason for the
+34 disruption,andtheanticipateddateofpayment.
+35 VIII. The original prosecuting authority shall continue to provide victim services for the
+36 victimuntilallrestitutionordershavebeenfullysatisfied.
+
+HB1576-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 4 Application. The provisions of this section are remedial in nature and shall apply to all
+2 existing restitution orders as of the effective date of this section, as well as to all future restitution
+3 orders.
+4 5 EffectiveDate. ThisactshalltakeeffectJune1,2027.
+
+LBA
+26-2889
+Revised04/28/2026
+HB1576-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0366h)
+ANACT relativetotheenforcementofcriminalrestitutionobligations.
+FISCALIMPACT:
+The Department of Corrections states that, following the Governor and Executive Council’s
+approval of a contract for a new restitution management system, the requirements of this bill
+can be absorbed within existing resources; therefore, no fiscal impact to state revenues or
+expendituresisexpected.
+AGENCIESCONTACTED:
+DepartmentofCorrections

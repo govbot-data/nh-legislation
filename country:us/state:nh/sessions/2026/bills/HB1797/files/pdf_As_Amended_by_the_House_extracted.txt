@@ -1,0 +1,216 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1797-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...1027h
+2026SESSION
+26-2927
+05/08
+1797-FN
+HOUSEBILL
+ANACT relative to eligibility for public assistance, including the New Hampshire
+employmentprogram,familyassistanceprogram,andSNAP.
+SPONSORS: Rep.Kofalt,Hills.32
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. StrengthensworkrequirementsforSNAPeligibility.
+II. Directs the department of health and human services to enter into data-sharing agreements
+withotherstateagenciestoverifySNAPbenefiteligibility.
+III. Directs the department to verify eligibility of enrollees that make exclusively out-of-state
+purchases.
+IV. ProhibitsthedepartmentfromusingtheirdiscretiontosetmorelenientstandardsforSNAP
+eligibilityorexemptionsthanthoseoutlinedinfederallaw.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1797-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...1027h 26-2927
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to eligibility for public assistance, including the New Hampshire
+employmentprogram,familyassistanceprogram,andSNAP.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; SNAP Benefit Eligibility Criteria and Verification Procedures. Amend RSA 167
+2 byinsertingaftersection17-dthefollowingnewsection:
+3 167:17-e SNAPBenefitEligibilityCriteriaandVerificationProcedures.
+4 I. The department of health and human services shall not seek any waiver of work
+5 requirements for able-bodied adults without dependents under 7 U.S.C. section 2015(o)(4), nor shall
+6 the department adopt any discretionary exemptions from the work requirement under 7 U.S.C.
+7 section2015(o)(6)(E)withoutpriorlegislativeapproval.
+8 II. Unless expressly required by federal law, the department of health and human services
+9 shallnot:
+10 (a) Grant categorical eligibility under 7 U.S.C. section 2014(a) or 7 C.F.R. section
+11 273.2(j)(2)(ii)foranynoncash,in-kindorotherbenefit.
+12 (b) Apply gross income standards for SNAP higher than the standards specified in 7
+13 U.S.C.section2014(c).
+14 (c) Apply asset standards for SNAP higher than the standards specified in 7 U.S.C.
+15 section2014(g).
+16 III. The department of health and human services shall enter into a data-matching
+17 agreement with the lottery and gaming commission to identify households with lottery or gambling
+18 winnings of $3,000 or more and, to the extent permissible under federal law, treat this data as
+19 verifieduponreceipt. Totheextentthatthedatamaynotbeverifieduponreceipt,departmentshall
+20 make such referrals as may be necessary to identify households with winnings equal to or greater
+21 thantheresourcelimitforelderlyordisabledhouseholdsasdefinedin7CFR273.8(b).
+22 IV. Thedepartmentof healthandhumanservicesshall enterintoadata-sharingagreement
+23 with the secretary of state, division of vital records, to receive and review, on a monthly basis,
+24 information relative to individuals in households enrolled in SNAP that indicate a change in
+25 circumstancesthatmayaffecteligibilityforSNAP.
+26 V. The department shall enter into a data-sharing agreement with the department of
+27 employment security to receive and review, on at least a quarterly basis, information relative to
+28 individuals in households enrolled in SNAP that indicate a change in circumstances that may affect
+29 eligibilityforSNAP,includingbutnotlimitedtochangesinemploymentorwages.
+
+HB1797-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 VI. The department shall enter into a data-sharing agreement with the department of
+2 corrections to receive and review, on at least a monthly basis, information relative to individuals in
+3 households enrolled in SNAP who indicated a change in circumstance that may affect eligibility,
+4 suchasincarceration.
+5 VII. The department shall enter into a data-sharing agreement with the department of
+6 employment security to receive and review, on at least a semi-monthly basis, information relative to
+7 individuals in households enrolled in SNAP who indicated a change in circumstance that may affect
+8 eligibilityforSNAP,includingbutnotlimitedtopotentialchangesinemployment,income,orassets.
+9 VIII. The department shall review, on at least a monthly basis, earned income information,
+10 death register information, incarceration records, supplemental security income information,
+11 beneficiary records, earnings information, and pension information maintained by the United States
+12 Social Security administration to assess changes in circumstances for individuals in households
+13 enrolledinSNAPthatindicatesachangesmayaffecteligibilityforSNAP.
+14 IX. The department shall review, on at least a monthly basis, income and employment
+15 information maintained in the national directory of new hires database and child support
+16 enforcement data maintained by the United States Department of Health and Human Services to
+17 assess changes in circumstances for individuals in households enrolled in SNAP that indicate a
+18 changesthatmayaffecteligibilityforSNAP.
+19 X. The department shall review, on at least a monthly basis, payment and earnings
+20 information maintained by the United States Department of Housing and Urban Development to
+21 assess changes in circumstances for individuals in households enrolled in SNAP that indicate a
+22 changeincircumstancesthatmayaffecteligibilityforSNAP.
+23 XI. The department shall review, on at least a monthly basis, national fleeing felon
+24 information maintained by the United States Federal Bureau of Investigation to assess changes in
+25 circumstances for individuals in households enrolled in SNAPthat indicatea change that may affect
+26 eligibilityforSNAP.
+27 XII. Thedepartmentshallassignhouseholdswithzeronetincome,householdswithanable-
+28 bodied adult without dependent member, or other households with circumstances that are deemed
+29 unstable by the department to eligibility certification periods of no greater than 4 months but
+30 generallynolessthan3months,asallowedpursuantto7CFR273.10(f)(3)(ii).
+31 XIII. The department shall utilize on at least a monthly basis the Systematic Alien
+32 Verification for Entitlements online service or any other federal database used to determine
+33 citizenship or immigration status to verify that an individual that is enrolled in or applying for
+34 SNAPbenefitsisaUnitedStatescitizenoralienthatiseligibleforfoodstampspursuantto7U.S.C.
+35 section2015(f).
+36 XIV. The department shall verify citizenship or qualified alien status pursuant to 7 U.S.C.
+37 section2015(f)uponenrollmentandduringeligibilityrecertificationwithacceptableformsofproofof
+
+HB1797-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 citizenship or qualified alien status including birth or hospital records, voter registration cards, U.S.
+2 passports, and United States Customs and Immigration Service documentation to verify citizenship
+3 ornaturalizationsuchastheSystematicAlienVerificationforEntitlementsonlineservice.
+4 XV. The department shall prohibit any individual from receiving SNAP benefits unless they
+5 are a citizen or a qualified alien eligible for SNAP pursuant to 7 U.S.C. section 2015(f) and refer the
+6 individual to the United States Customs and Immigration Services if it is determined by the
+7 department that an individual applying, receiving, or recertifying their eligibility for SNAP benefits
+8 inNewHampshireisanillegalalien.
+9 2 New Paragraph; Prohibited Use of EBT Cards. Amend RSA 167:7-b by inserting after
+10 paragraphIVthefollowingnewparagraph:
+11 V. The department shall, on at least a monthly basis, utilize EBT card data to flag any
+12 individual making purchases exclusively out-of-state over a 60-day period. The department shall
+13 contact each individual flagged for exclusively making out-of-state purchases over a 60-day period
+14 within 30 days to determine whether they reside in New Hampshire and remove those who are
+15 determined not to be residing in New Hampshire or do not respond. The department shall be
+16 required within 15 days to refer any individual who was determined to be receiving New Hampshire
+17 SNAP benefits while not residing in the state to the United States Attorney’s Office for the district
+18 inwhichtheindividualisdeterminedorclaimstoresideforfurtherinvestigation.
+19 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2927
+04/07/2026
+HB1797-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1027h)
+ANACT relative to eligibility for public assistance, including the New Hampshire
+employmentprogram,familyassistanceprogram,andSNAP.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+Increase Increase Increase
+FundingSource(s) Generalfunds,federalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill makes a variety of changes relative to the use and regulation of EBT cards and
+Supplemental Nutrition Assistance Program (SNAP) eligibility. The following is a list of
+provisions that, per the Department of Health and Human Services, are anticipated to have a
+fiscalimpact:
+· The bill prohibits the Department from using discretionary exemptions to able-bodied
+adults without dependents (ABAWD) work requirements without legislative approval.
+The Department currently uses discretionary exemptions on a limited basis to allow for
+more time to conduct training before changes to ABAWD requirements. Without access
+to the discretionary exemption, the Department likely would have increased its error
+rate when ABAWD requirements were reinstated. Beginning in federal fiscal year 2028,
+SNAP will include a state share for benefits calculated upon the state error rate. If the
+proposed restriction on ABAWD discretionary exemptions were enacted it could
+potentially increase state expenditures in state fiscal year 2029 and subsequent years, if
+thelackofdiscretionaryexemptionswouldcauseanincreaseintheerrorratethatwould
+increase the state share of SNAP benefits. The amount of any such impact is
+indeterminable.
+
+· The bill requires the Department to repeal its broad-based categorical eligibility for
+SNAP benefits. Currently, New Hampshire certifies for broad based categorical
+eligibility SNAP households with income less than or equal to 200% of the federal
+poverty guidelines. Based on available American Community Survey data, the
+Department estimates that approximate 20,000-25,000 New Hampshire households
+would lose SNAP eligibility from the repeal of categorical eligibility. This would result
+in an indeterminable reduction in expenditures. (SNAP benefits, as opposed to
+administrativecosts,are100percentfederallyfunded.)
+· The bill requires the Department to review information from the United States
+Department of Housing and Urban Development (HUD). The Department notes that it
+doesnotcurrentlyhaveaccesstoHUDdataandthebilldoesnotcontainanydirectionon
+how the Department would get such information, so the fiscal impact of this provision is
+indeterminable. Similarly, the bill requires the Department to review national fleeing
+felon information maintained by the FBI. The Department notes that it does not have
+accesstothisinformation.
+· The bill requires the Department to use the Systematic Alien Verification for
+Entitlements (SAVE) on a monthly basis to determine citizenship or immigration status.
+The Department notes that it does not use SAVE to verify citizenship. Citizenship when
+questionableisverifiedthroughdocumentationsuchasbirthcertificateornaturalization
+papers. Presently the Department uses SAVE to verify the immigration status of
+noncitizens at application and redetermination. There will be an indeterminable cost to
+state expenditures as a result of this requirement. The Department will need to make
+system changes and train staff to conduct SAVE checks monthly for citizens and non-
+citizens instead of the current process of at application and redetermination and only for
+non-citizens.
+· Thebill requires theDepartment totrack SNAPhouseholds that exclusivelyuse benefits
+out of state. This would require data checks to be done more frequently than currently
+required. The Department states that it would need five new employees to meet the
+increased requirements from the proposed legislation. The cost of five new positions
+would be $400,000 for FY27, $420,000 for FY28 and $435,000 for FY29. The cost of staff
+canbepaidwith25%federalfunds and75%generalfundsforFY28andFY29. Duetoa
+change in federal law effective October 1, 2026, the reimbursement rate for FY27 will be
+at 50% federal funds and 50% general funds from July until October and 25% federal
+funds and 75% general funds for the remainder of FY 27. For FY 27, 31.25% of the
+staffing costs would be paid with federal funds and 68.75% of the staffing costs would be
+
+paid with general funds. The system changes required by this provision are expected to
+cost$1,690,000,ofwhich50%willbepaidwithfederalSNAPadministrativedollars.
+In total, the Department anticipates the bill will increase expenditures by at least $2,090,000 in
+FY27 ($920,000 general funds, $1,170,000 federal funds), $420,000 in FY28 ($315,000 general
+funds, $105,000 federal funds) and $435,000 in FY29 ($326,250 general funds, $108,750 federal
+funds). Due to the various components for which cost cannot be estimated, the total impact is
+indeterminable.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

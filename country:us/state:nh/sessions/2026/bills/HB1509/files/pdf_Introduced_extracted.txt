@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1509-FN-ASINTRODUCED
+2026SESSION
+26-2542
+09/07
+1509-FN
+HOUSEBILL
+ANACT relative to judicial immunity and permitting civil actions against judicial officers
+forcertaincriminalbaildecisions.
+SPONSORS: Rep.Trottier,Belk.8;Rep.Comtois,Belk.7;Rep.Bean,Belk.6;Rep.Coker,Belk.
+2;Rep.Berry,Hills.44;Rep.Ploszaj,Belk.1
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillpermitscivilactionsagainstjudicialofficersforcertaincriminalbaildecisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1509-FN-ASINTRODUCED
+26-2542
+09/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to judicial immunity and permitting civil actions against judicial officers
+forcertaincriminalbaildecisions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Judicial Immunity. Amend RSA by inserting after chapter 490-K the following
+2 newchapter:
+3 CHAPTER490-L
+4 JUDICIALIMMUNITY
+5 490-L:1 LimitationofJudicialImmunity.
+6 I. Any judge or other member of the judiciary who sits in a judicial capacity and makes
+7 determinations pursuant to RSA 597 regarding the release of criminal defendants pending trial may
+8 beheldliableforcivilnegligenceifallofthefollowingaremet:
+9 (a) ThecriminaldefendantbeingreleasedpursuanttoRSA597isbeingreleased:
+10 (1) ForanallegedviolationofRSA631:2-b.
+11 (2) Foranyallegedfelony.
+12 (3) Foranyoffenseallegedtohaveoccurredwhilethedefendantwasreleasedonbail
+13 inanothermatter.
+14 (b) The criminal defendant commits a subsequent criminal offense or intentional tort
+15 whilereleasedpursuanttoRSA597.
+16 (c) Apersonsuffersphysicalorfinancialinjuryasaresult.
+17 II. An action that meets the requirements of paragraph I may be brought by the person who
+18 suffers physical or financial injury. If the person dies as result of the alleged action by the criminal
+19 defendant,theactionmaybebroughtbythedecedent'sestateornextofkin.
+20 III. In any action brought pursuant to this section, the court shall not apply any doctrine of
+21 judicialimmunityiftherequirementsofparagraphIaresatisfied.
+22 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2542
+12/2/25
+HB1509-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to judicial immunity and permitting civil actions against judicial officers
+forcertaincriminalbaildecisions.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 $0to$250,000 $0to$250,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill permits civil actions to be brought against judicial officers for certain criminal bail
+decisionswhenspecifiedconditionsaremet,includingreleaseofadefendantunderRSA597,the
+defendant committing a subsequent offense while on release, and resulting physical or financial
+injurytoanotherperson. Thebilleliminatesjudicialimmunityfortheseparticularclaims.
+The Judicial Branch states the fiscal impact of this bill is indeterminable, as it depends on how
+many civil actions may be filed statewide. Some filings may be minimal and require no
+additional resources, while higher case volumes could require additional judicial and clerical
+time. The Branch estimates the potential impact could range from $0 to $250,000 per year,
+depending on the number and complexity of cases filed and whether additional staff or judicial
+timewouldberequired. TheBranchcannotpredicthowmanysuitsmightbebroughtunderthis
+newcauseofaction,makingthefiscalimpactindeterminable.
+AGENCIESCONTACTED:
+JudicialBranch

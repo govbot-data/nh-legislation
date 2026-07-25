@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1030 -ASINTRODUCED
+2026SESSION
+26-2512
+09/05
+1030
+HOUSEBILL
+ANACT relativetolicensedpracticalnursescopeofpractice.
+SPONSORS: Rep.C.McGuire,Merr.27;Sen.Pearl,Dist17;Sen.Prentiss,Dist5
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillmodifiesthescopeofpracticeforlicensedpracticalnurses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1030-ASINTRODUCED
+26-2512
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolicensedpracticalnursescopeofpractice.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ScopeofPractice;LicensedPracticalNurse. AmendRSA326-B:13,I(a)-(c)toreadasfollows:
+2 (a) Collecting data and conducting [focused] subsequent nursing assessments of the
+3 healthstatusofclients.
+4 (b) Planningnursingcareforclientswithstableconditions.
+5 (c) Participating in the [development] evolution and modification of the registered
+6 nurse-initiatedcomprehensiveplanofcareforalltypesofclients.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1083-FN-ASINTRODUCED
+2026SESSION
+26-2585
+04/09
+1083-FN
+HOUSEBILL
+ANACT requiring the disclosure of the source of certain political donations in state
+elections.
+SPONSORS: Rep.Muirhead,Graf.12;Rep.Lane,Merr.16
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires persons or business organizations making certain independent campaign
+expenditurestodisclosetheexpenditures'originalsources.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1083-FN-ASINTRODUCED
+26-2585
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the disclosure of the source of certain political donations in state
+elections.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Campaign Donation; Disclosure of Names. Amend RSA 664:6 by inserting
+2 afterparagraphVIIIthefollowingnewparagraph:
+3 IX. Any person or entity that makes an independent expenditure exceeding $500,000 in
+4 support of or in opposition to a candidate for governor, or exceeding $50,000 in aggregate in support
+5 of or in opposition to one or more candidates for executive council, state senate, or state
+6 representative, shall file with the secretary of state an itemized statement disclosing the name and
+7 address of each original source of the funds used for the expenditure. For the purpose of this
+8 paragraph, "original source" means the person or business organization that contributed to the
+9 personorentitymakingthedonation.
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2585
+11/6/25
+HB1083-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the disclosure of the source of certain political donations in state
+elections.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $50,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires any person or entity making independent expenditures exceeding $500,000 in
+support of or opposition to a candidate for governor, or more than $50,000 in aggregate for
+candidates for executive council, state senate, or state representative to file an itemized
+statementwiththeSecretaryofState.
+The Department of State indicates updates would be necessary to the electronic campaign
+finance reporting system to accommodate the new disclosure requirements. The estimated cost
+forthesesystemmodificationsis$50,000.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+DepartmentofState

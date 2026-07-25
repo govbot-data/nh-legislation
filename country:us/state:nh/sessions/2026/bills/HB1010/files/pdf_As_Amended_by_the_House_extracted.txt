@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1010-ASAMENDEDBYTHEHOUSE
+19Feb2026...0274h
+2026SESSION
+26-2305
+06/05
+1010
+HOUSEBILL
+ANACT relativetomulti-familyresidentialdevelopmentoncommerciallyzonedland.
+SPONSORS: Rep. Kuttab, Rock. 17; Rep. Mandelbaum, Rock. 21; Rep. Rhodes, Ches. 17; Sen.
+Birdsell,Dist19
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Permits municipalities to allow multi-family dwelling units on commercially zoned land,
+subjecttothelocalplanningboardconfirmingtheinfrastructureisadequate.
+II. Authorizes the local planning board to deny applications to build multi-family dwelling units
+oncommerciallyzonedlandincertaincircumstances.
+III. Removes the ability for municipalities to provide an exception for requirements relative to
+the conversion of structures into multi-family dwelling units, and replaces such exception to permit
+the waiver of requirements so long as the converted dwelling unit is not altered to further violate
+zoningdimensionalrequirements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1010-ASAMENDEDBYTHEHOUSE
+19Feb2026...0274h 26-2305
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomulti-familyresidentialdevelopmentoncommerciallyzonedland.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Multi-Family Residential Development on Commercially Zoned Land; Amendment to Zoning
+2 Regulations; Conversion of Multi-Family Dwelling Units Permitted. Amend RSA 674:80 to read as
+3 follows:
+4 674:80 AmendmenttoZoningRegulations.
+5 I. Notwithstanding any provision to the contrary, municipalities shall allow multi-family
+6 [residential development] dwelling units, as defined in RS 674:43, I on commercially zoned land,
+7 provided that adequate infrastructure, including roads, water, and sewage systems, shall be
+8 available[orprovided]tosupportthedevelopment. Whereinfrastructureisnotadequateitmay
+9 be provided by the applicant in accordance with regulations. In determining whether
+10 infrastructureisadequate,theplanningboardmay:
+11 (a) For road infrastructure, require a traffic impact study to ascertain the
+12 potential impacts to the existing traffic conditions in the vicinity of the project, including
+13 but not limited to, the ability of existing road infrastructure to accommodate increased
+14 vehicular traffic, the availability of sidewalks, and infrastructure to ensure pedestrian
+15 safety.
+16 (b) For water infrastructure,require thatthe applicantreceive permission from
+17 the operator of a public water system to connect to the system or, in the absence of a public
+18 water system, receive a well permit from the department of environmental services to
+19 install a well. However, in accordance with local regulations established pursuant to RSA
+20 674:36 or 674:44, II, a planning board may require as part of the complete application a
+21 water supply study conducted by a hydrogeologist, geologist, or engineer with experience in
+22 water supply issues if the applicant proposes to use a well that will not be subject to
+23 regulation as a community water system under RSA 485:1-a, I or a large groundwater
+24 withdrawalunderRSA485-C:2,IX-a,asthewatersupplyfortheproject.
+25 (c) For sewage infrastructure, require that the applicant receive permission
+26 from the operator of a public sewer within the boundary prescribed by RSA 147:8 or as
+27 negotiatedbetweentheapplicantandoperatortoconnecttothesystem.
+28 II. The planning board may deny an application submitted pursuant to paragraph
+29 I,iftheplanningboarddeterminesthat:
+30 (a) Thevolumeoftrafficisnotsupportedbytheroaddesignattheconclusionof
+31 constructionorthedevelopmentslayoutanddesigndoesnotensurepedestriansafety;
+
+HB1010-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (b) The applicant is unable to secure a source of water, or, if applicable, the
+2 water supply study determines that one or more neighboring wells will be unable to meet
+3 existingdemands;or
+4 (c) The applicant is unable to dispose of wastewater and sewage in accordance
+5 withregulations.
+6 III. Nothing in this section shall be interpreted to prohibit municipalities from restricting
+7 residentialdevelopmentinzoneswhereindustrialandmanufacturingusesarepermittedwhichmay
+8 result in impacts that are incompatible with residential use, such as air, noise, dust, glare,
+9 vibration,odor,ortransportationimpacts.
+10 [III.]IV. Amunicipalitymayrequire all availableground floorspaceor apercentagethereof
+11 tobededicatedtoretailorsimilaruses.
+12 [IV.] V. Amunicipality[shall provideanexemptiontoanyrequirements regarding setbacks,
+13 height, or frontage of a building being converted to multi-family or mixed-use through adaptive
+14 reuse, provided that the building's floor area, height, and setbacks do not change] shall allow
+15 nonconforming structures to be converted to multi-family dwelling units or mixed use
+16 provided that the structure is not altered to further violate zoning district dimensional
+17 requirements.
+18 VI. Nothing in this section shall be construed to exempt proposed multi-family
+19 dwelling units on commercially zoned land from subdivision or site plan review
+20 regulations.
+21 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026at12:01a.m.

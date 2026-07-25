@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1651-FN-ASINTRODUCED
+2026SESSION
+26-3104
+09/08
+1651-FN
+HOUSEBILL
+ANACT establishing sexual assault orders of protection and relative to sexual assault
+survivors'rights.
+SPONSORS: Rep. Rhodes, Ches. 17; Rep. Simpson, Rock. 33; Rep. A. Murray, Hills. 20; Rep.
+Meuse,Rock.37;Rep.E.Kelly,Merr.8;Rep.Nelson,Rock.13;Rep.Kuttab,Rock.
+17; Rep. Rice, Hills. 38; Rep. N. Murphy, Hills. 12; Rep. Roy, Rock. 31; Sen.
+Perkins Kwoka, Dist 21; Sen. Gannon, Dist 23; Sen. Ricciardi, Dist 9; Sen.
+Birdsell,Dist19
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes sexual assault orders of protection and updates certain rights for sexual
+assaultsurvivors.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1651-FN-ASINTRODUCED
+26-3104
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing sexual assault orders of protection and relative to sexual assault
+survivors'rights.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Sexual Assault and Related Offenses; Sexual Assault Protective Order. Amend
+2 RSA632-Abyinsertingaftersection5thefollowingnewsection:
+3 632-A:5-a SexualAssaultProtectiveOrder.
+4 I. A person may file a civil petition in the circuit court in the district where the plaintiff or
+5 defendant resides to seek relief from the court upon demonstrating, by a preponderance of the
+6 evidence, they have been the victim of sexual assault as defined in this chapter. Upon a showing of
+7 sexual assault, the court shall grant such relief as is necessary to protect the physical, psychological
+8 or emotional wellbeing of the victim. The types of relief that may be granted, the procedures and
+9 burdensofprooftobeappliedinsuchproceedings,themethodsofnotice,service,andenforcementof
+10 suchorders,andthepenaltiesforviolationthereofshallbethesameasthosesetforthinRSA173-B.
+11 II. The minority of a plaintiff or defendant shall not preclude the court from issuing
+12 protectiveordersunderthissection.
+13 III. Any order under this section shall be for a fixed period of time not to exceed one year,
+14 but may be extended by order of the court upon a motion by the plaintiff, showing good cause, with
+15 notice to the defendant, for one year after the expiration of the first order and thereafter each
+16 extension may be for up to 5 years, upon the request of the plaintiff and at the discretion of the
+17 court. The court shall review theorder, and each renewal thereof and shall grant such relief as may
+18 be necessary to provide for the safety and well-being of the plaintiff. A defendant shall have the
+19 right to a hearing on the extension of any order under this paragraph to be held within 30 days of
+20 the extension. The court shall state in writing, at the respondent's request, its reason or reasons for
+21 granting the extension. The court shall retain jurisdiction to enforce and collect the financial
+22 supportobligationwhichaccruedpriortotheexpirationoftheprotectiveorder.
+23 IV. (a) A protective order issued pursuant to this section shall not be construed to prohibit
+24 an attorney, or any person acting on the attorney's behalf, who is representing the defendant in an
+25 action brought under this chapter, or in any criminal proceeding concerning the abuse alleged under
+26 this section, from contacting the plaintiff for a legitimate purpose within the scope of the civil or
+27 criminalproceeding;provided,thattheattorneyorpersonactingonbehalfoftheattorney: identifies
+28 himself or herself as a representative of the defendant; acknowledges the existence of the protective
+29 orderandinformstheplaintiff thatheorshe hasnoobligationtospeak;terminatescontactwiththe
+30 plaintiff if the plaintiff expresses an unwillingness to talk; and ensures that any personal contact
+
+HB1651-FN-ASINTRODUCED
+-Page2-
+1 with the plaintiff occurs outside of the defendant's presence, unless the court has modified the
+2 protectiveordertopermitsuchcontact.
+3 (b) Aviolationofthisparagraphmayresultinafindingofcontemptofcourt.
+4 V. Any law enforcement officer may arrest, without a warrant, any person that the officer
+5 has probable cause to believe has violated the provisions of this section when the offense occurred
+6 within 12 hours, regardless of whether the crime occurred in the presence of the officer. A law
+7 enforcement officer shall arrest a person when he has probable cause to believe a violation of the
+8 provisions of this section has occurred within the last 12 hours when the offense involves a violation
+9 ofaprotectiveorderissuedpursuanttoRSA173-B, RSA458:16,RSA461-A:10orparagraphIofthis
+10 section.
+11 VI.(a) A person shall be guilty of a class A misdemeanor if such person knowingly violates a
+12 protectiveorderissuedunderthissection.
+13 (b) Any person who is convicted of a second or subsequent offense under paragraph
+14 VI(a), based on a complaint which alleges that the person has had one or more prior convictions
+15 under paragraph VI(a), or under a reasonably equivalent offense in an out-of-state jurisdiction, shall
+16 beguiltyofaclassBfelony.
+17 2 SexualAssaultSurvivors'Rights. AmendRSA21-M:18,I(b)toreadasfollows:
+18 (b) Therightto:
+19 (1) Have a sexual assault evidence collection kit or its probative contents preserved,
+20 without charge, for the duration of the maximum applicable statute of limitations or 20 years,
+21 whicheveris[shorter]longer;
+22 (2) Be informed of any result of a sexual assault evidence collection kit, including a
+23 DNA profile match, toxicology report, or other information collected as part of a medical forensic
+24 examination,ifsuchdisclosurewouldnotimpedeorcompromiseanongoinginvestigation;[and]
+25 (3) Be informed in writing of policies governing the collection and preservation of a
+26 sexualassaultevidencecollectionkit[.];and
+27 (4) Be informed of the status and location of a sexual assault evidence
+28 collectionkit.
+29 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3104
+11/24/25
+HB1651-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing sexual assault orders of protection and relative to sexual assault
+survivors'rights.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1592-FN-ASINTRODUCED
+2026SESSION
+26-2925
+09/08
+1592-FN
+HOUSEBILL
+ANACT relativetocompensationforjurors.
+SPONSORS: Rep.Oppel,Graf.9
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillchangesthecompensationofjurorstomatchthefederalrate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1592-FN-ASINTRODUCED
+26-2925
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocompensationforjurors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Jurors;CompensationforJurors. AmendRSA500-A:15toreadasfollows:
+2 500-A:15 CompensationofJurors.
+3 [I.] Grandandpetitjurors'feesandmileageshallbepaidbythestate. Thejurors'feesshall
+4 be [$10 for each half day's] the federal rate as established by 28 U.S.C. section 1871 for each
+5 day'sattendancebeforeasuperiorcourt;foreachmile'straveltoandfromtheplacewherethejuror
+6 serves, mileage shall be paid at the rate of $.20 per mile, mileage to be allowed for each day's
+7 attendancewhenthejurorisrequiredtoleavethetownorcityinwhichheresides.
+8 [II. For the purposes of this section "attendance for a half day" means attendance either at
+9 theforenoonsessionorattheafternoonsession.
+10 III. The clerk of the court attended shall determine whether a juror has attended for a half
+11 day. Said clerk may count travel time to reach the place where the juror serves in determining
+12 attendance of the juror, if the juror is required to travel more than 50 miles one way by the most
+13 directroutetoreachthecourt.]
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2925
+12/2/25
+HB1592-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocompensationforjurors.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+$371,000+ $740,000+ $740,000+
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill increases juror compensation to the federal daily juror rate under 28 U.S.C. 1871
+(currently$50perday)andremovesthedistinctionbetweenhalf-dayandfull-daypayments.
+The Judicial Branch states this bill will result in an indeterminable increase in state General
+Fund expenditures, estimated at more than $370,567 in FY 2027 and more than $740,000 in FY
+2028 and FY 2029. Under current law, jurors are paid $10 for a half day and $20 for a full day.
+In Calendar Year 2024, the Branch paid 12,304 jurors for 24,704.5 juror-days, totaling $494,090
+at the current rate of $20 for a full day. At the required federal rate of $50 per day, these
+paymentswouldhavebeen$1,235,225,anannualincreaseof$741,135.
+Because the bill takes effect mid-year, FY 2027 reflects approximately half of a year’s impact
+(more than $370,567), with full costs (more than $740,000) beginning in FY 2028. The Branch
+notes that federal juror compensation may increase in the future, which would automatically
+increasestatecosts.
+AGENCIESCONTACTED:
+JudicialBranch

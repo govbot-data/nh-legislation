@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1663 -ASINTRODUCED
+2026SESSION
+26-2972
+06/07
+1663
+HOUSEBILL
+ANACT relativetoprotectionofemploymentformembersofthegeneralcourt.
+SPONSORS: Rep. Lloyd, Hills. 8; Rep. Beauchemin, Hills. 3; Rep. Booras, Hills. 8; Rep.
+Elberger, Hills. 5; Rep. Schultz, Merr. 29; Rep. Selig, Straf. 10; Rep. Tellez, Hills.
+40;Rep.Wade,Straf.15
+COMMITTEE: LegislativeAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides members of the general court with employment protection during voting
+sessionsfromemployerswith25ormoreemployees.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1663-ASINTRODUCED
+26-2972
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoprotectionofemploymentformembersofthegeneralcourt.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Employment Protections for Members of the General Court. Amend RSA
+2 275byinsertingaftersection83thefollowingnewsubdivision:
+3 EmploymentProtectionsforMembersoftheGeneralCourt
+4 275:84 RighttoLeaveWork.
+5 I. An employer shall permit an employee who is also a current member of the general court
+6 to leave work to attend general court voting each calendar year, regardless of whether the employee
+7 hasaccruedpaidtimeoff.
+8 II. Before an employee may leave work under this provision, the employee shall provide the
+9 employer with a copy of the notice for each general court session day they will attend within a
+10 reasonableperiodoftime.
+11 III. An employer shall not discharge an employee who is a member of the general court for
+12 attendinganoticedanddisclosedsessionofthegeneralcourt.
+13 IV. An employer may require a member of the general court to use the employee's accrued
+14 vacationtime,personalleavetime,orpaidtimeofftoattendanoticedanddisclosedvotingsessionof
+15 the general court. If the employee does not have accrued paid time off, their absence to attend
+16 generalcourtvotingshallbegrantedasunpaidtimeoff.
+17 V. Anyemployerwhoviolatesthissectionshallbesubjecttoacivilpenalty,tobeimposedby
+18 the labor commissioner in accordance with the procedures established in RSA 273:11-a. An
+19 employer aggrieved by the commissioner's assessment of such penalty may appeal in accordance
+20 withRSA273:11-c.
+21 VI. Thissectionshallapplytoemployerswith25ormoreemployees.
+22 275:85 Enforcement. The labor commissioner shall have the power and it shall be his or her
+23 dutytoenforcetheprovisionsofRSA275:84throughappropriateactionsinresponsetocomplaints.
+24 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

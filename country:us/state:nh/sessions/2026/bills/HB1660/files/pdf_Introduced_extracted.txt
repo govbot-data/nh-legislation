@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1660 -ASINTRODUCED
+2026SESSION
+26-2904
+07/06
+1660
+HOUSEBILL
+ANACT relativetomunicipalcreditenhancementagreementsandtaxincrementfinancing
+forpriorityhousingdevelopment.
+SPONSORS: Rep.Veilleux, Hills.34; Rep. Dargie,Hills. 43;Rep. Edgar, Rock.29; Rep. Gruber,
+Ches.16;Rep.Grund,Hills.34;Rep.MaryMurphy,Hills.27;Rep.D.Paige,Carr.
+1;Sen.Watters,Dist4
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Enables municipalities to enter into project-based credit enhancement agreements for
+housing.
+II. Clarifiesequalizedvaluationtreatmentforhousing-relatedtaxincrementfinancing.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1660-ASINTRODUCED
+26-2904
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomunicipalcreditenhancementagreementsandtaxincrementfinancing
+forpriorityhousingdevelopment.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. Thegeneralcourtherebyfindsthat:
+2 I. NewHampshiremunicipalitiescurrentlyhaveauthorityunderRSA162-Ktoestablishtax
+3 incrementfinancing(TIF)districts.
+4 II. TIF districts allow a municipality to capture increases in property tax value within a
+5 designateddistrictanddirectthoserevenuestowardpublicimprovements.
+6 III. Municipalities may also negotiate agreements with developers under a TIF framework,
+7 buttheseagreementsaretiedtodistrictformationandprimarilyusedforcommercialdevelopment.
+8 IV. Credit enhancement agreements (CEAs) provide communities with a tool to address an
+9 urgent need by incentivizing specific projects, tailoring requirements to local circumstances, and
+10 streamliningtheprocesswithoutrequiringaTIFdistrictdesignation.
+11 V. New Hampshire faces a shortage of senior housing, skilled care facilities, and workforce
+12 housing.
+13 VI. Current TIF law is not well-suited to housing because district formation is burdensome
+14 andpoliticallycontentious,particularlyforsmall-scaleprojects.
+15 VII. Without explicit statutory authority, municipalities lack a flexible tool to encourage
+16 housingconstructionoradaptivereuseprojects.
+17 VIII. Including housing-related captured assessed value in equalized valuation penalizes
+18 townsbyartificiallyinflatingtheirstatepropertytaxbase,disincentivizinguseofTIFforhousing.
+19 2 New Paragraphs; The State and Its Government; General Provisions; Equalization Procedure.
+20 AmendRSA21-J:9-abyinsertingafterparagraphVthefollowingnewparagraphs:
+21 VI. As it pertains to determining the equalization of property within the cities, towns, and
+22 unincorporated places, the department shall exclude from equalized valuation the rebated portion of
+23 housing-basedcapturedassessedvalue.
+24 VII. As it pertains to determining the equalization of property within the cities, towns, and
+25 unincorporated places, the department shall require that equalization values include commercial
+26 andindustrialcapturedvalue.
+27 VIII. The department shall adopt rules, pursuant to RSA 541-A, pertaining to proportional
+28 assessedpropertyvaluesandmixed-useallocations.
+29 IX. The department shall require property assessors to obtain certifications pertaining to
+30 theirqualificationsaspropertyassessors,asdeterminedbythedepartment.
+
+HB1660 -ASINTRODUCED
+-Page2-
+1 X. The department shall require that property assessors report on credit enhancement
+2 agreement-andtaxincrementfinancing-relatedhousingdata.
+3 3 New Paragraph; The State and Its Government; Property Tax Rates; Reports Required.
+4 AmendRSA21-J:34byinsertingafterparagraphXVthefollowingnewparagraph:
+5 XVI. An equalization report shall be filed by the local assessor of each city, town, village
+6 district, unincorporated town, unorganized place, or county, within 20 days of the close of each
+7 annualmeetingbythecity,town,villagedistrict,unincorporatedtown,unorganizedplace,orcounty,
+8 showinglocaldataregardingcreditenhancementagreementsandmixed-useallocations.
+9 4 New Section; Towns, Cities, Village Districts, And Unincorporated Places; Municipal Budget
+10 Law; Treatment of Credit Enhancement Agreements. Amend RSA 32 by inserting after section 26
+11 thefollowingnewsection:
+12 32:27 Treatment of Credit Enhancement Agreements. Notwithstanding any provision of law to
+13 the contrary, all towns, cities, towns, village districts, unincorporated towns, unorganized places,
+14 and counties shall be required to treat rebates as non-lapsing special revenues, or otherwise require
+15 annualappropriationsforpurposesoftransparency.
+16 5 New Paragraphs; Public Safety and Welfare; Municipal Economic Development and
+17 Revitalization Districts; Definitions. Amend RSA 162-K:2 by inserting after paragraph XI the
+18 followingnewparagraphs:
+19 XII. "Credit enhancement agreement" means a written agreement approved by a municipal
+20 legislativebodyunderRSA162-K:9-athatprovidesforrebatingaportionoftaxrevenueattributable
+21 to captured assessed value to the owner/developer of a qualifying housing project. Credit
+22 enhancementagreementsshallonlyapplytorentaloroperator-managedhousingfacilities.
+23 XIII. "Qualifyinghousingproject"meansanyofthefollowing:
+24 (a) Seniorhousingcommunitiescompliantwith42U.S.C.Section3607(b);
+25 (b) ContinuingcareretirementcommunitiesunderRSA420-D;
+26 (c) SkilledcareornursingfacilitieslicensedunderRSA151;
+27 (d) AssistedlivingfacilitiesunderRSA151;
+28 (e) WorkforcehousingasdefinedinRSA674:58,or
+29 (f) Other housing that addresses documented community housing needs as identified in
+30 amunicipal master plan, aregional housingneeds assessment, statewidehousingguidance, or other
+31 reliablehousingdatasources.
+32 "Qualifying housing project" shall exclude conversions of existing habitable residential units,
+33 individually owned dwelling units, including condominiums, condexes, single-family homes, or
+34 luxury or market-rate developments undertaken primarily for commercial, resort, or seasonal
+35 purposes.
+
+HB1660 -ASINTRODUCED
+-Page3-
+1 XIV. "Adaptive reuse" means a conversion of a habitable structure previously used for
+2 nonresidential purposes, or one that has been uninhabitable for at least 12 months, to one used for
+3 residentialoccupancy.
+4 XV. "Captured assessed value" means the increase in assessed value of a qualifying housing
+5 project over its original assessed value, as determined at the commencement of a credit
+6 enhancementagreementunderRSA162-K:9-a.
+7 XVI. "Housing-based increment" means the portion of captured assessed value representing
+8 the increase in assessed value of a qualifying housing project over its original assessed value,
+9 attributableto:
+10 (a) AcreditenhancementagreementunderRSA162-K:9-a;or
+11 (b) Thehousingcomponentofataxincrementfinancingdistrict.
+12 XVII. "Commercial increment" or "industrial increment" means captured assessed value
+13 attributabletonon-housingdevelopmentwithinataxincrementfinancingdistrict.
+14 XVIII. "Compliance period" means a period of 5-10 years where a project maintains
+15 qualifyingstatusunderacreditenhancementagreements.
+16 6 New Paragraphs; Public Safety and Welfare; Municipal Economic Development and
+17 Revitalization Districts; Tax Increment Financing Plan. Amend RSA 162-K:9 by inserting after
+18 paragraphIVthefollowingnewparagraphs:
+19 V. Nothing in this section shall preclude a municipality from entering into a credit
+20 enhancement agreement under RSA 162-K:9-a for a qualifying housing project located within a
+21 developmentdistrict.
+22 VI. Under this section, housing-based increments shall be treated in accordance with RSA
+23 162-K:10.
+24 7 New Section; Public Safety and Welfare; Municipal Economic Development and Revitalization
+25 Districts; Credit Enhancement Agreements. Amend RSA 162-K by inserting after section 9 the
+26 followingnewsection:
+27 162-K:9-a CreditEnhancementAgreements.
+28 I. This section shall enable municipalities to proactively use regional housing needs
+29 assessments and statewide housing guidance to identify appropriate housing projects for their
+30 communities, and shall employ credit enhancement agreements as a tool, among others, to
+31 encouragesuchdevelopment.
+32 II. Prior to entering into a credit enhancement agreement under this section, the governing
+33 body of the municipality shall make findings in public record that the project addresses one or more
+34 housingneedsidentifiedin:
+35 (a) Themunicipality’smasterplanorhousingchapter;
+36 (b) Any regional housing needs assessment published by the applicable regional
+37 planningcommission;
+
+HB1660 -ASINTRODUCED
+-Page4-
+1 (c) Statewide housing guidance issued by the department of business and economic
+2 affairs;or
+3 (d) Other reliable housing data sources, including publications by the housing finance
+4 authority, the Census Bureau, or other comparable governmental or nonprofit entities. Such
+5 findings shall be advisory in nature and shall not limit the discretion of the municipality to
+6 determinetheappropriatenessoftheproject.
+7 III. Creditenhancementagreementsshallbelimitedtoqualifyinghousingprojectspursuant
+8 toRSA162-K:2,andshallexcludeconversionsofexistinghabitableresidentialunits.
+9 IV. Acreditenhancementagreementmayprovidefortherebateofnotmorethan50percent
+10 of the housing-based increment attributable to the housing portion of a qualifying project to the
+11 developer. Thebalanceshallberetainedbythemunicipality.
+12 V. Municipal legislative body approval shall be required for credit enhancement agreements
+13 upontheconclusionofapublichearing.
+14 VI. Credit enhancement agreements shall have a term up to 20 years, which may be
+15 extended beyond 20 years at the municipality’s discretion upon a determination by the legislative
+16 body that the project would not remain viable in its proposed form without the credit enhancement
+17 agreement.
+18 VII. Credit enhancement agreements shall have a minimum term of 5 years, where early
+19 terminationoftheagreementshallrequirerepayment.
+20 VIII. Credit enhancement agreements may be voluntarily terminated after 5 years if the
+21 developer provides evidence justifying a lack of demand or viability. Voluntary termination shall
+22 requireapprovalbythemunicipality'sgoverningbodyandcertificationbythedepartmentofrevenue
+23 administration.
+24 IX. Anannualcompliancecertificationforcreditenhancementagreementsshallberequired.
+25 X. A credit enhancement agreement shall be automatically terminated if the project ceases
+26 tosatisfyallprovisionsofthissection.
+27 XI. A developer may request termination of a credit enhancement agreement if market
+28 conditions or lack of demand make continuation of the agreement unviable. Metrics for determining
+29 viability may include sustained occupancy below a threshold percentage of units, financial distress,
+30 orinabilitytomeetlicensingoroperationalstandards.
+31 XII. A credit enhancement agreement shall not be construed to grant the municipality an
+32 ownershiporequityinterestintheproject. Agreementsshallbelimitedtotherebateofpropertytax
+33 revenuesfromcapturedassessedvalueasprovidedinthissection.
+34 XIII. Credit enhancement agreements shall not be considered general obligation debt.
+35 Paymentspursuanttosuchagreementsshallbelimitedtothecapturedrevenuereceived.
+
+HB1660 -ASINTRODUCED
+-Page5-
+1 8 New Paragraphs; Public Safety and Welfare; Municipal Economic Development and
+2 Revitalization Districts; Computation of Tax Increments. Amend RSA 162-K:10 by inserting after
+3 paragraphIVthefollowingnewparagraphs:
+4 V. Original assessed value of a project shall be defined at the start of a credit enhancement
+5 agreement.
+6 VI. The portion of captured assessed value not rebated under a credit enhancement
+7 agreement shall be retained by the municipality. If the project is located within a tax increment
+8 financing district, such retained portion may be applied to purposes authorized under the district’s
+9 developmentprogram. Iftheprojectisnotwithinataxincrementdistrict,theretainedportionshall
+10 beappliedtogeneralmunicipalpurposes.
+11 VII. For purposes of this section, the term "housing-based increment" shall be considered a
+12 subsetofcapturedassessedvalue.
+13 VIII. For purposes of equalization under RSA 21-J:9, the captured assessed value
+14 attributable to a qualifying housing project subject to a credit enhancement agreement under RSA
+15 162-K:9-a shall be excluded from the equalized valuation of the municipality for a period not to
+16 exceed 10 years from the commencement of the agreement. Thereafter, such value shall be included
+17 inequalizedvaluationregardlessofthecontinuingtermoftheagreement.
+18 IX. Property assessors shall annually report to the department of revenue administration
+19 local credit enhancement agreements with captured values, rebate percentages, and payment
+20 amounts.
+21 X. Thefollowingshallapplytorulespertainingtoequalizedvaluations:
+22 (a) The rebated portion of the housing-based increment under a credit enhancement
+23 agreement, and the rebated housing portion of any tax increment financing district, shall be
+24 excludedfromequalizedvaluation.
+25 (b) Allcommercialindustrialincrementsshallbeincluded.
+26 (c) Mixed-use allocations shall be split by assessed value, or otherwise defined by the
+27 departmentofrevenueadministrationpursuanttorulesadoptedunderRSA541-A.
+28 (d) Tax rate mechanics shall preserve a parallel process for credit enhancement
+29 agreements.
+30 9 Public Safety and Welfare; Municipal Economic Development and Revitalization Districts;
+31 AnnualReport. AmendRSA162-K:11toreadasfollows:
+32 162-K:11 AnnualReport.
+33 I. The municipality's annual report shall contain a financial report for any development
+34 district in the municipality. The report shall include at least the following information: the amount
+35 and source of revenue of the district, the amount and purpose of expenditures, the amount of
+36 principal and interest on any outstanding bonded indebtedness, the original assessed value of the
+
+HB1660 -ASINTRODUCED
+-Page6-
+1 district, the captured assessed value retained by the district, the tax increments received and any
+2 additionalinformationnecessarytodemonstratecompliancewiththetaxincrementfinancingplan.
+3 II. The municipality's annual report shall contain information regarding all
+4 project types, original and current project values, captured values, rebate percentages,
+5 rebatedamounts,compliancestatuses,terminations,andremainingprojectterms.
+6 III. The department of revenue administration is hereby authorized to issue
+7 reporting forms schedules to aid municipalities in completing annual reports under this
+8 section.
+9 10 New Section; Planning and Zoning; Local Land Use Planning and Regulatory Powers; Senior
+10 HousingAccess. AmendRSA674byinsertingaftersection59thefollowingnewsection:
+11 674:59-a SeniorHousingAccess.
+12 I. Municipalities shall provide reasonable and realistic opportunities to senior housing
+13 access. Such opportunities shall be limited to new construction projects or projects that adapt and
+14 reuse nonresidential buildings to provide for senior housing, and shall not include conversions of
+15 existinghousingunits.
+16 II. No requirement shall be instituted pursuant to this section that would, in effect, exclude
+17 seniorhousingaccess.
+18 III. Appeals for senior housing access may be taken, pursuant to this section, in the same
+19 mannerasinRSA674:61.
+20 IV. No blanket zoning or local control preserve requirements shall be required under this
+21 section.
+22 11 Applicability; Credit Enhancement Agreements. Credit enhancement agreements executed
+23 priortoApril1, 2037,pursuanttoRSA162-K:9-a,shallcontinue ineffectaccordingtotheirterms at
+24 thetimeoftheirexecution,andshallnotbevoidedorrequirereadoptionorreexecution.
+25 12 Repeal. RSA162-K:9-a,relativetocreditenhancementagreements,isrepealed.
+26 13 EffectiveDate.
+27 I. Section12ofthisactshalltakeeffectApril1,2037.
+28 II. TheremainderofthisactshalltakeeffectApril1,2027.

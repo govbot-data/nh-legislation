@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1768-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0358h
+2026SESSION
+26-2926
+06/08
+1768-FN
+HOUSEBILL
+ANACT exempting honorably discharged New Hampshire veterans from metered parking
+fees at state parks upon presenting acceptable proof of status and raising the
+value of individual gifts and donations that may be received by the division of
+parks and recreation without the approval of the governor or the executive
+council.
+SPONSORS: Rep.Bridle,Rock.29;Rep.Bordes,Belk.5;Rep.Coker,Belk.2;Rep.Edgar,Rock.
+29;Rep.McGrath,Rock.40
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill exempts honorably discharged New Hampshire veterans from metered parking fees at
+state parks upon presenting acceptable proof of status and raises the value of individual gifts and
+donations that may be received by the division of parks and recreation without the approval of the
+governorortheexecutivecouncil.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1768-FN-ASAMENDEDBYTHEHOUSE
+12Feb2026...0358h 26-2926
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT exempting honorably discharged New Hampshire veterans from metered parking
+fees at state parks upon presenting acceptable proof of status and raising the
+value of individual gifts and donations that may be received by the division of
+parks and recreation without the approval of the governor or the executive
+council.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Fees for Park System. Amend RSA 216-A:3-g by inserting after paragraph
+2 Vthefollowingnewparagraphs:
+3 V-a. Nometeredparkingfeeshallbechargedatanystateparklot,includingbutnotlimited
+4 to Hampton Beach South and Wallis Sands, for any vehicle displaying a veteran license plate issued
+5 bytheNewHampshiredivisionofmotorvehicles.
+6 V-b.(a) Notwithstanding any other provision of law to the contrary, the department of
+7 naturalandculturalresources,throughthedivisionofparksandrecreation,maysolicit,receive,and
+8 procure monetary or in-kind donations for the purpose of offsetting revenue losses resulting from
+9 statutory exemptions from day-use admission or parking fees, including, but not limited to,
+10 exemptionsforpersonswithdisabilitiesandhonorablydischargedveterans.
+11 (b) Donations received under this paragraph may be acknowledged through limited
+12 sponsor recognition, including the display of a name, logo, or identifying mark, as determined by the
+13 department, provided that such recognition is incidental to the donation, non-promotional in nature,
+14 anddoesnotimplyendorsementbythestate.
+15 (c) All monetary donations received under this paragraph shall be deposited in the state
+16 parksgiftsanddonationsaccountestablishedunderRSA216-A:3-oandexpendedinaccordancewith
+17 thatsection.
+18 2 Expansion of State Park System; State Park Gifts and Donations; Account Established.
+19 AmendRSA216-A:3-o,Itoreadasfollows:
+20 I. Notwithstandinganyotherprovisionoflawtothecontrary,individual giftsand donations
+21 not exceeding [$2,500] $50,000 in value in a fiscal year may be received by the division of parks and
+22 recreation without the approval of the governor or [the governor and] council. Individual gifts and
+23 donations exceeding [$2,500] $50,000 in value in a fiscal year may be received by the division of
+24 parksandrecreationwiththeapprovalofthegovernorandcouncil.
+25 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2926
+03/02/2026
+HB1768-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0358h)
+ANACT exempting honorably discharged New Hampshire veterans from metered parking
+fees at state parks upon presenting acceptable proof of status and raising the
+value of individual gifts and donations that may be received by the division of
+parks and recreation without the approval of the governor or the executive
+council.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Decrease Decrease Decrease
+($70,000to ($70,000to ($70,000to
+$165,000)(State $165,000)(State $165,000)(State
+ParkFund) ParkFund) ParkFund)
+Revenue $0
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+(StateParks (StateParks (StateParks
+Giftsand Giftsand Giftsand
+DonationsFund) DonationsFund) DonationsFund)
+RevenueFund(s) StateParkFundandStateParksGiftsandDonationsFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill exempts vehicles displaying a New Hampshire veteran license plate from metered
+parking fees at state parks and authorizes the Division of Parks and Recreation to solicit and
+receive individual gifts and donations not exceeding $50,000 in value in a fiscal year without
+approvaloftheGovernorandExecutiveCouncil.
+The Department of Natural and Cultural Resources states this bill would reduce revenues to the
+State Park Fund beginning in FY 2027. During the 2025 operating season, the Department
+generated$3,083,467inparkingmeterfees.
+Based on data published by New Hampshire Employment Security, approximately 7% of New
+Hampshire residents are veterans. Because the Department does not track either the residency
+
+or veteran plate status of park visitors, it assumed that between 33% and 75% of park visitors
+are New Hampshire residents, and that 7% of those residents would qualify for the exemption.
+Using those assumptions, the Department estimates the annual revenue loss for a full operating
+seasonwouldrangefromapproximately$71,228to$161,882,asshownbelow:
+AssumedShareofNHResidentVisitors EstimatedAnnualRevenueLoss
+33%ofvisitors $71,228
+50%ofvisitors $107,921
+66%ofvisitors $142,456
+75%ofvisitors $161,882
+The bill also increases the threshold for individual gifts and donations that may be accepted by
+the Division of Parks and Recreation without approval of the Governor and Executive Council
+from$2,500to$50,000. Totheextentdonorsprovidegiftsinexcessoftheprior$2,500limit, the
+State Parks Gifts and Donations Account established under RSA 216-A:3-o could experience an
+indeterminable increase in revenue ranging from $0 to $47,500 per individual gift, depending on
+the amount and number of donations received. The Department did not estimate the amount of
+potentialadditionaldonations.
+AGENCIESCONTACTED:
+DepartmentofNaturalandCulturalResources

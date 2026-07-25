@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1665-ASAMENDEDBYTHEHOUSE
+12Mar2026...0696h
+2026SESSION
+26-2980
+09/06
+1665
+HOUSEBILL
+ANACT relativetotheissuanceofsubpoenasinadministrativeproceedings.
+SPONSORS: Rep. Popovici-Muller, Rock. 17; Rep. Lynn, Rock. 17; Rep. Manohar, Hills. 9; Rep.
+Hegner,Hills.41;Rep.Polozov,Merr.10;Sen.Murphy,Dist16
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows for all parties to an administrative proceeding to subpoena witnesses and
+documents.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1665-ASAMENDEDBYTHEHOUSE
+12Mar2026...0696h 26-2980
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheissuanceofsubpoenasinadministrativeproceedings.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Administrative Procedure Act; Rules for Adjudicatory Proceedings. Amend
+2 RSA541-A:30-abyinsertingafterparagraphVIIIthefollowingnewparagraph:
+3 IX. All parties to an administrative hearing held pursuant to law shall have equal authority
+4 to subpoena witnesses or documents, and that authority shall be identical to the authority set forth
+5 inRSA516:2throughRSA516:5.
+6 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

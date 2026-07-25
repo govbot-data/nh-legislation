@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1826-FN-ASINTRODUCED
+2026SESSION
+26-3123
+07/09
+1826-FN
+HOUSEBILL
+ANACT relativetothecostofanopportunityforanadequateeducation.
+SPONSORS: Rep.Ladd,Graf.5
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillraisesthecostassociatedwithprovidinganopportunityforanadequateeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1826-FN-ASINTRODUCED
+26-3123
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecostofanopportunityforanadequateeducation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; School Money; Cost of an Opportunity for an Adequate Education. Amend RSA
+2 198:40-a,I-IItoreadasfollows:
+3 I. For the biennium beginning July 1, [2023] 2027, the annual cost of providing the
+4 opportunity for an adequate education as defined in RSA 193-E:2-a shall be as specified in
+5 paragraph II. The department shall adjust the rates specified in this paragraph in accordance with
+6 RSA198:40-d.
+7 II.(a) Acostof[$4,100]$4,438perpupilintheADMR,plusdifferentiatedaidasfollows:
+8 (b) Anadditional[$2,300]$2,441foreachpupilintheADMRwhoiseligibleforafreeor
+9 reducedpricemealanytimeduringthedeterminationyear;plus
+10 (c) An additional [$800] $866 for each pupil in the ADMR who is an English language
+11 learneranytimeduringthedeterminationyear;plus
+12 (d) An additional [$2,100] $3,203 for each pupil in the ADMR who is receiving special
+13 educationservicesanytimeduringthedeterminationyear.
+14 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3123
+Revised1/12/26
+HB1826-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothecostofanopportunityforanadequateeducation.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+IndeterminableIncrease
+Expenditures* $0 $0 Approximately$27Million
+PerYear
+FundingSource(s) EducationTrustFund
+Statutory"OpenWarrant"Exists
+Appropriations* $0 $0 forDistrictAdequacy,Charter
+School,andEFAPayments
+FundingSource(s) EducationTrustFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+IndeterminableIncrease
+LocalRevenue $0 $0 Approximately$25Million
+PerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+ThisbillchangesperpupiladequacyratesdefinedinRSA198:40-aeffectiveFY2028asfollows:
+DifferentiatedAid
+FY2028 Base
+Special
+F&R
+Education
+CurrentLaw $4,439 $2,490 $2,274
+ProposedBill $4,438 $2,441 $3,203
+Increase/(Decrease) ($1) ($49) $929
+This change will impact state adequacy aid to school districts, as well as state payments for
+charter schools and education freedom accounts (EFAs). Data for FY 2028 payments is not yet
+
+available, therefore this bill’s impact cannot be estimated at this time. Using most current data
+available, this bill will likely increase total state education trust fund expenditures by
+approximately $27 million per year ($25 million for district adequacy and $1 million each for
+charterschoolsandEFAs).
+It should be noted that this bill’s effective date is “60 days after its passage”. To not affect FY
+2027 education payment calculations, the effective date should be July 1, 2027, which would
+meetthebill’sintentofhavingFY2028beingthefirstyearofimpact.
+AGENCIESCONTACTED:
+DepartmentofEducation

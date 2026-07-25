@@ -1,0 +1,249 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1598-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0463h
+05/07/2026 1771s
+2026SESSION
+26-3181
+07/06
+1598-FN
+HOUSEBILL
+ANACT relative to notice and proceedings for tenants and landlords engaged in eviction
+processes.
+SPONSORS: Rep. Dumont, Hills. 13; Rep. Cole, Hills. 26; Rep. Beaulier, Graf. 1; Rep. Ulery,
+Hills.13;Sen.Carson,Dist14
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill amends various landlord/tenant laws to makes it easier for landlords to evict tenants
+fornon-paymentofrentorforamaterialbreachofarentalagreement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1598-FN-ASAMENDEDBYTHESENATE
+19Feb2026...0463h
+05/07/2026 1771s 26-3181
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to notice and proceedings for tenants and landlords engaged in eviction
+processes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Actions Against Tenants; Writ; Service; Discovery; Record; Default. Amend RSA 540:13, II-V
+2 toreadasfollows:
+3 II. The writ shall be accompanied by a notice from the district court, printed in no smaller
+4 than12-pointtype,informingthetenantthat:
+5 (a) If the tenant wishes to contest the eviction, he [must] or she shall file an
+6 appearance in the district court no later than the return day appearing on the writ and file an
+7 answer not more than 5 days after the return date stating the defendant’s affirmative
+8 defensesand/orcounterclaims.
+9 (b) The tenant shall not be evicted unless the court so orders; however, such an order
+10 maybegrantedifthetenantdoesnotfileanappearance.
+11 (c) At the time the tenant files his appearance, he or she may request that the court
+12 make a sound recording of the eviction hearing by checking an appropriate box on the appearance
+13 form.
+14 (d) Ifthetenantwishestoappealthedistrictcourt'sdecision,he[must]orsheshall:
+15 (1) File a notice of intent to appeal with the district court within 7 days of the notice
+16 ofthedistrict'sdecision;and
+17 (2) File a notice of appeal in the supreme court within 30 days of the notice of the
+18 districtcourt'sdecision;and
+19 (3) Pay all rent, as it comes due, between the date of the notice of intent to appeal
+20 thedistrictcourt'sdecisionandthefinaldispositionoftheappeal.
+21 (e) If the tenant files any post-judgement motions, including, but not limited to,
+22 a motion for reconsideration, the tenant shall pay all rent, as it comes due, between the
+23 dateofthemotionandthefinalrulingonthemotion.
+24 III. The writ of summons and the notice provided in paragraph II shall be returnable 7 days
+25 fromthedateofserviceofthewrit bythesheriff. Thewritof summonsshall provideanopportunity
+26 for the landlord, at the landlord's option, to make a claim for an award of unpaid rent. If the
+27 landlord elects to make a claim for unpaid rent, the court shall consider any defense, claim, or
+28 counterclaim pled by the tenant which offsets or reduces the amount owed to the plaintiff. If the
+29 court finds that the landlord is entitled to possession on the ground of nonpayment of rent, it shall
+
+HB1598-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 also award the landlord a money judgment. If the court determines that the amount owed by the
+2 landlordtothetenant,asaresultofset-offorcounterclaimexceedsorequalstheamountofrentand
+3 other lawful charges owed by the tenant to the landlord, judgment in the possessory action shall be
+4 granted in favor of the tenant. If the court finds that the tenant's counterclaim exceeds the amount
+5 of the nonpayment, a money judgment shall issue in favor of the tenant. Any decision rendered by
+6 the court related to a money judgment, shall be limited to a maximum of $1,500 and shall not
+7 precludeeither party from makinga subsequent claim in acourt of competent jurisdictionto recover
+8 anyadditionalamountsnotcoveredbythe$1,500judgment.
+9 IV. Both parties shall have a right to engage in discovery prior to the hearing on the merits
+10 within such time frame as may be established for eviction actions by the Rules of the District Court,
+11 provided, absent good cause or agreement of the parties, any motion for continuance to
+12 allow time to complete discovery shall be filed no later than 5 days after the return day
+13 appearing on the writ. Any party that requests discovery shall state the defense, claim, or
+14 counterclaimrelevanttotherequest.
+15 IV-a. If the tenant raises a defense at the hearing on the merits that the landlord
+16 did not have prior notice of, the landlord shall be entitled to a continuance of the hearing
+17 nottobemorethan7daysunlesslandlordrequestsalongertimetopreparearesponse.
+18 V. If the tenant files an appearance, a hearing shall be scheduled to occur within 10 days
+19 after such filing, with allowance for additional time pursuant to paragraph IV, with notice of the
+20 hearing mailed to the parties no fewer than 6 days prior to the hearing. If the tenant fails to file an
+21 appearance or fails to appear at the hearing on the merits, the tenant shall be considered in
+22 default, and the court shall mail a notice of default to the [address] addresses set forth on the
+23 summons [at least 3 days prior to the issuance of the writ of possession.] the day following
+24 default. If both the plaintiff and defendant appeared at the hearing on the merits, the
+25 court shall mail a notice of judgment to the addresses set forth on the summons as soon as
+26 possible,but no later than2 daysafter the hearing onthe merits. Sevendays after mailing
+27 such notice, if the prevailing party was the landlord, then the court shall enter judgment
+28 forthelandlordandissuethewritofpossessionforthwith.
+29 V-a. Any motiontocontinue orotherwisedelay thehearingonthemeritsshouldnot
+30 begrantedwithoutgoodcauseorbyagreementoftheparties.
+31 2 Actions Against Tenants; Discretionary Stay Dependent on Payment of Rent. Amend RSA
+32 540:13-c,Itoreadasfollows:
+33 I. Any tenant default under this chapter shall preclude any discretionary stay. If
+34 the defendant [defaults, or] confesses judgment, or if on trial the court rules that the landlord has
+35 sustained his complaint, judgment shall be rendered that the landlord recover possession of the
+36 premises and costs. A writ of possession shall be issued, provided that, the court may order the
+37 tenant shall not be dispossessed until a date not later than [3 months] 60 days, unless the
+
+HB1598-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 defendant proves that a longer discretionary stay will not result in financial harm to the
+2 plaintiff, damage to the premises, or ongoing threats to the health or safety of the landlord
+3 or other tenants, and that the defendant needs additional time due to factors such as
+4 tenant age, familial status, disability, or limited English proficiency, whereupon the court
+5 may grant a discretionary stay of not more than 75 days from such [default,] confession of
+6 judgment[,] or ruling of the court that the landlord has sustained his complaint, provided the
+7 court decides that under all the circumstances justice requires such stay, based on the
+8 reasonableness and good faith of the parties in their respective reports, complaints, demands, and
+9 evidence. In the event of any such stay of dispossession, the tenant shall pay the landlord weekly in
+10 advance the weekly former rent, or the proportional weekly part of the former rent if rent was
+11 payable less often than weekly, and on default of any such advance weekly payment a writ of
+12 possessionshallbeissuedforthwithandthesheriffshallevictthetenantassoonaspossible.
+13 3 New Paragraph; Actions Against Tenants; Judgment. Amend RSA 540:14 by inserting after
+14 paragraphIVthefollowingnewparagraph:
+15 V. No delayof servicebythesheriff shall later invalidateawrit of possessionthat was valid
+16 whentheplaintiffdirectedthesherifftoserveit.
+17 4 Prohibited Practices and Security Deposits; General Prohibitions. Amend RSA 540-A:2 to
+18 readasfollows:
+19 540-A:2 GeneralProhibition.
+20 I. No landlord shall willfully violate a tenant's right to quiet enjoyment of his tenancy or
+21 attempt tocircumvent lawful procedures for eviction pursuant toRSA540. [No tenant shall willfully
+22 damage the property of the landlord or prevent completion of necessary repairs or willfully deny
+23 tenantstheirrighttoquietenjoymentoftheirtenancies.]
+24 II. No tenant, members of the tenant’s household, guests, or other occupants of the
+25 premisesshall willfully damage the property of the landlordor willfully deny tenants their
+26 righttoquietenjoymentoftheirtenancies.
+27 III. No tenant, members of the tenant’s household, guests or other occupant of the
+28 premises shall willfully engage in behavior which unreasonably and adversely affects the
+29 health or safety of other tenants, the landlord, or the landlord’s agent; or willfully prevent
+30 thelandlordfrommakingemergencyrepairs.
+31 5 Prohibited Practices and Security Deposits; Remedies. Amend RSA 540-A:4, VII to read as
+32 follows:
+33 VII. Upon a [showing] ruling of the court follow a hearing on the merits of a violation
+34 of RSA 540-A:2 or RSA 540-A:3, I, II, or III, the court shall grant such relief as is necessary to
+35 protecttherightsoftheparties. Suchreliefmayinclude:
+36 (a) An order prohibiting the defendant from continuing the activity or activities which
+37 violateRSA540-A:2orRSA540-A:3;[and]
+
+HB1598-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 (b) An order that the defendant, members of a tenant’s family, guests or
+2 occupants must immediately vacate the rented or leased premises and not return to the
+3 rented or leased premises or the common areas of such without further order of the court.
+4 Such order shall only be issued against the person or persons who have been found to have
+5 violatedRSA540-A:2,III;and
+6 (c) At least 5 days prior to the hearing on the merits the parties shall provide
+7 eachotherwithacopyofeachdocumentheorsheintendstoofferintoevidence,whichmay
+8 be done electronically. If either party fails to comply with this requirement, upon the
+9 request of the party who did not receive the documents, the court shall continue the
+10 hearingfornomorethan5days.
+11 [(b)] (d) An award of damages to the plaintiff for the violations of RSA 540-A, breach of
+12 warranty of habitability, breach of the covenant of quiet enjoyment or any other claim arising out of
+13 thefactsallegedintheplaintiff'spetition.
+14 [(c)](e) ForpurposesofRSA540-A:3,IX:
+15 (1) Whenthedefendantclaimstobeasubtenantoranimpliedtenant,thedefendant
+16 shall bear the burden of proof to establish such status. Evidence to prove tenancy may include, but
+17 isnotlimitedto:
+18 (A) An unexpired written lease signed and dated by the tenant and landlord or
+19 thetenantandlandlord'sagent;
+20 (B) Acopyofcanceledchecksormoneyordersdatedwithinonemonthofdate-of-
+21 offerofsuchproof,indicatingitwaspaidtothelandlordorlandlord'sagent andwhichwasmadeby,
+22 oronbehalfof,thetenant;
+23 (C) A copy of cash rent receipts dated within one month of date-of-offer of such
+24 proof,thatwassignedanddatedbythelandlordorlandlord'sagent;
+25 (D) Writtenproofofrentpaymentmadewithinonemonthofdate-of-offerofsuch
+26 proof from Venmo, ACH payment, EFT payment, or other electronic direct payment methods to the
+27 accountofthelandlordorlandlord'sagent;or
+28 (E) Copy of emails, texts, or other electronic messages which when taken
+29 together establish an agreement between the landlord or landlord's agent that the occupant may
+30 resideatthepremises.
+31 (2) This subparagraph shall not be construed to prevent an occupant claiming to be
+32 animpliedtenantfrompresentingevidenceinsupportoftheirclaimthatbasedonthetotalityofthe
+33 circumstances the landlord, landlord's agent, or non-rental owner impliedly agreed to allow the
+34 occupanttoresideatthepremises.
+35 (3) By itself, evidence of utilities, other services, IDs, or documents showing the
+36 addressof theresidenceshall not besufficient evidencewithout authorizingdocumentationfrom the
+37 lessororthenon-rentalowner.
+
+HB1598-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 (4) In all cases if the court rules in favor of the plaintiff, the court shall order the
+2 immediate removal of the unauthorized occupants by law enforcement and the plaintiff shall be
+3 awardedactualdamagesor$1000,whicheverisgreater.
+4 (5) If the court finds that the occupant sublet from the tenant but the lease between
+5 the landlord and the tenant prohibits subletting, and the occupant failed to establish being an
+6 implied tenant, the plaintiff may dispose of any remaining personal property as they see fit after 48-
+7 hours notice to the occupants. Notwithstanding RSA 540-A:4, [VII(c)(4)] VII(e)(4), in such cases
+8 damagesshallnotbeawardedtotheplaintiff.
+9 (6) In all other cases of non-rental property and rental property, plaintiff may
+10 dispose of any remaining personal property as they see fit and without notice to the occupants and
+11 occupantsmaybearrestedfortrespass.
+12 (7) If the court rules in favor of the occupants, then the occupants shall not be
+13 removed from the premises. Such ruling shall be without prejudice to any subsequent possessory
+14 actionfiledpursuanttoRSA540.
+15 6 Prohibited Practices And Security Deposits; Prohibited Practices; Certain Specific Acts
+16 Prohibited. AmendRSA540-A:3,Vtoreadasfollows:
+17 V. No tenant shall willfully [refuse the landlord access to the premises to make necessary
+18 repairs] prevent completion of necessary repairs, or refuse the landlord access to perform
+19 otherreasonableandlawfulfunctionscommonlyassociatedwiththeownershipofrentalproperty,at
+20 areasonabletimeafternoticewhichisadequateunderthecircumstances.
+21 7 EffectiveDate. Thisactshalltakeeffect90daysafteritspassage.
+
+LBA
+26-3181
+Revised5/15/26
+HB1598-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1771s)
+ANACT relative to notice and proceedings for tenants and landlords engaged in eviction
+processes.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$50,000to $50,000to $50,000to
+$250,000 $250,000 $250,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Thisbillmodifieslandlordandtenantevictionproceduresforcasesinvolvingnonpaymentofrent
+or material breach of a rental agreement. The bill revises notice, hearing, and eviction
+procedures, limits continuances and discretionary stays, and modifies certain landlord and
+tenantrightsandremedies.
+The Judicial Branch states there were 5,736 landlord-tenant cases filed in calendar year 2024,
+themajorityofwhichwereevictioncases. TheBranchstates thisbillwill requirethecreationof
+newforms,revisedcourtprocedures,updatedtrainingmaterials,andmodificationstothecourt’s
+case management system. The Branch assumes the expedited timing of eviction matters will
+require additional staffing to manage accelerated scheduling and related case processing
+demands. The Branch estimates the additional administrative and case processing
+responsibilities will result in indeterminable expenditures between $50,000 and $250,000
+beginninginFY2027.
+AGENCIESCONTACTED:
+JudicialBranch

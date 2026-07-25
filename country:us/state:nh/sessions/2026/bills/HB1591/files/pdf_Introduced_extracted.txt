@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1591-FN-ASINTRODUCED
+2026SESSION
+26-2922
+09/08
+1591-FN
+HOUSEBILL
+ANACT relativetothereleaseofescrowedfundsbythejudicialbranch.
+SPONSORS: Rep. Potenza, Straf. 19; Rep. Bernardy, Rock. 36; Rep. Bjelobrk, Graf. 5; Rep.
+Cambrils, Merr. 4; Rep. Kofalt, Hills. 32; Rep. Korzen, Coos 7; Rep. Kuttab, Rock.
+17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the release of escrowed funds by the judicial branch upon receipt of a final
+order,andprovidesforpenaltiesfornoncompliance.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1591-FN-ASINTRODUCED
+26-2922
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothereleaseofescrowedfundsbythejudicialbranch.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Administrative Office of the Courts. Amend RSA by inserting after chapter
+2 490-Kthefollowingnewchapter:
+3 CHAPTER490-L
+4 ADMINISTRATIVEOFFICEOFTHECOURTS
+5 490-L:1 ReleaseofEscrowedFundsPursuanttoFinalCourtOrders.
+6 I. The administrative office of the courts (AOC) shall promptly disburse any funds or
+7 property held in escrow, registry, or trust by or under the control of the judicial branch to the party
+8 orpartiesentitledtosuchfundspursuanttoafinal,non-appealablecourtorderorjudgment.
+9 II. After entry of a final order and expiration of the appeal period, the AOC shall not
+10 withhold or delaydisbursement except as expresslyrequired byfederal law or byasubsequent court
+11 order entered after the judgment. Internal policy or discretionary review shall not be grounds to
+12 denyordelaydisbursement.
+13 III. The AOC shall complete disbursements within 30 days of receipt of a copy of the final
+14 courtorderawardingthefunds.
+15 IV.(a) If the AOCfails todisburse within the30-day period without lawful cause, interest at
+16 the statutory judgment rate shall accrue in favor of the entitled party from the date the
+17 disbursementwasdueuntilpaymentismade.
+18 (b) The entitled party may apply to the superior court for an order directing immediate
+19 releaseandawardingreasonableattorney’sfeesandcostsincurredtoobtaincompliance.
+20 (c) Awards of interest and fees shall be paid from the judicial branch escrow/registry
+21 accountholdingthefunds,orifinsufficient,fromotherjudicialbranchappropriations.
+22 V. (a) TheremediesinparagraphIVapplyretroactivelytoinstancesinwhich,onorafterthe
+23 date 5 years prior to this section’s effective date, the AOC failed, without lawful cause, to disburse
+24 fundswithin30daysafterafinal,non-appealableorder.
+25 (b) For such past instances, interest at the statutory judgment rate shall accrue
+26 beginning 31 days after the AOC’s receipt of the final order and continue until payment; reasonable
+27 attorney’sfeesandcostsarelikewiseavailableifcourtactionisrequiredtosecurerelease.
+28 (c) A claimant seeking retroactive remedies shall file a written claim with the AOC
+29 within 18 months of this section’s effective date, attaching the final order and proof of submission to
+30 the AOC. If not resolved within 60 days, the claimant may petition the superior court for relief
+
+HB1591-FN-ASINTRODUCED
+-Page2-
+1 under subparagraph (b). Nothing herein revives claims finally adjudicated or satisfied before the
+2 effectivedate.
+3 (d) This paragraph establishes civil, remedial relief only and shall not be construed to
+4 imposecriminalsanctionsorimpairanyvestedrights.
+5 VI. (a) On or before September 1 of each year, the AOC shall post on the judicial branch
+6 website and submit to the speaker of the house of representatives and the president of the senate a
+7 report listing funds or property held in escrow, registry, or trust that have been subject to a final,
+8 non-appealableorderformorethan30dayswithoutdisbursement.
+9 (b) Thereportshallincludethecasedocketnumber,amountheld,dateofthefinalorder.
+10 The report shall exclude personal identifiers and confidential information beyond what is necessary
+11 tocomplywiththisparagraph.
+12 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2922
+12/4/25
+HB1591-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothereleaseofescrowedfundsbythejudicialbranch.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $45,000 $45,000 $45,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes new requirements for the release of escrowed and registry funds by the
+Administrative Office of the Courts (AOC), including a 30-day deadline for disbursement after a
+final, non-appealable order; limited grounds for withholding; penalties for noncompliance;
+retroactiveapplicationforfiveyears;andanannualpublicreportidentifyinganyescrowedfunds
+notdisbursedwithin30days.
+The Judicial Branch states that, in practice, courts do not withhold escrowed funds without
+lawful cause. The Branch assumes that failure of a recipient to file a W-9 constitutes “lawful
+cause” to delay disbursement, and therefore the Branch does not anticipate any expenditures
+associated with the bill’s penalty or interest provisions. However, the bill creates a new annual
+reporting obligation requiring the AOC to identify all escrowed or registry funds held for more
+than30daysafterafinalorder,investigatethereasonforanywithholding,andprepareareport
+for publication and distribution to legislative leadership. The Branch states this work would
+require a review of escrowed funds across the entire statewide court system, assessment of
+withholding grounds in each case, and gather the data into the required report. Because the
+Branch’s case-management financial services team is already working beyond capacity, the
+additional requirements of this bill would require at least a part-time Case Management
+Financial Services Technician. The Branch estimates the cost of this part-time technician,
+compensated at Labor Grade 22, would be $44,481 in FY 2027, FY 2028, and FY 2029. It is
+
+assumedifthepositionisauthorizedthecostsforFY2028andFY2029wouldbeincludedinthe
+Branch'sagencybudgetrequest.
+AGENCIESCONTACTED:
+JudicialBranch

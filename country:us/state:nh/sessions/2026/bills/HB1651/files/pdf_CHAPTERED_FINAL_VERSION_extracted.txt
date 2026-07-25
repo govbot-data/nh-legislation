@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER238
+HB1651-FN-FINALVERSION
+5Mar2026...0139h
+05/07/2026 1814s
+2026SESSION
+26-3104
+09/08
+1651-FN
+HOUSEBILL
+ANACT establishing sexual assault orders of protection and relative to sexual assault
+survivors'rights.
+SPONSORS: Rep. Rhodes, Ches. 17; Rep. Simpson, Rock. 33; Rep. A. Murray, Hills. 20; Rep.
+Meuse, Rock. 37; Rep. E. Kelly, Merr. 8; Rep. Nelson, Rock. 13; Rep. Kuttab, Rock.
+17; Rep. Rice, Hills. 38; Rep. N. Murphy, Hills. 12; Rep. Roy, Rock. 31; Sen. Perkins
+Kwoka,Dist21;Sen.Gannon,Dist23;Sen.Ricciardi,Dist9;Sen.Birdsell,Dist19
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes sexual assault orders of protection and updates certain rights for sexual assault
+survivors.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER238
+HB1651-FN-FINALVERSION
+5Mar2026...0139h
+05/07/2026 1814s 26-3104
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing sexual assault orders of protection and relative to sexual assault
+survivors'rights.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 238:1 New Section; Sexual Assault and Related Offenses; Sexual Assault Protective Order. Amend
+2 RSA632-Abyinsertingaftersection5thefollowingnewsection:
+3 632-A:5-a SexualAssaultProtectiveOrder.
+4 I. Apersonmayfileacivilpetitioninthecircuitcourtinthedistrictwheretheplaintiffordefendant
+5 resides to seek relief from the court upon demonstrating, by a preponderance of the evidence, they have
+6 been the victim of sexual assault as defined in this chapter. Upon a showing of sexual assault, the court
+7 shallgrantsuchreliefagainsttheactorasisnecessarytoprotectthephysical,psychological,oremotional
+8 wellbeingofthevictim. Thetypesofreliefthatmaybegranted,theproceduresandburdensofprooftobe
+9 applied in such proceedings, the methods of notice, service, and enforcement of such orders, and the
+10 penaltiesforviolationthereofshallbethesameasthosesetforthinRSA173-B.
+11 II. The minority of a plaintiff or defendant shall not preclude the court from issuing protective
+12 ordersunderthissection.
+13 III. Anyorderunderthissectionshallbeforafixedperiodoftimenottoexceedoneyear,butmay
+14 be extended by order of the court upon a motion by the plaintiff, showing good cause, with notice to the
+15 defendant, for one year after the expiration of the first order and thereafter each extension may be for up
+16 to 5 years, upon the request of the plaintiff and at the discretion of the court. The court shall review the
+17 order, and each renewal thereof and shall grant such relief asmay be necessary toprovide for the safety
+18 andwell-beingoftheplaintiff. Adefendantshallhavetherighttoahearingontheextensionofanyorder
+19 under this paragraph to be held within 30 days of the extension. The court shall state in writing, at the
+20 respondent's request, its reason or reasons for granting the extension. The court shall retain jurisdiction
+21 to enforce and collect the financial support obligation which accrued prior to the expiration of the
+22 protectiveorder.
+23 IV. (a) A protective order issued pursuant to this section shall not be construed to prohibit an
+24 attorney, or any person acting on the attorney's behalf, who is representing the defendant in an action
+25 broughtunderthischapter,orinanycriminalproceedingconcerningtheabuseallegedunderthissection,
+26 from contacting the plaintiff for a legitimate purpose within the scope of the civil or criminal proceeding;
+27 provided, that the attorney or person acting on behalf of the attorney: identifies himself or herself as a
+28 representative of the defendant; acknowledges the existence of the protective order and informs the
+29 plaintiff that he or she has no obligation to speak; terminates contact with the plaintiff if the plaintiff
+30 expressesanunwillingnesstotalk;andensuresthatanypersonalcontactwiththeplaintiffoccursoutside
+31 ofthedefendant'spresence,unlessthecourthasmodifiedtheprotectiveordertopermitsuchcontact.
+
+CHAPTER238
+HB1651-FN-FINALVERSION
+-Page2-
+1 (b) Aviolationofthisparagraphmayresultinafindingofcontemptofcourt.
+2 V. Notwithstanding RSA 594:10, any law enforcement officer shall arrest, without a warrant, any
+3 person that the officer has probable cause to believe has violated the provisions of this section when the
+4 offenseoccurredwithin12hours,regardlessofwhetherthecrimeoccurredinthepresenceoftheofficer.
+5 VI.(a) A person shall be guilty of a class A misdemeanor if such person knowingly violates a
+6 protectiveorderissuedunderthissection.
+7 (b) Any person who is convicted of a second or subsequent offense under paragraph VI(a),
+8 based on a complaint which alleges that the person has had one or more prior convictions under
+9 paragraph VI(a), or under a reasonably equivalent offense in an out-of-state jurisdiction, shall be guilty of
+10 aclassBfelony.
+11 238:2 SexualAssaultSurvivors'Rights. AmendRSA21-M:18,I(b)toreadasfollows:
+12 (b) Therightto:
+13 (1) Have a sexual assault evidence collection kit or its probative contents preserved,
+14 withoutcharge,forthedurationofthemaximum applicablestatuteoflimitationsor20years,whichever is
+15 [shorter]longer;
+16 (2) Beinformedof anyresult of asexual assaultevidencecollectionkit, includingaDNA
+17 profilematch,toxicologyreport,orotherinformationcollectedaspartofamedicalforensicexamination,if
+18 suchdisclosurewouldnotimpedeorcompromiseanongoinginvestigation;[and]
+19 (3) Be informed in writing of policies governing the collection and preservation of a
+20 sexualassaultevidencecollectionkit[.];and
+21 (4)Beinformedofthestatusandlocationofasexualassaultevidencecollectionkit.
+22 238:3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:July02,2026
+EffectiveDate:January01,2027

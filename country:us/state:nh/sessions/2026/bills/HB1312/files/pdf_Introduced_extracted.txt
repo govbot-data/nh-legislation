@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1312 -ASINTRODUCED
+2026SESSION
+26-2901
+09/06
+1312
+HOUSEBILL
+ANACT relativetotheauthorityofvariousboards.
+SPONSORS: Rep.Layon,Rock.13;Rep.Grote,Rock.24;Sen.Reardon,Dist15
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Authorizes boards under the purview of the office of professional licensure and certification to
+establishsubcommittees.
+II. Removestheauthorityoftheboardofregistrationinoptometrytomodifythelistofapproved
+pharmaceuticalsforusebyoptometrists.
+III. Removestheauthorityoftheboardofaccountancytoestablishadministrativefinesbyrule.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1312-ASINTRODUCED
+26-2901
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheauthorityofvariousboards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Office of Professional Licensure and Certification; Board Subcommittees.
+2 AmendRSA310:2byinsertingafterparagraphIIIthefollowingnewparagraph:
+3 IV. Any board listed in this section is authorized to establish subcommittees as it deems
+4 necessary.
+5 2 Optometry;Definitions. AmendRSA327:1,III(c)-(m)toreadasfollows:
+6 (c) Mioticagents[approvedpursuanttoRSA327:6-a,VI].
+7 (d) Antibiotics, sulfonomides, and combinations thereof, which are topically applied or
+8 orally administered to treat or alleviate the effects of disease or abnormal conditions of the human
+9 eye,adnexa,andeyelids,orstructuresposteriortotheiris[,approvedpursuanttoRSA327:6-a,VI].
+10 (e) Anti-allergy medications, including but not limited to antihistamines, decongestants,
+11 andmast-cellstabilizerswhicharetopicallyapplied.
+12 (f) Anestheticsanddyeswhicharetopicallyapplied.
+13 (g) Ocularlubricantsandhypertonicagentswhicharetopicallyapplied.
+14 (h) Orally administered analgesic agents used for the purpose of alleviating pain caused
+15 by a disease or abnormal condition of the human eye or eyelid, or structures posterior to the iris.
+16 This may include class III and IV controlled substances [approved pursuant to RSA 327:6-a, VI and]
+17 includedintheformulary.
+18 (i) Other pharmaceutical agents, any solely diagnostic agents, and diagnostic agents
+19 combined with pharmaceutical agents as defined in this paragraph [and as approved pursuant to
+20 RSA327:6-a,VI].
+21 (j) Non-steroidalanti-inflammatoryagents[approvedpursuanttoRSA327:6-a,VI].
+22 (k) Anti-glaucoma agents provided that an optometrist may dispense or prescribe such
+23 agentsiftheoptometristhasmettherequirementsofRSA327:6-c.
+24 (l) Corticosteroidswhicharetopicallyapplied,asapprovedbytheboard.
+25 (m) Antivirals[whichareapprovedpursuanttoRSA327:6-a,VI].
+26 3 Repeal. Thefollowingarerepealed:
+27 I. RSA309-B:4,VI(h),relativetoboardofaccountancyrulemakingonadministrativefines.
+28 II. RSA 327:6-a, VI, relative to authority for the board to modify the list of approved
+29 pharmaceuticalsforusebyoptometrists.
+30 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

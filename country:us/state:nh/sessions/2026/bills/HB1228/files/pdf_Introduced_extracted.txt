@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1228 -ASINTRODUCED
+2026SESSION
+26-2947
+09/06
+1228
+HOUSEBILL
+ANACT relativetotheenforcementofalimonyorders.
+SPONSORS: Rep.Markell, Rock. 18; Rep.Georges, Hills. 23; Rep.Korzen, Coos 7; Rep. Kuttab,
+Rock.17;Rep.Nelson,Rock.13;Rep.M.Pearson,Rock.34
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that orders for the payment of past due amounts of alimony shall be enforced
+accordingtotheirtermsunlessmodifiedbyanagreementorstatute.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1228-ASINTRODUCED
+26-2947
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheenforcementofalimonyorders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Term and Reimbursement Alimony. Amend RSA 458:19-a by inserting after
+2 paragraphVIthefollowingnewparagraph:
+3 VII. Orders for the payment of past due amounts of alimony shall be enforced according to
+4 theirtermsunlessmodifiedbyanagreementofthepartiesorpursuanttoRSA458:19-aa.
+5 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

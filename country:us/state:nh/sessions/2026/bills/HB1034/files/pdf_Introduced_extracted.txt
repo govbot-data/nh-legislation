@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1034-FN-ASINTRODUCED
+2026SESSION
+26-2731
+12/09
+1034-FN
+HOUSEBILL
+ANACT relativetopossessionoffirearmsonschoolproperty.
+SPONSORS: Rep. Horrigan, Straf. 10; Rep. Cornell, Hills. 22; Rep. Selig, Straf. 10; Sen.
+Altschiller,Dist24
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits carrying a firearm on school property. This bill also prohibits the hiring of
+armedguardsinschoolsabsentthesatisfactionofacriminalbackgroundcheck.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1034-FN-ASINTRODUCED
+26-2731
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopossessionoffirearmsonschoolproperty.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Sections; Possession of Firearms on School Property. Amend RSA 159 by inserting after
+2 sections159:19-athefollowingnewsections:
+3 159:19-b PossessionofaFirearmonSchoolProperty.
+4 I. Forthepurposesofthissection:
+5 (a) "School property" means all real property owned or leased by schools, including but
+6 notlimitedtobuildings,land,orvehicles.
+7 (b) "School board" means any agent, committee, school board, or board of education
+8 entrusted with the hiring of teachers and the management of the prudential affairs of the district.
+9 Publiccharterschoolboardsshallalsobewithinthisdefinition.
+10 II. No person shall knowingly possess a firearm on public school property, including
+11 buildings, grounds, school buses, and vans. Any person who violates the provisions of this
+12 paragraphshallbeguiltyofaclassAmisdemeanor.
+13 III. Thissectionshallnotapplyto:
+14 (a) Any person or persons picking up or dropping off a student, provided the firearm
+15 remainsinamotorvehicle.
+16 (b) Any person specifically authorized by name and in writing by the school board to
+17 possess a firearm on school property. Any school board considering granting such authorization
+18 shall first hold at least one public hearing, noticed in the usual manner. At the hearing, the board
+19 shall consider whether any persons should be authorized to possess firearms on school property.
+20 Following the public hearing, the school board may decide, in a nonpublic session, to authorize
+21 specific persons to possess firearms on school property. Any specific authorizations adopted shall
+22 specify the weapon that has been authorized, the purpose and scope of the authorization, and the
+23 time period for which the authorization applies. Such authorization shall not be subject to RSA 91-
+24 A.
+25 (c) Any law enforcement officer, when on or off duty or serving as a school resource
+26 officer.
+27 159:19-c Prohibition of Hiring Armed Guards. All public schools shall be prohibited from
+28 employing persons whose sole purpose is to serve as an armed guard for the school. Public schools
+29 shall only be permitted to employ an armed guard where the candidate for the position would
+30 otherwise be qualified to work with students in a public school, including the satisfaction of a
+31 criminal background check. School resource officers that are assigned to a school district pursuant
+
+HB1034-FN-ASINTRODUCED
+-Page2-
+1 to a contract agreement with the local police department shall not be considered an armed guard for
+2 thepurposesofthissection.
+3 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2731
+10/6/25
+HB1034-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetopossessionoffirearmsonschoolproperty.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

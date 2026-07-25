@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1379-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-3042
+04/09
+1379
+HOUSEBILL
+ANACT relativetothereportingdatefortheannualcomplaintdata.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Tenczar, Hills. 1; Rep. Noble, Hills. 2; Rep.
+Freeman, Belk. 8; Rep. Drye, Sull. 7; Rep. Terry, Belk. 7; Sen. Gannon, Dist 23;
+Sen.Ward,Dist8
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the date that the special education complaint and findings annual report will
+bepublished.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1379-VERSIONADOPTEDBYBOTHBODIES
+26-3042
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothereportingdatefortheannualcomplaintdata.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Special Education State Complaints and Findings; Annual Report Date. Amend the
+2 introductoryparagraphofRSA186-C:5-a,IIItoreadasfollows:
+3 III. The department shall publish an annual report by [July] September 1st each year
+4 beginning in 2026. The annual report shall be made publicly available on the department's website
+5 and provided to the office of special education advocate, state advisory council on the education of
+6 children with disabilities, and the chairmen of the house and senate education committees. The
+7 annualreportshallsummarizethestatecomplaintdata,including:
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

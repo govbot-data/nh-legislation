@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1024 -ASINTRODUCED
+2026SESSION
+26-2375
+06/05
+1024
+HOUSEBILL
+ANACT prohibiting investments by the New Hampshire retirement system in businesses
+ownedbyasittingpresidentortheirfamily.
+SPONSORS: Rep.Caplan,Merr.8;Rep.Muns,Rock.29;Rep.Newell,Ches.4;Rep.H.Howard,
+Straf.4
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits investments by the New Hampshire retirement system in businesses owned
+byasittingpresidentortheirfamily.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1024-ASINTRODUCED
+26-2375
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting investments by the New Hampshire retirement system in businesses
+ownedbyasittingpresidentortheirimmediatefamily.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ManagementofFunds. AmendRSA100-A:15,I-a(b)(4)toreadasfollows:
+2 (4) May invest in any kind of property or type of investment consistent with this
+3 section, provided these are not instruments, businesses, or any type of deposit owned by a
+4 sitting president of the United States or their family, or in which an instrument, business,
+5 ortypeofdepositownedbyasittingpresidentortheirfamilymakeupasharethereof.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

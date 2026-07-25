@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1616-FN-ASINTRODUCED
+2026SESSION
+26-2648
+05/08
+1616-FN
+HOUSEBILL
+ANACT prohibiting state agencies and political subdivisions from advertising or
+expendingfundstoadvertisevaccinesinthestateofNewHampshire.
+SPONSORS: Rep. Comtois, Belk. 7; Rep. J. Aron, Sull. 4; Rep. Belcher, Carr. 4; Rep. DeRoy,
+Straf.3;Rep.D.Kelley,Hills.32;Rep.Kofalt,Hills.32;Rep.Perez,Rock.16;Rep.
+Polozov,Merr.10;Rep.Potenza,Straf.19;Rep.Terry,Belk.7
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits state agencies and political subdivisions from advertising or expending funds
+toadvertisevaccinesinthestateofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1616-FN-ASINTRODUCED
+26-2648
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting state agencies and political subdivisions from advertising or
+expendingfundstoadvertisevaccinesinthestateofNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Expenditure of Funds to Advertise Vaccines Prohibited. Amend RSA 9-G by
+2 insertingaftersection1thefollowingnewsection:
+3 9-G:2 Advertisement of Vaccines Prohibited. No state agency or political subdivision shall
+4 advertise, or expend funds to advertise, vaccines in the state of New Hampshire. Furthermore, no
+5 state agency or political subdivision shall issue payment to any person, contractor, or other entity to
+6 advertisevaccinesonitsbehalf.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2648
+12/8/25
+HB1616-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibiting state agencies and political subdivisions from advertising or
+expendingfundstoadvertisevaccinesinthestateofNewHampshire.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$61,000
+reductionin
+Expenditures* $0 federalspending; Indeterminable Indeterminable
+otherimpacts
+indeterminable
+FundingSource(s) FederalFunds,GeneralFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill prohibits state agencies and political subdivisions from advertising or expending funds
+to advertise vaccines in the state of New Hampshire. The Department of Health and Human
+Services estimates an initial reduction in spending out of the federal immunization grant of
+$61,000, which is allocated to states to provide provider education and contracted services
+throughout the state. This fiscal impact is expected to be in the first year only, as the
+Department plans to undergo a budget revision to direct funding resources to other areas of the
+ImmunizationProgrampendingfederalapproval.
+
+With respect to less immediate fiscal impacts, the Department states that as vaccination rates
+decrease over time, there is an increased potential for disease outbreaks. Associated costs for
+the Department to manage an outbreak range from an estimated $100,000 to $350,000 per
+outbreak. In addition, the Department states that redirection of federal immunization grant
+funds may put it at risk of losing $3.5 million of federal funding if the Department is unable to
+fulfillgrant requirementsrelated toeducationand communicationonvaccines. Itis unknownto
+what extent, if any, these less immediate impacts will occur, and so aside from the initial
+reductionof$61,000infederalspending,thebill'sfiscalimpactisindeterminable.
+TheNew HampshireMunicipal Associationstates that totheextent that anybudgeted funds for
+vaccine advertisement are no longer spent, there may be a minimal savings to municipalities.
+The Association further states that it is unable to assess any long-term impacts resulting from
+thebill.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServicesandNewHampshireMunicipalAssociation

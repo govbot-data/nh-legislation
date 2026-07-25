@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1102-FN-ASINTRODUCED
+2026SESSION
+26-2492
+07/05
+1102-FN
+HOUSEBILL
+ANACT increasingtheresearchanddevelopmenttaxcreditcap.
+SPONSORS: Rep.Janigian,Rock.25
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Raisestheaggregatevalueofallresearchanddevelopmenttaxcreditsthatcanbeclaimed.
+II. Raisesthehardcapontheresearchanddevelopmenttaxcreditanentitycanclaim.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1102-FN-ASINTRODUCED
+26-2492
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasingtheresearchanddevelopmenttaxcreditcap.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation;BusinessProfitsTax;Credits. AmendRSA77-A:5,XIII(a)(1)-(2)toreadasfollows:
+2 (1) Theaggregateoftaxcreditsissuedbythecommissionertoalltaxpayersclaiming
+3 thecreditshallnotexceed[$7,000,000]$10,000,000foranyfiscalyear.
+4 (2) Each credit shall be used to offset the taxpayer's tax liability within the
+5 subsequent5taxyears. Theamountofthecreditshallbethelesserof:
+6 (A) Ten percent of the excess of the qualified manufacturing research and
+7 developmentexpensesforthetaxableyearoverthebaseamount;
+8 (B) The proportional share of the maximum aggregate credit amount allowed in
+9 subparagraph(1);
+10 (C) [$50,000]$100,000.
+11 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2492
+10/21/25
+HB1102-FN-FISCALNOTE
+ASINTRODUCED
+ANACT increasingtheresearchanddevelopmenttaxcreditcap.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Maximum
+Indeterminable
+Revenue $0 $0 Decreaseof
+Decrease
+$3,000,000
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill increases the aggregate of Research and Development tax credits (R&D) to be claimed
+in any fiscal year from $7,000,000 to $10,000,000. The proposed legislation would also increase
+the maximum credit amount allowed per entity from $50,000 to $100,000, effective January 1,
+2026. R&D tax credit applications must be received by June 30 following the tax year during
+whichtheresearchanddevelopmentoccurred.
+The increase in the R&D tax credit will decrease Business Enterprise Tax (BET) and Business
+Profits Tax (BPT) revenue by an indeterminable amount. This credit is first applied to the BPT
+and any unused portion of the credit is then applied to the BET. Additionally, the taxpayer is
+able to carry forward the R&D tax credit for up to 5 years. The Department is not able to
+determinewhenacreditwouldbeclaimedtopredictthefiscalimpact ofthisbill. The maximum
+impact in the first year is $3,000,000 if the full amount of the tax credit increase is claimed,
+however any subsequent years are indeterminable as it is not known when carry forward credits
+wouldbeused.
+
+The Department would need to update all necessary tax return forms and electronic
+management systems related to this bill, however the Department does not anticipate this bill
+willresultinanyadditionalcoststhatcouldnotbeabsorbedinitsoperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration
+[As this bill is essentially identical to SB 276 as amended, 2025 Session, we used the
+sameinformationtheagencyprovidedatthattimetopreparetheabovefiscalnote]

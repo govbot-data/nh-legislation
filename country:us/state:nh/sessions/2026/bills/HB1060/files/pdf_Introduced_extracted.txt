@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1060-FN-ASINTRODUCED
+2026SESSION
+26-2788.0
+09/08
+1060-FN
+HOUSEBILL
+ANACT relativetotherequirementsforlicensureasanengineer.
+SPONSORS: Rep. Barton, Graf. 1; Rep. R. Brown, Carr. 8; Rep. Harrington, Straf. 18; Rep.
+Pauer,Hills.36;Rep.Turcotte,Straf.4
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the requirement for licensure as an engineer that the 10 years of accumulated
+engineering experience be under the direction of a licensed professional engineer. This bill further
+removes that the education or experience required be satisfactory to the board of professional
+engineers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1060-FN-ASINTRODUCED
+26-2788.0
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotherequirementsforlicensureasanengineer.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ProfessionalEngineers;GeneralRequirementsforLicensure. AmendRSA310-A:12,IItoread
+2 asfollows:
+3 II. Applicantswhohavetheminimumofabachelorofsciencedegree,ortheequivalent,from
+4 anABETorotheraccredited4-yearinstitutioninanengineeringcurriculumandmorethan10years
+5 of accumulated engineering experience in the practice of engineering, regardless of whether
+6 suchexperiencewasunderthedirectionofalicensedprofessionalengineer[andsatisfactorytothe
+7 board]mayapplytositfortheprofessionalengineersexamination. Suchanapplicantmayrequesta
+8 waiverofthefundamentalsofengineeringexamination.
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2788
+10/20/25
+HB1060-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotherequirementsforlicensureasanengineer.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertification

@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1170 -ASINTRODUCED
+2026SESSION
+26-2472
+06/05
+1170
+HOUSEBILL
+ANACT relativetostipendsforretiredgroupIImembersofthestateretirementsystem.
+SPONSORS: Rep.Trottier,Belk.8;Rep.Bordes,Belk.5
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides a supplemental retirement allowance to certain group II retirees and their
+beneficiaries, funded by the state general fund and added permanently to their base annuity, and
+makesanappropriationtherefor.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1170-ASINTRODUCED
+26-2472
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetostipendsforretiredgroupIImembersofthestateretirementsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Supplemental Allowance; Certain Group II Members. Amend RSA 100-A by
+2 insertingaftersection41-ethefollowingnewsection:
+3 100-A:41-f SupplementalAllowance;GroupII.
+4 I.(a) Any retired group II member of the New Hampshire retirement system or any of its
+5 predecessor systems, who has been retired for at least 120 months but not more than 239 months
+6 priortooronJuly1,2025,oranybeneficiaryorsuchmemberwhoisreceivinganallowance,shallbe
+7 entitled to receive a supplemental allowance. The amount of such supplemental allowance shall be
+8 the result of the calculation of $500 times every year the member has been retired following the
+9 member’seligibilitydate.
+10 (b) Any retired group II member of the New Hampshire retirement system or any of its
+11 predecessor systems, who has been retired for at least 240 months, prior toor on July1, 2025or any
+12 beneficiary of such member who is receiving an allowance, shall be entitled to receive a
+13 supplementalallowance. Theamountofthesupplementalallowanceshallbe$5000.
+14 II. The total cost of the supplemental allowance in paragraph I, as determined by the
+15 actuary and certified by the board of trustees of the retirement system, shall be funded from the
+16 state general fund. The governor is authorized to draw a warrant for said sum out of any money in
+17 thetreasurynototherwiseappropriated.
+18 III. Thesupplementalallowanceshallbecomeapermanentadditiontothebeneficiary'sbase
+19 retirement allowance and shall be included in the monthly annuity paid to the retired member, or to
+20 themember’s beneficiary if the member is deceased and the beneficiary is receiving an allowance for
+21 the group II under RSA 100-A:8, 100-A:9, 100-A:12, 100–A:13, or similar provisions of predecessor
+22 systems.
+23 IV. The payment of the supplemental allowance under this section shall be made by the
+24 retirement system as soon as administratively practicable after the effective date of this section, but
+25 notlaterthanJanuary1,2027.
+26 2 EffectiveDate. ThisactshalltakeeffectJune30,2026.
+
+LBA
+26-2472
+1/14/26
+HB1170-FISCALNOTE
+ASINTRODUCED
+ANACT relativetostipendsforretiredgroupIImembersofthestateretirementsystem.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $269,600,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $269,600,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill proposed a permanent supplemental allowance to certain Group II NHRS retirees and
+beneficiaries. Those retired for at least 120 months but fewer than 240 months as of July 1,
+2025, would receive $500 per year retired. Those retired 240 months or more would receive
+$5,000. Additionally, this supplemental amount will be permanently added to the retired
+member’s or beneficiary's base retirement allowance and shall be included in the monthly
+annuity paid to the retired member or beneficiary funded by general funds. The bill contains
+language to allow the governor to draw general funds to fund the total cost of this supplemental
+allowance.
+The New Hampshire Retirement System (NHRS) estimates a cost of $269.6 million in FY 2027,
+including $191.5 million for Police and $78.1 million for Fire, based on actuarial valuations.
+There is no impact on employer contributions or the unfunded actuarial accrued liability
+(UAAL), though some administrative costs for system reprogramming and implementation are
+anticipated.
+AGENCIESCONTACTED:
+NewHampshireRetirementSystem

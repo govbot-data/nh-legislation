@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1464-FN-ASINTRODUCED
+2026SESSION
+26-3119
+09/08
+1464-FN
+HOUSEBILL
+ANACT relative to discrimination, harassment, and violence based on political affiliation
+oropinion.
+SPONSORS: Rep.Roy,Rock.31;Rep.Burnham,Straf.2;Rep.Rhodes,Ches.17
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Defines"politicalaffiliationoropinion."
+II. Prohibitsdiscriminationorharassmentofindividualsbasedonpoliticalaffiliationoropinion.
+III. Prohibitspoliticallymotivatedinterferencewithaperson'seconomicinterests.
+IV. Providespenaltiesforviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1464-FN-ASINTRODUCED
+26-3119
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to discrimination, harassment, and violence based on political affiliation
+oropinion.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Statutory Construction; Political Affiliation or Opinion. Amend RSA 21 by
+2 insertingaftersection55thefollowingnewsection:
+3 21:56 PoliticalAffiliationorOpinion. "Politicalaffiliationoropinion"meansaperson'sactualor
+4 perceived membership in, support for, opposition to, or expression of a political party, candidate,
+5 ideology, viewpoint, or activity protected under the First Amendment to the United States
+6 ConstitutionorpartI,article22oftheNewHampshireconstitution.
+7 2 New Paragraph; State Commission for Human Rights; Definitions. Amend RSA 354-A:2 by
+8 insertingafterparagraphXVthefollowingnewparagraph:
+9 XVI. "Politicalaffiliationoropinion"shallhavethesamemeaningasinRSA21:56.
+10 3 UnlawfulDiscriminatoryPractices. AmendRSA354-A:7,I-IIItoreadasfollows:
+11 I. For an employer, because of the age, sex, gender identity, race, color, marital status,
+12 physical or mental disability, religious creed, or national origin of any individual, to refuse to hire or
+13 employ or to bar or to discharge from employment such individual or to discriminate against such
+14 individual in compensation or in terms, conditions or privileges of employment, unless based upon a
+15 bona fide occupational qualification. In addition, no person shall be denied the benefit of the rights
+16 affordedbythisparagraphonaccountofthatperson'ssexualorientationorthatperson'spolitical
+17 affiliationoropinion.
+18 II. For a labor organization, because of the age, sex, gender identity, race, color, marital
+19 status, physical or mental disability, creed, or national origin of any individual, to exclude from full
+20 membership rights or to expel from its membership such individual or to discriminate in any way
+21 against any of its members or against any employer or any individual employed by an employer,
+22 unless based upon a bona fide occupational qualification. In addition, no person shall be denied the
+23 benefit of the rights afforded by this paragraph on account of that person's sexual orientation or
+24 thatperson'spoliticalaffiliationoropinion.
+25 III. For anyemployer or employment agencytoprint or circulateor tocause tobeprinted or
+26 circulated any statement, advertisement or publication, or to use any form of application for
+27 employment or to make any inquiry or record in connection with employment, which expresses,
+28 directly or indirectly, any limitation, specification or discrimination as to age, sex, gender identity,
+29 race, color, marital status, physical or mental disability, religious creed or national origin or any
+30 intent to make any such limitation, specification or discrimination in any way on the ground of age,
+
+HB1464-FN-ASINTRODUCED
+-Page2-
+1 sex, gender identity, race, color, marital status, physical or mental disability, religious creed or
+2 national origin, unless based upon a bona fide occupational qualification; provided, however, that
+3 nothing in this chapter shall limit an employer after the offer of hire of an individual from inquiring
+4 into and keeping records of any existing or pre-existing physical or mental conditions. In addition,
+5 no person shall be denied the benefit of the rights afforded by this paragraph on account of that
+6 person'ssexualorientationorthatperson'spoliticalaffiliationoropinion.
+7 4 New Paragraph; State Commission for Human Rights; Complaint Procedures and Review.
+8 AmendRSA354-A:21-abyinsertingafterparagraphIIIthefollowingnewparagraph:
+9 IV. In addition to the remedies provided in this section, any person who knowingly violates
+10 RSA 354-A:7 with the intent to harass, intimidate, or cause economic harm based on an individual's
+11 politicalaffiliationoropinionshallbeguiltyofaclassAmisdemeanor.
+12 5 NewSubparagraph;Harassment. AmendRSA644:4,Ibyinsertingaftersubparagraph(f)the
+13 followingnewsubparagraph:
+14 (g) With the purpose to harass, annoy, or alarm another based on the person's political
+15 affiliation or opinion as defined in RSA 21:56, engages in a course of conduct that would cause a
+16 reasonable person to suffer substantial emotional distress or fear for their safety, employment, or
+17 economic well-being, including but not limited to repeated unwanted communications, doxxing, or
+18 publicizingprivateinformation.
+19 6 New Paragraph; Harassment. Amend RSA 644:4 by inserting after paragraph IV the
+20 followingnewparagraph:
+21 V. A violation of subparagraph I(g) shall be a class B felony if it results in actual economic
+22 harm,suchaslossofemployment,orinvolvesathreatofphysicalviolence.
+23 7 New Section; Politically Motivated Interference. Amend RSA 631 by inserting after section 4-
+24 bthefollowingnewsection:
+25 631:4-c PoliticallyMotivatedInterference.
+26 I. A person is guilty of politically motivated interference if, with the purpose to harass or
+27 intimidate based on another person's political affiliation or opinion as defined in RSA 21:56, the
+28 person:
+29 (a) Threatens or attempts to cause economic harm, including interference with the
+30 victim'semployment,business,orcontractualrelations;or
+31 (b) Engages in conduct that causes actual economic harm to the victim, such as by
+32 disseminatingfalseorprivateinformationtoanemployerorbusinessassociate.
+33 II. Politically motivated interference is a class A misdemeanor. If the conduct results in
+34 physicalinjuryorpropertydamage,itisaclassBfelony.
+35 III. This section shall not apply to conduct protected by the First Amendment to the United
+36 StatesConstitutionorpartI,article22oftheNewHampshireconstitution,suchaspeacefulprotests
+37 orpetitions.
+
+HB1464-FN-ASINTRODUCED
+-Page3-
+1 8 ExtendedTermofImprisonment. AmendRSA651:6,I(f)toreadasfollows:
+2 (f) Was substantially motivated to commit the crime because of hostility towards the
+3 victim's religion, race, creed, sexual orientation as defined in RSA 21:49, national origin, sex, [or]
+4 gender identity as defined in RSA 21:53 or political affiliation or opinion as defined in RSA
+5 21:56;
+6 9 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3119
+11/30/25
+HB1464-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to discrimination, harassment, and violence based on political affiliation
+oropinion.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

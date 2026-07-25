@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1018 -ASINTRODUCED
+2026SESSION
+26-2336
+08/05
+1018
+HOUSEBILL
+ANACT prohibitingtheuseofcertainsecondgenerationanticoagulantrodenticides.
+SPONSORS: Rep. C. Harvey, Ches. 6; Rep. Darby, Hills. 11; Rep. Gruber, Ches. 16; Rep. H.
+Howard, Straf. 4; Rep. Jacobs, Ches. 15; Rep. Newell, Ches. 4; Rep. Dupont, Hills.
+20; Sen. Altschiller, Dist 24; Sen. Birdsell, Dist 19; Sen. Fenton, Dist 10; Sen.
+Watters,Dist4
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitstheuseofcertainsecondgenerationanticoagulantrodenticides.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1018-ASINTRODUCED
+26-2336
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingtheuseofcertainsecondgenerationanticoagulantrodenticides.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Definitions; Second Generation Anticoagulant Rodenticide. Amend RSA
+2 430:29byinsertingafterparagraphXXXII-athefollowingnewparagraph:
+3 XXXII-aa. "Second generation anticoagulant rodenticide" means any pesticide product
+4 containinganyofthefollowingactiveingredients:
+5 (a) Brodifacoum.
+6 (b) Bromadiolone.
+7 (c) Difenacoum.
+8 (d) Difethialone.
+9 2 New Subparagraph; Pesticides Controls; Prohibited Acts. Amend RSA 430:41, I by inserting
+10 aftersubparagraph(e)thefollowingnewsubparagraph:
+11 (f)(1) Except as provided in subparagraph (2), any second generation anticoagulant
+12 rodenticide.
+13 (2) Subparagraph(1)shallnotapplytoanyofthefollowing:
+14 (A) The use of any second generation anticoagulant rodenticide by a state or
+15 municipal employee for public health activities, the protection of a drinking water supply, to control
+16 vectors for mosquito borne illnesses, or for control of an actual rodent infestation that has been
+17 deemed a public health issue where it has been documented that all other rodent control
+18 alternatives,includingnonchemicalalternatives,areinadequatetocontroltheinfestation.
+19 (B) The use of any second generation anticoagulant rodenticide at a medical
+20 waste generator or a facility registered annually and subject to inspection under 21 U.S.C. section
+21 360 et seq. and compliant with the Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C.
+22 section135etseq.
+23 (C) The use of any second generation anticoagulant rodenticide for agricultural
+24 activitiesconductedinthefollowinglocations:
+25 (i) Awarehouseusedtostorefoodsforhumanoranimalconsumption.
+26 (ii) An agricultural food production site, including but not limited to a
+27 slaughterhouseorcannery.
+28 (iii) Adistillery,meadery,brewery,orwinery.
+29 (iv) Adrugormedicalequipmentmanufacturingfacility.
+30 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

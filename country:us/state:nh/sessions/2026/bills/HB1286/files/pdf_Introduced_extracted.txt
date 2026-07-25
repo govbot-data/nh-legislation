@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1286-ASINTRODUCED
+2026SESSION
+26-2796
+05/09
+1286
+HOUSEBILL
+ANACT relativetothepracticeofdentistryandwhenx-raysarerequired.
+SPONSORS: Rep. Drago, Rock. 4; Rep. DeVito, Rock. 8; Rep. Harvey-Bolia, Belk. 3; Rep.
+Peternel,Carr.6;Rep.Pauer,Hills.36; Rep.TomMannion,Hills.1;Rep. Wherry,
+Hills.13;Rep.SabourinditChoiniere,Rock.30;Rep.Litchfield,Rock.32
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides that a dentist may treat a patient who declines to have a recommended x-ray
+andthedentistinsuchcasesmayrequirethepatienttosignawaiverofliability.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1286-ASINTRODUCED
+26-2796
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepracticeofdentistryandwhenx-raysarerequired.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Practice of Dentistry; X-Rays; When Required. Amend RSA 317-A:17 by
+2 insertingafterparagraphIIthefollowingnewparagraph:
+3 II-a. Notwithstanding RSA 317-A:17, II(j), a dentist may treat a patient who has declined to
+4 haveanx-rayrecommendedbythedentistunlessdoingsowould violatethedentalstandardof care.
+5 In such cases, the dentist may require the patient to sign a waiver of liability, indicating that the
+6 patientwaivestherighttosuethedentistintheeventthatthelackofanx-rayresultsinunforeseen
+7 injury to the patient. No dentist shall be subject to license suspension, revocation, or any other
+8 disciplinaryactionbytheboardforactionstakenpursuanttothisparagraph.
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

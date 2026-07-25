@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1524-FN-ASINTRODUCED
+2026SESSION
+26-2673
+12/06
+1524-FN
+HOUSEBILL
+ANACT requiring a logic and critical thinking course within the state high school
+educationcurriculum.
+SPONSORS: Rep.Read,Rock.10;Rep.Wheeler,Hills.33
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that a logic and critical thinking course be taught as a part of the curriculum
+for all high schools in the state. The bill also directs the state board of education to develop policy
+guidelinesfortheteachingoflogicandcriticalthinking.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1524-FN-ASINTRODUCED
+26-2673
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring a logic and critical thinking course within the state high school
+educationcurriculum.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Criteria for an Adequate Education. Amend RSA 193-E:2 by inserting after
+2 paragraphVIIthefollowingnewparagraph:
+3 VIII. Skills in logic and critical thinking, as defined in RSA 193-E:2-a, VI(f) and RSA 193-
+4 E:2-a,VI(h).
+5 2 NewSubparagraph;SubstantiveEducationalContentofanAdequateEducation. AmendRSA
+6 193-E:2-a,Ibyinsertingaftersubparagraph(a)(11)thefollowingnewsubparagraph:
+7 (12) Logic and critical thinking, provided that a minimum of 54 hours of learning in
+8 logic and critical thinking shall satisfy the educational content needed for an adequate education, as
+9 requiredbythissection.
+10 3 Substantive Educational Content of an Adequate Education. Amend RSA 193-E:2-a, I(b) to
+11 readasfollows:
+12 (b) Teachers shall use academic and applied instruction to teach the learning areas
+13 under subparagraph (a). [The following] Computer use and digital literacy skills shall be
+14 integratedintothelearningareasoflogicandrhetoric[:]
+15 [(1)Computeruseanddigitalliteracy.]
+16 [(2)Logicandrhetoric].
+17 4 New Subparagraph; Education; Adequate Public Education; Substantive Educational Content
+18 of an Adequate Education. Amend RSA 193-E:2-a, VI by inserting after subparagraph (g) the
+19 followingnewsubparagraph:
+20 (h) "Critical thinking" means the skill in understandingand seeking out the appropriate
+21 kinds of evidence needed to support or challenge a given argument, the ability to distinguish valid
+22 from invalid arguments based on logic, the habit of questioning the evidence, rationale, and
+23 motivationof one's ownand others' beliefs, and theawareness of how social mediaand other sources
+24 of information can often be unreliable and promulgate psychological traps and logical fallacies that
+25 leadtotheformationofunreasonablebeliefs.
+26 5 New Subparagraph; Accountability for the Opportunity for an Adequate Education. Amend
+27 RSA193-E:3-b,Ibyinsertingaftersubparagraph(a)(13)thefollowingnewsubparagraph:
+28 (14) Logicandcriticalthinking.
+29 6 New Paragraph; Studies. Amend RSA 189:10 by inserting after paragraph III the following
+30 newparagraph:
+
+HB1524-FN-ASINTRODUCED
+-Page2-
+1 IV. The school board shall ensure that logic and critical thinkingcourses approved pursuant
+2 to RSA 186:11, XXXVIII are taught as a part of the curriculum for all high schools in the state.
+3 Logic and critical thinking skills already being taught in high schools shall be embedded in a logic
+4 andcriticalthinkingcourse,pursuanttoRSA186:11,XXXVIII.
+5 7 New Paragraph; Duties of State Board of Education. Amend RSA 186:11 by inserting after
+6 paragraphXXXVIIthefollowingnewparagraph:
+7 XXXVIII. Logic and Critical Thinking Courses. Approve and distribute policy guidelines to
+8 school districts regarding courses and content standards for the teaching of logic and critical
+9 thinking.
+10 8 Application. Therequirementsofthisactshallnotapplyuntilthe2026-2027schoolyear.
+11 9 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2673
+12/2/25
+HB1524-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring a logic and critical thinking course within the state high school
+educationcurriculum.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $1,081,000+ $85,000 $89,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill, effective for the 2026-2027 school year, requires skills in logic and critical thinking to
+be added to criteria of adequate education, with a minimum of 54 hours of learning required in
+thecontent with school boards being required to ensure it is taught inhigh school. This bill also
+requires the State Board of Education to approve and distribute policy guidelines to school
+districts regarding the courses and content standards for teaching logic and critical thinking.
+The Department estimates the cost for content and standards development to be a minimum of
+$1,000,000 (based on cost incurred to state for civics content and standards development). In
+addition, the Department states it would need one new position to develop and maintain this
+requirement at the state level. The cost for this position (SOC 23-03, step 4) is approximately
+$81,000 in FY 2027, $85,000 in FY 2028, and $89,000 in FY 2029. This bill provides neither
+authorizationnorappropriationfornewpersonnel.
+
+The requirement of 54 hours of content instruction may create a cost to districts, but would be
+determined based on the number of students served, number of teachers, and number of schools
+impacted, in addition to the costs to adopt curriculum to meet the content standards, and
+training of staff to meet the requirement. Ultimately, costs, if there are any, for districts to
+complywiththisrequirementareindeterminableandwillvaryfromdistricttodistrict.
+AGENCIESCONTACTED:
+DepartmentofEducation

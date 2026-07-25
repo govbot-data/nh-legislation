@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1745-FN-ASINTRODUCED
+2026SESSION
+26-2984
+06/09
+1745-FN
+HOUSEBILL
+ANACT relativetotheallocationofpublicutilitycoststoratepayers.
+SPONSORS: Rep.W.Thomas,Hills.12;Rep.Wade,Straf.15
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits public utilities from recovering certain legal, trade association, and
+promotionalcoststhroughrates.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1745-FN-ASINTRODUCED
+26-2984
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheallocationofpublicutilitycoststoratepayers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Prohibited Cost Recovery Through Rates. Amend RSA 374 by inserting after
+2 section2-athefollowingnewsection:
+3 374:2-b ProhibitedCostRecoveryThroughRates.
+4 I. No public utility shall recover through rates any costs associated with its attendance at,
+5 participation in, preparation for, or appeal of any contested proceeding conducted before the public
+6 utilitiescommission. Suchcostsshallinclude,butnotbelimitedto:
+7 (a) Attorneys’fees;
+8 (b) Feesforexpertwitnessesorconsultants;and
+9 (c) Anyotherrelatedcostsidentifiedbythecommission.
+10 II. No public utility shall recover through rates any cost associated with membership, dues,
+11 sponsorships, or contributions to any business or industry trade association, group, or related entity
+12 incorporatedundersection501(c)(6)oftheInternalRevenueCodeof1986,asamended.
+13 III. No public utility shall recover through rates any cost associated with advertising,
+14 marketing, or promotional activities, unless the commission determines that such costs directly
+15 benefitratepayersandarenecessaryfortheprovisionofutilityservice.
+16 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2984
+12/15/25
+HB1745-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheallocationofpublicutilitycoststoratepayers.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Decreasein Decreasein Decreasein
+UtilityCosts UtilityCosts UtilityCosts
+FundingSource(s) GeneralFund,HighwayFund,andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0 Decreasein Decreasein Decreasein
+UtilityCosts UtilityCosts UtilityCosts
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0 Decreasein Decreasein Decreasein
+UtilityCosts UtilityCosts UtilityCosts
+METHODOLOGY:
+This bill prohibits public utilities from recovering certain costs through rates charged to
+customers. Specifically, the bill disallows recovery of costs associated with participation in
+contested proceedings before the Public Utilities Commission, including attorneys’ fees and
+consultant costs, prohibits recovery of costs related to membership, dues, sponsorships, or
+contributions to business or industry trade associations, and restricts recovery of advertising,
+marketing, or promotional costs unless the Commission determines such costs directly benefit
+ratepayersandarenecessaryfortheprovisionofutilityservice.
+
+The Department of Energy states this bill would prohibit utilities from recovering certain legal,
+consulting, trade association, and promotional costs through rates. The bill would not result in
+increased State expenditures but could reduce electricity costs for State, county, and municipal
+customerstotheextentutilitiesareunabletopassthesecostsontoratepayers.TheDepartment
+notes that the magnitude of any savings is indeterminable because utility rate case costs vary.
+As an example, the most recent Eversource rate case incurred approximately $2,000,000 in
+outside legal and consultant costs. Because the State accounts for approximately 1% of total
+electricity sales, the State could realize savings of roughly $20,000 in a comparable case. The
+Department does not have sufficient data to estimate impacts to counties or municipalities but
+expectsanysuchimpactwouldbelessthan$10,000.
+The Public Utilities Commission states this bill will not have an impact on their current
+operatingbudget.
+AGENCIESCONTACTED:
+DepartmentofEnergyandPublicUtilitiesCommission

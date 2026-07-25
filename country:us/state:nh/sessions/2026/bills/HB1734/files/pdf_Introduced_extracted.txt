@@ -1,0 +1,228 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1734-FN-ASINTRODUCED
+2026SESSION
+26-2801
+05/06
+1734-FN
+HOUSEBILL
+ANACT authorizingtheestablishmentofexperimentaltreatmentcenters.
+SPONSORS: Rep. Kesselring, Hills. 18; Rep. Cole, Hills. 26; Rep. Mazur, Hills. 44; Rep.
+Polozov, Merr. 10; Rep. D. McGuire, Merr. 14; Rep. Markell, Rock. 18; Rep.
+Bernardy, Rock. 36; Rep. Kofalt, Hills. 32; Rep. Osborne, Rock. 2; Rep. Miles,
+Hills. 12; Sen. Murphy, Dist 16; Sen. Sullivan, Dist 18; Sen. Innis, Dist 7; Sen.
+McGough,Dist11
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill permits the establishment of experimental treatment centers. The centers would be
+authorized by the department of health and human services to provide treatment involving an
+investigational drug, biologic, or device that has successfully completed phase one of a clinical trial,
+butisnotyetFDA-approvedforgeneraluseandeitherremainsunderinvestigationinaclinicaltrial
+orhasademonstratedsafetyrecordfromaqualifiedmedicalinstitution.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1734-FN-ASINTRODUCED
+26-2801
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizingtheestablishmentofexperimentaltreatmentcenters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act shall be known as the "John Lewicke and Michael Yakubovich
+2 ExperimentalTreatmentCentersAct".
+3 2 NewChapter;ExperimentalTreatmentCenters. AmendRSAbyinsertingafterchapter126-Z
+4 thefollowingnewchapter:
+5 CHAPTER126-ZZ
+6 EXPERIMENTALTREATMENTCENTERS
+7 126-ZZ:1 StatementofIntent.
+8 The general court enacts this chapter to promote maximum access to innovative health care by
+9 removing legal barriers to cutting-edge treatments and to make New Hampshire a jurisdiction that
+10 attracts and fosters clinical trials and the development of drugs, biologics, and devices intended to
+11 combat illness and promote human flourishing. This chapter shall be construed consistently with
+12 thegeneralcourt'sstatedpurpose.
+13 126-ZZ:2 Definitions.
+14 Inthischapter:
+15 I. “Eligiblepatient”meansapersontowhomallofthefollowingapply:
+16 (a) The person has received a recommendation from the patient's treating physician for
+17 anexperimentaltreatment;
+18 (b) The physician certifies in writing that they have provided the recommendation and
+19 thatthepatienthasconsideredalternativetreatmentsapprovedbytheFDA; and
+20 (c) The person has given written informed consent for use of the experimental
+21 treatment,includingatleastthefollowinginformation:
+22 (1) Clearidentificationofthespecificexperimentaltreatmentsoughtbythepatient;
+23 (2) Certification that the patient and physician have discussed whether there are
+24 anyapplicableFDA-approvedtreatmentsand,ifso,thenatureofsuchtreatments;
+25 (3) Certification that the patient and physician have discussed best and worst
+26 outcomesfromthetreatmentandthemostlikelyoutcomebasedonavailabledata;
+27 (4) An acknowledgment that insurance is not obligated to pay for treatment or
+28 consequentcare;
+29 (5) Astatement,ifapplicable,thatpatientisliablefortreatmentexpenses;and
+30 (6) A prominent statement that the patient is seeking treatment from an
+31 experimentaltreatmentcenterunderRSA126-ZZ.
+
+HB1734-FN-ASINTRODUCED
+-Page2-
+1 II. “Experimental treatment” means the provision of a medical intervention by a health care
+2 provider involving an investigational drug, biologic, or device that has successfully completed phase
+3 oneofaclinicaltrial,butisnotyetFDA-approvedforgeneraluseandeither:
+4 (a) Remainsunderinvestigationinaclinicaltrial;or
+5 (b) Has a demonstrated safety record through documented clinical evidence from a
+6 qualified medical institution as defined in paragraph VI. For the purposes of this provision,
+7 “qualified medical institution” may be further defined by the department of health and human
+8 servicesthrougharulemakingunderRSA541-A.
+9 III. “Experimental treatment center” means a health care provider, whether a business or
+10 nonprofit, that administers experimental therapies pursuant to RSA 126-ZZ:3. An entity’s status as
+11 an experimental treatment center under this chapter is legally distinct from its licensing status
+12 under RSA 151:2, its administration of any treatments under 126-Z, and its participation in other
+13 protectedaccess.
+14 IV. “Other protected access” includes expanded access or compassionate use, in which the
+15 treating physician has requested access under 21 C.F.R. Part 312, Subpart I and other applicable
+16 FDA regulations or off-label use consistent with the physician’s professional obligations under RSA
+17 329.
+18 V. “Physician”meansthelicensedallopathicorosteopathicphysicianprovidingmedicalcare
+19 ortreatmenttothepatient.
+20 VI. “Qualified medical institution” means an institution that has generated documented
+21 clinical evidence supporting the safety of a medical intervention equivalent to that required for
+22 successfulcompletionofaphaseIclinicaltrial,andoperatesunderoneofthefollowingframeworks:
+23 (a) Oversightbyaregulatoryauthorityrecognizedbyinternationalstandards;or
+24 (b) Oversight by a regulatory authority that demonstrates substantially equivalent
+25 standards for data quality, monitoring, and patient protection as determined by the experimental
+26 treatmentcenter’sscientificreviewboard.
+27 126-ZZ:3 AvailabilityofInvestigationalDrugs,Biologics,orDevices.
+28 I. A manufacturer of a drug, biologic, or device used in experimental treatments or an
+29 experimental treatment center may make available the drug, biologic, or device to eligible patients
+30 pursuanttothischapter. Themanufacturerortreatmentcentermay:
+31 (a) Providethedrug,biologic,ordevicetoaneligiblepatientwithoutcompensation;or
+32 (b) Require the eligible patient to pay for the treatment and establish payment
+33 arrangementswiththepatient;and
+34 (c) Ask eligible patients to participate in data collection relating to the use of the drug,
+35 biologic,ordevice.
+36 II. Nothing in this chapter requires a health care insurer or any state agency to provide
+37 coverageforanyexperimentaltreatment.
+
+HB1734-FN-ASINTRODUCED
+-Page3-
+1 III. Nothing in this chapter requires the manufacturer of an experimental treatment to
+2 includeapatientinanyparticularclinicaltrialorstudy.
+3 IV. Nothing in this chapter requires a health care provider or manufacturer to make an
+4 experimentaltreatmentavailabletoanyeligiblepatient.
+5 126-ZZ:4 LimitationonStateorPoliticalSubdivisionAction.
+6 I. Notwithstanding any provision of law to the contrary, the board of medicine shall not
+7 revoke, fail to renew, or take any other action against a physician's license issued pursuant to RSA
+8 329, or any other law, based primarily on a physician's recommendation to an eligible patient
+9 regardingorprescriptionfortreatmentunderthischapter.
+10 II. Notwithstanding any provision of law to the contrary, the department of health and
+11 human services shall not take action against a provider licensed under RSA 151, or any other law,
+12 basedprimarilyontheinstitution'sparticipationintreatmentauthorizedunderthischapter.
+13 126-ZZ:5 ExperimentalTreatmentCenterLicensing.
+14 I. A provider seeking to provide experimental treatments under this chapter, including but
+15 not limited to a health care facility licensed under RSA 151, shall obtain experimental treatment
+16 centerauthorizationfromthedepartmentofhealthandhumanservices.
+17 II. The authorization fee shall be $2,500 initially and $1,250 annually for facilities already
+18 licensed under RSA 151, and $10,000 initially and $5,000 annually for entities not otherwise
+19 licensed.
+20 III. To obtain authorization from the department, applicants shall have a medical director
+21 who is a physician licensed to practice medicine in New Hampshire. If the department promulgates
+22 a rule governing adverse event reporting procedures, experimental treatment centers have an
+23 ongoingobligationtodemonstratecompliancewiththatrule.
+24 IV. Experimental treatment centers may only administer therapies that are approved by an
+25 active scientific review board. A scientific review board shall either be established by the
+26 experimental treatment center or independently contracted and shall include not fewer than 3
+27 members with appropriate expertise, including at least one physician qualified to practice medicine
+28 in New Hampshire and at least one member with experience in clinical outcomes research.
+29 Providers may share review boards or board members with other authorized facilities or with
+30 academicinstitutions.
+31 V. Notwithstanding any law or regulation to the contrary, health care facilities currently
+32 licensed under RSA 151 may add experimental treatment center services by obtaining authorization
+33 underthissectionwithoutotherwiseobtainingadditionallicensing.
+34 VI. Notwithstanding any law or regulation to the contrary, authorized experimental
+35 treatment centers may establish payment arrangements with patients, including direct pay,
+36 subscription models, membership fees, or other payment structures, including digital currencies,
+37 withorwithoutregardtoinsurancecoveragerequirements.
+
+HB1734-FN-ASINTRODUCED
+-Page4-
+1 VII. Notwithstanding any law or regulation to the contrary, services provided by authorized
+2 experimental treatment centers under this chapter are exempt from any state insurance coverage
+3 mandates,networkadequacyrequirements,andpriorauthorizationprocedures.
+4 VIII. The commissioner mayadopt rules under RSA541-A establishing minimum standards
+5 forscientificreviewboards,adverseeventreporting,andauthorizationprocedures.
+6 IX. A company operating an experimental treatment center in New Hampshire shall be
+7 eligibletoapplyfortheresearchanddevelopmenttaxcreditunderRSA77-A:5,XIII.
+8 X. The commissioner may also enter into reciprocal agreements with other states or their
+9 similar agencies for cross-border treatment coordination and shared scientific review board
+10 recognition. The department shall issue experimental treatment center licenses to applicants
+11 already licensed under another state’s substantially similar law, provided the applicant satisfies
+12 paragraph IV in New Hampshire. A state’s law is presumptively “substantially similar” to New
+13 Hampshire’s if it provides for the licensure of experimental treatment centers requiring approval of
+14 treatment protocols and assessment of experimental treatment for patient safetybyscientific review
+15 boards.
+16 126-ZZ:6 Manufacturing
+17 I. Authorized experimental treatment centers may manufacture drugs, biologics, or devices
+18 on-site or through contracted facilities, provided the center's scientific review board approves the
+19 manufacturing protocol and determines it meets quality standards equivalent to recognized
+20 pharmaceuticalmanufacturingframeworksforpatientsafety.
+21 II. The scientific review board shall document its rationale for approving manufacturing
+22 facilities and protocols, including comparison to recognized industry standards such as good
+23 manufacturingpracticeorinternationalorganizationforstandardizationframeworks.
+24 III. Batch and distribution records shall be maintained for each lot and provided to the
+25 department within fifteen days upon request. The experimental treatment center shall maintain
+26 suchrecordsforaminimumoftwoyears.
+27 IV. The commissioner may adopt rules under RSA 541-A establishing manufacturing
+28 standardsandqualityrequirements,includingrulestoenforcetherequirementsofthissection.
+29 126-ZZ:7 FreeCareandPublicBenefits.
+30 I. Each licensed experimental treatment center shall allocate 2 percent of its net annual
+31 profits to support access to experimental treatments and health care for qualifying New Hampshire
+32 residents. The center shall document and report this allocation on a form provided by the
+33 department, if the department provides such a form. Documentation and reporting shall be
+34 submittednolaterthanFebruary1ofeachyear.
+35 II. TherequirementinparagraphImaybefulfilledbyoneoracombinationofthefollowing:
+
+HB1734-FN-ASINTRODUCED
+-Page5-
+1 (a) Providing experimental treatment, as defined in this chapter, for free to qualifying
+2 New Hampshire residents who are eligible patients in an amount equal to at least 2 percent of the
+3 center’snetannualprofits;or
+4 (b) Contributing an amount equal to at least 2 percent of the center’s net annual profits
+5 the uncompensated care fund established under RSA 167:64, the opioid abatement trust fund
+6 establishedunderRSA126-A:84,thealcoholabusepreventionandtreatmentfundestablishedunder
+7 RSA 176-A:1, the lead paint poisoning control fund established under RSA 130-A:15, or any fund to
+8 benefit the developmentally disabled established under RSA 171-A:8-b, provided that the
+9 department may adjudicate in a rulemaking under RSA 541-A that one or more of these funds is
+10 functionallyinactiveandthereforeineligibletosatisfytherequirementsofthisprovision.
+11 III. The commissioner of the department of health and human services shall adopt rules,
+12 pursuant to RSA 541-A, establishing criteria for identifying “qualifying New Hampshire residents”
+13 eligible to receive free experimental treatment under subparagraph II(a). Such rules may consider
+14 factorsincludingincomelevel,insurancestatus,andmedicalneed.
+15 IV. The department may adopt rules and develop procedures to review and approve
+16 documentationunderthissectionandensurethatrequiredallocationsaremadeannually.
+17 3 New Subparagraph; Health Care Facility Licensing; Exemptions; Experimental Treatment
+18 Center. Amend RSA 151:2, II as follows by inserting after subparagraph (i) the following new
+19 subparagraph:
+20 (j) Totheextentthataprovideroperatesasanexperimentaltreatmentcenterdefinedin
+21 RSA 126-ZZ, operating under that chapter and in compliance with all review and patient protection
+22 standards described therein, it shall not be required to obtain a license except as provided in that
+23 chapter.
+24 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2801
+12/12/25
+HB1734-FN-FISALNOTE
+ASINTRODUCED
+ANACT authorizingtheestablishmentofexperimentaltreatmentcenters.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

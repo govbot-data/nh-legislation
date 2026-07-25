@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1143 -ASINTRODUCED
+2026SESSION
+26-2455
+06/07
+1143
+HOUSEBILL
+ANACT relativetotheremediationofmoldinrentalhousing.
+SPONSORS: Rep.S.King,Coos4
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds mold infestation as a minimum standard violation for rental housing and
+authorizes municipal officers to inspect, investigate, and enforce remediation for significant mold
+conditions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1143-ASINTRODUCED
+26-2455
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheremediationofmoldinrentalhousing.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Minimum Standards for Rental Housing; Mold. Amend RSA 48-A:14 by
+2 insertingafterparagraphXIthefollowingnewparagraph:
+3 XII. There is a significant infestation of mold such that it can be visibly seen or, with
+4 professional instrumentation, can be detected behind walls, under carpets, or in other areas not
+5 immediatelyvisible.
+6 2 Enforcement. AmendRSA48-A:15,toreadasfollows:
+7 48-A:15 EnforcementofMinimumStandards.
+8 I. In municipalities which have not established a public agency as described in RSA 48-A:3,
+9 a violation of the minimum standards set forth in RSA 48-A:14 shall be a violation, and each
+10 continuingdayofviolationafternoticeshallbeaseparateoffense.
+11 II. Municipal officers charged with the enforcement of minimum standards for
+12 rentalhousingmayinspect,investigate,andenforcetheprovisionsofRSA48-A:14,XII,and
+13 may issue notices of violation, orders of remediation, and pursue remedies consistent with
+14 thissection.
+15 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

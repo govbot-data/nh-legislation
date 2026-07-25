@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER32
+HB1204-FINALVERSION
+5Mar2026...0471h
+2026SESSION
+26-2589
+08/09
+1204
+HOUSEBILL
+ANACT relativetothegradinganduseoftimbergrowninNewHampshire.
+SPONSORS: Rep. A. Davis, Coos 2; Rep. Tierney, Coos 1; Rep. Durkin, Coos 1; Rep. Cole, Hills.
+26
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows certain timber grown in New Hampshire to be graded as spruce-pine-fir and requires
+theconsiderationofNewHampshireharvestedtimberforstatebuildingprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER32
+HB1204-FINALVERSION
+5Mar2026...0471h 26-2589
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothegradinganduseoftimbergrowninNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 32:1 StatementofFindingsandPurpose. Thegeneralcourtherebyfindsthat:
+2 I. ThemajorityofstructuraltimberharvestedforbuildingmaterialsinNewHampshirecomesfrom
+3 Coos County, and many areas of Coos County extend farther north than portions of Canada, where
+4 lumberisgradedasspruce-pine-fir(SPF).
+5 II. Timber graded as SPF from Canada is viewed as stronger and denser under international
+6 design standards in part because of cold climate growth conditions; however, New Hampshire's northern
+7 climate, soils, and growing conditions are substantially similar and produce the same species of spruce,
+8 pine,andfirincludedintheSPFdesignation.
+9 III. Architects and engineers typically specify "SPF" lumber in certain residential construction
+10 documents. Because "SPF" is an international designation reserved for Canadian graded wood, New
+11 Hampshire's native lumber graders cannot certify New Hampshire-grown spruce, pine, and fir as SPF.
+12 Instead, the same species must be graded as spruce-pine-fir south (SPFS), which is viewed in the
+13 industryasaseparate,slightlyweakerclassification.
+14 IV. This technical distinction disadvantages New Hampshire sawmills, loggers, and the forest
+15 products industry, even though New Hampshire-grown wood from the north country is of equal type and
+16 quality.
+17 V. ItisthereforethepolicyofthestateofNewHampshiretoensurethatNewHampshirefamilies
+18 and New Hampshire builders can build New Hampshire homes with New Hampshire wood by eliminating
+19 thebarrierbetweenSPFandSPFSwithinthestatebuildingcode.
+20 VI. The general court of New Hampshire finds that wood density should be a latitudinal
+21 demarcation rather than an arbitrary designation of density based upon political borders. Viewed as
+22 latitude, New Hampshire encompasses 42 degrees, 40 minutes north up to 45 degrees, 18 minutes.
+23 Timberharvestedtoproducebuildinglumberbetweenthelatitudeof43degrees,45minutes,18seconds
+24 north to 45 degrees, 18 minutes north warrants the same density demarcation as Canadian SPF unless
+25 otherwisedesignatedbyalicensedarchitectorstructuralengineer.
+26 32:2 New Section; Use of Spruce-Pine-Fir (SPF) and Spruce-Pine-Fir-South (SPFS). Amend RSA
+27 155-Abyinsertingaftersection14thefollowingnewsection:
+28 155-A:15 UseofSpruce-Pine-Fir(SPF)LumberandSpruce-Pine-Fir-South(SPFS)Lumber.
+29 I. For purposes of the state building code, spruce-pine-fir south (SPFS) lumber harvested and
+30 milled in New Hampshire and graded either by a grader permitted under RSA 426:18 or by an American
+31 LumberStandardCommittee(ALSC)accreditedagencyshallbeacceptedwhereverspruce-pine-fir(SPF)
+32 isspecified.
+
+CHAPTER32
+HB1204-FINALVERSION
+-Page2-
+1 II. StructuraldesignandinspectionshallusethepublishedSPFSdesignvaluesforthegradeand
+2 sizeprovided.
+3 III. Where a code evaluation report, product listing, or manufacturer's installation instructions
+4 differentiate allowable loads or limitations by lumber species group, the allowable loads corresponding to
+5 the installed species group shall be used. When SPFS lumber is installed, the values for SPFS shall
+6 govern. This requirement shall apply, but not be limited to, structural connectors, hangers, fasteners,
+7 trussplates,adhesives,andproprietarysystems.
+8 IV. Municipalities shall accept either a native lumber certificate pursuant to RSA 426:18 or an
+9 ALSCgradestampassufficientproofofgrade.
+10 V. Nothing herein shall prevent a licensed architect or engineer from specifying higher strength
+11 materials if required for safety and structural integrity of a structure. Licensed architects and structural
+12 engineersshallalsoconsiderandshallprovidealternativeoptionsofconstructionutilizingSPFSlumber.
+13 VI. This section shall not be construed to prohibit the use of SPF lumber graded by an ALSC
+14 accreditedagency.
+32:3 EffectiveDate. Thisactshalltakeeffect180daysafteritspassage.
+Approved:April22,2026
+EffectiveDate:October19,2026

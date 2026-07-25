@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1541-FN-VERSIONADOPTEDBYBOTHBODIES
+04/09/2026 1313s
+4Jun2026...2091CofC
+4Jun2026...2177EBA
+2026SESSION
+26-2744
+08/06
+1541-FN
+HOUSEBILL
+ANACT requiring the secretary of state to provide all voting precincts with secure
+containersforstoringballots.
+SPONSORS: Rep. Porcelli, Rock. 19; Rep. Bernardy, Rock. 36; Rep. Burnham, Straf. 2; Rep.
+Kuttab, Rock. 17; Rep. Nelson, Rock. 13; Rep. See, Merr. 26; Rep. Wherry, Hills.
+13; Rep. Wood, Merr. 13; Rep. Tenczar, Hills. 1; Rep. McGrath, Rock. 40; Sen.
+Innis,Dist7;Sen.McGough,Dist11
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the secretary of state to provide all voting precincts with secure containers for
+storingballots.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1541-FN-VERSIONADOPTEDBYBOTHBODIES
+04/09/2026 1313s
+4Jun2026...2091CofC
+4Jun2026...2177EBA 26-2744
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the secretary of state to provide all voting precincts with secure
+containersforstoringballots.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SecretaryofStatetoPrepareContainers,Sealers. AmendRSA659:97toreadasfollows:
+2 659:97 Secretary of State to Prepare Containers, Sealers. The secretary of state shall, before any
+3 state and federal election, prepare and distribute to each town and ward clerk secure, durable,
+4 reusable, transportable, stackable and marked containers to be used for preserving ballots
+5 withlocks,tamper-evident [and]sealers[tosealeachsuchcontainer]and registrationor serial
+6 numbersforeachmarkedcontainer. [He]Thesecretaryofstateshallpreparespecial durable
+7 and easily transportable containers capable of being secured and with tamper-evident
+8 sealers to be used for preserving any special and separate ballots for questions to voters. The
+9 secretary of state shall prescribe the size and form of such containers, locks and tamper-evident
+10 sealers and shall prescribe the form of any endorsement blank printed upon the sealers, provided
+11 that theblank is insubstance consistent withtheprovisions of RSA659:95. The secretary of state
+12 shall prepare an annual progress report and will include the number of secure containers
+13 replaced,locations,andplannedcontainerreplacementforthefollowingyear.
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2744
+04/24/2026
+HB1541-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1313s)
+ANACT requiring the secretary of state to provide all voting precincts with secure
+containersforstoringballots.
+FISCALIMPACT:
+The Office of Legislative Budget Assistant states this bill has no additional fiscal impact on
+state, county and local expenditures or revenue as the Secretary of State's current operating
+budgetcanabsorbtheestimatedexpendituresrelatedtothisbill.
+AGENCIESCONTACTED:
+DepartmentofState
