@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1429-FN-ASINTRODUCED
+2026SESSION
+26-2560
+08/06
+1429-FN
+HOUSEBILL
+ANACT enablingballotcountingtobepausedincertaincircumstances.
+SPONSORS: Rep.Dargie,Hills.43;Rep.Petrigno,Hills.43
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablesballotcountingtobepausedincertaincircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1429-FN-ASINTRODUCED
+26-2560
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enablingballotcountingtobepausedincertaincircumstances.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Counting Ballots; Pause in Counting. Amend RSA 659:23 by inserting after
+2 paragraphIIthefollowingnewparagraphs:
+3 III. The moderator of any polling place where the moderator believes that the ballot
+4 counting will extend beyond 12:00 a.m. may pause the ballot counting no earlier than 11:00 p.m.
+5 Vote counting shall resume the next morning at a time chosen by the moderator, at the same
+6 location,andshallcontinueuntilcomplete.
+7 IV. Themoderatorshallannouncethepauseandwhenandwheretheprocesswillresume.
+8 V. All work-in-process documents shall be preserved, identified as to what they are, and
+9 kept on site. The moderator, collaborating with the select board or school board, shall ensure the
+10 ballots and associated materials are securely stored overnight, with no less than 2 election officials
+11 oroneofficialandonepoliceofficerpresenttheentiretime.
+12 VI. A chain of custody form published by the secretary of state shall be completed by the
+13 clerkandsignedbythemoderator,clerk,andallofficialswhowerepresentovernight.
+14 VII. Up to 5 members of the public may be present in the room where the ballots and
+15 materials are held, but outside the guardrails, for all or part of the overnight period. The election
+16 official(s) who are present may equitably rotate the observers into the room if six or more members
+17 ofthepublicwishtoobservethesceneatthesametime.
+18 VIII. The select board or school board, as appropriate, shall have the scene recorded with
+19 time-stamped audio and video and, to the extent possible, live broadcast the scene on the governing
+20 body'swebsiteandalocalcablechannel,ifoneisavailable.
+21 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2560
+11/30/25
+HB1429-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enablingballotcountingtobepausedincertaincircumstances.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill allows polling places where the moderator believes that the ballot counting will extend
+beyond 12:00 a.m. to pause the ballot counting no earlier than 11:00 p.m. The bill outlines
+procedures for securely storing ballots overnight, including the presence of election officials or
+law enforcement, completion of a chain of custody form, and allows up to five members of the
+public to be present in the room where the ballots and materials are held for the overnight time
+period. It also requires video and audio recording of the storage area and if possible, a live
+broadcastofthescene.
+The Department of State indicates that this bill conflicts with various existing statutes
+(specifically RSA 659:63 & RSAs 659:77-659:79) that currently require vote counting and
+tabulation to be completed without adjournment and mandate timely submission of election
+returns. Delaying ballot counting could conflict with these laws, potentially triggering legal
+consequences. The Secretary of State anticipates the need for extensive legal consultation with
+the Attorney General’s office and additional training for election officials. Due to these
+complexities,thefiscalimpactisanindeterminableincreasetostateexpenditures.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+
+DepartmentofState

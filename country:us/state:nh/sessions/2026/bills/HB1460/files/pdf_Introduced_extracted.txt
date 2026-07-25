@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1460-FN-ASINTRODUCED
+2026SESSION
+26-3231
+05/09
+1460-FN
+HOUSEBILL
+ANACT prohibitingthesaleoflocationandothersensitivedataregardingchildren.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Markell, Rock. 18; Rep. Edwards, Rock. 31; Rep. L.
+Miner, Rock. 7; Rep. Granger, Straf. 2; Rep. Moffett, Merr. 4; Sen. Gannon, Dist
+23;Sen.Murphy,Dist16;Sen.Lang,Dist2;Sen.Sullivan,Dist18
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitsthesaleofthelocationandothersensitivedataregardingchildren.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1460-FN-ASINTRODUCED
+26-3231
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingthesaleoflocationandothersensitivedataregardingchildren.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Expectation of Privacy; Sensitive Data. Amend RSA 507-H:6, I by
+2 insertingaftersubparagraph(e)thefollowingnewsubparagraph:
+3 (e-1) Notsellthelocationandothersensitivedataregardingchildren;
+4 2 EffectiveDate. ThisacttakeseffectJanuary1,2027.
+
+LBA
+26-3231
+11/30/25
+HB1460-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibitingthesaleoflocationandothersensitivedataregardingchildren.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+$0to$100,000 $0to$100,000 $0to$100,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill amends RSA 507-H (New Hampshire’s Data Privacy Law) to prohibit covered entities
+fromsellingthelocationorothersensitivedataregardingchildren.
+The Department of Justice (DOJ) states this bill will result in an indeterminable impact to state
+General Fund expenditures beginning in FY 2027. Under current law, entities must obtain
+consent before processing a known child’s data and must comply with federal Children’s Online
+Privacy Protection Act (COPPA) requirements. By prohibiting the sale of children’s location and
+other sensitive data regardless of knowledge or consent, the bill may change investigative
+patterns for the Consumer Protection and Antitrust Bureau. DOJ notes that the bill may
+streamline certain existing investigations but may also increase the number of potential
+violationsrequiringinvestigationandenforcement.
+Because DOJ cannot predict the number of additional investigations or enforcement actions that
+may result, the Department states the fiscal impact is indeterminable, but could be more than
+$10,000–$100,000orlessinanyfiscalyear.
+AGENCIESCONTACTED:
+DepartmentofJustice

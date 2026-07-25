@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1816-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0983h
+2026SESSION
+26-2410
+07/08
+1816-FN
+HOUSEBILL
+ANACT relative to the intervention of the department of education into a school or school
+districtduringafinancialemergency.
+SPONSORS: Rep. Ladd, Graf. 5; Rep. Spilsbury, Sull. 3; Rep. Popovici-Muller, Rock. 17; Rep.
+Peeples,Hills.14;Rep.Kofalt,Hills.32;Sen.Ward,Dist8;Sen.Innis,Dist7
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the commissioner of the department of education to initiate and implement a
+district recovery plan if a school district's financial and operational condition is deemed a financial
+emergencybythestateboardofeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1816-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0983h 26-2410
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the intervention of the department of education into a school or school
+districtduringafinancialemergency.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State School Organization; State Board of Education; Financial Emergency
+2 PowersoftheStateBoard. AmendRSA186byinsertingaftersection5thefollowingnewsection:
+3 186:5-a FinancialEmergencyPowersoftheStateBoard.
+4 I. Nothing in this section shall be construed to permit either the department of education or
+5 the state board of education to take control of the daily operations of any local public school district
+6 or school, unless the financial and operational condition of the local public school district or school is
+7 deemedafinancial emergencybythestateboard of educationnecessitatingdepartment intervention
+8 and oversight. In such an emergency, the commissioner of the department of education shall have
+9 authoritytoassisttheschooldistrictorschoolindevelopingarecoveryplanandtooverseesuchplan
+10 toleverageresourcestoaddresscorefinancialneeds. Therecoveryplanmayconsider:
+11 (a) Alteringadministrativepracticesandoperatingconditions;
+12 (b) Reallocatingschooldistrictorschoolresources;
+13 (c) Renegotiatingcontractsandagreements;and
+14 (d) Department oversight of school district or school governance, organizational
+15 structure,and/oradministrativeservicesidentifiedinRSA194-C:4,IIforuptooneyear.
+16 II. Forpurposesofthissection,"schoolinfinancialemergency"or"schooldistrictinfinancial
+17 emergency" necessitates that immediate oversight providing corrective and technical assistance by
+18 the department is imperative for the school district or school to meet its financial, operational, and
+19 instructional responsibilities for all school-age children. The state board of education shall adopt
+20 rules, pursuant to RSA 541-A, relative to implementing corrective and technical assistance to a
+21 schooldistrictorschoolinastateoffinancialemergency.
+22 III. The department of education may request up to $200,000 from the education trust fund
+23 into a non-lapsing reserve fund for the purpose of corrective and technical assistance necessary to
+24 implementadistrictfinancialemergencyrecoveryplanpursuanttothissection.
+25 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2410
+Revised04/07/2026
+HB1816-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0983h)
+ANACT relative to the intervention of the department of education into a school or school
+districtduringafinancialemergency.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable(PossiblyNoImpact)
+FundingSource(s) GeneralFundandEducationTrustFund
+Appropriations* $0 SeeMethodologyBelow
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective January 1, 2027, authorizes the State Board of Education to declare a school
+or school district in “financial emergency” and, in such cases, allows the Department of
+Education to provide temporary oversight and assistance to develop and implement a financial
+recovery plan. The plan may include changes to administration, resource allocation, contracts,
+and governance for up to one year, while maintaining local control outside of emergency
+conditions.
+Potential costs, if any, to the Department of Education are unknown. The bill intends to allow
+for the Department to request up to $200,000 from the education trust fund to a "non-lapsing
+reservefund"tosupportcorrectiveandtechnicalassistance. Thisisassumedtobenomorethan
+$200,000 per district financial emergency recovery plan. Please note the following relative to
+thissection:
+· This states the Department may "request" funds, but is silent on approval required (i.e.,
+GovernorandExecutiveCouncil,JoinLegislativeFiscalCommittee,etc...).
+· This allows for the Department to "request" funds, however, it provides no appropriation
+("spending")authority.
+o Similarly, this bill lacks "warrant language" for the allocation of the education
+trustfunddollarstothe"non-lapsingreservefund".
+
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1297 -ASINTRODUCED
+2026SESSION
+26-2826
+08/09
+1297
+HOUSEBILL
+ANACT relativetopropertyownedpursuanttothepublictrustdoctrine.
+SPONSORS: Rep.Newsom,Merr.9
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prevents a person from acquiring property owned pursuant to the public trust doctrine
+frombeingadverselypossessed.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1297-ASINTRODUCED
+26-2826
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopropertyownedpursuanttothepublictrustdoctrine.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Conveyances of Realty and Interests; No Prescription Against the Public; Public Trust
+2 Doctrine. AmendRSA477:34toreadasfollows:
+3 477:34 Property.
+4 No person shall acquire by prescription a right to any part of a town house, schoolhouse or
+5 church lot, property owned pursuant to the public trust doctrine, or of any public ground by
+6 fencingorotherwiseinclosingthesameorinanywayoccupyingitadverselyforanylengthoftime.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

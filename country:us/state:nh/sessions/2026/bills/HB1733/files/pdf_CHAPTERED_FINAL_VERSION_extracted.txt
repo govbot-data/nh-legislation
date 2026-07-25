@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER147
+HB1733-FINALVERSION
+5Mar2026...0752h
+04/16/2026 1429s
+2026SESSION
+26-2774
+06/08
+1733
+HOUSEBILL
+ANACT relativetothereconciliationofdefaultelectricservicerates.
+SPONSORS: Rep.Harrington,Straf.18
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits utilities from collecting default electric service cost reconciliations through non-
+bypassable charges except when the commission, through an adjudicative proceeding, finds
+extraordinarycircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER147
+HB1733-FINALVERSION
+5Mar2026...0752h
+04/16/2026 1429s 26-2774
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothereconciliationofdefaultelectricservicerates.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 147:1 RestructuringPolicyPrinciples. AmendRSA374-F:3,V(e)toreadasfollows:
+2 (e) Notwithstanding any provision of subparagraphs (b) and (c), as competitive markets
+3 develop, the commission may approve alternative means of providing transition or default services which
+4 are designed to minimize customer risk, not unduly harm the development of competitive markets, and
+5 mitigate against price volatility without creating new deferred costs, if the commission determines such
+6 means to be in the public interest. Noreconciliationofactualandestimatedwholesalepowersupply
+7 costsincurredbyautilitytoprovidedefaultserviceshallberecoveredthroughanon-bypassablecharge,
+8 exceptinextraordinarycircumstancesasfoundtoexistbythecommissionthroughanadjudicative
+9 proceeding.
+147:2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:June16,2026
+EffectiveDate:June16,2026

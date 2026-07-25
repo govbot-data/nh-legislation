@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER167
+HB1363-FINALVERSION
+5Mar2026...0712h
+04/23/2026 1547s
+21May2026...2128EBA
+2026SESSION
+26-3089
+09/06
+1363
+HOUSEBILL
+ANACT relativetoemployeecandidatebackgroundchecks.
+SPONSORS: Rep.Roy,Rock.31;Rep.Devoid,Merr.1;Rep.Lascelles,Hills.14;Rep.D.Mannion,
+Rock. 25; Rep. Paquette, Hills. 25; Rep. Reinfurt, Hills. 29; Rep. Rhodes, Ches. 17;
+Sen.Birdsell,Dist19;Sen.Gannon,Dist23
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillauthorizesthecommissionerofthedepartmentofsafetytodesignateanauthorizedpersonto
+receivecriminalconvictioninformationduringbackgroundinvestigations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER167
+HB1363-FINALVERSION
+5Mar2026...0712h
+04/23/2026 1547s
+21May2026...2128EBA 26-3089
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoemployeecandidatebackgroundchecks.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 167:1 Division of Safety; Employee Candidate Background Checks. Amend RSA 21-P:15-c, III to
+2 readasfollows:
+3 III. To obtain a state records check only, the department shall submit a state criminal history
+4 records release form to the division of state police. To obtain both the federal and the state records
+5 check,thedepartmentshallsubmitthecriminalhistoryrecordsreleaseformandapplicantfingerprintcard
+6 tothedivisionofstatepolice,whichshallconductacriminalhistoryrecordscheckthroughitsrecordsand
+7 through the Federal Bureau of Investigation. Upon completion of the background investigation, the
+8 division of state police shall report any criminal conviction information to the commissioner ortoa
+9 departmentofsafetyemployeeasdesignatedbythecommissionerwhoisauthorizedtoreceivecriminal
+10 convictioninformation. The department may submit fingerprint information electronically, in accordance
+11 with procedures established by the division of state police. The department shall maintain the
+12 confidentialityandsecurityofallcriminalhistoryrecordsinformationreceivedpursuanttothisparagraph.
+167:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June19,2026
+EffectiveDate:August18,2026

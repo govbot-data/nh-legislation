@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1065-FN-ASINTRODUCED
+2026SESSION
+26-2304
+06/09
+1065-FN
+HOUSEBILL
+ANACT relativetomulti-familyandmixed-usedevelopmentincommerciallyzonedareas.
+SPONSORS: Rep.Preece,Hills.17;Rep.Maggiore,Rock.23;Rep.Mandelbaum,Rock.21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands and clarifies how municipalities must treat multi-family housing and mixed-
+useddevelopmentoncommerciallyzonedland.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1065-FN-ASINTRODUCED
+26-2304
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomulti-familyandmixed-usedevelopmentincommerciallyzonedareas.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 AmendmenttoZoningRegulations. AmendRSA674:80toreadasfollows:
+2 674:80 AmendmenttoZoningRegulations.
+3 I. [Notwithstanding any provision to the contrary,] Municipalities shall allow multi-family
+4 [residential development] dwelling units, as defined in RSA 674:43, on commercially zoned land,
+5 provided that adequate infrastructure[, including roads, water, and sewage systems,] shall be
+6 available[ or provided] to support the development. In this section, “infrastructure” shall mean
+7 allthecapitalfacilitiesownedoroperatedbythemunicipalitylistedinRSA674:21,V. The
+8 existence of adequate infrastructure shall be determined by the planning board, governing
+9 body,orbuildingcodeofficer,oracombinationofmorethanone,asdeterminedlocally.
+10 II. Nothing in this section shall be interpreted to prohibit municipalities from restricting
+11 residential development in zones where industrial and manufacturing uses are permitted [which
+12 may result in impacts that are incompatible with residential use, such as air, noise, odor, or
+13 transportationimpacts].
+14 III. Amunicipalitymayrequireallavailablegroundfloorspaceorapercentagethereoftobe
+15 dedicatedtoretailorsimilaruses.
+16 IV. A municipality shall [provide an exemption to any requirements regarding setbacks,
+17 height, or frontage of a building being converted to multi-family or mixed-use through adaptive
+18 reuse, provided that the building's floor area, height, and setbacks do not change] allow non-
+19 conforming structures to be converted to a multi-family residential development or mixed
+20 use provided that the structure is not made more nonconforming. Otherwise, a multi-
+21 family residential development on commercially zoned land shall conform to all other
+22 applicabledimensionalrequirementsandsubdivisionorsiteplanreviewregulations.
+23 V. A municipality that adopts land use ordinances and regulations shall allow
+24 adaptive reuse and mixed use in a majority, but not necessarily all, of the commercially
+25 zoned land within the municipality. The municipality shall have the discretion to
+26 determinewhatlandareasareappropriatetomeetthisobligation.
+27 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2304
+10/29/25
+HB1065-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetomulti-familyandmixed-usedevelopmentincommerciallyzonedareas.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+LocalExpenditures $0
+(lessthan$10,000permunicipality)
+METHODOLOGY:
+This bill requires municipalities to permit multi-family housing on commercially zoned land if
+adequate infrastructure exists. Municipalities may restrict residential use in industrial zones,
+require ground-floor retail inmixed-use developments, and allow nonconformingstructures tobe
+converted to a multi-family residential development or mixed use provided that the structure is
+notmademorenonconforming.
+The New Hampshire Municipal Association estimates that this bill could lead to an
+indeterminable increase in municipal spending, likely under $10,000 per municipality, as a
+resultofupdatinglocalzoningordinancestomeetthenewrequirements.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

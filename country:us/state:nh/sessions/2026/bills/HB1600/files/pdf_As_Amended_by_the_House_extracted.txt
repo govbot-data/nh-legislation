@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1600-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0626h
+19Feb2026...0771h
+2026SESSION
+26-3188
+08/07
+1600-FN
+HOUSEBILL
+ANACT relativetoaccesstothecentralizedvoterregistrationdatabaseonelectiondays.
+SPONSORS: Rep.Wilhelm,Hills.21;Rep.Berry,Hills.44
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires thesecretaryof state, town, and cityclerks toensure that eachpollingplace in
+thestatehasdirect electronicaccess tothestatewidecentralized voterregistrationdatabaseoneach
+state,local,andfederalelectiondayduringtheoperatinghoursofthatpollingplace.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1600-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0626h
+19Feb2026...0771h 26-3188
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoaccesstothecentralizedvoterregistrationdatabaseonelectiondays.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of State; Centralized Voter Registration Records. Amend RSA 654:12, VI to read
+2 asfollows:
+3 VI. The department of state shall provide access to data from centralized voter registration
+4 records, records from the department of safety, and New Hampshire vital records provided in
+5 accordance with RSA 654:45 to assist voters in providing proof of citizenship, age, domicile, and
+6 identity to the city and town clerks. The secretary of state shall work with the city and town clerks
+7 to ensure access on election day at the polling location to the statewide centralized voter
+8 registration database on each state, local, and federal election day during the operating
+9 hoursofthatpollingplace. Ifproofofage,citizenship,domicile,oridentityinformationofavoter
+10 is provided pursuant to this section, it shall satisfy that registration requirement for that
+11 qualification. Absence of data shall not disqualify a person. It shall be the applicant's responsibility
+12 toprovideappropriateadditionalproofoftheirqualificationsasrequiredbythischapter.
+13 2 CentralizedVoterRegistrationDatabase. AmendRSA654:45toreadasfollows:
+14 654:45 CentralizedVoterRegistrationDatabase.
+15 I.(a) The secretary of state [is authorized to] shall plan, develop, equip, establish, site, and
+16 maintain a statewide centralized voter registration database and communications system,
+17 hereinafter referred to as the voter database, connecting users throughout the state. The voter
+18 databaseshallincludethecurrentinformationonthevoterregistrationforms,theacceptedabsentee
+19 ballot applications, the voter checklists, and voter actions as recorded on the marked checklist
+20 maintained by each city, ward, and town in the state. The database shall maintain addresses in
+21 accordance with United States Postal Service standardized addresses as described in the current
+22 USPSPublication28.
+23 (b) The secretary of state shall provide for a verification process that voters sharing a
+24 place and date of birth, along with a substantially similar name to include nicknames or likely
+25 maiden/married name changes, are unique voters. Should any voter appear to be a duplicate, that
+26 information shall be forwarded to the supervisors of the checklist of the cities or towns involved for
+27 review and confirmation. The supervisor of the checklist shall notify the secretary of state of the
+28 result of such review, and should the records show that a single individual may have voted more
+29 than once in any election such information shall be forwarded to the attorney general for further
+30 investigationorprosecution.
+
+HB1600-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 II. Any election official in the state authorized by this chapter to have direct access to the
+2 voter database may obtain immediate electronic access to the information contained in the voter
+3 database related to individuals registered or registering to vote in the election official's jurisdiction.
+4 The office of the clerk is hereby designated as a database access point for each town or city. The
+5 secretary of state may authorize additional database access points in a town or city, including
+6 electiondayaccesspointsatpollingplacesduringtheoperationalhoursofthepollingplace.
+7 III. The voter database shall, upon certification by the secretary of state, be the official
+8 recordofeligiblevotersfortheconductofallelectionsheldinthisstate.
+9 IV.(a) Thevoterdatabaseshallhavethefollowingminimumcomponents:
+10 (1) An electronic communications system that provides access for election officials
+11 fromatleastonepointineachcityandtownwithinthestate.
+12 (2) Aninteractivecomputerprogramallowinglocalelectionofficialsaccesstorecords
+13 contained in the database with a process to add, delete, modify, or print a voter registration record
+14 related to the election official's jurisdiction. The system shall be designed so that there can be
+15 regular updates to the database, the records reflect the name of each registered voter with no
+16 duplication, and the names of ineligible voters are removed. The system shall contain safeguards to
+17 ensurethatthenamesofproperlyregisteredvotersarenotremovedinerror.
+18 (b) Voter database record data shall be verified by matching the records with those of
+19 the department of safety and the federal Social Security Administration as are required by law, and
+20 with the records of the state agency or division charged with maintaining vital records. For this
+21 purpose the voter registration record database [may] shall be linked to the state agency or division
+22 chargedwithmaintainingvitalrecordsandthedepartmentofsafety,providedthatnolinkedagency
+23 or division may save or retain voter information or use it for purposes other than verifying the
+24 accuracyof theinformation tobe entered or contained inthe voter database. The link authorized by
+25 this subparagraph shall not allow the department of state or election officials direct access to the
+26 motor vehicle registration or driver's license records maintained by the division of motor vehicles;
+27 provided that such link shall authorize the department of state to identify voter records with out-of-
+28 state driver's license information where the record cannot be matched to an in-state driver's license
+29 obtained within the deadline provided in RSA 263:35. The secretary of state shall [authorize]
+30 provide,viaasecureelectronictransmission,thereleaseofinformationfromthevoterdatabase
+31 necessary for the department of safety to notify an individual pursuant to RSA 263:35, II. The
+32 commissioner of safety [may authorize the release of] shall provide, via a secure electronic
+33 transmission, information from motor vehicle registration and driver's license records to the extent
+34 that the information is necessary to department of state and department of safety cooperation in a
+35 joint notification to individuals of apparent discrepancies in their records to the extent that the
+36 information is necessary to resolve those discrepancies or to complete voter registration. The
+37 commissioner of safety and the secretary of state [are authorized to] shall enter into an agreement
+
+HB1600-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 that establishes the services to be provided by the department of safety and the cost for those
+2 services. [The department of safety shall not be required to provide any services under this
+3 subparagraph unless an agreement is in place and there are sufficient funds in the election fund to
+4 pay the cost for the services.] The system shall facilitate the completion, identification, and
+5 correction of voter registration records, including but not limited to when a registered voter has died
+6 orhasbeendisenfranchisedpursuanttopartI,article11oftheNewHampshireconstitutionorRSA
+7 654:5 through RSA 654:6, or when the domicile address does not match the address provided by the
+8 sameindividualtothedepartmentofsafetyortoverifycitizenshipforvoterregistration.
+9 (c) Access by local election officials to the voter database shall be limited to the
+10 supervisors of the checklist, city registrars and deputy registrars, and town or city clerks and their
+11 deputies, as determined bythesecretaryof state. Access bylocal electionofficials shall besubject to
+12 the limitations of paragraph VI, and shall be limited to the records of individuals who are currently
+13 registered to vote in the official's jurisdiction and individuals who are applying to register to vote in
+14 theofficial'sjurisdiction.
+15 (d) Beginning July 1, 2022, the secretary of state shall, no less than annually, cause
+16 voterrecordstobecheckedwiththeUnitedStatesPostalServicefor changesofaddress. All records
+17 identified as moving shall be provided to the city or town supervisors of the checklist for verification
+18 pursuanttoRSA654:39,III.
+19 V. Thesecretaryofstateshall:
+20 (a) Specify the employees of the department of state authorized to access records
+21 containedinthevoterdatabase,subjecttothelimitationsofparagraphVI.
+22 (b) Provideadequatetechnologicalsecuritymeasurestodeterunauthorizedaccesstothe
+23 recordscontainedinthevoterdatabase.
+24 (c) Issueguidelinestoimplementthevoterdatabase.
+25 VI. The voter database shall be private and confidential and shall not be subject to RSA 91-
+26 AandRSA654:31,norshallitoranyoftheinformationcontainedthereinbedisclosedpursuanttoa
+27 subpoena or civil litigation discovery request. The secretary of state is authorized to provide voter
+28 database record data to the administrative office of the courts to assist in the preparation of master
+29 jury lists pursuant to RSA 500-A and to the clerk of the District Court of the United States for the
+30 DistrictofNewHampshiretoassistinthepreparationoffederalcourtjurylists. Thevoterchecklist
+31 for a town or city shall be available pursuant to RSA 654:31. Any person who discloses information
+32 from the voter database in any manner not authorized by this section shall be guilty of a
+33 misdemeanor.
+34 VII. The city and town clerk shall enter, maintain, and keep up to date election official
+35 contact information and polling place information as determined by the secretary of state in the
+36 statewide centralized voter registration database for use by the secretary of state in effecting
+37 electionlaws.
+
+HB1600-FN-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 VIII.(a) The secretary of state may enter into an agreement to share voter information or
+2 data from the statewide centralized voter registration database for the purpose of comparing
+3 duplicate voter information with other states or groups of states. The secretary of state shall only
+4 provideinformationthatis necessaryformatchingduplicatevoterinformationwithotherstates and
+5 shall take precautions to make sure that information in the database is secure in a manner
+6 consistent with RSA 654:45, VI. The secretary of state [may] shall solicit input from the
+7 department of safety and the department of information technology and shall ensure that any
+8 information or data shared between the agencies that is of a confidential nature remains
+9 confidential.
+10 (b) The secretary of state shall investigate any duplicate matches of voters resulting
+11 from any comparisons of the statewide centralized voter registration database with other states. If
+12 theinvestigationresultsintheinabilitytoconfirmtheeligibilityofapersonorpersonswhovoted,or
+13 thereisreasontobelieveapersonorpersonsvotedwhowerenoteligible,thesecretaryofstateshall
+14 forwardtheresultstotheattorneygeneralforfurtherinvestigationorprosecution.
+15 (c) Upon completion of any investigation authorized under RSA 654:45, VIII(b), the
+16 attorney general and the secretary of state shall forward a report summarizing the results of the
+17 investigation to the speaker of the house of representatives, the president of the senate, the
+18 majority and minority leaders of the house of representatives and the senate, and the
+19 chairpersonsoftheappropriatehouseandsenatestandingcommitteeswithjurisdictionoverelection
+20 law.
+21 IX. [Repealed.]
+22 3 New Paragraph; Motor Vehicles; Records and Certification. Amend RSA 260:14 by inserting
+23 afterparagraphIII-ethefollowingnewparagraph:
+24 III-f. Motorvehiclerecordsrelevanttovoterregistrationshallbeprovidedtothesecretaryof
+25 state pursuant to RSA 654:45. These records may be further transferred by the secretary of state or
+26 otherwisemadeavailablebythesecretaryofstatetocityortownclerks,supervisorsofthechecklist,
+27 orotherelectionofficialsforpurposesofvoterregistration.
+28 4 EffectiveDate. ThisactshalltakeeffectJuly30,2026.
+
+LBA
+26-3188
+03/03/2026
+HB1600-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENTS#2026-0626hand#2026-0771h)
+ANACT relativetoaccesstothecentralizedvoterregistrationdatabaseonelectiondays.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+DepartmentofState

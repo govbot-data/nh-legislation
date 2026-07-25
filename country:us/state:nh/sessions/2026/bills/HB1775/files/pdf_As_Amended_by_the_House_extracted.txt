@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1775-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0594h
+2026SESSION
+26-2700
+06/08
+1775-FN
+HOUSEBILL
+ANACT relative to utility ownership of natural gas and nuclear power generation
+facilities.
+SPONSORS: Rep.Bernardy,Rock.36;Rep.D.Thomas,Rock.16;Sen.Avard,Dist12
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Expands the purpose of RSA 374-G to include investment in natural gas and nuclear
+technologiesforgridreliability.
+II. Authorizeselectricutilitiestoownorinvestinsuchresourcesupto10percentofpeakload.
+III. Requiresraterecoveryeligibilityforthoseinvestments.
+IV. Repeals certain limitations on utility-funded generation equipment and prior investment
+restrictions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1775-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0594h 26-2700
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to utility ownership of natural gas and nuclear power generation
+facilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. AmendRSA374-G:1toreadasfollows:
+2 374-G:1 Purpose. Distributed energy resources can increase overall energy efficiency and
+3 provide energy security and diversity by eliminating, displacing, or better managing traditional
+4 fossil fuel energy deliveries from the centralized bulk power grid, in keeping with the objectives of
+5 RSA 362-F:1. It is therefore in the public interest to stimulate investment in distributed energy
+6 resources in New Hampshire in diverse ways, including by encouraging New Hampshire electric
+7 public utilities to invest in renewable and clean distributed energy resources at the lowest
+8 reasonable cost to taxpayers benefiting the transmission and distribution system under state
+9 regulatoryoversight. Reliable,dispatchable,andcontrollablepowergenerationmustalsobe
+10 available to provide all essential electric service when renewable distributed energy
+11 resources are not available. It is therefore in the public interest to stimulate investment in
+12 natural gas and nuclear technologies in order to provide reliable and efficient energy.
+13 Given the ability of nuclear technology to provide reactive power, it also ensures grid
+14 stabilityandsupportsvoltageregulation.
+15 2 New Section; Investments in Natural Gas and Nuclear Resources. Amend RSA 374-G by
+16 insertingaftersection2thefollowingnewsection:
+17 374-G:2-a InvestmentsinNaturalGasandNuclearEnergyResources.
+18 I. Notwithstanding any other provision of law to the contrary, a New Hampshire electric
+19 utilitymayinvest inor ownnatural gas or nuclear energyresources as whole generationunits, or as
+20 part of a generation unit, located on or interconnected to the local electric distribution system. No
+21 individualgenerationunitmayexceed5megawattsinsize.
+22 II. The cumulative nameplate capacity in megawatts of natural gas and nuclear electric
+23 generation owned by or receiving investments from an electric utility under this section shall not
+24 exceed10percentoftheutility’stotaldistributionpeakloadinmegawatts.
+25 3 Rate Filing; Authorization. Amend the introductory paragraph for RSA 374-G:5, I to read as
+26 follows:
+27 I. A New Hampshire electric public utility [may] shall be eligible to seek rate recovery for
+28 its portion of investments in [distributed] natural gas and nuclear energy resources, in addition
+29 to renewable distributed energy resources, from the commission by making an appropriate rate
+30 filing. Ataminimum,suchfilingshallincludethefollowing:
+
+HB1775-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 4 RateFiling;Authorization. AmendtheintroductoryparagraphforRSA374-G:5,IIItoreadas
+2 follows:
+3 II. Prior to authorizing a utility's recovery of investments made in [distributed energy
+4 resources] natural gas or nuclear distributed energy resources, or other distributed energy
+5 resources, thecommissionshall determinethat the utility's investment and its recoveryinrates, as
+6 proposed, are in the public interest. Determination of the public interest under this section shall
+7 includegivingabalancedconsiderationandproportionalweighttoeachofthefollowingfactors:
+8 5 Repeal. Thefollowingarerepealed:
+9 I. RSA 374-G:3, V, relative to electric generation equipment funded by public utility and
+10 theirrequirements.
+11 II. RSA374-G:4,III,relativetoinvestmentsindistributedenergyresources.
+12 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2700
+3/16/26
+HB1775-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0594h)
+ANACT relative to utility ownership of natural gas and nuclear power generation
+facilities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+$250,000to $250,000to $250,000to
+$500,000 $500,000 $500,000
+Expenditures* $0 (Utility (Utility (Utility
+Assessments) Assessments) Assessments)
+Indeterminable Indeterminable Indeterminable
+Increase(State's Increase(State's Increase(State's
+UtilityCosts) UtilityCosts) UtilityCosts)
+GeneralFund,VariousAgencyFunds,andUtilityAssessmentperRSA
+FundingSource(s)
+363-A
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill expands New Hampshire's energy policy to explicitly support investment in natural gas
+and nuclear technologies alongside existing distributed energy resources and authorizes electric
+public utilities to invest in or own natural gas and nuclear energy generation resources located
+on or interconnected with their distribution systems. A utility may own or invest in these
+resources up to an amount equal to 10% of its total distribution peak load. The bill further
+
+requires utilities seeking rate recovery for investments in natural gas, nuclear, or other
+distributed energy resources to make a filing with the Public Utilities Commission and directs
+the Commission to evaluate whether any such investment is in the public interest. The bill
+repeals certain limitations on utility-funded generation equipment and prior investment
+restrictions.
+The Department of Energy states this bill would allow electric distribution utilities to own or
+invest in natural gas or nuclear generation resources connected to their distribution system.
+Any utility pursuing such an investment must file for rate recovery with the Public Utilities
+Commission, and the Department would be required to participate in that proceeding by
+reviewing the filing and providing recommendations regarding whether the investment is in the
+public interest. To administer this bill, the Department would need to retain external
+consultants with the expertise necessary to review any filings made by an electric distribution
+utility proposing to invest in natural gas or nuclear energy resources located on or
+interconnected with its distribution system and to provide, on behalf of the Department,
+recommendations to the Public Utilities Commission relative to whether the public interest
+would be served. The Department estimates consulting costs between $150,000 and $250,000.
+These costs would be paid by the petitioning utility through a special assessment, so there is no
+direct State expenditure impact on the Department’s budget. However, this bill may result in
+increased electricity rates for customers if the Public Utilities Commission determines a
+proposed investment is in the public interest and authorizes rate recovery. The State of NH
+represents approximately 1% of total electric utility sales in New Hampshire. Because the
+Department cannot predict if and when utilities may pursue such investments or the size of
+those investments, the fiscal impact is indeterminable. However, a rate increase of $0.01 per
+kilowatt hour would increase the State’s electricity costs by approximately $1,000,000 annually.
+The Department does not have access to electricity usage data for county or local governments
+andthereforecannotreasonablyestimatetheimpacttothoseentities.
+Relative to the repeal of RSA 374-G:3, V and RSA 374-G:4, III, the Department states both
+statutes restrict the types of generation that may be built under RSA 374-G. Repealing these
+statutes removes those statutory limitations on utility generation investments and therefore
+wouldnothaveafiscalimpact.
+The Public Utilities Commission states this bill expands the Commission’s responsibilities by
+allowing electric utilities to own or invest in natural gas and nuclear energy resources and by
+requiring the Commission to determine whether those investments and any associated rate
+recovery are in the public interest. The Commission anticipates the fiscal impact could range
+between$100,000and$500,000annually. TheCommissionstates itscurrentutilityanalyst and
+
+attorneystaffingarealreadyworkingatornearfullutilizationandcannotabsorbthisadditional
+workload. Tomeetthebill’srequirements,theCommissionanticipatestheneedforonefull-time
+Utility Analyst (13-1190 Miscellaneous Business Operations Specialist-5) and one full-time
+Attorney IV (23-1010 Lawyers and Judicial Law Clerks-4) beginning in FY 2027. Each position
+is estimated to cost $127,000 in FY 2027, $133,000 in FY 2028, and $140,000 in FY 2029. These
+costswouldbefundedthroughtheUtilityAssessmentunderRSA363-A.
+The Department of Revenue Administration states the bill expands the types of utility
+investments eligible for rate recovery to include natural gas and nuclear resources. If utilities
+construct new generation property in New Hampshire, the fiscal impact would occur through
+either the Utility Property Tax or a shift in the distribution of the Statewide Education Property
+Tax depending on which tax applies to the investing utility. The Department cannot estimate
+the fiscal impact because it does not know if, when, or to what extent utilities may make these
+investments. The Department also states the repeal of RSA 374-G:3, V and RSA 374-G:4, III
+wouldnotaffectstaterevenues.
+AGENCIESCONTACTED:
+DepartmentofEnergy,PublicUtilitiesCommission,andDepartmentofRevenueAdministration

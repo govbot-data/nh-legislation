@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1190-FN-ASINTRODUCED
+2026SESSION
+26-2488
+06/05
+1190-FN
+HOUSEBILL
+ANACT enabling the division of motor vehicles to create a temporary traditional driver's
+licenseforyouthoperatorsabouttoturn21.
+SPONSORS: Rep.Veilleux, Hills.34; Rep. Crawford,Carr. 3;Rep. Foote, Rock.13; Rep. Grund,
+Hills. 34; Rep. Petrigno, Hills. 43; Rep. Rombeau, Hills. 2; Rep. Scherr, Rock. 26;
+Sen.Fenton,Dist10;Sen.Long,Dist20;Sen.Watters,Dist4
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the division of motor vehicles to create a temporary traditional driver's license
+foryouthoperatorswhoseyouthoperatorlicensewillexpirein30daysorless.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1190-FN-ASINTRODUCED
+26-2488
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling the division of motor vehicles to create a temporary traditional driver's
+licenseforyouthoperatorsabouttoturn21.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;TemporaryLicensesforDriversTurning21. AmendRSA263:10byinserting
+2 afterparagraphIIthefollowingnewparagraph:
+3 III. Notwithstanding paragraphs I and II, the director may issue temporary licenses to
+4 youth operators who are transitioning pursuant to RSA 263:14 to operators' licenses, up to 30 days
+5 prior to their twenty-first birthday, provided that the physical license is delivered only on or after
+6 their twenty-first birthday. This temporary license shall be valid for driving purposes only until the
+7 new license is issued, and it shall remain valid for up to 60 days after the expiration of the youth
+8 operator's license. For all online renewals, a transaction receipt issued upon renewal through the
+9 division of motor vehicles website, when accompanied by the existing driver’s license, shall serve as
+10 thetemporarylicenseandproofofrenewal.
+11 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2488
+11/4/25
+HB1190-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enabling the division of motor vehicles to create a temporary traditional driver's
+licenseforyouthoperatorsabouttoturn21.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $48,000 $0 $0
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill allows for the creation of a temporary traditional driver's license for youth operators
+whoseyouthoperatorlicensewillexpirein30daysorless. TheDepartmentofSafetystatesthis
+would require changes to two different systems at a one-time estimated cost of $48,000 to make
+thesechanges(240development,testingandimplementationhours@$200perhour).
+AGENCIESCONTACTED:
+DepartmentofSafety

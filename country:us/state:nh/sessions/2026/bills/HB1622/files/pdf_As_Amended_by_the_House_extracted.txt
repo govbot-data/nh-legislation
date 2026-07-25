@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1622-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0629h
+2026SESSION
+26-2561
+08/09
+1622-FN
+HOUSEBILL
+ANACT relativetothestate'ssolidwastedisposalcapacity.
+SPONSORS: Rep. Haskins, Rock. 11; Rep. N. Germana, Ches. 15; Rep. Potenza, Straf. 19; Rep.
+W. Thomas, Hills. 12; Rep. Gruber, Ches. 16; Sen. Fenton, Dist 10; Sen. Ricciardi,
+Dist9
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill directs the department of environmental services to give first preference to applications
+foradditionallandfillcapacity.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1622-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0629h 26-2561
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothestate'ssolidwastedisposalcapacity.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPurpose. Thegeneralcourtherebyfindsthat:
+2 I. New landfill capacity should be developed in expansions of existing permitted landfills
+3 insteadofongreenfieldsites.
+4 II. Existing sites have already been carefully studied before being permitted and have been
+5 foundsuitableforlandfillingbythedepartmentofenvironmentalservices.
+6 III. The department of environmental services typically has decades of familiarity with
+7 conditions at such sites and the expansion of an existing use is generally consistent with the overall
+8 objectivesoflandusecontrols.
+9 2 NewSubparagraph; Solid WasteManagement; PublicBenefit Requirement. Amend RSA149-
+10 M:11,Vbyinsertingaftersubparagraph(d)thefollowingnewsubparagraphs:
+11 (e) For an applicant seeking to expand an existing and fully permitted RCRA Subtitle D
+12 landfill,thedepartmentshallfindthattheexpansionshallsatisfythestate’scapacityneedif,during
+13 the years for which the permit shall be granted, the state will face a capacity shortfall for at least
+14 one-halfofthoseyears.
+15 (f) For an applicant seeking to develop a new landfill at a site where none currently
+16 exists,thedepartmentshallfindthatthenewprojectshallsatisfythestate’scapacityneedif,during
+17 the years for which the permit shall be granted, the state will face a capacity shortfall for at least
+18 one-half of those years. However, the department shall not allow the new landfill to begin accepting
+19 wasteuntilthefirstyearinwhichashortfallisexpectedtoexist.
+20 3 Directive;DepartmentofEnvironmentalServices.
+21 I. In its consideration of applications for additional landfill capacity in the state, the
+22 departmentofenvironmentalservicesshallgivefirstpreferencetoexpansions,whereappropriate,in
+23 accordancewithexistingstatutesandrulesandconsistentwithanyexistingmunicipalagreements.
+24 II. Second preference shall be given to development of brownfield sites, where appropriate,
+25 in accordance with existing statutes and rules and consistent with any existing municipal
+26 agreements. If a greenfield application is received, and there are no pending applications for an
+27 expansion or brownfield development, the department may process the greenfield application after
+28 the developer reviews and explains the choice of a greenfield site with reference to the list of sites
+29 developedbythedepartment.
+30 III. Using existing data, the department shall compile a list of all existing landfills in
+31 operation and all known closed landfills. The department shall use the tools at its disposal to
+
+HB1622-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 determine, to the best of its ability, which sites would be unsuitable for future development because
+2 they are too close to schools, homes, airports, surface waterbodies, or other features to align with
+3 departmentsetbackregulations. Afinallist,excludingthesitesdeemedunsuitablefordevelopment,
+4 shallbemadepublic.
+5 IV. For its biennial solid waste reports, in addition to existing capacity at currently
+6 operating landfills in the state, the department shall report on potential future capacity for these
+7 operationsintheeventoffutureexpansion.
+8 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2561
+03/03/2026
+HB1622-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0629h)
+ANACT requiringthestatetodevelopadditionalsolidwastedisposalcapacity.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

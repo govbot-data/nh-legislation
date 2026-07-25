@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1527-FN-ASINTRODUCED
+2026SESSION
+26-2681
+06/07
+1527-FN
+HOUSEBILL
+ANACT relativetoannualnotificationofbenefitstostateemployees.
+SPONSORS: Rep. Wade, Straf. 15; Rep. H. Howard, Straf. 4; Rep. Schultz, Merr. 29; Rep. N.
+Germana,Ches.15;Sen.Watters,Dist4
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires state departments to annually notify full-time employees of available benefits,
+including mental health services, using a standardized template developed by the department of
+administrativeservicesandallowsmunicipalitiesandcountiestoadoptthesamepractice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1527-FN-ASINTRODUCED
+26-2681
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoannualnotificationofbenefitstostateemployees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose. The purpose of this act is to improve employee well-being and benefit
+2 utilizationbyensuringconsistentawarenessofavailableresources.
+3 2 New Section; Annual Benefits Notification; State Employees. Amend RSA 98-A by inserting
+4 aftersection7thefollowingnewsection:
+5 98-A:8 AnnualBenefitsNotification;StateEmployees.
+6 I. Every state department shall annually provide to each full-time state employee a
+7 summaryofallavailablebenefits,includingbutnotlimitedto:
+8 (a) Retirementplans;
+9 (b) Healthinsuranceprograms;
+10 (c) Mentalhealthservicesandmentalhealthcheck-inopportunities;and
+11 (d) Any other employee assistance or support programs for which the employee is
+12 eligible.
+13 II. The department of administrative services shall develop, and update as necessary, a
+14 standardized summary template, suitable for email and printed distribution, to be used by all
+15 departments for purposes of the notification required under paragraph I. Each department shall
+16 utilize the department of administrative services template to ensure consistency and clarity of
+17 communication.
+18 III. Municipalities and counties may be encouraged to adopt the same annual notification
+19 practiceusingthetemplateprovidedbythedepartmentofadministrativeservices.
+20 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2681
+12/5/25
+HB1527-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoannualnotificationofbenefitstostateemployees.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncreaseinexcessof$100,000perFY
+FundingSource(s) GeneralFund,InternalServicesFund,andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires state departments to annually notify full-time employees of available benefits,
+includingmental healthservices, usingastandardized templatedeveloped bytheDepartment of
+Administrative Services (DAS). Municipalities and counties may also choose to adopt this
+practice.
+DAS states that developing the template and coordinating with agencies will result in an
+indeterminable increase in state expenditures. Additionally, there will be an indeterminable
+cost exceeding $100,000 for postage, mailing, and handling. This estimate assumes a cost of $1
+per benefit per 10,000 employees for 10 benefits, with an added $10,000 for each benefit beyond
+the initial 10. The cost of preparing and distributing the benefit summaries, specifically those
+relatedtoemployeehealthbenefits,willbefundedthroughtheInternalServicesFund. Printing
+and mailing expenses will be charged to each applicable agency’s fund, including the General
+Fund.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServices

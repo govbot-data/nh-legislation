@@ -1,0 +1,389 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1595-FN-ASINTRODUCED
+2026SESSION
+26-2940
+09/08
+1595-FN
+HOUSEBILL
+ANACT establishing a domestic violence program and relative to orders of protection,
+stalkingoffenses,andannulmentofcriminalrecords.
+SPONSORS: Rep. Korzen, Coos 7; Rep. Manos, Rock. 12; Rep. Simpson, Rock. 33; Rep.
+Kesselring, Hills. 18; Rep. Gregg, Hills. 7; Rep. Rice, Hills. 38; Rep. D. Mannion,
+Rock. 25; Rep. A. Davis, Coos 2; Sen. Altschiller, Dist 24; Sen. Carson, Dist 14;
+Sen.Reardon,Dist15;Sen.Birdsell,Dist19;Sen.Gannon,Dist23
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Expands judicial training requirements and establishes a new domestic violence program
+underthejudicialbranch.
+II. Amendthedefinitionofdomesticviolenceandamends theprocessforevaluatingand serving
+protectiveorders.
+III. Establishes that law enforcement officers must complete a lethality assessment program
+(LAP) form when there is suspected domestic violence, and establishes a LAP program within the
+departmentofjustice.
+IV. Allowsfordomesticviolencevictimstocompleteanaffidavittoaddresssafetyconcernswhen
+filingaparentingordivorcepetitioninthefamilycourt.
+V. Amends the stalking statute to include restraining order for minors and new language to
+makeinstallingelectronicdevicesonapersonortheirpersonalpropertyastalkingoffense.
+VI. Amends the annulment statute to expand the list of “violent crimes.” It also requires that
+victims of crime be notified should a defendant file a petition for annulment and provides an
+opportunityforthevictimtogiveinputtothejudgebeforetheannulmentisgranted.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1595-FN-ASINTRODUCED
+26-2940
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a domestic violence program and relative to orders of protection,
+stalkingoffenses,andannulmentofcriminalrecords.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownasandcitedtoas"Marisol'sLaw."
+2 2 Judicial Training; Initial Judicial Training Requirements. Amend RSA 490-K:2 to read as
+3 follows:
+4 490-K:2 InitialJudicialTrainingRequirements.
+5 Any person who holds the position of judge in this state, and all nonjudicial employees of the
+6 judicial branch with a hire date on or after July 1, 2025, shall complete an orientation and training
+7 program within 3 months of hire, as directed by the chief justice of the supreme court. The
+8 minimuminitialtrainingforjudgesmay[beasfollows]includebutnotbelimitedto:
+9 I. Orientation for new judges on procedures and functions of the applicable court and
+10 relevantproceduralandsubstantivelaw,andapplicablecourtrulesandprotocols;
+11 II. Educationfor new judgesonmajor legalsubjects andpractical skills neededbythem and
+12 appropriatetothejurisdictionofthecourtinwhichtheyserve;
+13 III. At least one hour of training devoted to the topics of legal and judicial ethics,
+14 professionalism,preventingimplicitbias,mentalhealth,anddomesticviolence.
+15 3 Judicial Training; Judicial Continuing Education Requirements. Amend RSA 490-K:3 to read
+16 asfollows:
+17 490-K:3 JudicialContinuingEducationRequirements.
+18 I. Any person who holds the position of judge, court administrator, clerk, or director of the
+19 administrative office of the court in this state, shall be required to complete continuing education as
+20 thechiefjusticeofthesupremecourtdirects.
+21 II. All judges shall be required to complete a minimum of 8 hours of continuing
+22 educationincluding,butnotlimitedto,thefollowingareas:
+23 (a) Existing statewide court protocols for the administration of civil domestic
+24 violencecases;
+25 (b) Domesticviolenceandstalkingdynamics;
+26 (c) Understanding components of lethality within domestic violence and
+27 stalking;
+28 (d) Safety considerations and other forms of abuse in the context of domestic
+29 violenceandstalking;and
+30 (e) Theimpactoftraumaoncrimevictimsandtheirchildren.
+
+HB1595-FN-ASINTRODUCED
+-Page2-
+1 4 New Chapter; Domestic Violence Program. Amend RSA by inserting after chapter 490-K the
+2 followingnewchapter:
+3 CHAPTER490-L
+4 DOMESTICVIOLENCEPROGRAM
+5 490-L:1 Purpose. The general court recognizes the critical need to improve the statewide
+6 managementof civil domestic violencecases. More thanhalf of all homicidesinNew Hampshireare
+7 related to domestic violence and research demonstrates the benefit of establishing specialized
+8 responses in cases where domestic violence is present to increase victim safety and improve
+9 defendantcompliancewhereordersofreliefhavebeengranted.
+10 490-L:2 DomesticViolenceProgramEstablished.
+11 I. The chief justice and a majority of the supreme court, in consultation with the
+12 administrative judges of the superior and circuit courts and other nonjudicial branch officers as
+13 established by court rule, shall design and implement by court rule, a program to improve the
+14 management of civil domestic violence cases. The program shall include, but shall not be limited to,
+15 thefollowingelements:
+16 (a) Promote consistent practices among judges, court administrators, and clerks in civil
+17 domestic violence cases by developing a training program for continuing education as outlined in
+18 RSA490-L:3;
+19 (b) Identify strategies to reduce the risk of lethality in domestic violence cases and
+20 increaseaccesstojusticeforindividualsseekingrelieffromthecourts;
+21 (c) Developasystemto:
+22 (1) Identify the co-occurrence of domestic violence within divorce, parenting and
+23 stalking cases, and criminal cases relating to the same parties in family, district, or superior court;
+24 and
+25 (2) Improve information sharing among courts handling related domestic violence
+26 cases;
+27 (d) Developprotocols,rules,andpracticesformonitoringdefendantsforcompliancewith
+28 domestic violence orders of protection under RSA 173-B, including holding compliance hearings,
+29 whileaccountingfordefendantdueprocessrights;
+30 (e) Provide judicial supervision in civil domestic violence cases and conduct regular case
+31 reviewstoidentifyareasofimprovementandassesstheimplementationofstatelawandcourtrules;
+32 (f) Implementbestpracticesforcoordinatingandcollaboratingwithcommunitypartners
+33 in domestic violence cases, including, but not limited to prosecutors, defense attorneys, probation
+34 andparoleofficers,lawenforcement,legalaid,andvictimadvocates;
+35 (g) Conduct regular reviews of domestic violence cases to assess the implementation of
+36 statelaw,courtrules,andprotocols;
+
+HB1595-FN-ASINTRODUCED
+-Page3-
+1 (h) Collect data in civil domestic violence cases related to the number of cases filed,
+2 types of relief granted, number of violations reported, firearm relinquishment, and defendant
+3 compliancewithcourtorders;and
+4 (i) Explore implementation of a pilot domestic violence court in Manchester, Nashua, or
+5 otherjurisdictionthatisdeemedappropriatebythesupremecourt.
+6 II. The chief justice and a majority of the supreme court, in consultation with the
+7 administrative judges of the superior and circuit courts, shall establish standards on the
+8 implementationofthedomesticviolenceprogram.
+9 490-L:3 AdvisoryCommittee.
+10 The supreme court shall convene an advisory committee to develop the domestic violence
+11 program standards and support the supreme court with program implementation. The committee
+12 may recommend, for adoption by the supreme court, policies and procedures that will carry out the
+13 purposes of this chapter. The advisory committee shall consist of judicial and nonjudicial branch
+14 officers. Nonjudicial branch members shall include, but are not limited to, law enforcement, defense
+15 attorneys,prosecutors,civillegalaid,andvictimadvocates.
+16 490-L:4 Reporting.
+17 The supreme court shall prepare a report on the implementation of the domestic violence
+18 program described in this section within one year of the effective date of this section. Subsequent
+19 reportsshall befiled annuallyonJune 30of eachyear. The report shall includebut is not limited to
+20 information collected relative to the elements listed in RSA 490-L:2, I. Such report shall be made
+21 availabletothepublic.
+22 5 ProtectionofPersonsfromDomesticViolence;Definitions. Amendtheintroductoryparagraph
+23 ofRSA173-B:1,Itoreadasfollows:
+24 I. "Abuse" means the commission or attempted commission of one or more of the acts
+25 described in subparagraphs (a) through (h) by a family or household member or by a current or
+26 formersexual or intimatepartner, where suchconductis determined toconstituteacrediblepresent
+27 threat to the petitioner's safety. In its analysis, the court may consider evidence of such acts,
+28 regardless of their proximity in time to the filing of the petition, which, in combination with recent
+29 conduct, reflects an ongoing pattern of behavior which reasonably causes or has caused the
+30 petitioner to fear for his or her safety or well-being. Any such recent conduct may or may not
+31 includeactsofabuseasdescribedinsubparagraphs(a)through(h):
+32 6 NewParagraph;ProtectionofPersonsfromDomesticViolence;DefinitionAdded. AmendRSA
+33 173-B:1byinsertingafterparagraphVthefollowingnewparagraph:
+34 V-a. “Credible present threat” means a determination made upon a finding of the
+35 commission or attempted commission of one or more acts abuse. In its analysis, the court may also
+36 considerconductoutlinedinthelethalityassessmentscreeningtooloutlinedinRSA21-M:8-n.
+
+HB1595-FN-ASINTRODUCED
+-Page4-
+1 7 New Subparagraph; Protection of Persons from Domestic Violence; Temporary Relief. Amend
+2 RSA173-B:4,I(a)byinsertingaftersubparagraph(10)thefollowingnewsubparagraph:
+3 (11) Restraining the defendant from taking any action to interfere with the
+4 plaintiff’slegalorgovernmentdocuments.
+5 8 New Paragraph; Protection of Persons from Domestic Violence; Temporary Relief. Amend
+6 RSA173-B:4byinsertingafterparagraphIIthefollowingnewparagraph:
+7 III. After initial review of the domestic violence petition, if the court intends to deny the
+8 request for a temporary order, the court shall make all reasonable efforts to have contact with the
+9 plaintiffbeforedenyingtemporaryrelief.
+10 9 Protection of Persons from Domestic Violence; Notification. Amend RSA 173-B:8, II and III to
+11 readasfollows:
+12 II. Alltemporaryordersshallbepromptlyservedonthedefendantbyapeaceofficer. Upon
+13 service, a peace officer shall notify the victim that the defendant has received notice of the
+14 order. Thecourtshallmaintaintheprotectiveorderundersealuntilsuchtimeasareturn
+15 of service is received from law enforcement. Subsequent orders shall be served on the
+16 defendant by the court or by a peace officer, if the order was not served at the time of the
+17 hearing, and shall be mailed to the defendant’s last address of record [Subsequent orders
+18 shall be sent to the defendant's last address of record]. The defendant shall be responsible for
+19 informingthe court of any changes of address. Law enforcement agencies shall establish procedures
+20 whereby a peace officer at the scene of an alleged violation of such an order may be informed of the
+21 existenceandtermsofsuchorder.
+22 III. Any court-ordered changes or modifications of the order shall be effective upon issuance
+23 of such changes or modifications, shall be served on the defendant pursuant to paragraph II,
+24 and shall be mailed or otherwise provided to the appropriate local law enforcement agency and
+25 transmitted to the department of safety within 24 hours of the entry of such changes or
+26 modifications.
+27 10 ViolationofaProtectiveOrder;Penalty. AmendRSA173-B:9,III-IVtoreadasfollows:
+28 III. A person shall be guilty of a class A misdemeanor if such person knowingly violates a
+29 protective order issued under this chapter, or RSA 458:16, III, RSA 461-A:10, or any foreign
+30 protectiveorder enforceable under thelaws of this state. Charges madeunderthis chapter shall not
+31 bereducedtoalessercharge,aspermittedinotherinstancesunderRSA625:9.
+32 IV. Any person convicted under RSA 173-B:9, III, or who has been convicted in another
+33 jurisdiction of violating a protective order enforceable under the laws of this state, who, within 6
+34 years of such conviction or the completion of the sentence imposed for such conviction, whichever is
+35 later, subsequently [commits and is convicted of one or more offenses] an offense involving abuse
+36 or a violation of a protective order may be charged with an enhanced penalty for each
+37 subsequentoffenseasfollows:
+
+HB1595-FN-ASINTRODUCED
+-Page5-
+1 (a) There shall be no enhanced charge under this section if the subsequent offense is a
+2 classAfelonyoranunclassifiedfelony;
+3 (b) If the subsequent offense would otherwise constitute a class B felony, it may be
+4 chargedasaclassAfelony;
+5 (c) If the subsequent offense would otherwise constitute a class A misdemeanor, it may
+6 bechargedasaclassBfelony;
+7 (d) If the subsequent offense would otherwise constitute a class B misdemeanor, it may
+8 bechargedasaclassAmisdemeanor;
+9 (e) Ifthesubsequentoffensewouldotherwiseconstituteaviolation,itmaybechargedas
+10 aclassBmisdemeanor.
+11 11 New Subparagraph; Protection of Persons from Domestic Violence; Lethality Assessment
+12 Protocol. Amend RSA 173-B:10, I by inserting after subparagraph (d) the following new
+13 subparagraph:
+14 (e) Screening the victim for risk of lethality pursuant to the guidance established under
+15 RSA21-M:8-n.
+16 12 New Section; Lethality Assessment Program. Amend RSA 21-M by inserting after section 8-
+17 mthefollowingnewsection:
+18 21-M:8-n LethalityAssessmentProgram.
+19 I. Thereisestablishedalethalityassessmentprogramtobeadministeredbythedepartment
+20 ofjustice.
+21 II. ThedepartmentshalladoptrulespursuanttoRSA541-Atoestablishprotocolsforlaw
+22 enforcementofficerstofollowtoevaluatepotentiallethalityindomesticviolencescenarios,including
+23 thedevelopmentofstandardizedformsthattheofficersshallberequiredtouse.
+24 13 Parental Rights and Responsibilities; Ex Parte Orders. Amend RSA 461-A:9, II to read as
+25 follows:
+26 II. Noexparteordershallbegrantedwithout:
+27 (a) An affidavit from the moving party verifying the notice given to the other party or
+28 verifyingtheattempttonotifytheotherparty;and[.]
+29 [(b)] a determination by the court that such notice or attempt at notice was timely so as
+30 toaffordtheotherpartyanopportunitytobepresent;or
+31 (b) An affidavit from the moving party that, for reasons specified, the applicant
+32 shouldnotberequiredtoinformtheopposingparty.
+33 14 Annulment, Divorce, and Separation; Temporary Relief and Permanent Restraining Orders.
+34 AmendRSA458:16,II(b)toreadasfollows:
+35 (b) Noexparteordershallbegrantedwithout:
+36 (1) An affidavit from the moving party verifying the notice given to the other party
+37 orverifyingtheattempttonotifytheotherparty;and[.]
+
+HB1595-FN-ASINTRODUCED
+-Page6-
+1 [(2)] a determination by the court that such notice or attempt at notice was timely so
+2 astoaffordtheotherpartyanopportunitytobepresent: or
+3 (2) An affidavit from the moving party that, for reasons specified, the
+4 applicantshouldnotberequiredtoinformtheopposingparty.
+5 15 CriminalCode;Stalking. AmendRSA633:3-a,I(c)toreadasfollows:
+6 (c) After being served with, or otherwise provided notice of, a protective order pursuant
+7 toRSA173-B,RSA458:16,RSA461-A:10,orparagraphIII-aofthissection,oranorderpursuantto
+8 RSA 597:2 that prohibits contact with a specific individual, purposely, knowingly, or recklessly
+9 engages in a single act of conduct that both violates the provisions of the order and is listed in
+10 paragraphII(a).
+11 16 New Subparagraph; Criminal Code; Stalking. Amend RSA 633:3-a, II(a) by inserting after
+12 subparagraph(7)thefollowingnewsubparagraph:
+13 (8) Placing,locating,orinstallinganelectronicdevice,asdefinedbyRSA644-A:1,II,
+14 on the person or another, or on property in which another has a legal or equitable interest, to
+15 monitor, track, observe, surveil, or obtain location information from such electronic device that can
+16 pinpointortrackthelocationofanotherwithouttheperson’sknowledgeorconsent.
+17 17 CriminalCode;Stalking. AmendRSA633:3-a,Vtoreadasfollows:
+18 V. Any law enforcement officer may arrest, without a warrant, any person that the officer
+19 has probable cause to believe has violated the provisions of this section when the offense occurred
+20 within 12 hours, regardless of whether the crime occurred in the presence of the officer. A law
+21 enforcement officer shall arrest a person when he has probable cause to believe a violation of the
+22 provisions of this section has occurred within the last 12 hours when the offense involves a violation
+23 of a protective order issued pursuant to RSA 173-B, RSA 458:16, RSA 461-A:10, or paragraph III-a
+24 ofthissection.
+25 18 AnnulmentofCriminalRecords;ViolentCrime. RSA651:5,XIIIisrepealedandreenactedto
+26 readasfollows:
+27 XIII. Asusedinthissection,"violentcrime"means:
+28 (a) Capital murder, first or second degree murder, manslaughter, or class A felony
+29 negligenthomicideunderRSA630;
+30 (b) FirstdegreeassaultunderRSA631:1;
+31 (c) SeconddegreeassaultunderRSA631:2;
+32 (d) ClassBfelonydomesticviolenceunderRSA631:2-b;
+33 (e) AggravatedfelonioussexualassaultorfelonioussexualassaultunderRSA632-A;
+34 (f) Kidnapping,criminalrestraint,ortraffickingpersonsunderRSA633;
+35 (g) ClassBfelonystalkingunderRSA633:3-a;
+36 (h) ClassAfelonyarsonunderRSA634:1;
+37 (i) RobberyunderRSA636;
+
+HB1595-FN-ASINTRODUCED
+-Page7-
+1 (j) IncestunderRSA639:2,IIIorendangeringthewelfareofachildbysolicitationunder
+2 RSA639:3,III;
+3 (k) AnyfeloniousoffenseinvolvingchildsexualabuseimagesunderRSA649-A;or
+4 (l) ComputerpornographyandchildexploitationunderRSA649-B.
+5 19 AnnulmentofCriminalRecords. AmendRSA651:5,IXtoreadasfollows:
+6 IX.(a) When a petition for annulment is timely brought, the court shall require the
+7 department of corrections to report to the court concerning any state or federal convictions, arrests,
+8 or prosecutions of the petitioner and any other information which the court believes may aid in
+9 making a determination on the petition. The department shall charge the petitioner a fee of $100 to
+10 cover the cost of such investigation unless the petitioner demonstrates that he or she is indigent, or
+11 has been found not guilty, or the case has been dismissed or not prosecuted in accordance with
+12 paragraphII.
+13 (b) The department of safety shall charge the successful petitioner a fee of $100 for
+14 researching and correcting the criminal history record accordingly, unless the petitioner
+15 demonstrates that he or she is indigent, or has beenfound not guilty, or thecase has been dismissed
+16 ornotprosecutedinaccordancewithparagraphII.
+17 (c) The court shall provide a copy of the petition to the prosecutor of the underlying
+18 offense and permit them to be heard regarding the interest of justice in regard to the petition. The
+19 prosecutor of the underlying offense shall make a reasonable effort to provide notice to the
+20 victim, as defined in RSA 21-M:8-k, of the offense, or the victim's next of kin if the victim
+21 has died. The victim or victim’s next of kin may appear personally to address the judge, or
+22 by counsel, or may provide a written statement to reasonably express his or her views
+23 concerning the offense, the petitioner, and how an annulment would impact public
+24 welfare. The judge may consider the statements of the victim or next of kin made pursuant
+25 tothisparagraphwhenmakingadecisiontograntanannulment.
+26 (d) The petitioner's request for a court filing fee waiver shall be submitted on a form
+27 suppliedbythecourt.
+28 20 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2940
+12/8/25
+HB1595-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing a domestic violence program and relative to orders of protection,
+stalkingoffenses,andannulmentofcriminalrecords.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$382,000to $255,000to $265,000to
+$507,000 $345,000 $355,000
+FundingSource(s) GeneralFundandHighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a Domestic Violence Program within the Judicial Branch, expands judicial
+training requirements, and requires courts to develop new procedures, data-collection systems,
+and annual reporting related to domestic violence cases. The bill amends RSA 173-B to change
+definitions, service and notification provisions, and temporary relief procedures in protective-
+order cases. It also requires law enforcement officers to complete a lethality assessment
+program (LAP) screening when domestic violence is suspected and establishes a LAP program
+within the Department of Justice. The bill creates additional options for domestic violence
+victims filing family-court petitions, amends the stalking statute to include conduct involving
+electronic tracking devices, and expands the list of violent crimes for annulment purposes while
+requiringvictimnotificationinannulmentproceedings.
+The Judicial Branch states this bill would require the creation and operation of a new Domestic
+Violence Program, including an advisory committee, statewide standards, expanded judicial and
+staff training, new data-collection obligations, and an annual public report. The Branch would
+also be required to explore establishing a pilot Domestic Violence Court, which would involve
+additional planning by judges, administrators, and clerks. The bill makes several changes to
+RSA 173-B protective-order procedures that will require additional case-processing time,
+
+modifications to workflow, and updates to forms, protocols, and court rules. New statutory
+requirementsforstalkingandannulmentcaseswillalsorequireupdatestoformsanddockets.
+The Branch explains that some of the bill’s service and notification language will require
+reworking existing processes, including a clause referencing the return of service being received
+before providing the defendant a copy, which is not operationally feasible and would need
+clarification. The Branch currently transmits RSA 173-B protective orders electronically to the
+Department of Safety and law enforcement through the statewide RightFax system; the bill’s
+new reporting requirements would require enhancements to existing systems rather than a
+completely new transmission pathway. Most costs begin in FY 2027 due to the January 1, 2027
+effective date. The Branch estimates implementation costs in FY 2027 will likely exceed
+$100,000 but remain under $200,000, with ongoing costs after FY 2027 expected to be less than
+$10,000peryear.
+TheDepartmentofJusticestatesthebillexpandstherequirementsfordomestic-violence-related
+training, requires law enforcement agencies to complete lethality assessment screening forms,
+and establishes a formal LAP program within the Department. The Department currently
+administers LAP on a voluntary basis but reports that statewide participation is approximately
+45 percent. Making the program mandatory would significantly increase the demand for
+training, technical assistance, and data management. To meet these requirements, the DOJ
+states it would need one full-time unclassified Investigator at a cost of $100,000 for FY 2027
+(start date January 1, 2027, part-year cost for FY 2027 and start up costs including a vehicle),
+$128,000 for FY 2028, and $133,000 for FY 2029 to conduct LAP training for law enforcement
+agencies not currently participating and one full-time Program Coordinator (23-2010
+PARALGLS-LGL ASSTS-6 SOC23-06) at a cost of $58,000 for FY 2027 (start date January 1,
+2027, part-year cost for FY 2027), $107,000 for FY 2028, and $112,000 for FY 2029 to support
+data collection, analysis, rulemaking, and technical assistance. The total cost for the two
+positionsis$207,000inFY2027,$235,000inFY2028,and$245,000inFY2029.
+The Department of Safety's New Hampshire State Police states the bill would increase
+operational responsibilities related to the development and implementation of new domestic-
+violence procedures. Although the impact on trooper operations is indeterminable, the
+Department expects any increase in workload to be moderate to minimal. The most significant
+fiscal impact identified is the creation of a new file in the National Crime Information Center
+(NCIC) to store information on unserved protection orders to improve officer awareness and
+enforcement. The Department estimates the cost of building this file at $75,000 to $100,000,
+funded 75 percent from the General Fund and 25 percent from the Highway Fund. Additional
+
+system maintenance costs in subsequent fiscal years are expected to fall within the $10,000–
+$100,000range.
+AGENCIESCONTACTED:
+JudicialBranch,DepartmentofJustice,andDepartmentofSafety

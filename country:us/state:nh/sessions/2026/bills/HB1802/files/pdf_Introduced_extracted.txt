@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1802-FN-A-ASINTRODUCED
+2026SESSION
+26-2300
+06/09
+1802-FN-A
+HOUSEBILL
+ANACT relative to training, testing, and certification of local land use board members and
+makinganappropriationstherefor.
+SPONSORS: Rep.Aylward,Merr.5;Rep.Fracht,Graf.16;Rep.Ulery,Hills.13
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates mandatory annual training, competency testing, and certification for members
+of planning boards and zoning boards of adjustment, establishes reporting requirements for the
+office of planning and development, sets minimum qualifications for board membership, and
+appropriatesfundsforimplementation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1802-FN-A-ASINTRODUCED
+26-2300
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to training, testing, and certification of local land use board members and
+makinganappropriationstherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose.
+2 I. The general court finds that members of local land use boards make decisions at regular
+3 meetings and hearings held in a quasi-judicial capacity, affecting property rights and community
+4 development, and that such service requires knowledge of applicable statutes, regulations, and
+5 procedures. It is therefore the intent of the general court to require training, testing, and
+6 certification for planning board and zoning board of adjustment members, and to provide for
+7 transparency,accountability,andminimumqualificationsforservice.
+8 II. The general court therefore declares that it is in the public interest to require all
+9 members of planning boards and zoning boards of adjustment to annually complete training
+10 developed by the office of planning and development, to annually attempt to pass an open-book test
+11 designed to measure competency, and if passing, to obtain a certificate of completion from the office
+12 of planning and development indicating a passing grade. It is further the purpose of this act to
+13 promote transparency and accountability by requiring public reporting of training completion, to
+14 establish clear enforcement provisions for noncompliance, and to set minimum qualifications for
+15 boardmembership.
+16 2 New Paragraph; Office of Planning and Development Training. Amend RSA 9-A:2 by
+17 insertingafterparagraphIVthefollowingnewparagraph:
+18 V. Develop and provide training, testing, and certification for members of planning boards
+19 andzoningboardsofadjustmentpursuanttoRSA673:3-a.
+20 3 Training, Testing, and Certification; Duties of the Office of Planning and Development. RSA
+21 673:3-aisrepealedandreenactedtoreadasfollows:
+22 673:3-a Training,Testing,andCertification.
+23 I. Inthissection:
+24 (a) "Member" means elected, appointed, ex-officio, or appointed alternate members of
+25 planning boards and zoning boards of adjustment, including a committee or subcommittee of those
+26 boards.
+27 (b) "Office"meanstheofficeofplanninganddevelopment.
+28 II. Each member of a zoning board of adjustment or planning board shall, within 60 days of
+29 being seated and annually thereafter, complete training developed and provided by the office,
+30 covering relevant statutes, regulations, and board procedures, and shall attempt to obtain a
+
+HB1802-FN-A-ASINTRODUCED
+-Page2-
+1 certificate of completion by passing the associated test. Training and testing shall be web-based,
+2 openbook,andprovidedatnocost. Membersmustmakeatleast3attemptswithin60daysofbeing
+3 seated, and annually thereafter, to obtain a certificate of completion by submitting the requisite test
+4 to the office for scoring. A score of at least 65 percent is required to pass and obtain a certificate of
+5 completion.
+6 III. Theofficeshall:
+7 (a) Publish a list of current certificate holders, including name, town, board,
+8 membershiptype,andtermexpiration,within30daysofissuanceandupdateasnecessary.
+9 (b) Maintainconfidentialcontactinformationforcertificatedelivery.
+10 (c) Providecertificateselectronicallyorviapreferredmailingaddress.
+11 (d) Members shall provide copies of their certificate to the board chair or appointing
+12 authoritywithin5daysforpublicrecord.
+13 IV. Thechairpersonshall announcecertifiedmembersatthestartofanypublichearingand
+14 providenewlyseatedmemberswitha"WelcometotheBoard"letterdesignedbytheoffice.
+15 V. Appointed oralternatemember vacanciesshallbepostedin2publicplaces,includingthe
+16 municipality'swebsiteifavailable,untilfilled.
+17 VI. Interested parties must submit a letter of interest detailing relevant experience,
+18 education, or training, and affirm that they are not ineligible under paragraph VIII. No person
+19 removed from a local land use board under RSA 673:13, dismissed under RSA 42:1, or convicted
+20 underRSA95:1shallbeeligible.
+21 VII. Applications shall be reviewed publicly and selected by majority vote, with reasons for
+22 selectionstatedintheminutes.
+23 4 Appropriations. The sum of $25,000 for the fiscal year ending June 30, 2027, is hereby
+24 appropriated to the office of planning and development for the purposes of this act. Said sum shall
+25 be allocated for the development of training content using subject matter experts, technology and
+26 infrastructure for a web-based platform, administrative staffing and support for certification and
+27 reporting, and marketing and outreach. The governor is authorized to draw a warrant for said sum
+28 out of any money in the treasury not otherwise appropriated. Any unexpended balance as of June
+29 30, 2027, shall not lapse but shall be carried forward for expenditure for the purposes of this act in
+30 subsequentfiscalyears.
+31 5 EffectiveDate. ThisactshalltakeeffectJuly1followingitspassage.
+
+LBA
+26-2300
+Revised1/12/26
+HB1802-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT relative to training, testing, and certification of local land use board members and
+makinganappropriationstherefor.
+FISCALIMPACT: Thisbilldoesnotprovidefullfunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+($300,000to ($10,000to ($10,000to
+$500,000) $250,000) $250,000)
+FundingSource(s) GeneralFund
+Appropriations* $0 $25,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+Under$10kper Under$10kper Under$10kper
+LocalExpenditures $0
+municipality municipality municipality
+METHODOLOGY:
+This bill requires the Office of Planning and Development within the Department of Business
+and Economic Affairs to develop and provide mandatory annual training, testing, and
+certification for planning board and zoning board members, publish certification status,
+maintain a statewide reporting system, and manage qualification and vacancy posting
+requirements for board members. The bill also provides, for fiscal year ending June 30, 2027, a
+$25,000 nonlapsing appropriation from the General Fund to BEA for the development and
+implementationofthetrainingprogram.
+
+The Department of Business and Economic Affairs states this bill will result in an
+indeterminable increase in state General fund expenditures between $100,000 to $500,000
+beginningin FY 2027 and reducing after implementation. The Department indicates these costs
+stem from establishing and maintaining a statewide online training and testing platform,
+publishingandupdatingthelistofcertifiedmembers,maintainingconfidentialuserinformation,
+providing certificates electronically or via preferred mailing method, and ensuring board
+members statewide continue to have access to training materials. The Department indicates
+that any online testing system would require review and approval by the Department of
+Information Technology and would likely require a specialized employee to serve as a product
+owner to manage the platform and testing functions. The bill includes a one-time appropriation
+of $25,000 in FY 2027 to support development of training content, technology infrastructure,
+staffing, and outreach; however, this amount is lower than the estimated ongoing costs to
+implement the bill. The Department also notes it does not have enforcement authority for local
+board compliance and assumes municipalities will be responsible for enforcing participation
+requirements. If enforcement responsibilities were assigned to the Department, significant
+additionalcostswouldbeincurredandadditionalstatutoryauthoritywouldberequired.
+The Department of Information Technology states they assume the program would be
+implemented using the state standard licensing, permitting, certification, and enforcement
+platform (Salesforce.com). To support this, the Department assumes three licensed users would
+be required at the Office of Planning and Development, at a fully loaded cost of approximately
+$2,000peruserperyear,beginninginFY2027,withcostinflationovertime.
+The Department further states there are no DoIT resources available to complete the
+implementation work and that a third-party system integrator would be required under the
+statewide platform services agreement. The Department estimates a one-time implementation
+costbetween$300,000and$500,000inFY2027.
+The New Hampshire Municipal Association states this bill would have an indeterminable fiscal
+impact on municipalities. Municipalities may incur minor administrative costs to track
+certifications and manage board vacancies, which are expected to be de minimis and likely less
+than $10,000 per year. There is also the potential for increased legal costs if certification
+requirementsareraisedinchallengestolocallanduseboarddecisions.
+The effective date in the bill is unclear. If the bill is enacted after July 1, 2026, it may be
+interpreted that the effective date would shift to July 1, 2027. Under that interpretation, the
+$25,000 appropriation scheduled for June 30, 2027 would occur prior to the effective date of the
+act and therefore would not be made. In addition, lines 17–18 on page 2 reference a “Paragraph
+VIII”;however,nosuchparagraphexistsinthisbillorinthecurrentstatute,RSA673:3-a.
+
+AGENCIESCONTACTED:
+Department of Business and Economic Affairs, Department of Information Technology, and New
+HampshireMunicipalAssociation

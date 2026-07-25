@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1224-ASAMENDEDBYTHEHOUSE
+12Mar2026...0301h
+2026SESSION
+26-2719
+09/08
+1224
+HOUSEBILL
+ANACT relativetothedefaultbudgetforofficialballottownmeetings.
+SPONSORS: Rep. Dunn, Rock. 16; Rep. Alexander Jr., Hills. 29; Rep. Ankarberg, Straf. 7; Rep.
+Aures, Merr. 13; Rep. Colcombe, Hills. 30; Rep. DeRoy, Straf. 3; Rep. Harvey-
+Bolia,Belk.3;Rep.Pauer,Hills.36;Rep.Perez,Rock.16;Rep.Wood,Merr.13
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill amends the definition of default budget to include salary and benefit reductions of
+vacantpositions,subjecttoanexception.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1224-ASAMENDEDBYTHEHOUSE
+12Mar2026...0301h 26-2719
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedefaultbudgetforofficialballottownmeetings.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Use of an Official Ballot; Definition of Default Budget. RSA 40:13, IX(b) is repealed and
+2 reenactedtoreadasfollows:
+3 (b) "Default budget" as used in this subdivision means the amount of the same
+4 appropriations as contained in the operating budget authorized for the previous year, reduced and
+5 increasedasthecasemaybe,bydebtservice,contracts,andotherobligationspreviouslyincurredby
+6 law or mandated by law, and reduced by one-time expenditures contained in the operating budget,
+7 reduced by salaries and benefits of positions that have been eliminated in the proposed budget,
+8 reduced by salaries and benefits of positions that were vacant before the previous year's budget was
+9 approved and have remained vacant, and reflecting the actual salary and benefits of filled positions
+10 as of the public hearing for the proposed budget excluding any increases subsequent to the
+11 authorization of the previous year's operating budget. For the purposes of this paragraph, one-time
+12 expenditures shall be appropriations not likely to recur in the succeeding budget, and eliminated
+13 positions shall not include vacant positions under recruitment if vacancy occurred after the previous
+14 year's budget was approved, as determined by the governing body of the local political subdivision,
+15 unless the provisions of RSA 40:14-b are adopted. Any budget line item in the operating budget
+16 authorizedforthepreviousyearfromwhichatransferwasmadeforanyone-timeexpendituresshall
+17 be reduced by the amount of the transfer in the default budget. In calculating the default budget
+18 amount, the governing body, or the budget committee if the provisions of RSA 40:14-b are adopted,
+19 shall follow the statutory formula which may result in a higher or lower amount than the proposed
+20 operatingbudget.
+21 2 New Subparagraph; Use of Official Ballot; Exception for Certain Vacant Positions. Amend
+22 RSA40:13,IXbyinsertingaftersubparagraph(c)thefollowingnewsubparagraph:
+23 (d) The default budget may contain funding for vacant public safety positions under
+24 recruitment and vacant before the previous year's budget was approved if such positions were in the
+25 previous year's approved budget and arelisted as separateline items inthe budget. Such line items
+26 shallonlybeexpendedforthedesignatedpublicsafetypositions,includingexpendituresforovertime
+27 and contracted services consistent with the purpose of the positions, and any unexpended funds in
+28 such line items shall not be transferred to any other line item in the budget and shall be used to
+29 reduce local taxes for the current fiscal year. Public safety positions shall include any positions for
+30 law enforcement, fire protection, emergency medical services, emergency management, and town
+31 positionswithsnowremovalduties.
+
+HB1224-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 3 Use of an Official Ballot; Calculation of the Default Budget. Amend RSA 40:13, XI(a)(3)-(4) to
+2 readasfollows:
+3 (3) One-time expenditures, including reductions to line items for transfers
+4 madeforone-timeexpenditures,asdefinedundersubparagraphIX(b);and
+5 (4) Reductions for eliminated positions, vacant positions, and benefit expenditures
+6 asdefinedundersubparagraphIX(b),subjecttotheexceptionsinsubparagraphIX(d).
+7 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1480-FN-ASINTRODUCED
+2026SESSION
+26-2842
+04/09
+1480-FN
+HOUSEBILL
+ANACT raisingthemealsandroomstaxrate.
+SPONSORS: Rep.Cahill,Rock.10
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillincreasesthemealsandroomstaxrate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1480-FN-ASINTRODUCED
+26-2842
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT raisingthemealsandroomstaxrate.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ImpositionofTax;TaxonMealsandRooms. AmendRSA78-A:6toreadasfollows:
+2 78-A:6 ImpositionofTax.
+3 I. Ataxof[8.5]9percentoftherentisimposeduponeachoccupancy.
+4 II. Ataxisimposedontaxablemealsbaseduponthechargethereforasfollows:
+5 (a) Fourcentsforachargebetween$.36and$.37inclusive;
+6 (b) Fivecentsforachargebetween$.38and$.50inclusive;
+7 (c) Sixcentsforachargebetween$.51and$.62inclusive;
+8 (d) Sevencentsforachargebetween$.63and$.75inclusive;
+9 (e) Eightcentsforachargebetween$.76and$.87inclusive;
+10 (f) Ninecentsforachargebetween$.88and$1.00inclusive;
+11 (g) [Eight and a half] Nine percent of the charge for taxable meals over $1.00, provided
+12 thatfractionsofcentsshallberoundeduptothenextwholecent.
+13 II-a. Ataxof[8.5]9percentisimposeduponthegrossrentalreceiptsofeachrental.
+14 III. The operator shall collect the taxes imposed by this section and shall pay them over to
+15 thestateasprovidedinthischapter.
+16 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2842
+12/1/25
+HB1480-FN-FISCALNOTE
+ASINTRODUCED
+ANACT raisingthemealsandroomstaxrate.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Increase Increase Increase
+RevenueFund(s) GeneralFundandEducationTrustFund
+Indeterminable Indeterminable
+Expenditures* $0 $0
+Increase Increase
+FundingSource(s) M&RMunicipalRevenueFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostof
+bill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+County
+$0 $0 $0 $0
+Expenditures
+Indeterminable Indeterminable
+LocalRevenue $0 $0
+Increase Increase
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+ThisbillincreasetheMealsandRooms(M&R)ratefrom8.5%to9.0%.
+The Department states this bill will increase General Fund and Education Trust Fund revenue
+and increase local revenue from the increased distribution from the Meals and Rooms (M&R)
+Municipal Revenue Fund. The Department is not able to predict the exact fiscal impact of
+increasing the M&R rate to 9.0% as it cannot predict what the M&R revenues will be in future
+years. The Departmentis abletoprovideastaticanalysis ofthepotentialimpact usingFY 2025
+dataandthefollowingassumptionsandmethodology:
+· The fiscal impact would begin October 2026 assuming the bill takes effect by September 1,
+2026.
+
+· M&R tax collected on a gross cash basis during FY 2025 was $488,242,814. Operators
+retained commissions of $12,866,460 (2.61% of the total collected based on data reported by
+Operators in FY 2025. The total tax collected by operators and remitted back to the State for
+FY2025was$475,476,354($488,242,814grossM&R-$12,866,460commissionretained).
+· TheFY2025M&Rtaxbasewas$5,744,033,260($488,242,814/8.5%).
+· The FY 2025 M&R tax base is then multiplied by the new proposed 9.0% tax rate, yielding a
+new estimated amount of tax collected by operators. Using the same rate of commissions
+fromFY2025,thecommissionretainedunderthenewrateiscalculatedandsubtractedfrom
+thenewliabilityamount.
+The next two tables show the potential increase of M&R revenue and the split between the
+General Fund and Education Trust Fund. The potential increases are prior to any transfer to
+theM&RMunicipalRevenueFund. Thethirdtabledepictsthisimpact.
+M&RTax-StaticAnalysisusingFY2025Revenue
+Estimated
+Cumulative
+M&RRevenue EstimatedFY FiscalImpact
+FiscalYear Fiscal
+-CurrentLaw Revenue PerFiscal
+Impact
+Year
+2027 $475,500,000 $496,400,000 $20,900,000 $20,900,000
+2028and
+$475,500,000 $503,500,000 $28,000,000 $48,900,000
+onwards
+M&R Tax - Static Analysis using FY 2025 Revenue (Split between General Fund and
+EducationTrustFund
+EstimatedM&R Estimated Estimated
+FiscalYear Revenue GeneralFund FiscalImpact
+IncreaseTotal Impact* PerFiscalYear
+2027 $20,900,000 $20,400,000 $500,000
+2028andForward $28,000,000 $27,400,000 $600,000
+*Note: GeneralFundamountsarepriortotransfertotheMealsandRoomsMunicipal
+RevenueFund
+ImpactofMealsandRoomsMunicipalRevenueFundDistribution
+Municipalities receive 30% of the prior fiscal year’s M&R tax revenue net of the Department's
+cost to administer the M&R tax and the motor vehicle rental tax portion of the M&R tax is
+deposited into the M&R Municipal Revenue Fund. Increasing the M&R tax rate from 8.5% to
+9.0% would not result in any change to the distribution amount in the first fiscal year after the
+
+change,asthetransferisbaseduponprioryear revenue. Inthesecondfiscalyear,theimpact of
+the rate increase would be seen in the M&R Municipal Revenue Fund transfer resulting in a
+decrease to the general fund compared to the prior year and an increase of the same amount to
+theM&R MunicipalRevenueFund.
+FY 2027’s calculation will be based on FY 2026 M&R tax revenue, which will not be affected by
+theproposed taxrate increase. For FY 2028and beyond, thebaseM&Rtax revenue that will be
+used to calculate the M&R Municipal Revenue Fund transfer will be based on the M&R tax
+revenue at the proposed rate of 9.0% (FY2028 has a 9-month impact). To estimate this impact,
+theDepartmentusedtheresultsfromtheestimatedFY2027revenueundertheproposedrateof
+9.0% for FYs 2028 and beyond, and the latest (FY 2025) calculated cost of administration of $3.6
+millionasthedeductionagainsteachFY’sbasebeforeapplyingthetransferrateof30%.
+The following chart provides the change to the transfer to the M&R Municipal Revenue Fund
+duetotheproposedM&Rrateincreaseto9.0%.
+M&RDistributiontotheMealsandRoomsMunicipalRevenueFund-StaticAnalysisusingFY2025
+Data
+Transfer Transfer Estimated
+Cumulative
+FiscalYear UnderCurrent Under FiscalImpact
+FiscalImpact
+Law ProposedLaw PerYear
+2028 $138,300,000 $144,500,000 $6,200,000 $6,200,000
+2029and
+$138,300,000 $146,600,000 $8,300,000 $14,500,000
+Beyond
+These amounts will decrease the General Fund revenue estimates indicated in the first part of
+the analysis for fiscal years 2028 and beyond. In FY 2028, the general fund increase in M&R
+revenue will be $19,100,000 ($27,400,000-$8,300,000) after accounting for the transfer to the
+M&RMunicipalRevenueFund.
+The Department would need to update forms and electronic management systems as result of
+this bill. However, the Department anticipates it will be able to absorb any costs to make the
+necessarychangeswithinitsoperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

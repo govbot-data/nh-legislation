@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1111-FN-ASINTRODUCED
+2026SESSION
+26-2559
+06/08
+1111-FN
+HOUSEBILL
+ANACT relativetodrivingtestaccommodationsandretestsuspensionperiods.
+SPONSORS: Rep.S.Smith,Sull.3;Rep.Spillane,Rock.2;Rep.T.Walsh,Merr.10
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of motor vehicles to provide reasonable accommodations for
+driving test applicants with an IEP or other qualifying documentation, including extended time and
+alternative formats. It also reduces the retest suspension period from one year to 3 months for
+applicants failing the driving portion 3 or more times, and establishes pathways for early retesting
+aftercompletionofacertifiedinstructionprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1111-FN-ASINTRODUCED
+26-2559
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetodrivingtestaccommodationsandretestsuspensionperiods.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose. The purpose of this act is to improve accessibility and fairness in the
+2 motorvehicleoperatorlicensingprocessbyexpandingaccommodationsforapplicantswithmentalor
+3 learning disabilities and reducing the administrative waiting period after repeated failed driving
+4 tests.
+5 2 New Paragraph; Accommodations for Individuals with Disabilities. Amend RSA 263:6 by
+6 insertingafterparagraphIthefollowingnewparagraph:
+7 I-a. The director shall provide reasonable accommodations to an applicant for a driver’s
+8 license who has an active individualized education program (IEP) from a recognized educational
+9 institution, or presents other documentation supporting the need for extended time or other testing
+10 accommodations due to a diagnosed mental or learning disability. Reasonable accommodations may
+11 include, but are not limited to, extended time for written or road tests, or both, alternative test
+12 formats such as oral administration or simplified language, or the presence of support personnel,
+13 including parents or guardians, as appropriate to the applicant’s documented needs. The director
+14 shall establish a clear process for applicants to request accommodations and to verify eligibility,
+15 includingprovisionfordocumentationreviewandnotificationofdecision.
+16 3 New Section; Retest Suspension Reform. Amend RSA 263 by inserting after section 7-a the
+17 followingnewsection:
+18 263:7-b RetestSuspensionReform.
+19 I. Any applicant who fails the driving portion of the license examination 3 or more times
+20 shall be subject to an administrative suspension of the privilege to retake the driving portion as
+21 follows:
+22 (a) Thesuspensionperiodshallbe3months;
+23 (b) The applicant may retake the driving test earlier upon successful completion of a
+24 certifieddriverimprovementorremedialinstructionprogramapprovedbythedepartment;and
+25 (c) Thedepartmentshallnotifysuspendedapplicantsoftheseretestingoptions.
+26 II. No applicant with a documented mental or learning disability who is 21 years of age or
+27 older shall be required to complete a driver improvement or remedial instruction program as a
+28 condition of retaking the driving test, provided the applicant qualifies for reasonable
+29 accommodationsunderRSA263:6,I-a.
+30 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2559
+10/23/25
+HB1111-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetodrivingtestaccommodationsandretestsuspensionperiods.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $107,000 $93,000 $95,000
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Safety Division of Motor Vehicles to provide reasonable
+testing accommodations for driving test applicants with qualifying documentation and to
+implement a documented request/verification workflow, train staff statewide, and make minor
+system updates to record accommodations and enforce the new rules. This bill also reduces the
+retest suspension period for applicants failing the driving portion three or more times and
+establishespathwaysforearlyretestingaftercompletionofacertifiedinstructionprogram.
+TheDepartmentstatesitwouldneedonenewtrainingspecialistposition(SOC13–05,step1)to
+administer and support the changes in this bill at an estimated total cost of $87,000 in FY 2027,
+$91,000 in FY 2028, and $93,000 in FY 2029. It should be noted this bill provides neither
+authorizationnorappropriationfor newpersonnel. Inaddition,theDepartmentexpectstoincur
+informationtechnologycostsof$20,000inFY2027and$2,000ineachFY2028andFY2029.
+AGENCIESCONTACTED:
+DepartmentofSafety

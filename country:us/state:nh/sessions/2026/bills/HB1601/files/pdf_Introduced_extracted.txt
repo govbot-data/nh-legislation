@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1601-FN-ASINTRODUCED
+2026SESSION
+26-3189
+08/06
+1601-FN
+HOUSEBILL
+ANACT requiring the secretary of state to create a voter education program that includes
+informationonrecentchangestovotinglaws.
+SPONSORS: Rep.Wilhelm,Hills.21;Rep.Berry,Hills.44
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the secretary of state to create a voter education program that includes
+informationonrecentchangestovotinglaws.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1601-FN-ASINTRODUCED
+26-3189
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the secretary of state to create a voter education program that includes
+informationonrecentchangestovotinglaws.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Voter Education Program. The secretary of state is directed to create a voter education
+2 program in order to inform voters about recent changes to voting laws. The secretary of state shall
+3 use $50,000 in funds made available through the Help America Vote Act 2002, 52 U.S.C. section
+4 20901etseq.inordertocreatetheprogram,developmaterials,andmakethemavailabletovotersin
+5 thestate.
+6 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3189
+12/4/25
+HB1601-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the secretary of state to create a voter education program that includes
+informationonrecentchangestovotinglaws.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $50,000 $0 $0
+FundingSource(s) HelpAmericaVoteAct(HAVA)Funds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill directs the Secretary of State to establish a voter education program to inform the
+public about recent changes to voting laws. To support this initiative, the Secretary shall
+allocate$50,000fromHelpAmericaVoteAct(HAVA)funds.
+The Department of State notes that the Secretary already operates a comprehensive voter
+education program. It further indicates that restricting the initiative to $50,000 may limit the
+program’soutreach.
+AGENCIESCONTACTED:
+DepartmentofState

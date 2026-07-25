@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1174-FN-ASINTRODUCED
+2026SESSION
+26-2628
+08/05
+1174-FN
+HOUSEBILL
+ANACT requiringallon-premisesandoff-premiseslicenseesandstateliquorstorestopost
+visiblesignagewarningofthepotentialhealthrisksassociatedwithalcoholuse.
+SPONSORS: Rep.W.Thomas,Hills.12
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires on-premises licensees, off-premises licensees, and state liquor outlets to post
+warningsrelativetotheincreasedriskofcancerandbirthdefectsfromdrinkingalcoholicbeverages.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1174-FN-ASINTRODUCED
+26-2628
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringallon-premisesandoff-premiseslicenseesandstateliquorstorestopost
+visiblesignagewarningofthepotentialhealthrisksassociatedwithalcoholuse.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Advertising;RiskStatements. AmendRSA175:4,IVtoreadasfollows:
+2 IV. The following statement shall be posted on the premises of all on-premises and off-
+3 premises licensees and at state liquor stores: "According to the Surgeon General, drinking
+4 alcoholic beverages may increase cancer risk and women should not drink alcoholic beverages
+5 during pregnancy because of the risk of birth defects." Such statement shall be located in a
+6 conspicuous and prominent place within the establishment and shall appear on a contrasting
+7 background.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2628
+10/28/25
+HB1174-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring all on-premises and off-premises licensees and at state liquor stores to
+post visible signage warning of the potential health risks associated with alcohol
+use.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+LiquorCommission

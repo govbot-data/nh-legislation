@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1356-FN-ASINTRODUCED
+2026SESSION
+26-3064
+05/06
+1356-FN
+HOUSEBILL
+ANACT relative to the statute of limitations for bringing a private right of action for
+violationofthestatuteprohibitingmedicalproceduresandtreatmentsintendedto
+alteraminor'sgender.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Kofalt, Hills. 32; Rep. Layon, Rock. 13; Rep. Mazur,
+Hills. 44; Rep. Peternel, Carr. 6; Rep. Potenza, Straf. 19; Rep. McGrath, Rock. 40;
+Rep.Ford,Rock.3
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill extends the time period to file a claim for violation of the prohibition on medical
+procedures intended to change a minor's gender from 2 years to 10 years from the date the minor
+reachestheageofmajority.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1356-FN-ASINTRODUCED
+26-3064
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the statute of limitations for bringing a private right of action for
+violationofthestatuteprohibitingmedicalproceduresandtreatmentsintendedto
+alteraminor'sgender.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Prohibition on Medical Procedures and Treatments Intended to Alter a Minor's Gender;
+2 PrivateRightofAction;StatuteofLimitationsExtended. AmendRSA332-N:3,IItoreadasfollows:
+3 II. An individual under 18 years of age may bring an action during their minority through a
+4 parent or next friend, or may bring an action in their own name upon reaching majority. A person
+5 shallbringaclaim foraviolationofthis chapterno laterthan[2] 10 years aftertheminor aggrieved
+6 byviolationofthischapterreachestheageofmajority.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3064
+11/3/25
+HB1356-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the statute of limitations for bringing a private right of action for
+violationofthestatuteprohibitingmedicalproceduresandtreatmentsintendedto
+alteraminor'sgender.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

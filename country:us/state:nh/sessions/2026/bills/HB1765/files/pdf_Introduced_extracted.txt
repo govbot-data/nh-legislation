@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1765-FN-ASINTRODUCED
+2026SESSION
+26-2508
+08/06
+1765-FN
+HOUSEBILL
+ANACT enablingwineandbeveragemanufacturerstooffertastingsofandsellproductsof
+certainNewHampshirewineandbeveragemanufacturers.
+SPONSORS: Rep.Hunt,Ches.14
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables wine and beverage manufacturers to offer tastings of and to sell products of
+certainNewHampshirewineandbeveragemanufacturers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1765-FN-ASINTRODUCED
+26-2508
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enablingwineandbeveragemanufacturerstooffertastingsofandsellproductsof
+certainNewHampshirewineandbeveragemanufacturers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 WineManufacturerLicenses;Sale. AmendRSA178:8,II-IIItoreadasfollows:
+2 II. Each wine manufacturer in this state shall have the right to sell and to transport and
+3 deliver wines manufactured by it directly to the holders of on-premises, [or] off-premises, or wine
+4 manufacturer licenses issued by the commission. No wine manufactured in this state by any
+5 manufacturer shall be sold or delivered in this state in any manner which is inconsistent with the
+6 provisionsofthistitle.
+7 III. Each wine manufacturer shall have the right to sell at retail or wholesale at its winery,
+8 and at retail at one wine manufacturer retail outlet, for off-premises consumption any of its wines.
+9 Thewinemanufacturershallpayanannualfeeof$216tothecommissionforthewinemanufacturer
+10 retailoutlet. Thewinemanufacturermaytransportwinesitmanufacturestoitswinemanufacturer
+11 retail outlet or to the retail outlets of other wine manufacturer license holders for sample or
+12 sale. Visitors of legal drinking age at the manufacturing location or wine manufacturer retail outlet
+13 maybeprovidedwithsamplesofwinemanufactured bythelicensee inthisstatefor tasting. Awine
+14 manufacturer may either provide samples for free or for a fee which shall be limited to one 2-ounce
+15 sample per label or one 5-ounce glass per person. At such times as food is available, a wine
+16 manufacturer may serve no more than 2 5-ounce glasses per person in any areas approved by the
+17 commission. For the purpose of this section, food and non-alcoholic beverages may be provided by a
+18 properly-licensed third party food vendor, prepared on or off the premises. Pursuant to rules
+19 adopted by the commission, a wine manufacturer may transport its products to a farmers' market or
+20 a wine festival licensed under RSA 178:31, and may sell such products at retail in the original
+21 container.
+22 2 BeverageManufacturerLicense;Sale. AmendRSA178:12,IV(b)toreadasfollows:
+23 (b) Aholderofabeveragemanufacturerlicensewhomanufactures15,000barrelsorless
+24 during its licensing period may elect to distribute its beverages directly to retail licensees, other
+25 beveragemanufacturerlicenses,and/ortodistributeitsbeveragespursuanttoRSA180,provided
+26 thattotalin-statedirectretailsalesdonotexceed5,000barrels.
+27 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2508
+Revised1/5/26
+HB1765-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enablingwineandbeveragemanufacturerstooffertastingsofandsellproductsof
+certainNewHampshirewineandbeveragemanufacturers.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+$10,000to $10,000to $10,000to
+$100,000 $100,000 $100,000
+LiquorFund/GeneralFund-Liquorrevenueiscreditedtotheliquorfund,
+RevenueFund(s) withnetrevenuesafterexpendituresbeingcreditedtothestategeneral
+fund.
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill allows certain New Hampshire wine and beverage manufacturers to offer tastings and
+tosell their products at additional retail locations, includingallowingwine manufacturers to sell
+their products through other wine manufacturer retail outlets and expanding direct distribution
+optionsforqualifyingbeveragemanufacturers.
+The Liquor Commission states this bill would result in an increase in state revenues. With
+respect to wine manufacturers, the bill allows New Hampshire wine manufacturers to transport
+and sell their products through third party wine retail locations and removes the requirement
+that a wine manufacturer retail outlet sell only the products it produces. While the Commission
+licenses and tracks all wine products sold in the state, it is unable to predict the volume of
+additional sales that may result from these changes. As a result, the Commission estimates the
+billcouldgenerateadditionalrevenuesbetween$10,000and$100,000perfiscalyear.
+With respect to beverage manufacturers, the bill allows manufacturers producing 15,000 barrels
+or less per year to distribute beverages directly to retail licensees or other beverage
+manufacturers,providedinstatedirectretailsalesdonotexceed5,000barrels. TheCommission
+
+states all beverages manufactured in New Hampshire arecurrently taxed at $0.30 per gallon. If
+the bill results in increased beverage sales, state beer tax revenues would increase; however, the
+amountofanyincreaseisindeterminable.
+AGENCIESCONTACTED:
+LiquorCommission

@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1479-FN-ASINTRODUCED
+2026SESSION
+26-2844
+06/09
+1479-FN
+HOUSEBILL
+ANACT repealingthemotorvehicleregistrationpermitfee.
+SPONSORS: Rep.Ankarberg,Straf.7
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the authority for municipalities to impose and collect motor vehicle registration
+permitfees.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1479-FN-ASINTRODUCED
+26-2844
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthemotorvehicleregistrationpermitfee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 TownReclamationTrustFunds. AmendRSA149-M:18toreadasfollows:
+2 149-M:18 Town Reclamation Trust Funds. A town which collects an additional fee under RSA
+3 261:153, V shall create a town reclamation trust fund to receive the town share of such fee, to be
+4 used to pay the fees for the collection and disposal of the town's motor vehicle waste and to pay for
+5 the recycling and reclamation of other types of solid waste. For the purposes of this section, "motor
+6 vehicle waste" means used residential motor oil, residential motor vehicle batteries, and tires from
+7 residential motorized vehicles. ["Residential", for the purposes of this paragraph, means any motor
+8 vehicleregisteredinamunicipalitywhichcollectsthefeeassessedunderRSA261:153,V.]
+9 2 Maker'sListPrice. AmendRSA259:51toreadasfollows:
+10 259:51 Maker's List Price. "Maker's list price," as used in RSA [261:153 and] 261:154, in the
+11 case of motor vehicles of foreign manufacture, shall mean the advertised port of entry retail list
+12 price, less the manufacturer's motor vehicle excise tax imposed by the United States if said motor
+13 vehicleexcisetaxis includedintheadvertised port ofentryretaillist price,at NewYork, New York,
+14 regardlessoftheactualportthroughwhichsaidmotorvehicleenteredtheUnitedStates.
+15 3 CollectionofFees. AmendRSA261:74-n,IItoreadasfollows:
+16 II. When a dealer agent processes motor vehicle registrations, permits for registration,
+17 transfers of registration, and title applications the applicable town or city or clerk shall receive the
+18 following fees through the dealer agent and the EVR integrator: [the registration permit fee under
+19 RSA 261:153, I,] the town clerk fee under RSA 261:152, the town clerk and dealer title application
+20 fees under RSA 261:4, IV, the municipal agent fee under RSA 261:74-d, and, when applicable, [the
+21 waste reclamation fee under RSA 261:153, V, the municipal transportation improvement fee under
+22 RSA 261:153, VI,] the collection of permit fees in unorganized places under RSA 261:160, and the
+23 public parking facilities fee under RSA 261:154. The town or city may use the fees received under
+24 this paragraph to offset the expenses of examination and auditing of the EVR program, if required.
+25 Towns, cities, and the state shall inform the EVR integrator annually as to the details of the fees
+26 listedinthisparagraphandprovidetimelynoticetotheEVRintegratorofanychangestofees.
+27 4 FeestobeCollected. AmendRSA261:141,VItoreadasfollows:
+28 VI. If a vehicle has been previously registered with the division, pursuant to RSA 261:141,
+29 III [and RSA 261:153], said vehicle registration shall not be renewed for less than a 12 month fee,
+30 provided that the renewal registration is effected within 12 months of the expiration of the
+31 registrant's last valid registration. If avehicle has been previouslyregistered, and the owner of said
+
+HB1479-FN-ASINTRODUCED
+-Page2-
+1 vehicle fails to renew the vehicle registration in the month said renewal was legally required to be
+2 made when said renewal is obtained within 12 months of the last valid registration, the 12 months
+3 renewal fees charged hereunder shall be computed at the applicable mill rate which applied in the
+4 month when the vehicle should have been legally registered. If the registration is renewed beyond
+5 the12monthsimmediatelysucceedingthelastvalidregistration,the12monthsfeechargedshallbe
+6 computed at themill rateapplicableonthe datewhenanysuccessive registrationperiod would have
+7 begun, and the minimum fee in such cases shall be for 12 months, except in those cases where the
+8 registrant can demonstrate to the satisfaction of the director that the vehicle has not been operated
+9 since the expiration of the last valid registration, in which case the registrant may register at the
+10 applicablemillrateonthedateofregistration.
+11 5 AdditionalFeesforRegistrationPermits. AmendRSA261:154toreadasfollows:
+12 261:154 Additional Fees for Registration Permits. The governing bodies of towns and cities of a
+13 population greater than 50,000 as determined by the last federal census may, subject to the
+14 provisions of RSA 261:155, direct the city treasurer or the town clerk to collect [in addition to the
+15 fees imposed in RSA 261:153,] fees for such permits as follows: a sum not to exceed 5 mills on each
+16 dollar of the maker's list price for a current model year vehicle, a sum not to exceed 4 mills on each
+17 dollar of the maker's list price for the first preceding model year vehicle, a sum not to exceed 3 mills
+18 on each dollar of the maker's list price for the second preceding model year vehicle, a sum not to
+19 exceed 2 mills on each dollar of the maker's list price for the third preceding model year vehicle, and
+20 a sum not to exceed one mill on each dollar of the maker's list price for the fourth preceding model
+21 year vehicle and any model year prior thereto. In no event, however, shall the fee be less than one
+22 dollar. The director shall make the final determination of any vehicle model year in any case in
+23 which a dispute arises. All fees collected under this section shall be used for the construction,
+24 operation and maintenance of public parking facilities as provided in RSA [231:114-129] 231:114
+25 through129.
+26 6 Repeal. RSA261:153,relativetoregistrationpermits,isrepealed.
+27 7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2844
+11/30/25
+HB1479-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingthemotorvehicleregistrationpermitfee.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $140,000 $0 $0
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $300,000,000to$350,000,000DecreasePerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill repeals the authority for municipalities to impose and collect motor vehicle registration
+permit fees, however, it maintains RSA 261:154, which allows governing bodies of towns and
+cities with a population greater than 50,000, as determined by the last federal census, to assess
+additional fees for registration permits over and above the fee schedule in RSA 261:153. Nashua
+and Manchester are the only two municipalities with the ability to use RSA 261:154. The
+DepartmentofSafety,forinformationalpurposes,hasprovidedthefollowingtotalsformunicipal
+motorvehicleregistrationfeescollectedinFY2025:
+FY2025TotalMVFees(LocalPortion)
+Total-AllMunicipalities $346,101,214
+Manchester $23,343,814
+
+Nashua $18,186,552
+To implement the requirements of this bill, the Department of Safety states it would need to
+make comprehensive updates to its registration database, MAAP, certify all affected third-party
+software vendors, and revise workflows across all vehicle registration processes. These system
+modifications and vendor certifications would require coordinated development, testing, and
+deployment to ensure compliance with the new provisions. Based on current estimates, the
+Department anticipates a one-time cost of approximately $140,000 to complete these updates
+andimplementthenecessaryregistration-relatedchanges.
+Itshouldalsobenotedthatbillsamendingmotorvehicleregistration,title,ordriverlicenselaws
+typicallyareeffectiveonJanuary1. Thisbilliseffective60daysafterpassage.
+AGENCIESCONTACTED:
+DepartmentofSafety

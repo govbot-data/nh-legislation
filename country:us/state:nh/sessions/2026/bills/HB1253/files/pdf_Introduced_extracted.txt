@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1253 -ASINTRODUCED
+2026SESSION
+26-2770
+08/09
+1253
+HOUSEBILL
+ANACT enablingtheuseofdogstoguardcrops.
+SPONSORS: Rep. Comtois, Belk. 7; Rep. J. Aron, Sull. 4; Rep. Bixby, Straf. 13; Rep. Kenny,
+Hills.13;Sen.Pearl,Dist17
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablestheuseofdogstoguardcropswithoutbeingrestrained.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1253-ASINTRODUCED
+26-2770
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enablingtheuseofdogstoguardcrops.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DogControlLaw;GuardingCrops. AmendRSA466:30-a,Itoreadasfollows:
+2 I. Notwithstanding any other provisions of this chapter, it shall be unlawful for any dog to
+3 run at large, except when accompanied by the owner or custodian, and when used for hunting, for
+4 guarding, working, guarding crops, or herding livestock, as defined in RSA 21:34-a, II(a)(4), for
+5 supervised competition and exhibition, or for training for such. For the purpose of this section,
+6 "accompanied" means that the owner or custodian must be able to see or hear, or both, or have
+7 reasonable knowledge of where the dog is hunting, where training is being conducted, where trials
+8 arebeingheld,orwherethedogisguarding,working,orherdinglivestock. Nothinghereinprovided
+9 shallmeanthatthedogmustbewithinsightatalltimes.
+10 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

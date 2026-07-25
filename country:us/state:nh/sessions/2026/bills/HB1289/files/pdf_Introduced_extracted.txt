@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1289-FN-ASINTRODUCED
+2026SESSION
+26-2814
+09/08
+1289-FN
+HOUSEBILL
+ANACT criminalizing the use of small unmanned aircraft systems for the purpose of video
+voyeurismandtheinvasionoftherighttoprivacy.
+SPONSORS: Rep. Wood, Merr. 13; Rep. Tenczar, Hills. 1; Rep. Roy, Rock. 31; Rep. Bernardy,
+Rock.36;Rep.Post,Hills.42;Rep.Panek,Hills.1;Sen.Birdsell,Dist19
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds additional prohibited uses to the offense of unlawful operation or use of small
+unmannedaircraftsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1289-FN-ASINTRODUCED
+26-2814
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT criminalizing the use of small unmanned aircraft systems for the purpose of video
+voyeurismandtheinvasionoftherighttoprivacy.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Unlawful Operation or Use of Small Unmanned Aircraft System. Amend
+2 RSA644:23byinsertingafterparagraphVIIthefollowingnewparagraph:
+3 VIII. A person is guilty of a class A misdemeanor when the person knowingly uses a small
+4 unmanned aircraft system to enter onto the land or into the airspace above the land of another
+5 person without permission or otherwise to commit a trespass in order to capture any type of visual
+6 image, sound recording, or other physical impression of the person engaging in a private, personal,
+7 or familial activity and the invasion occurs in a manner that is offensive to a reasonable person. A
+8 person is guilty of a class B felony if such person knowingly transmits, publishes, broadcasts, sells,
+9 offers for sale, or otherwise publicly uses any visual image, sound recording, or other physical
+10 impressionobtainedinviolationofthisparagraph.
+11 (a) This paragraph shall not be construed to impair or limit any otherwise lawful
+12 activities of law enforcement personnel or employees of governmental agencies or other entities,
+13 either public or private, who, in the course and scope of their employment, attempt to capture any
+14 type of visual image, sound recording, or other physical impression of a person during an
+15 investigation, surveillance, or monitoring of any conduct to obtain evidence of suspected illegal
+16 activity or other misconduct, the suspected violation of any administrative rule or regulation,
+17 suspected fraudulent conduct, or any activity involving a violation of law or business practices or
+18 conductofpublicofficialsadverselyaffectingthepublicwelfare,health,orsafety.
+19 (b) For the purposes of this paragraph, “private, personal, and familial activity”
+20 includes,butisnotlimitedto:
+21 (1) Intimate details of the person's personal life under circumstances in which the
+22 personhasareasonableexpectationofprivacy.
+23 (2) Interactionswiththeperson'sfamilyorsignificantothersundercircumstancesin
+24 whichthepersonhasareasonableexpectationofprivacy.
+25 (3) Any activity that occurs on a residential property under circumstances in which
+26 thepersonhasareasonableexpectationofprivacy.
+27 (4) Other aspects of the person’s private affairs or concerns under circumstances in
+28 whichthepersonhasareasonableexpectationofprivacy.
+29 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2814
+11/16/25
+HB1289-FN-FISCALNOTE
+ASINTRODUCED
+ANACT criminalizing the use of small unmanned aircraft systems for the purpose of video
+voyeurismandtheinvasionoftherighttoprivacy.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

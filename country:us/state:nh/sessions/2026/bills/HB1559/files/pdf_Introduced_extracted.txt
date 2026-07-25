@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1559 -ASINTRODUCED
+2026SESSION
+26-2647
+08/09
+1559
+HOUSEBILL
+ANACT increases the percentage allocation of New Hampshire's gaming revenue to
+problemgamingservices.
+SPONSORS: Rep. Salvi, Hills. 9; Rep. Swanson, Hills. 5; Rep. Kluger, Hills. 6; Rep. Harriott-
+Gathright, Hills. 10; Rep. Juris, Hills. 7; Rep. S. Newman, Hills. 4; Sen. Long,
+Dist20
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillincreases thepercentageof grossvideolotteryrevenuecollectedand reallocatesthem to
+theaddiction,treatment,andpreventionfund.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1559-ASINTRODUCED
+26-2647
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increases the percentage allocation of New Hampshire's gaming revenue to
+problemgamingservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 RevenueShare;VideoLotteryTerminals. AmendRSA287-J:6,IItoreadasfollows:
+2 II. Each VLT licensee shall distribute [0.25] 1 percent of gross video lottery revenue
+3 collected to the [governor's commission on addiction, treatment, and prevention] addiction,
+4 treatment,andpreventionfundestablishedinRSA176-A:1.
+5 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

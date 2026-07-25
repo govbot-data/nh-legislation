@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1731-FN-ASINTRODUCED
+2026SESSION
+26-2618
+07/06
+1731-FN
+HOUSEBILL
+ANACT relativetothecreationofaneducationalopportunitiesinformationsystem.
+SPONSORS: Rep.Noble,Hills.2;Rep.Drye,Sull.7
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Requires the department of education to create and maintain an online system that catalogs
+informationregardingvariouseducationalopportunitiesinthestate.
+II. Appropriatesmoneyforthecreationoftheeducationalinformationsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1731-FN-ASINTRODUCED
+26-2618
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecreationofaneducationalopportunitiesinformationsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State and Its Government; Department of Education; Education
+2 OpportunitiesInformationSystem. AmendRSA21-Nbyinsertingaftersection13thefollowingnew
+3 section:
+4 21-N:14 EducationOpportunitiesInformationSystem.
+5 I. The department shall develop and maintain, or purchase and implement, a school
+6 educational opportunities information system to include information on and the location of all public
+7 schools, chartered public schools, non-public schools, learn everywhere programs, and other
+8 educationopportunities. Thesystemshall:
+9 (a) Provide detailed profiles for each education opportunity to enable a robust search
+10 function.
+11 (b) Provideforsearch-savingcriteria,sorting,andkeywordsearching.
+12 (c) Provide a mapping function, with a function to search for education opportunities
+13 withinaspecifieddistancefromanaddress.
+14 (d) Enableeducationfacilitiestomaintaintheirowndata.
+15 (e) Becapableofbeingaccessedviathedepartment'swebsite.
+16 II. The department shall issue a request for proposal for the development or licensing and
+17 implementationofthesystem.
+18 2 Department of Education; Appropriation. There is hereby appropriated to the department of
+19 education the sum of $1 for the fiscal year ending June 30, 2027 for the purpose of developing and
+20 implementing an educational opportunities information system. The governor is authorized to draw
+21 awarrantforsaidsumsoutofanymoneyinthetreasurynototherwiseappropriated.
+22 3 EffectiveDate. Thisactshalltakeeffect30daysafteritspassage.
+
+LBA
+26-2618
+12/12/25
+HB1731-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothecreationofaneducationalopportunitiesinformationsystem.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+DevelopmentorPurchaseofSystem
+$250,000to$300,000
+Expenditures* $0
+OngoingSupportPosition
+$98,000inFY2027,$100,000inFY2028,
+and$105,000inFY2029
+FundingSource(s) GeneralFund
+Appropriations* $0 $1 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Education to create and maintain an online system that
+catalogs information regarding various educational opportunities in the state. The Department
+states the system would provide information and locations of all public schools, chartered public
+schools,non-publicschools, andlearneverywhereprograms inthestate. TheDepartment states
+it would likely need to contract with a third-party vendor in the purchase and/or construction of
+a new system or an off-the-shelf product to provide the necessary requirements identified in the
+statute. The system would need to integrate with existing systems to prevent the duplication of
+data and allow for access by external users to upload, update, modify, and delete data as
+necessary and required by the statute. Ongoing maintenance would be required to ensure
+systems continued to function and were appropriately integrated with Department system
+databases,ensuringhighlevelsofdatasecurityasrequiredbystateandfederallaw.
+TheDepartmentstatesitwouldneedtodevelopandreleasearequestforproposals(RFP)forthe
+development and purchase of the services required by the statute to stand up the required
+system and each of its components. The Department estimates the need for a standard
+development team including a lead developer and two (2) or more support developers to provide
+
+thenecessaryservicesrelatedtothebuildoutoftherequiredsystem. TheDepartmentestimates
+thiscostcouldrangebetween$250,000and$300,000.
+TheDepartmentstates itmaybepossiblethat anoff-the-shelf programorsystem mayexist that
+could meet the needs of the statutory requirements, but an RFP would be needed to determine
+that. Ongoing annual administrative support of the system would likely require a position
+within NHED to provide data governance, management of access, ongoing maintenance and
+operation, recommendations for improvement and updates, and assurances that the system
+meets all necessary state and federal data privacy requirements as the system would need to
+integrate with other state data systems. This position (SOC 15-06) is estimated to cost $98,000
+inFY2027,$100,000inFY2028,and$105,000inFY2029.
+Thisbillappropriates$1inFY2027andprovidesnoauthorizationfornewpersonnel.
+AGENCIESCONTACTED:
+DepartmentofEducation

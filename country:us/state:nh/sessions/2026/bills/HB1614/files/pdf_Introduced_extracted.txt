@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1614-FN-ASINTRODUCED
+2026SESSION
+26-2622
+08/06
+1614-FN
+HOUSEBILL
+ANACT restricting the use of coal tar-based sealant products containing levels of
+polycyclicaromatichydrocarbons.
+SPONSORS: Rep. Knab, Rock. 12; Rep. Ebel, Merr. 7; Rep. Grote, Rock. 24; Rep. Malloy, Rock.
+24;Rep.Rung,Hills.12;Rep.Wade,Straf.15;Rep.Manos,Rock.12
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restricts the use of coal tar-based sealant products containing high levels of polycyclic
+aromatichydrocarbons.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1614-FN-ASINTRODUCED
+26-2622
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restricting the use of coal tar-based sealant products containing levels of
+polycyclicaromatichydrocarbons.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Coal Tar. Amend RSA by inserting after chapter 125-S the following new
+2 chapter:
+3 CHAPTER125-T
+4 COALTAR
+5 125-T:1 Definitions. Inthischapter:
+6 I. "Coal tar" means a viscous substance obtained by the destructive distillation of coal and
+7 containing levels of polycyclic aromatic hydrocarbons in excess of 10,000 milligrams per kilogram.
+8 "Coal tar" includes, but is not limited to, refined coal tar, high temperature coal tar and coal tar
+9 pitch.
+10 II. "Coaltarsealantproduct"meansasurfaceappliedsealantproductthatcontainscoaltar
+11 orcoaltarpitchvolatiles.
+12 III. "Polycyclic aromatic hydrocarbons" means a group of compounds that are byproducts of
+13 incomplete combustion, that include several carcinogens and that are designated as hazardous
+14 substances under the federal Comprehensive Environmental Response, Compensation, and Liability
+15 Actof1980,42UnitedStatesCode,Section9602(a).
+16 125-T:2 Prohibition. BeginningJanuary1,2027,apersonmaynot:
+17 I. Sell at wholesale or retail a coal tar sealant product that is labeled as containing coal tar
+18 andthatisdesignedtobeappliedonadrivewayorparkingarea.
+19 II. Apply on a driveway or parking area a coal tar sealant product that is labeled as
+20 containingcoaltarandthatisdesignedtobeappliedonadrivewayorparkingarea.
+21 125-T:3 Exemptions. A person may request an exemption from the prohibitions in RSA 125-
+22 T:2 by submitting a written request to the commissioner of the department of environmental
+23 services. The request shall include the reason an exemption is needed. The commissioner may
+24 exempt a person from the prohibitions in RSA 125-T:2 if the commissioner determines that the
+25 person is researching the effects of a coal tar sealant product on the environment or the person is
+26 developing an alternative technology and the use of a coal tar sealant product is required for
+27 researchordevelopment.
+28 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2622
+12/8/25
+HB1614-FN-FISCALNOTE
+ASINTRODUCED
+ANACT restrictingtheuseofcoaltarbasedsealantproductscontaininglevelsofpolycyclic
+aromatichydrocarbons.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2027through2029.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServicesandNewHampshireMunicipalAssociation

@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1510-FN-ASINTRODUCED
+2026SESSION
+26-2543
+09/07
+1510-FN
+HOUSEBILL
+ANACT relative to responsibility for the custody or control of persons ordered to a county
+correctionalfacility.
+SPONSORS: Rep.Trottier,Belk.8;Rep.Berry,Hills.44
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes that the county department of corrections shall be responsible for the
+custodyorcontrolofpersonsorderedtoacountycorrectionalfacility.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1510-FN-ASINTRODUCED
+26-2543
+09/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to responsibility for the custody or control of persons ordered to a county
+correctionalfacility.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Release of a Defendant Pending Trial. Amend RSA 597:2 by inserting after
+2 paragraphXVthefollowingnewparagraph:
+3 XVI. The defendant shall be deemed to be in the custody of the county department of
+4 corrections upon the issuance of an order remanding the defendant to said county's house of
+5 corrections or any other facility for unforeseen circumstances. No other law enforcement agency or
+6 officer shall be responsible for the custody or control of a person who is ordered to a county
+7 correctionalfacility'scustodyandcontrol,otherthantodeliversaidpersontothecountycorrectional
+8 facility as ordered, or to any facility for unforeseen circumstances, and said committed custody shall
+9 beturnedovertotheholdingfacilityofficeroragentwherecommitmentwasordered.
+10 2 DetentionandSanctionsforDefaultorBreachofConditions. AmendRSA597:7-a,Itoreadas
+11 follows:
+12 I. [A peace officer may] The county correctional facility shall detain an accused, and
+13 shall have custody and control of the said accused until the accused can be brought before a
+14 justice if the peace officer has a warrant issued by a justice for default of recognizance or for breach
+15 ofconditionsofreleaseorifthepeaceofficerwitnessesabreachofconditionsofrelease. Theaccused
+16 shall be brought before a justice for a bail revocation hearing within 36 hours, Saturdays, Sundays,
+17 and holidays excepted. If the detention is to be at the county house of corrections, or another
+18 facility for unforeseen circumstances, the defendant shall be deemed in the custody of the
+19 county department of corrections upon arrest. No other law enforcement agency or officer
+20 shallberesponsibleforthecustodyorcontrolofapersonwhoisorderedtobedetainedata
+21 county correctional facility, other than to deliver/transport said person to the county
+22 correctional facility as ordered or to any court hearing as directed by a court order. When
+23 a law enforcement officer is in transit with or has custody of a defendant ordered to
+24 confinement or to be held at a correctional facility, said law enforcement officer shall
+25 deliver the committed to the court ordered jail, prison, or closest detention facility without
+26 delay. If there is any deviation due to unforeseen circumstances, said committed custody
+27 shall be turned over to the receiving facility’s officer or agent where commitment was
+28 ordered. Nothing in this section shall prohibit a holding facility from receiving assistance
+29 from another law enforcement agency in the custody and control of said committed, and
+30 upon agreement by the law enforcement agency and the receiving facility. Any law
+
+HB1510-FN-ASINTRODUCED
+-Page2-
+1 enforcement officer or agent acting under said agreement shall be considered to be acting
+2 asagentsoftheholdingfacility.
+3 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2543
+12/2/25
+HB1510-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to responsibility for the custody or control of persons ordered to a county
+correctionalfacility.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 IndeterminableIncrease
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill requires that once a defendant is ordered to a county house of corrections they are
+legallyconsideredtobeinthecustodyofthecountydepartmentofcorrections.
+The New Hampshire Association of Counties (NHAC) states this bill could result in significant
+yet indeterminable costs to county correctional facilities. NHAC notes that the legislation would
+shift substantial financial burdens, particularly overtime and hospital related expenses, onto
+county taxpayers. A recent example from Strafford County, where a single week of inmate
+supervision and healthcare during transport to Boston exceeded $30,000. Due to the
+unpredictable nature of such incidents, NHAC is unable to provide a precise estimate but
+indicatesthecumulativeimpactcouldreachintothehundredsofmillionsofdollars.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireAssociationofCounties

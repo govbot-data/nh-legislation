@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1449-ASAMENDEDBYTHESENATE
+11Mar2026...0989h
+04/16/2026 1426s
+2026SESSION
+26-2787
+12/07
+1449
+HOUSEBILL
+ANACT limitingtimesvaccineclinicsmayoperateatschools,withcertainexceptions.
+SPONSORS: Rep. McGrath, Rock. 40; Rep. DeRoy, Straf. 3; Rep. DeVito, Rock. 8; Rep.
+Litchfield, Rock. 32; Rep. McFarlane, Graf. 18; Rep. Morton, Hills. 39; Rep. Perez,
+Rock.16;Rep.SabourinditChoiniere,Rock.30;Rep.Terry,Belk.7
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits the operation of a vaccination clinic at schools during school hours with the
+exception of clinics which solely administer influenza vaccinations and clinics operating during
+publichealthemergencies.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1449-ASAMENDEDBYTHESENATE
+11Mar2026...0989h
+04/16/2026 1426s 26-2787
+12/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT limitingtimesvaccineclinicsmayoperateatschools,withcertainexceptions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; School Vaccination Clinics; Parent or Legal Guardian Required. Amend RSA
+2 200byinsertingaftersection27-athefollowingnewsection:
+3 200:27-b SchoolVaccinationClinics;ParentorLegalGuardianRequired.
+4 I. No public elementary or secondary school or chartered public school shall conduct a
+5 vaccinationclinicatanytimeduringschoolhours.
+6 II. Thissectionshallnotapply:
+7 (a) To public elementary or secondary school or chartered public school vaccination
+8 clinicswheresuchclinicsexclusivelyprovideinfluenzavaccinations.
+9 (b) Duringapublichealthemergencydeclaredinaccordancewithstateorfederallaw.
+10 III. Nothing in this section shall affect the duties of school nurses as described in RSA
+11 200:38,I(a).
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

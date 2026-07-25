@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER123
+HB1827-FN-A-FINALVERSION
+19Feb2026...0573h
+2026SESSION
+26-2633
+07/09
+1827-FN-A
+HOUSEBILL
+ANACT requiring the department of education to conduct a confidential criminal history record
+checkonallprospectiveeducationalpersonnel.
+SPONSORS: Rep.Ladd,Graf.5
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the department of education to conduct a confidential criminal history record check
+onallprospectiveeducationalpersonnel.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER123
+HB1827-FN-A-FINALVERSION
+19Feb2026...0573h 26-2633
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to conduct a confidential criminal history record
+checkonallprospectiveeducationalpersonnel.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 123:1 New Section; Department of Education School Employee Criminal History Records Check.
+2 AmendRSA189byinsertingaftersection13-cthefollowingnewsection:
+3 189:13-d DepartmentofEducationSchoolEmployeeCriminalHistoryRecordsCheck.
+4 I. Asusedinthissection:
+5 (a) "Educational personnel" means an individual who is employed, either part time or full
+6 time, by a school administrative unit, school district, public school, public charter school, public academy,
+7 or non-public approved special education school in the state of New Hampshire who is not in a position
+8 requiringaneducatorcredential.
+9 (b) "Clearance" means a document issued to educational personnel that reflects that a
+10 criminal history record check was completed and that none of the violations listed in RSA 189:13-c, V
+11 werefound.
+12 II.(a) The department shall complete a confidential criminal history record check on all
+13 educationalpersonnel. Thecriminalhistoryrecordcheckclearanceshallbevalidforaperiodof5years.
+14 (b) Thedepartmentshallestablishandimplementasecuresystemforconductingacheckof
+15 all educational personnel listed in this section in the National Association of State Directors of Teacher
+16 EducationandCertification(NASDTEC)databasebyutilizingtheapplicant'ssocialsecuritynumber.
+17 III.(a) Educational personnel shall submit to the department a criminal history records release
+18 form, as provided bythe division of statepolice, which authorizesthe division of statepolice to conduct a
+19 criminal history records check through its state records and through the Federal Bureau of Investigation
+20 andtoreleaseareportoftheindividual'scriminalhistoryrecordinformation,includingconfidentialcriminal
+21 history record information, to the background check coordinator of the department, as described in RSA
+22 21-N:8-a,I-a.
+23 (b) Educational personnel shall submit with the release form a complete set of fingerprints
+24 taken by a qualified law enforcement agency or an authorized employee of the department of education.
+25 Intheeventthatthefirstsetoffingerprintsisinvalidduetoinsufficientpattern,asecondsetoffingerprints
+26 shall be taken in order to complete the criminal history records check. If, after 2 attempts, a set of
+27 fingerprintsisinvalidduetoinsufficientpattern,thedepartmentmay,inlieuofthecriminalhistoryrecords
+28 check,accept policeclearancefromeverycity, town, orcountywhereanapplicantor candidatehaslived
+29 duringthepast10years.
+30 IV.(a) The department shall maintain the confidentiality of all criminal history records information
+31 received pursuant to this paragraph. The department shall destroy all criminal history record information
+32 within60daysofreceivingsaidinformation.
+
+CHAPTER123
+HB1827-FN-A-FINALVERSION
+-Page2-
+1 (b) Thedepartmentmayrequireeducationalpersonneltopaytheactualcostsofthecriminal
+2 historyrecordscheck.
+3 V.(a) Any person who has been charged pending disposition for or convicted of any violation or
+4 attemptedviolationof RSA318-B:2for possessionof acontrolleddrugwiththeintenttosell, felonylevel,
+5 within the last 10 years, RSA 630:1; 630:1-a; 630:1-b; 630:2; 630:3; 631:1; 631:2; 631:2-b; 632-A:2; 632-
+6 A:3; 632-A:4; 633:1; 633:7; 636:1; 638:1; 638:15-a; 639:2; 639:3; 645:1, II or III; 645:2; 649-A:3; 649-A:3-
+7 a; 649-A:3-b; 649-B:3; or 649-B:4; or any violation or any attempted violation of RSA 650:2 where the act
+8 involves a child in material deemed obscene in this state, or under any statute prohibiting the same
+9 conduct in another state, territory, or possession of the United States, shall not be granted a clearance,
+10 nor shall they be employable or contracted in a public school, public charter school, public academy, or
+11 non-publicapprovedspecialeducationschoolwithinthestateofNewHampshire.
+12 (b) A school administrative unit, school district, public school, public charter school, public
+13 academy, or non-public approved special education school in the state of New Hampshire shall not
+14 employ any individual who has had their educator license credential revoked in New Hampshire or any
+15 otherstate.
+16 VI. Thedepartmentshalladoptrules,pursuanttoRSA541-A,governingtherightsofeducational
+17 personnel and their ability to appeal a denial of a clearance pursuant to a charge pending disposition for
+18 oraconvictionofanyoftheoffensesunderparagraphV.
+19 123:2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+Approved:June05,2026
+EffectiveDate:July01,2027

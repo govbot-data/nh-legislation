@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1274-FN-LOCAL-ASINTRODUCED
+2026SESSION
+26-2841
+08/07
+1274-FN-LOCAL
+HOUSEBILL
+ANACT relativetodoglicenses.
+SPONSORS: Rep.Dargie,Hills.43;Rep.Petrigno,Hills.43
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillincreasestheannualdoglicensingfee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1274-FN-LOCAL-ASINTRODUCED
+26-2841
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetodoglicenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DogLicenseFees. AmendRSA466:4,I-IItoreadasfollows:
+2 I.(a) Thefeeforeverylicenseforayearorportionofayearshallbe:
+3 (1) [$4.50] $4.75 for dogs at least 4 months old but less than 7 months old which are
+4 not spayed or neutered and [$4.50] $4.75 for a neutered male or spayed female dog 7 months old or
+5 older; provided, however, that the owner or keeper of such spayed female dog or neutered male dog
+6 shall comply with the provisions of RSA 466:1-a to the satisfaction of the clerk of the town or city in
+7 whichsuchdogisownedorkept;or
+8 (2) [$7] $7.25 for any unneutered male or unspayed female dog 7 months old or
+9 older.
+10 (b) InadditiontothesumrequiredinsubparagraphsI(a)(1)and(2),eachyeartheowner
+11 of each dog shall pay the clerk of the city or town where the dog is registered a companion animal
+12 populationcontrolfeeof$1.75.
+13 (c) The clerk shall remit all companion animal population control fees collected to the
+14 statetreasureralongwiththefeessentinaccordancewithRSA466:9,providedthatsuchcompanion
+15 animal population control fees shall be deposited into the companion animal neutering fund,
+16 establishedinRSA437-A:4-a.
+17 II. Notwithstanding paragraph I, the fee for every license for a year or a portion of a year
+18 shall be [$1.75] $2 for a dog of either sex if the owner is 65 years of age or older. Such owner shall
+19 not be required to pay the companion animal population control fee, under RSA 466:4, I(b), for
+20 licensing of one dog; provided, however, that, if such owner wishes to license more than one dog, the
+21 feeforanyadditionallicenseshallbeasprovidedinparagraphI.
+22 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2841
+11/17/25
+HB1274-FN-LOCAL-FISCALNOTE
+ASINTRODUCED
+ANACT relativetodoglicenses.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalRevenue $0
+Increase Increase Increase
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill increases dog license fees by $0.25 per a license. The New Hampshire Municipal
+Association states although they don't have the data to quantify how much additional revenue
+municipalitieswillgeneratefromthisincreasedfee,itisassumeditwillbelessthan$10,000per
+acityortown.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

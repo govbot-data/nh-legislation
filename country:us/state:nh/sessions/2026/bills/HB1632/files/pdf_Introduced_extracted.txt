@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1632-FN-ASINTRODUCED
+2026SESSION
+26-3010
+09/08
+1632-FN
+HOUSEBILL
+ANACT relativetothelethalityassessmentprogramscreeningtool.
+SPONSORS: Rep. Manos, Rock. 12; Rep. Beauchemin, Hills. 3; Rep. Gregg, Hills. 7; Rep.
+Johnson, Straf. 11; Rep. Meuse, Rock. 37; Rep. Newell, Ches. 4; Rep. Selig, Straf.
+10;Rep.M.Smith,Straf.10;Sen.Altschiller,Dist24
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a lethality assessment program screening tool to be used in various
+investigationsrelatedtodomesticviolence.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1632-FN-ASINTRODUCED
+26-3010
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothelethalityassessmentprogramscreeningtool.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Domestic Violence; Lethality Assessment Program. Amend RSA 631:2-b by
+2 insertingafterparagraphIIIthefollowingnewparagraph:
+3 III-a. The lethality assessment program (LAP) screening tool shall be administered by all
+4 lawenforcementagencieswiththevictiminsuspecteddomesticviolenceresponsesorinvestigations.
+5 The results of each LAP screening that are screened in shall be filed by the law enforcement agency
+6 ortheprosecutorwiththecourtatarraignmentofdefendant.
+7 2 New Paragraph; Violation of Protective Order; Lethality Assessment Form. Amend RSA 173-
+8 B:9byinsertingafterparagraphVthefollowingnewparagraph:
+9 VI. The lethality assessment program (LAP) screening tool shall be administered by all law
+10 enforcement agencies with the victim in suspected violation of protective order responses or
+11 investigations. The results of each LAP screening that are screened in shall be filed by the law
+12 enforcementagencyortheprosecutorwiththecourtatarraignmentofdefendant.
+13 3 New Subparagraph; Stalking; Lethality Assessment Program. Amend RSA 633:3-a, VIII by
+14 insertingaftersubparagraph(b)thefollowingnewsubparagraph:
+15 (c) The lethality assessment program (LAP) screening tool shall be administered by all
+16 law enforcement agencies with the victim in all suspected stalking-domestic violence responses or
+17 investigations. The results of each LAP screening that are screened in shall be filed by the law
+18 enforcementagencyortheprosecutorwiththecourtatarraignmentofdefendant.
+19 4 New Paragraph; Restraining Orders; Lethality Assessment Program. Amend RSA 458:16 by
+20 insertingafterparagraphIIIthefollowingnewparagraph:
+21 IV. The lethality assessment program (LAP) screening tool shall be administered by all law
+22 enforcement agencies with the victim in all suspected violation of protective order responses or
+23 investigations. The results of each LAP screening that are screened in shall be filed by the law
+24 enforcementagencyortheprosecutorwiththecourtatarraignmentofdefendant.
+25 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3010
+12/2/25
+HB1632-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothelethalityassessmentprogramscreeningtool.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $268,000 $239,000 $249,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill requires all law enforcement agencies to conduct a lethality assessment screen under
+the Lethality Assessment Program (LAP) and sets criteria for when screens must be completed.
+Currently, LAP participation is voluntary, limited to trained officers, and administered by the
+Department of Justice, with about 45% of police departments submitting LAP data. Mandating
+statewide participation would significantly increase the demand for training, data management,
+and technical assistance. To meet these obligations, the Department of Justice would need to
+add two positions: a full-time investigator to provide LAP training and support, and a program
+coordinator to manage statewide training, data collection, analysis, and ongoing assistance to
+law enforcement agencies. Below are the estimated total costs of the positions (it should be
+notedthatthisbillprovidesneitherauthorizationnorappropriationfornewpositions):
+FY2027 FY2028 FY2029
+Investigator 158,000 128,000 133,000
+ProgramCoordinator 110,000 111,000 116,000
+
+Total 268,000 239,000 249,000
+The Department states that Troopers that respond toincidents of domestic violence and stalking
+will be able to perform the required LAP screening during the response and will be able to
+provide the results of this screening to be filed with the court at the time of arraignment as a
+matter of the normal course of their duties. Therefore, it does not anticipate this bill having any
+impactonitsbudget.
+It is unclear if there will be any additional county or municipal expenditures associated with
+adoptingtheLAP,astheprogramisfreeandtrainingisprovidedbytheDepartmentofJustice.
+AGENCIESCONTACTED:
+DepartmentofJustice,DepartmentofSafety,andNewHampshireMunicipalAssociation

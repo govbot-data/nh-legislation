@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER168
+HB1460-FN-FINALVERSION
+04/09/2026 1273s
+2026SESSION
+26-3231
+05/09
+1460-FN
+HOUSEBILL
+ANACT prohibitingthesaleofachild'spersonaldata.
+SPONSORS: Rep. Litchfield, Rock. 32; Rep. Markell, Rock. 18; Rep. Edwards, Rock. 31; Rep. L.
+Miner, Rock. 7; Rep. Granger, Straf. 2; Rep. Moffett, Merr. 4; Sen. Gannon, Dist 23;
+Sen.Murphy,Dist16;Sen.Lang,Dist2;Sen.Sullivan,Dist18
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillprohibitsthesaleofachild'spersonaldata.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER168
+HB1460-FN-FINALVERSION
+04/09/2026 1273s 26-3231
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingthesaleofachild'spersonaldata.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 168:1 New Subparagraph; Expectation of Privacy; Personal Data. Amend RSA 507-H:6, I by
+2 insertingaftersubparagraph(e)thefollowingnewsubparagraph:
+3 (e-1) Notsellachild'spersonaldata;
+4 168:2 EffectiveDate. ThisacttakeseffectJanuary1,2027.
+Approved:June19,2026
+EffectiveDate:January01,2027

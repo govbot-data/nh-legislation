@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1393 -ASINTRODUCED
+2026SESSION
+26-3206
+08/09
+1393
+HOUSEBILL
+ANACT relativetothedefinitionofpublicservantandtheoffenseofofficialoppression.
+SPONSORS: Rep.Long,Hills.26
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds federal officials tothedefinitionof public servant and makes it aclass Bfelony for
+apublicservanttointerfereinanelection.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1393-ASINTRODUCED
+26-3206
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedefinitionofpublicservantandtheoffenseofofficialoppression.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Public Servant; Definition; Federal Officials Included. Amend RSA 640:2, II(a) to read as
+2 follows:
+3 (a) "Public servant" means any federal official acting in or taking action directly
+4 affecting the state of New Hampshire, or officer or employee of the state or any political
+5 subdivision thereof, including judges, legislators, consultants, jurors, and persons otherwise
+6 performing a governmental function. A person is considered a public servant upon his election,
+7 appointment or other designation as such, although he maynot yet officially occupy that position. A
+8 personisacandidateforelectoralofficeuponhispublicannouncementofhiscandidacy.
+9 2 OfficialOppression;ElectionInterference. AmendRSA643:1toreadasfollows:
+10 643:1 OfficialOppression.
+11 A public servant, as defined in RSA 640:2, II, is guilty of a misdemeanor if, with a purpose to
+12 benefit himself or another or to harm another, he knowingly commits an unauthorized act which
+13 purports to be an act of his office; or knowingly refrains from performing a duty imposed on him by
+14 laworclearlyinherentinthenatureofhisoffice. ApublicservantisguiltyofaclassBfelony if
+15 heorsheactswithintenttointerferewiththeadministrationofanelection.
+16 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

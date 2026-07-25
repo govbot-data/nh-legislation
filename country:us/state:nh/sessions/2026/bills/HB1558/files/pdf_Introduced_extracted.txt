@@ -1,0 +1,199 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1558-FN-ASINTRODUCED
+2026SESSION
+26-2850
+06/08
+1558-FN
+HOUSEBILL
+ANACT requiring proof of insurance or adequate financial responsibility for vehicle
+registration.
+SPONSORS: Rep. Vandecasteele, Rock. 25; Rep. Nagel, Belk. 6; Rep. L. Walsh, Rock. 15; Rep.
+Ball,Rock.25
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a requirement to provide proof of financial responsibility at the time of
+motor vehicle registration and authorizes immediate suspension of license and registration for
+failuretoproducesuchproofuponlawfulrequest.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1558-FN-ASINTRODUCED
+26-2850
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring proof of insurance or adequate financial responsibility for vehicle
+registration.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. The general court finds that while New Hampshire does not require every driver to
+2 maintain automobile insurance, RSA 264:3 requires that all drivers be financially responsible for
+3 damages caused by their operation of a motor vehicle. Current law enforces this requirement only
+4 after an accident has occurred. To protect responsible motorists and the public, this act requires
+5 that drivers demonstrate proof of financial responsibility at the time of vehicle registration. This
+6 maintains individual choice while ensuring that no motorist operates a vehicle without the ability to
+7 payfordamages.
+8 2 New Sections; Motor Vehicles; Financial Responsibility; Proof Required at Registration.
+9 AmendRSA264byinsertingaftersection2thefollowingnewsections:
+10 264:2-a ProofofFinancialResponsibilityRequiredatRegistration.
+11 I. No motor vehicle shall be registered in this state unless the applicant provides one of the
+12 followingtothedivisionofmotorvehicles:
+13 (a) Proof of a motor vehicle liability insurance policy in effect which meets the minimum
+14 coveragelimitsestablishedinRSA264:20;or
+15 (b) Acertificateofdeposit,suretybond,orotherevidenceoffinancialresponsibilityinan
+16 amount not less than the minimum liability limits set forth in RSA 264:20, filed with the state
+17 treasurerandverifiedtothedivisionofmotorvehicles.
+18 II. The division shall record such proof at the time of registration and shall adopt rules
+19 pursuanttoRSA541-Aforimplementation.
+20 3 New Section; Suspension for Lack of Proof. Amend RSA 264 by inserting after section 3 the
+21 followingnewsection:
+22 264:3-a SuspensionforLackofProof.
+23 I. Any person operating a motor vehicle who, upon lawful request by a law enforcement
+24 officer, fails to produce evidence of financial responsibility as required by RSA 264:2-a shall have
+25 their driver’s license and registration privileges suspended immediately by the division of motor
+26 vehicles.
+27 II. Such suspension shall remain in effect until the person provides proof of financial
+28 responsibility in compliance with RSA 264:2-a, or until all claims and judgments arising from the
+29 accidenthavebeensatisfiedinaccordancewithRSA264:3.
+
+HB1558-FN-ASINTRODUCED
+-Page2-
+1 III. The division of motor vehicles shall adopt rules pursuant to RSA 541-A for
+2 administrationandenforcementofthissection.
+3 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2850
+12/5/25
+HB1558-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring proof of insurance or adequate financial responsibility for vehicle
+registration.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$200,000 $300,000 $400,000
+Revenue $0
+Increase Increase Increase
+RevenueFund(s) GeneralFund
+Indeterminable
+Expenditures* $0 $581,000
+$300,000+PerYear
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a requirement to provide proof of financial responsibility at the time of
+motor vehicle registration and authorizes immediate suspension of license and registration for
+failure to produce such proof upon lawful request. This bill will have an impact on both the
+Department of Safety and insurance premium tax revenue collected by the Insurance
+Department.
+DepartmentofSafetyImpact
+The Department of Safety states this bill requires individuals to demonstrate financial
+responsibility before registering a motor vehicle. Currently, state law requires financial
+responsibility only after an accident happens. Applicants for registration must provide the
+Division of Motor Vehicles (DMV) proof of liability insurance meeting the minimum coverage
+limits under RSA 264:20. Alternatively, financial documentation in the form of a certificate of
+deposit, surety bond, or other evidence of financial responsibility can be filed with the state
+treasurer. Drivers who fail to produce financial responsibility upon lawful request may have
+their license and registration privileges suspended immediately. Suspension remains in effect
+
+until proof is provided, or all claims and judgements related to an accident are satisfied.
+Authority is granted to DMV to develop and adopt rules for this new section. The Department
+has provided the following information relating to determining the fiscal impact associated with
+thisbill:
+ImplementationConsiderations
+ DMV currently manages financial responsibility through the SR22 process. This is a
+manual workflow involving receipt of policies and cancellations via mail, fax, and email.
+A report was run for active policies going back three years. This report shows that DMV
+maintains approximately 9,200 SR22 policies. On average, 50-100 policy transactions
+are received and done daily, requiring 1-2 full-time staff for processing. This processing
+timeis3-5businessdaysfromreceiptofthepolicyinitsoffice.
+ Asof October 2025, thereareapproximately1.4millionregistered motor vehicles inNew
+Hampshire. Applying financial responsibility verification to all registrations would
+representasignificantincreaseinworkload.
+EnforcementProcess
+Under current law, law enforcement may issue a citation for either fine assessment or
+mandatorycourtappearance(toincludeacourt,date,andtime)usingFormDSMV428,Uniform
+Motor Vehicle Summons. For fine assessments, defendants have 30 days to enter a plea or pay.
+If no plea is received, the citation enters default status, incurring a $50 administrative fee in
+addition to the original fine. If no plea is received 30 days after default, the defendant’s license
+andregistrationprivilegesaresuspended,andrestorationfeesapply.
+Currently, law enforcement cannot issue an immediate suspension of license or registration
+privileges. The only mechanism available is submission of Form DSMV 384, Request for
+Administrative Action, which prompts a review of the driver’s record and is accompanied by a
+narrative as to why this person poses a threat to public safety. The director may act, which
+couldincludeimmediatesuspension,requestforhearing,orfulldrivingretest.
+Ifthisbillispassed,anewreportingmechanismwouldneedtobedevelopedforlawenforcement
+toidentifyandreportviolationsspecifictothefinancialresponsibilityrequirement.
+Cost-relatedAssumptions
+Staffing Needs: A program oversight position (SOC 13-03) would be required to manage intake
+and compliance like existing programs within DMV that oversee court convictions and crash
+records. An additional three (3) support staff (SOC 43-03) would be needed to process
+documentationandmaintainrecords.
+
+System Modernization: The current DMV systems are not equipped for large-scale, real-time
+verification of insurance or financial policies. Significant changes would be required to record
+proof at registration, interface with insurers or financial institutions and support enforcement
+andsuspensionactions.
+Law Enforcement Integration: A new reporting mechanism would be necessary to allow
+enforcement to identify and report violations of this specific statute. Training and procedural
+updateswouldberequiredforlawenforcementandDMVstaff.
+Municipal Impact: Training for Municipal Agents to ensure consistent application of new
+requirements. While no direct fiscal impact liability is imposed on municipalities, there may be
+operational impacts related to increased transaction time, customer inquiries, and training
+needs. Public outreach and education to inform residents of the change and avoid delays or
+confusionatthetimeofregistration.
+The bill would expand DMV responsibilities and require new infrastructure toverifyand enforce
+financial responsibility at the time of registration. The fiscal impact includes personnel, system
+upgrades, and procedural development. The assumptions are based on current SR22 processing
+volumes, enforcement procedures, and the total number of registered vehicles in the state.
+BelowisasummaryoftheanticipatedcostsfortheDMV:
+Description FY2027 FY2028 FY2029
+Systemmaintenance,vendor
+contractmanagement,and $288,000 Indeterminable Indeterminable
+interfaceupdates
+DMVStaffingCosts $293,000 $293,000 $306,000
+Total $581,000 Indeterminable Indeterminable
+InsuranceDepartment(PremiumTax)Impact
+According to data published by the Insurance Information Institute dated 2023, 90.0% of autos
+registered in New Hampshire are covered by insurance. Neighboring states of Massachusetts
+and Maine have slightly higher rates of covered autos with an average between them of 93.2%.
+These states have mandatory insurance requirements like what is proposed in this bill. Using
+this latter value as a reasonable approximation, the Insurance Department estimates a 3.6%
+increase in covered vehicles in New Hampshire if this bill becomes law. It is unlikely owners of
+these newly covered autos would choose the same level of insurance as the average policy holder
+today. The bill requires only liability coverage, and it is likely minimal limits would be selected.
+To this extent, the Department converted the 3.6% increase in covered autos to a 1.8% increase
+
+in written premium because approximately 50% of auto insurance premium is attributed to
+liabilitycoverage.
+Consistent withfuture revenue estimates, theDepartment anticipates an8% increase in written
+premiumsindependentofchangestocurrentlaw.
+FY2027* FY2028 FY2029
+EstimatedAdditionalWrittenPremium
+$12.9 $27.8 $30.1
+(inmillions)
+NewHampshirePremiumTaxRate 1.25% 1.25% 1.25%
+EstimatedAdditionalPremiumTax(in
+$0.2 $0.3 $0.4
+millions)(productofabovevalues)
+*Expected additional premium for FY 2027 was reduced by 50% because the proposed
+legislation would take effect midway through that fiscal year and compliance to the new law
+wouldlikelybegradual.
+AGENCIESCONTACTED:
+DepartmentofSafetyandInsuranceDepartment

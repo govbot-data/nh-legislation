@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1159-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1058s
+2026SESSION
+26-2637
+04/09
+1159
+HOUSEBILL
+ANACT relativetoupdatingthestatebuildingcode.
+SPONSORS: Rep. C. McGuire, Merr. 27; Rep. Erf, Hills. 28; Rep. H. Howard, Straf. 4; Sen.
+Pearl,Dist17
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillupdatesthedefinitionofthestatebuildingcode.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1159-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1058s 26-2637
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoupdatingthestatebuildingcode.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StateBuildingCodeDefinition. AmendRSA155-A:1,IVtoreadasfollows:
+2 IV. "NewHampshirebuildingcode"or"statebuildingcode"meanstheadoptionbyreference
+3 of the International Building Code [2021] 2024, the International Existing Building Code [2021]
+4 2024,theInternationalPlumbingCode[2021]2024,theInternationalMechanicalCode[2021]2024,
+5 the International Energy Conservation Code 2018, the International Swimming Pool and Spa Code
+6 [2021] 2024 and the International Residential Code [2021] 2024, as published by the International
+7 Code Council Inc., and the National Electrical Code 2023, as published by the National Fire
+8 Protection Association, Inc., as reviewed and recommended by the state building code review board,
+9 including all amendments reviewed and approved by the board as of [April 11] October 10, 2025,
+10 and ratified by the legislature in accordance with RSA 155-A:10, and any errata issued by the
+11 model code organization, or amendments informed by such errata, as approved by the
+12 board.
+13 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

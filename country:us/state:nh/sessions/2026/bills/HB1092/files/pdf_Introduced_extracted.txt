@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1092 -ASINTRODUCED
+2026SESSION
+26-2664
+08/09
+1092
+HOUSEBILL
+ANACT relativetoguarddogs.
+SPONSORS: Rep. Comtois, Belk. 7; Rep. J. Aron, Sull. 4; Rep. Bixby, Straf. 13; Rep. Kenny,
+Hills.13;Sen.Innis,Dist7
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillexemptsguarddogsontheirowner'spropertyfromthestatuterelativetomenacingand
+viciousdogs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1092-ASINTRODUCED
+26-2664
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoguarddogs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 GuardDogs;Exemption. AmendRSA466:31,II(g)toreadasfollows:
+2 (g) If, whether alone or in a pack with other dogs, it bites, attacks, or preys on game
+3 animals,domesticanimals,fowlorhumanbeingswhennotontheowner'sproperty.
+4 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

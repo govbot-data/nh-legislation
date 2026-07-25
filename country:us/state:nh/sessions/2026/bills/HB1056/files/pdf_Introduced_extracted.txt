@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1056 -ASINTRODUCED
+2026SESSION
+26-2570.0
+05/09
+1056
+HOUSEBILL
+ANACT establishing a commission to study the impacts of reinsurance on the cost and
+availabilityofpropertyinsuranceinNewHampshire.
+SPONSORS: Rep. Spier, Hills. 6; Rep. Burroughs, Carr. 2; Rep. Caplan, Merr. 8; Rep. Cloutier,
+Sull.6;Rep. Ebel,Merr.7; Rep.Haskins,Rock. 11;Rep.H. Howard,Straf.4; Rep.
+Vail,Hills.6
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a commission to study the impact of extreme weather on the reinsurance
+marketanditseffectoncostandavailabilityofpropertyinsuranceinNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1056-ASINTRODUCED
+26-2570.0
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a commission to study the impacts of reinsurance on the cost and
+availabilityofpropertyinsuranceinNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Findings.
+2 I. The reasonable cost and availabilityof insurance for residential and commercial buildings
+3 and structures is essential to the health of New Hampshire’s economy, including the ability of
+4 residents and businesses to finance the purchase of property and to recover from losses, including
+5 lossescausedbyfire,flooding,hurricanes,andotherextremeweatherevents.
+6 II. New Hampshire currently has hundreds of licensed national insurance carriers and
+7 smaller regional or specialty insurers that are approved to sell property-related coverage. The
+8 resulting competition serves to put downward pressure on premium costs. However, carriers count
+9 on lowering their risks and maintaining reasonable premiums by purchasing reinsurance.
+10 Reinsurance is a critical risk management tool that keeps the insurance market functioning
+11 smoothly — especially when catastrophic events like hurricanes, wildfires, or earthquakes could
+12 otherwiseoverwhelmasinglecompany’sbalancesheet.
+13 III. Inrecent years, thecost of reinsurance has contributed significantlyto upward pressure
+14 on insurance rates. Reinsurance pricing is influenced by loss patterns arising from extreme weather
+15 events both nationally and globally, such as hurricanes, wildfires, and flooding. Reinsurers manage
+16 risks from numerous insurers across various regions, distributing exposure geographically. For
+17 instance, following the California wildfires, reinsurers incurred substantial payouts to cover
+18 property insurance claims. Significant capital depletion from major events—such as the $40 billion
+19 losses in California—results in the repricing of risk portfolios on a nationwide basis. Property
+20 insurers in New Hampshire, particularly those exposed to coastal storms and winter hazards,
+21 experienced higher reinsurance renewal rates in mid-2025, reflecting constrained global capacity
+22 driven in part by losses sustained in California. Specifically, New Hampshire insurers with
+23 portfolios heavily weighted toward winter storm exposure and material 2023-2024 losses saw
+24 reinsurance renewal rate increases of approximately 15–20 percent in mid-2025. As reinsurance
+25 costs rise, the increases are typically passed on to policyholders through higher property insurance
+26 premiums.
+27 IV. Asindicated,theaveragecost ofrealpropertyinsurancehasincreasedbyapproximately
+28 20 percent, with future annual increases anticipated to occur. The increasing cost of insurance is a
+29 growingcostbornebyhomeownersandbusinessesandexacerbatesthestate’shousingcrisis.
+
+HB1056 -ASINTRODUCED
+-Page2-
+1 2 New Subdivision; Commission to Study the Impacts of Reinsurance on the Cost and
+2 Availability of Property Insurance in New Hampshire. Amend RSA 400-A by inserting after section
+3 68thefollowingnewsubdivision:
+4 CommissiontoStudytheImpactsofReinsuranceontheCostandAvailabilityofPropertyInsurance
+5 inNewHampshire
+6 400-A:69 Commission to Study the Impacts of Reinsurance on the Cost and Availability of
+7 PropertyInsuranceinNewHampshire.
+8 I. There is hereby established a commission to study the impact of extreme weather on the
+9 reinsurance market and its effect on the cost and availability of property insurance in New
+10 Hampshire.
+11 II. Themembersofthecommissionshallbeasfollows:
+12 (a) Four members of thehouse of representatives, appointed bythe speaker of the house
+13 ofrepresentatives,inconsultationwiththeminorityleader.
+14 (b) Two members of the senate, appointed by thepresident of thesenate, in consultation
+15 withtheminorityleader.
+16 (c) Thecommissionerofthedepartmentofinsurance,ordesignee.
+17 (d) Tworepresentativesfromtheinsuranceindustry,onerepresentinglargecarriersand
+18 onerepresentingsmalllocalcarriers,appointedbythegovernor.
+19 III. Legislativemembersofthecommissionshallreceivemileageatthelegislativeratewhen
+20 attendingtothedutiesofthecommission.
+21 IV. Thecommissionshallstudy:
+22 (a) The effect of past extreme weather events occurring globally on reinsurance rates,
+23 anditsrelationshiptothecostofinsuranceinNewHampshire.
+24 (b) The manner and extent to which future extreme weather events are considered for
+25 purposes of establishing reinsurance rates for the insurance of residential and commercial buildings
+26 andstructuresinNewHampshire.
+27 (c) A process for providing visibility into the reinsurance costs to the insurance carriers
+28 operatinginNewHampshire.
+29 (d) The availability of reinsurance to small local carriers in New Hampshire and the
+30 economicimpacttogovernment,taxpayers,andthestatethatwouldresultintheeventofreinsurers
+31 experiencinginsolvencyornolongerprovidingreinsurance.
+32 V. The members of the study commission shall elect a chairperson from among the
+33 members. The first meeting of the commission shall be called by the first-named house member.
+34 The first meeting of the commission shall be held within 45 days of the effective date of this section.
+35 Fourmembersofthecommissionshallconstituteaquorum.
+36 VI. The commission shall report its findings and any recommendations for proposed
+37 legislation and rulemaking to the speaker of the house of representatives, the president of the
+
+HB1056 -ASINTRODUCED
+-Page3-
+1 senate, the house clerk, the senate clerk, the governor, the insurance commissioner, and the state
+2 libraryonorbeforeNovember1,2026.
+3 3 Repeal. RSA400-A:69,andthesubdivisionheadingprecedingit,relativetothecommissionto
+4 study the impacts of reinsurance on the cost and availability of property insurance in New
+5 Hampshire,isrepealed.
+6 4 EffectiveDate.
+7 I. Section3ofthisactshalltakeeffectNovember1,2026.
+8 II. Theremainderofthisactshalltakeeffectuponitspassage.

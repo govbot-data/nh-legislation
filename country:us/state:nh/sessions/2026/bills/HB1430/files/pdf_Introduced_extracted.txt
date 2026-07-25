@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1430-FN-ASINTRODUCED
+2026SESSION
+26-2573
+07/09
+1430-FN
+HOUSEBILL
+ANACT relativetotitleregistrationrequirementsformotorcycles.
+SPONSORS: Rep.Read,Rock.10;Rep.Giasson,Hills.29;Rep.TomMannion,Hills.1
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts motorcycles that are older than 20 years from the current calendar year from
+needingacertificateoftitle.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1430-FN-ASINTRODUCED
+26-2573
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotitleregistrationrequirementsformotorcycles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Motor Vehicles; Certificate of Title; Exempted Vehicles. Amend RSA
+2 261:3,Ibyinsertingaftersubparagraph(l)thefollowingnewsubparagraph:
+3 (m) Any motorcycle whose manufacturer's model year is greater than 20 years from the
+4 currentcalendaryear.
+5 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2573
+11/30/25
+HB1430-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotitleregistrationrequirementsformotorcycles.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Approximately$60,000DecreasePerYear
+RevenueFund(s) HighwayFund
+Expenditures* $0 Lessthan$10,000DecreasePerYear
+HighwayFundandRestricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource(s)
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriortofunds
+beingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 Lessthan$10,000DecreasePerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill, effective January 1, 2027, would exempt any motorcycle, whose manufacturer's model
+year is greater than 20 years from the current calendar year, from motor vehicle title
+requirements. The Department of Safety states in 2024 there were approximately 1,700 titles
+issued for motorcycles towhichthis bill would have applied to. Giventhe titlefeethat will be in
+place effective January 1, 2026, of $35, this would be a potential annual revenue loss of
+approximately $59,500 ($29,750 in FY 2027). Also, pursuant to RSA 235:23 (“Apportionment
+A”),12percentofhighwayfundroadtollandmotorvehiclefeerevenuecollectedisdistributedto
+municipalities in the year following collection. Therefore, this bill would also reduce state
+expenditures and local revenue by approximately $3,570 in FY 2028 and $7,140 in FY 2029 and
+beyond. Lastly, the Department states that any state expenditures attributable to this bill,
+mostly related to the cost for direct mailing titles, would decrease annually by an insignificant
+amount(lessthan$10,000).
+
+AGENCIESCONTACTED:
+DepartmentofSafety

@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1163-FN-ASINTRODUCED
+2026SESSION
+26-2654
+08/05
+1163-FN
+HOUSEBILL
+ANACT requiring the secretary of state to create and maintain a uniform election records
+managementsystem.
+SPONSORS: Rep.Bernardy,Rock.36;Rep.Porcelli,Rock.19;Sen.Gannon,Dist23
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the secretary of state to create and maintain a uniform election records
+managementsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1163-FN-ASINTRODUCED
+26-2654
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the secretary of state to create and maintain a uniform election records
+managementsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Election Procedure; Record Management. Amend RSA 659 by inserting
+2 aftersection104thefollowingnewsubdivision:
+3 UniformElectionRecordsManagementSystem
+4 659:105 ImplementationofaUniformElectionRecordsManagementSystem.
+5 The secretary of state shall implement a uniform election records management system. The
+6 system shall permit accurate and complete recording of any information collected and shall meet all
+7 legalandregulatoryrequirements. Thesystemshall:
+8 I. Captureallrecords,paperandelectronic;
+9 II. Implementauniformnamingandindexingsystem;
+10 III. Permit the ability to track record movement and activity of records for auditing and
+11 accountabilitywhileensuringthechainofcustody;
+12 IV. Incorporateauniformoridentifiableretentionsystem;
+13 V. Permit efficient search and retrieval by authorized personnel, including New Hampshire
+14 citizensaslegallypermissible;
+15 VI. Identify creation date, time if relevant, purpose, and authorization; and similarly for
+16 eachupdateddocumentversion;and
+17 VII. Identifytrainingrequirementsandeffectivedates.
+18 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2654
+11/6/25
+HB1163-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the secretary of state to create and maintain a uniform election records
+managementsystem.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$200,000to
+Expenditures* $0 $0 $0
+$500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Secretary of State to implement a uniform election records management
+systemdesignedtoensuretheaccurate,complete,andlegallycompliantrecordingofallcollected
+information.
+TheDepartmentofStatealreadyoperatesarecordsmanagementsystemthroughtheDivisionof
+Archives and Records Management limited to internal users, as it is not a public site. To meet
+the bill’s requirement of public access for citizens, the existing system would need to be
+significantly modified or expanded. The estimated one-time cost for this enhancement is
+between$200,000and$500,000.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+DepartmentofState

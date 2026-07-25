@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1817-FN-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0911h
+2026SESSION
+26-2861
+07/09
+1817-FN
+HOUSEBILL
+ANACT relative to access to curricular courses and cocurricular programs within school
+districts.
+SPONSORS: Rep. McDonnell, Rock. 25; Rep. P. Brown, Rock. 14; Rep. Kuttab, Rock. 17; Rep.
+Morse,Merr.3;Rep.Hill,Merr.2;Rep.Thibault,Merr.25
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill expands access to curricular courses and cocurricular programs within school districts
+foreducationfreedomaccountstudents.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1817-FN-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0911h 26-2861
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to access to curricular courses and cocurricular programs within school
+districts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; School Attendance; Access to Public School Programs by Nonpublic, Public
+2 CharteredSchoolsorHomeEducatedPupils. AmendRSA193:1-ctoreadasfollows:
+3 193:1-c Access to Public School Programs by Nonpublic, Public Chartered [Schools] School,
+4 EducationFreedomAccount,orHomeEducatedPupils.
+5 I. Nonpublic, public chartered school, education freedom account, or home educated
+6 pupilsshallhaveaccesstocurricularcoursesandcocurricularprogramsofferedbytheschooldistrict
+7 in which the pupil resides, including the statewide assessment and preliminary scholastic
+8 aptitude test (PSAT). The local school board shall adopt a policy regulating participation in
+9 curricular courses and cocurricular programs[, provided that such]. Such policy shall not be more
+10 restrictive for non-public, public chartered school, education freedom account, or home educated
+11 pupils than the policy governing the school district's resident pupils. In this section, "cocurricular"
+12 shall include those activities which are designed to supplement and enrich regular academic
+13 programs of study, provide opportunities for social development, and encourage participation in
+14 clubs, athletics, performing groups, and service to school and community. For purposes of allowing
+15 access as described in this section, a "home educated pupil" includes any pupil who is a "child with a
+16 disability"underRSA186-C:2,I,untilsuchtimeassuchpupilhasacquiredahighschooldiplomaor
+17 reachedage21inclusive;butshallnotincludeanyotherpupilwhohasgraduatedfromahighschool
+18 levelprogramofhomeeducation,oritsequivalent,orhasattainedtheageof21.
+19 II. Nothing in this section shall be construed to require a parent to establish a home
+20 educationprogramwhichexceedstherequirementsofRSA193:1orRSA193-A.
+21 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2861
+03/20/2026
+HB1817-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0911h)
+ANACT relative to access to curricular courses and cocurricular programs within school
+districts.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) EducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 Indeterminable
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+Thisbillexpandsaccesstocurricularcoursesandcocurricularprogramswithinschooldistricts
+for education freedom account students. The Department of Education states this bill will likely
+result in a significant cost at either the local level, state level, or both, depending upon
+interpretation**. The Department does not have a methodology that could be employed to
+determine the potential costs. It is not possible to know how many students would take
+advantage of what opportunities and how those costs would ultimately be born (by the local
+districtorbythestate).
+**Undercurrentlaw,theDepartmentofEducationthroughitsdatasystemsandimplementation
+offundingformulas,holdstotwopolicyprinciples:
+#1.DistrictsAreProvidedStateFundingWhenRequiredToEducateAStudent
+
+The Department will provide state funding to districts when they are required to educate a
+student via the adequacy formula. This typically occurs by a student enrolling in their district
+school full-time. For home education students that have access to courses at their resident
+district, the Department compensates the district through the adequacy formula for each course
+the home education students enrolls in. The district formula doesn’t apply to charter schools, as
+charter school students are already enrolled full-time in an educational pathway. Districts are
+not required to educate Education Freedom Account (EFA) students who have not been
+disenrolledfromtheEFAprogram. Therefore,theyarenotcompensatedwithStatefunding.
+#2.TheStateDoesNotDoublePayStateFundingForAPrimaryPathway
+TheDepartment ensuresat theSASid-level astudent enrolledinaStatefundeddistrict, charter
+school,orEFApathwaydoesnothavethestudentcountedtwiceforthepurposeofStateprimary
+funding (i.e., adequacy funding). The only exception to this is part-time courses at the Virtual
+Learning Academy Charter School (VLACS), where District, Charter School, or EFA students
+are allowed to access a State funded VLACS course while having their primary pathway State
+funded.
+The Department states this bill would violate policy principle #1 stated above. The policy could
+be to pay districts for educating EFA students similar to home educated students, however, this
+wouldviolateprinciple#2.
+Lastly, once an EFA student is enrolled more than 50 percent of the time in a district, they
+would have to disenroll from the EFA program. A potential unintended consequence of this
+could be more students being forced to disenroll from the EFA program unintentionally, because
+theyaccessedtoomanycoursesattheirresidentdistrict.
+AGENCIESCONTACTED:
+DepartmentofEducation

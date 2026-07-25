@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER50
+HB1168-FINALVERSION
+03/05/2026 0786s
+2026SESSION
+26-2459
+06/05
+1168
+HOUSEBILL
+ANACT relativetoemployerdocumentationrequirements.
+SPONSORS: Rep. Labrie, Hills. 2; Rep. Berry, Hills. 44; Rep. Drago, Rock. 4; Rep. Giasson, Hills.
+29; Rep. Granger, Straf. 2; Rep. Warden, Hills. 39; Sen. Murphy, Dist 16; Sen.
+McGough,Dist11
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill extends the time an employer has to file objections to a wage claim from 10 days to 20 days
+afterreceivingnoticeoftheclaim.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER50
+HB1168-FINALVERSION
+03/05/2026 0786s 26-2459
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoemployerdocumentationrequirements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 50:1 PaymentofWages;Enforcement. AmendRSA275:51,Vtoreadasfollows:
+2 V. A wage claim may be filed by an employee or by the department on its own motion no later
+3 than 36 months from the date the wages were due. The commissioner shall notify the employer by
+4 serving upon the employer a copy of such claim and an order to file with the commissioner within [10]20
+5 daysfromthereceiptofsuchnoticeanyobjectionstosuchclaimspecifyingthegroundstherefor. Service
+6 maybebycertifiedmailwithreturnreceipt. Ifobjectionisnotmadewithin[10]20days,thecommissioner
+7 may order that payment be made in accordance with the claim. If requested, a hearing shall be afforded
+8 at which time any party may appear, with counsel if desired, and present evidence and cross-examine
+9 opposing witnesses. Any party, at the party's own expense, may cause a record to be made of the
+10 hearing. A written decision shall be made within 30 days after the hearing stating the decision and
+11 specifying the facts and conclusions upon which the decision is based. If wages are found to be due, an
+12 order for payment shall issue. Any party aggrieved by the decision may appeal to the superior court not
+13 laterthan20daysfromthedatethereofbypetition,settingforththatthedecisioniserroneous,inwholeor
+14 inpart,andspecifyingthegroundsuponwhichthedecisionisclaimedtobeinerror. Uponthefilingofan
+15 appeal, the commissioner shall transfer to the court the record of the proceeding or a certified copy
+16 thereof. The scopeof reviewby thesuperior court shall be limitedto questionsof law. After hearing and
+17 uponconsiderationoftherecord,thecourtmayaffirm,vacateormodifyinwholeorinpartthedecisionof
+18 thecommissioner,ormayremandthemattertothecommissionerforfurtherfindings. Intheabsenceofa
+19 seasonableappeal,thedecisionandordershallbefinal,shall beentereduponthedocket ofthesuperior
+20 courtattherequestoftheprevailingparty,maybeenforcedasajudgmentofthecourt,andshallbealien
+21 upon the property of the employer situated in the state for a period of 3 years from the time of the
+22 decision. It is a requirement of this chapter for purposes of RSA 275:52 that a final order be immediately
+23 satisfiedbytheemployer.
+50:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May08,2026
+EffectiveDate:July07,2026

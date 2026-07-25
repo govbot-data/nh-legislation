@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1227 -ASINTRODUCED
+2026SESSION
+26-2722
+09/05
+1227
+HOUSEBILL
+ANACT relativetothecalculationofthelocaltaxcap.
+SPONSORS: Rep.Gruber,Ches.16;Rep.Turer,Rock.6;Sen.Fenton,Dist10
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill changes the calculation of the local tax cap to require that the amount of any new
+annual debt service approved by the legislative body as part of a bond vote at an annual or special
+meetingshallbeincludedinthetaxbaseoncerepaymentbegins.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1227-ASINTRODUCED
+26-2722
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecalculationofthelocaltaxcap.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Preparation of Budgets; Local Tax Cap. Amend RSA 32:5-b, I-a through I-b(a) to read as
+2 follows:
+3 I-a. If the local taxes raised for the prior year were reduced by any fund balance brought
+4 forward from previous years, the amount of such reduction shall be added back and included in the
+5 amount to which the tax cap is applied under paragraph I. The amount of any new annual debt
+6 service approved by the legislative body as part of a bond vote at an annual or special
+7 meetingshallbeincludedinthetaxbaseoncerepaymentbegins.
+8 I-b.(a) In a town or district that has adopted this paragraph, a tax cap limiting the base
+9 amount to be raised by property taxes to last year's base shall be adjusted to account for inflation
+10 and change in population for towns or village districts, or attendance for school districts, and the
+11 amount of any new annual debt service approved by the legislative body as part of a bond
+12 vote at an annual or special meeting shall be included in the tax base once repayment
+13 begins, according to the following formula: This year's base = (Last year's base plus newly
+14 approved annual debt service at the previous annual meeting and special meeting) x (1 +
+15 CPI)x(Thisyear'spopulationorattendance/Lastyear'spopulationorattendance).
+16 2 Applicability. RSA 32:5-b as amended by section 1 of this act shall apply to the local tax caps
+17 adopted prior to the effective date of this act and shall not require local amendment or re-adoption
+18 bythetownordistrict.
+19 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1672-FN-ASINTRODUCED
+2026SESSION
+26-2763
+07/08
+1672-FN
+HOUSEBILL
+ANACT requiring schools to present line-item expenses as part of the school budget
+process.
+SPONSORS: Rep.Morse,Merr.3
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresschoolstopresentline-itemexpensesaspartoftheschoolbudgetprocess.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1672-FN-ASINTRODUCED
+26-2763
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring schools to present line-item expenses as part of the school budget
+process.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Education; School Performance and Accountability; Annual Expense Report.
+2 AmendRSA193-Hbyinsertingaftersection5thefollowingnewsection:
+3 193-H:6 Annual Expense Report. Notwithstanding any provision of law to the contrary, all
+4 schools shall publish an annual line-item expense report detailing how school funds are spent, with
+5 theexceptionofstaffnamesandcorrespondingsalaries.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2763
+12/9/25
+HB1672-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring schools to present line-item expenses as part of the school budget
+process.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill, effective for the 2026-2027 school year, requires school districts to provide a line-item
+expense report detailing how funds are spent. However, it does not specify the required level of
+detail or the method of publication. The Department of Education anticipates that, for most
+districts, the existing level of expense detail already maintained and reported would meet the
+bill’s requirements. These districts would likely comply at no additional cost by simply posting
+the report on their websites. However, due to the bill’s lack of clarity regarding reporting
+granularity and publication methods, some districts may interpret it as requiring enhanced
+reporting and dissemination efforts. For these districts, compliance could involve additional
+costs, such as software upgrades or printing expenses. Ultimately, the fiscal impact of this bill
+on local school districts is indeterminable and would vary depending on each district’s
+interpretationandexistingreportinginfrastructure.
+AGENCIESCONTACTED:
+DepartmentofEducation

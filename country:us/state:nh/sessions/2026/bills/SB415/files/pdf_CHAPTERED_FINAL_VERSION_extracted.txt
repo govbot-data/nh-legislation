@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER245
+SB415-FINALVERSION
+02/19/2026 0672s
+7May2026...1576h
+2026SESSION
+26-2266
+07/09
+415
+SENATEBILL
+ANACT relative to a certain exemption in interest in condominium units and abbreviated
+registrations.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Watters, Dist 4; Sen. Long, Dist 20; Sen.
+Altschiller,Dist24
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Expands the scope of the exemption from the condominium act governing offers or disposition of
+interestsinacondominiumunit.
+II. Repealsabbreviatedcondominiumregistrations.
+III. Establishesacommissiontostudycondominiumstatutes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER245
+SB415-FINALVERSION
+02/19/2026 0672s
+7May2026...1576h 26-2266
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to a certain exemption in interest in condominium units and abbreviated
+registrations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 245:1 Trade and Commerce; Condominium Act; Exemptions. Amend RSA 356-B:49, I(a) to read as
+2 follows:
+3 (a) If not more than [10]25units are included in the condominium; provided, however, this
+4 exemptionshallnotapplytoacondominiuminvolvingtimesharinginterests;
+5 245:2 CondominiumAct;GeneralPrinciples;Application. AmendRSA356-B:2,IIItoreadasfollows:
+6 III. NotwithstandingtheprovisionsofparagraphI,ifanycondominiuminstrumentrecordedunder
+7 RSA 479-A prior to September 10, 1977, shall be amended after September 10, 1977, for the purpose of
+8 creating10ormoreadditionalunitsinanysuchcondominiumproject,thissubdivision,GeneralPrinciples,
+9 and subdivision IV, Administration and Enforcement, shall apply to said additional units. If said
+10 amendment creates 10 or more, but less than 26, additional units, the applicant shall be permitted to
+11 make an abbreviated registration [pursuant to RSA 356-B:51, II,] and shall not be required to prepare a
+12 public offering statement pursuant to RSA 356-B:52; provided, however, this sentence shall not apply if
+13 timesharinginterestsareofferedwithrespecttosuchadditionalunits.
+14 245:3 Condominium Act; Administration and Enforcement; Application for Registration; Fee. Amend
+15 RSA356-B:51,I(u)toreadasfollows:
+16 (u) Any other information including any current financial statement, which the attorney
+17 general by rules reasonably requires for the protection of purchasers. If the declarant is a corporation,
+18 limited liability company, or other entity, [personal financial statements from all principals holding more
+19 than a 25 percent ownership interest in the declarant, certified as true and complete by the individual
+20 principals, accompanied by federal income tax returns for the 2 most recent full calendar years, may be
+21 submittedinlieuoffinancialstatementsforthedeclarant]theattorneygeneralmayrequiredocumentation
+22 demonstratingthefinancialcapacitytofinanceandcompletetheproject. Financial information filed with
+23 the attorney general shall not be disclosed publicly except in connection with a hearing, civil action, or
+24 criminalactioninvolvingthepartywhosubmittedtheinformation.
+25 245:4 Condominium Act; Administration and Enforcement; Public Offering Statement. Amend RSA
+26 356-B:52,IVtoreadasfollows:
+27 IV. Any declarant permitted to make an abbreviated registration [pursuant to RSA 356-B:51, II],
+28 and any declarant of a condominium which has been registered under the federal Interstate Land Sales
+29 FullDisclosureAct,isnotrequiredtoprepareapublicofferingstatementtobeusedinconnectionwiththe
+30 offerordispositionofanyunitofthecondominium.
+
+CHAPTER245
+SB415-FINALVERSION
+-Page2-
+1 245:5 New Subdivision; Commission to Study the New Hampshire Condominium Act. Amend RSA
+2 356-Bbyinsertingaftersection70thefollowingnewsubdivision:
+3 CommissiontoStudytheNewHampshireCondominiumAct
+4 356-B:71 CommissiontoStudytheNewHampshireCondominiumAct.
+5 I. There is established a commission to study RSA 356-B (condominium act), including, but not
+6 limitedto,thecondominiumregistrationprocessadministeredbythedepartmentofjustice.
+7 II. NotwithstandingRSA14:49,II(c),themembersofthecommissionshallbeasfollows:
+8 (a) Two members of the house of representatives, one of whom shall be a member of the
+9 minorityparty,appointedbythespeakerofthehouseofrepresentatives.
+10 (b) Onememberofthesenate,appointedbythepresidentofthesenate.
+11 (c) One individual with experience developing condominium projects in New Hampshire,
+12 appointedbythespeakerofthehouseofrepresentatives.
+13 (d) Onerepresentativeofthedepartmentofjustice,appointedbytheattorneygeneral.
+14 (e) One New Hampshire-licensed real estate attorney with experience in condominium law,
+15 appointedbythepresidentofthesenate.
+16 III. Legislative members of the commission shall receive mileage at the legislative rate when
+17 attendingtothedutiesofthecommission.
+18 IV. Thecommissionshall:
+19 (a) Review existing statutory and regulatory requirements governing condominium
+20 developmentinNewHampshire;
+21 (b) Identify opportunities to modernize the law, reduce unnecessary administrative burdens,
+22 andsupportthecreationofqualityhomeownershipopportunities;
+23 (c) Makerecommendationsthatmakeiteasiertodevelopcondominiumsandexpandaccess
+24 toattainableownershipopportunitiesforGraniteStaters;
+25 (d) Review the condominium registration process under RSA 356-B, including timelines,
+26 costs,andadministrativerequirements;
+27 (e) Evaluate whether the current registration process appropriately balances consumer
+28 protectionwiththeneedtofacilitatecondominiumdevelopment;
+29 (f) Identifybarrierswithinthecondominiumactthatmaydiscourageordelaytheconstruction
+30 ofnewcondominiumunits;
+31 (g) Compare New Hampshire’s condominium laws and registration requirements with those
+32 ofotherstates,includingstatesthatdonotrequiredeveloperregistration;
+33 (h) Assess whether existing statutory provisions reflect current market conditions,
+34 constructionpractices,andhousingneeds;
+35 (i) Examine opportunities to streamline, modernize, or eliminate outdated or duplicative
+36 requirements;
+37 (j) Consider recommendations to expand attainable homeownership opportunities through
+38 condominiumdevelopment,includingforfirst-timehomebuyersandworkforcehouseholds;
+
+CHAPTER245
+SB415-FINALVERSION
+-Page3-
+1 (k) Recommend legislative or regulatory changes that would reduce unnecessary red tape;
+2 and
+3 (l) Study any other related provisions of RSA 356-B that the commission deems relevant to
+4 increasingthesupplyofownershiphousinginNewHampshire.
+5 V. The members of the study commission shall elect a chairperson from among the members.
+6 The first meeting of the commission shall be called by the first-named house member. The first meeting
+7 of the commission shall be held within 45 days of the effective date of this section. Four members of the
+8 commissionshallconstituteaquorum.
+9 VI. Thecommissionshallreportitsfindingsandanyrecommendationsforproposedlegislationto
+10 the speaker of the house of representatives, the president of the senate, the chair of the house housing
+11 committee, the chair of the senate commerce committee, the house clerk, the senate clerk, the governor,
+12 andthestatelibraryonorbeforeNovember1,2027.
+13 245:6 Repeal. RSA356-B:51,II,relativetoabbreviatedcondominiumregistrations,isrepealed.
+14 245:7 Prospective Repeal. RSA 356-B:71, and the subdivision heading preceding it, relative to the
+15 commissiontostudytheNewHampshirecondominiumact,isrepealed.
+16 245:8 EffectiveDate.
+17 I. Section7ofthisactshalltakeeffectNovember1,2027.
+II. Theremainderofthisactshalltakeeffectuponitspassage.
+Approved:July02,2026
+EffectiveDate:
+I.Section7effectiveNovember1,2027
+II.RemaindereffectiveJuly2,2026

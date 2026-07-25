@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1492-FN-ASINTRODUCED
+2026SESSION
+26-2310
+06/08
+1492-FN
+HOUSEBILL
+ANACT relative to the regulation and appeal of motor vehicle towing from public
+highways.
+SPONSORS: Rep.Leishman,Hills.33;Rep.Cloutier,Sull.6
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the department of safety to oversee and set fees for towing and wrecker
+services on state highways. It establishes an appeals process for disputes over such fees and
+empowersthedepartmentofsafetytoadoptrulestoadministerandenforcetheseprovisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1492-FN-ASINTRODUCED
+26-2310
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the regulation and appeal of motor vehicle towing from public
+highways.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Towing and Wrecker Service Fees on State Highways. Amend RSA 262 by
+2 insertingaftersection40-cthefollowingnewsubdivision:
+3 TowingandWreckerServiceFeesonStateHighways
+4 262:40-d Purpose. The purpose of this subdivision is to establish departmental oversight of fees
+5 charged for the towing or removal of vehicles from state highways, to require such fees to be
+6 reasonable,andtoensurethepublichasaccesstoafairprocessforappealingdisputedtowingfees.
+7 262:40-e OversightofTowingandWreckerCharges.
+8 I. The department of safety shall oversee fees charged for the towing or removal of vehicles
+9 fromstatehighways.
+10 II. The department of safety shall establish schedules of maximum allowable fees for towing
+11 and wrecker services on state highways, ensuring fees are fair and reasonable considering costs and
+12 regionalstandards.
+13 262:40-f RulemakingAuthority.
+14 I. The commissioner of safety shall adopt rules, pursuant to RSA 541-A, to implement and
+15 enforcethissubdivision,includingbutnotlimitedto:
+16 (a) Procedures for the approval or modification of towing or wrecker service fee
+17 schedules;
+18 (b) Requirementsfornoticetovehicleownersregardingfees;and
+19 (c) Standardsforrecordkeepingandreportingbytowingandwreckerservices.
+20 262:40-g AppealsProcessforTowingFees.
+21 I. Any owner or operator of a vehicle towed from a state highway may appeal a towing or
+22 wreckerfeedeemedunreasonableorexcessivetothedepartmentofsafety.
+23 II. Thedepartmentofsafetyshallestablishbyruleanadministrativeprocessforreviewand
+24 determination of such appeals. The department’s decision shall be final for purposes of
+25 administrativereview.
+26 262:40-h Severability. If any provision of this subdivision or the application thereof to any
+27 person or circumstances is held invalid, such invalidity shall not affect other provisions or
+28 applications of the subdivision that can be given effect without the invalid provision or application,
+29 andtothisend,theprovisionsofthissubdivisionaredeclaredtobeseverable.
+30 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2310
+12/2/25
+HB1492-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the regulation and appeal of motor vehicle towing from public
+highways.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $233,000 $234,000 $238,000
+FundingSource(s) GeneralFundandHighwayFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill authorizes the Department of Safety to regulate and set maximum allowable fees for
+towing and wrecker services on state highways. The bill requires the Department to adopt rules
+governing fee schedules, notice to vehicle owners, and recordkeeping by towing companies. The
+bill also creates an administrative appeals process allowing vehicle owners or operators to
+challenge towing fees they believe are excessive, with the Department’s decision being final for
+administrativepurposes. The Departmentstatesit wouldneedtwonewpersonneltoadminister
+this bill; one Detective Sergeant at an annual cost of approximately $157,000 per year and one
+administrative secretary (SOC 43-04) at a cost of approximately $76,000 in FY 2027, $77,000 in
+FY 2028, and $81,000 in FY 2029. The positions would be 75% general fund and 25% highway
+fund,however,thisbillprovidesneitherfundingnorauthorizationfornewpersonnel.
+AGENCIESCONTACTED:
+DepartmentofSafety

@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1662-FN-ASINTRODUCED
+2026SESSION
+26-2874
+07/06
+1662-FN
+HOUSEBILL
+ANACT relativetoprovidingloanguaranteesforaccessorydwellingunitfinancing.
+SPONSORS: Rep. Muns, Rock. 29; Rep. de Vries, Rock. 29; Rep. Hegner, Hills. 41; Rep.
+Howland, Straf. 20; Rep. Lane, Merr. 16; Rep. Maggiore, Rock. 23; Rep. Read,
+Rock.10;Rep.Stavis,Graf.13;Sen.Altschiller,Dist24;Sen.PerkinsKwoka,Dist
+21
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the housing finance authority to offer loan guarantees for approved lenders
+who issue loans for accessory dwelling unit development projects and provides an appropriation to
+thehousingfinanceauthority.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1662-FN-ASINTRODUCED
+26-2874
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoprovidingloanguaranteesforaccessorydwellingunitfinancing.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Housing and Development; Housing Finance Authority; Low-Cost Financing for
+2 Developers and Homeowners. Amend RSA 204-C by inserting after section 92 the following new
+3 section:
+4 204-C:93 Low-Cost Financing for Developers and Homeowners. Notwithstanding any provision
+5 of law to the contrary, the housing finance authority (HFA) shall offer lenders who have previously
+6 been approved to provide financing through HFA financing loan guarantees for accessory dwelling
+7 unit (ADU) developers and homeowners. The HFA shall issue loan guarantees between 80 percent
+8 loan to value (LTV) and 100 percent LTV based on the appraised value of a completed ADU. The
+9 HFAshallnotissuemorethan$100,000,000inADUloanguaranteesannually.
+10 2 Appropriation; Housing Finance Authority. The sum of $25,000 for the fiscal year ending
+11 June 30, 2027 and $25,000 for the fiscal year ending June 30, 2028 are hereby appropriated to the
+12 housingfinanceauthorityforthepurposeofoffsettingthehousingfinanceauthority'sadministrative
+13 costs associated with establishing and managing the accessory dwelling unit's loan guarantee
+14 program. The governor is authorized to draw a warrant for said sum out of any money in the
+15 treasurynototherwiseappropriated.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2874
+12/1/25
+HB1662-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoprovidingloanguaranteesforaccessorydwellingunitfinancing.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $25,000 $25,000 $25,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $25,000 $25,000 $0
+FundingSource(s)
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the New Hampshire Housing Finance Authority (NHHFA) to offer loan
+guarantees to approved lenders for financing accessory dwelling units (ADUs). These
+guaranteeswouldcoverbetween80%and100%oftheloanamountbasedontheappraisedvalue
+of the completed ADU. The total amount of guarantees issued each year would be capped at
+$100 million. Additionally, this bill provides a $25,000 appropriation in fiscal year 2027 and
+$25,000 in fiscal year 2028 to the Housing Finance Authority for the purpose of offsetting the
+administrativecosts.
+The NHHFA anticipates annual administrative and staffing costs of approximately $25,000,
+whichwouldinitiallybecoveredbyGeneralFunds. However,NHHFAisexpectedtooffsetthese
+costsovertimebycharginglendersasmallmonthlyfee.
+AGENCIESCONTACTED:
+NewHampshireHousingFinanceAuthority

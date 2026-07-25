@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1834-FN-ASINTRODUCED
+2026SESSION
+26-3182
+04/09
+1834-FN
+HOUSEBILL
+ANACT relativetotheeducationfreedomaccountenrollmentcap.
+SPONSORS: Rep. Weinstein, Rock. 10; Rep. Bricchi, Merr. 15; Rep. M. Murray, Hills. 37; Rep.
+Selig, Straf. 10; Rep. Cornell, Hills. 22; Rep. Balboni, Rock. 38; Rep. Woodcock,
+Carr.1;Rep.Luneau,Merr.9;Rep.Damon,Sull.8
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilllimitsthenumberofeducationfreedomaccountsallowedthrough2027.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1834-FN-ASINTRODUCED
+26-3182
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheeducationfreedomaccountenrollmentcap.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Application for Education Freedom Accounts; Enrollment Cap. Amend RSA 194-F:3, I-a to
+2 readasfollows:
+3 I-a. For the 2025-2026 and the 2026-2027 school year, the enrollment cap shall be 10,000.
+4 For each subsequent year, if the total enrollment of the prior year is greater than 90 percent of the
+5 prior year's enrollment cap, then the enrollment cap shall be increased once by 25 percent when
+6 enrollment begins for the year. The department of education shall publish on its website
+7 informationidentifyingtheenrollmentcapwhenitisincreasedpursuanttothisparagraph.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3182
+Revised1/12/26
+HB1834-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheeducationfreedomaccountenrollmentcap.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Decreaseof
+Expenditures* $0 Approximately Indeterminable
+$6.3Million
+FundingSource(s) EducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 Indeterminable
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill extends the school year 2025-2026 (FY 2026) Education Freedom Account (EFA)
+program participation cap of 10,000 through the 2026-2027 school year (FY 2027). Under
+current law, the school year 2026-2027 cap is set to increase to 12,500. This bill would have FY
+2028bethefirstyearinwhichacapadjustmentwouldoccur.
+InFY2026,thenumberofstudentsenrolledintheEFAprogramfortheNovemberpaymentwas
+10,510 (current law allows priority students to continue enrolling after the cap is met, with no
+restrictions). Current law also specifies that existing EFA students qualify for priority status in
+subsequent years. Based on these provisions in the law and the current number of enrollees, it
+is known that the total number of EFA students in FY 2027 will exceed 10,000 despite holding
+the cap constant. Based on trends in the enrollment of priority students, the Department of
+Educationestimates11,250studentsinFY2027.
+
+The estimated impact of the proposed bill in FY 2027 using the assumptions outlined above, and
+holdingtheshare of students qualifyingfor differential aid constant at theNovember 2025 level,
+isoutlinedinthetablebelow:
+Estimated AverageCost ExpectedAnnual
+FY2027
+Enrollment PerStudent Expenditures
+CurrentLaw 12,500 $5,010 $62,625,000
+ProposedBill 11,250 $5,010 $56,362,500
+Decrease ($6,262,500)
+Based on these assumptions, this bill would result in a decrease in EFA expenditures of just
+under $6.3 million in FY 2027. Non-priority students who would have participated in the EFA
+program under current law in school year 2026-2027, and beyond, but will be prevented from
+participating by the reduced cap, will have to seek alternative educational pathways. Some of
+these, such as non-public schools and home education, yield no additional costs for the state,
+while district and charter schools could net costs greater than those saved by the decrease in
+EFA student enrollments proposed by the law. Actual costs would depend on the number of
+students selecting each of these alternatives, which is uncertain. The following provides
+informationaboutdifferentscenariosunderwhichastudentmayaccesstheEFAprogram:
+ Students entering the program from home education or non-public systems would result
+in an increased expense for the state equal to the cost of the average EFA grant in the
+respectiveyear.
+ Students entering the program from an in-person chartered public school would have a
+net savings for the state of $5,407 (FY 2027 charter adequacy aid of $10,417 minus the
+averageEFAgrantinthatyear).
+ Students entering the program from a district public school would have a net cost to the
+state if the student left a community with a statewide education property tax (SWEPT)
+grant in excess of the calculated cost of an adequate education. This net cost would be
+equal to the amount of the average EFA grant, which is estimated to be $5,010 per
+studentforFY2027.
+ Students entering the program from a public district school in a non-excess SWEPT
+community would result in a decrease to the adequacy grant for their resident district.
+This decrease is estimated to be $2,040 (FY 2027 non-excess SWEPT community of
+$7,050 minus the average EFA grant in FY 2027) based on the difference between the
+averagetotalgrantperstudent.
+AGENCIESCONTACTED:
+DepartmentofEducation

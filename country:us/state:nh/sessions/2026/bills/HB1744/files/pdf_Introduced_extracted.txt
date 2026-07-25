@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1744-FN-ASINTRODUCED
+2026SESSION
+26-2865
+05/08
+1744-FN
+HOUSEBILL
+ANACT relative to oversight and reporting requirements for health insurance carriers
+regardingmentalhealthcoverage.
+SPONSORS: Rep.Hartnett, Hills.41; Rep. Burroughs,Carr. 2;Rep. M. Pearson,Rock. 34; Rep.
+Raymond, Hills. 5; Rep. Wallner, Merr. 19; Sen. Long, Dist 20; Sen. Rosenwald,
+Dist13
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes reporting requirements for health insurance carriers regarding mental
+health and substance use disorder coverage. The bill directs the insurance commissioner shall
+review reports annually to ensure compliance with state and federal requirements. The bill directs
+the commissioner of health and human services to compile similar information regarding mental
+healthandsubstanceusedisordercoverageunderthestateMedicaidprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1744-FN-ASINTRODUCED
+26-2865
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to oversight and reporting requirements for health insurance carriers
+regardingmentalhealthcoverage.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Managed Care Law; Mental Health Coverage Reporting and Oversight. Amend
+2 RSA420-Jbyinsertingaftersection6-ethefollowingnewsection:
+3 420-J:6-e MentalHealthCoverageReportingandOversight.
+4 I. Each health insurance carrier offering health benefit plans in this state shall submit an
+5 annual report to the insurance department, no later than March 1 of each year, detailing the
+6 carrier's policies, procedures, and data regarding mental health and substance use disorder
+7 coverage,includingbutnotlimitedto:
+8 (a) Utilization management practices, including prior authorization, step therapy, and
+9 medicalnecessitycriteria.
+10 (b) Claims denial rates for mental health and substance use disorder services compared
+11 tomedical/surgicalservices.
+12 (c) Averagewaittimesforin-networkmentalhealthproviderappointments.
+13 (d) Provider network adequacy specific to mental health and substance use disorder
+14 care.
+15 (e) Effortstoensurecompliancewithfederalmentalhealthparitylaws.
+16 II. Reportsshallbesubmittedinaformprescribedbytheinsurancecommissionerandmade
+17 publiclyavailable,withde-identifiedaggregatedatatoprotectpatientprivacy.
+18 III. The insurance commissioner shall review reports annually to ensure compliance with
+19 stateandfederalrequirements.
+20 IV. The commissioner may adopt rules under RSA 541-A to enforce this section, including
+21 establishingpenaltiesforfailuretosubmitcompleteortimelyreports.
+22 V. The commissioner shall prepare a biennial report to the general court summarizing
+23 trends,compliancestatus,andrecommendationsforlegislativeaction.
+24 VI. Thissectionshallapplytohealthcarriersprovidingcoverage undertheNewHampshire
+25 graniteadvantagehealthcareprogrampursuanttoRSA126-AA.
+26 2 New Paragraph; Department of Health and Human Services; Mental Health Coverage
+27 Reporting and Oversight. Amend RSA 126-A:3 by inserting after paragraph X the following new
+28 paragraph:
+29 XI. Beginning March 1, 2027 and annually thereafter, the commissioner of the department
+30 of health and human services shall prepare a detailed report regarding the scope and adequacy of
+
+HB1744-FN-ASINTRODUCED
+-Page2-
+1 mental health coverage and substance use disorder treatment available under the state Medicaid
+2 plan, Medicaid managed care waivers and 1115 demonstrations. The commissioner shall submit the
+3 report to the speaker of the house of representatives, the senate president, and the governor and
+4 shall make the report available on the department's website. The report shall include the data and
+5 informationregarding:
+6 (a) Utilization management practices, including prior authorization, step therapy, and
+7 medicalnecessitycriteria.
+8 (b) Claims denial rates for mental health and substance use disorder services compared
+9 tomedical/surgicalservices.
+10 (c) Averagewaittimesforin-networkmentalhealthproviderappointments.
+11 (d) Provider network adequacy specific to mental health and substance use disorder
+12 care.
+13 (e) Effortstoensurecompliancewithfederalmentalhealthparitylaws.
+14 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2865
+12/15/25
+HB1744-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to oversight and reporting requirements for health insurance carriers
+regardingmentalhealthcoverage.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) Insurancepremiumtaxrevenue
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+asintroduced,asitisawaitinginformationfromtheDepartmentofHealthandHumanServices.
+The Department was originally contacted on 11/18/25 and again on 12/11/25 for a fiscal note
+worksheet. Whencompleted,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice
+METHODOLOGY:
+This bill adds a new reporting requirement for health carriers specific to mental health and
+substance use disorder service. As with all reporting and data submissions, the Insurance
+Department assumes there will be an increased administrative cost for health insurance
+carriers. Any such costs could impact premiums and premium tax revenues to an
+indeterminableextent.
+In addition, the bill requires the Department of Health and Human Services to compile similar
+information on mental health and substance use disorder services under the state Medicaid
+program. TheDepartmenthasnotyetprovidedinformationrelativetothecostofthebill.
+AGENCIESCONTACTED:
+DepartmentsofInsuranceandHealthandHumanServices

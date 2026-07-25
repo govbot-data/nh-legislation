@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1733-ASAMENDEDBYTHEHOUSE
+5Mar2026...0752h
+2026SESSION
+26-2774
+06/08
+1733
+HOUSEBILL
+ANACT relative to default electric service procurement and the recovery of competitive
+marketsupplycosts.
+SPONSORS: Rep.Harrington,Straf.18
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the public utilities commission to use fixed-price contracts for default services
+andlimitsrelianceonreal-timeorday-aheadmarketpurchases.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1733-ASAMENDEDBYTHEHOUSE
+5Mar2026...0752h 26-2774
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to default electric service procurement and the recovery of competitive
+marketsupplycosts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 RestructuringPolicyPrinciples. AmendRSA374-F:3,V(e)toreadasfollows:
+2 (e) Notwithstanding any provision of subparagraphs (b) and (c), as competitive markets
+3 develop, the commission may approve alternative means of providing transition or default services
+4 which are designed to minimize customer risk, not unduly harm the development of competitive
+5 markets, and mitigateagainst pricevolatility without creating new deferred costs, if the commission
+6 determines such means to be in the public interest. Any such means for residential and small
+7 commercial customers shall involve only the use of fixed-price contracts and not involve
+8 purchases from the real-time or day-ahead ISO New England markets unless fixed-price
+9 contracts of sufficient size cannot be obtained, in which case purchases in these markets
+10 may be used to compensate for any deficiency. Any reconciliation for overpayment or
+11 underpayment of default service rates needed as the result of a utility procuring supply in
+12 the real-time or day-aheadISO New Englandmarkets shall be accomplished only by future
+13 changestothe defaultservice ratesasapprovedbythe commission. Nosuchreconciliation
+14 shall be collected as a non-bypassable charge. Such reconciliations shall be amortized
+15 over a period not to exceed 2 consecutive default service rate cycles, beginning with the
+16 February2027defaultserviceratecycle.
+17 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

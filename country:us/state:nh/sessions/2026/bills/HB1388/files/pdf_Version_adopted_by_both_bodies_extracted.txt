@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1388-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-3190
+08/07
+1388
+HOUSEBILL
+ANACT relativetotheformofballotforamendmentstotheconstitution.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Burnham, Straf. 2; Rep. McFarlane, Graf. 18; Rep.
+SabourinditChoiniere,Rock.30;Rep.Wood,Merr.13
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill limits the form of ballot for amendments to the constitution to one amendment per
+question.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1388-VERSIONADOPTEDBYBOTHBODIES
+26-3190
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheformofballotforamendmentstotheconstitution.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FormofBallot. AmendRSA663:3toreadasfollows:
+2 663:3 Form of Ballot. The followingwords shall beprinted above the constitutional amendment
+3 questions on all ballots containing such questions: "Questions Relating to Constitutional
+4 Amendments Proposed by the Convention to Revise the Constitution" or "Questions Relating to
+5 Constitutional Amendments Proposed by the Legislature to Revise the Constitution," whichever is
+6 appropriate. A constitutional question shall include, in the text of the question, the text of the
+7 article of the constitution as it is proposed to be amended, and the results of the vote taken on
+8 ordering the proposed amendment to third reading in both the senate and the house of
+9 representatives or at the constitutional convention, whichever is appropriate. In all
+10 circumstances, each constitutional amendment question shall be presented in a manner
+11 that the voter is making a single choice on a single constitutional amendment question.
+12 Under no circumstance shall a voter be asked to make a single vote on multiple
+13 constitutionalamendmentquestions.
+14 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

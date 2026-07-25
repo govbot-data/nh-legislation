@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1333-FN-ASINTRODUCED
+2026SESSION
+26-2917
+09/08
+1333-FN
+HOUSEBILL
+ANACT relative to nonconsensual provision of medication intended to terminate a
+pregnancyandthehomicideofafetus.
+SPONSORS: Rep. Aures, Merr. 13; Rep. Granger, Straf. 2; Rep. Love, Rock. 13; Rep. Noble,
+Hills.2;Rep.Notter,Hills.12;Rep.Sellers,Graf.10;Rep.Wood,Merr.13
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Allows a first-degree murder charge to be brought against a person who administers a
+medication intended to terminate a pregnancy to a pregnant woman without the knowledge and
+consentofapregnantwoman.
+II. Amends when a homicide charge can be brought when the fetus is a victim from 20 weeks to
+conception,orinthecaseofinvitrofertilization,implantation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1333-FN-ASINTRODUCED
+26-2917
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to nonconsensual provision of medication intended to terminate a
+pregnancyandthehomicideofafetus.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FirstDegreeMurder;FetalHomicide. AmendRSA630:1-a,I(b)(4)toreadasfollows:
+2 (4) The president or president-elect or vice-president or vice-president-elect of the
+3 United States, the governor or governor-elect of New Hampshire or any state or any member or
+4 member-elect of the congress of the United States, or any candidate for such office after such
+5 candidate has been nominated at his party's primary, when such killing is motivated by knowledge
+6 oftheforegoingcapacityofthevictim;
+7 (5) A fetus through the provision of medication to a pregnant woman
+8 intended to terminate a pregnancy, without the knowledge or consent of the pregnant
+9 woman.
+10 2 Homicide;FetusDefinition. AmendRSA630:1-a,V(b)(1)toreadasfollows:
+11 (1) "Fetus" means an unborn offspring, from the embryo stage [which is the end of
+12 the twentieth week] after conception or, in the case of in vitro fertilization, [the end of the twentieth
+13 week]afterimplantation,untilbirth.
+14 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2917
+11/4/25
+HB1333-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to nonconsensual provision of medication intended to terminate a
+pregnancyandthehomicideofafetus.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

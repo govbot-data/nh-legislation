@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1733-ASAMENDEDBYTHESENATE
+5Mar2026...0752h
+04/16/2026 1429s
+2026SESSION
+26-2774
+06/08
+1733
+HOUSEBILL
+ANACT relativetothereconciliationofdefaultelectricservicerates.
+SPONSORS: Rep.Harrington,Straf.18
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits utilities from collecting default electric service cost reconciliations through
+non-bypassable charges except when the commission, through an adjudicative proceeding, finds
+extraordinarycircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1733-ASAMENDEDBYTHESENATE
+5Mar2026...0752h
+04/16/2026 1429s 26-2774
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothereconciliationofdefaultelectricservicerates.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 RestructuringPolicyPrinciples. AmendRSA374-F:3,V(e)toreadasfollows:
+2 (e) Notwithstanding any provision of subparagraphs (b) and (c), as competitive markets
+3 develop, the commission may approve alternative means of providing transition or default services
+4 which are designed to minimize customer risk, not unduly harm the development of competitive
+5 markets, and mitigateagainst pricevolatility without creating new deferred costs, if the commission
+6 determines such means to be in the public interest. No reconciliation of actual and estimated
+7 wholesale power supply costs incurred by a utility to provide default service shall be
+8 recovered through a non-bypassable charge, except in extraordinary circumstances as
+9 foundtoexistbythecommissionthroughanadjudicativeproceeding.
+10 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

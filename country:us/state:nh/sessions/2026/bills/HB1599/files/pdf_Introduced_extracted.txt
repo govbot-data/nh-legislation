@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1599-FN-ASINTRODUCED
+2026SESSION
+26-3187
+04/09
+1599-FN
+HOUSEBILL
+ANACT allowing net operating losses to be carried forward in perpetuity following a loss
+year.
+SPONSORS: Rep. Janigian, Rock. 25; Rep. Aures, Merr. 13; Rep. Ulery, Hills. 13; Sen. Abbas,
+Dist22;Sen.Lang,Dist2
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillremovesthe10yearlimitationonnetoperationlossdeductions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1599-FN-ASINTRODUCED
+26-3187
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing net operating losses to be carried forward in perpetuity following a loss
+year.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Additions and Deductions; Net Operating Loss Deductions. Amend the introductory
+2 paragraphofRSA77-A:4,XIIItoreadasfollows:
+3 XIII. A deduction for the amount of the net operating loss carryover determined under
+4 section 172 of the United States Internal Revenue Code apportioned in the year incurred according
+5 to RSA 77-A:3. A net operating loss shall only be apportioned in the year incurred and not in the
+6 subsequent years it adjusts gross business profits. Net operating losses may [only] be carried
+7 forwardfor[the10]yearsfollowingthelossyear. Fortaxableperiodsending:
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3187
+12/3/25
+HB1599-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowing net operating losses to be carried forward in perpetuity following a loss
+year.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableDecrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill removes the 10-year limitation on the carryforward of net operating loss deductions
+(NOLDs) for Business Profits Tax (BPT) purposes. It would allow NOLDs to be carried forward
+indefinitely,aligningwithfederalprovisionsunderSection172oftheInternalRevenueCode.
+The Department of Revenue Administration (DRA) anticipates this bill will result in an
+indeterminable decrease in state revenues. The fiscal impact is difficult to quantify due to the
+uncertainty of future taxpayer liabilities, specifically, whether and when businesses will have
+sufficient profits to utilize carried-forward losses. The DRA notes that there are no new
+administrativecoststhatwouldimpacttheDepartment.
+The DRA reviewed return data and found that approximately $4.2 billion in NOLDs from tax
+year2012expiredin2022. Ata7.5%taxrate,thoselossescouldhaveoffsetupto$316.2million
+in BPT revenue, had they been used. The actual impact depends on whether taxpayers with
+those losses had sufficient profits in later years to apply them. For tax year 2023, the NOLDs
+actuallyusedwas$1.2billion,offsetting$88.5millioninrevenue.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

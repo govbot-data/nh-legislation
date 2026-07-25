@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1190-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0792s
+2026SESSION
+26-2488
+06/05
+1190-FN
+HOUSEBILL
+ANACT enabling the division of motor vehicles to create a temporary traditional driver's
+license for youth operators about to turn 21 and relative to fleet vehicle
+registrationrequirements.
+SPONSORS: Rep.Veilleux, Hills.34; Rep. Crawford,Carr. 3;Rep. Foote, Rock.13; Rep. Grund,
+Hills. 34; Rep. Petrigno, Hills. 43; Rep. Rombeau, Hills. 2; Rep. Scherr, Rock. 26;
+Sen.Fenton,Dist10;Sen.Long,Dist20;Sen.Watters,Dist4
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Allows the division of motor vehicles to create a temporary traditional driver's license for
+youthoperatorswhoseyouthoperatorlicensewillexpirein30daysorless.
+II. Revisesregistrationrequirementsandassociatedfeesforfleetvehicles.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1190-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0792s 26-2488
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling the division of motor vehicles to create a temporary traditional driver's
+license for youth operators about to turn 21 and relative to fleet vehicle
+registrationrequirements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;TemporaryLicensesforDriversTurning21. AmendRSA263:10byinserting
+2 afterparagraphIIthefollowingnewparagraph:
+3 III. Notwithstanding paragraphs I and II, the director may issue temporary licenses to
+4 youth operators who are transitioning pursuant to RSA 263:14 to operators' licenses, up to 30 days
+5 prior to their twenty-first birthday, provided that the physical license is delivered only on or after
+6 their twenty-first birthday. This temporary license shall be valid for driving purposes only until the
+7 new license is issued, and it shall remain valid for up to 60 days after the expiration of the youth
+8 operator's license. For all online renewals, a transaction receipt issued upon renewal through the
+9 division of motor vehicles website, when accompanied by the existing driver’s license, shall serve as
+10 thetemporarylicenseandproofofrenewal.
+11 2 New Paragraph; Certificates of Title and Registration of Vehicles; Fees to be Collected.
+12 AmendRSA261:141byinsertingafterparagraphVIthefollowingnewparagraph:
+13 VI-a. If a vehicle is to be registered in accordance with RSA 261:40-b, the following shall
+14 apply:
+15 (a) If an original registration, the month in which the anniversary of the owner's birth
+16 occurs will be one of the next 2 or 3 months, the fee shall be increased by 1/24 for each whole month
+17 orpartthereofremaininguntiltheendofthemonthinwhichsuchanniversarywilloccur.
+18 (b) If a vehicle has been previously registered pursuant to RSA 261:40-b, said vehicle
+19 registrationshallnotberenewedforlessthana24monthfee,providedthattherenewalregistration
+20 is effected within 24 months of the expiration of the registrant's last valid registration. If a vehicle
+21 has been previously registered, and the owner of said vehicle fails to renew the vehicle registration
+22 in the month said renewal was legally required to be made when said renewal is obtained within 24
+23 months of the last valid registration, the 24 month renewal fees charged hereunder shall be
+24 computed at the applicable mill rate which applied in the month when the vehicle should have been
+25 legally registered. If the registration is renewed beyond the 24 months immediately succeeding the
+26 last valid registration, the24 monthfee charged shall becomputed at the mill rate applicableon the
+27 date when any successive registration period would have begun, and the minimum fee in such cases
+28 shall be for 24 months, except in those cases where the registrant can demonstrate to the
+29 satisfaction of the director that the vehicle has not been operated since the expiration of the last
+
+HB1190-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 validregistration,inwhichcasetheregistrantmayregister attheapplicablemillrateonthedateof
+2 theregistration.
+3 3 New Paragraph; Certificates of Title and Registration of Vehicles; Fees for Registration
+4 Permits. AmendRSA261:153byinsertingafterparagraphIIIthefollowingnewparagraph:
+5 III-a. If a vehicle is to be registered in accordance with RSA 261:40-b, the following shall
+6 apply:
+7 (a) If the month in which the anniversary of the owner's birth occurs will be one of the
+8 next 2 or 3 months, the permit fee shall be increased by 1/24 for each whole month or part thereof
+9 remaining until the end of the month in which such anniversary will occur and the owner shall not
+10 berequiredtoobtainapermitforthenextregistrationperiod.
+11 (b) In all other cases for vehicles specified in RSA 261:40-b, the permit fee shall be
+12 determined by multiplying 1/24 of the permit fee for the vehicle times the total number of whole
+13 months and any part of a month remaining until the end of the month in which the anniversary of
+14 the owner's birth occurs, and the owner shall be required to obtain a permit for the next registration
+15 period.
+16 4 EffectiveDate.
+17 I. Section1ofthisactshalltakeeffectJuly1,2026.
+18 II. Theremainderofthisactshalltakeeffectuponitspassage.
+
+LBA
+26-2488
+03/11/2026
+HB1190-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0792s)
+ANACT enabling the division of motor vehicles to create a temporary traditional driver's
+license for youth operators about to turn 21 and relative to fleet vehicle
+registrationrequirements.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $48,000 $0 $0
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,
+costsassociatedwiththecollection/administrationofhighwayfundrevenue
+FundingSource(s)
+bytheDepartmentofSafetyisdeductedpriortofundsbeingcreditedas
+unrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill allows for the creation of a temporary traditional driver's license for youth operators
+whoseyouthoperatorlicensewillexpirein30daysorless. TheDepartmentofSafetystatesthis
+would require changes to two different systems at a one-time estimated cost of $48,000 to make
+thesechanges(240development,testingandimplementationhours@$200perhour).
+The Department states sections 2 and 3 of this bill, relative to vehicle registration changes, will
+havenoimpactonrevenueorexpenditures.
+AGENCIESCONTACTED:
+DepartmentofSafety

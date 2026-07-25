@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1048-FN-ASINTRODUCED
+2026SESSION
+26-2437
+09/06
+1048-FN
+HOUSEBILL
+ANACT relative to repealing the prohibition on the possession or sale of blackjacks, slung
+shots,andmetallicknucklesexceptbyortominors.
+SPONSORS: Rep. Spillane, Rock. 2; Rep. Cole, Hills. 26; Rep. Roy, Rock. 31; Rep. Ulery, Hills.
+13; Rep. D. Mannion, Rock. 25; Rep. Ammon, Hills. 42; Rep. Granger, Straf. 2;
+Sen.Murphy,Dist16;Sen.Pearl,Dist17
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill amends the prohibition against carrying or selling a blackjack, slung shot, or metallic
+knucklestoprohibitsaletoorpossessionofthesaiditemsbythoseunder18yearsofage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1048-FN-ASINTRODUCED
+26-2437
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to repealing the prohibition on the possession or sale of blackjacks, slung
+shots,andmetallicknucklesexceptbyortominors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CarryingorSellingWeapons. RSA159:16isrepealedandreenactedtoreadasfollows:
+2 159:16 CarryingorSellingWeapons.
+3 I. Anypersonundertheageof18whocarriesonhisorherpersonanyblackjack,slungshot,
+4 or metallic knuckles shall be guilty of a violation; and such weapon or articles so carried by such a
+5 personshallbeforfeitedtothestate.
+6 II. Any person who sells, delivers, or otherwise transfers any blackjack, slung shot, or
+7 metallicknucklestoapersonundertheageof18shallbeguiltyofaviolation.
+8 2 Repeal. RSA 159:17, relative to exceptions to the prohibition against carrying or selling
+9 weapons,isrepealed.
+10 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2437
+10/14/25
+HB1048-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to repealing the prohibition on the possession or sale of blackjacks, slung
+shots,andmetallicknucklesexceptbyortominors.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

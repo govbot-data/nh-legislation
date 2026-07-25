@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER171
+HB1483-FN-FINALVERSION
+5Feb2026...0163h
+26Mar2026...0960h
+2026SESSION
+26-2716
+04/09
+1483-FN
+HOUSEBILL
+ANACT creatingamotorvehiclelicenseplateforamateurradiooperators.
+SPONSORS: Rep.Ulery,Hills.13
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the creation of vanity license plates and decals that identify amateur radio
+operatorsbytheirFCCcallsignsoralightningboltsymbol.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER171
+HB1483-FN-FINALVERSION
+5Feb2026...0163h
+26Mar2026...0960h 26-2716
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatingamotorvehiclelicenseplateforamateurradiooperators.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 171:1 New Section; Vanity Number Plates; Identifying Decals for Amateur Radio Operators. Amend
+2 RSA261byinsertingaftersection89-ethefollowingnewsection:
+3 261:89-f VanityRegistrationPlatesforAmateurRadioOperators.
+4 I. The director of motor vehicles is directed to solicit designs for a vanity plate clearly identifying
+5 theowner of the vehicleto be an amateur radiooperator and including the call sign of said operator, who
+6 shall present Federal Communications Commission (FCC) certification as a licensed radio operator upon
+7 application.
+8 II. If the FCC-issued call sign is not displayed, the registrant may request a standard issue plate
+9 featuringalightningboltsymboltoindicatetheirstatusasalicensedamateurradiooperator.
+10 (a) Thereshallbenoduplicationofnumbers.
+11 (b) Alist of allsuchplateholdersshall bemadeavailabletotheNewHampshiredepartment
+12 of safety, divisionof homeland securityandemergencymanagement, for thesolepurposeof contact and
+13 coordination of such persons in a natural disaster or other public safety requirement. All other data is
+14 privilegedperRSA260:14-a.
+15 (c) Nothing in this section shall be construed to confer any special privileges, including but
+16 not limited to the use of emergency lights, exemption from traffic laws, or access to restricted areas,
+17 exceptwhenactingundertheexpressdirectionofauthorizedpublicsafetypersonnel.
+18 171:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:June19,2026
+EffectiveDate:January01,2027

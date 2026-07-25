@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER96
+HB1494-FINALVERSION
+2026SESSION
+26-2279
+07/09
+1494
+HOUSEBILL
+ANACT increasing the maximum amount of the optional veterans' tax credit, optional combat
+servicetaxcredit,andoptionalsurvivingspousetaxcredit.
+SPONSORS: Rep. Pauer, Hills. 36; Rep. Creighton, Hills. 30; Rep. Moffett, Merr. 4; Rep. Weyler,
+Rock.14;Rep.Wheeler,Hills.33;Rep.Mandelbaum,Rock.21;Rep.Maggiore,Rock.
+23;Sen.Watters,Dist4;Sen.Gannon,Dist23
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases the maximum amount of the optional veterans' tax credit, optional combat service
+taxcredit,andtheoptionalsurvivingspousetaxcredit.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER96
+HB1494-FINALVERSION
+26-2279
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing the maximum amount of the optional veterans' tax credit, optional combat
+servicetaxcredit,andoptionalsurvivingspousetaxcredit.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 96:1 Taxation;PropertyTaxes;StandardandOptionalVeterans'TaxCredit. AmendRSA72:28,IIto
+2 readasfollows:
+3 II. The optional veterans' tax credit, upon adoption by a city or town pursuant to RSA 72:27-a,
+4 shall be an amount from $51 up to [$750] $1,000. The optional veterans' tax credit shall replace the
+5 standardveterans'taxcreditinitsentiretyandshallnotbeinadditionthereto.
+6 96:2 Taxation; Property Taxes; Optional Tax Credit for Combat Service. Amend RSA 72:28-c, II to
+7 readasfollows:
+8 II. The optional tax credit for combat service, upon adoption by a city or town pursuant to RSA
+9 72:27-a, shall be an amount from $50 up to [$500] $750. The tax credit for combat service shall be
+10 subtracted each year from the property tax on the qualifying service member's residential real estate, as
+11 definedinRSA72:29,II.
+12 96:3 Taxation;PropertyTaxes;OptionalSurvivingSpouseCredit. AmendRSA72:29-a,IItoreadas
+13 follows:
+14 II. Upon the adoption of this paragraph by a city or town as provided in RSA 72:27-a, the
+15 surviving spouse of any person who was killed or died while on active duty in the armed forces of the
+16 United States or any of the armed forces of any of the governments associated with the United States in
+17 thewars,conflictsorarmedconflicts,orcombatzonessetforthinRSA72:28,shallreceiveataxcreditin
+18 the amount from $701 up to [$2,000] $2,500for the taxes due upon the surviving spouse's real and
+19 personal property, whether residential or not, in the same municipality where the surviving spouse is a
+20 resident.
+21 96:4 Applicability. Thefollowingshallnotrequirelocalre-adoptionbythemunicipality:
+22 I. RSA72:28,II,asamendedbysection1ofthisact.
+23 II. RSA72:28-c,II,asamendedbysection2ofthisact.
+24 III. RSA72:29-a,II,asamendedbysection3ofthisact.
+96:5 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+Approved:May28,2026
+EffectiveDate:April01,2027

@@ -1,0 +1,389 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1322-FN-ASINTRODUCED
+2026SESSION
+26-2982
+09/08
+1322-FN
+HOUSEBILL
+ANACT reestablishingthejudicialconductcommission.
+SPONSORS: Rep. Sabourin dit Choiniere, Rock. 30; Rep. Bailey, Straf. 2; Rep. Burnham, Straf.
+2; Rep. DeRoy, Straf. 3; Rep. D. Kelley, Hills. 32; Rep. Nalevanko, Ches. 9; Rep.
+Potenza,Straf.19;Rep.Sirois,Hills.32;Rep.Terry,Belk.7
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill reestablishes the judicial conduct commission to investigate complaints against judges
+and clerks and make recommendations to the legislature regarding the exercise of the legislature's
+constitutionalpowers. ThecommissionisdesignedtooperateconcurrentlywiththeNewHampshire
+supremecourt'sdisciplinaryauthority.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1322-FN-ASINTRODUCED
+26-2982
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT reestablishingthejudicialconductcommission.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownandcitedasthe“JudicialConductCommissionAct.”
+2 2 Findings. Thegeneralcourtherebyfindsanddeclaresthat:
+3 I. The right to a fair and impartial judiciary is fundamental to the administration of justice
+4 and essential to maintaining public confidence in our legal system, as recognized in part I, article 35
+5 oftheNewHampshireconstitution.
+6 II. The legislature possesses constitutional authority under part II, articles 17 and 73 to
+7 remove judges through impeachment and address proceedings, but lacks an effective mechanism to
+8 investigateandevaluatecomplaintsthatmaywarrantsuchaction.
+9 III. Members of the general court have received numerous complaints regarding judicial
+10 conduct through informal channels, creating an inconsistent and inefficient system for addressing
+11 legitimateconcernswhilelackingprocedurestofilterunfoundedgrievances.
+12 IV. The prior judicial conduct commission established under RSA 494-A, enacted in 2001,
+13 was intended to provide a structured process for investigating judicial misconduct and assisting the
+14 legislatureinfulfillingitsconstitutionalduties.
+15 V. The New Hampshire supreme court's decision in Petition of the Judicial Conduct
+16 Committee, 151 N.H. 123 (2004), found constitutional deficiencies in the prior statute's allocation of
+17 authority between the legislative and judicial branches, but did not invalidate the legislature's
+18 legitimate interest in establishing procedures to investigate potential grounds for impeachment or
+19 address.
+20 VI. The complete repeal of RSA 494-A in 2024, rather than its amendment to address
+21 constitutional concerns, has left the legislature without necessary procedural mechanisms to
+22 effectivelyexerciseitsconstitutionalresponsibilitiesregardingjudicialaccountability.
+23 VII. Historical practice in New Hampshire demonstrates that judicial accountability to the
+24 people's representatives has deep roots in our constitutional tradition, including the general court's
+25 historicalroleinaddressingpetitionsforredressofgrievances.
+26 VIII. The separation of powers doctrine permits and indeed requires each branch to possess
+27 the tools necessary to fulfill its constitutional functions, including the legislature's need for
+28 investigativemechanismstosupportitsimpeachmentandaddresspowers.
+29 IX. Publicconfidenceinthejudiciaryrequiresboththeindependencenecessaryforimpartial
+30 decision-makingandappropriateaccountabilitymechanismstoaddressmisconductthatundermines
+31 theadministrationofjustice.
+
+HB1322-FN-ASINTRODUCED
+-Page2-
+1 X. Therefore,thegeneralcourtfindsitnecessaryandpropertoreestablishajudicialconduct
+2 commissionthat:
+3 (a) Respectstheconstitutionalboundariesbetweenlegislativeandjudicialauthority;
+4 (b) Providesastructuredprocessforinvestigatingcomplaints;
+5 (c) Makes recommendations to assist the legislature in exercising its constitutional
+6 powers;
+7 (d) Operates concurrently with, rather than in place of, the supreme court's inherent
+8 disciplinaryauthority;and
+9 (e) Ensures transparency and public accountability while protecting the independence
+10 essentialtojudicialfunction.
+11 XI. This reestablishment represents a measured response to restore the balance between
+12 judicial independence and democratic accountability that is essential to our constitutional system of
+13 government.
+14 3 JudicialConductCommission. RSA494-Aisrepealedandreenactedtoreadasfollows:
+15 CHAPTER494-A
+16 JUDICIALCONDUCTCOMMISSION
+17 494-A:1 JudicialConductCommissionEstablished.
+18 A judicial conduct commission is hereby established as an investigative and advisory body to
+19 assist the legislature in fulfilling its constitutional duties under part II, articles 17 and 73 of the
+20 New Hampshire constitution. The commission shall investigate complaints concerning judges and
+21 clerks and make recommendations to the legislature regarding potential impeachment or address
+22 proceedings. The commission's authority is concurrent with, and does not supersede or replace, the
+23 inherent authority of the New Hampshire supreme court to regulate and discipline members of the
+24 judiciary. Thecommissionshallbeadministeredbyanexecutivedirector,appointedunderRSA494-
+25 A:3.
+26 494-A:2 Definitions.
+27 Inthischapter:
+28 I. “Clerk” means aclerk of court or a deputyclerk, a register of probate or deputyregister, a
+29 courtstenographerorreporter,andanypersonperformingthedutiesofaclerk,register,orreporter.
+30 II. “Commission”meansthejudicialconductcommissionestablishedunderRSA494-A:1.
+31 III. “Executive director” means the executive director of the commission appointed under
+32 RSA494-A:3.
+33 IV. “Judge” means a full-time or part-time judge of the supreme, superior, or circuit court; a
+34 retiredjudgewhoisrecalledtojudicialservice;afull-timemaritalmaster;andanyrefereeorspecial
+35 masterwhoisanofficerofthejudicialsystemandwhoperformsjudicialfunctions.
+36 494-A:3 ExecutiveDirector;AppointmentandDuties.
+
+HB1322-FN-ASINTRODUCED
+-Page3-
+1 I. The commission shall select and appoint an executive director as the administrator of the
+2 commission. The executive director shall be appointed by majority vote of the commission after 30
+3 dayspublicnoticeandapublichearing. Theexecutivedirectorshallholdofficeforatermof5years.
+4 The executive director may be removed from office by vote of 2/3 of the commission. The executive
+5 directormaybereappointedusingthesameprocedureforappointment. Theexecutivedirectorshall
+6 beanonclassifiedstateemployee.
+7 II. The executive director shall be the administrative head of the commission. The duties of
+8 theexecutivedirectorshallalsoinclude:
+9 (a) Employingandsupervisingcommissionstaff,underRSA494-A:17.
+10 (b) Submitting an annual report to the governor, senate president, speaker of the house,
+11 and chief justice of the supreme court, by October 1 of each year, which details the performance of
+12 thecommissionfortheprecedingfiscalyear. Thisreportshallbeapublicdocument.
+13 (c) Submitting budgets to be funded through general funds in the biennial operating
+14 budget.
+15 (d) Actingassecretaryforallcommissionmeetings.
+16 494-A:4 CommissionMembership.
+17 Thecommissionshallconsistofthefollowing11members:
+18 I. Two judges, consisting of one judge or retired judge from each of the superior court and
+19 circuitcourt,appointedbythechiefjusticeofthesupremecourtwiththeconcurrenceofthemajority
+20 ofthesupremecourtmembers.
+21 II. OnememberappointedbythepresidentoftheNewHampshireBarAssociation.
+22 III. Two public members who are not judges, attorneys, or elected or appointed public
+23 officials,appointedbythegovernor.
+24 IV. Two public members who are not judges, attorneys, or elected or appointed public
+25 officials,appointedbythesenatepresident.
+26 V. Two public members who are not judges, attorneys, or elected or appointed public
+27 officials,appointedbythespeakerofthehouse.
+28 VI. Twomemberswhoaresittinglegislators,appointedbythespeakerofthehouse.
+29 494-A:5 TermsofOffice.
+30 I. Theinitialtermsofofficeforthe11commissionmembersshallbedeterminedbylotatthe
+31 commission'sfirstmeetingasfollows:
+32 (a) Threemembersshallserveinitialtermsof2years.
+33 (b) Fourmembersshallserveinitialtermsof3years.
+34 (c) Fourmembersshallserveinitialtermsof4years.
+35 II. After the initial appointment, a member may be reappointed for an additional term of 4
+36 years. Members may not serve more than 2 consecutive terms. Members who have served 2
+37 consecutive terms may not be reappointed until they have been off the commission for a period of 4
+
+HB1322-FN-ASINTRODUCED
+-Page4-
+1 years. Notwithstanding the term limits established in this paragraph, members may serve until
+2 theirsuccessorshavebeenappointed.
+3 III. Commission members shall serve without compensation for their services, but shall be
+4 reimbursedfornecessaryexpensesincurredintheperformanceoftheirduties.
+5 494-A:6 Vacancies.
+6 I. Avacancyintheofficeofthecommissionoccurs:
+7 (a) Attheexpirationofamember'sterm.
+8 (b) When a member ceases to hold the office, by submitting his or her resignation to the
+9 commission,orforsomeotherreason.
+10 (c) Whenanon-attorneyornon-judgememberbecomesanattorneyorjudge.
+11 (d) When an attorney member ceases to be a member of the New Hampshire bar, is
+12 electedorappointedtopublicoffice,orisappointedajudge.
+13 (e) WhenamemberceasestobedomiciledinNewHampshire.
+14 (f) WhenremovedbythecommissionasprovidedinRSA494-A:16.
+15 II. A vacancy shall be filled by the same appointing authority. The successor shall have the
+16 same qualifications as the person who is being replaced. If the vacancy results from other than
+17 expirationoftheterm,thesuccessorshallholdofficefortheunexpiredterm.
+18 494-A:7 Disqualification.
+19 I. No member shall participate in any proceeding before the commission involving his or her
+20 conductorinwhichheorsheisawitnessorisotherwiseinvolved.
+21 II. No member shall participate in any proceeding in which his or her impartiality might
+22 reasonablybequestioned.
+23 III. If a member is disqualified under this section, the commission may vote to name an
+24 alternateinhisorherplace.
+25 IV. If the entire commission is disqualified under this section, the appointing authorities
+26 underRSA494-A:4shallnamealternates.
+27 494-A:8 NumbersforQuorumandAction.
+28 Six members of the commission shall be a quorum. Six members shall be necessary to take
+29 routine action. A vote of 7 members shall be required to recommend to the legislature that it
+30 considerimpeachmentoraddressproceedings.
+31 494-A:9 ElectionofChairpersonandViceChairperson.
+32 Themembersofthecommissionshallelecttheirownchairpersonandvicechairperson.
+33 494-A:10 Duties;Proceedings.
+34 I. The commission shall be responsible for investigating complaints concerning the conduct
+35 ofjudgesandclerksinthecourtsofthisstateastheyrelatetopotentialgroundsforimpeachmentor
+36 address under part II, articles 17 and 73 of the New Hampshire constitution. The commission shall
+37 determine if a complaint warrants further investigation and whether conduct may constitute
+
+HB1322-FN-ASINTRODUCED
+-Page5-
+1 grounds for legislative action. The commission shall adopt rules for its proceedings under this
+2 chapter. The commission may not impose disciplinary actions but may issue findings and
+3 recommendationstothelegislatureorNewHampshiresupremecourt.
+4 II. If the commission finds evidence of criminal acts, it shall report such evidence to the
+5 attorneygeneral.
+6 III. If the commission finds that a judge's or clerk's conduct may warrant removal, it shall
+7 prepare a detailed report with findings of fact and recommendations for the legislature's
+8 consideration.
+9 IV. If the commission finds that a judge's or clerk's conduct might warrant a lesser sanction
+10 by the New Hampshire supreme court, it shall forward a non-binding recommendation to the New
+11 Hampshiresupremecourt,whichshallhaveexclusivepowerstoactonsuchrecommendation.
+12 V. The commission may consider any factor set forth in RSA 494-A:10-a when making a
+13 recommendation.
+14 VI. Nothing in this chapter shall be construed to limit or interfere with the New Hampshire
+15 supremecourt'sinherentandconstitutionalauthoritytoregulate,supervise,anddisciplinemembers
+16 ofthejudiciarythroughitsownprocedures.
+17 494-A:10-a StandardsforEvaluation.
+18 Thecommissionshallevaluate:
+19 I. Violations of the code of judicial conduct adopted by the New Hampshire supreme court,
+20 particularlywhensuchviolationsare:
+21 (a) Willfulorrepeated.
+22 (b) Involvecorruption,bribery,orcriminalconduct.
+23 (c) Demonstrateunfitnessforjudicialoffice.
+24 II. Conductthatviolatesconstitutionalrequirements,includingbutnotlimitedto:
+25 (a) Violations of due process under the Fourteenth Amendment or part I, article 15 of
+26 theNewHampshireconstitution.
+27 (b) Violations of the appearance of impartiality standard under part I, article 35 of the
+28 NewHampshireconstitution.
+29 (c) Demonstratedinabilityorunwillingnesstoupholdconstitutionalduties.
+30 III. Pattern of judicial errors suggesting incompetence rather than good faith mistakes,
+31 considering:
+32 (a) Frequencyofreversal.
+33 (b) Natureofappellatecriticism.
+34 (c) Whethererrorsreflectfundamentalmisunderstandingoflaw.
+35 IV. Nothing in this section shall be construed to make mere judicial error or good faith
+36 differencesinlegalinterpretationgroundsforlegislativeaction.
+37 494-A:11 ProceduresforComplaints;PublicAvailability.
+
+HB1322-FN-ASINTRODUCED
+-Page6-
+1 Thecommissionshalladoptrulesofproceduretobefollowedinmakingitsdeterminationswhich
+2 shallincorporatethefollowing:
+3 I. When a complaint is received by the commission, the commission shall determine if the
+4 complaint alleges conduct that could potentially constitute grounds for impeachment or address. If
+5 the commission determines that the complaint on its face alleges no such grounds, the commission
+6 shall dismiss the complaint and respond to the complaining party, explaining the basis for its
+7 decision. The commission shall forward a copy of all complaints received to the New Hampshire
+8 supremecourtor itsdulyappointedrepresentativeforits independentreview andactionasit deems
+9 appropriate.
+10 II. If the commission determines that the complaint warrants investigation, the commission
+11 shall send a copy of the complaint to the judge or clerk, and the judge or clerk shall have 21 days to
+12 respond in writing. There shall be no direct communications between the judge or clerk and the
+13 complainingparty. Followingtheresponsefromthejudgeorclerk,thecommissionshallsendacopy
+14 oftheresponsetothecomplainingparty.
+15 III. The commission may conduct such further investigation as it may deem necessary. The
+16 commission shall, within 90 days of the first meeting following receipt of the complaint, or for good
+17 cause shown, such longer period as determined by the commission, determine whether there is
+18 probablecausetobelievethatthejudge'sorclerk'sconductmaywarrantlegislativeconsiderationfor
+19 impeachmentoraddress.
+20 IV. After making a finding of probable cause, the commission shall conduct a public hearing
+21 before making a final determination. After probable cause has been found, the complaint, response,
+22 transcripts, findings, deliberations, and reports of actions taken shall be available to the public
+23 undertheprovisionsofRSA91-A.
+24 V. Followingitsinvestigationandhearing,thecommissionmay:
+25 (a) Dismissthecomplaintifitfindsnogroundsforlegislativeaction;
+26 (b) Issue a report to the legislature recommending consideration of impeachment
+27 proceedings;
+28 (c) Issueareporttothelegislatureandgovernorrecommendingconsiderationofaddress
+29 proceedings;and
+30 (d) Issue a report noting concerns about conduct that, while not warranting removal,
+31 shouldbebroughttothelegislature'sattention.
+32 VI. If the complaint referred to the commission alleges conduct that would constitute a
+33 crime, the commission chairperson shall immediately refer the matter to the attorney general. The
+34 referral shall not supersede the commission's investigation, but the commission shall suspend its
+35 activitiesuntilcriminalproceedings,ifany,areconcluded.
+
+HB1322-FN-ASINTRODUCED
+-Page7-
+1 VII. In all cases, whether a complaint is dismissed or not, complaints received by the
+2 commission shall be made available to the administrative judge of the court in which the judge or
+3 clerkcomplainedagainstholdsoffice.
+4 VIII. The statute of limitations for any complaint shall be 7 years from the act which is the
+5 subject of the complaint or from the conclusion of the trial or appeal during which the act occurred,
+6 whicheverislater.
+7 494-A:11-a AccesstoInformation;HearingsonConfidentialCases.
+8 I. Notwithstandinganyotherprovisionoflawtothecontrary,apersonsubjecttothecodeof
+9 judicial conduct may provide to the members of the judicial conduct commission, its staff, and
+10 agents, and in the performance of its official duties the judicial conduct commission may review, any
+11 tapes, transcripts, records of proceedings, information, files, and other documents which would
+12 otherwise be confidential. No member, staff, or agent of the judicial conduct commission shall
+13 disclosesuchinformationexceptinthecourseofofficialduty.
+14 II. In a hearing under RSA 494-A:11, IV if any part of the complaint involves the conduct of
+15 a person in a case required to be confidential by law, the commission may, by majority vote, conduct
+16 the hearing, or any part thereof, in a session not open to the public. In such circumstances the
+17 commission shall make available to the public a summary of the nature of the complaint, the names
+18 ofthepersoncomplainedagainstandthecomplainant,andthedecisionofthecommittee.
+19 494-A:12 Rules.
+20 The commission shall have the authority to adopt rules, after public notice and hearing,
+21 necessarytoperformtheobjectivesofthischapter. Suchrulesshallbelimitedtoproceduralmatters
+22 andshallnotincludeadoptionofacodeofjudicialconduct.
+23 494-A:13 SubpoenaPower.
+24 Thecommissionshallhavethepowersofsubpoena.
+25 494-A:14 ReviewbyLegislature.
+26 All reports and recommendations of the commission shall be transmitted to the president of the
+27 senate and the speaker of the house. The legislature shall determine, in its sole discretion, whether
+28 toinitiateimpeachmentoraddressproceedingsbasedonthecommission'srecommendations.
+29 494-A:15 Funding.
+30 The commission shall prepare and administer its own budget, including funding for such items
+31 as staff, office space, and operating expenses. Funding shall be authorized by the legislature only
+32 fromsourcesotherthanthoseappropriatedforthejudicialbranch.
+33 494-A:16 Removal.
+34 The chairperson, with the majority of the commission, may remove a member for cause,
+35 includingunexcusedabsencesorseriousviolationsofacommissionrule.
+36 494-A:17 StaffandFacilities.
+
+HB1322-FN-ASINTRODUCED
+-Page8-
+1 I. The executive director shall, with the approval of the commission, hire staff, which may
+2 include attorneys, investigators, and clerks, as may be necessary to carry out the duties of the
+3 commission. The executive director may contract for such temporary professional, administrative,
+4 and clerical services as deemed necessary by the commission. Full-time staff shall be nonclassified
+5 personnelwhoshallbeentitledtostateemployeebenefits.
+6 II. The commission shall select office space, which shall be as independent as possible from
+7 otherfacilitiesofanybranchofgovernment.
+8 494-A:18 AdministrativeSupport.
+9 Notwithstanding RSA 494-A:1, upon request of the commission, the department of
+10 administrative services shall assist the commission in matters related to personnel and benefits
+11 administration, purchasing, telecommunications, enterprise applications management, and property
+12 management. Upon request of the commission, the state library shall assist the commission in the
+13 developmentandmaintenanceofawebpageontheofficialstatewebsite.
+14 494-A:19 LegalCosts.
+15 With the approval of the joint legislative fiscal committee, the commission may employ counsel,
+16 attorneys, and other assistants, in case of reasonable necessity, and may pay them reasonable
+17 compensation. The governor is authorized to draw a warrant for the costs of such compensation out
+18 ofanymoneyinthetreasurynototherwiseappropriated.
+19 494-A:20 RelationshiptoJudicialBranchDisciplinaryAuthority.
+20 I. Nothinginthischaptershallbeconstruedto:
+21 (a) Limit or replace the inherent authority of the New Hampshire supreme court to
+22 regulateanddisciplinejudges;
+23 (b) Requirecomplaintstobefiledexclusivelywiththecommission;
+24 (c) Preventthesupremecourtfrommaintainingitsowndisciplinaryprocedures;or
+25 (d) Createexclusivejurisdictioninthecommissionoverjudicialconductmatters.
+26 II. The commission's role is limited to assisting the legislature in exercising its
+27 constitutional powers of impeachment and address, and does not extend to imposing discipline or
+28 regulatingjudicialconduct.
+29 494-A:21 Severability.
+30 I. If any provision of this act or its application to any person or circumstance is held invalid,
+31 such invalidity shall not affect other provisions or applications of this act that can be given effect
+32 withouttheinvalidprovisionorapplication,andtothisendtheprovisionsofthisactareseverable.
+33 II. If any portion of this chapter is found to violate part II, article 73-a regarding the
+34 supreme court's inherent authority over court practice, such finding shall not invalidate the
+35 remainder of this chapter, which shall continue to govern the procedural mechanisms for the
+36 legislaturetoconsiderwhetherimpeachmentproceedingsarewarranted.
+37 4 EffectiveDate.
+
+HB1322-FN-ASINTRODUCED
+-Page9-
+1 I. RSA494-A:21,asinsertedbysection3ofthisact,shalltakeeffectuponitspassage.
+2 II. RSA 494-A:1 through RSA 494-A:9, as inserted by section 3 of this act, shall take effect
+3 60daysafteritspassage.
+4 III. TheremainderofthisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2982
+11/17/25
+HB1322-FN-FISCALNOTE
+ASINTRODUCED
+ANACT reestablishingthejudicialconductcommission.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+Increase Increase Increase
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill reestablishes the Judicial Conduct Commission to investigate complaints against
+judges, clerks, and deputy clerks, and to make recommendations to the legislature regarding
+judicial discipline or impeachment. The Commission would operate separately from the
+SupremeCourt’sexistingdisciplinaryprocess.
+The Judicial Branch states this bill will result in an indeterminable increase in state
+expenditures from the General Fund. This bill creates a new Judicial Conduct Commission with
+independent staffing and administrative authority. The extent to which the new Commission
+would require judges and clerks to spend time responding to complaints and proceedings before
+theCommissionisunknown,andthereforetheassociatedcostscannotbeestimatedatthistime.
+Thefiscal impactwill dependonthenumberof complaintsreceived, thevolume of investigations
+conducted, and the administrative and legal support required for the new Commission. If a
+significant number of complaints are filed, this could result in substantial costs to the Judicial
+Branch related to judicial and staff time shifted to complaint response and hearings. However,
+thenumberofcomplaintsandlevelofactivitybeforetheCommissionarenotknownatthistime,
+makingtheoverallimpactindeterminable.
+AGENCIESCONTACTED:
+
+JudicialBranch

@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1496 -ASINTRODUCED
+2026SESSION
+26-2312
+06/08
+1496
+HOUSEBILL
+ANACT repealingthecaponresidentialparkingspaces.
+SPONSORS: Rep. Andrus, Merr. 5; Rep. Cambrils, Merr. 4; Rep. Comtois, Belk. 7; Rep. Panek,
+Hills.1;Rep.Perez,Rock.16;Rep.Turcotte,Straf.4
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the statutory cap on residential parking requirements, allowing municipalities
+torequireorlimitanynumberofparkingspaceperdwellingunit.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1496-ASINTRODUCED
+26-2312
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthecaponresidentialparkingspaces.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 GrantofPower;ParkingSpaces. RSA674:16,VIIisrepealedandreenactedtoreadasfollows:
+2 VII. In its exerciseof the powers granted under this subdivision, thelocal legislative body of
+3 a city, town, or county in which there are located unincorporated towns or unorganized places may
+4 regulateaccessoryparkingforvehicles.
+5 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

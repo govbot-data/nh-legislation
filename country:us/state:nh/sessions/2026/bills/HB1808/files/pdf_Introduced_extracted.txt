@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1808-FN-A-ASINTRODUCED
+2026SESSION
+26-2592
+07/09
+1808-FN-A
+HOUSEBILL
+ANACT establishing the position of academic research and improvement performance
+data analyst in the department of education and making an appropriation
+therefor.
+SPONSORS: Rep. Ladd, Graf. 5; Rep. Popovici-Muller, Rock. 17; Rep. Peeples, Hills. 14; Rep.
+Damon,Sull.8;Rep.Kofalt,Hills.32;Sen.Innis,Dist7
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes the position of academic research and improvement performance data
+analystinthedepartmentofeducationandmakesanappropriationtherefor.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1808-FN-A-ASINTRODUCED
+26-2592
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing the position of academic research and improvement performance
+data analyst in the department of education and making an appropriation
+therefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State and Its Government; Department of Education. Amend RSA 21-N by
+2 insertingaftersection13thefollowingnewsection:
+3 21-N:14 AcademicResearchandImprovementPerformancePosition.
+4 I. There is established within the division of education analytics and resources the position
+5 ofacademic researchand improvement performancedataanalyst, who shall beaclassified employee
+6 at no less than the level of administrator III. The data analyst shall be qualified to hold such a
+7 position by reason of education and experience. The position shall be subject to any other
+8 employmentrequirementsasdeterminedbythedepartment.
+9 II. Thedataanalystshall:
+10 (a) Collectandanalyzedatato:
+11 (1) Measurestudentprogress;
+12 (2) Evaluateprogramandinstructionaleffectiveness;
+13 (3) Guidecurriculumdevelopmentandresourceallocation;and
+14 (4) Promoteaccountability.
+15 (b) Assist educators in the effective use of data to drive and improve educational
+16 decision-makingandstudentlearningoutcomes.
+17 (c) Support the goal of improving statewide student proficiency and growth using-data
+18 driven decision making, data collection, data analysis, and data reporting, and using data for school
+19 improvementandcommunication.
+20 2 Appropriation; Department of Education. There is hereby appropriated to the department of
+21 education the sum of $160,000 for the fiscal year ending June 30, 2027, for the purpose of funding
+22 the academic research and improvement performance position established in RSA 21-N:14. The
+23 governor is authorized to draw a warrant for said sums out of any money in the treasury not
+24 otherwiseappropriated.
+25 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2592
+Revised1/12/26
+HB1808-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT establishing the position of academic research and improvement performance
+data analyst in the department of education and making an appropriation
+therefor.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $101,000 $103,000 $108,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $160,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the position of academic research and improvement performance data
+analyst in the Department of Education. The Department anticipates the position (SOC 15-05,
+starting step 5) to cost $101,000 in FY 2027, $103,000 in FY 2028, and $108,000 in FY 2029.
+This bill provides general funds of $160,000 in FY 2027 to fund the position. Any unexpended
+amounts would lapse at June 30, 2027, and it is assumed this position, were it to be established,
+would have its funding considered in FY 2028 and beyond as part of the state operating budget
+process.
+AGENCIESCONTACTED:
+DepartmentofEducation

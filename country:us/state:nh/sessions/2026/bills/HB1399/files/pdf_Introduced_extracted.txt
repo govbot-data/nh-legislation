@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1399-FN-ASINTRODUCED
+2026SESSION
+26-3227
+07/08
+1399-FN
+HOUSEBILL
+ANACT makinganappropriationtotheClaremontschooldistrictforcostsassociatedwith
+abuildingrenovationprojectfromtherevenuestabilizationreserveaccount.
+SPONSORS: Rep. Damon, Sull. 8; Rep. Girard, Sull. 6; Rep. Luneau, Merr. 9; Rep. E. Kelly,
+Merr. 8; Rep. Selig, Straf. 10; Rep. Cahill, Rock. 10; Rep. Caplan, Merr. 8; Sen.
+Altschiller,Dist24
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill appropriates money to the Claremont school district for costs associated with the 2015
+StevensHighSchoolrenovationproject.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1399-FN-ASINTRODUCED
+26-3227
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT makinganappropriationtotheClaremontschooldistrictforcostsassociatedwith
+abuildingrenovationprojectfromtherevenuestabilizationreserveaccount.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofPurpose. Thegeneralcourtherebyfindsthat:
+2 I. TheClaremont SchoolDistrict renovated StevensHighSchoolin2015duringthebuilding
+3 aidmoratorium.
+4 II. Theprojectwasessentialtorestoringaccreditation.
+5 III. Thedistrictwouldhavebeeneligibleforbuildingaid,ifnotforthemoratorium.
+6 IV. Thedistrictisinurgentneedoffundsasitrecoversfromyearsoffiscalmismanagement.
+7 2 Claremont School District; Appropriation. There is hereby appropriated to the Claremont
+8 School District $5,000,000 for the purpose of reimbursing the district for part of the cost of the
+9 renovations to Stevens High School completed in 2015 during the building aid moratorium. The
+10 funds shall be withdrawn from the revenue stabilization reserve account in RSA 9:13-e. The
+11 governor is authorized to draw a warrant for said sums out of any money in the treasury not
+12 otherwiseappropriated.
+13 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3227
+11/7/25
+HB1399-FN-FISCALNOTE
+ASINTRODUCED
+ANACT makinganappropriationtotheClaremontschooldistrictforcostsassociatedwith
+abuildingrenovationprojectfromtherevenuestabilizationreserveaccount.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $5,000,000 $0 $0
+FundingSource(s) RevenueStabilizationReserveAccount("RainyDayFund")
+Appropriations* $0 $5,000,000 $0 $0
+FundingSource(s) RevenueStabilizationAccount("RainyDayFund")
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+$5,000,000to
+LocalRevenue $0 Claremont $0 $0
+SchoolDistrict
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill appropriates $5,000,000 from the State's Revenue Stabilization Reserve Account
+("RainyDayFund")totheClaremontSchoolDistrict,purposeofreimbursingthedistrictforpart
+of the cost of the renovations to Stevens High School completed in 2015 during the building aid
+moratorium. For informational purposes, the committee of conference estimate for the Rainy
+DayFundbalanceatJune30,2027,wasapproximately$228.4million.
+It should be noted that this bill seeks to appropriate funds directly to a non-state entity.
+Typically, appropriations are made to a state agency for disbursement to an outside entity. For
+thisbill,theDepartmentofEducationwouldbetheappropriatestateagency.
+AGENCIESCONTACTED:
+None

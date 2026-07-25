@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1467-FN-ASINTRODUCED
+2026SESSION
+26-3070
+12/09
+1467-FN
+HOUSEBILL
+ANACT establishing the New Hampshire Seal of Civic Excellence and Engagement
+program.
+SPONSORS: Rep. D. Paige, Carr. 1; Rep. Moffett, Merr. 4; Rep. Cornell, Hills. 22; Sen. Carson,
+Dist14
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of education to develop the New Hampshire Seal of Civic
+Engagement and Excellence Program. The bill also authorizes school boards to award qualifying
+graduating high school students the distinction of a seal affixed to their diploma and completion of
+theprogramreferencedontheirtranscript.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1467-FN-ASINTRODUCED
+26-3070
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing the New Hampshire Seal of Civic Excellence and Engagement
+program.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Seal of Civic Excellence and Engagement Program. Amend RSA 189 by
+2 insertingaftersection11-dthefollowingnewsection:
+3 189:11-e Seal of Civic Excellence and Engagement Program. The department of education shall
+4 establish criteria by which a school board or school administrative unit board may affix the New
+5 Hampshire state seal of civic excellence and engagement on a diploma awarded to a student
+6 graduating from high school, as defined in RSA 194:23. The seal shall signify a student who has
+7 achieved a high level of proficiency in civics education and engagement by satisfying the established
+8 criteria. Thecriteriashallinclude,butisnotlimitedto:
+9 I. Successful completion of social studies courses for at least 2 school years, one of which
+10 shallbeacourseontheUnitedStatesgovernmentorcivics;
+11 II. Participation in at least one civic engagement project (such as community service),
+12 participationinstudentgovernment,orinvolvementinacivicorganization;and
+13 III. Demonstrated proficiency in civics knowledge through a standardized assessment,
+14 portfolio of work that includes essays, projects, or presentations related to civics, or other mastery-
+15 basedassessmentorwork.
+16 2 New Section; Diplomas; Seal of Civic Excellence and Engagement. Amend RSA 194 by
+17 insertingaftersection23-fthefollowingnewsection:
+18 194:23-g Diplomas; Seal of Civic Excellence and Engagement. Commencing with the classes
+19 graduating high school in 2027 and for each graduating class thereafter, a school board or school
+20 administrative unit board may affix the New Hampshire state seal of civic excellence and
+21 engagement, pursuant to RSA 189:11-e, to a diploma awarded to a student who has achieved a high
+22 level of proficiency in civics education and engagement. The school board or school administrative
+23 unitboardshallincludeonsuchstudent'stranscriptadesignationthatthestudentreceivedtheNew
+24 Hampshirestatesealofcivicexcellenceandengagement.
+25 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3070
+11/30/25
+HB1467-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing the New Hampshire Seal of Civic Excellence and Engagement
+program.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $81,000 $85,000 $89,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill establishes the New Hampshire Seal of Civic Engagement and Excellence Program, to
+be developed and administered by the Department of Education. The Department states it
+cannot assume this responsibility with its current resources and would require one new position
+(SOC23-03)toperformrequiredduties. Thepositioncostisestimated tobe$81,000inFY 2027,
+$85,000 in FY 2028, and $89,000 in FY 2029. This bill provides neither an appropriation nor
+authorization for new personnel. The Department adds there could be local costs incurred to
+implementthisprogram,howeverthosecostsareindeterminableandwouldvarybydistrict.
+AGENCIESCONTACTED:
+DepartmentofEducation

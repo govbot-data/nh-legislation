@@ -1,0 +1,279 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1820-FN-ASINTRODUCED
+2026SESSION
+26-3179
+07/08
+1820-FN
+HOUSEBILL
+ANACT requiring the department of education to administer the education freedom
+accountprogram.
+SPONSORS: Rep. Luneau, Merr. 9; Rep. Damon, Sull. 8; Rep. Cornell, Hills. 22; Rep. Fellows,
+Graf.8;Rep.Bricchi,Merr.15;Sen.Altschiller,Dist24;Sen.Fenton,Dist10
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillchangestheadministrationoftheeducationfreedomaccountprogramunderRSA194-F
+fromscholarshiporganizationstothedepartmentofeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1820-FN-ASINTRODUCED
+26-3179
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to administer the education freedom
+accountprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Education Freedom Accounts; Definition; Commissioner. Amend RSA 194-
+2 F:1byinsertingafterparagraphIthefollowingnewparagraph:
+3 I-a. "Commissioner”meansthecommissionerofthedepartmentofeducation.
+4 2 Definition;EFA. AmendRSA194-F:1,IVtoreadasfollows:
+5 IV. "Education freedom account” or “EFA” means the account to which funds are allocated
+6 by the [scholarship organization] department to the parent of an EFA student in order to pay for
+7 qualifyingeducationexpensestoeducatetheEFAstudentunderthischapter.
+8 3 Definition;StateBoard. RSA194-F:1,XIIisrepealedandreenactedtoreadasfollows:
+9 XII. "Stateboard”meansthestateboardofeducation.
+10 4 Program;FundsTransfer. AmendRSA194-F:2,Itoreadasfollows:
+11 I. The commissioner of the department of education shall transfer to the [scholarship
+12 organization] student's EFA the per pupil adequate education grant amount under RSA 198:40-a,
+13 plusanydifferentiated aidthatwould havebeenprovidedtoapublicschoolfor thateligiblestudent.
+14 The transfers shall be made in accordance with the distribution of adequate education grants under
+15 RSA198:42.
+16 5 QualifyingExpenses. AmendRSA194-F:2,II(o)toreadasfollows:
+17 (o) Any other educational expense approved by the [scholarship organization] state
+18 board.
+19 6 UnusedFunds. AmendRSA194-F:2,VIItoreadasfollows:
+20 VII. An EFA shall remain in force, and any unused funds shall roll over from quarter-to-
+21 quarter and from year-to-year until the parent withdraws the EFA student from the EFA program,
+22 the student becomes ineligible, or until the EFA student graduates from high school, unless the
+23 EFA is closed because of a substantial misuse of funds. Any unused funds shall revert to the
+24 education trust fund established in RSA 198:39. Unused funds that roll over from year-to-year
+25 shall not exceed the amount of one quarterly distribution into the student’s EFA and any
+26 excessyear-to-yearrolloverfundsshallbereturnedtotheeducationtrustfund.
+27 7 EducationFreedomAccounts. RSA194-F:3isrepealedandreenactedtoreadasfollows:
+28 194-F:3 ApplicationforanEducationFreedomAccount.
+
+HB1820-FN-ASINTRODUCED
+-Page2-
+1 I. A parent may apply to the department to establish an EFA for an eligible student. The
+2 department shall accept and approve applications for the fall and spring semesters each year and
+3 shallestablishproceduresforapprovingapplicationsinanexpeditiousmanner.
+4 II. The department shall create a standard form that parents can submit to establish their
+5 student’s eligibility for the EFA program and shall ensure that the application is publicly available
+6 andmaybesubmittedthroughvarioussources,includingtheInternet.
+7 III. ThedepartmentshallapproveanapplicationforanEFAif:
+8 (a) The parent submits an application for an EFA in accordance with application
+9 proceduresestablishedbythedepartment.
+10 (b) Thestudentonwhosebehalftheparentisapplyingisaneligiblestudent.
+11 (c) FundsareavailablefortheEFA.
+12 (d) Theparentsignsanagreementwiththedepartment:
+13 (1) To provide an education for the eligible student in the core knowledge domains
+14 that include science, mathematics, language, government, history, health, reading, writing, spelling,
+15 the history of the constitutions of New Hampshire and the United States, and an exposure to and
+16 appreciationofartandmusic.
+17 (2) Not to enroll the eligible student as a full-time student in their resident district
+18 publicschoolwhileparticipatingintheEFAprogram.
+19 (3) Toprovideanannualrecordtothedepartmentofeducationalattainmentby:
+20 (A) Having the student take the statewide student assessment test pursuant to
+21 RSA193-C:6;or
+22 (B) Maintaining a portfolio including, but not limited to, a log which designates
+23 by title the reading materials used; samples of writings, worksheets, workbooks, or creative
+24 materials used or developed by the student. The parent shall have a certified teacher or a teacher
+25 currently teaching in a nonpublic school, who is selected by the parent, evaluate the student's
+26 educationalprogressuponreviewofaportfolioanddiscussionwiththeparentorstudent.
+27 (4) To use the funds in the EFA only for qualifying expenses to educate the eligible
+28 studentasestablishedbytheEFAprogram.
+29 (5) TocomplywiththerulesandrequirementsoftheEFAprogram.
+30 IV. The signed agreement between the parent and the department shall satisfy the
+31 compulsoryschoolattendancerequirementsofRSA193:1.
+32 V. Thedepartmentshallannuallyrenewastudent’sEFAiffundsareavailable.
+33 VI. Upon notice to the department, an EFA student may choose to stop receiving EFA
+34 fundingandenrollfull-timeinapublicschool.
+35 (a) Enrolling as a full-time student in the resident district public school shall result in
+36 the immediate suspension of payment of additional funds into the student’s EFA, termination of the
+37 EFA,andthetransferofanyremainingfundsbythedepartmentbacktotheeducationtrustfund.
+
+HB1820-FN-ASINTRODUCED
+-Page3-
+1 (b) If an eligible student decides to return to the EFA program, payments into the
+2 student’s existing EFA may resume if the EFA is still open and active. A new EFA may be
+3 establishedifthestudent’sEFAwasclosed.
+4 8 Authority and Responsibilities of the Department. RSA 194-F:4 is repealed and reenacted to
+5 readasfollows:
+6 194-F:4 Authority and Responsibilities of the Department. The department shall have the
+7 followingadditionalduties,obligations,andauthority:
+8 I. The department shall maintain an updated list of education service providers and shall
+9 ensure that the list is publicly available through various sources, including the department's
+10 website.
+11 II. The department shall provideparents with awrittenexplanationof theallowableuses of
+12 EFAfunds,theresponsibilitiesofparents,thedutiesofthedepartment,andtheroleofanyfinancial
+13 management firms that the department may contract with to administer any aspect of the EFA
+14 program.
+15 III. The department shall ensure that parents of students with disabilities receive notice
+16 that participation in the EFA program is a parental placement under 20 U.S.C. section 1412,
+17 Individuals with Disabilities Education Act (IDEA), along with an explanation of the rights that
+18 parentallyplacedstudentspossessunderIDEAandanyapplicablestatelaws.
+19 IV. The department shall determine eligibility for differentiated aid subject to any
+20 applicablestateandfederallaws.
+21 V. The department shall implement a commercially viable system for payment of services
+22 fromEFAstoeducationserviceprovidersbyelectronicoronlinefundstransfer.
+23 (a) The department shall not adopt a system that relies exclusively on requiring parents
+24 to be reimbursed for out-of-pocket expenses, but rather shall provide maximum flexibility to parents
+25 by facilitating direct payments to education service providers. The department may pre-approve
+26 requests for reimbursements for qualifying expenses, including expenses pursuant to RSA 194-F:2,
+27 II, but shall not disperse funds to parents without receipt that such pre-approved purchase has been
+28 made.
+29 (b) The department may contract with a private institution or organization to develop
+30 thepaymentsystem.
+31 VI. Thedepartmentmayalsoseektoimplementacommerciallyviablesystemforparentsto
+32 publicly rate, review, and share information about education service providers, ideally as part of the
+33 samesystemthatfacilitatestheelectronicoronlinefundstransfers.
+34 VII. If an education service provider requires partial payment of tuition or fees prior to the
+35 start of the academic year to reserve space for an EFA student admitted to the education service
+36 provider, such partial payment may be paid by the department, if funds are available, prior to the
+37 start of the school year in which the EFA is awarded and deducted in an equitable manner from
+
+HB1820-FN-ASINTRODUCED
+-Page4-
+1 subsequentquarterlyEFAdepositstoensureadequatefundsremainavailablethroughouttheschool
+2 year; but if an EFAstudent decides not to use the educationservice provider, the partial reservation
+3 payment shall be returned to the department by such education service provider and credited to the
+4 student’sEFA.
+5 VIII. Thedepartmentshallcontinuemakingdepositsintoastudent’sEFAuntil:
+6 (a) ThedepartmentdeterminesthattheEFAstudentisnolongeraneligiblestudent.
+7 (b) The department determines that there was substantial misuse of the funds in the
+8 EFA.
+9 (c) TheparentorEFAstudentwithdrawsfromtheEFAprogram.
+10 (d) TheEFAstudentenrollsfull-timeintheresidentdistrictpublicschool.
+11 (e) TheEFAstudentgraduatesfromhighschool.
+12 IX. The department may conduct or contract for the auditing of individual EFAs, and shall
+13 ataminimumconductrandomauditsofEFAsonanannualbasis.
+14 X. The department may make any parent or EFA student ineligible for the EFA program in
+15 theeventofintentionalandsubstantialmisuseofEFAfunds.
+16 (a) The department shall create procedures to ensure that a fair process exists to
+17 determinewhetheranintentionalandsubstantialmisuseofEFAfundshasoccurred.
+18 (b) If an EFA student is free from personal misconduct, that student shall be eligible for
+19 anEFAinthefutureifplacedwithanewguardianorotherpersonwiththelegalauthoritytoacton
+20 behalfofthestudent.
+21 (c) The department may refer suspected cases of intentional and substantial misuse of
+22 EFA funds to the attorney general for investigation if evidence of fraudulent use of EFA funds is
+23 obtained.
+24 (d) A parent or EFA student may appeal the department's decision to deny eligibility for
+25 theEFAprogramtothestateboard.
+26 XI. The department may bar an education service provider from accepting payments from
+27 EFAsifthedepartmentdeterminesthattheeducationserviceproviderhas:
+28 (a) Intentionally and substantially misrepresented information or failed to refund any
+29 overpaymentsinatimelymanner.
+30 (b) Routinelyfailedtoprovidestudentswithpromisededucationalgoodsorservices.
+31 XII. The department shall create procedures to ensure that a fair process exists to
+32 determine whether an education service provider may be barred from receiving payments from
+33 EFAs.
+34 (a) If the department bars an education service provider from receiving payments from
+35 EFAs,itshallnotifyparentsandEFAstudentsofitsdecisionasquicklyaspossible.
+36 (b) Education service providers may appeal the department's decision to bar them from
+37 receivingpaymentsfromtheEFAtothestateboard.
+
+HB1820-FN-ASINTRODUCED
+-Page5-
+1 XIII. The department shall adopt rules that are necessary for the administration of this
+2 chapter. Thismayincluderulesforpoliciesorprocedures:
+3 (a) Establishing or contracting for the establishment of an online anonymous fraud
+4 reportingservice.
+5 (b) Establishingananonymoustelephonenumberforfraudreporting.
+6 (c) Requiringasuretybondforeducationserviceprovidersreceivingmorethan$100,000
+7 inEFAfunds.
+8 (d) RefundingpaymentsfromeducationserviceproviderstoEFAs.
+9 (e) Ensuring appropriate use and rigorous oversight of all funds expended under this
+10 program.
+11 XIV. Thedepartmentshallnotexclude,discriminateagainst,orotherwisedisadvantageany
+12 education provider with respect to programs or services under this section based in whole or in part
+13 on the provider’s religious character or affiliation, including religiously based or mission-based
+14 policiesorpractices.
+15 9 AdvisoryCommission. AmendRSA194-F:5toreadasfollows:
+16 194-F:5 ParentandEducationServiceProviderAdvisoryCommission.
+17 I. There is established the parent and education service provider advisory commission to
+18 assist the [scholarship organization] department by providing recommendations about
+19 implementing,administering,andimprovingtheEFAprogram.
+20 II. The commission shall consist of 7 members who shall be parents of EFA students or
+21 education service providers and shall represent no fewer than 4 counties in the state. The members
+22 shall be appointed by the [director of the scholarship organization] commissioner and serve at the
+23 [director's] commissioner's pleasure for one calendar year after which they may be reappointed.
+24 [The director of the scholarship organization, or designee, shall serve as a non-voting chairperson of
+25 the commission.] The commissioner of the department of education, or designee, shall serve as a
+26 non-votingmemberofthecommission.
+27 III. The [scholarship organization] department may request the commission to meet, in
+28 personor virtually, toreview appeals of educationserviceprovider denials pursuant toRSA194-F:4,
+29 [XI]Xandtoprovidearecommendationtothe[scholarshiporganization]departmentastowhether
+30 an education service provider should be allowed to receive, or continue receiving, payments from
+31 EFAs.
+32 10 EducationServiceProviders. AmendRSA194-F:6toreadasfollows:
+33 194-F:6 RequirementsforEducationServiceProviders.
+34 I. The [scholarship organization] department may approve education service providers on
+35 its own initiative, at the request of parents, or by notice to the [scholarship organization]
+36 departmentprovidedbyprospectiveeducationserviceproviders.
+
+HB1820-FN-ASINTRODUCED
+-Page6-
+1 II. A prospective education service provider that wishes to receive payments from EFAs
+2 shall:
+3 (a) Submit notice to the [scholarship organization] department that it wishes to receive
+4 paymentsfromEFAs.
+5 (b) Agreenottorefund,rebate,orshareEFAfundswithparentsorEFAstudentsinany
+6 manner, except that funds may be remitted or refunded to an EFA in accordance with procedures
+7 establishedbythe[scholarshiporganization]department.
+8 (c) Complywithallstateandfederalanti-discriminationlaws.
+9 11 Liability. AmendRSA194-F:9,IItoreadasfollows:
+10 II. No liability shall arise on the part of the [scholarship organization] department or the
+11 state or of any public school or school district based on the award of or use of an EFA pursuant to
+12 thischapter.
+13 12 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-3179
+Revised02/24/2026
+HB1820-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the department of education to administer the education freedom
+accountprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Upto$5,000,000PerYearIncrease
+FundingSource(s) GeneralFundandEducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Education to assume full responsibility for the
+administration and oversight of the Education Freedom Account (EFA) program, which is
+currently managed by an external scholarship organization. The Department states it does not
+currently have the staffing, operational capacity, or dedicated resources necessary to effectively
+manageaprogramofthisscale.
+The Department estimates the annual cost necessary for effective administration of the EFA
+program at $5,000,000 per year. This estimate is based on the administrative cost structure
+currently authorized in statute, which permits the scholarship organization to retain up to 10
+percent of total program expenditures for program administration. With current EFA
+expenditureexceeding$50,000,000 annually, the 10percent administrative allowance equates to
+approximately $5,000,000 million. The Department states it is possible that the actual costs
+associated with administering the EFA program could be significantly lower than $5,000,000
+annually, depending on the administrative model adopted by the Department, the extent to
+which program functions can be streamlined, and the degree to which existing Department
+infrastructure can be leveraged. For purposes of this fiscal note, however, $5,000,000 million is
+used as a conservative upper-bound estimate representing the highest anticipated annual cost
+
+necessary to ensure effective statewide management, administration, and oversight of the EFA
+program.
+AGENCIESCONTACTED:
+DepartmentofEducation

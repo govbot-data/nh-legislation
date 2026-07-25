@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1528 -ASINTRODUCED
+2026SESSION
+26-2701
+04/09
+1528
+HOUSEBILL
+ANACT relativetomethodsforrescindinglocaltaxcaps.
+SPONSORS: Rep.Gruber,Ches.16
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowstownsthatadoptedataxcapbeforemid-2025torepealitbysimplemajorityvote
+beforerevertingtoastricterthree-fifthsthresholdforallfuturerepeals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1528-ASINTRODUCED
+26-2701
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomethodsforrescindinglocaltaxcaps.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Municipal Budget; Method to Rescind Local Tax Cap. Amend RSA 32:5-c, VI to read as
+2 follows:
+3 VI. Any local political subdivision which has adopted RSA 32:5-b after July 1, 2025 may
+4 consider rescinding its action in the manner described in paragraphs I through V. The wording of
+5 the question shall be: "Shall we rescind the provisions of RSA 32:5-b, known as the tax cap, as
+6 adopted by the (local subdivision) on (date of adoption), so that there will no longer be a limit on
+7 increases to the recommended budget in the amount to be raised by local taxes?" A 3/5 majority of
+8 those voting on the question shall be required to rescind the provisions of this section, except in the
+9 case of repeal by charter enactment under RSA 49-D. Only votes in the affirmative or negative shall
+10 beincludedinthecalculationofthe3/5majority.
+11 2 New Paragraph; Municipal BudgetLaw; Method toRescind LocalTaxCap. Amend RSA32:5-
+12 cbyinsertingafterparagraphVIthefollowingnewparagraph:
+13 VII. Any local political subdivision which has adopted RSA 32:5-b before July 1, 2025 may
+14 consider rescinding its action in the manner described in paragraphs I through V. The wording of
+15 the question shall be: "Shall we rescind the provisions of RSA 32:5-b, known as the tax cap, as
+16 adopted by the (local subdivision) on (date of adoption), so that there will no longer be a limit on
+17 increasestotherecommendedbudgetintheamounttoberaisedbylocaltaxes?" Amajorityofthose
+18 votingonthequestionshallberequiredtorescind theprovisionsof thissection,except inthecaseof
+19 repeal by charter enactment under RSA 49-D. Only votes in the affirmative or negative shall be
+20 includedinthecalculationofthemajority.
+21 3 Repeal. RSA 32:5-c, VII, relative to relative to the method for rescinding local tax caps, is
+22 repealed.
+23 4 EffectiveDate.
+24 I. Section1ofthisactshalltakeeffectuponitspassage.
+25 II. Section2ofthisactshalltakeeffectJuly1,2026.
+26 III. Section3ofthisactshalltakeeffectJuly1,2028.

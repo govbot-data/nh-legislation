@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1783-FN-ASINTRODUCED
+2026SESSION
+26-3173
+07/06
+1783-FN
+HOUSEBILL
+ANACT relativetobenefitsissuedtocertainwater-relatedinfrastructureprojects.
+SPONSORS: Rep. Muns, Rock. 29; Rep. Booras, Hills. 8; Rep. de Vries, Rock. 29; Rep. Hegner,
+Hills. 41; Rep. Howland, Straf. 20; Rep. Lane, Merr. 16; Rep. Maggiore, Rock. 23;
+Rep. Read, Rock. 10; Rep. Stavis, Graf. 13; Sen. Altschiller, Dist 24; Sen. Perkins
+Kwoka,Dist21
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables the department of environmental services to confer certain benefits to certain
+water-basedinfrastructureprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1783-FN-ASINTRODUCED
+26-3173
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetobenefitsissuedtocertainwater-relatedinfrastructureprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; The State and Its Government; New Hampshire Housing Champion
+2 Designation and Grant Program; Champion Benefits. Amend RSA 12-O:73 by inserting after
+3 paragraphIIthefollowingnewparagraph:
+4 III. Notwithstanding any provision of law to the contrary, any innovative community based
+5 or regional water or wastewater treatment project determined by the department of environmental
+6 services to enable the construction of residential properties on smaller lot sizes in accordance with
+7 RSA 489-D shall be entitled to receive from the department of business and economic affairs, at its
+8 discretion, priority consideration for available grants from the housing champion designation and
+9 grantprogram.
+10 2 New Section; Towns, Cities, Village Districts, and Unincorporated Places; New Hampshire
+11 Municipal Bond Bank; Collective Municipal Economic Development Projects; Agreements. Amend
+12 RSA35-Abyinsertingaftersection42thefollowingnewsection:
+13 35-A:43 SupportforWaterandWastewaterTreatmentProjects. Notwithstandinganyprovision
+14 of law to the contrary, any innovative community-based or regional water or wastewater treatment
+15 project determined by the department of environmental services to enable the construction of
+16 residential properties on smaller lot sizes in accordance with RSA 489-D shall be entitled to receive
+17 preferredfinancingratesfromthemunicipalbondbank.
+18 3 New Chapter; Water and Wastewater Treatment Projects. Amend RSA by inserting after
+19 chapter489-Cthefollowingnewchapter:
+20 CHAPTER489-D
+21 WATERANDWASTEWATERTREATMENTPROJECTS
+22 489-D:1 Purpose. The purpose of this chapter is to encourage the development and installation
+23 of community and/or regional innovative water and wastewater treatment options that will enable
+24 theconstructionofresidentialpropertiesonsmallerlotsizes.
+25 489-D:2 Definitions. Asusedinthischapter:
+26 I. "Community based or regional water options" means community or regional small scale
+27 wells, as defined in RSA 485-C:2, XVII, that may assist in reducing the minimum lot size required
+28 foranyonesingleresidence.
+29 II. "Community based or regional wastewater treatment options" are community or regional
+30 smallscalesewagedisposalsystems,asdefinedinRSA485-A:2,XI;wastewatertreatmentplants,as
+
+HB1783-FN-ASINTRODUCED
+-Page2-
+1 defined in RSA 485-A:2, XVI-a; and/or wastewater facilities, as defined in RSA 485-A:2, XIX, that
+2 mayassistinreducingtheminimumlotsizerequiredforanyonesingleresidence.
+3 III. "Department"meansthedepartmentofenvironmentalservices.
+4 489-D:3 AdministrativeActions.
+5 I. The department shall determine whether an innovative community based or regional
+6 wateroptionorinnovativecommunitybasedorregionalwastewatertreatmentoptionpresentedtoit
+7 will,infact,enabletheconstructionofresidentialpropertiesonsmallerlotsizes.
+8 II. If the department determines that such innovative community based or regional water
+9 option or innovative community based or regional wastewater treatment option will enable the
+10 construction of residential properties on smaller lot sizes, it shall be entitled to receive from the
+11 department,atitsdiscretion,atleastoneofthefollowing:
+12 (a) Priorityconsiderationforavailablegrants;
+13 (b) Expeditedregulatoryapproval;or
+14 (c) Exemptionsfromcertainpermittingrequirements,asdeterminedbythedepartment.
+15 4 Department of Environmental Services; Directive. The department of environmental services,
+16 pursuant to RSA 488, shall adopt statewide or regional water-use standards for rental and owner-
+17 occupiedresidences.
+18 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3173
+Revised1/7/26
+HB1783-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetobenefitsissuedtocertainwater-relatedinfrastructureprojects.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$10,000to $10,000to $10,000to
+Expenditures* $0
+$100,000 $100,000 $100,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill authorizes the Department of Environmental Services to determine whether certain
+innovative community based or regional water and wastewater treatment projects enable
+residentialdevelopmentonsmallerlotsizesand,ifso,toprovidediscretionarybenefitsincluding
+priority consideration for grants, expedited regulatory approval, and exemptions from certain
+permitting requirements. The bill also authorizes eligible projects to receive preferred financing
+rates from the Municipal Bond Bank and directs the Department to adopt statewide or regional
+waterusestandards.
+The Department of Environmental Services states this bill would increase state expenditures.
+This bill requires the Department to perform new determinations related to innovative water
+and wastewater projects, adopt new water use standards, and potentially modify existing
+financial assistance and regulatory processes to support housing related infrastructure. While
+existing staff can perform the work, the Department states that additional funding would be
+required because federal funds cannot be used for activities related to promoting new housing
+development. The Department estimates these costs would be between $10,000 and $100,000
+perfiscalyearbeginninginFY2027andwouldrequireaGeneralFundappropriation.
+Lastly, the Department of Environmental Services states this bill would have no direct fiscal
+impact on local governments. The fiscal impact to municipalities is permissive and
+
+indeterminable, as participation is optional and any impact would depend on whether a
+municipalitychoosestopursuepreferredfinancingratesorotherbenefitsauthorizedbythisbill.
+The Department of Business and Economic Affairs states this bill can be administered within
+theDepartment’sexistingoperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServicesandDepartmentofBusinessandEconomicAffairs

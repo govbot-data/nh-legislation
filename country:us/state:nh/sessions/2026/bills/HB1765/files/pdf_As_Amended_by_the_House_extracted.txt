@@ -1,0 +1,112 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1765-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0473h
+2026SESSION
+26-2508
+08/06
+1765-FN
+HOUSEBILL
+ANACT enablingwineandbeveragemanufacturerstooffertastingsofandsellproductsof
+certainNewHampshirewineandbeveragemanufacturers.
+SPONSORS: Rep.Hunt,Ches.14
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables wine and beverage manufacturers to offer tastings of and to sell products of
+certainNewHampshirewineandbeveragemanufacturers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1765-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0473h 26-2508
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enablingwineandbeveragemanufacturerstooffertastingsofandsellproductsof
+certainNewHampshirewineandbeveragemanufacturers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;LiquorLicensesandFees;WineManufacturerLicense. AmendRSA178:8by
+2 insertingafterparagraphXIIthefollowingnewparagraph:
+3 XIII. For an additional annual fee of $120, any wine manufacturer licensee with sales of
+4 under 1,000 cases per licensing year may purchase products from a beverage manufacturer licensed
+5 under RSA 178:12, or another wine manufacturer licensed under this section, for the purpose of
+6 sampling or selling its products at the licensee's premises. Wine manufacturer licensees operating
+7 pursuanttothisparagraphshallbesubjecttothefollowinglimitations:
+8 (a) On-premisessamplesmaybesoldorgivenaway.
+9 (b) Sample sizes shall be limited to the provisions of RSA 178:12, II-a for beverages, and
+10 paragraphIIIofthissectionforwine.
+11 (c) Off-premises retail sales made at the beverage manufacturer’s facility or another
+12 winemanufacturer’sfacilityshallbelimitedtoproductsintheirunopenedoriginalcontainersandto
+13 customersandpersonsoflegaldrinkingage.
+14 (d) All sales and sampling activities must occur during the licensee's normal business
+15 hours.
+16 2 Liquor Licenses and Fees; Beverage Manufacturer License. RSA 178:12, XIV is repealed and
+17 reenactedtoreadasfollows:
+18 XIV. For an additional annual fee of $120, any beverage manufacturer licensee with
+19 production of under 2,500 barrels per licensing year may purchase products from any wine
+20 manufacturer licensed under RSA 178:8, or from any beverage manufacturer licensed under RSA
+21 178:12, regardless of such manufacturer's production volume for the purpose of sampling or selling
+22 such products at the licensee's premises. Beverage manufacturer licensees operating under this
+23 paragraphshallbesubjecttothefollowinglimitations:
+24 (a) On-premisessamplesmaybesoldorgivenaway.
+25 (b) Sample sizes shall be limited to the provisions of paragraph II-a of this section for
+26 beverages,andRSA178:8,IIIforwine.
+27 (c) Off-premises retail sales made at the wine manufacturer’s facility or another
+28 beverage manufacturer’s facility shall be limited to products in their unopened original containers
+29 andtocustomersandpersonsoflegaldrinkingage.
+
+HB1765-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (d) All sales and sampling activities must occur during the licensee's normal business
+2 hours.
+3 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2508
+3/27/26
+HB1765-FN-FISCALNOTE
+(ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0473h)
+ANACT enablingwineandbeveragemanufacturerstooffertastingsofandsellproductsof
+certainNewHampshirewineandbeveragemanufacturers.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+$10,000to $10,000to $10,000to
+$100,000 $100,000 $100,000
+LiquorFund/GeneralFund-Liquorrevenueiscreditedtotheliquorfund,
+RevenueFund(s) withnetrevenuesafterexpendituresbeingcreditedtothestategeneral
+fund.
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill allows certain small wine manufacturers and beverage manufacturers to purchase
+products from other licensed manufacturers for the purpose of sampling and retail sales, subject
+tospecified limitations, and establishes anadditional annual license feeof $120for participating
+manufacturers.
+The Liquor Commission states this bill allows qualifying wine manufacturers producing under
+1,000 cases per year and beverage manufacturers producing under 2,500 barrels per year to
+purchase products from other licensed manufacturers for sampling and retail sales at their
+premises, for an additional annual fee of $120. The Commission estimates this fee would result
+in an increase in state revenue of $10,000 to $100,000 annually beginning in FY 2027 and
+forward.
+The Commission further states all beverages manufactured in New Hampshire are subject to a
+tax of $0.30 per gallon. To the extent the bill results in increased sales, additional revenue from
+thistaxmayoccur;however,anysuchincreaseisindeterminable.
+
+AGENCIESCONTACTED:
+LiquorCommission

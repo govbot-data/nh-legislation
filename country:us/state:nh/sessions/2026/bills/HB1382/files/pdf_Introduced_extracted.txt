@@ -1,0 +1,112 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1382 -ASINTRODUCED
+2026SESSION
+26-3163
+08/09
+1382
+HOUSEBILL
+ANACT relativetoproofof citizenshipfor overseas votersvotingundertheUniformed and
+OverseasCitizensAbsenteeVotingAct.
+SPONSORS: Rep. McGrath, Rock. 40; Rep. Bernardy, Rock. 36; Rep. DeVito, Rock. 8; Rep.
+Ford, Rock. 3; Rep. Korzen, Coos 7; Rep. Litchfield, Rock. 32; Rep. Mary Murphy,
+Hills. 27; Rep. Porcelli, Rock. 19; Rep. Sabourin dit Choiniere, Rock. 30; Rep.
+Wherry,Hills.13
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires proof of citizenship for certainoverseas voters votingunder theUniformed and
+OverseasCitizensAbsenteeVotingAct.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1382-ASINTRODUCED
+26-3163
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoproofof citizenshipfor overseas votersvotingundertheUniformed and
+OverseasCitizensAbsenteeVotingAct.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act shall be known as the "New Hampshire UOCAVA Voter Citizenship
+2 VerificationActof2026."
+3 2 NewSubdivision;UOCAVAVoterCitizenshipVerification. AmendRSA657byinsertingafter
+4 section26thefollowingnewsubdivision:
+5 UOCAVAVoterCitizenshipVerification
+6 657:27 Purpose. The purpose of this act is to ensure the integrity of the electoral process by
+7 requiring Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) voters, except military
+8 members and their families, to submit proof of United States citizenship one time to be eligible to
+9 voteinNewHampshireelections,effectiveJanuary1,2026.
+10 657:28 Definitions. Inthissubdivision:
+11 I. "UOCAVA voter" means an individual eligible to vote in New Hampshire under the
+12 UniformedandOverseasCitizensAbsenteeVotingAct(52U.S.C.sections20301–20311).
+13 II. "Military member" means an individual serving as a member of the uniformed services,
+14 as defined in 52 U.S.C. section 20310, including active duty and reserve components of the Army,
+15 Navy,AirForce,MarineCorps,CoastGuard,orSpaceForce.
+16 III. "Family of a military member" means the spouse or dependent of a military member, as
+17 definedin52U.S.C.section20310.
+18 IV. "Proof of citizenship" means a valid document establishing United States citizenship,
+19 including but not limited to a United States passport, birth certificate issued by a United States
+20 stateorterritory,CertificateofCitizenship,orNaturalizationCertificate.
+21 V. "Secretary of state" refers to the New Hampshire secretary of state or their designated
+22 representative.
+23 657:29 CitizenshipVerificationRequirementforUOCAVAVoters.
+24 I. Beginning January 1, 2027, all UOCAVA voters, except military members and their
+25 families, seeking to register or maintain voter registration in New Hampshire shall submit proof of
+26 citizenshiponetimetothesecretaryofstate.
+27 II. Military members and their families shall be exempt from the proof of citizenship
+28 requirementunderthissubdivision.
+29 III. The secretary of state shall accept the following as proof of citizenship for non-exempt
+30 UOCAVAvoters:
+
+HB1382 -ASINTRODUCED
+-Page2-
+1 (a) AvalidUnitedStatespassport(copyoftheidentificationpage).
+2 (b) AUnitedStatesbirthcertificateissuedbyastate,territory,orauthorizedagency.
+3 (c) A Certificate of Citizenship issued by the United States Citizenship and Immigration
+4 Services(USCIS).
+5 (d) ANaturalizationCertificateissuedbyUSCIS.
+6 (e) Other documents deemed acceptable by the secretary of state that establish United
+7 Statescitizenshipunderfederallaw.
+8 IV. Proof of citizenship may be submitted electronically through a secure portal established
+9 by the secretary of state or by mail to the office of the secretary of state. The submission shall
+10 include the voter’s full name, date of birth, and New Hampshire voter registration details, if
+11 applicable.
+12 V. The secretary of state shall verify the submitted proof of citizenship in accordance with
+13 federal and state guidelines. Upon verification, the voter’s record shall be updated to reflect
+14 compliancewiththisrequirement.
+15 657:30 VoterNotificationandEducation.
+16 I. The secretary of state shall notify all registered non-exempt UOCAVA voters of the new
+17 citizenship verification requirement by October 1, 2026, via email, mail, or other means consistent
+18 with UOCAVA communication protocols. Military members and their families shall be notified of
+19 theirexemptionfromthisrequirement.
+20 II. The secretary of state shall develop and distribute educational materials, including
+21 online resources, explaining the citizenship verification process, acceptable documents, submission
+22 deadlines, and the exemption for military members and their families. These materials shall be
+23 availableinEnglishandotherlanguagesasrequiredbyfederallaw.
+24 III. The secretary of state shall provide assistance to non-exempt UOCAVA voters to
+25 facilitate compliance, including technical support for electronic submissions and guidance on
+26 obtainingacceptabledocumentation.
+27 659:31 ComplianceandEnforcement.
+28 I. No non-exempt UOCAVA voter shall be permitted to cast a ballot in a New Hampshire
+29 election after January 1, 2027, unless their proof of citizenship has been verified by the secretary of
+30 stateortheyqualifyfortheexemptionunderRSA657:29.
+31 657:32 Rulemaking. The secretary of state shall adopt rules, pursuant to RSA 541-A, necessary
+32 toimplement this act, including procedures for document submission, verification, voter notification,
+33 andidentificationofmilitarymembersandtheirfamiliesforexemptionpurposes.
+34 657:33 Federal Compliance. This act shall be implemented in a manner consistent with the
+35 Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. sections 20301–20311) and other
+36 applicablefederallaws. Nothinginthisactshallbeconstruedtodenyorabridgethevotingrightsof
+37 UOCAVAvoters,includingmilitarymembersandtheirfamilies,protectedunderfederallaw.
+
+HB1382 -ASINTRODUCED
+-Page3-
+1 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

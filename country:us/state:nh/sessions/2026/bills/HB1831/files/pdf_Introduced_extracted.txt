@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1831-FN-ASINTRODUCED
+2026SESSION
+26-2399
+07/05
+1831-FN
+HOUSEBILL
+ANACT repealingtheeducationtrustfundtargetedaidcap.
+SPONSORS: Rep.Chretien,Hills.19;Rep.Cornell,Hills.22;Rep.Damon,Sull.8;Rep.Kerwin,
+Hills.40;Sen.Long,Dist20
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals thefunding cap ontargeted aid for purposes of determiningeducation adequacy
+grants.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1831-FN-ASINTRODUCED
+26-2399
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingtheeducationtrustfundtargetedaidcap.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Adequate Education; Education Trust Fund. Amend RSA 198:41, I to read as
+2 follows:
+3 I. Exceptformunicipalitieswhereallschooldistrictsthereinprovideeducationtoalloftheir
+4 pupils by paying tuition to other institutions, the department of education shall determine the total
+5 educationgrantforthemunicipalityasfollows:
+6 (a) Add the per pupil cost of providing the opportunity for an adequate education for
+7 whicheachpupiliseligiblepursuanttoRSA198:40-a,I-III,andfromsuchamount;
+8 (b) Subtract the amount of the education tax warrant to be issued by the commissioner
+9 ofrevenueadministrationforsuchmunicipalityreportedpursuanttoRSA76:8forthenexttaxyear;
+10 (c) Addthemunicipality'sextraordinaryneedgrantpursuanttoRSA198:40-f;and
+11 (d) Add the municipality's fiscal capacity disparity aid grant pursuant to RSA 198:40-g[;
+12 and
+13 (e) For municipalities with a total ADMR of 5,000 or more, subtract the amount
+14 necessary to limit the total additional targeted aid to $3,750 per pupil in the municipality's ADMR.
+15 For the purpose of this paragraph, additional targeted aid shall be the sum of a municipality's
+16 extraordinaryneedsgrantandfiscalcapacitydisparityaidgrant].
+17 2 Repeal. 2025, 142:3, relative to the determination of education grants effective July 2027, is
+18 repealed.
+19 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026,at12:01a.m.
+
+LBA
+26-2399
+Revised1/20/26
+HB1831-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingtheeducationtrustfundtargetedaidcap.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+IncreaseofApproximately
+Expenditures* $0 $0
+$9MPerYear
+FundingSource(s) EducationTrustFund
+StatutoryOpenWarrantExistsfor
+Appropriations* $0 $0
+AdequateEducationPayments
+FundingSource(s) EducationTrustFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CityofManchester
+LocalRevenue $0 $0 IncreaseofApproximately
+$9MPerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill repeals RSA 198:41, I(e), which limits state adequacy targeted aid of a municipality of
+5,000 ADMR (average daily membership in residence), or more, to $3,750 per ADMR. It is
+estimated the targeted aid cap would only impact the City of Manchester. The Department of
+Education does not have an official estimate for FY 2028, however, the cost to remove the
+targetedaidcapwouldbeapproximately$9millioninFY2028andhaveasimilarcosteachyear
+after.
+AGENCIESCONTACTED:
+DepartmentofEducation

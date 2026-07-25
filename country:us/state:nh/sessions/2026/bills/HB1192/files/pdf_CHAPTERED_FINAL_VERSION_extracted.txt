@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER120
+HB1192-FINALVERSION
+2026SESSION
+26-2483
+08/07
+1192
+HOUSEBILL
+ANACT exempting certain household pharmaceutical wastes from the definition of hazardous
+waste.
+SPONSORS: Rep.Haskins,Rock.11;Rep.N.Germana,Ches.15
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillexemptscertainhouseholdpharmaceuticalwastesfromthedefinitionofhazardouswaste.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER120
+HB1192-FINALVERSION
+26-2483
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT exempting certain household pharmaceutical wastes from the definition of hazardous
+waste.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 120:1 HazardousWasteManagement;Definitions. AmendRSA147-B:2,VII(b)toreadasfollows:
+2 (b) Or which has been identified as a hazardous waste by the department using the criteria
+3 established under RSA 147-A:3, I or as listed under RSA 147-A:3, II. Such wastes include, but are not
+4 limited to, those which are reactive, toxic, corrosive, ignitable, irritants, strong sensitizers or which
+5 generate pressure through decomposition, heat or other means. Such wastes do not include radioactive
+6 substances that are regulated by the Atomic Energy Act of 1954, as amended, or household
+7 pharmaceuticalwastescollectedpursuanttoRSA318-E.
+8 120:2 HazardousWasteManagement;Definitions. AmendRSA147-C:1,VI(b)toreadasfollows:
+9 (b) Or which has been identified as a hazardous waste by the department using the criteria
+10 established under RSA 147-A:3, I or as listed under RSA 147-A:3, II. Such wastes include, but are not
+11 limited to, those which are reactive, toxic, corrosive, ignitable, irritants, strong sensitizers or which
+12 generate pressure through decomposition, heat or other means. Such wastes do not include radioactive
+13 substances that are regulated by the Atomic Energy Act of 1954, as amended, or household
+14 pharmaceuticalwastescollectedpursuanttoRSA318-E.
+15 120:3 HazardousWasteManagement;Definitions. AmendRSA147-D:1,VI(b)toreadasfollows:
+16 (b) Or which has been identified as a hazardous waste by the department using the criteria
+17 established under RSA 147-A:3, I or as listed under RSA 147-A:3, II. Such wastes include, but are not
+18 limited to, those which are reactive, toxic, corrosive, ignitable, irritants, strong sensitizers or which
+19 generate pressure through decomposition, heat or other means. Such wastes do not include radioactive
+20 substances that are regulated by the Atomic Energy Act of 1954, as amended, or household
+21 pharmaceuticalwastescollectedpursuanttoRSA318-E.
+120:4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June05,2026
+EffectiveDate:August04,2026

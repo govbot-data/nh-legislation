@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER301
+HB1348-FINALVERSION
+04/23/2026 1556s
+4Jun2026...2154EBA
+2026SESSION
+26-3140
+09/08
+1348
+HOUSEBILL
+ANACT relativetopossessionofhumanremainsforlawenforcementtrainingpurposes.
+SPONSORS: Rep. Roy, Rock. 31; Rep. Devoid, Merr. 1; Rep. D. Mannion, Rock. 25; Rep. Rhodes,
+Ches.17;Rep.Spillane,Rock.2;Sen.Birdsell,Dist19;Sen.Gannon,Dist23
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes law enforcement to possess human remains, upon written consent, for the
+purposeoftrainingcadaverdogs.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER301
+HB1348-FINALVERSION
+04/23/2026 1556s
+4Jun2026...2154EBA 26-3140
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopossessionofhumanremainsforlawenforcementtrainingpurposes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 301:1 Purpose. Thischapterestablishesthelegalframeworkunderwhichlawenforcementagencies
+2 in the state of New Hampshire may possess portions of human remains for the sole purpose of training
+3 cadaver detection canines, while ensuring compliance with ethical standards and respect for the
+4 deceased.
+5 301:2 NewChapter;PossessionofHumanRemainsforLawEnforcementPurposes. AmendRSAby
+6 insertingafterchapter291-Athefollowingnewchapter:
+7 CHAPTER291-B
+8 POSSESSIONOFHUMANREMAINSFORLAWENFORCEMENTPURPOSES
+9 291-B:1 Definitions.
+10 Asusedinthischapter:
+11 I. “Cadaver canine” means a dog trained to detect the scent of human remains for law
+12 enforcementpurposes.
+13 II. “Portions of human remains” shall mean identifiable human tissue, bone, or other anatomical
+14 materialderivedfromadeceasedindividual.
+15 291-B:2 AuthorizationandConsenttoPossessHumanRemainsforLawEnforcementTraining.
+16 I. Law enforcement agencies may possess portions of human remains for cadaver canine
+17 trainingonlyunderthefollowingconditions:
+18 (a) Writtenconsentisobtainedfrom:
+19 (1) Thenextofkinorlegalrepresentativeofthedeceased; or
+20 (2) The deceased individual, prior to death, through a legally valid document expressing
+21 theirintenttodonatetheirbodyorportionsthereofforscientificorlawenforcementtrainingpurposes.
+22 (b) The consent explicitly authorizes the use of the remains for training purposes and
+23 identifiesthespecificportionstobeused.
+24 II. The written consent shall be maintained by both the law enforcement agency and the funeral
+25 home or mortuary involved. Such documentation shall be made available for inspection by the law
+26 enforcementagencyorotherregulatoryauthoritiesuponrequest.
+27 291-B:3 ConductDuringPossessionofHumanRemains;Return.
+28 I. Upon completion of training, all remaining portions of the human remains shall be returned to
+29 either:
+30 (a) The institution of higher education located in New Hampshire that assisted in the
+31 preparationofthetrainingaids;or
+
+CHAPTER301
+HB1348-FINALVERSION
+-Page2-
+1 (b) Acompanylicensedtoconduct humanmedical wastedisposal inNewHampshire. Such
+2 companies shall be authorized by the New Hampshire department of environmental services to collect,
+3 transport, and dispose of regulated medical waste in compliance with all applicable state and federal
+4 regulations.
+5 II. The funeral home or mortuary shall ensure the proper and lawful disposition of the remains in
+6 accordancewithRSA290andotherapplicablelaws.
+7 III. Institutions of higher education located in New Hampshire may assist in the preparation of
+8 trainingaidsderivedfromhumanremainsforlawenforcementpurposes,providedthat:
+9 (a) The institution employs or contracts with a properly trained and credentialed medical
+10 professional, including a doctor of philosophy (Ph.D.) in a relevant anatomical or forensic science field, a
+11 doctor of osteopathic medicine (D.O.), or a doctor of medicine (M.D.), who shall oversee the preparation
+12 process.
+13 (b) Thepreparation of thetrainingaid occurson-siteat a licensedfuneral homeor mortuary,
+14 withtheconsentofthefuneraldirectorandinaccordancewithallapplicablehealthandsafetyregulations.
+15 (c) Theinstitutionmaintainsawrittenagreementwiththelawenforcementagencyrequesting
+16 thetrainingaid,outliningthescopeofwork,handlingprocedures,andchainofcustodyfortheremains.
+17 (d) All activities are conducted in compliance with the consent requirements outlined in RSA
+18 291-B:2,IandII.
+19 291-B:4 Agency Policy Requirements. Any law enforcement agency in New Hampshire that
+20 conducts training involving the possession or use of human remains for cadaver canine or related law
+21 enforcement purposes shall develop and maintain a written policy governing such activities. This policy
+22 shallbesubmittedtoandkept onfilewiththeNewHampshirepolicestandardsandtrainingcouncil. The
+23 policyshallinclude,ataminimum:
+24 I. A detailed acquisition plan outlining the lawful and ethical process for obtaining human
+25 remains,includingdocumentationofconsentasrequiredunderRSA291-B:2.
+26 II. A handling, storage, and documentation plan that ensures the secure, respectful, and
+27 traceablemanagementofhumanremainsthroughoutthetrainingprocess.
+28 III. A destruction or final disposition plan that complies with RSA 291-B:3 and applicable state
+29 andfederalregulations,includingproceduresforreturningremainstoanauthorizedinstitutionorlicensed
+30 medicalwastedisposalprovider.
+301:3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July10,2026
+EffectiveDate:September08,2026

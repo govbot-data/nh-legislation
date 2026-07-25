@@ -1,0 +1,380 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER297
+HB1268-FINALVERSION
+11Mar2026...0887h
+11Mar2026...1098h
+05/07/2026 1737s
+05/07/2026 1872s
+4Jun2026...2170EBA
+2026SESSION
+26-2511
+12/06
+1268
+HOUSEBILL
+ANACT modifyingthestructureandadministrationofhomeeducationprogramsandrelativeto
+pharmacy benefits managers, managed care laws, notice of drug pricing options and
+pharmacybenefitmanagerbusinesspractices.
+SPONSORS: Rep. Noble, Hills. 2; Rep. Drago, Rock. 4; Rep. Drye, Sull. 7; Rep. Freeman, Belk. 8;
+Rep. Granger, Straf. 2; Rep. Layon, Rock. 13; Rep. Tom Mannion, Hills. 1; Rep.
+Mazur,Hills.44;Rep.Osborne,Rock.2;Rep.Peternel,Carr.6;Sen.Murphy,Dist16;
+Sen.Sullivan,Dist18
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Replacesthecurrent frameworkfor homeeducationprogramsinNewHampshirebymodifyingthe
+definitions,administration,andrequirementsofsuchprograms.
+II. Establishes a parental right to home education for his or her own child, and a right to maintain
+privacyininformationrelatedtotheadministrationoftheirhomeeducationprogram.
+III. Removes cross-references to both the previous framework for home education programs and
+considerationsofeducationintheassessmentofchildneglect.
+IV. Directs the state board of education to repeal certain administrative rules relative to the prior
+framework.
+V. Requires a written agreement to be formed between pharmacy benefits managers and health
+carriersbeforebenefitsmanagerscanoperate.
+VI. Amendspharmacybenefitsmanagerreportingandexaminationrequirements.
+VII. Raisesthevalueofthemaximumadministrativefinethatcanbeleviedforviolationsofthestate's
+pharmacybenefitsmanagerlaws.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER297
+HB1268-FINALVERSION
+11Mar2026...0887h
+11Mar2026...1098h
+05/07/2026 1737s
+05/07/2026 1872s
+4Jun2026...2170EBA 26-2511
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT modifyingthestructureandadministrationofhomeeducationprogramsandrelativeto
+pharmacy benefits managers, managed care laws, notice of drug pricing options and
+pharmacybenefitmanagerbusinesspractices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 297:1 ShortTitle. Thisactshallbeknownasthe"HomeEducationFreedomAct".
+2 297:2 AccesstoPublicSchoolProgramsbyNonpublic,PublicCharteredSchools,orHomeEducated
+3 Pupils;HomeSchoolsCross-ReferenceAdded. AmendRSA193:1-c,IItoreadasfollows:
+4 II. Nothing in this section shall be construed to require a parent to establish a home education
+5 programwhichexceedstherequirementsofRSA193:1orRSA193-A.
+6 297:3 Home Education; Definitions and Administration of Program Modified. RSA 193-A:1-5 is
+7 repealedandreenactedtoreadasfollows:
+8 193-A:1 Definitions.
+9 I. “Certificate of completion” means an optional document signed by the parent of a home
+10 educatedchildcertifyingthatthechildhascompletedahomeeducationprogram.
+11 II. “Child" means a child or children at least 6 years of age and under 18 years of age who is a
+12 residentofNewHampshire.
+13 III. “Optionaldeclarationofhomeeducation”meansanoptionalwrittenstatementthatthestudent
+14 is home educated and meets the New Hampshire compulsory attendance requirements, signed by a
+15 parentwhichidentifiesahomeeducatedstudentbyname,dateofbirth,andcurrentaddress.
+16 IV. “Home educated student” means a student receiving an education provided, coordinated, or
+17 directedbyaparentforhisorherownchild. Thisdefinitionshallnotincludeastudentparticipatinginthe
+18 educationfreedomaccountprogramestablishedinRSA194-F.
+19 V. “Parent"meansaparent,guardian,orpersonhavinglegalcustodyofachild.
+20 VI. “Residentdistrict"meanstheschooldistrictinwhichthechildresides.
+21 193-A:2 Program Established; Purpose. The general court recognizes that the right of a parent to
+22 direct the education of their child is a natural right. A parent may elect to educate his or her own child at
+23 homeinaccordancewiththischapter.
+24 193-A:3 Optional Declaration of Home Education. A declaration of home education shall not be
+25 required, except to obtain access to public school programs pursuant to RSA 193:1-c or upon withdrawal
+26 fromapublicschool.
+27 193-A:4 Parental Right to Home Education; Independence of Home Education, Program Schedule,
+28 Privacy,andTerminationofProgram.
+
+CHAPTER297
+HB1268-FINALVERSION
+-Page2-
+1 I. A parent shall have the right to establish a home education program for his or her own child,
+2 regardlessofability,disability,developmentalstatus,oreducationalneeds.
+3 II. The resident district superintendent shall workwith parents upon request in meeting the goals
+4 of their home education program. No superintendent, school board, school principal, other school district
+5 official, local official, or state official shall propose, adopt, or enforce any policy or procedure governing
+6 homeeducatedstudentsexceptforpoliciesrelatedtothecoursesandprogramsdescribedinRSA193:1-
+7 c.
+8 III. Dates and hours of instruction shall not be required to coincide with the resident district
+9 calendar. The academic term of a home education program shall not be required to coincide with the
+10 residentdistrictacademicyear.
+11 IV. Except inthecircumstancewhereastudent isincludedintheresident district'saverage daily
+12 membership in attendance or ADMA pursuant to RSA 198:38 or by participating in the statewide
+13 assessment,thehomeeducatedchildshallnot:
+14 (a) Havetheirdatatrackedthroughthestatewidelongitudinaldatasystem(SLDS)asdefined
+15 byRSA189:65;or
+16 (b) HavetheirstudentinformationcollectedpursuanttoRSA193-E:5.
+17 V. Participation in a home education program pursuant to this chapter shall be presumed as
+18 educationrequiredbylaw. ThereforeinproceedingsunderRSA169-Cthestateshallnot:
+19 (a) Use such participation as evidence of, or as a basis for finding, failure to provide
+20 educationasrequiredbylaw;
+21 (b) Consider such participation in a home education program as a negative factor in
+22 assessingtheadequacyofmeetingachild'seducationneeds;and
+23 (c) Use the lack of notice, records, evaluations, or assessments in a home education
+24 programoperatedconsistentwiththischapterasafailuretoprovideeducationasrequiredbylaw.
+25 VI. Anyinformationsubmittedtoanystateagency,schooldistrict,orgovernmententityregarding
+26 a home education program shall be confidential and shall not be disclosed to any other state agency,
+27 federal agency, or third partywithout the writtenconsent of the parent. Such disclosurebya government
+28 employeeactinginanofficialcapacity,shallconstituteaviolationofRSA91-A:8,IV.
+29 VII. Ahomeeducationprogramisterminatedwhenahomeeducatedstudentisenrolledfulltime
+30 inapublicschool,apubliccharterschool,anonpublicschool,ortheeducationfreedomaccountprogram
+31 establishedinRSA194-F.
+32 193-A:5 OptionalCertificateofCompletion. Aparentmaycertifythecompletionofahomeeducation
+33 programpursuanttothischapter.
+34 I. Acertificateofcompletionmayincludethefollowinginformation:
+35 (a) Nameanddateofbirthofthechild;
+36 (b) Namesoftheparents;
+37 (c) Dateofcompletionofthehomeeducationprogram;and
+38 (d) Signatureoftheparent.
+
+CHAPTER297
+HB1268-FINALVERSION
+-Page3-
+1 II. If a parent submits the certificate of completion to the commissioner of the department of
+2 education, within 30 days of receipt the commissioner shall issue a certificate of completion which shall
+3 include the home education student has completed a home education program in the state of New
+4 HampshirepursuanttoRSA193-A.
+5 297:4 Education Freedom Accounts; Home Education Notification Requirement Removed. Amend
+6 RSA194-F:2,IXtoreadasfollows:
+7 IX. A home education program pursuant to [RSA 193-A:5] RSA193-Ais terminated upon the
+8 commencement of a student's participation in [an]theEFA program. [A parent shall provide notification
+9 pursuant to RSA 193-A:5 when a student starts participating in an EFA program.] Ifthestudentis
+10 accessingprogramspursuantto193:1-c,aparentshallnotifytheresidentdistrictthatthestudentisnow
+11 participatingintheEFAprogram.
+12 297:5 Costsof CapitalOutlayandOperation; Cross-ReferencetoExceptionRemoved. AmendRSA
+13 195:7,IItoreadasfollows:
+14 II. Home education pupils who do not receive services from the cooperative school district [,
+15 except anevaluation pursuant toRSA 193-A:6, II,] shall not be includedinthe averagedaily membership
+16 relativetoapportionmentformulas.
+17 297:6 Procedure for Formation of Cooperative School District; Cross-Reference to Exception
+18 Removed. AmendRSA195:18,III(e)-(g)toreadasfollows:
+19 (e) The method of apportioning the operating expenses of the cooperative school district
+20 among the several preexisting districts and the time and manner of payment of such shares. Home
+21 education pupils who do not receive services from the cooperative school district[, except an evaluation
+22 pursuant to RSA 193-A:6, II] shall not be included in the average daily membership relative to
+23 apportionmentformulas.
+24 (f) The indebtedness of any preexisting district which the cooperative school district is to
+25 assume.
+26 (g) Themethodofapportioningthecapitalexpensesofthecooperativeschooldistrictamong
+27 the several preexisting districts, which need not be the same as the method for apportioning operating
+28 expenses,andthetimeandmannerofpaymentofsuchshares. Capitalexpensesshallincludethecosts
+29 ofacquiringlandandbuildingsforschoolpurposes,includingpropertyownedbyapreexistingdistrict;the
+30 construction, furnishing and equipping of school buildings and facilities; and the payment of the principal
+31 and interest of any indebtedness which is incurred to pay for the same or which is assumed by the
+32 cooperative school district. Home education pupils who do not receive services from the cooperative
+33 school district [, except an evaluation pursuant to RSA 193-A:6, II,] shall not be included in the average
+34 dailymembershiprelativetoapportionmentformulas.
+35 297:7 Child Protection Act; Definitions; Neglected Child; Home Education Program Participation
+36 Exempted. AmendRSA169-C:3,XIXtoreadasfollows:
+37 XIX. "Neglectedchild"meansachild:
+38 (a) Whohasbeenabandonedbyhisorherparents,guardian,orcustodian;or
+
+CHAPTER297
+HB1268-FINALVERSION
+-Page4-
+1 (b) Whoiswithoutproperparentalcareorcontrol,subsistence,educationasrequiredbylaw,
+2 or other care or control necessary for the child's physical, mental, or emotional health, when it is
+3 establishedthatthechild'shealthhassufferedorislikelytosufferseriousimpairment;andthedeprivation
+4 isnotdueprimarilytothelackoffinancialmeansoftheparents,guardian,orcustodian;or
+5 (c) Whoseparents,guardianorcustodianareunabletodischargetheirresponsibilitiestoand
+6 forthechildbecauseofincarceration,hospitalizationorotherphysicalormentalincapacity;
+7 Provided,that nochildwhois, ingoodfaith,under treatment solelybyspiritual meansthroughprayer
+8 in accordance with the tenets and practices of a recognized church or religious denomination by a duly
+9 accredited practitioner thereof shall, for that reason alone, be considered to be a neglected child under
+10 this chapter. AchildparticipatinginahomeeducationprogramunderRSA193-Aoraneducation
+11 programfundedthroughaneducationfreedomaccountunderRSA194-Fshallnotbeconsidereda
+12 neglectedchildunderthischaptersolelyonthebasisofsuchparticipation.
+13 297:8 Department of Education; Rulemaking; Cross-Reference Added. Amend RSA 21-N:9, II(g) to
+14 readasfollows:
+15 (g) Homestudy,asauthorizedbyRSA193:1,I(c).
+16 297:9 Agency Directive; Repeal of Administrative Rules. Immediately upon passage of this act, the
+17 state board of education shall undertake and complete expedited repeal of rules Ed 315, as described in
+18 RSA541-A:19-a.
+19 297:10 Repeal. Thefollowingarerepealed:
+20 I. RSA193-A:6,relativetotherecordkeepingandevaluationofhomeeducationprograms.
+21 II. RSA193-A:10,relativetothehomeeducationadvisorycouncil.
+22 III. RSA 193-A:11, relative to the authority of school district officials in governance of home
+23 educationprograms.
+24 297:11 PharmacyBenefitsManagers;Definitions. AmendRSA402-N:1,VIIItoreadasfollows:
+25 VIII.(a) "Pharmacy benefits manager" means a person, business, or other entity, including a
+26 wholly or partially owned or controlled subsidiary of a pharmacy benefits managerorofalicensedhealth
+27 insurer, that, pursuant to a contract with a health carrier, manages the prescription drug coverage
+28 providedbythehealthcarrierforhealthcoverageasdefinedinRSA420-G:2,IX,including,butnotlimited
+29 to, providing claims processing services for prescription drugs, performing drug utilization review,
+30 processingdrugprior authorizationrequests,adjudicationof grievancesorappealsrelatedtoprescription
+31 drug coverage, contracting with network pharmacies, and controlling the cost of covered prescription
+32 drugs.
+33 (b) "Pharmacybenefitsmanager"shallnotincludeany:
+34 (1) Healthcarefacilitylicensedinthisstate;
+35 (2) Healthcareprofessionallicensedinthisstate;
+36 (3)Consultantwhoonlyprovidesadviceastotheselectionorperformanceofapharmacy
+37 benefitsmanager;or
+38 (4) ServiceprovidedtotheCentersforMedicareandMedicaidServices[;or].
+
+CHAPTER297
+HB1268-FINALVERSION
+-Page5-
+1 [(5) Health insurer licensed in this state if the health insurer or its subsidiary is providing
+2 pharmacybenefitsmanagementservicesexclusivelytoitsowninsureds.]
+3 297:12 Pharmacy Benefits Managers; Registration to do Business; Rulemaking; Penalties. Amend
+4 RSA402-N:2,III(a)toreadasfollows:
+5 (a) [Foreachseparateviolation,apenaltyintheamountof$2,500]Anadministrativefinenot
+6 toexceed$5,000perviolation.
+7 297:13 New Section; Written Agreements. Amend RSA 402-N by inserting after section 2 the
+8 followingnewsection:
+9 402-N:2-a WrittenAgreement.
+10 I. No pharmacy benefits manager shall act as such without a written agreement between the
+11 pharmacybenefitsmanagerandthehealthcarrier. Thewrittenagreementshallberetainedaspartofthe
+12 official records of both the health carrier and the pharmacy benefits manager for the duration of the
+13 agreementandfor5yearsthereafter. Theagreementshallcontainallprovisionsrequiredbythischapter,
+14 except insofar as those requirements do not apply to the functions performed by the pharmacy benefits
+15 manager.
+16 II. Thewrittenagreementshallincludethefollowing:
+17 (a) A statement of duties that the pharmacy benefits manager is expected to perform on
+18 behalfofthehealthcarrier.
+19 (b) Astatementthatthepharmacybenefitsmanagershallmaintainandmakeavailabletothe
+20 healthcarriercompletebooksandrecordsofalltransactionsperformedonbehalfofthehealthcarrier.
+21 (c) The instructions for how the pharmacy benefits manager will undertake the duties
+22 delegatedbythehealthcarrier.
+23 III. In cases in which a pharmacy benefits manager administers benefits for more than 100
+24 covered lives in New Hampshire on behalf of the health carrier, the health carrier may, at least semi-
+25 annually,conductanon-siteorvirtualauditoftheoperationsofthepharmacybenefitsmanager.
+26 297:14 Pharmacy Benefits Manager Reporting. RSA 402-N:6 is repealed and reenacted to read as
+27 follows:
+28 402-N:6 PharmacyBenefitsManagerReporting.
+29 I. Each pharmacy benefits manager shall submit to the commissioner annually a report
+30 containing a list of health benefit plans it administered and the rebates it collected from pharmaceutical
+31 manufacturers that were attributable to patient utilization in the state of New Hampshire during the prior
+32 calendaryear. Thereportsubmittedtothecommissionershallincludethefollowinginformation:
+33 (a) Theaggregatedollaramountspentondrugspriortorebates;
+34 (b) Theaggregatedollaramount of allrebatesthatpharmacy benefitmanager receivedfrom
+35 allpharmaceuticalmanufacturers;
+36 (c) Theaggregatedollaramountofalladministrativefeesthatthepharmacybenefitmanager
+37 received;
+38 (d) The aggregate dollar amount of all health carrier administrative service fees that the
+39 pharmacybenefitmanagerreceived;
+
+CHAPTER297
+HB1268-FINALVERSION
+-Page6-
+1 (e) The aggregate dollar amount of all rebates that the pharmacy benefit manager received
+2 fromallpharmaceuticalmanufacturersanddidnotpassthroughtohealthplansorhealthcarriers;
+3 (f) Theaggregatedollaramountofalladministrativefeesthatthepharmacybenefitmanager
+4 received from all pharmaceutical manufacturers and did not pass through to health plans or health
+5 carriers;
+6 (g) Theaggregateretainedrebatepercentage;and
+7 (h) Across all of the pharmacy benefit manager’s contractual or other relationships with all
+8 health plans or health carriers, the highest aggregate retained rebate percentage, the lowest aggregate
+9 retainedrebatepercentage,andthemeanaggregateretainedrebatepercentage.
+10 II. Information reported to the commissioner pursuant to this section shall be confidential and
+11 protected from disclosure under the commissioner's examination authority and shall not be considered a
+12 public record subject to disclosure under RSA 91-A. Based on this reporting, the commissioner shall
+13 make public aggregated data on the overall amount of rebates collected on behalf of covered persons in
+14 thestate,butshallnotreleasedatathatidentifiesaspecifichealthcarrierorpharmacybenefitmanager.
+15 III. The commissioner shall prescribe the format of the report and procedure for filing the report.
+16 Any forms, templates, or guidance regarding the report required by the section shall be exempt from the
+17 requirementsofRSA541-A.
+18 IV. This section shall not apply to data related to Medicaid, the Medicaid Care Management
+19 program, the Ryan White HIV/AIDS program administered by the department of health and human
+20 services, self-funded plans, the state employee health benefit plan, or any other plan outside the
+21 jurisdictionofthecommissioner.
+22 297:15 Pharmacy Benefits Managers; Authority to Examine and Directly Bill Pharmacy Benefits
+23 ManagersforExaminations. RSA402-N:7isrepealedandreenactedtoreadasfollows:
+24 402-N:7 AuthoritytoExamineandDirectlyBillPharmacyBenefitsManagersforExaminations.
+25 I. Theactsofthepharmacybenefitsmanagershallbeconsideredtheactsofthehealthcarrieron
+26 whose behalf it is acting. A pharmacy benefits manager may be examined as if it were the health carrier
+27 pursuant to RSA 400-A:37 and the commissioner may directly bill a pharmacy benefits manager for the
+28 costsofanyexamination.
+29 II. The commissioner may investigatethe actsof apharmacy benefitsmanager pursuant to RSA
+30 400-A:16.
+31 III. Thepharmacybenefitsmanager shall makeall recordsandbooksof account availabletothe
+32 examiners or consultants and shall otherwise facilitate the performance of the examination or
+33 investigation.
+34 297:16 Managed Care Law; Provider Contract Standards. Amend RSA 420-J:8, XV to read as
+35 follows:
+36 XV.(a) All contracts between a carrier or pharmacy benefit manager and a contracted pharmacy
+37 shallinclude:
+
+CHAPTER297
+HB1268-FINALVERSION
+-Page7-
+1 (1) The sources used by the pharmacy benefit manager to calculate the drug product
+2 reimbursement paid for covered drugs available under the pharmacy health benefit plan administered by
+3 thecarrierorpharmacybenefitmanager.
+4 (2) A process to appeal, investigate, and resolve disputes regarding the maximum
+5 allowablecostpricing. Theprocessshallincludethefollowingprovisions:
+6 (A) Aprovisiongrantingthecontracted pharmacyor pharmacist at least 30 business
+7 daysfollowingtheinitialclaimtofileanappeal;
+8 (B) A provision requiring the carrier or pharmacy benefit manager to investigate and
+9 resolvetheappealwithin30businessdays;
+10 (C) Aprovisionrequiringthat,iftheappealisdenied,thecarrierorpharmacybenefit
+11 managershall:
+12 (i) Providethereasonforthedenial;and
+13 (ii) Identify the national drug code of a drug product that may be purchased by
+14 contractedpharmaciesatapriceatorbelowthemaximumallowablecost;and
+15 (D) A provision requiring that, if an appeal is granted, the carrier or pharmacy
+16 benefitsmanagershallwithin30businessdaysaftergrantingtheappeal:
+17 (i) Makethechangeinthemaximumallowablecost;and
+18 (ii) Permitthechallengingpharmacyorpharmacisttoreverseandrebilltheclaim
+19 inquestion.
+20 (3) Allclaimsadjudications,appeals,andutilizationreviewprocessesshallcomplywith
+21 therequirementsofRSA420-Jandrulespromulgatedthereunder.
+22 (b) For every drug for which the healthcarrierorpharmacy benefit manager establishes a
+23 maximum allowable cost to determine the drug product reimbursement, the healthcarrierorpharmacy
+24 benefitmanagershall:
+25 (1) Include in the contract with the pharmacy information identifying the national drug
+26 pricingcompendiaorsourcesusedtoobtainthedrugpricedata.
+27 (2) Makeavailabletoacontractedpharmacytheactualmaximumallowablecostforeach
+28 drug.
+29 (3) Review and make necessary adjustments to the maximum allowable cost for every
+30 drugforwhichthepricehaschangedatleastevery14days.
+31 (c) [Repealed.]
+32 (d) [Repealed.]
+33 (e) Grantatleast7days'advancenoticeoftheinitialon-siteauditforeachauditcycle. A
+34 pharmacythatrequestsanadditional7dayspriortothecommencementofanauditshallbegranted7
+35 additionaldays.
+36 297:17 ManagedCareLaw;RetroactiveDenialsProhibited;Exceptions. AmendRSA420-J:8-b,IIIto
+37 readasfollows:
+38 III. Ahealthcarriershallnotifyahealthcareprovideratleast15daysinadvanceoftheimposition
+39 of any retroactive denials of previously paid claims. The health care provider shall have 6 months from
+
+CHAPTER297
+HB1268-FINALVERSION
+-Page8-
+1 the date of notification under this paragraph to determine whether the insured has other appropriate
+2 insurance,whichwasineffect onthedateofservice. Notwithstandingthecontractual termsbetweenthe
+3 healthcarrier andprovider, thehealthcarriershall allowfor thesubmissionofaclaimthat waspreviously
+4 denied by another insurer due to the insured's transfer or termination of coverage. Ifthehealthcare
+5 providerfilesanappealwithin15daysofthedateofthenoticebythehealthcarrier,therecoupmentof
+6 thepreviouslypaidclaimshalloccuronlyaftertheappealandexternalreviewprocesshasconcluded.
+7 297:18 NewSubparagraphs;StandardsforAccidentandHealthInsurance;EstablishingExcessCost
+8 Sharing. AmendRSA415-A:7,Ibyinsertingaftersubparagraph(b)thefollowingnewsubparagraphs:
+9 (c) “Pharmacy benefits manager” means “pharmacy benefits manager” as defined in RSA
+10 402-N:1,VIII.
+11 (d) “Spreadpricing”meansthemodelofdrugpricinginwhichthepharmacybenefitmanager
+12 charges a health benefit plan a contracted price for drugs, and the contracted price for the drugs differs
+13 fromtheamountthepharmacybenefitmanagerdirectlyorindirectlypaysthepharmacistorpharmacyfor
+14 thedrugs,pharmacistservices,ordruganddispensingfees.
+15 297:19 Standards for Accident and Health Insurance; Establishing Excess Cost Sharing. Amend
+16 RSA415-A:7,IV(b)toreadasfollows:
+17 (b) A civil fine not to exceed [$2,500]$5,000may be imposed for each violation. [Repeated
+18 violationsofthesameprovisionshallconstituteseparateciviloffenses.]
+19 297:20 New Paragraphs; Standards for Accident and Health Insurance; Establishing Excess Cost
+20 Sharing. AmendRSA415-A:7byinsertingafterparagraphVthefollowingnewparagraphs:
+21 VI. Aninsurer providinghealthcoverage asdefinedinRSA 420-G:2, IXto agroupshall disclose
+22 at the time the plan is sold how rebates will be treated in accordance with this section and, if a pharmacy
+23 benefits manager is used to administer the prescription drug benefit, whether spread pricing is used to
+24 compensatethepharmacybenefitsmanager.
+25 VII. Nothinginthissectionshallprohibittheuseofspreadpricing.
+26 297:21 EffectiveDate.
+27 I. Sections11-20ofthisactshalltakeeffectJanuary1,2027.
+II. TheremainderofthisactshalltakeeffectJuly1,2026.
+Approved:July10,2026
+EffectiveDate:
+I.Sections11-20effectiveJanuary1,2027
+II.RemaindereffectiveJuly1,2026

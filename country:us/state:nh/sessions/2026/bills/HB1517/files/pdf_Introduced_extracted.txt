@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1517-FN-ASINTRODUCED
+2026SESSION
+26-2829
+07/09
+1517-FN
+HOUSEBILL
+ANACT relativetocertainresidentialpropertyinterestscontrolledbycertainentities.
+SPONSORS: Rep. Lascelles, Hills. 14; Rep. R. Brown, Carr. 8; Rep. T. Dolan, Rock. 16; Rep.
+Lundgren, Rock. 16; Rep. McLean, Hills. 15; Rep. Ouellet, Coos 3; Rep. Rollins,
+Sull.3
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill bans residential property developments from restricting land or rental sales based on
+certainconsiderations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1517-FN-ASINTRODUCED
+26-2829
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocertainresidentialpropertyinterestscontrolledbycertainentities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Trade and Commerce; Fair Housing; Business Entity-Owned Residential
+2 Arrangements. AmendRSA354-Abyinsertingaftersection15thefollowingnewsection:
+3 354-A:15-a BusinessEntity-OwnedResidentialArrangements.
+4 I. Inthissection:
+5 (a) "Business entity" means a partnership, corporation, joint venture, limited liability
+6 company,orotherbusinessorganizationorbusinessassociation,howeverorganized.
+7 (b) "Managing entity" means a business entity that owns residential property used in a
+8 residentialarrangement.
+9 (c) "Residential arrangement" means an arrangement in which the purchaser of an
+10 interest in a business entity is entitled to exclusive possession of residential property owned by the
+11 entityaslongasthepurchaserholdstheinterestinthebusinessentity.
+12 (d) "Residential property" means the real property and improvements for a single-family
+13 house,duplex,triplex,orquadruplex.
+14 (e) "Timeshare plan" means any arrangement, plan, scheme, or similar method,
+15 excludinganexchangeprogram,butincludingamembershipagreement,sale,lease,deed,license,or
+16 right-to-use agreement, by which a purchaser, in exchange for consideration, receives an ownership
+17 right in or the right to use accommodations for a period of time less than a year during a given year,
+18 butnotnecessarilyconsecutiveyears.
+19 II. Thissectionshallnotapplytoanytimeshareplan.
+20 III.(a) An agreement for the purchase of an interest in a managing entity shall disclose to
+21 the purchaser that the agreement is for the purchase of an interest in the entity and not in any
+22 residentialpropertyitself.
+23 (b) The purchase agreement and any other agreement or rules governing the residential
+24 arrangement or the ownership interest in the entity shall not require that a dispute concerning the
+25 arrangement or interest be brought before a tribunal other than a court established under the laws
+26 ofthisstateortheUnitedStates.
+27 IV. A managing entity shall not take an action with respect to an interest in the entity in a
+28 manner that would be a violation of RSA 354-A if the interest in the entity were an interest in real
+29 property,including:
+30 (a) Restrictingthetransferoftheinterest;
+31 (b) Imposingrequirementstomaintaintheinterest;or
+
+HB1517-FN-ASINTRODUCED
+-Page2-
+1 (c) Refusingtograntaninteresttoanotherwisequalifiedperson.
+2 V. Notwithstanding any provision in an agreement between the owner and a managing
+3 entity,anownerofaninterestinamanagingentitymaytransfertheinterestwithoutapprovalfrom
+4 themanagingentity.
+5 VI. Amanagingentityshallnotchargeafeefororshareintheproceedsofthetransferofan
+6 interestinthemanagingentityfromanownertoasubsequentpurchaser.
+7 VII. AviolationofthissectionshallconstituteadeceptivetradepracticeunderRSA358-A.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2829
+11/3/25
+HB1517-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocertainresidentialpropertyinterestscontrolledbycertainentities.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

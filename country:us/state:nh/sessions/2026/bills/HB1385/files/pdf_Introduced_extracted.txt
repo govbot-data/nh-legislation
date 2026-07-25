@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1385 -ASINTRODUCED
+2026SESSION
+26-3175
+07/08
+1385
+HOUSEBILL
+ANACT prohibitingtheuseofnegativepropertytaxratesincertainmunicipalities.
+SPONSORS: Rep. Markell, Rock. 18; Rep. Lynn, Rock. 17; Rep. W. MacDonald, Rock. 16; Rep.
+Nelson,Rock.13;Rep.L.Walsh,Rock.15
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the department of revenue administration from accepting any negative tax
+rates for any locality which has minimal or no public education cost in its budget but contains
+taxableproperty.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1385-ASINTRODUCED
+26-3175
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingtheuseofnegativepropertytaxratesincertainmunicipalities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; The State and Its Government; Department of Revenue Administration;
+2 Prohibitionon Negative Tax Rates. Amend RSA 21-J by insertingafter section 35 the following new
+3 section:
+4 21-J:35-a Prohibition on Negative Tax Rates. The department of revenue administration shall
+5 be prohibited from accepting or setting any negative tax rates for any locality which has minimal or
+6 nopubliceducationcostinitsbudgetbutcontainstaxableproperty.
+7 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

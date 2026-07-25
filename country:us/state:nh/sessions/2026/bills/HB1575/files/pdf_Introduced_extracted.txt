@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1575 -ASINTRODUCED
+2026SESSION
+26-2888
+09/07
+1575
+HOUSEBILL
+ANACT relativetothedeterminationofthedefaultbudgetbythebudgetcommittee.
+SPONSORS: Rep.Boehm,Hills.38;Rep.Rice,Hills.38;Rep.Lascelles,Hills.14
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that the default budget be explained to the budget committee so that any
+necessarycorrectionscanbemade.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1575-ASINTRODUCED
+26-2888
+09/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedeterminationofthedefaultbudgetbythebudgetcommittee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MunicipalBudgetLaw;BudgetPreparation. AmendRSA32:5,VII(b)toreadasfollows:
+2 (b) The governing body in official ballot referenda jurisdictions operating under RSA
+3 40:13 shall post certified copies of the default budget form or any amended default budget form with
+4 the proposed operating budget and the warrant. The default budget shall be presented to the
+5 budget committee, explaining the items and how they comply with the law. The budget
+6 committeemaymakecorrectionstothisdefaultbudget.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

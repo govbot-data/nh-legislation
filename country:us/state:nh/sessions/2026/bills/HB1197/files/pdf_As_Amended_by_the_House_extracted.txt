@@ -1,0 +1,511 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0519h
+2026SESSION
+26-2540
+05/08
+1197-FN
+HOUSEBILL
+ANACT makingtechnicalcorrectionstocertaininsurancelaws.
+SPONSORS: Rep.Hunt,Ches.14
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillmakesvarioustechnicalcorrectionstotheinsurancelaws.
+Thebillisarequestoftheinsurancedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0519h 26-2540
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT makingtechnicalcorrectionstocertaininsurancelaws.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 InsuranceDepartment;Investigations,Enforcement. AmendRSA400-A:16toreadasfollows:
+2 400-A:16Investigations,Enforcement.
+3 I. The commissioner may conduct such investigations in addition to those specifically
+4 provided for as he or she may find necessary in order to promote the efficient administration of the
+5 provisionsofthistitle.
+6 II. Any individual or entity who transacts insurance in this state or is otherwise subject to
+7 theauthorityofthecommissionershall,uponrequestofthecommissioner,providethecommissioner
+8 with all documents and information relevant to any investigation under this section within 10
+9 working days, or shall request within the 10 working-day period, for good cause shown, additional
+10 timetorespond. Failuretoprovideallthedocumentsandinformationorrequestadditional
+11 time to respond within 10 working days shall be a violation. The commissioner may by
+12 written notice with an effective date 30 days thereafter order the suspension, revocation, or
+13 non-renewal of the license of the individual or entity or impose an administrative penalty
+14 not to exceed $5,000 for each violation. The individual or entity may request a hearing
+15 pursuanttoRSA400-A:17,III. Anyordershallbesuspendedpendingafinaldecisionofthe
+16 commissionerafterthehearing.
+17 III. Except as provided in subparagraphs (a)-(d), any documents, materials, or other
+18 informationinthecontrol orpossessionoftheinsurancedepartment thatis furnishedbyaninsurer,
+19 producer, or an employee or agent thereof acting on behalf of the insurer or producer, or from the
+20 National Association of Insurance Commissioners, its affiliates or subsidiaries, or from regulatory
+21 and law enforcement officials of other foreign or domestic jurisdictions, or is otherwise obtained by
+22 the commissioner in an investigation pursuant to this section shall be confidential by law and
+23 privileged, shall not be subject to RSA 91-A, shall not be subject to subpoena, and shall not be
+24 subject to discovery or admissible in evidence in any private civil action. Neither the commissioner
+25 nor any person who received documents, materials, or other information while acting under the
+26 authority of the commissioner shall be permitted or required to testify in any private civil action
+27 concerning any confidential documents, materials, or information subject to this section. No waiver
+28 of any applicable privilege or claim of confidentiality in the documents, materials, or information
+29 shall occur as a result of disclosure to the commissioner under this section or as a result of sharing
+30 asauthorizedherein. Thefollowingshallapply:
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (a) The commissioner may use documents, materials, or other information obtained
+2 through an investigation in furtherance of any regulatory or legal action brought as part of the
+3 commissioner'sduties.
+4 (b) The commissioner may share documents, materials, or other information, including
+5 theconfidentialandprivilegeddocuments,materials,orotherinformationunderparagraphIII,with
+6 other state, federal, and international regulatory agencies including the Bank for International
+7 Settlements,withtheInternationalAssociationofInsuranceSupervisorsortheNationalAssociation
+8 of Insurance Commissioners, their affiliates or subsidiaries, and with state, federal, and
+9 international law enforcement authorities; provided, that the recipient agrees to maintain the
+10 confidentialityandprivilegedstatusofthedocument,material,orotherinformation.
+11 (c) The commissioner may disclose to an insured or claimant who has filed a complaint
+12 against an insurer, a copy of the insurance company's letter to the department in response to the
+13 complaint. The commissioner[shall] may adopt rules,pursuant toRSA541-A,as maybenecessary,
+14 to identify those documents obtained from the company during the course of the investigation of the
+15 insured's or claimant's complaint that may be disclosed upon request to assist the insured or
+16 claimant in understanding the basis for the department's actions related to the investigation. The
+17 commissioner shall not disclose to an insured or claimant any information that would interfere with
+18 anycivil,criminal,oradministrativeenforcementproceeding.
+19 (d) The commissioner may disclose to the public the number and nature of complaints
+20 and inquiries filed by consumers with the department; provided, however, no information exempt
+21 from disclosure under RSA 91-A shall be disclosed and no disclosure shall abridge the privacy
+22 interestsofanyconsumerfilingsuchacomplaintorinquiry.
+23 IV. The commissioner may institute suits or other legal proceedings as necessary for the
+24 enforcementofanyrules,regulations,orprovisionsofthistitle.
+25 V. If the commissioner has reason to believe that any person has violated any provision of
+26 this title for which criminal prosecution is provided, he or she [shall] may so inform the attorney
+27 general or county attorney. The attorney general or county attorney shall promptly institute
+28 such action or proceedings against such person as in his or her opinion the information may require
+29 orjustify.
+30 VI. The attorney general, upon request of the commissioner, is authorized to proceed in the
+31 courtsofanyotherstateorinanyfederalcourtoragencytoenforceanorderordecisionofanycourt,
+32 proceedingorinanyadministrativeproceedingbeforethecommissioner.
+33 2 AnnualFinancialStatement. RSA400-A:36,IIisrepealedandreenactedtoreadasfollows:
+34 II. The commissioner may extend the time for filing or transmitting such statement for
+35 cause shown for a period of not more than 60 days. Life insurance companies shall not be required
+36 to file or transmit that part of their annual statement known as the gain and loss exhibit until the
+37 succeedingMay1. The commissionermay imposeanadministrativefineinanamountnottoexceed
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 $5,000, or refuse to continue, or may suspend or revoke, the certificate of authority of any insurer
+2 intentionally failing to file or transmit its annual statement when due. The insurer shall pay the fee
+3 for filing or transmitting its annual statement as prescribed by RSA 400-A:29 at the time of filing or
+4 transmittingorwiththepremiumtaxreturn,butnolaterthanMarch15th.
+5 3 Conduct of Examinations. RSA 400-A:37, III(b)(1) is repealed and reenacted to read as
+6 follows:
+7 (b)(1) Every company or person from whom information is sought, its officers, directors,
+8 andagentsmustprovidetotheexaminerstimely,convenient,andfreeaccessatallreasonablehours
+9 at its offices to all books, records, accounts, papers, documents, and any or all computer or other
+10 recordings relating to the property, assets, business, and affairs of the company being examined.
+11 The officers, directors, employees, and agents of the company or person must facilitate the
+12 examination and aid in the examination so far as it is in their power to do so. The refusal of any
+13 company, by its officers, directors, employees or agents, to submit to examination or the failure to
+14 comply with any reasonable written request of the examiners, including those pursuant to RSA 400-
+15 B:10,III,shallbegroundsforsuspensionorrefusalof,ornonrenewalofanylicenseorauthorityheld
+16 by the company to engage in an insurance or other business subject to the commissioner's
+17 jurisdiction, or fine. The commissioner may by written notice with an effective date 30 days
+18 thereafter order the suspension, revocation or nonrenewal of the license or authority of the
+19 individualorentityorimposeanadministrativepenaltynottoexceed$5,000foreachviolation. The
+20 individual or entity may request a hearing pursuant to RSA 400-A:17, III. Any order shall be
+21 suspendedpendingafinaldecisionofthecommissionerafterthehearing.
+22 4 ConductofExamination. AmendRSA400-A:37,IV(c)(2)toreadasfollows:
+23 (2) If requested by the person examined within 20 days after receipt of the order
+24 adopting the examination report, or if deemed advisable by the commissioner, the commissioner
+25 shall hold a closed meeting relative to the report. The closed meeting shall be conducted within 20
+26 days after a request for closed meeting unless the commissioner and person examined
+27 mutually agree in writing to a later date. Any order of the commissioner issued pursuant to
+28 RSA 400-A:37, IV(b)(1) shall be suspended pending a final decision of the commissioner after the
+29 closed meetingand thecommissioner shall not filethereport until after suchclosed meetingand his
+30 or her final order on thereport; except that thecommissioner mayfurnish acopy of the examination
+31 report:
+32 (A) To the governor, attorney general, or treasurer pending the closed meeting
+33 andfinaldecisionthereon;and
+34 (B) Asotherwiseprovidedinthischapter.
+35 5 InsuranceClaimsAdjusters;LicensetoIssue. AmendRSA402-B:7,Itoreadasfollows:
+36 I. Upon satisfaction that such applicant is in all respects properly qualified and of good
+37 character after having considered the good cause factors listed in RSA 402-B:12, and that the
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 grantingof suchlicense is not against thepublic interest, thecommissioner shall, upon the payment
+2 oftherequiredfee,issuesaidapplicantaninsuranceclaimsadjuster'slicense.
+3 6 Insurance Claims Adjusters; License Nonrenewable, Suspension, or Revocation. Amend RSA
+4 402-B:12toreadasfollows:
+5 402-B:12 License[Denial,]Nonrenewable,Suspension,orRevocation.
+6 The commissioner may for good cause shown, after notice and hearing, [deny,] place on
+7 probation, refuse to renew, suspend, or revoke the insurance claims adjuster's license [of any
+8 holder or subject him or her to] or impose an administrative fine not to exceed $2,500 per violation
+9 or impose any combination of actions. [Such hearing may be held by the commissioner or any
+10 person designated by him or her. Any person aggrieved by said action of the commissioner or
+11 refusedalicenseorrenewalofthesamebyhimmayappealinaccordancewiththeprovisionsofRSA
+12 541.]Goodcauseincludes,butisnotlimitedto,thefollowing:
+13 I. Providing incorrect, misleading, incomplete, or materially untrue information in the
+14 licenseapplication.
+15 II. Violating any insurance laws, or violating any rule, regulation, subpoena, or order of the
+16 commissionerorofanotherstate'sinsurancecommissioner.
+17 III. Obtainingorattemptingtoobtainalicensethroughmisrepresentationorfraud.
+18 IV. Improperly withholding, misappropriating, or converting any moneys or properties in
+19 thecourseofdoingbusiness.
+20 V. Intentionally misrepresenting the terms of an actual or proposed insurance contract or
+21 applicationforinsurance.
+22 VI. Having been convicted of a felony or other offense of moral turpitude involving
+23 dishonesty, deceit, theft, willful misrepresentation, or which tends to discredit the
+24 profession.
+25 VII. Having admitted to or been found to have committed any insurance unfair trade
+26 practiceorfraud.
+27 VIII. Using fraudulent, coercive, or dishonest practices, or demonstrating incompetence,
+28 untrustworthinessorfinancialirresponsibilityintheconductofbusinessinthisstateorelsewhere.
+29 IX. Having an insurance license, or its equivalent, denied, suspended, or revoked in any
+30 otherstate,province,district,orterritory.
+31 X. Forging another's name to an application for insurance or to any document related to an
+32 insurancetransaction.
+33 XI. Improperly using notes or any other reference material to complete an examination for
+34 aninsurancelicense.
+35 XII. Failing to comply with an administrative or court order imposing child support
+36 obligation.
+37 7 PublicAdjusters;ResidentLicense. AmendRSA402-D:5,I(b)toreadasfollows:
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 (b) Has notcommitted anyactthat is aground for [denial,]nonrenewal,suspension, or
+2 revocation of license set forth in RSA 402-D:10 which the commissioner determines is against
+3 thepublicinterest.
+4 8 PublicAdjusters;License. AmendRSA402-D:9,Itoreadasfollows:
+5 I. Unless denied licensure pursuant to RSA [402-D:10] 402-D:5, I(b), persons who have met
+6 therequirementsofRSA402-D:5orRSA402-D:8shallbeissuedapublicadjusterlicense.
+7 9 PublicAdjusters;License. AmendRSA402-D:10toreadasfollows:
+8 402-D:10 License[Denial,]Nonrenewal,Suspension,orRevocation.
+9 I. The commissioner may, for good cause shown, after notice and hearing, place on
+10 probation,suspend, revoke, or refuse to[issue or] renew apublicadjuster's license or mayimposean
+11 administrative fine in the amount of $2,500 per violation, or impose any combination of actions[,
+12 after noticeand hearing, for anyone or moreof thefollowingcauses]. Good cause includes, but is
+13 notlimitedto,thefollowing:
+14 (a) Providing incorrect, misleading, incomplete, or materially untrue information in the
+15 licenseapplication.
+16 (b) Violating any insurance laws, or violating any rule, subpoena, or order of the
+17 commissionerorofanotherstate'sinsurancecommissioner.
+18 (c) Obtainingorattemptingtoobtainalicensethroughmisrepresentationorfraud.
+19 (d) Improperly withholding, misappropriating, or converting any moneys or properties
+20 receivedinthecourseofdoinginsurancebusiness.
+21 (e) Intentionally misrepresenting the terms of an actual or proposed insurance contract
+22 orapplicationforinsurance.
+23 (f) Having been convicted of a felony, or other offense of moral turpitude involving
+24 dishonesty, deceit, theft, willful misrepresentation, or which tends to discredit the
+25 profession.
+26 (g) Having admitted or been found to have committed any insurance unfair trade
+27 practiceorinsurancefraud.
+28 (h) Using fraudulent, coercive, or dishonest practices; or demonstrating incompetence,
+29 untrustworthiness,orfinancialirresponsibilityintheconductofbusinessinthisstateorelsewhere.
+30 (i) Having an insurance license, or its equivalent, denied, suspended, or revoked in any
+31 otherstate,province,district,orterritory.
+32 (j) Forging another's name to an application for insurance or to any document related to
+33 aninsurancetransaction.
+34 (k) Cheating, including improperly using notes or any other reference material, to
+35 completeanexaminationforaninsurancelicense.
+36 (l) Knowingly accepting insurance business from a person who is not licensed but who is
+37 requiredtobelicensedbythecommissioner.
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page6-
+1 (m) Failing to comply with an administrative or court order imposing a child support
+2 obligation.
+3 (n) Paying a commission, service fee, brokerage, or other valuable consideration to a
+4 personfor investigatingorsettlingclaims inthis stateif thatpersonis requiredtobelicensed under
+5 thischapterandisnotsolicensed.
+6 (o) FailingtomaintainevidenceoffinancialresponsibilityasrequiredbyRSA402-D:11.
+7 II. A public adjuster may pay or assign commission, service fees, brokerages, or other
+8 valuable consideration to persons who do not investigate or settle claims in this state, unless the
+9 payment would violate the provisions of RSA 417. A person shall not accept a commission, service
+10 fee,brokerage,orothervaluableconsiderationforinvestigatingorsettlingclaimsinthisstateifthat
+11 personisrequiredtobelicensedunderthischapterandisnotsolicensed.
+12 III. [In the event that the action by the commissioner is to deny an application for or
+13 nonrenew a license, the commissioner shall notify the applicant or licensee and advise, in writing,
+14 the applicant or licensee of the reason for the non-renewal or denial of the applicant's or licensee's
+15 license. The applicant or licensee may make written demand upon the commissioner pursuant to
+16 RSA 400-A:17 for a hearing before the commissioner to determine the reasonableness of the
+17 commissioner'saction. ThehearingshallbeheldpursuanttotheprovisionsofRSA400-A:17.
+18 IV.] Thecommissionershallretaintheauthoritytoenforcetheprovisionsofandimposeanypenalty
+19 or remedy authorized by this chapter and title XXXVII against any person who is under
+20 investigation for or charged with a violation of this chapter or title XXXVII even if the person's
+21 licenseorregistrationhasbeensurrenderedorhaslapsedbyoperationoflaw.
+22 10 ProducerLicensing;ApplicationforLicense. AmendRSA402-J:6,I(b)toreadasfollows:
+23 (b) Hasnot committedanyact thatis aground for [denial,]nonrenewal, suspension, or
+24 revocation set forth in RSA 402-J:12 which the commissioner determines is against the public
+25 interest.
+26 11 ProducerLicensing. AmendtheintroductoryparagraphofRSA402-J:7,Itoreadasfollows:
+27 I. Unless denied licensure pursuant to RSA [402-J:12] 402-J:6, I(b), persons who have met
+28 therequirements ofRSA402-J:5and RSA402-J:6shallbeissuedaninsuranceproducer license. An
+29 insurance producer may receive qualification for a license in one or more of the following lines of
+30 authority:
+31 12 Producer Licensing; License Nonrenewable Suspension, or Revocation. Amend RSA 402-J:12
+32 toreadasfollows:
+33 402-J:12 License[Denial,]Nonrenewable,Suspension,orRevocation.–
+34 I. The commissioner may, for good cause shown, after notice and hearing, place on
+35 probation, suspend, revoke, or refuse to [issue or] renew an insurance producer's license, and may
+36 [levy] impose an administrative fine not to exceed $2,500 per violation, [in accordance with RSA
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page7-
+1 400-A:15, III] or impose any combination of actions. [for any one or more of the following causes:]
+2 Goodcauseincludes,butisnotlimitedto,thefollowing:
+3 (a) Providing incorrect, misleading, incomplete, or materially untrue information in the
+4 licenseapplication.
+5 (b) Violating any insurance laws, or violating any rule, regulation, subpoena, or order of
+6 thecommissionerorofanotherstate'sinsurancecommissioner
+7 (c) Obtainingorattemptingtoobtainalicensethroughmisrepresentationorfraud.
+8 (d) Improperlywithholding,misappropriating,orconvertinganymoneysorpropertiesin
+9 thecourseofdoinginsurancebusiness.
+10 (e) Intentionally misrepresenting the terms of an actual or proposed insurance contract
+11 orapplicationforinsurance.
+12 (f) Having been convicted of a felony, or other offense of moral turpitude involving
+13 dishonesty, deceit, theft, willful misrepresentation, or which tends to discredit the
+14 profession.
+15 (g) Havingadmittedorbeenfoundtohavecommittedanyunfairtradepracticeorfraud.
+16 (h) Using fraudulent, coercive, or dishonest practices, or demonstrating incompetence,
+17 untrustworthiness or financial irresponsibility whether directly, as an individual, or through
+18 activities for an entity, in the conduct of any business activity, or fraud, misappropriation or
+19 conversionoffunds,misrepresentationorbreachoffiduciarydutyinvolvinganyactivityinthisstate
+20 orelsewhere.
+21 (i) Having an insurance producer license, or its equivalent, denied, suspended, or
+22 revokedinanyotherstate,province,district,orterritory.
+23 (j) Forging another's name to an application for insurance or to any document related to
+24 aninsurancetransaction.
+25 (k) Improperly using notes or any other reference material to complete an examination
+26 foraninsurancelicense.
+27 (l) Knowinglyacceptinginsurancebusinessfromanindividualwhoisnotlicensed.
+28 (m) Failing to comply with an administrative or court order imposing a child support
+29 obligation.
+30 II. [In the event that the action by the commissioner is to nonrenew or to deny an
+31 application for a license, the commissioner shall notify the applicant or licensee and advise, in
+32 writing, the applicant or licensee of the reason for the denial or nonrenewal of the applicant's or
+33 licensee's license. The applicant or licensee may make written demand upon the commissioner for a
+34 hearing before the commissioner to determine the reasonableness of the commissioner's action
+35 pursuanttoRSA400-A:17.
+36 III]. The license of a business entity may be suspended, revoked, or [refused] nonrenewed if the
+37 commissionerfinds, after notice andhearing[inaccordancewithRSA400-A:17], that anindividual
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page8-
+1 licensee'sviolationwasknownorshouldhavebeenknownbyoneormoreofthepartners,officers,or
+2 managers acting on behalf of the partnership or corporation and the violation was neither reported
+3 tothecommissionernorhadanycorrectiveactionbeentaken.
+4 [IV. In addition to or in lieu of any applicable denial, suspension, or revocation of a license, a
+5 personmay,afterhearing,besubjecttoanadministrativefinepursuanttoRSA400-A:15,III.
+6 V.] III. The commissioner shall retain the authority to enforce the provisions of and impose
+7 any penalty or remedy authorized by this chapter and title XXXVII against any person who is under
+8 investigation for or charged with a violation of this chapter or title XXXVII even if such person's
+9 licenseorregistrationhasbeensurrenderedorhaslapsedbyoperationoflaw.
+10 13 New Paragraph; Filing and Approval of Rates and Rating Plans. Amend RSA 412:28 by
+11 insertingafterparagraphIIIthefollowingnewparagraph:
+12 III-a. An insurance company who participates in a fronting reinsurance arrangement with a
+13 captivereinsurermaydeviatefromfiledlostcostsmultipliersprovidedanalternativeratingplanfor
+14 groupcaptiveinsuredsisfiledwithandapprovedbythecommissionerand:
+15 (a) The rating plan is used exclusively for coverage provided to members of a group
+16 captive;
+17 (b) The insured captive group member exceeds $25,000 in estimated workers
+18 compensationpremiumtotalacrossallstateswherethememberhaspayroll;and
+19 (c) The insurance company includes, in their filing, actuarial support from the captive
+20 reinsurerthatthealternativeratesarenotexcessiveorinadequate.
+21 14 Minimum Standards for Claim Review; Accident and Health Insurance. Amend RSA 415-
+22 A:4-a,IIItoreadasfollows:
+23 III. Any carrier or other licensed entity that offers group health plans and employee benefit
+24 plans shall file with the department a copy of its claim determination procedure, including all forms
+25 used, and a copy of the materials designed to inform its members or insureds of the requirements of
+26 the claim determination and grievance procedure and the responsibilities and rights of the members
+27 or insureds under the plan[ each year] upon the commissioner's request. The carrier shall also
+28 file an acknowledgment that all applicable state and federal laws to protect the confidentiality of
+29 individualmedicalrecordsarefollowed.
+30 15 Standards for Accident and Health Insurance; Appeal Procedure. Amend the introductory
+31 paragraphofRSA415-A:4-btoreadasfollows:
+32 415-A:4-b Appeal Procedure. Every carrier or other licensed entity which offers group health
+33 insurance or employee benefit plans shall file upon the commissioner's request with the
+34 insurance department[, by April 1 of each year,] and shall maintain a written procedure by which a
+35 claimant, or a representative of the claimant, shall have a reasonable opportunity to appeal a claim
+36 denial to the carrier or other licensed entity, and under which there shall be a full and fair review of
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page9-
+1 the claim denial. The written procedure [filed with the insurance department] shall include all
+2 formsusedtoprocessanappeal.
+3 16 UnfairInsuranceTradePractices. AmendRSA417:4,IX(b)(15)toreadasfollows:
+4 (15) The rebate of all or part of a producer's commission on the sale of commercial
+5 insurance as defined in RSA 412 provided the insurer expressly provides for such rebate in its rate
+6 filings [approved by the commissioner] and the reduction of the commission is not disclosed to the
+7 insuredeitherdirectlyorindirectly;
+8 17 Public Adjuster; Resident License. Amend the introductory paragraph of RSA 402-D:8, I to
+9 readasfollows:
+10 I. Unless denied licensure pursuant to RSA [402-D:10] 402-D:5, I(b), a nonresident person
+11 shallreceiveanonresidentpublicadjusterlicenseif:
+12 18 Licensure of Medical Utilization Review Entities; Information Required. Amend the
+13 introductoryparagraphofRSA420-E:3,Itoreadasfollows:
+14 I. Each person, partnership or corporation licensed under this chapter shall, at the time of
+15 initial licensure and [on or before April 1 of each succeeding year] upon the commissioner's
+16 request,providethedepartmentwiththefollowinginformation:
+17 19 ManagedCareLaw;GrievanceProcedures. RSA420-J:5,Visrepealedandreenactedtoread
+18 asfollows:
+19 V. Manner and Content of Notification of Determination on Appeal. The carrier or other
+20 licensedentityshallprovideaclaimantwithawrittendeterminationoftheappeal.
+21 (a) Where a decision is made to uphold, in whole or in part, the denial of benefits, the
+22 writtendeterminationofappealshallinclude:
+23 (1) The specific reason or reasons for the determination, including reference to the
+24 specificprovision,rule,protocol,orguidelineonwhichthedeterminationisbased;
+25 (2) A statement that the rule, protocol, or guideline governing the appeal will be
+26 providedwithoutchargetotheclaimantuponrequest;
+27 (3) A statement describing all other dispute resolution options available to the
+28 claimant, including, but not limited to other options for internal review and options for external
+29 reviewandoptionsforbringingalegalaction;
+30 (4) A statement that the claimant is entitled to receive, upon request and free of
+31 charge, reasonable access to, and copies of, all documents, records, and other informationrelevant to
+32 theclaimant'sclaimforbenefits;
+33 (5) If an internal rule, guideline, protocol, or other similar criterion was relied upon
+34 in making the claim denial, either the specific rule, guideline, protocol, or other similar criterion; or
+35 a statement that such rule, guideline, protocol, or other similar criterion was relied upon in making
+36 the claim denial and that a copy of the rule, guideline, protocol, or other similar criterion will be
+37 providedfreeofchargetotheclaimantuponrequest;
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page10-
+1 (6) If the claim denial is based on a medical necessity or experimental treatment or
+2 similar exclusion or limit, either an explanation of the scientific or clinical judgment for the denial,
+3 applying the terms of the plan to the claimant's medical circumstances, or a statement that such
+4 explanationwillbeprovidedfreeofchargeuponrequest;
+5 (7) If the appeal involves an adverse determination, a copy of the notice of the right
+6 toexternalreviewthatincludesthespecificrequirementsforfilinganexternalreview;and
+7 (8) A statement describing the claimant's right to contact the insurance
+8 commissioner's office for assistance which shall include the toll-free telephone number and address
+9 ofthecommissioner.
+10 (b) A carrier shall maintain written records documenting all grievances and appeals
+11 received during a calendar year, a general description of the reason for the appeal or grievance, the
+12 nameoftheclaimant,thedatesoftheappealorgrievanceandthedateofresolution.
+13 (c) Acarriershallprovidetoconsumers:
+14 (1) A description of the internal grievance procedure required under RSA 420-J:5 for
+15 claim denials and other matters and a description of the process for obtaining external review under
+16 RSA 420-J:5-a-RSA 420-J:5-e. These descriptions shall be set forth in or attached to the policy,
+17 certificate,membershipbooklet,orotherevidenceofcoverageprovidedtocoveredpersons.
+18 (2) A statement of a covered person's right to contact the commissioner's office for
+19 assistance at any time. The statement shall include the toll-free telephone number and address of
+20 thecommissioner.
+21 (3) A statement that the carrier or other licensed entity will provide assistance in
+22 preparinganappealofanadversebenefitdetermination,andatoll-freetelephonenumbertocontact
+23 thecarrierorotherlicensedentity.
+24 (d)(1) If a carrier or other licensed entityprovides 2mandatory levels of appeal, the first
+25 level shall be completed within 15 days of filing the appeal or grievance and the second level
+26 completed within the 30-day time period beginning from the date of filing the second level appeal or
+27 grievance. Ifacarrierorotherlicensedentityprovidesasinglemandatorylevelofappeal,thesingle
+28 mandatory level shall be completed within the 30-day time period beginning from the initial date of
+29 filing the appeal. With respect to a mandatory second level of appeal involving a claim for
+30 continuationof services or urgent care, the carrier or other licensed entity shall make a decision and
+31 notifytheclaimantwithin72hoursafterthemandatorysecondlevelappealisfiled.
+32 (2) Subparagraph (d)(1) shall not prohibit a carrier or other licensed carrier from
+33 offering additional voluntary levels of appeal in addition to any mandatory levels of appeal offered,
+34 providedthat:
+35 (A) The claimant may elect to pursue any additional level of appeal under this
+36 subparagraphvoluntarily;
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page11-
+1 (B) A carrier may not assert failure to exhaust administrative remedies where a
+2 claimant elects to pursue a claim through other venues rather than through the voluntary level of
+3 appeal;
+4 (C) Any statute of limitations or time limits to pursue other remedies shall be
+5 tolledduringthevoluntaryappealsprocess;
+6 (D) Voluntary levels of appeal are available only after a claimant has completed
+7 requiredmandatorylevelsofappealrequiredundertheplanorbyregulation;
+8 (E) The carrier provides a claimant with sufficient information to make an
+9 informeddecisionwhethertosubmittheclaimthroughanyvoluntaryappealsprocess;
+10 (F) Nofeesorcostsareimposedontheclaimantaspartofanyvoluntaryappeals
+11 process;and
+12 (G) Any voluntary level of appeal requested by a claimant under this
+13 subparagraph shall be completed within 30 days from the date of the request for the voluntary
+14 appeal.
+15 (e) Annual reports shall be made to the insurance commissioner regarding plan
+16 complaints, adverse determinations, claim denials, and prior authorization statistics in such form
+17 andcontainingsuchinformationasthecommissionermayprescribebyruleorotherwise.
+18 (f) If the claimant has filed an appeal and the carrier or other licensed entity has not
+19 issued a decision within the required time frames, the carrier or other licensed entity shall promptly
+20 provide the claimant with a statement of the claimant's right to file an external appeal as provided
+21 in RSA 420-J:5-a-RSA 420-J:5-e. The statement of appeal rights shall include a description of the
+22 process for obtaining external review of a determination, a copy of the written procedures governing
+23 external review, including the required time frames for requesting external review, and notice of the
+24 conditionsunderwhichexpeditedexternalreviewisavailable.
+25 20 ManagedCareLaw;UtilizationReview. AmendRSA420-J:6,I(a)toreadasfollows:
+26 (a) Each health carrier conducting utilization review directly or indirectly through a
+27 contracted utilization review entity shall have written procedures for carrying out its utilization
+28 review processes and shall file such procedures with the commissioner [on or before April 1 of each
+29 year] upon request. Health carriers shall conform tothe standards of either theUtilization Review
+30 Accreditation Commission or the National Committee for Quality Assurances and are subject to all
+31 applicablerulesissuedpursuanttoRSA420-E:7.
+32 21 Producer Licensing; Nonresident License. Amend the introductory paragraph of RSA 402-
+33 J:8,Itoreadasfollows:
+34 I. Unless denied licensure pursuant to RSA [402-J:12] 402-J:6, I(b), a nonresident shall
+35 receiveanonresidentproducerlicenseif:
+36 22 Accident and Health Insurance; Student Insurance Policies. Amend the introductory
+37 paragraphofRSA415:19-atoreadasfollows:
+
+HB1197-FN-ASAMENDEDBYTHEHOUSE
+-Page12-
+1 415:19-a StudentInsurancePolicies.
+2 Student major medical expense coverage is hereby declared to be that form of accident and
+3 health insurance issued as large group coverage to enrolled students at an accredited college,
+4 university, or other educational institution. Except for standalone group dental coverage and
+5 standalone group vision, no coverageother thanstudent majormedical expensecoverageshall be
+6 issuedasstudentlargegroupcoverage. Studentmajormedicalexpenseplancoverageshall:
+7 23 ContinuingCareCommunities;Refunds. AmendRSA420-D:16-b,IIItoreadasfollows:
+8 III. Payment of the refundable entrance fee shall be subject to any other state and federal
+9 lawsexceptthat[thefirst$120,000,or$240,000foracouple, ofthefunds]anamountequal to the
+10 homestead right exemptions pursuant to RSA 480 of the refund shall be exempt from
+11 attachmentbycreditors if theoriginal entrance feewaspayablefrom theproceedsof ahouse sold by
+12 theresidentinNewHampshire.
+13 24 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2540
+3/3/26
+HB1197-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0519h)
+ANACT makingtechnicalcorrectionstocertaininsurancelaws.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Increase$10,000 Increase$10,000 Increase$10,000
+to$100,000 to$100,000 to$100,000
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill makes a series of technical and clarifying changes throughout New Hampshire's
+insurance laws, including revisions to the Commissioner’s enforcement authority, producer
+licensing,cancellationand nonrenewalnoticerequirements,rate-filingprovisions,and managed-
+caregrievanceandutilizationreviewprocedures.
+The Insurance Department states this bill will increase state revenues by an indeterminable
+amount from fines, penalties, and administrative assessments deposited into the General Fund
+through the Insurance Premium Tax. The Department indicates clarifying language in RSA
+400-A:16 and related enforcement sections may increase the number of consent orders and
+administrativehearings. Anyresultingincreaseinpenaltyrevenueisexpectedtobemodestand
+dependent upon compliance by insurance companies, agents, and other licensees. The
+Department estimate the revenue increase will be more than $10,000 but less than $100,000 per
+year.
+AGENCIESCONTACTED:
+InsuranceDepartment

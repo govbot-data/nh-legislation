@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1141-ASAMENDEDBYTHEHOUSE
+5Mar2026...0532h
+2026SESSION
+26-2360
+04/09
+1141
+HOUSEBILL
+ANACT relativetopermittingandfeeauthorityforminingandprospecting.
+SPONSORS: Rep. Caplan, Merr. 8; Rep. Bixby, Straf. 13; Rep. N. Germana, Ches. 15; Rep.
+Parshall,Ches.8;Rep.Read,Rock.10
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill adds definitions for mining-related terms, authorizes rulemaking for permitting,
+reclamation, and fees based on mineral volume, and establishes a transition period for pending
+applicationsunderthecurrentlaw.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1141-ASAMENDEDBYTHEHOUSE
+5Mar2026...0532h 26-2360
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopermittingandfeeauthorityforminingandprospecting.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Definition; Dimension Stone. Amend RSA 485-A:2 by inserting after
+2 paragraphIII-athefollowingnewparagraph:
+3 III-b. "Dimension stone" means rock that is cut, shaped, or selected for use in blocks, slabs,
+4 sheets, or other construction units of specified shapes or sizes and used for external or interior parts
+5 of buildings, foundations, curbing, flagging, bridges, or revetments, or for other architectural or
+6 engineering purposes. Dimension stone includes quarry blocks from which sections of dimension
+7 stonearetobeproduced. DimensionstonedoesnotincludeearthasdefinedinRSA155-E:1,I.
+8 2 New Paragraphs; Definitions; Mining; Operator. Amend RSA 485-A:2 by inserting after
+9 paragraphVII-athefollowingnewparagraphs:
+10 VII-b. "Mining" means all activities performed in the extraction of minerals and that create
+11 ormakeuseofoneormorecomponentsofamine.
+12 VII-c. "Mineral" means copper, gold, silver, diatomite, feldspar, garnet, lime, thorium,
+13 uranium, and any similar solid material or metal substance to be excavated or extracted from
+14 natural deposits or formations on or in the earth or in or underneath water, and shall include those
+15 solid materials made up of minerals, such as rock and dimension stone, sand, gravel, and
+16 constructionaggregatetobeexcavatedfromnaturaldepositsorformationsonorintheearthorinor
+17 underneath water, or for quarrying or crushing of rock or bedrock for the purpose of producing
+18 constructionaggregate.
+19 3 New Section; Exemptions. Amend RSA 485-A by inserting after section 2 the following new
+20 section:
+21 485-A:2-a Exemptions. Thefollowingshallnotbesubjecttothischapter:
+22 I. MiningactivitiesinexistencebeforeAugust24,1979.
+23 II. The crushing of rock for the purpose of producing construction aggregate regulated
+24 pursuanttoRSA155-E.
+25 4 New Paragraphs; Definitions; Reclamation; Rock; Septage. Amend RSA 485-A:2 by inserting
+26 afterparagraphIX-athefollowingnewparagraphs:
+27 IX-b. “Reclamation” means the restoration of the affected site by grading, backfilling,
+28 compacting, and landscaping to a comparable natural contour and the reestablishment of a diverse,
+29 effective, permanent vegetative cover of the same variety previously occurring in the area which is
+30 capable of self-regeneration and plant succession equal to or greater than the land's productive
+31 capacitypriortotheminingactivities.
+
+HB1141-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 IX-c. "Rock" means granite, schist, quartzite, and any other solid material consisting of
+2 minerals.
+3 IX-d. “Prospect” means to explore for ores, rocks, or minerals performed by a company or
+4 professional agent in the business of mineral deposit exploration and development, using
+5 mechanizedequipmentsuchasacoredrill.
+6 5 Water Pollution and Waste Disposal; Rulemaking. Amend RSA 485-A:6, VIII to read as
+7 follows:
+8 VIII. The requirements for a permit under RSA 485-A:17, including requirements for
+9 financial assurance and reclamation with applications for mining and prospecting
+10 clients.
+11 6 TerrainAlteration. AmendRSA485-A:17,I-II(a)toreadasfollows:
+12 I. Any person proposing to dredge, excavate, place fill, mine, prospect, transport forest
+13 products or undertake construction in or on the border of the surface waters of the state, and any
+14 person proposing to significantly alter the characteristics of the terrain, in such a manner as to
+15 impede the natural runoff or create an unnatural runoff, shall be directly responsible to submit to
+16 the department detailed plans concerning such proposal and any additional relevant information
+17 requested by the department, at least 30 days prior to undertaking any such activity. The
+18 operations shall not be undertaken unless and until the applicant receives a permit from the
+19 department. The department shall have full authority to establish the terms and conditions under
+20 which any permit issued may be exercised, giving due consideration to the circumstances involved
+21 and the purposes of this chapter, and to adopt such rules as are reasonably related to the efficient
+22 administration of this section, and the purposes of this chapter. Nothing contained in this
+23 paragraph shall be construed to modify or limit the duties and authority conferred upon the
+24 departmentunderRSA482andRSA482-A.
+25 II.(a) The department shall charge a fee for applications, including project inspections,
+26 required under this section. For projects that qualify for a permit by notification allowed by
+27 paragraph II-a, the application fee for a permit by notification shall be $3,125. Except for projects
+28 that qualify for a permit by notification allowed by paragraph II-a, the fee for [[]applications
+29 encompassing an area of at least [[]150,000 square feet but less than 200,000 square feet shall be
+30 $6,250. Anadditionalfeeof$2,500shallbeassessedforeachadditionalareaofupto100,000square
+31 feet to be disturbed. For any property subject to RSA 483-B:9, the fee for review of plans
+32 encompassing an area of at least 50,000 square feet but less than 150,000 square feet shall be
+33 $5,000. For all other projects, the fee shall be [$500] $250 plus [$0.005] $0.04 per square foot of
+34 disturbance. No application shall be accepted by the department until the fee required by this
+35 paragraph is paid. All fees required under this paragraph shall be paid when plans are submitted
+36 forreviewandshallbedepositedinthewaterresourcesfundestablishedinRSA482-A:3,III.
+
+HB1141-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 (b) The department shall charge a non-refundable fee of $500 for each request to amend
+2 apermitthatrequiresplanstobereviewed.
+3 7 New Paragraphs; Water Pollution and Waste Disposal; Enforcement. Amend RSA 485-A:17
+4 byinsertingafterparagraphVthefollowingnewparagraphs:
+5 VI. In addition to the fees provided for in section II above, the commissioner shall establish
+6 a fee based on the volume of minerals, except for excavation of earth as defined in RSA 155-E:1
+7 extracted by mining or prospecting permitted by the department. The fee, as determined by the
+8 commissioner,shallbeadequatetocoverallcostsassociatedwithreviewingandactinguponpermits
+9 issued under this section, monitoring compliance, enforcement and all other costs associated with
+10 permits issued under this section. All fees required under this paragraph shall be deposited in the
+11 waterresourcesfundestablishedinRSA482-A:3,III.
+12 VII. Duringthetransitionperiod,thefollowingprovisionsshallapply:
+13 (a) Any applications filed in accordance with RSA 12-E and are pending with the
+14 commissioner of the department of natural and cultural resources as of the date the department’s
+15 rules become effective shall be processed in accordance with RSA 12-E and rules adopted in
+16 accordancewithRSA12-E.
+17 (b) The commissioner of the department of natural and cultural resources will consult
+18 with the commissioner regarding any terms and conditions of permits issued during the transition
+19 periodunderparagraph(a).
+20 (c) Upon the date the department’s rules authorized under this section become effective,
+21 all subsequent applications will be filed and processed in accordance with this section and rules
+22 promulgatedbythedepartment. TheprovisionsofRSA12-Eshallnotapplytosuchapplications.
+23 (d) All permits issued during the transition period in accordance with paragraph (a) will
+24 be treated as being issued in accordance with this section for purposes of applications for permit
+25 modification,monitoring,enforcementandrenewal.
+26 8 Department of Environmental Services; Geological Survey. Amend RSA21-O:12, IItoread as
+27 follows:
+28 II. Geologyshallbeunderthedirectionofthestategeologist,whoshallbethedirectorofthe
+29 New Hampshire geological survey. The geological survey shall collect data and perform research on
+30 the land, mineral, and water resources of the state, and disseminate the findings of such research to
+31 thepublicthroughmaps,reports,andotherpublications. Thestategeologistshall[:consultwiththe
+32 commissioner of the department of natural and cultural resources relative to the issuance of mining
+33 permits under RSA 12-E;] assist the directors of the divisions of water and waste management as
+34 necessary[;] and perform such other duties as may be assigned by the commissioner. The state
+35 geologist and all members of the New Hampshire geological survey shall be staff members of the
+36 commissioner's office. The state geologist shall advise the department, and all other branches of
+37 state and local government, concerning the geologic character of the state and its implications for
+
+HB1141-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 both economic and scientific needs in conjunction with all existing and future environmental factors
+2 relating to the geology of the state. The state geologist shall maintain liaison with federal and other
+3 stategeologic agencies and withthe state university. The state geologist shall also serve as a voting
+4 memberoftheboardofprofessionalgeologists.
+5 9 LocalRegulationExcavations;Exceptions. AmendRSA155-E:2-a,I(c)toreadasfollows:
+6 (c) Excavation from a granite quarry for the purpose of producing dimension stone, if
+7 suchexcavationrequiresapermitunderRSA[12-E]485-A:17.
+8 10 New Hampshire Rivers Management and Protection Program; Mining Permit. Amend RSA
+9 483:12-a,Itoreadasfollows:
+10 I. Any state agency considering any action affecting any river or segment designated under
+11 this chapter shall notify the rivers coordinator and the local river management advisory committee
+12 prior to taking any such action. Such agency shall forward to the rivers coordinator and the local
+13 river management advisory committee for review and comment copies of all notices of public
+14 hearings, or, where a public hearing is not required, a copy of the application for issuance of a
+15 permit, certificate, or license within the designated river or corridor under RSA 485-C, RSA 485-A,
+16 RSA 483-B, [RSA 12-E,] RSA 270:12, RSA 482, RSA 482-A, except notifications for minimum impact
+17 activities under RSA 482-A:3, V and XII and for routine roadway maintenance under RSA 482-A:3,
+18 XVI on land used for agricultural purposes, RSA 149-M, RSA 430, or RSA 147-A. If an agency is
+19 notified by the rivers coordinator that a proposed activity would violate a protection measure under
+20 RSA483:9,483:9-a,483:9-aa,or483:9-b,suchagencyshalldenytheapplication.
+21 11 Repeal. Thefollowingarerepealed:
+22 I. RSA12-E,relativetominingandreclamation.
+23 II. RSA6:12,I(b)(107),relativetominingandreclamationdedicatedfund.
+24 III. RSA 482-A:3, XI(c), relative to mining permits that exceeds the limits of small motor
+25 mineraldredging.
+26 12 EffectiveDate.
+27 I. Sections8through11ofthisactshalltakeeffect2yearsafteritspassage.
+28 II. Theremainderofthisshalltakeeffectuponpassage.
+
+LBA
+26-2360
+04/03/2026
+HB1141-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0532h)
+ANACT relativetopermittingandfeeauthorityforminingandprospecting.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2027through2029.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServicesandDepartmentofNaturalandCulturalResources

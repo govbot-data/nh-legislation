@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1646-FN-ASINTRODUCED
+2026SESSION
+26-3232
+07/08
+1646-FN
+HOUSEBILL
+ANACT creating an off-site infrastructure improvement tax credit for the value of
+qualified off-site infrastructure improvements constructed or funded by business
+organizationsthatdirectlybenefitthepublic.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates an off-site infrastructure improvement tax credit for the value of qualified off-
+site infrastructure improvements constructed or funded by business organizations that directly
+benefitthepublic.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1646-FN-ASINTRODUCED
+26-3232
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating an off-site infrastructure improvement tax credit for the value of
+qualified off-site infrastructure improvements constructed or funded by business
+organizationsthatdirectlybenefitthepublic.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Taxation; Business Profits Tax; Credits. Amend RSA 77-A:5 by inserting
+2 afterparagraphXVIIthefollowingnewparagraph:
+3 XVIII. There shall be allowed an off-site infrastructure improvement credit for the value of
+4 qualified off-site infrastructure improvements constructed or funded by business organizations,
+5 pursuanttomunicipalapproval,thatdirectlybenefitthepublic.
+6 (a) Thecreditshallnotexceedtheorganization’staxliabilityinanygivenyear.
+7 (b) Any unused portions of the credit allowed under this section may be carried forward
+8 forupto20years.
+9 (c) The commissioner of the department of revenue administration shall adopt rules,
+10 pursuant to RSA 541-A, relative to the documentation and verification of eligible improvements and
+11 calculationofthecreditallowedunderthissection.
+12 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+
+LBA
+26-3232
+12/1/25
+HB1646-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creating an off-site infrastructure improvement tax credit for the value of
+qualified off-site infrastructure improvements constructed or funded by business
+organizationsthatdirectlybenefitthepublic.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+Potential Potential
+LocalRevenue $0 $0 Indeterminable Indeterminable
+Decrease Decrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill creates a new credit against the Business Profits Tax (BPT) for the value of qualified
+off-site infrastructure improvements constructed or funded by business organizations that
+directlybenefitthepublic. Theseimprovementswouldneedmunicipalapproval.
+TheDepartmentofRevenueAdministrationnotesthefollowingregardingthisbill:
+· the bill does not expound further on what improvements would be considered “qualified”
+and instructs Department to adopt rules relative to documentation and verification of
+eligible improvements and calculation of the credit. The Department would be unable to
+
+do so without additional legislative guidance, as agencies may only make rules to
+implementlawsandnotasasubstituteforlegislation.
+· the credit is not subject to any other caps, and as such the Department does not see a
+need for anapplication process withrespect to thecredit. Taxpayers would simply claim
+the credit on their returns, including any supporting documentation that might be
+required, and compliance with the statute would be determined in the course of the
+Department’sordinaryauditactivities.
+· the bill does not indicate a taxable period in which the credit could first be claimed. The
+Department has assumed that the credit would first be available to tax year 2027 (i.e. to
+taxable periods ending on or after December 31, 2027) and suggests adding applicability
+languageforclarity.
+The Department states this bill will decrease General Fund and Education Trust Fund revenue
+byanindeterminableamountbeginninginfiscalyear2028andcontinuingeachyearthereafter.
+Itis alsopossiblemunicipalexpenditures coulddecreaseifbusiness organizationschoose tofund
+infrastructureprojectsthatwouldotherwisebepaidforbymunicipalities.
+The proposed legislation would not result in any additional administrative costs that could not
+beabsorbedintheDepartment'soperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

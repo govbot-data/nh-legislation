@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1346-FN-ASINTRODUCED
+2026SESSION
+26-3120
+09/08
+1346-FN
+HOUSEBILL
+ANACT authorizing the director of the police standards and training council to detail law
+enforcement training specialists employed by the council for law enforcement and
+crowdcontrolservices.
+SPONSORS: Rep.Roy,Rock.31;Rep.Rhodes,Ches.17;Sen.Gannon,Dist23
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the director of the police standards and training council to detail law
+enforcement training specialists employed by the council for law enforcement and crowd control
+services,uponrequestofthestate,county,orlocallawenforcementagencyofjurisdiction.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1346-FN-ASINTRODUCED
+26-3120
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing the director of the police standards and training council to detail law
+enforcement training specialists employed by the council for law enforcement and
+crowdcontrolservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Police Standards and Training Council. Amend RSA 106-L:5 by inserting
+2 afterparagraphXXthefollowingnewparagraph:
+3 XX-a. The director may, at the request of the state, county, or local law enforcement agency
+4 of jurisdiction, detail any law enforcement training specialist employed by the council for law
+5 enforcement and crowd control services for public and private events and for extra duty functions to
+6 be performed outside regular business hours and for which the council shall be reimbursed. While
+7 performing such services, the officers may enforce all criminal and motor vehicle laws of the state in
+8 which the services are being performed. The council shall establish a detail rate that includes
+9 compensation for the officers and reimbursement for the use of vehicles, employee benefits, and
+10 otherincurredexpenses.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3120
+11/6/25
+HB1346-FN-FISCALNOTE
+ASINTRODUCED
+ANACT authorizing the director of the police standards and training council to detail law
+enforcement training specialists employed by the council for law enforcement and
+crowdcontrolservices.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) DetailReimbursementRevenue
+Expenditures* $0 Indeterminable
+FundingSource(s) DetailReimbursementRevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill authorizes the Police Standards and Training Council to detail law enforcement
+training specialists, employed by the Council, for law enforcement and crowd control services. It
+is expected that any impact this bill may have on state expenditures would be offset by
+reimbursementspaidtotheState.
+AGENCIESCONTACTED:
+PoliceStandardsandTrainingCouncil
+[As this bill is identical to HB 778, 2025 Session, we used the same information the agency
+providedatthattimetopreparetheabovefiscalnote]

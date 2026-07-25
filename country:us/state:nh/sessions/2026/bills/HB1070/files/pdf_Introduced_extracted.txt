@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1070-FN-ASINTRODUCED
+2026SESSION
+26-2381
+05/09
+1070-FN
+HOUSEBILL
+ANACT relativetotheinvoluntaryemergencyadmissionprocess.
+SPONSORS: Rep. D. Mannion, Rock. 25; Rep. Bordes, Belk. 5; Rep. Coker, Belk. 2; Rep. Foote,
+Rock. 13; Rep. Proulx, Hills. 15; Rep. Roy, Rock. 31; Rep. Tenczar, Hills. 1; Rep.
+Rhodes,Ches.17
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprovidesthatanindividualmaybetransportedbyambulanceforpsychiatricevaluation
+to determine whether the individual should be hospitalized under an involuntary emergency
+admissionpetition.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1070-FN-ASINTRODUCED
+26-2381
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheinvoluntaryemergencyadmissionprocess.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 InvoluntaryEmergencyAdmissions. AmendRSA135-C:28toreadasfollows:
+2 III. Notwithstanding RSA 135-C:28, II, when a peace officer observes a person engaging
+3 in behavior which gives the peace officer reasonable suspicion to believe that the person may be
+4 suffering from a mental illness and probable cause to believe that unless the person is placed in
+5 protective custody the person poses an immediate danger of bodily injury to himself or others, the
+6 police officer may place the person in protective custody. Any person taken into protective custody
+7 under this paragraph shall be transported directly to an emergency room of a licensed general
+8 hospitalortoanothersitedesignatedbythecommunitymentalhealthprogramservingthearea, for
+9 the purpose of determining if an involuntary emergency admission shall be ordered in accordance
+10 with RSA 135-C:28, I. The period of protective custody shall end when a physician, PA, or APRN
+11 makes a determination as to whether involuntary emergency admission shall be ordered or at the
+12 endof6hours,whichevereventoccursfirst.
+13 IV. When a person is transported to the emergency room of a licensed general
+14 hospitalortoanothersitedesignatedbythecommunitymentalhealthprogramservingthe
+15 area for a compulsory mental health evaluation under this section, the person shall be
+16 transported by ambulance and shall be subject to the care of an emergency medical
+17 technician. The individual's consent to transport by ambulance shall not be required;
+18 provided however, that if law enforcement deems the individual to be a safety risk to
+19 emergencymedicalpersonnel,theindividualshallbetransportedbylawenforcement.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2381
+11/5/25
+HB1070-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheinvoluntaryemergencyadmissionprocess.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill stipulates that under certain circumstances, individuals transported for a compulsory
+mental health evaluation shall be transported via ambulance and shall be subject to the care of
+an emergency technician. In the event of an ambulance transport requested by local law
+enforcement, it is unclear whether the cost of this transport would be borne by the individual or
+the municipality. The New Hampshire Municipal Association notes that to the extent
+municipalities are responsible, the cost of ambulance transport can range from $414 to over
+$2,300 per case. The aggregate impact on municipalities is unknown and would depend on the
+numberoftransportsrequested.
+The Department of Health and Human Services states the bill will have no impact on that
+department.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociationandDepartmentofHealthandHumanServices

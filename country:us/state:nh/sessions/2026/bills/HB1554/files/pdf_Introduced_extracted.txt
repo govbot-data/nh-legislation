@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1554-FN-ASINTRODUCED
+2026SESSION
+26-2818
+05/06
+1554-FN
+HOUSEBILL
+ANACT requiring insurance carriers to provide peer-to-peer review at any stage of prior
+authorizationandmandatingdisclosureofreviewercredentials.
+SPONSORS: Rep. Miles, Hills. 12; Rep. Nagel, Belk. 6; Rep. Kuttab, Rock. 17; Rep. Mary
+Murphy, Hills. 27; Rep. Kofalt, Hills. 32; Sen. McGough, Dist 11; Sen. Prentiss,
+Dist5;Sen.Gannon,Dist23
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires insurance carriers to provide peer-to-peer review at any stage of prior
+authorization, establishes qualifications for reviewing providers, and requires disclosure of such
+informationtothetreatingprovider.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1554-FN-ASINTRODUCED
+26-2818
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring insurance carriers to provide peer-to-peer review at any stage of prior
+authorizationandmandatingdisclosureofreviewercredentials.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PriorAuthorizationStandardsforManagedCarePlans. AmendRSA420-E:4-b,VIItoreadas
+2 follows:
+3 VII. Optiontorequestapeer-to-peerreview. Whenautilizationreviewentityrequiresprior
+4 authorization for an item or service, the utilization review entity shall offer the provider the
+5 opportunitytorequest apeer-to-peer review of aprior authorizationrequest inwhichtheprovider is
+6 abletohaveadirectconversationalexchangewithamedicaldirectororadesignatedproviderwhois
+7 a clinical peer about the basis for the prior authorization request. A "clinical peer" in this context
+8 shall [be a health care professional who has demonstrable expertise to review a case, whether or not
+9 the reviewing professional is in the same or a similar specialty as the provider] meet the criteria
+10 established in subparagraph VII-a(a). The peer-to-peer review may be requested before the
+11 utilization review entity's prior authorization determination or after a prior authorization denial
+12 [and before a formal grievance request has been made]. A claimant retains the right to a peer-
+13 to-peer review regardless of whether an appeal has been requested by or on behalf of the
+14 claimant. The peer-to-peer review shall be made availableby the utilization review entity within 2
+15 business days of the request. If the peer-to-peer review is requested after a prior authorization
+16 denial, the utilization review entity shall treat the review request as a request for reconsideration
+17 that is external to the grievance process and shall provide the provider and the covered person a
+18 written determination containing a statement of the specific reasons for the reconsideration
+19 determination with reference to the information provided in the peer-to-peer review. The written
+20 reconsiderationdeterminationshallbeprovidedwithin7businessdaysofthepeer-to-peerreview.
+21 2 NewParagraph;PriorAuthorizationStandardsforManagedCarePlans;Peer-to-PeerReview.
+22 AmendRSA420-E:4-bbyinsertingafterparagraphVIIthefollowingnewparagraph:
+23 VII-a. Upon issuance of an adverse prior authorization determination, an insured or their
+24 provider may at any time request and receive a peer-to-peer review, including after an appeal has
+25 been initiated. The insurer shall honor such a request regardless of appeal status and schedule the
+26 peer-to-peerconversationwithin5businessdaysoftherequest.
+27 (a) Thepeer-to-peerreviewshallbeconductedbyaphysicianreviewerwho:
+28 (1) Holds an active license in the same or a similar specialty as the treating
+29 provider;
+30 (2) Isactivelypracticinginthesameorsimilarfieldofmedicine;and
+
+HB1554-FN-ASINTRODUCED
+-Page2-
+1 (3) Has expertise to assess the medical necessity of the specific procedure or service
+2 underreview.
+3 (b) In any peer-to-peer review conducted by an insurer, the insurer shall disclose to the
+4 requestingprovider,atorbeforethestartofthepeer-to-peerconversation:
+5 (1) Thereviewer’sfullname;
+6 (2) Thereviewer’slicensuretypeandissuingstate;and
+7 (3) The reviewer’s National Provider Identifier (NPI). This disclosure requirement
+8 appliesregardlessofwhetherthecallisinitiatedbytheproviderortheinsurer.
+9 (c) Failureoftheinsurertocomplywiththis sectionshallconstituteanunfair insurance
+10 practice under RSA 417 and may be subject to administrative penalties by the insurance
+11 commissioner.
+12 3 UtilizationReview. AmendRSA420-J:6,Xtoreadasfollows:
+13 X. Option to request a peer-to-peer review. When a health carrier requires prior
+14 authorization for an item or service, the carrier shall offer the provider the opportunity to request a
+15 peer-to-peer review of a prior authorization request in which the provider is able to have a direct
+16 conversationalexchangewithamedicaldirectororadesignatedproviderwhoisaclinicalpeerabout
+17 the basis for the prior authorization request. A "clinical peer" in this context shall [be a health care
+18 professional who has demonstrable expertise to review a case, whether or not the reviewing
+19 professional is in the same or a similar specialty as the provider] meet the criteria established in
+20 subparagraph X-a(a). The peer-to-peer review may be requested before the carrier's prior
+21 authorization determination or after a prior authorization denial [and before a formal grievance
+22 request has been made]. A claimant retains the right to a peer-to-peer review regardless of
+23 whether an appeal has been requested by or on behalf of the claimant. The peer-to-peer
+24 review shall be made available by the health carrier within 2 business days of the request. If the
+25 peer-to-peer review is requested after a prior authorization denial, the [heath] health carrier shall
+26 treat the review request as a request for reconsideration that is external to the grievance process
+27 and shall provide the provider and the covered person a written determination containing a
+28 statement of the specific reasons for the reconsideration determination with reference to the
+29 informationprovided in the peer-to-peer review. The written reconsideration determination shall be
+30 providedwithin7businessdaysofthepeer-to-peerreview.
+31 4 New Paragraph; Utilization Review; Peer-to-Peer Review Requirements. Amend RSA 420-J:6
+32 byinsertingafterparagraphXthefollowingnewparagraph:
+33 X-a. Upon issuance of an adverse prior authorization determination, an insured or their
+34 provider may at any time request and receive a peer-to-peer review, including after an appeal has
+35 been initiated. The insurer shall honor such a request regardless of appeal status and schedule the
+36 peer-to-peerconversationwithin5businessdaysoftherequest.
+37 (a) Thepeer-to-peerreviewshallbeconductedbyaphysicianreviewerwho:
+
+HB1554-FN-ASINTRODUCED
+-Page3-
+1 (1) Holds an active license in the same or a similar specialty as the treating
+2 provider;
+3 (2) Isactivelypracticinginthesameorsimilarfieldofmedicine;and
+4 (3) Has expertise to assess the medical necessity of the specific procedure or service
+5 underreview.
+6 (b) In any peer-to-peer review conducted by an insurer, the insurer shall disclose to the
+7 requestingprovider,atorbeforethestartofthepeer-to-peerconversation:
+8 (1) Thereviewer’sfullname;
+9 (2) Thereviewer’slicensuretypeandissuingstate;and
+10 (3) The reviewer’s National Provider Identifier (NPI). This disclosure requirement
+11 appliesregardlessofwhetherthecallisinitiatedbytheproviderortheinsurer.
+12 (c) Failureoftheinsurertocomplywiththis sectionshallconstituteanunfair insurance
+13 practice under RSA 417 and may be subject to administrative penalties by the insurance
+14 commissioner.
+15 5 EffectiveDate. ThisactshalltakeeffectJanuary1.2027.
+
+LBA
+26-2818
+12/2/25
+HB1554-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring insurance carriers to provide peer-to-peer review at any stage of prior
+authorizationandmandatingdisclosureofreviewercredentials.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFunds
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill requires insurance carriers to provide peer-to-peer review at any stage of prior
+authorization, establishes qualifications for reviewing providers, and requires disclosure of such
+informationtothetreatingprovider.
+The Insurance Department states this bill will result in an indeterminable impact on state
+revenues and no impact on state expenditures. The Department explains that utilization review
+is a structured process with multiple levels of due process, and allowing peer-to-peer review at
+any stage would create additional inefficiencies and increase administrative costs for health
+carriers. These increased administrative costs would have to be absorbed within carriers’
+medical loss ratio requirements, potentially affecting carrier profitability and their continued
+
+participation in the New Hampshire insurance market. Any shifts in market participation or
+pricing strategies could affect premium levels and therefore premium tax revenue, but the
+directionandsizeofthisimpactcannotbeestimated.
+The Department is unable to estimate the potential administrative costs carriers may incur or
+how each carrier may adjust its business strategy in response. As a result, the impact on
+InsurancePremiumTaxrevenueisindeterminable.
+Totheextentcountiesandmunicipalitiespurchasehealthinsurance,theycouldseeanimpactto
+theirhealthinsurancepremiums.
+AGENCIESCONTACTED:
+InsuranceDepartment

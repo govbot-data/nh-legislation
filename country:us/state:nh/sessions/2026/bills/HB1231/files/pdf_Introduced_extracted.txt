@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1231 -ASINTRODUCED
+2026SESSION
+26-2961
+05/08
+1231
+HOUSEBILL
+ANACT requiring health care providers to disclose medical services billed to the patient's
+insurancecarrier.
+SPONSORS: Rep.Dunn,Rock.16;Rep.Perez,Rock.16
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requiring health care providers to disclose medical services billed to the patient's
+insurancecarrier.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1231-ASINTRODUCED
+26-2961
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring health care providers to disclose medical services billed to the patient's
+insurancecarrier.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Medical Records, Patient Information, and The Health Information
+2 Organization Corporation; Disclosure of Medical Services Billed to Insurance Carrier. Amend RSA
+3 332-Ibyinsertingaftersection13thefollowingnewsubdivision:
+4 DisclosureofMedicalServicesBilledtoInsuranceCarrier
+5 332-I:14 Definitions. Inthissubdivision:
+6 I. “Health care provider” means any individual or entity licensed or certified to provide
+7 health care services, including but not limited to hospitals, clinics, physicians, and other medical
+8 professionals.
+9 II. “Patient”meansanindividualwhoreceivesmedicalservicesfromahealthcareprovider.
+10 III. “Insurance carrier” means any entity that provides health insurance coverage, including
+11 privateinsurersandgovernmentprograms.
+12 IV. “Medical services” means any diagnostic, therapeutic, surgical, or other health-related
+13 servicesprovidedtoapatient.
+14 332-I:15 DisclosureRequirement.
+15 I. A health care provider shall furnish to each patient, or the patient’s authorized
+16 representative, a written or electronic statement listing all medical services billed to the patient’s
+17 insurancecarrier.
+18 II. Thestatementshallinclude:
+19 (1) Adescriptionofeachserviceprovided;
+20 (2) Thedatetheservicewasrendered;
+21 (3) Thebillingcodeorcodesused;
+22 (4) Theamountbilledtotheinsurancecarrier;
+23 (5) Theamountpaidordeniedbytheinsurancecarrier;and
+24 (6) Anyremainingbalanceforwhichthepatientmayberesponsible.
+25 (c) The statement shall be provided within 15 business days of submission of the claim
+26 totheinsurancecarrier.
+27 332-I:16 MethodofDisclosure.
+28 I. The disclosure may be provided electronically via secure patient portals, email, with
+29 patientconsent,orinhardcopyuponrequest.
+
+HB1231 -ASINTRODUCED
+-Page2-
+1 II. Health care providers shall ensure that the information is presented in a clear and
+2 understandableformat.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

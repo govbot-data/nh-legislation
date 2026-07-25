@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER235
+HB1594-FN-FINALVERSION
+19Feb2026...0322h
+2026SESSION
+26-2938
+06/07
+1594-FN
+HOUSEBILL
+ANACT establishing a weight-based tiered registration fee schedule for electric and plug-in
+hybridvehicles.
+SPONSORS: Rep.Bridle,Rock.29;Rep.Coker,Belk.2;Rep.Miller,Straf.21
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillchangestheannualregistrationfeesforelectricvehiclesfromaflatfeetoonebasedontype
+andweight.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER235
+HB1594-FN-FINALVERSION
+19Feb2026...0322h 26-2938
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a weight-based tiered registration fee schedule for electric and plug-in
+hybridvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 235:1 ElectricVehicleRegistrationFeetobeCollected. RSA261:141-cisrepealedandreenactedto
+2 readasfollows:
+3 261:141-c ElectricVehicleRegistrationFee.
+4 I. In addition to any other registration fees required under this chapter, the division of motor
+5 vehiclesshallassessanannualelectricvehicleregistrationfeeaccordingtothefollowingschedule:
+6 VehicleType GVWR AnnualFee
+7 Batteryelectricvehicle(BEV) 1-1,000lbs $0
+8 Batteryelectricvehicle(BEV) 1,001-3,000lbs $50
+9 Batteryelectricvehicle(BEV) 3,001-8,000lbs $100
+10 Batteryelectricvehicle(BEV) Over8,000lbs $150
+11 Plug-inhybridelectricvehicle(PHEV) Anyweight $50
+12 II. The division shall determine vehicle classification and weight based on manufacturer
+13 specificationsandregistrationrecords.
+14 III. Thefeescollectedunderthissectionshallbedepositedinthehighwayfund.
+15 IV. ThedivisionmayadoptrulesunderRSA541-Arelativeto:
+16 (a) Vehicleclassification;
+17 (b) Feecollection;
+18 (c) Exemptions;and
+19 (d) Implementationofthissection.
+20 235:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:July02,2026
+EffectiveDate:January01,2027

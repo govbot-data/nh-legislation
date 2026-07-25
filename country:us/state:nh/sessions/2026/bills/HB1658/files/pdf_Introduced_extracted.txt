@@ -1,0 +1,333 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1658-FN-ASINTRODUCED
+2026SESSION
+26-3005
+07/06
+1658-FN
+HOUSEBILL
+ANACT relativetoparentalconsentandageverificationfordigitalapplicationplatforms.
+SPONSORS: Rep.Drye,Sull.7;Rep.Freeman,Belk.8;Rep.Litchfield,Rock.32;Rep.Thibault,
+Merr. 25; Rep. Bennett, Rock. 4; Rep. Rhodes, Ches. 17; Rep. Harvey-Bolia, Belk.
+3;Rep.Bjelobrk,Graf.5;Rep.Korzen,Coos7;Rep.Reinfurt,Hills.29;Sen.Ward,
+Dist8
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enacts provisions governing app store operations and creates requirements for age
+verificationandparentalconsent.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1658-FN-ASINTRODUCED
+26-3005
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoparentalconsentandageverificationfordigitalapplicationplatforms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; App Store Accountability. Amend RSA by inserting after chapter 359-U the
+2 followingnewchapter:
+3 CHAPTER359-V
+4 APPSTOREACCOUNTABILITY
+5 359-V:1 Definitions. Asusedinthischapter:
+6 I. "Agecategory"meansoneofthefollowingcategoriesofindividualsbasedonage:
+7 (a) "Child"whichmeansanindividualwhoisunder13yearsold;
+8 (b) "Younger teenager" which means an individual who is at least 13 years old and
+9 under16yearsold;
+10 (c) "Olderteenager"whichmeansanindividualwhoisatleast16yearsoldandunder18
+11 yearsold;or
+12 (d) "Adult"whichmeansanindividualwhoisatleast18yearsold.
+13 II. "Agecategorydata"meansinformationaboutauser'sagecategorythatis:
+14 (a) Collectedbyanappstoreprovider;and
+15 (b) Sharedwithadeveloper.
+16 III. "Age rating" means a classification that provides an assessment of the suitability of an
+17 app'scontentfordifferentagegroups.
+18 IV. "App"meansasoftwareapplicationorelectronicservicethatausermayrunordirecton
+19 amobiledevice.
+20 V. "App store" means a publicly available website, software application, or electronic service
+21 thatallowsuserstodownloadappsfromthird-partydevelopersontoamobiledevice.
+22 VI. "App store provider" means a person that owns, operates, or controls an app store that
+23 allowsusersinthestatetodownloadappsontoamobiledevice.
+24 VII. "Content description" means a description of the specific content elements that
+25 informedanapp'sagerating.
+26 VIII. "Developer" means a person that owns or controls an app made available through an
+27 appstoreinthestate.
+28 IX. "Division," "bureau," or "consumer protection division of the department of justice"
+29 meanstheconsumerprotectionandantitrustbureauofthedepartmentofjustice.
+30 X. "Knowingly" means to act with actual knowledge or to act with knowledge fairly inferred
+31 basedonobjectivecircumstances.
+
+HB1658-FN-ASINTRODUCED
+-Page2-
+1 XI. "Minor"meansanindividualunder18yearsold.
+2 XII. "Minoraccount"meansanaccountwithanappstoreproviderthat:
+3 (a) Is established by an individual who the app store provider has determined is under
+4 18yearsoldthroughtheappstoreprovider'sageverificationmethods;and
+5 (b) Requiresaffiliationwithaparentaccount.
+6 XIII. "Mobiledevice"meansaphoneorgeneralpurposetabletthat:
+7 (a) Providescellularorwirelessconnectivity;
+8 (b) IscapableofconnectingtotheInternet;
+9 (c) Runsamobileoperatingsystem;and
+10 (d) Iscapableofrunningappsthroughthemobileoperatingsystem.
+11 XIV. "Mobileoperatingsystem"meanssoftwarethat:
+12 (a) Managesmobiledevicehardwareresources;
+13 (b) Providescommonservicesformobiledeviceprograms;
+14 (c) Controlsmemoryallocation;and
+15 (d) Providesinterfacesforapplicationstoaccessdevicefunctionality.
+16 XV. "Parent"means,withrespecttoaminor,anyofthefollowingindividualswhohavelegal
+17 authoritytomakedecisionsonbehalfoftheminor:
+18 (a) Anindividualwithaparent-childrelationship;
+19 (b) Alegalguardian;or
+20 (c) Anindividualwithlegalcustody.
+21 XVI. "Parentaccount"meansanaccountwithanappstoreproviderthat:
+22 (a) Is verified to be established by an individual who the app store provider has
+23 determinedisatleast18yearsoldthroughtheappstoreprovider'sageverificationmethods;and
+24 (b) Maybeaffiliatedwithoneormoreminoraccounts.
+25 XVII. "Parental consent disclosure" means the following information that an app store
+26 providerisrequiredtoprovidetoaparentbeforeobtainingparentalconsent:
+27 (a) If the app store provider has an age rating for the app or in-app purchase, the app's
+28 orin-apppurchase'sagerating;
+29 (b) Iftheappstoreproviderhasacontentdescriptionfortheapporin-apppurchase,the
+30 app'sorin-apppurchase'scontentdescription;
+31 (c) Adescriptionof:
+32 (1) Thepersonaldatacollectedbytheappfromauser;and
+33 (2) Thepersonaldatasharedbytheappwithathirdparty;and
+34 (d) Ifpersonaldataiscollectedbytheapp,themethodsimplementedbythedeveloperto
+35 protectthepersonaldata.
+36 XVIII. "Significant change" means a material modification to an app's terms of service or
+37 privacypolicythat:
+
+HB1658-FN-ASINTRODUCED
+-Page3-
+1 (a) Changesthecategoriesofdatacollected,stored,orshared;
+2 (b) Alterstheapp'sageratingorcontentdescriptions;
+3 (c) Addsnewmonetizationfeatures,including:
+4 (1) In-apppurchases;or
+5 (2) Advertisements;or
+6 (d) Materiallychangestheapp's:
+7 (1) Functionality;or
+8 (2) Userexperience.
+9 XIX. "Verifiableparentalconsent"meansauthorizationthat:
+10 (a) Isprovidedbyanindividualwhotheappstoreproviderhasverifiedisanadult;
+11 (b) Is given after the app store provider has clearly and conspicuously provided the
+12 parentalconsentdisclosuretotheindividual;and
+13 (c) Requirestheparenttomakeanaffirmativechoiceto:
+14 (1) Grantconsent;or
+15 (2) Declineconsent.
+16 359-V:2 AppStoreProviderRequirements.
+17 I. Anappstoreprovidershall:
+18 (a) At the time an individual who is located in the state creates an account with the app
+19 storeprovider:
+20 (1) Requestageinformationfromtheindividual;and
+21 (2) Verifytheindividual'sagecategoryusing:
+22 (A) Commercially available methods that are reasonably designed to ensure
+23 accuracy;or
+24 (B) An age verification method or process that complies with rules made by the
+25 divisionpursuanttoRSA541-A;
+26 (b) If the age verification method or process described in this chapter determines the
+27 individualisaminor:
+28 (1) Requiretheaccounttobeaffiliatedwithaparentaccount;and
+29 (2) Obtain verifiable parental consent from the holder of the affiliated parent
+30 accountbeforeallowingtheminorto:
+31 (A) Downloadanapp;
+32 (B) Purchaseanapp;or
+33 (C) Makeanin-apppurchase;
+34 (c) Afterreceivingnoticeofasignificantchangefromadeveloper:
+35 (1) Notifytheuserofthesignificantchange;and
+36 (2) Foraminoraccount:
+37 (A) Notifytheholderoftheaffiliatedparentaccount;and
+
+HB1658-FN-ASINTRODUCED
+-Page4-
+1 (B) Obtainrenewedverifiableparentalconsent;
+2 (d) Providetoadeveloper,inresponsetoanauthorizedrequest:
+3 (1) Agecategorydataforauserlocatedinthestate;and
+4 (2) Thestatusofverifiedparentalconsentforaminorlocatedinthestate;
+5 (e) Notifyadeveloperwhenaparentrevokesparentalconsent;and
+6 (f) Protectpersonalageverificationdataby:
+7 (1) Limitingcollectionandprocessingtodatanecessaryfor:
+8 (A) Verifyingauser'sage;
+9 (B) Obtainingparentalconsent;or
+10 (C) Maintainingcompliancerecords;and
+11 (2) Transmitting personal age verification data using industry-standard encryption
+12 protocolsthatensure:
+13 (A) Dataintegrity;and
+14 (B) Dataconfidentiality.
+15 II. Anappstoreprovidershallnot:
+16 (a) Enforce a contract or terms of service against a minor unless the app store provider
+17 hasobtainedverifiableparentalconsent;
+18 (b) Knowinglymisrepresenttheinformationintheparentalconsentdisclosure;or
+19 (c) Sharepersonalageverificationdataexcept:
+20 (1) Betweenanappstoreproviderandadeveloperasrequiredbythischapter;or
+21 (2) Asrequiredbylaw.
+22 359-V:3 DeveloperRequirements.
+23 I. Adevelopershall:
+24 (a) Verifythroughtheappstore'sdatasharingmethods:
+25 (1) Theagecategoryofuserslocatedinthestate;and
+26 (2) Foraminoraccount,whetherverifiableparentalconsenthasbeenobtained;
+27 (b) Notifyappstoreprovidersofasignificantchangetotheapp;
+28 (c) Useagecategorydatareceivedfromanappstoreproviderto:
+29 (1) Enforceanydeveloper-createdage-relatedrestrictions;
+30 (2) Ensurecompliancewithapplicablelawsandregulations;and
+31 (3) Implementanydeveloper-createdsafety-relatedfeaturesordefaults;
+32 (d) Requestpersonalageverificationdataorparentalconsent:
+33 (1) Atthetimeauser:
+34 (A) Downloadsanapp;or
+35 (B) Purchasesanapp;
+36 (2) Whenimplementingasignificantchangetotheapp;or
+37 (3) Tocomplywithapplicablelawsorregulations.
+
+HB1658-FN-ASINTRODUCED
+-Page5-
+1 II. Adevelopermayrequestpersonalageverificationdataorparentalconsent:
+2 (a) Nomorethanonceduringeach12-monthperiodtoverify:
+3 (1) Accuracyofuserageverificationdata;or
+4 (2) Continuedaccountusewithintheverifiedagecategory;
+5 (b) Whenthereisreasonablesuspicionof:
+6 (1) Accounttransfer;or
+7 (2) Misuseoutsidetheverifiedagecategory;or
+8 (c) Atthetimeausercreatesanewaccountwiththedeveloper.
+9 III. When implementing any developer-created safety-related features or defaults, a
+10 developershallusethelowestagecategoryindicatedby:
+11 (a) Ageverificationdataprovidedbyanappstoreprovider;or
+12 (b) Agedataindependentlycollectedbythedeveloper.
+13 IV. Adevelopershallnot:
+14 (a) Enforce a contract or terms of service against a minor unless the developer has
+15 verifiedthroughtheappstoreproviderthatverifiableparentalconsenthasbeenobtained;
+16 (b) Knowinglymisrepresentanyinformationintheparentalconsentdisclosure;or
+17 (c) Shareagecategorydatawithanyperson.
+18 359-V:4 Division Rulemaking. In accordance with RSA 541-A, the division shall make rules
+19 establishing processes and means by which an app store provider may verify whether an account
+20 holderisaminorinaccordancewiththischapter.
+21 359-V:5 Enforcement.
+22 I. Aviolationofthischaptershallconstituteafalse,misleading,ordeceptiveactorpractice.
+23 II. In addition to any other remedy available under state law, the attorney general may
+24 bringanactionagainstanappstoreprovideroradeveloperto:
+25 (a) Recoveracivilpenaltynottoexceed$7,500foreachviolation;
+26 (b) Restrainorenjointheappstoreproviderordeveloperfromviolatingthischapter;
+27 (c) Seekinjunctiverelief;
+28 (d) Recoverreasonableattorneys'fees;and
+29 (e) Recoverlitigationcostsandthecostsofinvestigatingtheviolation.
+30 359-V:6 SafeHarbor.
+31 I. Adeveloper shall not beliablefor aviolationof this chapter if thedeveloper demonstrates
+32 thatthedeveloper:
+33 (a) Reliedingoodfaithon:
+34 (1) Personalageverificationdataprovidedbyanappstoreprovider;and
+35 (2) Notification from an app store provider that verifiable parental consent was
+36 obtainedifthepersonalageverificationdataindicatesthattheuserisaminor;and
+37 (b) Compliedwiththerequirementsdescribedinthischapter.
+
+HB1658-FN-ASINTRODUCED
+-Page6-
+1 II. For purposes of setting the age category of an app and providing content description
+2 disclosurestoanappstoreprovider,adevelopershallcomplywiththischapterifthedeveloper:
+3 (a) Useswidelyadoptedindustrystandardstodetermine:
+4 (1) Theapp'sagecategory;and
+5 (2) Thecontentdescriptiondisclosures;and
+6 (b) Appliesthosestandardsconsistentlyandingoodfaith.
+7 III. Thesafeharbordescribedinthissectionshall:
+8 (a) Applyonlytoactionsbroughtunderthischapter;and
+9 (b) Notlimitadeveloperorappstoreprovider'sliabilityunderanyotherapplicablelaw.
+10 IV. Nothing in this chapter shall displace any other available remedies or rights authorized
+11 underthelawsofthisstateortheUnitedStates.
+12 359-V:7 Severability.
+13 I. If any provision of this chapter or the application of any provision to any person or
+14 circumstance is held invalid by a final decision of a court of competent jurisdiction, the remainder of
+15 thischaptershallbegiveneffectwithouttheinvalidprovisionorapplication.
+16 II. Theprovisionsofthischaptershallbeseverable.
+17 359-V:8 ApplicationandLimitations. Nothinginthischaptershallbeconstruedto:
+18 I. Preventanappstoreproviderordeveloperfromtakingreasonablemeasuresto:
+19 (a) Block,detect,orpreventdistributiontominorsof:
+20 (1) Unlawfulmaterial;
+21 (2) Obscenematerial;or
+22 (3) Otherharmfulmaterial;
+23 (b) Blockorfilterspam;
+24 (c) Preventcriminalactivity;or
+25 (d) Protectappstoreorappsecurity;
+26 II. Requireanappstoreprovidertodiscloseuserinformationtoadeveloperbeyond:
+27 (a) Agecategory;or
+28 (b) Verificationofparentalconsentstatus;
+29 III. Allow an app store provider or developer to implement measures required by this
+30 chapterinamannerthatis:
+31 (a) Arbitrary;
+32 (b) Capricious;
+33 (c) Anticompetitive;or
+34 (d) Unlawful;
+35 IV. Requireanappstoreproviderordevelopertoobtainparentalconsentforanappthat:
+36 (a) Providesdirectaccesstoemergencyservices,including:
+37 (1) 911;
+
+HB1658-FN-ASINTRODUCED
+-Page7-
+1 (2) Crisishotlines;or
+2 (3) Emergencyassistanceserviceslegallyavailabletominors;
+3 (b) Limits data collection to information necessary to provide emergency services in
+4 compliancewith15U.S.C.Sec.6501;
+5 (c) Providesaccesswithoutrequiring:
+6 (1) Accountcreation;or
+7 (2) Collectionofunnecessarypersonalinformation;and
+8 (d) Isoperatedbyorinpartnershipwith:
+9 (1) Agovernmententity;
+10 (2) Anonprofitorganization;or
+11 (3) Anauthorizedemergencyserviceprovider;or
+12 V. Requireadevelopertocollect,retain,reidentify,orlinkanyinformationbeyondwhatis:
+13 (a) Necessary to verify age categories and parental consent status as required by this
+14 chapter;and
+15 (b) Collected, retained, reidentified, or linked in the developer's ordinary course of
+16 business.
+17 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3005
+12/1/25
+HB1658-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoparentalconsentandageverificationfordigitalapplicationplatforms.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill establishes provisions governing app store operations and allows those harmed by
+violations of the chapter to bring civil actions. Although there is no way of knowing how many
+cases may be brought, the Judicial Branch has provided the following cost estimates for civil
+cases,aswellascommoncivilcasefees:
+NHJudicialBranchAverageCivilCaseEstimates
+JudicialBranch
+FY2026 FY2027
+AverageCost
+SuperiorCourt
+ComplexCivilCase $1,283 $1,342
+SuperiorCourt
+RoutineCivilCase $476 $495
+
+CommonCivilCaseFees
+SuperiorCourt
+Asof07/01/25
+Fees
+OriginalEntryFee $325
+Third-PartyClaim $325
+MotiontoReopen $195
+AGENCIESCONTACTED:
+JudicialBranch

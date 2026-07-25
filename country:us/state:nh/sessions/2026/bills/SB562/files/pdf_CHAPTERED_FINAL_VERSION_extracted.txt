@@ -1,0 +1,277 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER265
+SB562-FINALVERSION
+06/04/2026 2135EBA
+2026SESSION
+26-2275
+12/08
+562
+SENATEBILL
+ANACT relativetoahomedamagemitigationandresiliencyprogram.
+SPONSORS: Sen.Abbas,Dist22;Sen.Lang,Dist2;Sen.Watters,Dist4;Sen.Avard,Dist12;Sen.
+Gannon,Dist23;Sen.Rosenwald,Dist13;Rep.Packard,Rock.16
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes the Granite State home mitigation and resiliency program to provide financial
+grants to homeowners to mitigate residential real property against loss from severe weather events. The
+billalsoestablishesafundtoprovidesupportforthisprogram.
+Thisbillisarequestoftheinsurancedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER265
+SB562-FINALVERSION
+06/04/2026 2135EBA 26-2275
+12/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoahomedamagemitigationandresiliencyprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 265:1 New Chapter; Granite State Home Mitigation and Resiliency Program. Amend RSA by
+2 insertingafterchapter407-Dthefollowingnewchapter:
+3 CHAPTER407-E
+4 GRANITESTATEHOMEMITIGATIONANDRESILIENCYPROGRAM
+5 407-E:1 Granite State Home Mitigation and Resiliency Program Established. There is hereby
+6 established the granite state home mitigation and resiliency program, which shall be implemented under
+7 thischapter.
+8 407-E:2 Purpose and Policy. The purpose of this chapter is to establish a program to provide
+9 financial grants to homeowners to mitigate residential real property against loss from severe weather
+10 events,includingbutnotlimitedtothoseinvolvingrain,wind,snow,ice,sleet,hail,floods,seawater,lake
+11 water, river water, surface water, tornadoes, hurricanes, and microbursts. The intent of this chapter is to
+12 provide New Hampshire residents with the opportunity to mitigate risks to their homes from severe
+13 weather events, thereby reducing claim severity, frequency of claims, and insurance premiums for New
+14 Hampshire homeowners. This chapter does not create an entitlement for property owners and does not
+15 obligate the state to pay for the residential real property to be inspected, constructed, improved,
+16 remodeled, mitigated, retrofitted, or otherwise modified. The granite state home mitigation and resiliency
+17 program is subject to the availability of funds in the granite state home mitigation and resiliency fund
+18 establishedinRSA407-E:4.
+19 407-E:3 Definitions. Inthischapter:
+20 I. “Commissioner”meansthecommissioneroftheNewHampshireinsurancedepartment.
+21 II. “Department”meanstheNewHampshireinsurancedepartment.
+22 III. “Homeowner”meansanaturalpersonwhoisaNewHampshireresidentandownsresidential
+23 realpropertyinNewHampshire.
+24 IV. “IBHS”meanstheInsuranceInstituteforBusinessandHomeSafety.
+25 V. “Manufactured housing” is housingthat is transported in oneor more sections and erected on
+26 siteonapermanentcementfoundation,andwhichisatleast320squarefeet.
+27 VI. “Non-IBHSgrant”meansaprogramgrantusedforthefollowingitems:
+28 (a) Treeremovalortrimming;and
+29 (b) Repairorreplacementoffoundations,stairs,railings,decks,orporches.
+30 VII. “Residential real property” means an owner-occupied, single-family, primary residence
+31 located in New Hampshire, which is not a mobile home, condominium, townhouse, or multi-unit dwelling.
+32 Residentialrealpropertyincludes,butisnotlimitedto,manufacturedhousing.
+
+CHAPTER265
+SB562-FINALVERSION
+-Page2-
+1 VIII. “State”meansthestateofNewHampshire.
+2 IX. “State median income" means an annual income figure calculated by the United States
+3 Census Bureau representing the point at which there are as many families earning more than a specific
+4 amountasthereareearninglessthanthatamount.
+5 407-E:4 Fund Established. There is established the granite state home mitigation and resiliency
+6 fund, which shall be administered by the commissioner, and which shall be kept separate and distinct
+7 from all other funds. All moneys in the granite state home mitigation and resiliency fund shall be
+8 continually appropriated to the department for the purposes of this chapter. Moneys paid into the granite
+9 statehomemitigationandresiliencyfundshallnotlapse,unlessrequiredbylaw.
+10 407-E:5 AppropriationandFundingTransfer.
+11 I. Depositsintothegranitestatehomemitigationandresiliencyfundshallconsistofthefollowing:
+12 (a) Federalgovernmentgrants,loans,orotherfederalmoneys;and
+13 (b) Gifts, grants, donations, or moneys that are accepted by the department from any other
+14 source. Thedepartmentmayacceptgifts,grants,donations,ormoneysfromanysource.
+15 II. Whenever the federal government or other entity makes grant funds available to the state for
+16 purposes that are consistent with this chapter, the department is authorized to accept such funds and to
+17 takesuchactionasmaybenecessarytosecurethefunds.
+18 III. The moneys in the granite state home mitigation and resiliency fund shall not be subject to
+19 any state taxes and shall not be subject to any federal taxes to the extent allowed by applicable federal
+20 law.
+21 IV. Thedepartmentshallusethemoneysinthegranitestatehomemitigationandresiliencyfund
+22 forgrantawardsandprogramexpenses.
+23 407-E:6 AvailabilityandUseofGrants.
+24 I. Grants awarded under this chapter shall be used for projects that will enhance resiliency and
+25 risk mitigation to improve insurability in underwriting of residential real property against loss from severe
+26 weatherevents.
+27 II. Grants shall be awarded on a first-come, first-served basis to real residential property owners
+28 who meet the eligibility requirements subject to the availability of funds. Eligibility does not create
+29 entitlementtoreceivegrantfundsortoaparticularamountofgrantfunds.
+30 III. Grantsawardedunder thegranitestatehomemitigationandresiliencyprogramshall befor a
+31 value of no more than $9,500 per New Hampshire residence, per year. No more than one grant shall be
+32 awardedforanysingleeligibleresidencewithina3-yearperiod.
+33 IV. Thegrantrecipientisresponsibleforanylocal,state,or federaltaxesthegrantrecipient may
+34 oweasaresultofreceivinggrantmoneyfromthegranitestatehomemitigationandresiliencyprogram.
+35 407-E:7 GrantEligibilityRequirements.
+36 I. Tobeeligibleforanygrant,theresidentialrealpropertyownershall:
+37 (a) OwnaresidentialrealpropertyinNewHampshire;
+38 (b) Have a gross household income of no greater than 60 percent of the New Hampshire
+39 statemedianincome;
+
+CHAPTER265
+SB562-FINALVERSION
+-Page3-
+1 (c) Submitagrantapplicationtothedepartmentasrequiredbythischapter;and
+2 (d) Meet all other applicable requirements of this chapter, including, but not limited to, the
+3 availabilityoffunds.
+4 II. TobeeligibleforanIBHSgranttobeusedtomitigatearesidentialrealproperty:
+5 (a) Theresidential structureontheresidential real propertyshall have afoundation, which is
+6 notadrystackorfieldstonefoundation;
+7 (b) The residential real property owner shall maintain an in-force homeowner’s insurance
+8 policy on the residential real property unless the real property owner has satisfied the commissioner that
+9 therealpropertyownercannotprocureinsuranceuntilthemitigationworkhasbeencompleted;and
+10 (c) Theresidentialrealpropertyownershall:
+11 (1) Agree to reinforce the residential structure to the IBHS FORTIFIED Home roof or
+12 silverdesignations,orsuccessordesignation,orsimilarstandardapprovedbythecommissioner.
+13 (2) AgreetouseanIBHScertifiedcontractortoperformthehomefortificationwork.
+14 (3) Have a certified IBHS evaluator pre-qualify the insured property as mitigable and
+15 identify all improvements required to achieve IBHS FORTIFIED Home roof or silver designations, or
+16 successordesignation,orsimilarstandardapprovedbythecommissioner.
+17 (4) Obtainbidsfromat least2IBHScertifiedcontractorswhoagreetothescopeof work
+18 andapproximatecostofthemitigationworkcoveredbythegrant.
+19 (5) Agreetoobtainallnecessarylocalandstatepermits.
+20 (6) Agreetoconductalllocalandstaterequiredinspections.
+21 (7) Meetallotherapplicablerequirementsofthischapter.
+22 (8) Meetallotherapplicablerequirementsofthischapter,including,butnotlimitedto,the
+23 availabilityoffunds.
+24 III. Tobeeligibleforanon-IBHSgrant:
+25 (a) Theremustbearesidentialstructureontheresidentialrealproperty;
+26 (b) Thenon-IBHSgrantitemmustthreatentheinsurabilityoftheresidence;and
+27 (c) Theresidentialrealpropertyownershall:
+28 (1) Provideproofoftheinsurabilityissueasrequiredbythecommissioner.
+29 (2) Agreetouseaneligiblecontractortoperformthenon-IBHSwork.
+30 (3) Agreetoobtainallnecessarylocalandstatepermits.
+31 (4) Agreetoconductalllocalandstaterequiredinspections.
+32 (5) Maintain a current homeowner’s insurance policy on the residential real property
+33 unlesstherealpropertyownerhassatisfiedthecommissionerthattherealpropertyownercannotprocure
+34 suchinsuranceuntiltheworkhasbeencompleted.
+35 (6) Meetallotherapplicablerequirementsofthischapter,including,butnotlimitedto,the
+36 availabilityoffunds.
+37 IV. Grantsunderthischapterarenotavailablefornewconstruction.
+38 407-E:8 GrantApplicationProcess.
+
+CHAPTER265
+SB562-FINALVERSION
+-Page4-
+1 I. Residentialrealpropertyownersshallapplyforagrantunderthegranitestatehomemitigation
+2 andresiliencyprogramonaformprescribedbythedepartment.
+3 II. Incomplete applications shall not be accepted and shall be returned to the applicant to be
+4 madecompleteandresubmittedtothedepartment.
+5 III. The department shall send a determination letter to the applicant within 60 days of approval
+6 or denial of a complete application. Lack of availability of funds will result in a denial of a completed
+7 application. The department's website shall be updated at least quarterly as to the current availability of
+8 funds,butisnotaguaranteethatfundswillbeavailableattimeofapplicationordetermination.
+9 407-E:9 PaymentofGrantFunds.
+10 I. Approvedgrantsshallonlybepaidaftertheresidentialrealpropertyownerestablishesthatthe
+11 applicableworkhasbeencompleted.
+12 II. Theresidentialrealpropertyownerestablishesthatthenon-IBHSworkhasbeencompletedby
+13 providingthedepartmentwith:
+14 (a) Acopyof thesignedcontract betweentheeligiblecontractor andthereal propertyowner
+15 forthework.
+16 (b) Acopyoftheitemizedinvoicedetailingthework.
+17 (c) A sworn affidavit from the eligible contractor who performed the work that the work has
+18 beencompletedinconformancewiththerequirementsofthischapter.
+19 III. InadditiontotherequirementsofparagraphII,forIBHSgrants,theresidentialpropertyowner
+20 shallfurtherprovidethedepartmentwith:
+21 (a) TheIBHSevaluator’srequiredinteriminspectionreportduringconstruction.
+22 (b) AFORTIFIEDHomerooforsilverdesignationcertificate.
+23 IV. If the residential real property owner has established compliance with this section, the
+24 departmentshallissuetheapprovedgrantfundsdirectlytotheeligiblecontractorwhoperformedthework
+25 fortheresidentialrealpropertyowner.
+26 V. The real property owner is responsible for any amount owed to an eligible contractor that
+27 exceedstheamountoftheawardedgrantmoneys.
+28 407-E:10 ContractorEligibility,Hiring,andDuties.
+29 I. The contractor shall demonstrate IBHS certified contractor status for RSA 407-E:7, II, IBHS
+30 grants.
+31 II. The department shall not endorse or otherwise provide preferential treatment to any
+32 contractor.Contractorsarenotemployeesorinanywayagentsofthestate.
+33 III. Thecontractorshallmeetallapplicablerequirementsofthischapter,including,butnotlimited
+34 to, those listed in this paragraph, and maintain a current copy of all applicable certificates, licenses, and
+35 proofofinsurancecoveragesforinspectionbythedepartmentatthedepartment'srequest:
+36 (a) The contractor shall be registered to do business with the New Hampshire secretary of
+37 state.
+38 (b) Thecontractorshallholdalllocalorstatelicenses.
+
+CHAPTER265
+SB562-FINALVERSION
+-Page5-
+1 (c) The contractor shall possess an in-force, general liability insurance against all claims of
+2 bodily injury, death, or property damage, in amounts not less than $1,000,000 per occurrence and
+3 $2,000,000aggregate for bodily injuryor deathin any oneincident, and$500,000 for property damage in
+4 anyoneincident.
+5 (d) The contractor shall have workers’ compensation and employer’s liability insurance
+6 consistentwithstatelaw.
+7 (e) The contractor shall provide and maintain accurate contact information with the
+8 department.
+9 (f) Thecontractorshallnothaveafinancialinterestinanyprojectfundedbythegranitestate
+10 home mitigation and resiliency program for which they perform work other than receiving payment on
+11 behalfofthehomeownerfromthegranitestatehomemitigationandresiliencyprogram.
+12 (g) Thecontractorshallnotbetheevaluatorforanyprojectfundedbythegranitestatehome
+13 mitigationandresiliencyprogram.
+14 IV. The contractor shall establish that any subcontractor used by the contractor meets the
+15 requirementsapplicabletocontractorssetforthinparagraphIII.
+16 407-E:11 EvaluatorEligibilityRequirements. Tobeeligibletoworkonaprojectfundedbythegranite
+17 state home mitigation and resiliency program as an evaluator for RSA 407-E:7, II, IBHS grants, the
+18 evaluatorshallmeetallapplicablerequirementsofthischapter,including,butnotlimitedto,thoselistedin
+19 thissection:
+20 I. TheevaluatorshallmaintainanactiveIBHScertificationasaFORTIFIEDHomeevaluator.
+21 II. TheevaluatorshallberegisteredwiththeNewHampshiresecretaryofstate.
+22 III. Theevaluatorshallmaintainaccuratecontactinformationwiththedepartment.
+23 IV. The evaluator shall not have any financial interest in any project the evaluator inspects for
+24 designationpurposesforthegranitestatehomemitigationandresiliencyprogram.
+25 V. The evaluator shall not be a contractor or supplier of any materials, or products or systems
+26 installed in any residential real property the evaluator inspects for designation purposes for the granite
+27 statehomemitigationandresiliencyprogram.
+28 VI. The evaluator shall not be the sales agent for any residential real property being designated
+29 forthegranitestatehomemitigationandresiliencyprogram.
+30 VII. An evaluator performing work in relation to the granite state home mitigation and resiliency
+31 programdoesnotbecomeandisnotconsideredanemployeeoragentofthestate.
+32 407-E:12 DisclosureofInformation.
+33 I. Except as required by state or federal law, grant applications, documents, materials and other
+34 informationsubmittedtothedepartmentbyoronbehalfofaresidentialrealpropertyownerinsupportofa
+35 grant application shall be confidential by law, shall not be subject to RSA 91-A, shall not be subject to
+36 subpoena,andshallnotbesubjecttodiscoveryoradmissibleinevidenceinanyprivatecivilaction.
+37 II. The department may share documents, materials, or other information, including the
+38 confidential applications, documents, materials, or other information under paragraph I, with other state
+39 and federal regulatory agencies or the National Association of Insurance Commissioners, their affiliates,
+
+CHAPTER265
+SB562-FINALVERSION
+-Page6-
+1 or subsidiaries; provided that the recipient agrees to maintain the confidentiality status of the application,
+2 document,material,orotherinformation.
+3 III. No waiver of any applicable confidentiality in the applications, documents, materials, or
+4 informationshalloccurasaresultofdisclosuretothecommissionerunderthisparagraphorasaresultof
+5 sharingasauthorizedinparagraphII.
+6 IV. The department shall disclose to the public annually the number and nature of grant
+7 applications filed with the department and the number and amount of each grant awarded, as well as the
+8 totalamountofgrantsawarded,provided,however,noinformationexemptfromdisclosureunderRSA91-
+9 A shall be disclosed, and no disclosure shall abridge the privacy interests of any applicant who filed a
+10 grantapplicationorreceivedagrant.
+11 V. The department shall maintain a webpage detailing any and all gifts, grants, donations, or
+12 moneysreceivedforthegranitestatehomemitigationandresiliencyfundfromanysource. Thewebpage
+13 shallbeupdatedataminimumannuallyonJanuary15thofeachyear.
+14 VI. Consistent with this chapter, the department shall keep an annual accounting of all funds
+15 received,thetypesoffundsreceived,andallexpenditures.
+16 VII. In this section, “department,” “commissioner," "regulatory agency,” and the “National
+17 Association of Insurance Commissioners” include, but are not limited to, the employees, agents,
+18 consultants,andcontractorsofsuchentitiesandofficers.
+19 407-E:13 Limitation of Liability. There shall be no liability imposed by law on the department or the
+20 state for any act in any way related, directly or indirectly, to the granite state home mitigation and
+21 resiliencyprogram.
+22 407-E:14 Appeals; Hearing. Any person aggrieved by any act of the commissioner under this
+23 chaptermayfilearequestforhearingpursuanttoRSA400-A:17,II(b).
+24 407-E:15 Rulemaking. The commissioner may adopt rules under RSA 541-A that are reasonable
+25 andnecessaryfortheimplementationandadministrationofthischapter.
+26 407-E:16 Severability. If any provision of this chapter, or the application thereof to any person or
+27 circumstance,isheldinvalid,suchinvalidityshallnotaffectotherprovisionsorapplicationsofthischapter
+28 that can be given effect without the invalid provision or application, and to this end the provisions of the
+29 chapteraredeclaredtobeseverable.
+265:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July02,2026
+EffectiveDate:August31,2026

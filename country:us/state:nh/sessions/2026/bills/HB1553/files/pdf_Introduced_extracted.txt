@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1553 -ASINTRODUCED
+2026SESSION
+26-2810
+06/07
+1553
+HOUSEBILL
+ANACT relativetopet-relatedfeesandrentinresidentialtenancies.
+SPONSORS: Rep.Long,Hills.26;Rep.H.Howard,Straf.4
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilllimitsmonthlypetrenttoonepercentoftheunit’srentandprohibitsnonrefundablepet
+fees,withsomeexceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1553-ASINTRODUCED
+26-2810
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopet-relatedfeesandrentinresidentialtenancies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Pet Fees in Rental Housing. Amend RSA by inserting after chapter 540-C the
+2 followingnewchapter:
+3 CHAPTER540-D
+4 PETFEESINRENTALHOUSING
+5 540-D:1 Purpose. The purpose of this chapter is to protect tenants and promote housing
+6 stabilityby:
+7 I. Limitingmonthlypetrenttoareasonableandpredictableamount.
+8 II. Eliminating nonrefundable pet fees that create financial barriers for renters with
+9 companionanimals.
+10 III. Ensuring that landlords retain the ability to protect property while preventing punitive
+11 orexcessivechargesthatforcetenantstogiveuppets.
+12 540-D:2 Cap on Pet Rent. A landlord shall not demand or receive additional rent from a tenant
+13 as a condition of allowing a pet to reside at the residence in an amount that exceeds one percent of
+14 themonthlyrentofthedwellingunit,regardlessofthenumberofpetskeptintheunit.
+15 540-D:3 Prohibition on Nonrefundable Fees. A landlord shall not demand or receive any
+16 additionalsecuritydeposit beyondthat allowedunder RSA540-A:6. Nonrefundablepet feesshall be
+17 prohibitedunderthischapter.
+18 540-D:4 Exceptions.
+19 I. Thischaptershallnotapplytoserviceanimalsorsupportanimalsprotectedunderfederal
+20 orstatedisabilitylaw.
+21 II. Nothinginthischaptershallpreventalandlordfromenforcingleaseprovisionsrequiring
+22 tenantstorepairorpayforactualdamagecausedbyapet.
+23 540-D:5 Enforcement. A tenant may bring an action in court for violations of this chapter and
+24 mayrecoveractualdamages,plusreasonableattorney’sfeesandcourtcosts.
+25 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

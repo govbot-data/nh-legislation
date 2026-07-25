@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1594-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0322h
+2026SESSION
+26-2938
+06/07
+1594-FN
+HOUSEBILL
+ANACT establishing a weight-based tiered registration fee schedule for electric and plug-
+inhybridvehicles.
+SPONSORS: Rep.Bridle,Rock.29;Rep.Coker,Belk.2;Rep.Miller,Straf.21
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill changes the annual registration fees for electric vehicles from a flat fee to one based on
+typeandweight.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1594-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0322h 26-2938
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a weight-based tiered registration fee schedule for electric and plug-
+inhybridvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Electric Vehicle Registration Fee to be Collected. RSA 261:141-c is repealed and
+2 reenactedtoreadasfollows:
+3 261:141-c ElectricVehicleRegistrationFee.
+4 I. In addition to any other registration fees required under this chapter, the division of
+5 motor vehicles shall assess an annual electric vehicle registration fee according to the following
+6 schedule:
+7 VehicleType GVWR AnnualFee
+8 Batteryelectricvehicle(BEV) 1-1000lbs $0
+9 Batteryelectricvehicle(BEV) 1001-3,000lbs $50
+10 Batteryelectricvehicle(BEV) 3001-8,000lbs $100
+11 Batteryelectricvehicle(BEV) Over8,000lbs $150
+12 Plug-inhybridelectricvehicle(PHEV) Anyweight $50
+13 II. The division shall determine vehicle classification and weight based on manufacturer
+14 specificationsandregistrationrecords.
+15 III. Thefeescollectedunderthissectionshallbedepositedinthehighwayfund.
+16 IV. ThedivisionmayadoptrulesunderRSA541-Arelativeto:
+17 (a) Vehicleclassification;
+18 (b) Feecollection;
+19 (c) Exemptions;and
+20 (d) Implementationofthissection.
+21 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2938
+03/23/2026
+HB1594-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0322h)
+ANACT establishing a weight-based tiered registration fee schedule for electric and plug-
+inhybridvehicles.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) HighwayFund
+Expenditures* $0 $45,000 Indeterminable
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,
+costsassociatedwiththecollection/administrationofhighwayfundrevenue
+FundingSource(s)
+bytheDepartmentofSafetyisdeductedpriortofundsbeingcreditedas
+unrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 Indeterminable
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill changes the annual registration fees for electric vehicles from a flat fee to one based on
+type and weight. Under current law, battery electric vehicles (BEVs) are $100 and plug-in
+hybridvehicles(PHEVs)are$50,andthisbillproposesthefollowing:
+Batteryelectricvehicle(BEV)Under1,000lbs $0
+Batteryelectricvehicle(BEV)1,001-3,000lbs $50
+Batteryelectricvehicle(BEV)3,001-8,000lbs $100
+Batteryelectricvehicle(BEV)Over8,000lbs $150
+Plug-inhybridelectricvehicle(PHEV)Anyweight $50(nochange)
+The Department of Safety states that based on current registration data, there are
+approximately 15,358 battery electric vehicles (BEVs) and 6,150 plug-in hybrid electric vehicles
+
+(PHEVs)registeredinthestate. Itisunknownifthisbillwillincreaseordecreasestaterevenue
+as vehicle weight data is not available to the Department. Also, pursuant to RSA 235:23
+(“Apportionment A”), 12 percent of highway fund road toll and motor vehicle fee revenue
+collected is distributed to municipalities in the year following collection. Therefore, this bill
+would have an interminable impact on state highway fund expenditures and local revenue in FY
+2028andbeyond.
+The Department states there will be a one-time system change cost of $45,000 in FY 2027 to
+implementthisbill.
+AGENCIESCONTACTED:
+DepartmentofSafety

@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1575-ASAMENDEDBYTHEHOUSE
+12Mar2026...0294h
+2026SESSION
+26-2888
+09/07
+1575
+HOUSEBILL
+ANACT relativetothedeterminationofthedefaultbudgetbythebudgetcommittee.
+SPONSORS: Rep.Boehm,Hills.38;Rep.Rice,Hills.38;Rep.Lascelles,Hills.14
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill makes the budget committee responsible for the determination of the default budget in
+any local political subdivision which has adopted the official ballot referenda form of meeting
+pursuanttoRSA40:14andhasalsoadoptedamunicipalbudgetcommitteepursuanttoRSA32:14.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1575-ASAMENDEDBYTHEHOUSE
+12Mar2026...0294h 26-2888
+09/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedeterminationofthedefaultbudgetbythebudgetcommittee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Default Budget Determined by Budget Committee RSA 40:14-b is repealed and reenacted to
+2 readasfollows:
+3 40:14-b DefaultBudgetDeterminedbyBudgetCommittee. Inalocalpoliticalsubdivisionwhich
+4 has adopted the official ballot referenda form of meeting pursuant to RSA 40:14 and has also
+5 adopted a municipal budget committee pursuant to RSA 32:14, the determination of the default
+6 budgetshallbebythebudgetcommitteeinsteadofthegoverningbody.
+7 2 DutiesandAuthorityoftheBudgetCommittee. AmendRSA32:16,Itoreadasfollows:
+8 I. Topreparethebudgetas provided inRSA32:5[,] and[if authorized under RSA40:14-b,] a
+9 defaultbudgetunderRSA40:13,IX(b)forsubmissiontoeachannualorspecialmeetingofthevoters
+10 of the municipality, and, if the municipality is a town, the budgets of any school district or village
+11 district wholly within the town, unless the warrant for such meeting does not propose any
+12 appropriation.
+13 3 UseofOfficialBallot;DefaultBudget. AmendRSA40:13,IX(b)toreadasfollows:
+14 (b) "Default budget" as used in this subdivision means the amount of the same
+15 appropriations as contained in the operating budget authorized for the previous year, reduced and
+16 increased,asthecasemaybe,bydebtservice,contracts,andotherobligationspreviouslyincurredor
+17 mandated by law, and reduced by one-time expenditures contained in the operating budget and by
+18 salaries and benefits of positions that have been eliminated in the proposed budget. For the
+19 purposes of this paragraph, one-time expenditures shall be appropriations not likely to recur in the
+20 succeeding budget, and eliminated positions shall not include vacant positions under recruitment or
+21 positions redefined in the proposed operating budget, as determined by the governing body, unless
+22 the provisions of RSA 40:14-b [are adopted] apply, of the local political subdivision. In calculating
+23 the default budget amount, the governing body shall follow the statutory formula which may result
+24 inahigherorloweramountthantheproposedoperatingbudget.
+25 4 UseofOfficialBallot;DefaultBudget. AmendRSA40:13,XI(a)-(b)toreadasfollows:
+26 XI.(a) The default budget shall be disclosed and presented for questions and discussion at
+27 the first budget hearing held pursuant to RSA 32:5 or RSA 197:6. The governing body, unless the
+28 provisions of RSA 40:14-b apply [are adopted], shall complete a default budget form created by the
+29 department of revenue administration to demonstrate how the default budget amount was
+30 calculated. The line item details for changes under subparagraph (2) shall be available for
+
+HB1575-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 inspection by voters. The form and associated calculations shall, at a minimum, include the
+2 following:
+3 (1) Appropriationscontainedinthepreviousyear'soperatingbudget;
+4 (2) Reductions and increases to the previous year's operating budget including
+5 identification of specific items that constitute a change by account code, and the reasons for each
+6 change;
+7 (3) One-timeexpendituresasdefinedundersubparagraphIX(b);and
+8 (4) Reductions for eliminated positions and benefit expenditures as defined under
+9 subparagraphIX(b).
+10 (b) This amount shall not be amended by the legislative body. However, this amount
+11 may be adjusted by the governing body, unless the provisions of RSA 40:14-b [are adopted] apply,
+12 acting on relevant new information at any time before the ballots are printed, provided the
+13 governing body, unless the provisions of RSA 40:14-b [are adopted] apply, completes an amended
+14 defaultbudgetform.
+15 5 UseofOfficialBallot;DefaultBudget. AmendRSA40:13,XI-atoreadasfollows:
+16 XI-a. If a political subdivision maintains a separate fund for the revenues and expenditures
+17 related to the operation, maintenance, and improvement of a water or sewer system, and if any
+18 appropriation for such fund is to be raised through user fees or charges and is included in a warrant
+19 article separate from the operating budget, the warrant article may include a default amount for
+20 such appropriation, which shall be deemed to have been approved if the proposed appropriation is
+21 not approved. The default amount shall be determined by the governing body, or by the budget
+22 committee if [the political subdivision has adopted the provisions of] RSA 40:14-b applies, and shall
+23 equal the amount of the same appropriation for the preceding fiscal year, reduced and increased, as
+24 thecasemaybe,bydebtservice,contracts,andotherobligationspreviouslyincurredormandatedby
+25 law, and reduced by one-time expenditures contained in the previous year's appropriation. The
+26 warrant article shall state the default amount for the appropriation and shall state that if the
+27 appropriation proposed in the article is not approved, the default amount shall be deemed to have
+28 beenapproved.
+29 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

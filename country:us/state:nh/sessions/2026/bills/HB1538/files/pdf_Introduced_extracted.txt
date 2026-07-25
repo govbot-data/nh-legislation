@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1538 -ASINTRODUCED
+2026SESSION
+26-2600
+07/05
+1538
+HOUSEBILL
+ANACT preventingvapeproductsfrombeingmarketedtowardsminors.
+SPONSORS: Rep. Wade, Straf. 15; Rep. Butler, Straf. 12; Rep. Mandelbaum, Rock. 21; Rep.
+Newell, Ches. 4; Rep. Selig, Straf. 10; Rep. Sorensen, Rock. 28; Rep. Tellez, Hills.
+40;Rep.N.Germana,Ches.15;Rep.Giasson,Hills.29;Rep.McDonnell,Rock.25;
+Sen.Watters,Dist4;Sen.Altschiller,Dist24;Sen.Fenton,Dist10
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitsvapeproductsfrombeingmarketedtowardsminors.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1538-ASINTRODUCED
+26-2600
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT preventingvapeproductsfrombeingmarketedtowardsminors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Alcoholic Beverages; The Liquor Commission; Prohibition on Deceptive Vape
+2 Products. AmendRSA176byinsertingaftersection19thefollowingnewsection:
+3 176:20 DeceptiveVapeProductsProhibited.
+4 I. Nopersonshallmarket,promote,label,brand,advertise,distribute,offerforsale,orsella
+5 vapeproductby:
+6 (a) Imitating a product that is not a vape product to conceal the nature of the vape
+7 productfromparents,teachers,orotheradults,including:
+8 (1) A food or brand of food commonly marketed to minors, including candy, desserts,
+9 andbeverages;
+10 (2) School supplies commonly used by minors, including erasers, highlighters, pens,
+11 andpencils;and
+12 (3) Builtintoclothingandaccessoriesthatcouldplausiblybemarketedtochildren.
+13 (b) Using branding that is known to appeal to minors, including branding based on or
+14 depicting a character, personality, or symbol known to appeal to minors, including a character in a
+15 comicbook,movie,televisionshow,videogame,oramythicalcreature.
+16 (c) Includinginteractivevideogamecapabilitieswithinavapeproduct.
+17 II. Violations of this section shall constitute civil infractions punishable by administrative
+18 action of the liquor commission against the person or entity pursuant to rules adopted by the
+19 commissionunderRSA541-A.
+20 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+HB1538-ASINTRODUCED
+LBA
+26-2600
+11/4/25
+HB-FISCALNOTE
+ASINTRODUCED
+ANACT preventingvapeproductsfrombeingmarketedtowardsminors.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2027through2029.
+AGENCIESCONTACTED:
+LiquorCommission

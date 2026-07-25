@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1353 -ASINTRODUCED
+2026SESSION
+26-3156
+06/08
+1353
+HOUSEBILL
+ANACT relative to discounted motor vehicle insurance premiums for voluntary safety
+inspections.
+SPONSORS: Rep.Wade,Straf.15;Rep.H.Howard,Straf.4;Rep.Muns,Rock.29
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a framework requiring motor vehicle insurers in New Hampshire to offer
+premiumdiscountsforvehiclesthatpassannualsafetyinspections.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1353-ASINTRODUCED
+26-3156
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to discounted motor vehicle insurance premiums for voluntary safety
+inspections.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Motor Vehicle Insurance Premium Discounts for Annual Safety Inspections.
+2 AmendRSA412byinsertingaftersection16thefollowingnewsection:
+3 412:16-a MotorVehicleInsurancePremiumDiscountsforAnnualSafetyInspections.
+4 I. Each insurer writing motor vehicle insurance in this state shall include in its rating
+5 manual and file with the insurance department provisions for premium discounts on liability,
+6 collision, and comprehensive coverage, specifically relating to motor vehicles that pass an annual
+7 safety inspection pursuant to RSA 266 and 263. The annual inspection shall verify major safety
+8 features including but not limited to headlights, taillights, tires, steering, and brakes. Insurers may
+9 also consider additional shop recommendations, provided these are not required for passing
+10 inspection, and actuarial justification for rate filings shall be based on demonstrable reduction in
+11 claimsforvehiclesmeetinginspectionstandards.
+12 II. The insurer shall verify that the inspection has been performed and meets state
+13 guidelinesbeforeapplyinganydiscount.
+14 III. The insurer shall not penalize a policyholder who chooses not to undergo annual
+15 inspection or whose vehicle fails inspection and does not claim the discount; no surcharge or penalty
+16 shallapplyfornon-participation.
+17 IV. Premium discounts shall not specify a mandated percentage but shall be actuarially
+18 justified and filed with the insurance department as part of the insurer’s required rate manual
+19 submission.
+20 V. Nothing in this section shall require policyholders to obtain inspections for insurance
+21 purposesbeyondthosemandatedbystatelaw.
+22 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

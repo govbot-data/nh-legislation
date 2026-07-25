@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1756-FN-ASINTRODUCED
+2026SESSION
+26-2395
+07/09
+1756-FN
+HOUSEBILL
+ANACT allowing organizations to file for property tax exemptions once and receive those
+exemptions unless and until a town assessor finds the organization ineligible for
+anexemption.
+SPONSORS: Rep. Walker, Straf. 19; Rep. Larochelle, Straf. 19; Rep. J. MacDonald, Carr. 6;
+Rep. Maggiore, Rock. 23; Rep. Potenza, Straf. 19; Rep. Bolton, Graf. 8; Rep.
+DeRoy,Straf.3
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows organizations to file for property tax exemptions once and receive those
+exemptionsunlessanduntilatownassessorfindstheorganizationineligibleforanexemption.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1756-FN-ASINTRODUCED
+26-2395
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing organizations to file for property tax exemptions once and receive those
+exemptions unless and until a town assessor finds the organization ineligible for
+anexemption.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation; Property Taxes; Annual List. Amend the section heading of RSA 72:23-c to read as
+2 follows:
+3 72:23-c [Annual]ExemptionList.
+4 2 Taxation;PropertyTaxes;AnnualList. AmendRSA72:23-c,Itoreadasfollows:
+5 I. Every religious, educational and charitable organization, Grange, the Veterans of Foreign
+6 Wars, the American Legion, the Disabled American Veterans, the American National Red Cross and
+7 any other national veterans association shall annually, on or before April 15 of any tax year, file a
+8 list of all real estate and personal property owned by them on which exemption from taxation is
+9 claimed, upon a form prescribed and provided by the board of tax and land appeals, with the
+10 selectmen or assessors of the place where such real estate and personal property are taxable. If any
+11 such organization or corporation shall willfully neglect or refuse to file such list upon request
+12 therefor:
+13 (a) [,the]Theselectmenmaydenytheexemption.
+14 (b) If any organization, otherwise qualified to receive an exemption, shall satisfy the
+15 selectmen or assessors that they were prevented by accident, mistake, or misfortune from filing an
+16 application on or before April 15, the officials may receive the application at a later date and grant
+17 an exemption thereunder for that year; but no such application shall be received or exemption
+18 grantedafterthelocaltaxratehasbeenapprovedforthatyear.
+19 (c) After an application is accepted as complete and approved, the application
+20 shallbeconsideredapermanentapplication.
+21 (d) City ortownassessors,boardsofselectmen,andother assessors'agentsshall
+22 fieldreview-qualifyingpropertiesannuallytoensuretheystillqualify.
+23 (e) Applicants shall file additional information as requested by the city or town
+24 assessor, boards of selectmen, and other officials at least once every 5 years, or annually if
+25 requested.
+26 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2395
+12/15/25
+HB1756-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowing organizations to file for property tax exemptions once and receive those
+exemptions unless and until a town assessor finds the organization ineligible for
+anexemption.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+LocalExpenditures $0
+(lessthan$10,000permunicipality)
+METHODOLOGY:
+This bill permits designated charitable organizations to submit a one-time application for
+property tax exemptions. Once granted, the exemption remains in effect unless a town assessor
+determines the property no longer qualifies. To ensure continued eligibility, city or town
+assessors, boards of selectmen, or other authorized agents shall conduct annual field reviews of
+exempt properties. Additionally, applicants must provide updated documentation upon request
+atminimumonceeveryfiveyears,orannuallyifrequiredbylocalofficials.
+The New Hampshire Municipal Association states that this will require additional work hours
+from local assessors or their designees to conduct annual field reviews. However, these costs
+may be partially offset by reduced mailing and processing expenses compared to the current
+application system. Overall, the anticipated increase in municipal expenditures is estimated to
+beunder$10,000permunicipality,thoughlargercitiesmayincurhighercosts.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1156-FN-ASINTRODUCED
+2026SESSION
+26-2389
+07/05
+1156-FN
+HOUSEBILL
+ANACT requiring that probate court notices of acquisitions of real estate through
+inheritanceorsimilardeviseberecordedinacounty'sregistryofdeeds.
+SPONSORS: Rep.Walker,Straf.19;Rep.J.MacDonald,Carr.6;Rep.Maggiore,Rock.23
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that probate court notices of acquisitions of real estate through inheritance or
+similardeviseberecordedinacounty'sregistryofdeeds.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1156-FN-ASINTRODUCED
+26-2389
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring that probate court notices of acquisitions of real estate through
+inheritanceorsimilardeviseberecordedinacounty'sregistryofdeeds.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Probate Courts and Decedents' Estates; Inventory, Accounts, and Dealing With Assets; Real
+2 Estate;NotificationofTownsandCities. AmendRSA554:18-atoreadasfollows:
+3 554:18-a Real Estate; Notification of Towns and Cities. Prior to rendering his final account,
+4 every administrator as defined in RSA 553:1 shall notify the selectmen of each town and the
+5 assessors of each city of those persons coming into the ownership of real estate through inheritance
+6 ordevise,andshallcertifytotheprobatecourt,onaformapprovedbythecourt,thatsuchnoticehas
+7 been given. All such notices shall also be recorded at the respective county's registry of
+8 deeds prior to rendering of the final count, and the register of deeds shall be entitled to
+9 charge a fee pursuant to RSA 478:17-g. The provisions of this section shall not apply when real
+10 estateofadecedentissoldbylicenseorconsent.
+11 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2389
+10/21/25
+HB1156-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring that probate court notices of acquisitions of real estate through
+inheritanceorsimilardeviseberecordedinacounty'sregistryofdeeds.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 IndeterminableIncrease
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill requires estate administrators to notify local officials of anyone inheriting real estate
+and certify this to the probate court, before filing a final account. The notice must also be
+recordedatthecountyregistryofdeeds,whichmaychargeafee.
+The New Hampshire Association of Counties states that this would generate revenue for
+counties through a recording fee of $12 for the first page, plus $4 for each additional page, as
+well as applicable postage. However, the total revenue is indeterminable as it depends on the
+numberofprobatecasesinvolvingrealestateinheritance.
+AGENCIESCONTACTED:
+NewHampshireAssociationofCounties

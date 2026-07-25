@@ -1,0 +1,302 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1694-FN-ASINTRODUCED
+2026SESSION
+26-2612
+07/06
+1694-FN
+HOUSEBILL
+ANACT relative to the regulation of and protections for personal data obtained by
+websitesanddatabrokers.
+SPONSORS: Rep. Wade, Straf. 15; Rep. Long, Hills. 26; Rep. H. Howard, Straf. 4; Rep.
+Giasson,Hills.29;Rep.Barton,Graf.1
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Requiresdatabrokersthatoperateinthisstatetoregisterwiththesecretaryofstate.
+II. Requiresthesecretaryofstatetocreateandmaintainanonlinedatabrokerregistryportal.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1694-FN-ASINTRODUCED
+26-2612
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the regulation of and protections for personal data obtained by
+websitesanddatabrokers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Actions, Process, and Service of Process; Expectation of Privacy; Consumer Expectation of
+2 Privacy. AmendRSA507-H:4,I(e)toreadasfollows:
+3 (e) Opt-out of the processing of the personal data for [purposes of targeted advertising,
+4 the sale of personal data] any purpose, except as provided in RSA 507-H:6 and RSA 507-H:10, or
+5 profiling in furtherance of solely automated decisions that produce legal or similarly significant
+6 effectsconcerningtheconsumer.
+7 2 New Subparagraph; Actions, Process, and Service of Process; Expectation of Privacy;
+8 Consumer Expectation of Privacy. Amend RSA 507-H:4, III by inserting after subparagraph (e) the
+9 followingnewsubparagraph:
+10 (f) A controller or registered data broker that receives a request for deletion of data or
+11 opt-out of data processingshall notify theconsumer, by secure and reliable means, within 15 days of
+12 completing the request, confirming that such personal data has been deleted and/or that the
+13 consumerhasbeenoptedoutofanyfuturecollectionorprocessing.
+14 3 New Subdivision; Registration of Data Brokers. Amend RSA 507-H by inserting after section
+15 12thefollowingnewsubdivision:
+16 RegistrationofDataBrokers
+17 507-H:13 Definitions. Inthissubdivision:
+18 I. "Data broker" means a controller or processor that knowingly collects, aggregates, or sells
+19 personal data of consumers who are residents of this state, who do not have a direct business
+20 relationship with the controller or processor, and who derive more than 25 percent of their gross
+21 revenuefromthesaleofpersonaldata.
+22 II. "Digital service" means a website, an application, a program, or software that collects or
+23 processespersonalidentifyinginformationwithInternetconnectivity.
+24 III. "Digitalserviceprovider"meansapersonwho:
+25 (a) Ownsoroperatesadigitalservice;
+26 (b) Determines the purpose of collecting and processing the personal identifying
+27 informationofusersofthedigitalservice;and
+28 (c) Determines the means used to collect and process the personal identifying
+29 informationofusersofthedigitalservice.
+30 IV. "Knownminor"meansapersonthatadigitalserviceproviderknowstobeaminor.
+
+HB1694-FN-ASINTRODUCED
+-Page2-
+1 V. "Minor" means a child who is younger than 18 years of age who has not had the
+2 disabilitiesofminorityremovedforgeneralpurposes.
+3 VI. "Personal identifying information" means any information, including sensitive
+4 information, that is linked or reasonably linkable to an identified or identifiable individual.
+5 Personal identifying information shall include pseudonymous information when the information is
+6 usedbyacontrollerorprocessorinconjunctionwithadditionalinformationthatreasonablylinksthe
+7 informationtoanidentifiedoridentifiableindividual.
+8 VII. "Verified parent" means the parent or guardian of a known minor whose identity and
+9 relationshiptotheminorhavebeenverifiedbyadigitalserviceprovider.
+10 507-H:14 Registration.
+11 I. To conduct business in this state, a data broker to which this chapter applies shall
+12 register with the secretary of state by filing a registration statement and paying a registration fee of
+13 $300.
+14 II. Theregistrationstatementshallinclude:
+15 (a) Thelegalnameofthedatabroker;
+16 (b) A contact person and the primary physical address, e-mail address, telephone
+17 number,andInternetwebsiteaddressforthedatabroker;
+18 (c) Adescriptionofthecategoriesofdatathedatabrokerprocessesandtransfers;
+19 (d) A statement of whether or not the data broker implements a purchaser credentialing
+20 process;
+21 (e) Ifthedatabroker hasactual knowledgethat thedatabrokerpossesses personal data
+22 ofaknownchild:
+23 (1) A statement detailing the data collection practices, databases, sales activities,
+24 andopt-outpoliciesthatareapplicabletothepersonaldataofaknownchild;and
+25 (2) A statement on how the data broker complies with applicable federal and state
+26 law regarding the collection, use, or disclosure of personal data from and about a child on the
+27 Internet;and
+28 (f) The number of security breaches the data broker has experienced during the year
+29 immediately preceding the year in which the registration is filed, and if known, the total number of
+30 consumersaffectedbyeachbreach.
+31 III. A registration of a data broker may include any additional information or explanation
+32 the data broker chooses to provide to the secretary of state concerning the data broker's data
+33 collectionpractices.
+34 IV. A registration certificate expires on the first anniversary of its date of issuance. A data
+35 broker may renew a registration certificate by filing a renewal application, in the form prescribed by
+36 thesecretaryofstate,andpayingarenewalfeeintheamountof$300.
+37 507-H:15 RegistryofDataBrokers.
+
+HB1694-FN-ASINTRODUCED
+-Page3-
+1 I. The secretary of state shall establish and maintain on its website, a searchable, central
+2 registryofdatabrokersregisteredthissubdivision.
+3 II. Theregistryshallinclude:
+4 (a) A search feature that allows a person searching the registry to identify a specific
+5 databroker;and
+6 (b) Foreachdatabroker,theinformationfiledunderRSA507-H:14.
+7 507-H:16 ProtectionofPersonalData.
+8 I. A data broker conducting business in this state shall have a duty to protect personal data
+9 heldbythatdatabrokerasprovidedbythissection.
+10 II. A data broker shall develop, implement, and maintain a comprehensive information
+11 securityprogram that is writteninone or morereadilyaccessibleparts and contains administrative,
+12 technical,andphysicalsafeguardsthatareappropriatefor:
+13 (a) Thedatabroker'ssize,scope,andtypeofbusiness;
+14 (b) Theamountofresourcesavailabletothedatabroker;
+15 (c) Theamountofdatastoredbythedatabroker;and
+16 (d) Theneedforsecurityandconfidentialityofpersonaldatastoredbythedatabroker.
+17 III. Thecomprehensiveinformationsecurityprogramrequiredbythissectionshall:
+18 (a) Incorporate safeguards that are consistent with the safeguards for protection of
+19 personal data and information of a similar character under state or federal laws and regulations
+20 applicabletothedatabroker;
+21 (b) Include the designation of one or more employees of the data broker to maintain the
+22 program;
+23 (c) Require the identification and assessment of reasonably foreseeable internal and
+24 external risks to the security, confidentiality, and integrity of any electronic, paper, or other record
+25 containing personal data, and the establishment of a process for evaluating and improving, as
+26 necessary,theeffectivenessofthecurrentsafeguardsforlimitingthoserisks,includingby:
+27 (1) Requiring ongoing employee and contractor education and training, including
+28 education and training for temporary employees and contractors of the data broker, on the proper
+29 useofsecurityproceduresandprotocolsandtheimportanceofpersonaldatasecurity;
+30 (2) Mandating employee compliance with policies and procedures established under
+31 theprogram;and
+32 (3) Providingameansfordetectingandpreventingsecuritysystemfailures;
+33 (d) Include security policies for the data broker's employees relating to the storage,
+34 access, and transportation of records containing personal data outside of the broker's physical
+35 businesspremises;
+36 (e) Provide disciplinary measures for violations of a policy or procedure established
+37 undertheprogram;
+
+HB1694-FN-ASINTRODUCED
+-Page4-
+1 (f) Include measures for preventing a terminated employee from accessing records
+2 containingpersonaldata;
+3 (g) Providepoliciesforthesupervisionofthird-partyserviceprovidersthatinclude:
+4 (1) Taking reasonable steps to select and retain third-party service providers that
+5 are capable of maintaining appropriate security measures to protect personal data consistent with
+6 applicablelaw;and
+7 (2) Requiring third-party service providers by contract to implement and maintain
+8 appropriatesecuritymeasuresforpersonaldata;
+9 (h) Provide reasonable restrictions on physical access to records containing personal
+10 data, including by requiring the records containing the data to be stored in a locked facility, storage
+11 area,orcontainer;
+12 (i) Include regular monitoring to ensure that the program is operating in a manner
+13 reasonablycalculatedtopreventunauthorizedaccesstoorunauthorizeduseofpersonaldataand,as
+14 necessary, upgrading information safeguards to limit the risk of unauthorized access to or
+15 unauthorizeduseofpersonaldata;
+16 (j) Require the regular review of the scope of the program's security measures that must
+17 occur:
+18 (1) Atleastannually;and
+19 (2) Whenever there is a material change in the data broker's business practices that
+20 mayreasonablyaffectthesecurityorintegrityofrecordscontainingpersonaldata;
+21 (k) Require the documentation of responsive actions taken in connection with any
+22 incidentinvolvingabreachofsecurity,includingamandatorypost-incidentreviewofeacheventand
+23 the actions taken, if any, to make changes in business practices relating to protection of personal
+24 datainresponsetothatevent;and
+25 (l) Totheextent technicallyfeasible, includethefollowingprocedures andprotocols with
+26 respect to computer system security requirements or procedures and protocols providing a higher
+27 degreeofsecurity,fortheprotectionofpersonaldata:
+28 (1) The use of secure user authentication protocols that include each of the following
+29 features:
+30 (A) Controllinguserlog-incredentialsandotheridentifiers;
+31 (B) Using a reasonably secure method of assigning and selecting passwords or
+32 usinguniqueidentifiertechnologies,whichmayincludebiometricsortokendevices;
+33 (C) Controllingdatasecuritypasswordstoensurethatthepasswordsarekeptin
+34 alocationandformatthatdonotcompromisethesecurityofthedatathepasswordsprotect;
+35 (D) Restrictingaccesstoonlyactiveusersandactiveuseraccounts;and
+36 (E) Blocking access to user credentials or identification after multiple
+37 unsuccessfulattemptstogainaccess;
+
+HB1694-FN-ASINTRODUCED
+-Page5-
+1 (2) Theuseofsecureaccesscontrolmeasuresthatinclude:
+2 (A) Restricting access to records and files containing personal data to only
+3 employees or contractors who need access to that personal data to perform the job duties of the
+4 employeesorcontractors;and
+5 (B) Assigning to each employee or contractor with access to a computer
+6 containing personal data unique identification and a password, which may not be a vendor-supplied
+7 default password, or using another protocol reasonably designed to maintain the integrity of the
+8 securityoftheaccesscontrolstopersonaldata;
+9 (3) Encryptionof:
+10 (A) Transmitted records and files containing personal data that will travel
+11 acrosspublicnetworks;and
+12 (B) Datacontainingpersonaldatathatistransmittedwirelessly;
+13 (4) Reasonable monitoring of systems for unauthorized use of or access to personal
+14 data;
+15 (5) Encryption of all personal data stored on laptop computers or other portable
+16 devices;
+17 (6) For files containing personal data on a system that is connected to the Internet,
+18 the use of reasonably current firewall protection and operating system security patches that are
+19 reasonablydesignedtomaintaintheintegrityofthepersonaldata;and
+20 (7) Theuseof:
+21 (A) A reasonably current version of system security agent software that must
+22 includemalwareprotectionandreasonablycurrentpatchesandvirusdefinitions;or
+23 (B) A version of system security agent software that is supportable with current
+24 patches and virus definitions and is set to receive the most current security updates on a regular
+25 basis.
+26 507-H:17 OnlinePortalandForms.
+27 I. The secretary of state shall create and administer an online data broker and registry
+28 portal. The portal shall contain a form to process data requests to and from all registered data
+29 brokers. Theformshallrequireanindividual'scontactinformationtoverifytheiridentity.
+30 II. Forms on the online portal shall allow an individual to request a copy of their data,
+31 requestthattheirdatabedeleted,andrequesttobepermanentlyopted-outoffuturedataprocessing
+32 fromallregistereddatabrokers.
+33 III. Upon completion of the form, a copy of the form shall be sent to all registered data
+34 brokersinthisstate,whoshallcomplywiththerequestorrequestsoftheformfiler.
+35 IV. Data brokers who receive a request from a filer pursuant to this section shall inform the
+36 filer they have received the request and that they will work to comply with their request in an
+37 expeditiousmanner.
+
+HB1694-FN-ASINTRODUCED
+-Page6-
+1 V. Data brokers who receive a request from a filer under this section shall have 15 days
+2 processandcomplywiththerequestofthefiler.
+3 VI. The portal shall allow an individual to request a copy of their data and to delete all of
+4 theircollecteddata.
+5 507-H:18 CivilPenalty.
+6 I. A data broker that violates this subdivision shall be liable to the state for a civil penalty
+7 asprescribedbythissection.
+8 II. Acivilpenaltyimposedagainstadatabrokerunderthissection:
+9 (a) Subjecttosubparagraph(b),maynotbeinanamountlessthanthetotalof:
+10 (1) $100foreachdaytheentityisinviolationofthissubdivision;and
+11 (2) The amount of unpaid registration fees for each year the entity failed to register
+12 inviolationofthissubdivision;and
+13 (b) Maynotexceed$10,000assessedagainstthesamedatabrokerina12-monthperiod.
+14 III. The attorney general may bring an action to recover a civil penalty imposed under this
+15 section. The attorney general may recover reasonable attorney's fees and court costs incurred in
+16 bringingtheaction.
+17 507-H:19 Deceptive Trade Practice. A violation of this subdivision by a data broker shall
+18 constituteadeceptivetradepracticeunderRSA358-Aandshallbeactionableunderthatchapter.
+19 507-H:20 Rules. The secretary of state shall adopt rules as necessary to implement this
+20 subdivision.
+21 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2612
+12/1/25
+HB1694-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the regulation of and protections for personal data obtained by
+websitesanddatabrokers.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+RevenueFund(s) GeneralFund&AgencyIncome
+$1,000,000to
+Expenditures* $0 IndeterminableIncrease
+$2,500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires data brokers operating in the state to register annually with the Secretary of
+State, which includes paying a $300 fee and providing detailed information about their data
+practices, including the types of data collected, security breaches, and policies regarding minors.
+It also requires the Secretary of State to establish and maintain a public, searchable online
+registry of these data brokers. Additionally, the bill imposes strict data protection standards,
+requiring brokers to implement security programs, employee training, and breach response
+protocols. Violations of the law would result in civil penalties and be considered deceptive trade
+practices.
+The Department of State indicates that while the bill could generate indeterminable revenue
+from registration fees, it would impose significant costs on the agency. The office lacks the
+internalresourcestodevelopandmaintaintherequiredonlineregistrationsystemorthestaffto
+draft the necessary administrative rules. As a result, these tasks would need to be outsourced,
+withestimatedcostsrangingfrom$1millionto$2.5million.
+ThiscouldpossiblyresultinanincreaseincivilcasesintheSuperiorCourt,however,thereisno
+way to predict how many such actions would occur so any such increase is indeterminable. The
+JudicialBranchhasprovidedaveragecostinformationforcivilcasesintheSuperiorCourt:
+
+NHJudicialBranchAverageCivilCaseEstimates
+JudicialBranchAverageCost FY2026 FY2027
+SuperiorCourt $1,283 $1,342
+ComplexCivilCase
+SuperiorCourt $476 $495
+RoutineCivilCase
+CommonCivilCaseFees
+SuperiorCourtFees Asof7/1/2025
+OriginalEntryFee $325
+Third-PartyClaim $325
+MotiontoReopen $195
+AGENCIESCONTACTED:
+DepartmentofState,JudicialBranch,andDepartmentofJustice

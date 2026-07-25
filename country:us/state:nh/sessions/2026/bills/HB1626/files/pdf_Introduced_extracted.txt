@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1626-FN-ASINTRODUCED
+2026SESSION
+26-3229
+05/06
+1626-FN
+HOUSEBILL
+ANACT relativetotheeffectivenessoftourismexpenditures.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Ford, Rock. 3; Rep. Korzen, Coos 7; Rep. McGrath,
+Rock.40;Rep.MaryMurphy,Hills.27
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of business and economic affairs, director of travel and tourism
+developmenttoquantitativelyassessthereturnoninvestmentoftourismexpendituresasameasure
+ofprogrameffectiveness.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1626-FN-ASINTRODUCED
+26-3229
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheeffectivenessoftourismexpenditures.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Director of Travel and Tourism; Estimate of Return on Investment for Promotional Programs.
+2 AmendRSA12-O:15,VItoreadasfollows:
+3 VI. Conductresearchtomeasuretheeffectivenessofpromotionalprogramsandprovidean
+4 estimated return on investment (ROI) for all promotional programs exceeding $10,000,
+5 withanexplanationofhowtheROIwascalculated.
+6 2 TravelandTourismDevelopmentFund. AmendRSA12-O:16,IItoreadasfollows:
+7 II. ThecommissionershallprepareanannualreporttobepresentednolaterthanDecember
+8 1 of each year to the governor and council, the fiscal committee of the general court, the president of
+9 the senate, and the speaker of the house of representatives. The report shall detail the specific
+10 activities supported by, and expenditures from, the fund during the past year and shall additionally
+11 detail the activities of the travel and tourism revolving fund established in RSA 12-O:13 and the
+12 effectiveness and return on investment for promotional programs identified in RSA 12-
+13 O:15,VI.
+14 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3229
+12/8/25
+HB1626-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheeffectivenessoftourismexpenditures.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$350,000to $350,000to $350,000to
+Expenditures* $0
+$500,000 $500,000 $500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Business and Economic Affairs to measure and report the
+return on investment for tourism promotional programs exceeding $10,000 and to include this
+informationintheDepartment’sannualreport.
+The Department of Business and Economic Affairs states this bill would require expanded
+research and analysis to evaluate tourism program effectiveness. The Division previously
+contracted for these services at approximately $300,000 per year, and BEA anticipates a new
+contract will be necessary. The Department estimates the cost of the required work will be
+between$350,000to$500,000peryear,whichcannotbeabsorbedwithinitsexistingbudget.
+AGENCIESCONTACTED:
+DepartmentofBusinessandEconomicAffairs

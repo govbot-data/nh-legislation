@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1154-FN-ASINTRODUCED
+2026SESSION
+26-2623
+07/08
+1154-FN
+HOUSEBILL
+ANACT restricting the texting of unsolicited advertisements, including political
+campaigns.
+SPONSORS: Rep.W.Thomas,Hills.12;Rep.Rung,Hills.12;Rep.B.Boyd,Hills.12
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restricts the use of texting for unsolicited advertisements and creates criminal and civil
+penaltiesforviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1154-FN-ASINTRODUCED
+26-2623
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restricting the texting of unsolicited advertisements, including political
+campaigns.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Criminal Code; Breaches of the Peace and Related Offenses; Harassment.
+2 AmendRSA644:4byinsertingafterparagraphIVthefollowingnewparagraphs:
+3 V. AsusedinparagraphsVI-VIII:
+4 (a) "Unsolicited advertisement" means any material advertising the commercial
+5 availability or quality of any property, goods, services, or political candidate’s message that is
+6 transmitted to any person without that person’s prior express invitation or permission, in writing or
+7 otherwise.
+8 (b) "Benefit conferred" means where one party receives a tangible or intangible benefit,
+9 advantage, or gain because of the actions or services provided by another party. In regard to
+10 unsolicited political campaign text messages, this shall include, but not be limited to the celebrity
+11 endorser, the candidate, the political campaign or political action committee; the advertising or
+12 public relations agency, and/or the platform company used to facilitate contributions to the political
+13 campaignsandpoliticalcommittees.
+14 VI. Itshallbeunlawfulforanypersonto:
+15 (a)(1) Use anytelephone, computer, orother devicetosend anunsolicited advertisement
+16 to another telephone, whether through automated message or text message, without first receiving
+17 permissionfromtheintendedrecipient,unless:
+18 (A) The unsolicited advertisement is from a sender with an established business
+19 relationshipwiththerecipient;
+20 (B) The sender obtained the recipient's phone number through voluntary
+21 communicationofsuchnumberwithinthecontextofsuchanestablishedbusinessrelationship;or
+22 (C) A directory, advertisement, or site on the Internet to which the recipient
+23 voluntarilyagreedtomakeavailableitsnumberforpublicdistribution.
+24 (2) Any such unsolicited advertisement shall contain a notice allowing the recipient
+25 to opt out of any future advertisements. The notice shall include a domestic contact telephone
+26 number for the recipient to transmit such a request to the sender and a cost-free mechanism for the
+27 recipient to transmit such a request pursuant to the notice to the sender of the unsolicited
+28 advertisement.
+29 (b) Usemultipleoriginationtelephonenumbersinordertoevadedetectionortodefeata
+30 recipient’sabilitytoblockoroptoutoftheunsolicitedadvertisement.
+
+HB1154-FN-ASINTRODUCED
+-Page2-
+1 (c) Which a benefit has been conferred, use previously stored recipients’ telephone
+2 numbers in multiple campaigns of unsolicited advertisements after the person has received an opt-
+3 outnotificationfromtherecipient.
+4 VII. A person shall be guilty of a class B felony if the person violates RSA 644:4, VI, under
+5 circumstances involving repeated, unsolicited advertisements without the recipient’s prior express
+6 consent,and/oracivilpenaltyofnotlessthan$250andnotmorethan$2,000perincident.
+7 VIII. Anypersonaggrievedbecause ofthegross negligenceorwillful misconductinviolation
+8 of any provision of RSA 644:4 may initiate an action against any person or entity for which because
+9 oftheunsolicitedadvertisement,abenefitconferredresults.
+10 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2623
+11/4/25
+HB1154-FN-FISCALNOTE
+ASINTRODUCED
+ANACT restricting the texting of unsolicited advertisements, including political
+campaigns.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

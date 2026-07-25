@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1729-FN-A-ASINTRODUCED
+2026SESSION
+26-3224
+07/09
+1729-FN-A
+HOUSEBILL
+ANACT relative to the creation of a centralized enterprise resource planning service, and
+makinganappropriationtherefor.
+SPONSORS: Rep.Luneau,Merr.9;Rep.Damon,Sull.8
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of education to solicit and assist in operating request for
+proposalsforenterpriseresourceplanningplatformsandmakesappropriationstherefor.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1729-FN-A-ASINTRODUCED
+26-3224
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the creation of a centralized enterprise resource planning service, and
+makinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known and cited as the "Centralized School ERP Procurement
+2 Act".
+3 2 StatementofFindings. Thegeneralcourtherebyfindsthat:
+4 I. School districts expend significant resources maintaining disparate administrative
+5 systemsforfinance,humanresources,studentinformation,payroll,procurement,andfacilities.
+6 II. A centralized, vendor-hosted enterprise resource planning (ERP) service could yield cost
+7 savings, interoperability, standardized reporting, improved data security, and streamlined
+8 administrativecapacity.
+9 III. The department of education is well-positioned to design a procurement that meets
+10 statewideandlocalneeds.
+11 IV. This legislation will require the department of education to develop and issue a
+12 competitive request for proposals (RFP) for qualified vendors to provide a centralized, optional
+13 enterpriseresourceplanningserviceforNewHampshirepublicschooldistricts.
+14 V. This legislation will require the department of education to provide technical assistance
+15 andtransitionplanningtodistrictsthatelecttoparticipate.
+16 3 New Subdivision; Request for Proposals for Enterprise Resource Planning Platforms. Amend
+17 RSA21-Nbyinsertingaftersection13thefollowingnewsubdivision:
+18 RequestforProposalsforEnterpriseResourcePlanningPlatforms
+19 21-N:14 Definitions. Asusedinthissubdivision:
+20 I. "ERP service" means a cloud-hosted, vendor-supported enterprise resource planning
+21 platform or suite of interoperable modules that provides, at minimum, financial management,
+22 human resources and payroll, student information systems, special education case management,
+23 procurement, fixed assets, reporting and analytics, role-based security, data export/import
+24 interfaces,anddisasterrecovery.
+25 II. "Department"meansthedepartmentofeducation.
+26 III. "Participating district" means a public school district, charter school, or public academy
+27 thatelectstosubscribetothecentralizedERPservicepursuanttoprocurementterms.
+28 21-N:15 StakeholderEngagement.
+
+HB1729-FN-A-ASINTRODUCED
+-Page2-
+1 I. By November 1, 2026, the department shall develop a draft of a competitive request for
+2 proposal (RFP) for procuring a centralized ERP service as defined in RSA 21-N:14, I. The draft RFP
+3 shall:
+4 (a) Describe required system capabilities and minimum functional modules, technical
+5 and security standards, including compliance with state data privacy and security laws and federal
+6 FERPA requirements, interoperability standards and APIs, hosting and disaster recovery
+7 requirements, service level agreements, training and support obligations, implementation timeline
+8 expectations, data migration services, pricing models, including per-district and per-student options,
+9 optionsforphasedimplementation,andtermsforterminationanddataportability;
+10 (b) Require vendors to demonstrate experience implementing ERP solutions for K–12
+11 education, provide references from at least 3 comparable public education clients, and submit
+12 detailedproposalsforonboarding,training,long-termsupport,andcontinuousimprovement;and
+13 (c) Include evaluation criteria weighting functional fit, total cost of ownership, technical
+14 and security compliance, vendor capacity, support and training plans, demonstrated K–12
+15 experience,andtransitionriskmitigation.
+16 II. In developing the draft RFP, the department shall convene and consult with a
+17 stakeholder advisory group, including representatives of school district business administrators,
+18 superintendents, school board members, technology directors, charter school operators, the
+19 department of information technology, the bureau of special education, and a representative of
+20 municipal finance officers. The department shall solicit written input from stakeholders and hold at
+21 least2publiccommentsessions,whethervirtualorin-person,onthedraftRFP.
+22 21-N:16 OptionalParticipation.
+23 I. After consideration of stakeholder input, the department shall finalize and issue the
+24 competitive request for proposal (RFP) no later than April 1, 2027. The RFP shall be published on
+25 the department's website and the state's procurement portal, and shall allow sufficient time for
+26 vendorresponsesconsistentwithprocurementlaw.
+27 II. Participation in the centralized ERP service shall be strictly voluntary for school
+28 districts. No district shall be required to adopt or migrate to the centralized service under this
+29 subdivision.
+30 III. Thedepartmentshall,subjecttoavailableappropriations:
+31 (a) Develop guidance, sample contracts, and data migration templates to assist districts
+32 inevaluatingvendorproposalsandnegotiatingparticipationagreements;
+33 (b) Provideplanning and technical assistance to districts, including project management
+34 templates, readiness assessments, procurement negotiation support, and coordination with the state
+35 departmentofinformationtechnologyregardingsecurityandconnectivityrequirements;and
+36 (c) Facilitate vendor demonstrations and statewide procurement forums to support
+37 districtdecision-making.
+
+HB1729-FN-A-ASINTRODUCED
+-Page3-
+1 21-N:17 DataGovernance, Privacy, and Ownership. The competitiverequest for proposal (RFP)
+2 andanyresultingcontractsshallrequirethat:
+3 I. Student, staff, and financial data remain the property of the participating district and the
+4 departmentasapplicable;
+5 II. Vendors implement and maintain industry-standard security measures, data encryption
+6 at rest and in transit, multi-factor authentication, and breach notification protocols consistent with
+7 statelawandFERPA;
+8 III. Data portability and export capabilities be guaranteed at termination or upon district
+9 requestwithoutunduefeesorbarriers;and
+10 IV. Contracts prohibit the vendor from selling or monetizing education data for commercial
+11 marketingpurposes.
+12 21-N:18 Pilot Program Option. The department may include in the competitive request for
+13 proposal (RFP) an option for an initial pilot cohort of up to 6 participating districts representing
+14 diverse sizes and geographic regions to test implementation, onboarding, training, and
+15 interoperabilityoveran18–24monthpilotperiodpriortostatewiderollout.
+16 21-N:19 ReporttoLegislature.
+17 I. The department shall prepare and submit a report to the governor, the president of the
+18 senate,thespeakerofthehouseofrepresentatives,andthechairsofthehouseandsenateeducation
+19 committeeswithin30daysafterissuanceofthefinalcompetitiverequestforproposal(RFP).
+20 II. The report shall summarize stakeholder input, key RFP features, proposed procurement
+21 timeline, available funding sources, and recommended next steps. The department shall provide a
+22 supplemental report within 12 months of any contract award summarizing award decisions,
+23 anticipated implementation timelines, projected costs and savings, and lessons learned from any
+24 pilot.
+25 21-N:20 Rulemaking. The department, in consultation with the department of information
+26 technology and other relevant agencies, may adopt rules, pursuant to RSA 541-A, to implement this
+27 subdivision.
+28 21-N:21 Severability. If any provision of this subdivision or the application thereof to any
+29 person or circumstances is held invalid, such invalidity shall not affect other provisions or
+30 applications of thesubdivisionwhich canbegiveneffect without theinvalid provisionor application,
+31 andtothisendtheprovisionsofthissubdivisionaredeclaredtobeseverable.
+32 4 Department of Education; Appropriation. There is hereby appropriated to the department of
+33 educationthesumof$250,000forthefiscalyearendingJune30,2027,forthepurposeofsupporting
+34 competitive request for proposal (RFP) developments, stakeholder engagement, procurement costs,
+35 andtechnicalassistancetodistricts. Thegovernorisauthorizedtodrawawarrantforsaidsumsout
+36 ofanymoneyinthetreasurynototherwiseappropriated.
+37 5 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3224
+12/12/25
+HB1729-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the creation of a centralized enterprise resource planning service, and
+makinganappropriationtherefor.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $294,000 $294,000 $306,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $250,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill proposes the establishment of a centralized, vendor-hosted Enterprise Resource
+Planning (ERP) service for New Hampshire public school districts, aiming to modernize and
+streamline administrative operations across finance, human resource, student information,
+procurement,andrelatedsystems,whilepreservinglocalcontrolanddataownership.
+TheDepartmentofEducation(NHED)assumestheintentandrationaleofthisbillaregrounded
+inthefindingthatschooldistrictscurrentlyoperatedisparateandoftenoutdatedsystems,which
+lead to inefficiencies and increased costs. By contrast, a centralized ERP platform could
+generate cost savings through economies of scale, improve data security and compliance
+(includingFamilyEducationalRightsandPrivacyAct(FERPA)),supportstandardized reporting
+and analytics, and enhance interoperabilityand overall administrativecapacity. Under this bill,
+NHED and the Department of Information Technology (DoIT) would lead a statewide
+
+procurement process for such a platform in a way that supports local needs while leveraging
+centralizedinfrastructure.
+The bill establishes a structured, phased implementation plan. By November 1, 2026, NHED
+would be required to develop a competitive request for proposal (RFP) that details system
+requirements, security standards, pricing models, and vendor qualifications, incorporating
+stakeholder input through an advisory group and public comment sessions. By April 1, 2027,
+NHED would be required to issue the final RFP and publish it on the NHED website and the
+state procurement portal. Participation by school districts is entirely voluntary; districts may
+optinat their discretion, andno mandateis imposed. Tosupport participation, NHED would be
+required to provide technical assistance, sample contracts, and vendor evaluation tools. NHED
+may also initiate a pilot program with up to six diverse districts to test implementation and
+training before a broader rollout. Under the bill, districts would retain ownership of their data,
+vendors would be required to meet strict data security and privacy standards, and contracts
+would be required to explicitly prohibit data monetization. Finally, NHED would be required to
+report to the legislature following RFP issuance and again after any contract awards, and would
+be granted rulemaking authority, in consultation with DoIT, to implement and oversee the
+program.
+TheDepartments(NHEDandDoIT)statetwo(2)full-timemanagementlevelpositions(SOC11-
+06) would be required to implement this bill. The costs for these positions is estimated to be
+$244,000 in FY 2027, $244,000 in FY 2028, and $256,000 in FY 2029. In addition, it is assumed
+$50,000 would be needed, per year, in additional budgeted funds to support the positions and
+their required duties. While this bill does not establish personnel, it does include a general fund
+appropriationtoNHEDof$250,000inFY2027.
+Given that district participation would be voluntary and with no information on final contract
+rates, the cost for participation bylocal districts is indeterminable. Dependingupon district size
+and level of enterprise software, NHED states estimated local costs could range anywhere
+between$50,000and$500,000,ormore.
+AGENCIESCONTACTED:
+DepartmentofEducationandDepartmentofInformationTechnology

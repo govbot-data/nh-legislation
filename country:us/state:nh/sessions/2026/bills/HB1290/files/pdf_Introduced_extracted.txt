@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1290 -ASINTRODUCED
+2026SESSION
+26-2815
+06/07
+1290
+HOUSEBILL
+ANACT relativetocustomerenergystorage.
+SPONSORS: Rep. McGhee, Hills. 35; Rep. Caplan, Merr. 8; Rep. Cormen, Graf. 15; Sen. Avard,
+Dist12;Sen.Watters,Dist4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprovidesthatthedepartmentofenergyshalladoptrulesrelativetoinstallationanduse
+of energy storage systems. The bill also provides that the public utilities commission may approve
+tariffsandissueordersinadjudicatedproceedingsconsistentwith,orintheabsenceofsuchrules.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1290-ASINTRODUCED
+26-2815
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocustomerenergystorage.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Customer Energy Storage; Definition of Department Added. Amend RSA
+2 374-H:1byinsertingafterparagraphIIthefollowingparagraph:
+3 II-a. "Department"meansthedepartmentofenergy.
+4 2 Customer Energy Storage; Customer Energy Storage Systems. Amend the introductory
+5 paragraphofRSA374-H:2,Itoreadasfollows:
+6 I. The [commission] department shall adopt rules [or approve tariffs] clarifying policy for
+7 theinstallation[,] and interconnection[, and use] of energy storage systems by customers of utilities,
+8 while the commission may approve tariffs and issue orders in adjudicated proceedings
+9 that are consistent with such rules and pertain to the use of and utility compensation for
+10 such energy storage systems. The department and the commission [and] shall incorporate the
+11 followingprinciplesintotherulesandorders,respectively[orapprovedtariffs]:
+12 3 Customer Energy Storage; Customer Energy Storage Systems. Amend RSA 374-H:2, II to
+13 readasfollows:
+14 II. Nothinginthissectionaltersorsupersedes[either:
+15 (a)]theprinciplesofnetenergymeteringunderRSA362-A:9[;or
+16 (b) Any existing electrical permit requirements or any licensing or certification
+17 requirementsforinstallers,manufacturers,orequipment].
+18 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.

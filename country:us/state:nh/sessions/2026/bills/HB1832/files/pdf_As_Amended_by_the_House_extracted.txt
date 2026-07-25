@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1832-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0167h
+2026SESSION
+26-2840
+12/09
+1832-FN
+HOUSEBILL
+ANACT adding students with a parent or guardian on active military duty to the
+educationfreedomaccountspriorityguidelines.
+SPONSORS: Rep.Morse,Merr.3
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill adds students residing in New Hampshire with at least one parent or guardian on
+activemilitarydutytothepriorityguidelineslistforeducationfreedomaccounts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1832-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0167h 26-2840
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT adding students with a parent or guardian on active military duty to the
+educationfreedomaccountspriorityguidelines.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Children of Active Duty Military; EFA Priority. Amend RSA 194-F:1, XIII(d) to read as
+2 follows:
+3 (d) A student whose family income is less than or equal to 350 percent of the federal
+4 poverty guidelines as updated annually by the United States Department of Health and Human
+5 Servicesunder42U.S.C.section9902(2);[.]
+6 (e) A student residing in New Hampshire with one or more parent or guardian
+7 who is on active military duty, regardless of the physical location or place of residence of
+8 theactive-dutyparentorguardian.
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2840
+02/10/2026
+HB1832-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0167h)
+ANACT adding students with a parent or guardian on active military duty to the
+educationfreedomaccountspriorityguidelines.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) EducationTrustFund
+Appropriations* $0 Statutory"OpenWarrant"ExistsforEFAPayments
+FundingSource(s) EducationTrustFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 Indeterminable
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill would qualify students with an active-duty military parent as priority status students
+for participation in the state’s Education Freedom Account (EFA) program. Relative to this bill,
+theDepartmentofEducationmakesthefollowingassumptions:
+ Active military status does not include the National Guard or the Armed Services
+Reserves.
+ Some portion of the potential pool of military families impacted by this bill will already
+qualifyforprioritystatusundertheexistingcategories,whileotherswillbeabletoenroll
+intheprogrambeforethecapismet.
+ Students in this group will qualify for differential aid at the same rate as children in the
+November2025payment.
+ The percentage of military families accessing the EFA program is similar to the
+percentageofEFAfamiliesaccessingdistrictandcharterschoolpathways.
+
+Based on the assumption above, under this bill, the Department is estimating 30 additional
+students that would be made eligible in FY 2027. At a cost per student of $5,010 in FY 2027,
+this results in the state paying an additional $150,300. The fiscal impact would likely decrease
+over time as cap on universal EFAs expanded under the mechanisms allowed in current law,
+which potentially would result in no fiscal impact if the cap exceeded total demand for the EFA
+program.
+The actual cost of this bill to the state is indeterminable, as it is not known what educational
+settings these students would be coming from. Students who were previously attending district
+and charter schools could offset some of these additional expenses due to a reduction in district
+adequacy and state funding, but the extent to which this will occur is uncertain. The following
+provides information about different scenarios under which a student may access the EFA
+program
+ Studentsenteringtheprogramfromhomeeducationornon-publicsystemswouldresult
+in an increased expense for the state equal to the cost of the average EFA grant in the
+respectiveyear.
+ Students entering the program from an in-person chartered public school would have a
+net savings for the state of $5,407 (FY 2027 charter adequacy aid of $10,417 minus the
+averageEFAgrantinthatyear).
+ Studentsenteringtheprogram from adistrict publicschool would have anet cost tothe
+state if the student left a community with a statewide education property tax (SWEPT)
+grant in excess of the calculated cost of an adequate education. This net cost would be
+equal to the amount of the average EFA grant, which is estimated to be $5,010 per
+studentforFY2027.
+ Students entering the program from a public district school in a non-excess SWEPT
+community would result in a decrease to the adequacy grant for their resident district.
+This decrease is estimated to be $2,040 (FY 2027 non-excess SWEPT community of
+$7,050 minus the average EFA grant in FY 2027) based on the difference between the
+averagetotalgrantperstudent.
+AGENCIESCONTACTED:
+DepartmentofEducation

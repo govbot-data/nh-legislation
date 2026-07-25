@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1229-ASAMENDEDBYTHEHOUSE
+5Mar2026...0552h
+2026SESSION
+26-2951
+09/08
+1229
+HOUSEBILL
+ANACT relativetowaiversofalimony.
+SPONSORS: Rep. Markell, Rock. 18; Rep. Kuttab, Rock. 17; Rep. Litchfield, Rock. 32; Rep. M.
+Pearson,Rock.34
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequireswaiversofalimonytobeenforcedunlessthewaiverisfoundinvalid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1229-ASAMENDEDBYTHEHOUSE
+5Mar2026...0552h 26-2951
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetowaiversofalimony.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Term and Reimbursement Alimony. Amend RSA 458:19-a by inserting after
+2 paragraphVIthefollowingnewparagraph:
+3 VII. Agreements in which the parties waive any and all rights to past, present, or future
+4 alimony, or any portion thereof, shall be given full force and effect unless the agreement is found by
+5 a preponderance of the evidence to be invalid due to coercion, deceit, duress, fraud, mutual mistake,
+6 material misrepresentation, supervening illegality, or where such enforcement would be
+7 unconscionableor thefactsand circumstances have changedsince theagreementwas executed soas
+8 tomaketheagreementunenforceable.
+9 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

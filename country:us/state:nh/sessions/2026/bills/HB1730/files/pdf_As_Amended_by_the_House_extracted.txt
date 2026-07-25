@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1730-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0420h
+2026SESSION
+26-3238
+09/08
+1730-FN
+HOUSEBILL
+ANACT enhancingthelevelofoffenseforcertainsexualoffenses.
+SPONSORS: Rep.Sweeney,Rock.25;Rep.AlexanderJr.,Hills.29;Rep.Berry,Hills.44
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill reclassifies as felonies certain sexual assault conduct related to engaging in sexual
+contact or penetration with a person over whom the defendant had certain authority by virtue of
+their role in a correctional institution, the secure psychiatric unit, or a juvenile detention facility, or
+theirroleasanadultorjuvenileprobationorparoleofficer.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1730-FN-ASAMENDEDBYTHEHOUSE
+19Feb2026...0420h 26-3238
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enhancingthelevelofoffenseforcertainsexualoffenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Aggravated Felonious Sexual Assault. Amend the introductory paragraph of RSA 632-A:2,
+2 I(n)toreadasfollows:
+3 (n) When the actor is in a position of authority over the victim [and uses this authority
+4 tocoercethevictimtosubmit]underanyofthefollowingcircumstances:
+5 2 FeloniousSexualAssault. AmendtheintroductoryparagraphofRSA632-A:3,IV(a)toreadas
+6 follows:
+7 IV.(a) Engages in sexual contact with the person, or causes the person to engage in sexual
+8 contact on himself or herself in the presence of the actor, when the actor is in a position of authority
+9 over the person [and uses that authority to coerce the victim to submit] under any of the following
+10 circumstances:
+11 3 Registration of Criminal Offenders; Sexual Offense. Amend RSA 651-B:1, V(a) to read as
+12 follows:
+13 (a) Capital murder, RSA 630:1, I(e); first degree murder, RSA 630:1-a, I(b)(1);
+14 aggravated felonious sexual assault, RSA 632-A:2; felonious sexual assault, 632-A:3; sexual assault,
+15 632-A:4, I(a) [or RSA 632-A:4, III]; violation of privacy, RSA 644:9, I(a) or RSA 644:9, III-a; or a
+16 second or subsequent offense within a 5-year period for indecent exposure and lewdness, RSA 645:1,
+17 I.
+18 4 Registration of Criminal Offenders; Offense Against a Child. Amend RSA 651-B:1, VII(a) to
+19 readasfollows:
+20 (a) Anyofthefollowingoffenses,wherethevictimwasundertheageof18atthetimeof
+21 the offense: capital murder, RSA 630:1, I(e); first degree murder, RSA 630:1-a, 1(b)(1); aggravated
+22 felonious sexual assault, RSA 632-A:2; felonious sexual assault, RSA 632-A:3; sexual assault, RSA
+23 632-A:4, I(a) [or RSA 632-A:4, III]; kidnapping, RSA 633:1; criminal restraint, RSA 633:2; false
+24 imprisonment, RSA 633:3; incest, RSA 639:2; violation of privacy, RSA 644:9, I(a) or RSA 644:9, III-
+25 a; a second or subsequent offense within a 5-year period for indecent exposure and lewdness, RSA
+26 645:1, I; indecent exposure and lewdness, RSA 645:1, II and RSA 645:1, III; or prostitution, RSA
+27 645:2.
+28 5 Registration of Criminal Offenders; Tier I Offender. Amend RSA 651-B:1, VIII(a) to read as
+29 follows:
+
+HB1730-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (a) RSA 632-A:4, I(a); RSA 632-A:4, I(b); [RSA 632-A:4, III;] RSA 644:9, I(a); RSA 644:9,
+2 III-a; or a second or subsequent offense within a 5-year period for indecent exposure and lewdness,
+3 RSA645:1,I.
+4 6 Repeal. RSA 632-A:4, III, relative to sexual assault in certain positions of authority, is
+5 repealed.
+6 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3238
+02/20/2026
+HB1730-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0420h)
+ANACT enhancingthelevelofoffenseforcertainsexualoffenses.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

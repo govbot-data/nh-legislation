@@ -1,0 +1,484 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1761-FN-ASINTRODUCED
+2026SESSION
+26-3138
+06/08
+1761-FN
+HOUSEBILL
+ANACT expandingtheNewHampshirepaidfamilyandmedicalleaveprogram.
+SPONSORS: Rep. Beauchemin, Hills. 3; Rep. Jacobs, Ches. 15; Rep. Mandelbaum, Rock. 21;
+Rep. Weinstein, Rock. 10; Rep. Colby, Merr. 9; Rep. Lucas, Graf. 7; Rep. H.
+Howard,Straf.4
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands on the existing granite state paid family leave plan with a new publicly
+administeredfamilyandmedicalleaveinsurance(FMLI)program.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1761-FN-ASINTRODUCED
+26-3138
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT expandingtheNewHampshirepaidfamilyandmedicalleaveprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act shall be known and may be cited as the "New Hampshire Family and
+2 MedicalLeaveInsuranceAct."
+3 2 New Subdivision; New Hampshire Family and Medical Leave Insurance. Amend RSA 21-I by
+4 insertingaftersection111thefollowingnewsubdivision:
+5 NewHampshireFamilyandMedicalLeaveInsurance
+6 21-I:111-a Definitions.Inthissubdivision:
+7 I. "Alternative base period" means the last 4 completed calendar quarters immediately
+8 preceding the first day of the individual's application year and any weeks in which wages were paid
+9 to the individual in the incomplete calendar quarter in which the individual filed a claim for
+10 benefits.
+11 II. "Application year" means the 12-month period beginning on the first day of the calendar
+12 week in which a covered individual files an application for family and medical leave insurance
+13 benefits.
+14 III. "Average weekly wage" means 1/13 of the wages paid during the quarter of the covered
+15 individual'sbaseperiodoralternativebaseperiodinwhichthetotalwageswerehighest.
+16 IV. "Base period" means the first 4 of the last 5 completed calendar quarters immediately
+17 preceding the first day of an individual's application year; provided that if the first quarter of the
+18 last 5 completed calendar quarters was included in the base period applicable to any individual's
+19 previous application year, the individual's base period shall be the last 4 completed calendar
+20 quarters.
+21 V. "Child" means, regardless of age, a biological, adopted or foster child, stepchild or legal
+22 ward,achildofadomesticpartner,achildtowhomthecoveredindividualstandsinlocoparentis,or
+23 apersontowhomthecoveredindividualstoodinlocoparentiswhenthepersonwasaminor.
+24 VI. "Committed relationship" means a relationship in which the covered individual and the
+25 domestic partner of the covered individual share responsibility for a significant measure of each
+26 other's common welfare, including relationships granted legal recognition by a state, political
+27 subdivision,ortheDistrictofColumbiaasamarriageoranalogousrelationship.
+28 VII. "Covered individual" means any person who is a former employee who has been
+29 separated from employment for not more than 26 weeks at the start of the individual's paid family
+30 and medical leave and who satisfies the requirements of this paragraph. A "covered individual" also
+31 meansanypersonwho:
+
+HB1761-FN-ASINTRODUCED
+-Page2-
+1 (a) Earned the minimum earnings amount required by rule from work in the state
+2 duringtheperson'sbaseperiodoralternativebaseperiodpriortosubmittinganapplication;or
+3 (b) Isself-employedandhaselectedcoverageinaccordancewithRSA21-I:111;and
+4 (c) Meetstheadministrativerequirementssetforthinthissubdivision;and
+5 (d) Submitsanapplication.
+6 VIII. "Department"meansthedepartmentofinsurance.
+7 IX. "Director"meansthedirectorofthedepartmentofinsurance.
+8 X. "Domesticpartner"meansanadultinacommittedrelationshipwithanotheradult.
+9 XI. "Employee"shallhavethesamemeaningasprovidedinRSA275:42.
+10 XII. "Employer"shallhavethesamemeaningasprovidedinRSA275:42.
+11 XIII. "Family and medical leave insurance benefits" means the wage replacement
+12 entitlementsprovidedunderthissubdivision.
+13 XIV. "Familymember"means:
+14 (a) Achild;
+15 (b) A biological, adoptive or foster parent, stepparent or legal guardian of a covered
+16 individual or a covered individual's spouse or domestic partner, or a person who stood in loco
+17 parentis when the covered individual or the covered individual's spouse or domestic partner was a
+18 minorchild;
+19 (c) A person to whom the covered individual is legally married under the laws of any
+20 state,oradomesticpartnerofacoveredindividual;
+21 (d) A grandparent, grandchild or sibling of the covered individual or the covered
+22 individual'sspouseordomesticpartner;or
+23 (e) Any other individual related by blood or whose close association with the covered
+24 individualistheequivalentofafamilyrelationship.
+25 XV. "FMLI"meansfamilyandmedicalleaveinsurance.
+26 XVI. "Health care provider" means any person licensed under federal law, state law, or the
+27 laws of another country to provide medical or emergency services, including but not limited to
+28 physicians, nurses, clinical social workers, licensed professional counselors, certified/licensed nurse
+29 midwives,andNewHampshirecertifiedmidwives.
+30 XVII. "Interference" means any action that may have the effect of preventing or
+31 discouraging an employee from exercising any right guaranteed under this subdivision, including
+32 actionsdescribedinRSA21-I:108andRSA21-I:115.
+33 XVIII. "Paid family and medical leave" means leave taken from employment, self-
+34 employment, or availability for employment in connection with family and medical leave insurance
+35 benefitsunderthissubdivision.
+
+HB1761-FN-ASINTRODUCED
+-Page3-
+1 XIX. "Qualifying exigency leave" means leave based on a need arising from a covered
+2 individual'sfamilymember's activedutyserviceor noticeofimpendingcall or order toactivedutyin
+3 thearmedforces,asfurtherdescribedbyrule.
+4 XX. "Retaliatory personnel action" means denial of or interference with any right
+5 guaranteed under this subdivision, including any threat, discharge, suspension, demotion, reduction
+6 of hours or pay, adverse action, or reporting or threatening to report an individual's citizenship or
+7 immigration status to a governmental agency, and includes interference with participation in
+8 investigations,hearings,orproceedingsunderthissubdivision.
+9 XXI. "Serious health condition" means an illness, injury, impairment, pregnancy, recovery
+10 from childbirth, or physical or mental conditionthat involves inpatient careinahospital, hospice, or
+11 residentialmedicalcarefacility,orcontinuingtreatmentbyahealthcareprovider.
+12 XXII. "Statewideaverageweeklywage"hasthemeaningasdefinedinRSA281-A:15.
+13 21-I:111-b Eligibilityfor benefits. BeginningJanuary1, 2027, acovered individualis entitled to
+14 take paid family and medical leave and to receive family and medical leave insurance benefits if the
+15 individualmeetsthedefinitionofcoveredindividualunderRSA21-I:111-aandtheleaveisforoneof
+16 thefollowingqualifyingreasons:
+17 I. Birth of a child, adoption, or placement through foster care, including prenatal absence
+18 whennecessaryforplacementtoproceed,andcareofachildwithin12monthsofthebirth,adoption,
+19 orplacement;
+20 II. Careofafamilymemberwithaserioushealthcondition;
+21 III. The individual's own serious health condition, including pregnancy-related conditions or
+22 pregnancyloss;
+23 IV. Aqualifyingexigencyrelatedtoafamilymember'sactivedutystatus;
+24 V. Any other reason for leave as set forth in the federal Family and Medical Leave Act or
+25 NHFMLAasapplicable.
+26 21-I:111-c Durationofbenefits.
+27 I. The maximum number of weeks for which family leave described in RSA 21-I:100, I and
+28 for the individual's own serious health condition described in RSA 21-I:100, III are payable in an
+29 applicationyearis26weeks.
+30 II. Themaximumnumberofweeksforwhichfamilyandotherqualifyingleavesdescribedin
+31 RSA21-I:100,II,IV,andVarepayableinanapplicationyearis12weeks.
+32 III. The aggregatemaximum number of weeksavailableunder subparagraphs Iand IIinan
+33 applicationyearis26weeks.
+34 IV. Benefits shall be payable as of the commencement of covered leave. The first payment
+35 must be made within 4 weeks after the claim is filed or within 4 weeks of the first day of the
+36 approved claim, whichever is later, and subsequent payments shall be made at intervals established
+37 byrule.
+
+HB1761-FN-ASINTRODUCED
+-Page4-
+1 21-I:111-d Amountofbenefits.
+2 I. Weeklybenefitcalculation.
+3 (a) The portion of the covered individual's average weekly wage that is equal to or less
+4 than30percentofthestatewideaverageweeklywageshallbereplacedatarateof90percent.
+5 (b) The portion of the covered individual's average weekly wage that is more than 30
+6 percentofthestatewideaverageweeklywageshallbereplacedatarateof60percent.
+7 II. Themaximumweeklybenefitshallnotexceedthestatewideaverageweeklywage.
+8 III. Benefits are payable only after a covered individual has accumulated at least 4 hours of
+9 familyandmedicalleave.
+10 IV. For covered individuals taking leave from one or more jobs, the benefit amount shall be
+11 prorated according to the proportion of the covered individual's typical workweek represented by the
+12 joborjobsfromwhichleaveistaken,uptothemaximumtotalbenefit.
+13 V. Family and medical leave insurance benefits under this subdivision shall be reduced by
+14 amounts received under RSA 281-A:28. During any period of leave for the covered individual's own
+15 serioushealthcondition,benefitsshallbereducedbyamountsreceivedunderworkers'compensation
+16 or other temporary or permanent disability benefits, except as otherwise provided for partial
+17 disability;thedirectorshalladoptregulationstocoordinatebenefitsaccordingly.
+18 21-I:111-e Contributions;FundManagement.
+19 I. Payroll contributions shall be authorized and used exclusively to finance benefits and
+20 administrationofthefamilyandmedicalleaveinsuranceprogram.
+21 II. Beginning January 1, 2027, each employer shall remit contributions to the family and
+22 medicalleaveinsurancefundintheformandmannerdeterminedbythedepartment.
+23 III. The contribution rate for the initial period and for subsequent years shall be set as
+24 follows:
+25 (a) The initial contribution amount for the period January 1 through December 31 shall
+26 be a percentage of wages per employee as determined by the New Hampshire state board of
+27 investmentorotherdesigneebyrule.
+28 (b) Not later than June 30 of each year beginning in 2027, the New Hampshire state
+29 board of investment shall set the contribution rate for the coming calendar year at the percentage
+30 necessary to obtain total contributions equal to 135 percent of benefits paid during the previous
+31 fiscal year plus an amount equal to 100 percent of administration costs for the previous fiscal year,
+32 lessnetassetsremaininginthefundasoftheapplicabledate.
+33 IV. Self-employed persons who elect coverage shall pay the percentage of the contribution
+34 requiredofemployeesasspecifiedbyruleandshallremitcontributionsdirectlytothedepartmentin
+35 theformandmannerrequired.
+36 V. Employers may deduct from employees' wages the employee portion of the contribution
+37 uptothepercentageallowedbyrule. Employersshallremitcontributionsasrequiredbyrule.
+
+HB1761-FN-ASINTRODUCED
+-Page5-
+1 VI. Employers who fail or refuse to remit contributions shall be assessed penalties and
+2 interest as prescribed by rule; collections shall be deposited into the family and medical leave
+3 insurancefund.
+4 VII. An employer's failure to remit contributions shall not affect an individual's eligibility
+5 forbenefits.
+6 21-I:111-f IntermittentandReducedScheduleLeave.
+7 I. A covered individual may elect to take paid family and medical leave intermittently or on
+8 areducedschedule;benefitsshallbeproratedaccordingly.
+9 II. A covered individual shall make a reasonable effort to schedule foreseeable intermittent
+10 leave so as not to unduly disrupt employer operations and shall provide prior notice to the extent
+11 practicable.
+12 III. Intermittent or reduced schedule leave does not entitle a covered individual to more
+13 totalleavethanprovidedunderRSA21-I:111-c.
+14 21-I:111-g JobRestorationandBenefitsContinuation.
+15 I. Upon expiration of paid family and medical leave, a covered individual is entitled to be
+16 restored to the position held when leave commenced or to an equivalent position with equivalent
+17 seniority,status,benefits,pay,andothertermsandconditionsofemployment.
+18 II. A covered individual who takes leave but does not receive benefits under this subdivision
+19 remainsentitledtorestorationunderthissection.
+20 III. During leave, the employer shall maintain health benefits as if the covered individual
+21 continued working; the employee shall continue to pay the employee share and the employer shall
+22 continuetopaytheemployershareasrequiredpriortotheleave.
+23 IV. EnforcementofthissectionshallbeasprovidedinRSA21-I:111-t.
+24 21-I:111-h RetaliationandInterferenceProhibited.
+25 I. Itshall beprohibitedforanypersontointerferewith,restrain,ordenytheexerciseof any
+26 rightunderthissubdivision.
+27 II. Employers, temporary help companies, employment agencies, employee organizations,
+28 and other persons shall not take retaliatory personnel action or otherwise discriminate against a
+29 personforexercisingrightsunderthissubdivision.
+30 III. An employer's absence control policy shall not count paid family and medical leave
+31 underthissubdivisionasanabsencethatmayleadtodiscipline,discharge,demotion,suspension,or
+32 otheradverseaction.
+33 IV. Protections apply to any person who mistakenly but in good faith alleges violations of
+34 thissubdivision.
+35 V. EnforcementshallbeasprovidedinRSA21-I:111-t.
+36 21-I:111-i CoordinationofBenefitsandRights.
+
+HB1761-FN-ASINTRODUCED
+-Page6-
+1 I. Leave covered under this subdivision that also qualifies under the federal or state FMLA
+2 shallrunconcurrently.
+3 II. An employer may require coordination of payments from this subdivision with payments
+4 under a short-term disability policy or a bank of time designated for family and medical leave if
+5 employeesreceivewrittennoticeofthatrequirement.
+6 III. No employee shall be required to use accrued vacation, sick leave, or other paid time off
+7 priortoorwhilereceivingbenefitsunderthissubdivision;anemployeemayelecttouseaccruedpaid
+8 leave while receiving benefits provided aggregate payments do not exceed the covered individual's
+9 averageweeklyearnings.
+10 IV. This subdivision does not diminish rights under collective bargaining agreements,
+11 employer policies, employment contracts, or applicable laws that provide more generous leave or
+12 benefits. Anywaiverofrightsunderthissubdivisionisvoid.
+13 21-I:111-j EmployerNoticeObligations.
+14 I. Each employer shall provide written notice to each employee upon hiring and annually
+15 thereafter describing rights and procedures under this subdivision, the amount of available benefits,
+16 claim filing procedures, job restoration and continuation of benefits, prohibitions against
+17 discriminationandretaliation,andtherighttofileacomplaint.
+18 II. Each employer shall display a poster in a conspicuous location and shall provide notices
+19 electronically for workplaces without a physical site; the department shall prescribe the form and
+20 contentofnoticesandposterbyrule.
+21 III. Notices shall be provided in English, the language typically used for communication
+22 with the employee, and any other language required by rule where a specified threshold of
+23 employeesspeaksthatlanguage.
+24 IV. Employers who fail to provide required notices shall be assessed penalties as prescribed
+25 byrule;collectionsshallbedepositedintotheFamilyandMedicalLeaveInsuranceFund.
+26 V. Employeesshallprovidenoticetoemployersassoonaspracticableofintenttotakeleave;
+27 wheretheneedisforeseeable,employeesshallnotberequiredtoprovidemorethanthenoticeperiod
+28 establishedbyrule.
+29 21-I:111-k Appeals.
+30 I. The director shall establishanadministrativeappeal system for determinations of claims;
+31 appealsshallbefiledwithin90daysofnoticeofdetermination.
+32 II. The director may utilize procedures established under RSA 282-A, provided that
+33 employersshallnotbepartiestoappealsunderthissection.
+34 III. Following the department's final determination on appeal, an aggrieved individual may
+35 seekjudicialreviewinacourtofcompetentjurisdiction.
+36 IV. The department shall implement procedures to ensure confidentiality of claim and
+37 appealinformationtothemaximumextentpermittedbylaw.
+
+HB1761-FN-ASINTRODUCED
+-Page7-
+1 21-I:111-l ErroneousPayments;Disqualification.
+2 I. A covered individual may be disqualified from benefits for up to one year if determined by
+3 the director to have willfully and knowingly misrepresented a material fact to obtain benefits; such
+4 determinationsaresubjecttoappeal.
+5 II. Ifbenefitswerepaiderroneouslyorasaresultofmisrepresentation,thedepartmentmay
+6 seek repayment; the director may waive repayment in whole or part where recovery would be
+7 againstequityandgoodconscience.
+8 21-I:111-m ElectiveCoverageforSelf-employedPersons.
+9 I. A self-employed person may elect coverage for a minimum initial period set by rule and,
+10 upon election and compliance with eligibility requirements, becomes eligible for benefits in
+11 accordancewithRSA21-I:111-a.
+12 II. Elections and withdrawals shall be filed in the manner required by rule; the department
+13 shallestablishincomereportingandrecordrequirementsforelectingself-employedpersons.
+14 21-I:111-n Administration;Confidentiality.
+15 I. The department shall establish and administer the family and medical leave insurance
+16 program,collectcontributions,determineclaims,andadministerappeals.
+17 II. The department shall notify the employer within 5 business days of a claim being filed;
+18 thedepartmentneednotreceiveemployeracknowledgmentbeforeprocessingaclaim.
+19 III. The department may use information-sharing technology consistent with state and
+20 federal privacy laws and shall safeguard confidential information; records shall be confidential
+21 exceptasnecessaryforadministrationorasotherwiserequiredbylaw.
+22 IV. Thedirectorshalladoptrulesnecessarytoimplementthissubdivision.
+23 21-I:111-o Certification.
+24 I. The department shall establish reasonable forms and procedures for claims and
+25 certificationthatarenotundulyburdensome;formsshallbeavailableinEnglish,Spanish,andother
+26 languagesasrequiredbyrule.
+27 II. An application may be filed no more than 60 days before the anticipated start date and
+28 no more than 90 days after the start date; the department may waive the filing deadline for good
+29 cause.
+30 III. Certification requirements by leave type shall be prescribed by rule and may include
+31 birth certificates, provider statements, adoption or placement documentation, military orders, police
+32 reports, court documents, professional or victim advocate statements, or the individual's attestation
+33 whereappropriate.
+34 IV. Thedepartmentshallacceptalternativecertificationdemonstratingneedforleave.
+35 V. All medical and personal information submitted shall be confidential and disclosure
+36 limitedinaccordancewithlaw.
+
+HB1761-FN-ASINTRODUCED
+-Page8-
+1 VI. A health care provider shall, upon receipt of a request and authorization from the
+2 patient, provide required certification within 7 calendar days unless the provider lacks necessary
+3 information; providers and facilities shall not charge a separate fee for completing required
+4 certifications,exceptthatchargesforofficevisitsremainpermissible.
+5 21-I:111-p IncomeTax.
+6 I. If the Internal Revenue Service determines that benefits under this subdivision are
+7 subject to federal income tax, the department shall inform claimants at filing of the federal tax
+8 statusandanyestimatedtaxpaymentrequirements.
+9 II. Benefitsunderthissubdivisionshallbetreatedforstateincometaxpurposesasprovided
+10 bystatuteandrule.
+11 21-I:111-q FamilyandMedicalLeaveInsuranceFund;EstablishmentandAdministration.
+12 I. Thedepartmentshallcreateandadministerafamilyandmedicalleaveinsurancefundfor
+13 the deposit of insurance payments and any other moneys received pursuant to this chapter or as
+14 otherwise authorized by law. The fund shall be nonlapsing and continually appropriated to the
+15 department for the purpose of implementing and administering the family and medical leave
+16 insurance program. No moneys in the fund shall be co-mingled with unemployment insurance fund
+17 moneys. The department is authorized to withdraw or expend moneys from the fund for qualifying
+18 benefit payments and for any amounts reasonably necessary to implement and administer the
+19 provisionsofthischapter. Expendituresshallbemadeonlyupontheauthorizationofthedirectoror
+20 thedirector’sdesignee.
+21 II. Whenever, in the judgment of the state comptroller, the amount in the family and
+22 medical leave insurance fund exceeds that deemed necessary to meet current expenditures properly
+23 payable therefrom, the comptroller shall have full authority to invest, reinvest, manage, contract,
+24 sell, or exchange investments acquired with such excess funds in accordance with RSA 6:7 or any
+25 other applicable law. Any revenue derived from such transactions shall be deposited in the family
+26 andmedicalleaveinsurancefund.
+27 21-I:111-r Reporting.
+28 I. Beginning January 1, 2028, and annually thereafter by March 1, the department shall
+29 report to the legislature and make publiclyavailable information including program participation by
+30 leave purpose; applicant and approved claimant demographics and employment characteristics as
+31 collected at application; average weekly benefit; average leave duration by purpose; contribution
+32 rates; fund balances and projections; processing times; reasons for denials; appeals and outcomes;
+33 average time from application to benefit receipt; outreach efforts; and, for caregiver leaves, the
+34 categoryoffamilymembercaredfor.
+35 II. The department shall prepare reports consistent with privacy protections and in formats
+36 prescribedbyrule.
+37 21-I:111-s PublicEducationandOutreach.
+
+HB1761-FN-ASINTRODUCED
+-Page9-
+1 I. By January 1, 2027, and ongoing thereafter, the department shall conduct a public
+2 education campaign to inform workers and employers about the program, including certification
+3 requirements.
+4 II. The department may use up to 5 percent of annual fund collections for outreach and
+5 education in the form and manner prescribed by rule; outreach materials shall be available in
+6 English,Spanish,andotherlanguagesasrequiredbyrule.
+7 21-I:111-t Enforcement.
+8 I. An individual who believes their rights under this subdivision have been violated may,
+9 within 24 months after the violation or the date the individual reasonably should have known of the
+10 violation, file a complaint with the department or bring a civil action in a court of competent
+11 jurisdiction.
+12 II. The department shall process complaints under procedures consistent with state law. If
+13 the department finds a violation of RSA 21-I:105 or RSA 21-I:106, the department may order
+14 remedialactionincluding:
+15 (a) Provisionofrequestedleave;
+16 (b) Reinstatement;
+17 (c) Upto2yearsofbackpay;
+18 (d) Interestonbackpayattheprevailingrate;
+19 (e) Liquidateddamagesequaltobackpayplusinterest;
+20 (f) Paymentofreasonableattorneyfeestothecomplainant;and
+21 (g) Anyotherreliefthedepartmentdeemsappropriate.
+22 III. The department may assess civil penalties as prescribed by rule; penalty proceeds shall
+23 bedepositedintotheFamilyandMedicalLeaveInsuranceFund.
+24 IV. An individual may bring a civil action for violations of RSA 21-I:105 or RSA 21-I:106
+25 without first filing a departmental complaint; civil actions shall be brought within 24 months after
+26 completionofanyadministrativeproceeding.
+27 21-I:111-u InteragencyCoordination.
+28 I. The department is encouraged to coordinate program data, technology, outreach, and
+29 services with other state programs and to integrate the program with existing state policies and
+30 practicestopromoteeffectivenessandutilization.
+31 II. ThestateshallreportoncoordinationeffortsannuallybeginningJanuary1,2028.
+32 21-I:111-v Severability. If any provision of this subdivision is held invalid, the remainder shall
+33 notbeaffected.
+34 21-I:111-w Rulemaking.
+35 I. The director shall adopt rules, pursuant to RSA 541-A, as necessary to implement and
+36 administertheprovisionsofRSA21-I:99throughRSA21-I:111-v.
+
+HB1761-FN-ASINTRODUCED
+-Page10-
+1 II. The director may adopt interim rules under RSA 541-A:19, in addition to any permanent
+2 rules pursuant to RSA 541-A, to ensure timely implementation of the family and medical leave
+3 insuranceprogram,includingbutnotlimitedtorulesgoverning:
+4 (a) Applicationandcertificationprocedures;
+5 (b) Contributionratesandremittanceprocedures;
+6 (c) Benefitcalculationsandpaymentschedules;
+7 (d) Coordinationwithotherbenefitprograms;
+8 (e) Noticeandpostingrequirements;
+9 (f) Appealsandenforcementprocedures;and
+10 (g) Anyothermattersnecessarytoeffectuatethepurposesofthissubdivision.
+11 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3138
+Revised1/30/26
+HB1761-FN-FISCALNOTE
+ASINTRODUCED
+ANACT expandingtheNewHampshirepaidfamilyandmedicalleaveprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) PaidFamilyandMedicalLeaveInsurance(PFMLI)Fund
+Indeterminable Indeterminable Indeterminable
+Increaseupto Increase Increase
+$2,500,000 $2,500,000 $2,500,000
+(PFMILFund) (PFMILFund) (PFMILFund)
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 $700,000to $700,000to $700,000to
+$3,300,000(GF) $3,300,000(GF) $3,300,000(GF)
+Indeterminable Indeterminable Indeterminable
+$1,100,000to $1,100,000to $1,100,000to
+$2,400,000 $2,400,000 $2,400,000
+(Contributions) (Contributions) (Contributions)
+PaidFamilyandMedicalLeaveInsurance(PFMLI)Fund,GeneralFund
+FundingSource(s)
+(GF),andEmployer/EmployeeContributions
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill expands on the existing granite state paid family leave plan with a new publicly
+administered family and medical leave insurance (FMLI) program. All approved PFML claims
+costs and administrative expenses would be funded by employee payroll contributions. The bill
+directs the State Board of Investment to set contribution rates sufficient to cover 135% of
+benefits paid and 100% of administrative costs. The maximum duration of benefits would be 26
+
+weeks for an employee’s own illness and 12 weeks for the illness of a family member. The
+Insurance Department is designated as the primaryadministrative authority for the Family and
+Medical Leave Insurance (FMLI) program. The Department is responsible for establishing and
+managing the program, including collecting payroll contributions, determining eligibility and
+benefit claims, administering appeals, and ensuring confidentiality of personal and medical
+information. It must also oversee public education efforts funded by 5% of annual collections
+from the FMLI fund. The Department shall adopt rules necessary for implementation, to
+managetheFMLIfund,andreportannuallyonprogramperformanceandutilization.
+The Insurance Department states this bill would result in an indeterminable impact to state
+revenues and state expenditures. The bill establishes a state administered paid family and
+medical leave insurance program funded through employer payroll contributions, with the
+Insurance Department responsible for program administration, compliance monitoring, and
+enforcement. The Department states revenues generated from employer contributions would be
+deposited into a dedicated Paid Family and Medical Leave Insurance Fund and may be used to
+offsetsomeadministrativecosts;however,thecontributionratehasnotyetbeenestablishedand
+revenuescannotbeestimated.
+The Department further states implementation of the program would require significant start-
+up and ongoing expenditures, including rulemaking, payroll reporting, claims processing, data
+privacy and cybersecurity, information technology systems, appeals administration, public
+education and outreach, and ongoing compliance and enforcement activities. The bill does not
+provide funding for these initial implementation costs, and a feasibility study or similar
+assessment would be required to determine the technology, infrastructure, and staffing needed
+to administer the program. Because the scope, timing, and cost of implementing the program
+cannot be determined at this time, the Department estimates the fiscal impact would be
+indeterminablebutlikelymorethan$2.5million.
+The Department of Administrative Services indicates that the bill does not provide startup
+funding and assumes that a third-party carrier would be procured to administer claims, with
+premiums covering the cost of administration. The bill also does not repeal the current PFML
+program, which requires the state to pay premiums to provide benefits to eligible employees.
+DAS estimates the total cost of the new program at $1.8 million, with $662,637 coming from
+General Funds. If the proposed mandatory PFML replaces the current voluntary plan, the cost
+of coverage could double to $3.7 million, including $1.3 million in General Funds, due to the
+expansionofcoveragefrom6weeksto12weeks.
+When implementing the voluntary PFML plan in fiscal year 2023, DAS budgeted $2 million in
+GeneralFundstosupporthiringonefull-timestaffmember,aconsultantforactuarialservices,a
+
+marketing firm, and a website development firm. Given that the proposed program would be
+mandatory, ongoing education costs are expected to continue beyond initial implementation. In
+total, the estimated annual cost for providing 12 weeks of PFML coverage to state employees is
+$3.7 million. When combined with the $2 million in implementation costs, the total projected
+annualexpenserisesto$5.7million.
+Counties and municipalities may experience increased expenditures related to employer payroll
+contributions, but participation costs are uncertain and dependent on future contribution rates
+and employee use of the program. The fiscal impact to county and local governments is
+indeterminable.
+AGENCIESCONTACTED:
+InsuranceDepartmentandDepartmentofAdministrativeServices

@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1798-FN-ASINTRODUCED
+2026SESSION
+26-2642
+05/08
+1798-FN
+HOUSEBILL
+ANACT relativetothecoverageofdiapersunderthestateMedicaidplan.
+SPONSORS: Rep. Sorensen, Rock. 28; Rep. Gregg, Hills. 7; Rep. M. Pearson, Rock. 34; Rep.
+Telerski, Hills. 11; Rep. Wallner, Merr. 19; Rep. Kluger, Hills. 6; Rep. Wade,
+Straf. 15; Sen. Perkins Kwoka, Dist 21; Sen. Prentiss, Dist 5; Sen. Rosenwald,
+Dist13
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to submit a demonstration waiver
+to CMS to provide Medicaid coverage for diapers for the first year of an infant's life. The bill also
+makesanappropriationtothedepartmentofhealthandhumanservicesforthispurpose.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1798-FN-ASINTRODUCED
+26-2642
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecoverageofdiapersunderthestateMedicaidplan.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Department of Health and Human Services; Medicaid Coverage for Diapers.
+2 AmendRSA126-Abyinsertingaftersection4-ithefollowingnewsection:
+3 126-A:4-j StateMedicaidPlan;Diapers.
+4 I. On or before November 1, 2026, thecommissioner of the department of healthand human
+5 servicesshallsubmitaSection1115demonstrationwaivertotheCentersforMedicareandMedicaid
+6 Services (CMS) for the purpose of providing Medicaid coverage for the cost of 100 diapers a month
+7 forthefirst12monthsofachild’slife.
+8 II. Beginning November 1, 2026, the department shall submit biennial reports to the
+9 oversight committee on health and human services, established in RSA 126-A:13, regarding the
+10 status of the waiver application. Subject to approval by CMS, the department shall make best
+11 effortstoimplementthebenefitonorbeforeMay1,2027.
+12 2 Appropriation. The sum of $100,000, for the fiscal year ending June 30, 2027, is hereby
+13 appropriated to the department of health and human services for the purpose of funding section 1 of
+14 this act. The governor is authorized todraw awarrant for said sum from anymoney inthe treasury
+15 nototherwiseappropriated.
+16 3 EffectiveDate. Thisactshalltakeuponitspassage.
+
+LBA
+26-2642
+Revised1/14/26
+HB1798-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothecoverageofdiapersunderthestateMedicaidplan.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$919,000 $919,000
+$165,000general
+generalfunds; generalfunds;
+Expenditures* $0 funds;$178,000
+1,068,000 1,068,000
+federalfunds
+federalfunds federalfunds
+FundingSource(s) Generalfunds,federalfunds
+Appropriations* $0 $100,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to submit a Section 1115
+demonstration waiver to the federal Centers for Medicare and Medicaid Services (CMS) to allow
+thestatetoprovideMedicaidcoverageforthecostof100diapersamonthforthefirst12months
+of a child’s life. The bill appropriates $100,000 in FY27 for the purpose of funding the new
+coverage.
+The Department of Health and Human Services states there are approximately 4,000 Medicaid-
+eligiblechildrenfrombirthto12monthsofage. TheDepartmentanticipatesitwillpayarateof
+$0.46 per diaper. While not every eligible parent will avail themselves of the benefit, the
+Department anticipates a high uptake and assumes a 90 percent utilization rate, or 3,600
+children per month. Of these, the Department anticipates 75 percent (2,700) will qualify under
+standard Medicaid while the remaining 25 percent (900) will qualify through the Children's
+Health Insurance Program (CHIP). The standard Medicaid federal match is 50 percent, while
+the CHIP federal match is 65 percent. The table below outlines the anticipated federal and
+generalexpendituresforthetwoeligibilitygroups:
+
+ClientsPer Diaper CostPer FederalFund GeneralFund FederalFund GeneralFund
+month Entitlement Diaper Expenditures Expenditures Expenditures Expenditures
+PerMonth Permonth Annualized Annualized
+Standard 100 $0.46 $62,100 $62,100 $745,200 $745,200
+(2,700)
+CHIP(900) 100 $0.46 $26,910 $14,490 $322,920 $173,880
+Totalfederal Totalgeneral Totalfederal Totalgeneral
+fundsper fundsper fundsperyear= fundsperyear
+month= month= $1,068,120 =$919,080
+$89,010 $76,590
+Averagefederal Average
+fundrate=54% generalfund
+rate=46%
+Due to the need for CMS approval, the Department assumes that implementation will be
+delayed until late in FY27. FY27 costs are estimated to be $165,180 in general funds and
+$178,032infederalfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

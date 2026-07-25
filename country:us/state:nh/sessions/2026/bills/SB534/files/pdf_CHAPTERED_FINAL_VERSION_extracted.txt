@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER314
+SB534-FN-FINALVERSION
+02/19/2026 0645s
+23Apr2026...1406h
+06/04/2026 2030CofC
+2026SESSION
+26-2116
+07/08
+534-FN
+SENATEBILL
+ANACT relativetocompliancewithcertainpoliticalexpendituresandcontributionstatutes.
+SPONSORS: Sen.Avard,Dist12;Sen.Birdsell,Dist19;Sen.Carson,Dist14;Rep.Sirois,Hills.32;
+Rep.Kofalt,Hills.32;Rep.D.Kelley,Hills.32;Rep.Pauer,Hills.36
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Preventscertainforeignnationalsfrommakingpoliticalcontributionsduringstateelectioncycles.
+II. Requiresthatpoliticalcommitteesthatfilereportswiththesecretaryofstateincludeanaffirmation
+ofcompliancewithRSA664:4,VIandRSA664:5,III.
+III. Requires a political committee that willfully violates RSA 664:4, VI or RSA 664:5, III to pay to the
+secretaryofstatetheamountoftherelevantcontributionorexpenditure,plusinterest.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER314
+SB534-FN-FINALVERSION
+02/19/2026 0645s
+23Apr2026...1406h
+06/04/2026 2030CofC 26-2116
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocompliancewithcertainpoliticalexpendituresandcontributionstatutes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 314:1 Political Expenditures and Contributions; General Provisions; Applicability of Chapter. Amend
+2 RSA664:1toreadasfollows:
+3 664:1 ApplicabilityofChapter. Theprovisionsofthischaptershallapplytoallstateprimary,general,
+4 andspecial elections, but shall onlyapplytopresidential preferenceprimariesasprovidedinthissection.
+5 TheprovisionsofRSA664:2,664:4,VII,664:5,III,and664:14-22shallapplytocity,town,schooldistrict,
+6 andvillagedistrictelectionsormeetings. Theprovisionsrelatingtopoliticaladvertising,pushpolling,and
+7 enforcement, RSA 664:14 through RSA [664:22]664:21, shall additionally apply to presidential primary[,
+8 city,town,schooldistrict,andvillagedistrict]elections.
+9 314:2 Political Expenditures and Contributions; General Provisions; Definitions. Amend RSA 664:2,
+10 Xtoreadasfollows:
+11 X. "Measure" shall meananyconstitutional amendment or questionthat issubmittedor intended
+12 tobesubmittedtoapopularvote[atanelection].
+13 314:3 New Paragraph; Political Expenditures and Contributions; Contributions; Prohibited Political
+14 Contributions. AmendRSA664:4byinsertingafterparagraphVIthefollowingnewparagraph:
+15 VII. By any foreign national, as defined in 52 U.S.C. section 30121(b) and 11 C.F.R. section
+16 110.20(a)(3).
+17 314:4 Political Expenditures and Contributions; Expenditures; Prohibited Political Expenditures.
+18 AmendtheintroductoryparagraphofRSA664:5toreadasfollows:
+19 664:5 Prohibited Political Expenditures. No expenditure or use of a contribution,whethertangible or
+20 intangible, shall be made for the purpose of promoting the success or defeat of any political party,
+21 measure,orcandidate:
+22 314:5 NewParagraph; Political Expenditures andContributions; Enforcement; Penalty. Amend RSA
+23 664:21byinsertingafterparagraphIXthefollowingnewparagraph:
+24 X. If a political committee, or any foreign national, as defined in 52 U.S.C. section 30121(b) and
+25 11 C.F.R. section 110.20(a)(3), willfully violates RSA 664:4, VI or RSA 664:5, III, then the political
+26 committee or foreign national shall pay to the secretary of state the amount of such contribution or
+27 expenditure, plus interest accrued from the date of the contribution or expenditure, as applicable, at the
+28 current prime rate of interest as published in the Wall Street Journal on the date of payment. If funds of
+29 the political committee or foreign national are insufficient, the political committee or foreign national shall
+30 pay all of its available funds to the secretary of state, and the directors, officers, or members responsible
+
+CHAPTER314
+SB534-FN-FINALVERSION
+-Page2-
+1 for the financial decisions of the political committee or foreign national shall be jointly and severally liable
+2 fortheamountdue,inadditiontoanyotherpenaltiesthatmayapplyfromthisstatute.
+3 314:6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:July10,2026
+EffectiveDate:January01,2027

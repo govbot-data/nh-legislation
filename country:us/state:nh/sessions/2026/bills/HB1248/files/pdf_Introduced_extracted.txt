@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1248-FN-ASINTRODUCED
+2026SESSION
+26-2751
+09/08
+1248-FN
+HOUSEBILL
+ANACT relativetothepenaltiesforintoxicationorundertheinfluenceofdrugoffenses.
+SPONSORS: Rep. Markell, Rock. 18; Rep. Lynn, Rock. 17; Rep. Rice, Hills. 38; Rep. Roy, Rock.
+31;Sen.Gannon,Dist23;Sen.Innis,Dist7
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds offenses based on the operation of a motor vehicle for which the defendant was
+convicted, and as condition of that conviction, was sentenced to an alcohol or controlled substance,
+education, treatment, or counseling program, within 10 years preceding the date of the second or
+subsequentoffense,asarequisitepriorconvictionforenhancedDWIpenalties.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1248-FN-ASINTRODUCED
+26-2751
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltiesforintoxicationorundertheinfluenceofdrugoffenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Penalties for Intoxication or Under Influence of Drugs Offenses. Amend the introductory
+2 paragraphofRSA265-A:18,IVtoreadasfollows:
+3 IV. Upon conviction of any offense under RSA 265-A:2, I or RSA 265-A:3, based on a
+4 complaint which alleged that the person has had one or more prior convictions under RSA 265-A:2, I
+5 or RSA 265-A:3, [or] RSA 630:3, II, or an offense described in subparagraph IV(e), or under
+6 reasonably equivalent offenses in an out-of-state jurisdiction, within 10 years preceding the date of
+7 thesecond or subsequent offense, the person shall besubject tothe followingpenalties inaddition to
+8 thoseprovidedinparagraphI:
+9 2 New Subparagraph; Penalties for Intoxication or Under Influence of Drugs Offenses. Amend
+10 RSA265-A:18,IVbyinsertingaftersubparagraph(d)thefollowingnewsubparagraph:
+11 (e) Any offense based on the operation of a motor vehicle for which the defendant was
+12 convicted, and as condition of that conviction, was sentenced to an alcohol or controlled substance,
+13 education, treatment, or counseling program, within 10 years preceding the date of the second or
+14 subsequent offense, shall be deemed a prior conviction for the purpose of alleging a second or
+15 subsequentoffenseunderthisparagraph.
+16 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2751
+11/4/25
+HB1248-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepenaltiesforintoxicationorundertheinfluenceofdrugoffenses.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

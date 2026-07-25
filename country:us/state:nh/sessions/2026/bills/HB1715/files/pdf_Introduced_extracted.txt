@@ -1,0 +1,118 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1715-FN-ASINTRODUCED
+2026SESSION
+26-3000
+09/07
+1715-FN
+HOUSEBILL
+ANACT relative to the electronic filing of domestic violence and stalking petition case
+documents.
+SPONSORS: Rep. Manos, Rock. 12; Rep. Beauchemin, Hills. 3; Rep. Gregg, Hills. 7; Rep.
+Johnson, Straf. 11; Rep. Meuse, Rock. 37; Rep. Newell, Ches. 4; Rep. Selig, Straf.
+10; Rep. M. Smith, Straf. 10; Rep. Booras, Hills. 8; Sen. Altschiller, Dist 24; Sen.
+Long,Dist20;Sen.Prentiss,Dist5
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires filings in cases concerning domestic violence and stalking petitions to be filed
+electronicallysubjecttothecourtgrantinganexceptioninextraordinarycircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1715-FN-ASINTRODUCED
+26-3000
+09/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the electronic filing of domestic violence and stalking petition case
+documents.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Protection of Persons from Domestic Violence; Commencement of Proceedings. Amend RSA
+2 173-B:3,IIItoreadasfollows:
+3 III.(a) For all petitions filed on or after October 1, 2026, filings in cases commenced
+4 under this section shall be filed using the court’s electronic filing system. The court may
+5 fully excuse a party from electronic filing if extraordinary circumstances would render
+6 electronicfilingsuchahardshipthatthepartywouldbedeniedaccesstothecourt.
+7 (b) No filing fee or fee for service of process shall be charged for a petition or response
+8 under this section, and the plaintiff or defendant may proceed without legal counsel. Either a peace
+9 officer or the sheriff's department shall serve process under this section. Any proceeding under this
+10 chaptershallnotprecludeanyotheravailablecivilorcriminalremedy.
+11 2 Stalking. AmendRSA633:3-a,III-atoreadasfollows:
+12 III-a. A person who has been the victim of stalking as defined in this section may seek relief
+13 by filing a civil petition in the district court in the district where the plaintiff or defendant resides.
+14 Uponashowingofstalkingbyapreponderanceoftheevidence,thecourtshallgrantsuchreliefasis
+15 necessary to bring about a cessation of stalking. The types of relief that may be granted, the
+16 procedures and burdens of proof to be applied in such proceedings, the methods of notice, service,
+17 andenforcementofsuchorders, andthepenaltiesfor violationthereofshallbethesameasthose set
+18 forth in RSA 173-B. For all petitions filed on or after October 1, 2026, filings in cases
+19 commenced under this section shall be filed using the court’s electronic filing system. The
+20 court may fully excuse a party from electronic filing if extraordinary circumstances would
+21 renderelectronicfilingsuchahardshipthatthepartywouldbedeniedaccesstothecourt.
+22 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3000
+12/8/25
+HB1715-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the electronic filing of domestic violence and stalking petition case
+documents.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$1,600,000to $300,000to $300,000to
+Expenditures* $0
+$3,200,000 $700,000 $700,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires that domestic violence and stalking petitions, and related filings, be submitted
+electronicallythroughthecourt’selectronicfilingsystemforallpetitionsfiledonorafterOctober
+1,2026. Thecourtmayexcuseelectronicfilingonlyinextraordinarycircumstances.
+The Judicial Branch states this bill will require the development of a purpose-built, secure
+electronic filing portal for protection order cases, because the temporary COVID-19 email-based
+filing process cannot be used permanently. The existing e-filing system does not support
+confidential protection orders due to its fee structure, approved case list, and lack of sealed-file
+functionality. A new system must support confidentiality under RSA 173-B, identity
+verification, encryption. CJIS-compliant infrastructure, automated routing into Odyssey, and
+lawenforcementintegration.
+The Branch explains that statewide online filing for these petitions does not currently exist and
+will require a one-time system development project, followed by ongoing annual operating costs.
+The one time cost to build the portal will range from $1,600,000 to $3,200,000 in FY 2027 with
+ongoing system operating costs of $300,000 to $700,000 in General Fund expenditures. This bill
+does not appropriate funds for the new online portal and the Branch states they cannot absorb
+thecostsintotheiroperatingbudget.
+
+Category Description Range
+Buildsecurewebportal,guidedforms,
+SystemDesign&Development $750,000 $1,500,000
+encryption,userinterface
+Hosting&Security CJIS-compliantservers,penetration
+$200,000 $400,000
+Infrastructure testing,
+CaseManagementIntegration ConnecttoOdyssey,automaterouting $300,000 $700,000
+Multi-factorauthentication,auditlogs,
+Identity&AccessManagement $150,000 $250,000
+secureuploads
+WCAG2.1AAcompliance,translation
+Language&Accessibility $100,000 $200,000
+(English/Spanish)
+Pilot,statewidelaunch,staff/advocate
+Testing,Rollout&Training $100,000 $200,000
+training
+TotalEstimatedCostforPortalinFY2027 $1,600,000 $3,250,000
+AGENCIESCONTACTED:
+JudicialBranch

@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1754-FN-ASINTRODUCED
+2026SESSION
+26-3002
+08/07
+1754-FN
+HOUSEBILL
+ANACT repealing the statewide use of the multi-tiered system of supports for behavioral
+healthandwellnessrelativetosystemsofcareforchildren'smentalhealth.
+SPONSORS: Rep. Sellers, Graf. 10; Rep. Panek, Hills. 1; Rep. Noble, Hills. 2; Rep. Wood, Merr.
+13;Rep.Cole,Hills.26;Rep.Aures,Merr.13;Sen.Innis,Dist7
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the statewide use of the multi-tiered system of supports for behavioral health
+andwellness,orMTSS-B,inNewHampshireschools.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1754-FN-ASINTRODUCED
+26-3002
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the statewide use of the multi-tiered system of supports for behavioral
+healthandwellnessrelativetosystemsofcareforchildren'smentalhealth.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA135-F:3,III(l),relativetostatewideuseofthemulti-tieredsystemofsupportsfor
+2 behavioralhealthandwellness,orMTSS-B,inNewHampshireschools,isrepealed.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3002
+Revised02/10/2026
+HB1754-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealing the statewide use of the multi-tiered system of supports for behavioral
+healthandwellnessrelativetosystemsofcareforchildren'smentalhealth.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+Thisbillrepeals RSA135-F:3,relativetostatewideuse ofthemulti-tiered systemofsupports for
+behavioralhealthandwellness(MTSS-B)inNHschools. TheDepartmentofHealthandHuman
+Services states that, other than a requirement in the existing statute to provide "technical
+assistance to school districts and other education providers to support implementation of MTSS-
+B,” the Department plays no role in implementing the existing program. Existing services are
+potentially reimbursed through the Medicaid to Schools program, but this program is the
+financial responsibility of local school districts. Medicaid to Schools is included in the state
+operating budget only because the Department acts as a pass-through, as it is the agency
+designatedforreceivingfederalMedicaidfunds. TheDepartmentnotesthattheoretically,repeal
+may result in an increase in children needing higher levels of care, potentially leading to future
+costs for intensive behavioral health services. Any such costs, however, are unable to be
+quantified.
+
+TheDepartmentofEducationstatesthatitisunabletodeterminethefiscalimpactofthebill.
+AGENCIESCONTACTED:
+DepartmentsofEducationandHealthandHumanServices

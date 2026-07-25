@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1784-FN-ASINTRODUCED
+2026SESSION
+26-2783
+05/08
+1784-FN
+HOUSEBILL
+ANACT relativetothehealthcareconsumerprotectiontrustfund.
+SPONSORS: Rep.Miles,Hills.12;Rep.L.Walsh,Rock.15;Sen.McGough,Dist11
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the statute governing administration of the health care consumer protection trust
+fundto:
+I. Remove the executive council approval for expenditures while retaining approval by the
+advisorycommissionandthegovernor.
+II. Prohibit grants or contracts to New Hampshire state agencies, including subgrants or pass-
+throughstosuchentities.
+III. Limit funded projects to those that directly benefit New Hampshire health care consumers
+through defined, measurable patient-outcome objectives, with milestone-based disbursements and
+clawbacks.
+IV. Prohibit funding of academic research while allowing incidental evaluation necessary to
+verifyoutcomes.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1784-FN-ASINTRODUCED
+26-2783
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothehealthcareconsumerprotectiontrustfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 HealthCareConsumerProtectionTrustFund. AmendRSA7:6-gtoreadasfollows:
+2 7:6-g HealthCareConsumerProtectionTrustFundEstablished.
+3 I. Inthissection:
+4 (a) "Acquisitiontransaction"or"acquisition"meanstransferofcontrol,directorindirect,
+5 ofahealthcareorganization,orof25percentormoreoftheassetsthereof,including,butnotlimited
+6 to, purchases, mergers, leases, gifts, consolidations, exchanges, joint ventures, or other transactions
+7 involving transfer of control or of 25 percent or more of assets. However, changes in membership of
+8 the governing body of a health care organization occurring through regular election or filling of
+9 vacancies in accordance with the bylaws thereof do not of themselves constitute acquisition
+10 transactionswithinthemeaningofthissection.
+11 (b) "Health care organization" means an entity organized to provide health care services
+12 including, but not limited to, hospitals, community health services, and medical-surgical or other
+13 diagnostic or therapeutic facilities or services, or an entity operating as a health insurer or health
+14 maintenanceorganization.
+15 I-a. The general court finds that proceeds from acquisition transactions involving
+16 health care organizations shall be used solely for projects that measurably improve health
+17 outcomes for New Hampshire consumers through direct services and implementations, and
+18 notforacademicresearchactivities.
+19 II. There is hereby established in the state treasury, the health care consumer protection
+20 trustfund that shall bekept separateand distinct from all other funds. All proceeds received bythe
+21 state from any settlement, judgment, or other resolution related to any acquisition or acquisition
+22 transaction shall be deposited into the trust fund, provided that any proceeds obtained to reimburse
+23 the department of justice pursuant to RSA 356:4-b, or RSA 358-A:6, IV for all costs related to the
+24 review, investigation, or litigation of any acquisition or acquisition transaction may be deposited in
+25 appropriatefundsasdesignatedbytheattorneygeneral. Thefundmayalsoreceivemoneysthrough
+26 private contributions or appropriations from the general court. Any amount received in connection
+27 with an acquisition or acquisition transaction that would have been deposited into the general fund
+28 under RSA 7:6-e or RSA 7:6-f shall be deposited into the trust fund. All moneys in the trust fund
+29 shall be nonlapsing and continually appropriated to the department of justice. Any earnings on
+30 trustfundmoneysshallbeaddedtothetrustfund.
+
+HB1784-FN-ASINTRODUCED
+-Page2-
+1 III. The attorney general shall administer the health care consumer protection trust fund
+2 and may only expend funds in the trust fund upon approval by the health care consumer protection
+3 advisorycommissionestablishedinRSA7:6-handthegovernor[andcouncil].
+4 IV. Funds from the health care consumer protection trust fund shall be expended solely for
+5 the purpose of benefiting health care consumers in the state and in accordance with any relevant
+6 terms of the settlement, judgment, or other resolution by which the funds were received.
+7 Expenditures from the trust fund may include, but are not limited to, expenditures by the
+8 department of justice, [grants to state agencies,] grants to municipalities, or grants to non-
+9 governmental recipients. Grants or contracts to New Hampshire state agencies or
+10 instrumentalities are prohibited, and recipients shall not subgrant or subcontract fund
+11 moneystoNewHampshirestateagenciesorinstrumentalities.
+12 V.(a) Eligible projects shall be limited to those with defined, prospective, and
+13 measurable patient-outcome objectives, including baseline measures, target outcomes, and
+14 aplanfordatacollectionandreporting.
+15 (b) Preference shall be given to proposals with quantifiable objectives and
+16 payment structures tied to objective milestones or performance metrics. All grants or
+17 contracts shall include milestone-based disbursements, reporting schedules, audit rights,
+18 and clawback provisions for failure to meet agreed milestones absent good cause as
+19 determinedbytheattorneygeneralafterconsultationwiththeadvisorycommission.
+20 (c) Allowable project categories include, but are not limited to: direct clinical
+21 services; care-coordination implementations; patient safety and quality initiatives;
+22 technology or workflow deployments in care settings; health-literacy and navigation
+23 services linked to measurable utilization or outcomes improvements; and community-based
+24 interventions that measurably reduce avoidable morbidity or mortality among New
+25 Hampshireresidents.
+26 VI. Fundmoneysshallnotbeusedtosupportacademicresearch.
+27 (a) For purposes of this section, "academic research" means basic, applied, or
+28 translational research; hypothesis-testing studies; activities with the primary purpose of
+29 producing generalizable knowledge; or the development of publishable findings not
+30 directly tied to the delivery of patient-care interventions for New Hampshire consumers
+31 duringthegrantperiod.
+32 (b) Nothing in this paragraph prohibits reasonable evaluation activities
+33 necessaryto measure outcomesofanotherwise eligible project,providedsuchevaluationis
+34 incidental to and supportive of direct service delivery and is not a primary research
+35 endeavor.
+36 [V.] VII. The attorney general may, if necessary, negotiate terms in a settlement, judgment,
+37 or other resolution that specify a particular use or reasonable restrictions for funds deposited into
+
+HB1784-FN-ASINTRODUCED
+-Page3-
+1 the health consumer protection trust fund, provided that any specified use must be one that benefits
+2 healthcareconsumersinthestate.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2783
+Revised1/7/26
+HB1784-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothehealthcareconsumerprotectiontrustfund.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase- Increase- Increase-
+Expenditures* $0
+estimated estimated estimated
+$235,000 $237,000 $243,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+as introduced, as it is awaiting information from the Department of Administrative Services.
+The Department was originally contacted on 10/23/25 and again on 12/22/25 for a fiscal note
+worksheet. Whencompleted,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice
+METHODOLOGY:
+This bill modifies the administration of the Health Care Consumer Protection Trust Fund by
+removing Executive Council approval for expenditures while retaining approval by the Governor
+and the advisory commission, prohibiting grants or contracts to New Hampshire state agencies,
+including subgrants or pass-through to such entities, limiting funded projects to those with
+defined and measurable patient outcome objectives with milestone based disbursements and
+clawback provisions, and prohibiting the use of trust fund moneys for academic research while
+allowingincidentalevaluationnecessarytoverifyoutcomes.
+The Department of Justice states this bill creates new statutory restrictions and detailed
+compliance requirements for proposal review, grant administration, milestone based
+disbursements, reporting, and audits that do not currently exist. As a result, the Department
+anticipates a significant increase in attorney and staff time to evaluate proposals, ensure
+
+compliance with statutory criteria, draft and monitor grant agreements, and oversee reporting
+and enforcement. The Department estimates that implementation of this bill would require one
+additional full time Assistant Attorney General and one additional investigative paralegal. The
+cost for one Assistant Attorney General would be approximately $137,000 in FY 2027, $138,000
+in FY 2028, and $140,000 in FY 2029 and one investigative paralegal (23-2010 PARALGLS-LGL
+ASSTS-5 SOC21-05) would be approximately $98,000 in FY 2027, $99,000 in FY 2028, and
+$103,000 in FY 2029. These costs would be General Fund expenditures. Because the number of
+proposals received, grants awarded, and enforcement actions required under the new statutory
+framework is unknown, the Department states the overall fiscal impact is indeterminable, but
+couldbebetween$100,000and$500,000perfiscalyeardependingonworkload.
+This bill does not provide funding nor does it authorize positions. However, to the extent these
+positions are authorized, it is assumed the funding for FY 2028 and FY 2029 would be included
+intheDepartment'sFY2028andFY2029budgetrequest.
+AGENCIESCONTACTED:
+DepartmentofJusticeandDepartmentofAdministrativeServices

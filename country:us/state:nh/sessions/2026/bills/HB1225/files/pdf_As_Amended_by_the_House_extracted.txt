@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1225-ASAMENDEDBYTHEHOUSE
+5Mar2026...0599h
+2026SESSION
+26-2944
+09/06
+1225
+HOUSEBILL
+ANACT relative to the definition of adjusted gross income with respect to child support
+guidelines.
+SPONSORS: Rep. Markell, Rock. 18; Rep. Georges, Hills. 23; Rep. Nelson, Rock. 13; Rep. M.
+Pearson,Rock.34;Rep.Rice,Hills.38
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds additional tax obligations that are subtracted when calculating "adjusted gross
+income"forchildsupportobligations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1225-ASAMENDEDBYTHEHOUSE
+5Mar2026...0599h 26-2944
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the definition of adjusted gross income with respect to child support
+guidelines.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Child Support Guidelines; Definitions; Adjusted Gross Income. Amend RSA 458-C:2, Ito read
+2 asfollows:
+3 I. "Adjustedgrossincome"meansgrossincome,less:
+4 (a) Court-ordered or administratively ordered support actually paid to others, for adults
+5 orchildren.
+6 (b) If a self-employed obligor, 50 [Fifty] percent of the actual self-employment [tax]
+7 taxespaid.
+8 (c) Mandatory,notdiscretionary,retirementcontributions.
+9 (d) Actualstateincometaxespaid.
+10 (e) Amounts actuallypaid bytheobligor for allowablechildcare expenses or themedical
+11 supportobligationfortheminorchildrentowhomthechildsupportorderapplies.
+12 (f) If an employee obligor, 100 percent of the federal Old-Age, Survivors, and
+13 Disability Insurance Social Security program and Medicare taxes withheld from the
+14 employees’pay.
+15 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

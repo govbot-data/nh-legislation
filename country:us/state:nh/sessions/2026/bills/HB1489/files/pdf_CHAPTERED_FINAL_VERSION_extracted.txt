@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER172
+HB1489-FINALVERSION
+2026SESSION
+26-2331
+07/09
+1489
+HOUSEBILL
+ANACT relativetointerstatedepositionsanddiscovery.
+SPONSORS: Rep.Lynn,Rock.17;Rep.Berch,Ches.6
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes changes to the appointment of deposition commissioners and the uniform foreign
+depositionslaw.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER172
+HB1489-FINALVERSION
+26-2331
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetointerstatedepositionsanddiscovery.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 172:1 Proceedings in Court; Uniform Foreign Depositions Law. RSA 517-A is repealed and
+2 reenactedtoreadasfollows:
+3 517-A:1 ShortTitle. Thischaptermaybeknownandcitedasthe"UniformInterstateDepositionsand
+4 DiscoveryAct".
+5 517-A:2 Definitions. Inthischapter:
+6 I. “Foreignjurisdiction”meansastateotherthanNewHampshire.
+7 II. “Foreign subpoena” means a subpoena issued under the authority of a court of record of a
+8 foreignjurisdiction.
+9 III. “Person” means an individual, corporation, business trust, estate, trust, partnership, limited
+10 liabilitycompany, association, joint venture, publiccorporation, government, or governmental subdivision,
+11 agencyorinstrumentality,oranyotherlegalorcommercialentity.
+12 IV. “State” means a state of the United States, the District of Columbia, Puerto Rico, the United
+13 States Virgin Islands, a federally recognized Indian tribe, or any territory or insular possession subject to
+14 thejurisdictionoftheUnitedStates,or,forthepurposesofRSA517-A:8throughRSA517-A:11,aforeign
+15 country.
+16 V. “Subpoena” means a document, however denominated, issued under the authority of a court
+17 ofrecordrequiringapersonto:
+18 (a) Attendandgivetestimonyatadeposition;
+19 (b) Produce and permit inspection and copying of designated books, documents, records,
+20 electronicallystoredinformation,ortangiblethingsinthepossession,custody,orcontroloftheperson;or
+21 (c) Permitinspectionofpremisesunderthecontroloftheperson.
+22 517-A:3 IssuanceofSubpoena.
+23 I. Torequestissuanceof asubpoenaunderthissection,apartyshallsubmitaforeignsubpoena
+24 totheclerkofthesuperiorcourtinthecountyinwhichdiscoveryissoughttobeconductedinthisstate. A
+25 request for the issuance of a subpoena under this act shall not constitute an appearance in the courts of
+26 thisstate.
+27 II. When a party submits a foreign subpoena to a clerk of court in this state, the clerk, in
+28 accordance with that court’s procedure, shall promptly issue a subpoena for service upon the person to
+29 whomtheforeignsubpoenaisdirected.
+30 III. AsubpoenaunderparagraphIIshall:
+31 (a) Incorporatethetermsusedintheforeignsubpoena;and
+
+CHAPTER172
+HB1489-FINALVERSION
+-Page2-
+1 (b) Contain or be accompanied by the names, addresses, and telephone numbers of all
+2 counsel of record in the proceeding to which the subpoena relates and of any party not represented by
+3 counsel.
+4 517-A:4 Service of Subpoena. A subpoena issued by a clerk of court under RSA 517-A:3 shall be
+5 served in compliance with all statutes and court rules governing service of subpoenas in civil actions in
+6 thesuperiorcourts.
+7 517-A:5 CompliancewithSubpoena. All provisionsof lawandcourt rulesregardingtheobligationof
+8 persons to comply with subpoenas and the remedies available for non-compliance shall apply to
+9 subpoenasissuedunderRSA517-A:3.
+10 517-A:6 Procedure to Enforce, Modify, or Quash Subpoena. An application to the court for a
+11 protectiveorderortoenforce,quash,ormodifyasubpoenaissuedbyaclerkofcourtunderRSA517-A:3
+12 shall comply with the rules or statutes of this state and be submitted to the court in the county in which
+13 discoveryistobeconducted.
+14 517-A:7 Uniformity of Application and Construction. In applying and construing this uniform act,
+15 courtsshall givedueconsideration totheneedto promoteuniformityof thelaw withrespect toits subject
+16 matteramongstatesthatenactit.
+17 517-A:8 AppointmentofCommissionertoTakeForeignDepositions.
+18 I. The superior court may appoint a suitable person to serve as a commissioner, who may take
+19 depositionsoutsidethisstateforuseincausespendinginorreturnabletosaidcourt.
+20 II. No appointment shall be required when discovery is sought in a foreign jurisdiction that has
+21 adopted the uniform foreign depositions act, the model uniform interstate depositions and discovery act,
+22 orothersimilarprocessforobtainingout-of-statediscoveryandtestimony. Insuchmatters,discoveryand
+23 testimonymaybesoughtpursuanttothemannerandprocessrequiredintheforeignjurisdiction.
+24 517-A:9 Procedure for Appointment of Commissioner. After the appointment of a commissioner
+25 under RSA 517-A:8, the notice of the time and place of taking depositions before the commissioner, the
+26 proceedings in taking such depositions, the certificates to be made by the commissioner, and all other
+27 formalities with reference to taking, filing, and using such depositions shall be the same, as far as
+28 applicable,totakingdepositionsincivilcauses.
+29 517-A:10 PowersofCommissioner. AcommissionerappointedunderRSA517-A:8shallhaveallthe
+30 powersconferredbythelawsofotherstates,territories,orforeigncountriesuponcommissionersorother
+31 personsauthorizedtotakedepositionsinsaidotherstates,territories,orforeigncountriesforuseincases
+32 pendinginthisstate.
+33 517-A:11 Commissioners Appointed by Foreign Jurisdictions. A commissioner or other person
+34 appointed by any court of record of any other state, territory, or foreign country, for the purpose of taking
+35 depositionsinthisstate for useincauses pendinginsuchcourt of record, shall have thesamepowers of
+36 procuring the attendance of witnesses to give depositions before the commissioner and of requiring the
+37 production of papers and the giving of such depositions as justices of the peace within this state with
+38 referencetodepositionsforuseincivilcausespendingwithinthecourtsofthisstate.
+39 172:2 Repeal. Thefollowingarerepealed:
+
+CHAPTER172
+HB1489-FINALVERSION
+-Page3-
+1 I. RSA517:15,relativetotheappointmentofdepositioncommissioners.
+2 II. RSA517:16,relativetotheprocedureforappointingdepositioncommissioners.
+3 III. RSA517:17,relativetothepowersofdepositioncommissioners.
+4 IV. RSA517:18,relativetoforeigndepositioncommissioners.
+5 172:3 Applicability. This act shall apply to requests for discovery in cases pending on or after the
+6 effectivedateofthisact.
+172:4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:June19,2026
+EffectiveDate:January01,2027

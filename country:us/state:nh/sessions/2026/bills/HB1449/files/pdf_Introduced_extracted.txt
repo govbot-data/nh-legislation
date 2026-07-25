@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1449 -ASINTRODUCED
+2026SESSION
+26-2787
+12/07
+1449
+HOUSEBILL
+ANACT limiting times vaccine clinics may operate at schools and requiring parents or
+legal guardians to be present with their child during the administration of
+vaccinationsatsuchaclinic.
+SPONSORS: Rep. McGrath, Rock. 40; Rep. DeRoy, Straf. 3; Rep. DeVito, Rock. 8; Rep.
+Litchfield, Rock. 32; Rep. McFarlane, Graf. 18; Rep. Morton, Hills. 39; Rep. Perez,
+Rock.16;Rep.SabourinditChoiniere,Rock.30;Rep.Terry,Belk.7
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the operation of a vaccination clinic at schools during school hours and
+requires the parent or legal guardian of a child be present during the administration of any
+vaccinationtotheirchildatsuchaclinic.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1449-ASINTRODUCED
+26-2787
+12/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT limiting times vaccine clinics may operate at schools and requiring parents or
+legal guardians to be present with their child during the administration of
+vaccinationsatsuchaclinic.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; School Vaccination Clinics; Parent or Legal Guardian Required. Amend RSA
+2 200byinsertingaftersection27-athefollowingnewsection:
+3 200:27-b SchoolVaccinationClinics;ParentorLegalGuardianRequired.
+4 I. No public elementary or secondary school or chartered public school shall conduct a
+5 vaccinationclinicatanytimeduringschoolhours.
+6 II. A parent or guardian of a child shall be required to accompany and be present with their
+7 child in order for a child to be immunized at a vaccination clinic held in a public elementary or
+8 secondaryschoolorcharteredpublicschool.
+9 III. Nothing in this section shall effect the duties of school nurses as described in RSA
+10 200:38,I(a).
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1719-FN-ASINTRODUCED
+2026SESSION
+26-2373
+05/08
+1719-FN
+HOUSEBILL
+ANACT removing Hepatitis B from the list of diseases for which immunization is required
+understatelaw.
+SPONSORS: Rep. Potenza, Straf. 19; Rep. Barbour, Hills. 35; Rep. DeRoy, Straf. 3; Rep. Drago,
+Rock. 4; Rep. Kofalt, Hills. 32; Rep. McGrath, Rock. 40; Rep. Wherry, Hills. 13;
+Rep.Drew,Hills.19;Sen.Murphy,Dist16
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes Hepatitis B from the list of diseases for which childhood immunization is
+required.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1719-FN-ASINTRODUCED
+26-2373
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removing Hepatitis B from the list of diseases for which immunization is required
+understatelaw.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Immunization Requirements; Hepatitis B Removed. Amend RSA 141-C:20-a, I to read as
+2 follows:
+3 I. All parents or legal guardians shall have their children, who are residing in this state,
+4 immunized against diphtheria, mumps, pertussis, poliomyelitis, rubella, rubeola, tetanus, varicella,
+5 [HepatitisB,]andHaemophilusinfluenzaetypeB(Hib).
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2373
+12/10/25
+HB1719-FN-FISCALNOTE
+ASINTRODUCED
+ANACT removing Hepatitis B from the list of diseases for which immunization is required
+understatelaw.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 ($20,000) ($82,000) ($82,000)
+RevenueFund(s) InsuranceassessmentthroughtheNHVaccineAssociation
+$20,000 $82,000 $82,000
+reductionin reductionin reductionin
+direct direct direct
+expenditures;see expenditures; expenditures;
+Expenditures* $0
+belowfor seebelowfor seebelowfor
+discussionof discussionof discussionof
+possibleindirect possible possibleindirect
+costs indirectcosts costs
+FundingSource(s) NHVaccineAssociationassessment,potentialgeneralfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill removes Hepatitis B from the list of vaccines required for children in the state. The
+direct fiscal impact of the bill is in the form of reduced expenditures for vaccine purchases,
+estimated at $20,000 in FY27 (since some doses will have already been ordered prior to the
+effective date of the bill) and $82,000 in subsequent years. Such purchases are funded through
+an assessment on insurers through the NH Vaccine Association, and so the assessment would
+presumably decrease by the same amounts. The Department notes that some purchases would
+continue to occur, to be dispensed on a voluntary basis based on shared clinical decisions
+betweenphysiciansandtheirpatient'sparentorlegalguardian.
+For informational purposes, the Department states that there may be indirect costs resulting
+from investigations and emergency response activities should the lack of mandated vaccines for
+Hepatitis B result in increased outbreaks. The Department estimates a range of $100,000 to
+$350,000peroutbreak,andnotesthatmultipleoutbreaksperyeararepossible.
+
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

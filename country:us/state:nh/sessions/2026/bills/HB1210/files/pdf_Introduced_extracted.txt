@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1210 -ASINTRODUCED
+2026SESSION
+26-2884
+05/09
+1210
+HOUSEBILL
+ANACT relativetochildtaxcreditallocationinchildsupportcases.
+SPONSORS: Rep.Barton,Graf.1;Rep.Noble,Hills.2;Rep.Spillane,Rock.2;Sen.Innis,Dist7
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides that the party ordered to pay child support in an annual amount greater than
+theamountof thefederalchild taxcreditshall beentitledannuallytoclaimthecredit,ifeligible, for
+eachqualifyingchild,unlessotherwiseagreedtobytheparties.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1210-ASINTRODUCED
+26-2884
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetochildtaxcreditallocationinchildsupportcases.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Child Tax Credit Allocation. Amend RSA 458:16-a by inserting after
+2 paragraphIIIthefollowingnewparagraph:
+3 III-a. A party ordered to pay child support in an annual amount greater than the amount of
+4 the federal tax credit for a dependent child or children shall be entitled annually to claim the child
+5 tax credit, if eligible, for each qualifying child, unless otherwise agreed to by the parties. A child
+6 support obligor must be current on support obligations for the child whom they are claiming as the
+7 taxdependentatthetimetheyclaimthechildtaxcredit.
+8 2 New Paragraph; Child Tax Credit Allocation. Amend RSA 461-A:14 by inserting after
+9 paragraphIIIthefollowingnewparagraph:
+10 III-a. All support orders shall provide that, in cases where a divorce decree exists between
+11 theobligorandobligee,theobligorshallbeentitledtoclaimthechildtaxcreditforadependentchild
+12 asprovidedinRSA458:16-a,III-a.
+13 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

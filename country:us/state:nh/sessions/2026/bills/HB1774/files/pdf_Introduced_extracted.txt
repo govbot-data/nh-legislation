@@ -1,0 +1,329 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1774-FN-ASINTRODUCED
+2026SESSION
+26-2849
+07/09
+1774-FN
+HOUSEBILL
+ANACT relative to qualifying scholarship granting organizations and programs of low-
+earningoutcomes.
+SPONSORS: Rep. Kofalt, Hills. 32; Rep. Morse, Merr. 3; Rep. Osborne, Rock. 2; Rep. Sweeney,
+Rock. 25; Rep. Miles, Hills. 12; Rep. Noble, Hills. 2; Rep. P. Brown, Rock. 14; Rep.
+Mattson, Ches. 18; Rep. Packard, Rock. 16; Rep. McDonnell, Rock. 25; Sen. Innis,
+Dist7;Sen.Avard,Dist12
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Directs the department of revenue administration to participate in the federal income tax
+creditforcontributionsofindividualstoqualifiedscholarshipgrantingorganizations.
+II. Directsthedepartmentofeducationtocreateaqualifyingscholarshipgrantingorganizations
+listandestablishrulestoalloworganizationstobeaddedtothelist.
+III. Directs the governor to approve workforce training programs, in consultation with the state
+workforceinnovationboard,forfederalWorkforcePellGrants.
+IV. Prevents an institution of higher education in the state, or student attending an institution
+of higher education in this state from receiving state aid for any academic program that is
+determinedtobea“low-earningoutcomeprogram”.
+V. Requires the board of trustees of the university system of New Hampshire and the higher
+education commission to adopt rules to ensure that no state funds are appropriated, allocated, or
+expendedforlow-earningdegreeprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1774-FN-ASINTRODUCED
+26-2849
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to qualifying scholarship granting organizations and programs of low-
+earningoutcomes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; The State and Its Government; General Provisions; Definitions. Amend
+2 RSA21-I:1-abyinsertingafterparagraphVthefollowingnewparagraphs:
+3 VI. “Qualifiedscholarshipgrantingorganization” meansanonprofitorganizationthat meets
+4 therequirementsof26U.S.C.section25F.
+5 VII. "Eligible school” means an elementary or secondary school allowed under RSA 193:1
+6 andrecognizedin26U.S.C.section530(b)(3)(B).
+7 VIII. "Allowable uses of scholarship funds” means all elementary and secondary education
+8 expensesallowedunder26U.S.C.section530(b)(3)(A).
+9 IX. “Eligibleworkforcetrainingprograms”meansprogramsthat:
+10 (a) Meet the requirements in 20 U.S.C. section 1088(b)(3)(A) and that prepare
+11 participants for employment in industry sectors or occupations that require credentials beyond a
+12 highschooldiploma;
+13 (b) Earnabove150percentofthefederalpovertylevelforindividualearners;or
+14 (c) Are identified in state, regional, or local workforce development or labor market
+15 projectionsasgrowing,emerging,orhavingprojectedshortagesorhiringdemand.
+16 2 Department of Revenue Administration; Income Tax Credit Contribution Program. The
+17 department of revenue administration, to the extent possible, shall participate in the federal income
+18 tax credit for contributions of individuals to qualified scholarship granting organizations, beginning
+19 in taxable years ending after December 31, 2026. The department shall automatically renew its
+20 participation each subsequent taxable year. The department shall adopt rules, pursuant to RSA
+21 541-A, relative to its participation in the federal income tax credit for contributions of individuals to
+22 qualifiedscholarshipgrantingorganizations.
+23 3 Department of Education; Qualifying Scholarship Granting Organizations List. The
+24 department of education shall create a qualifying scholarship granting organizations list and
+25 establish rules, pursuant to RSA 541-A, to allow organizations to be added to the qualifying
+26 scholarship granting organizations list. The department shall work with the department of revenue
+27 administration to ensure the organizations are added to the list pursuant to the department of
+28 education'srulemakingprocedures.
+29 4 DepartmentofEducation;PublicationList. Thedepartmentofeducationshall:
+
+HB1774-FN-ASINTRODUCED
+-Page2-
+1 I. Submit a list of qualifying scholarship granting organizations to the Secretary of the
+2 TreasuryoftheUnitedStates;
+3 II. Publishalistofqualifiedscholarshipgrantingorganizationsonitswebsite;and
+4 III. Certify to the general court that it has submitted the list required under paragraph I to
+5 theSecretaryoftheTreasuryoftheUnitedStates.
+6 5 StateWorkforceInnovationBoard;WorkforceTrainingProgramApproval. Thegovernorshall
+7 approve workforce training programs, in consultation with the state workforce innovation board, for
+8 federal Workforce Pell Grants, if such grants satisfy the requirements of 20 U.S.C. section 1070a.
+9 The state workforce innovation board may adopt rules, pursuant to RSA 541-A, for the purpose of
+10 approvingworkforcetrainingprograms.
+11 6 State Workforce Innovation Board; Approval of Funds. The state workforce innovation board
+12 shallcreaterules,pursuanttoRSA541-A,toestablishatransparentprocessforinstitutionstoapply
+13 for approval, and to appeal denial, of funds under its control. The approval and appeal processes
+14 shall be modeled, to the extent possible, after the Workforce Innovation and Opportunity Act under
+15 29U.S.C.section3101andtheCarlD. PerkinsCareerandTechnicalEducationActunder20U.S.C.
+16 section2301.
+17 7 State Workforce Innovation Board; Data Report. Providers of eligible workforce training
+18 programs shall provide reliable data, as determined by the state workforce innovation board,
+19 demonstrating program outcomes, including program completion rates, job placement rates, and
+20 earningspursuantto20U.S.C.section1088(b)(4),tothestateworkforceinnovationboard.
+21 8 Prohibition on State Aid to Programs of Low-Earning Outcomes. No institution of higher
+22 education in the state, or student attending an institution of higher education in this state, shall
+23 receive, either directly or indirectly, state aid for any academic program that is determined to be a
+24 “low-earningoutcomeprogram”under20U.S.C.section1087d(c).
+25 9 University System of New Hampshire; Higher Education Commission; Rulemaking Directive.
+26 The board of trustees of the university system of New Hampshire and the higher education
+27 commission shall adopt rules, pursuant to RSA 541-A, to ensure that no state funds are
+28 appropriated, allocated, or expended for low-earning degree programs under 20 U.S.C. section
+29 1087d(c). Rules adopted pursuant to this directive shall address individual student financial aid,
+30 baseoperationalorinstructionalfunding,separatelyappropriatedaidorgrants,andcapitalfunding.
+31 10 University System of New Hampshire; Higher Education Commission; Report. The board of
+32 trustees of the university system of New Hampshire and the higher education commission shall
+33 provide a report documenting programs that have been disqualified from state aid as a result of the
+34 universitysystem'sandhighereducationcommission'srulemaking,whatstepsweretakentoenforce
+35 the disqualifications, and how much state funding was redirected or saved due to the
+36 disqualifications. The report shall be submitted to the speaker of the house of representatives, the
+
+HB1774-FN-ASINTRODUCED
+-Page3-
+1 president of the senate, the house clerk, the senate clerk, the governor, and the state library on or
+2 beforeNovember1.
+3 11 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2849
+12/16/25
+HB1774-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to qualifying scholarship granting organizations and programs of low-
+earningoutcomes.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) GeneralFund,EducationTrustFund,USNHRevenue,CCSNHRevenue
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+The Office of Legislative Budget Assistant is unable to provide a complete fiscal note for this bill
+as it is awaiting information from the Department of Education. The Department was initially
+contacted on 11/19/25 for a fiscal note worksheet, with follow-up contact made on 12/05/25.
+Whencompleted,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+METHODOLOGY:
+This bill would add definitions to RSA Chapter 21-I, which is applicable to the Department of
+Administrative Services. It would also require the Department of Education, the Department of
+Revenue Administration (DRA), the Governor, the State Workforce Innovation Board, and the
+UniversitySystemofNewHampshiretoundertakevariousactivitiesdesignedtotakeadvantage
+offederalprogramsandfundingforeducationandworkforcedevelopment.
+DepartmentofRevenueAdministration(DRA)
+Section 2 of this bill provides that DRA shall “to the extent possible. . .participate in the federal
+income tax credit for contributions of individuals to qualified scholarship granting organizations
+beginning in taxable years ending after December 31, 2026.” DRA assumes this reference is
+intended to apply to years ending on or after December 31, 2026, i.e. tax year 2026. DRA is
+further required to automatically renew its participation each subsequent taxable year, and to
+adopt rules related to its participation. DRA understands these requirements to refer to Section
+
+70411 of P.L. 119-21, a/k/a the One, Big, Beautiful Bill Act (OBBBA) which has been codified as
+26 U.S.C. Section 25F. The Department of Treasury and the Internal Revenue Service (IRS)
+have recently announced their intent to issue regulations to implement this new individual tax
+credit provision and have requested public comments by December 26, 2025. At this time, and
+untilimplementationregulationsareissued,DRAisunsurewhetherandtowhatextentitmight
+bepossibleforittoparticipateasdirectedoradvisableforthestatetodoso.
+To the extent DRA (or the Governor) makes a voluntary election to participate, it is DRA’s
+understandingthat thetax credit for “qualified contributions” of up to$1,700 per tax year would
+be available to be claimed by individuals on their federal tax returns, and would be reduced by
+theamount“allowedas acreditonanyStatetaxreturnofthetaxpayer.” It ispossiblethat this
+could apply to New Hampshire business tax returns filed by individual proprietors, where there
+is currently available an education tax credit under RSA 77-G of up to $510,000 per year,
+available to be carried forward for five additional years. The qualifying conditions with respect
+to scholarship organizations for both programs are similar enough that donations made in New
+Hampshirewouldlikelyqualifyundereitherprogram.
+It is not clear to DRA whether, for the state credit to be considered “allowed” for federal
+reduction purposes, the credit must be claimed and/or utilized by the taxpayer. Depending upon
+the relative federal and state tax liabilities of individual taxpayers, it is possible that taxpayers
+might benefit by not claiming state credit and claiming federal credit (or vice versa) in a given
+year, and this might vary from year to year. It is also unclear how carryforward provisions
+wouldworkunderthesescenarios.
+It is possible, but too early to tell whether participation in the federal tax credit would
+complicate administration of the State credit, due to the need to reconcile availability and
+utilizationintheeventadonationwastoqualifyunderbothprograms.
+DRA states, for now, this bill would not result in any additional administrative costs that could
+not be absorbed in the DRA operating budget. The fiscal impact of the proposed legislation
+wouldbeapossibleindeterminableincreasetothegeneralandeducationtrustfundsintheform
+of increased business tax revenues due to credits being claimed at the federal rather than state
+level. DRA is unable to quantify the impact due to a lack of understanding about the federal
+program and how it would interact with the state program, and how taxpayer behavior might
+change.
+DepartmentofBusinessandEconomicAffairs(DBEA)
+
+This bill affects DBEA, specifically the Office of Workforce Opportunity (“OWO”) and its state
+workforceinnovationboard(“SWIB”)inthefollowingways:
+ SWIB would consult with the Governor to approve workforce training programs for
+federalWorkforcePellGrants.
+ SWIBmayadoptrulesforapprovingworkforcetrainingprograms.
+ SWIB shall adopt rules, based on the Workforce Innovation and Opportunity Act, to
+establish a transparent process for the approval and appeal of denials of funds under its
+control.
+ SWIB, working with OWO, shall create data reports based upon information from
+eligibleworkforcetrainingprograms.
+OWO anticipates an indeterminate expenditure to the state but believes the range will be
+between $500,000 and $1,000,000 in FY 2027, and between $100,000 and $500,000 in FY 2028
+and beyond. This is based on the following assumptions from OWO and SWIB to implement the
+requirementsoftheproposedbilleffectivelyandtoensurecompliance:
+ Staffing Capacity – Administration of this program will require at least one (1) new full-
+time position to manage ongoing operations, coordinate with education and training
+providers, oversee eligibility and reporting, and ensure alignment with existing federal
+and state requirements. The position needed would be a Miscellaneous Business
+Operations Specialist (SOC:13-1190), Level 5, Pay Band 6, which begins at $28.74/hour.
+Thisdoesnotfactorinbenefits.Thiswouldbeafull-timeposition.
+ Office Space and Infrastructure – Adding staff will likely require additional office space
+and related infrastructure to support program operations. There would also be initial
+start-upcostssuchasalaptop,supplies,andothercosts.
+ Third-Party Implementation Support: OWO anticipates needing a third-party vendor to
+assist with initial program setup, workflow design, and system integration. However,
+the cost of this support is indeterminable at this time, as it will depend on final program
+requirements, system specifications, and the scope of work established. If allowed, a
+competitive RFP process would be utilized to find a qualified vendor. It is expected this
+expensewillbecontainedwithinFY2027.
+ Job Management System Integration – New Hampshire currently uses the NH Job
+Match System (JMS), developed and maintained by Geographic Solutions, to support
+workforce programs including WIOA Title I (Adult, Dislocated Worker, Youth) and Title
+III Wagner-Peyser. JMS allows individuals to self-register for career services, access
+
+case management, explore training opportunities via the Eligible Training Provider List
+(ETPL), and enables businesses to post job openings. JMS is a Modifiable Off-The-Shelf
+(MOTS) solution, designed for flexibility to meet state-specific requirements.
+Enhancements to accommodate Workforce Pell requirements would leverage the existing
+system, making this the most cost-effective and programmatically efficient approach.
+Staff, particularly within OWO, are already familiar with JMS, reducing training needs
+and supporting seamless implementation. The existing Job Match System (JMS)
+contract will require expansion to accommodate new data elements, reporting
+requirements, and system functionality associated with Workforce Pell. This will result
+inincreasedcontractcosts. Thecostdeterminationisindeterminable,butcouldbeinthe
+range of a one-time purchase of between $150,000 and $250,000, and possibly an annual
+fee. It is possible this purchase would need to go through the Governor and Executive
+Councilprocess.
+UniversitySystemofNewHampshire(USNH)
+SpecifictothesectionsofthisbillimpactingUSNH,ithasprovidedthefollowingassumptions:
+ The designation of “low-earning outcome program” status would be made by the U.S
+Department of Education (or other authorized federal agency) according to 20 U.S.C.
+section 1087d(c), whereby the median earnings of a program’s bachelor’s degree
+completers must exceed the median earnings of adults in the state aged 25-34 whose
+highest education is a high school diploma. Graduate student earnings would likewise
+be measured against median bachelor’s degree earnings. According to the federal law,
+failure to meet the earnings premium standard would result in a “low-earning” program
+designation, triggering a disclosure requirement and potential loss of program federal
+student loan eligibility. According to the state law, USNH would be prohibited from
+using any form of state funding to support such programs or the students enrolled
+therein.
+ The ambiguity in the bill’s language regarding state aid received “directly or indirectly”
+wouldneedtobedefinedintherulemakingprocessandcouldincludeprohibitingtheuse
+of all state-funded facilities by students enrolled in “low-earning” programs. The
+definition could be a major driver of the impact on USNH enrollment and operating
+revenue.
+ With adults aged 25-34 in NH having the highest median annual earnings in the U.S.
+($37,850) according to the Federal Register, there is strong possibility that certain
+programs may fail to meet the earnings premium standard, in particular those in the
+
+arts and humanities, education, hospitality, allied health, and social services.
+(https://www.federalregister.gov/documents/2024/12/31/2024-31271/financial-value-
+transparency-and-gainful-employment-earnings-thresholds-for-calculation-year-2024)
+ Because the state’s general appropriation is used to subsidize in-state tuition for all NH
+residents,anincreasedprogramdifferentialratewouldbeinstitutedfordesignated“low-
+earning” programs, comparable to the rate charged to out-of-state students (e.g., the
+UNH2025-26undergradresident tuitionrateis$15,908; nonresidenttuitionis $37,070.)
+This would significantly suppress the enrollment of NH residents and reduce tuition
+revenue.
+ Presuming that such designated programs would be further adversely impacted by
+federal disclosure requirements and/or loan ineligibility, there is a high probability that
+USNH institutions would consider discontinuing programs that may serve critical, albeit
+lower-paying, workforce needs, compelling students to enroll in other institutions that
+offertheirprogramofchoice.
+USNH states the fiscal impact of the legislation is expected to produce an indeterminable and
+significant reduction in operating revenue for the University System beginning in FY 2027 and
+ongoing resulting from decreased enrollment. It is not possible to narrowly estimate a range of
+impact given the unknown parameters that would influence the impact, including the specific
+rules to be determined and the occupational supply and demand that drive median wages at a
+given point in time. USNH anticipates a potential broad range of reduced operating revenue,
+from $500,000 to more than $2.5 million, depending on the definitions and parameters
+determined through the rule-making process. Decreased revenue resulting from compliance
+with the state law would necessitate increases in USNH tuition and/or mandatory fee rates
+and/or a reduction in financial aid from institutional resources for all students – not only those
+enrollinginadesignated“low-earning”degreeprogram.
+CommunityCollegeSystemofNewHampshire(CCSNH)
+Specific to the sections of this bill impacting CCSNH, it has provided the following assumptions
+andpotentialimpacts:
+ This bill authorizes the Governor and State Workforce Innovation Board (SWIB) to
+approve workforce training programs as eligible for federal Workforce Pell grants, and
+requireinstitutionstoprovidecertaindatatotheSWIB.
+o Federal law establishing Workforce Pell grants authorizes the Governor, in
+conjunction with state workforce boards to determine program eligibility for
+grant funds. This bill states specifically that in New Hampshire this will be the
+
+responsibility of the Governor in conjunction with the SWIB and involve the
+creationofadministrativerules. CCSNHforeseesatimingissuethatwouldhave
+a fiscal impact: Workforce Pell grants are effective July 1, 2026. It is unclear
+how long the rules process will take after this bill is enacted. CCSNH plans to
+haveprogramsreadytoenrollparticipantsimmediatelyupontheeffectivedateof
+the federal program and to seek approval from the Governor to launch programs
+inalignmentwiththatdate. Therulemakingprocesssetforthinthebillislikely
+to significantly delay CCSNH’s ability to enroll students in short-term workforce
+training programs under this grant program. This would result in a loss of
+revenue.
+ This bill prohibits state funds from supporting programs with low-earning outcomes as
+defined/referenced in the bill, require the NH Higher Education Commission (HEC) and
+the University System of New Hampshire (USNH) Board of Trustees to develop
+Administrative Rules to establish procedures to ensure compliance, and require a report
+on such program disqualifications. CCSNH is unsure whether any rules established by
+the HEC and USNH Board would apply to CCSNH programs. CCSNH would need
+clarificationofthissinceitwouldimpactitsstatementoffiscalimpact.
+CCSNH seeks clarification of the definition of “eligible workforce training programs”
+(EWTP). In the bill, the definition of EWTP includes programs that “are identified in
+state, regional, or local workforce development or labor market projections as growing,
+emerging, or having projected shortages or hiring demand.” However, later in the bill,
+this labor market need inclusion seems to be absent, which if intentional would preclude
+high-need but low-wage programs such as Early Childhood Education and other
+programs with entry-level wages that do not meet the threshold but that position
+graduates for future advancement. CCSNH’s response, relative to fiscal impact
+associated with this section, is pending clarification of questions raised. If CCSNH
+would be required to stop offering programs deemed “low-learning outcome” programs,
+CCSNH would face a fiscal impact including loss of revenue and costs of closing
+programs.
+AGENCIESCONTACTED:
+Department of Education, Department of Revenue Administration, Department of Business and
+EconomicAffairs,UniversitySystemofNewHampshire,andCommunityCollegeSystemofNew
+Hampshire

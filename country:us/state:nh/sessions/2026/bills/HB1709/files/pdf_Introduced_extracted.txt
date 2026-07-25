@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1709-FN-ASINTRODUCED
+2026SESSION
+26-2669
+04/09
+1709-FN
+HOUSEBILL
+ANACT relative to prohibiting the rental of residential property to individuals unlawfully
+presentintheUnitedStates.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. Berry, Hills. 44; Rep. Kuttab, Rock. 17; Rep.
+Peternel, Carr. 6; Rep. Rice, Hills. 38; Rep. Perez, Rock. 16; Sen. Innis, Dist 7;
+Sen.Sullivan,Dist18
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires individuals applying for residential rental housing in New Hampshire to
+discloseiftheyarenotUnitedStatescitizensorlawfullypresentintheUnitedStates.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1709-FN-ASINTRODUCED
+26-2669
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to prohibiting the rental of residential property to individuals unlawfully
+presentintheUnitedStates.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Disclosure of Immigration of Citizenship Status by Rental Applicants. Amend
+2 RSA540byinsertingaftersection30thefollowingnewsection:
+3 540:31 RentalNondisclosureofImmigrationStatus.
+4 I. Apersoncommits anoffense if suchperson, whenapplyingfor residential housinginNew
+5 Hampshire, knowingly fails to disclose in writing that the person is not a United States citizen or
+6 notlawfullypresentintheUnitedStates.
+7 II. For purposes of this section, a person shall be regarded as lawfully present in the United
+8 States only if their immigration status has been verified by the federal government pursuant to 8
+9 United States Code, section 1373(c). No landlord or property manager shall attempt to
+10 independentlydetermineanapplicant'simmigrationstatus.
+11 III. An applicant shall be presumed to be lawfully present if they present one of the
+12 followingformsofidentification:
+13 (a) Avalid,unexpiredNewHampshiredriver'slicenseornondriveridentificationcard.
+14 (b) A valid tribal enrollment card or other tribal identification bearing a photograph or
+15 biometricidentifier.
+16 (c) A valid federal or state government-issued identification bearing a photograph or
+17 biometricidentifier,issuedbyanentitythatrequiresproofoflawfulpresence.
+18 (d) A foreign passport with an unexpired United States visa and a corresponding
+19 DepartmentofHomelandSecurityadmissionstamp.
+20 (e) A foreign passport from a visa waiver country with a valid entry stamp and
+21 unexpireddurationofstayannotationorI-94Wform.
+22 IV. AnypersonwhoviolatesparagraphIshallbeguiltyofaclassBfelony.
+23 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2669
+12/9/25
+HB1709-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to prohibiting the rental of residential property to individuals unlawfully
+presentintheUnitedStates.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

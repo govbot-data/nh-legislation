@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER161
+HB1266-FINALVERSION
+04/16/2026 1324s
+2026SESSION
+26-2496
+07/08
+1266
+HOUSEBILL
+ANACT allowing election moderators access to the area designated for counting votes during
+theperformanceoftheirduties.
+SPONSORS: Rep.Harb,Rock.20
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows election moderators to access the area designated for counting votes during the
+performanceoftheirduties.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER161
+HB1266-FINALVERSION
+04/16/2026 1324s 26-2496
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing election moderators access to the area designated for counting votes during
+theperformanceoftheirduties.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 161:1 Elections; Counting of Votes; Disqualification of Officials. Amend RSA 659:58 to read as
+2 follows:
+3 659:58 DisqualificationofOfficials. Anyelectionofficial whoisalsoacandidatefor office, other than
+4 a position of an election official, shall not be allowed to remain in the area designated for the counting of
+5 voteswithintheguardrailduringthecountingof[votesforanofficeforwhichheisacandidate]ballotsfor
+6 whichheorsheisacandidateforanofficeotherthananelectionofficial. Such official shall disqualify
+7 himselforherselffrom election duties relating to the tabulation of votes; and the moderator shall appoint
+8 an assistant who shall take the same oath as, serve in the same capacity as, and have all the powers of
+9 the election official who is disqualified until such official may properly return. Theelectionofficial,which
+10 includesthemoderator,maybewithintheguardrailsandperformotherdutiesoftheiroffice,orother
+11 dutiesthemoderator mayassign[any]totheelectionofficial disqualifiedpursuant tothis section[toother
+12 duties],notrelatedtothetabulationofvotes.
+161:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June19,2026
+EffectiveDate:August18,2026

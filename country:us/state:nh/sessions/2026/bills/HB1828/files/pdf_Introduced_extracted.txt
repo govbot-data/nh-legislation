@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1828-FN-ASINTRODUCED
+2026SESSION
+26-3008
+12/09
+1828-FN
+HOUSEBILL
+ANACT requiring the department of education to establish an auditing process relative to
+teacherpreparationprogramsatthepost-secondaryeducationallevel.
+SPONSORS: Rep. Noble, Hills. 2; Rep. Layon, Rock. 13; Rep. Peternel, Carr. 6; Rep. Freeman,
+Belk. 8; Rep. Korzen, Coos 7; Rep. Litchfield, Rock. 32; Rep. Colcombe, Hills. 30;
+Sen.Ward,Dist8
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the department of education to review professional educator preparation
+programs to ensure effective literacy instruction is provided in institutions of higher education. The
+bill also authorizes the department to make rules relative to the auditing process of preparation
+programs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1828-FN-ASINTRODUCED
+26-3008
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to establish an auditing process relative to
+teacherpreparationprogramsatthepost-secondaryeducationallevel.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Preparation Program Literacy Audit. Amend RSA 189 by inserting after section
+2 58thefollowingnewsection:
+3 189:58-a PreparationProgramLiteracyAudit.
+4 I. The department of education shall review New Hampshire approved professional
+5 preparationprogramsto:
+6 (a) Ensure that all educators complete coursework in evidence-based strategies for
+7 effective literacy instruction aligned to the science of reading, which includes phonics, phonemic
+8 awareness, fluency comprehension, and vocabulary teacher development, and is part of a structured
+9 literacyprogram;and
+10 (b) Ensure that clinical preparation for all educators who are responsible for teaching
+11 reading only occurs in the classrooms where the local education agency has verified that the
+12 practicing teachers have training in literacy instruction strategies aligned to the science of reading,
+13 use instructional materials aligned to the science of reading, and actively implement a structured
+14 literacyapproach.
+15 II. The department of education shall develop an auditing process with metrics that
+16 document the degree to which every educator preparation program at an institution of higher
+17 education is effectively teaching the science of reading and publish the audit results on the
+18 department’swebsite.
+19 III. ThedepartmentofeducationshalladoptrulesunderRSA541-Arelativetothe auditing
+20 process.
+21 2 New Subparagraph; Literacy Audit Rulemaking. Amend RSA 21-N:9, II by inserting after
+22 subparagraph(cc)thefollowingnewsubparagraph:
+23 (dd) The auditing process for literacy instruction in professional preparation programs,
+24 asdefinedinRSA189:58-a.
+25 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3008
+12/17/25
+HB1828-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the department of education to establish an auditing process relative to
+teacherpreparationprogramsatthepost-secondaryeducationallevel.
+FISCALIMPACT:
+The Office of Legislative Budget Assistant is unable to complete a fiscal note for this bill as it is
+awaiting information from the Department of Education. The Department was initially
+contactedon 10/15/25forafiscalnoteworksheet,withfollow-upcontactmadeon12/5/25. When
+completed,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+AGENCIESCONTACTED:
+DepartmentofEducation

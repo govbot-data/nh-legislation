@@ -1,0 +1,836 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1796-FN-ASINTRODUCED
+2026SESSION
+26-2997
+05/09
+1796-FN
+HOUSEBILL
+ANACT allowing the use of psilocybin in approved clinical settings to treat qualified
+medicalconditions.
+SPONSORS: Rep. Moffett, Merr. 4; Rep. Giasson, Hills. 29; Rep. Mandelbaum, Rock. 21; Rep.
+Tom Mannion, Hills. 1; Rep. C. McGuire, Merr. 27; Rep. Roy, Rock. 31; Rep.
+SabourinditChoiniere,Rock.30;Sen.Pearl,Dist17;Sen.Watters,Dist4
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the use of psilocybin in approved clinical settings to treat qualified medical
+conditions. The bill establishes a medical psilocybin program and regulatory board in the
+departmentofhealthandhumanservicesanddirectsthedepartmenttolicensequalifiedproviders.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1796-FN-ASINTRODUCED
+26-2997
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing the use of psilocybin in approved clinical settings to treat qualified
+medicalconditions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybecitedasthe"TherapeuticPsilocybinAct".
+2 2 Purpose Statement. The purpose of the Therapeutic Psilocybin Act is to allow the beneficial
+3 useofpsilocybininaregulatedsystemforalleviatingqualifiedmedicalconditions.
+4 3 New Chapter; Therapeutic Use of Psilocybin. Amend RSA by inserting after chapter 126-X
+5 thefollowingnewchapter:
+6 CHAPTER126-XX
+7 THERAPEUTICUSEOFPSILOCYBIN
+8 126-XX:1 Definitions. Inthischapter:
+9 I. "Board" means the psilocybin production establishment licensing board created pursuant
+10 toRSA126-XX:7.
+11 II. "Provider"meansanapprovedmedicalortherapyproviderlicensedinthisstatewhoalso
+12 holdsalicensefromthedepartmenttorecommendorprovideservicestoqualifiedpatients.
+13 III. "Department"meansthedepartmentofhealthandhumanservices.
+14 IV. "Administration session" means services provided to a patient in an approved setting
+15 before, during, and after the ingestion of psilocybin and includes a preparation session, an
+16 administrationsession,andanintegrationsession.
+17 V. "Cultivation facility agent" means a person who has a permit from the department to
+18 grow and harvest or prepare psilocybin from psilocybin-producing mushrooms, including to
+19 compound,convert,process,ormanufacturepsilocybinproductsdirectlyorindirectlyfrompsilocybin
+20 mushroomsandtopackageorrepackageorlabelorrelabeltheproducts.
+21 VI. "Program"meansthemedicaluseofpsilocybinprogram.
+22 VII. "Psilocybin":
+23 (a) Means fungi that contain naturally-occurring psilocybin and psilocin compounds
+24 producedbysuchfungi,includingbutnotlimitedtomembersofthegenusPsilocybin;
+25 (b) Includespsilocin;
+26 (c) Includes psilocybin-producing fungi and mixtures or a substance containing a
+27 detectableamountofpsilocybin.
+28 VIII. "Patient" means an individual for whom a qualified medical psilocybin provider
+29 recommendspsilocybin.
+30 IX. "Qualifyingcondition"includes:
+
+HB1796-FN-ASINTRODUCED
+-Page2-
+1 (a) Majortreatment-resistantdepression;
+2 (b) Posttraumaticstressdisorder;
+3 (c) Substanceusedisorders;
+4 (d) End-of-lifecare;and
+5 (e) Otherconditionsapprovedbythedepartment.
+6 X. "Commissioner" means the commissioner of the department of health and human
+7 services.
+8 XI. “Adverse event” means an injury or suspected injury to a patient that results in an
+9 escalation of care, harm to a patient, or rescue of a patient and occurs during a psilocybin
+10 administrationsessionorwithin24hoursfromwhentheadministrationsessionended.
+11 XII. “Independent psilocybin testing laboratory” means a person that does any of the
+12 following:
+13 (a) Conductsachemicalorotheranalysisofpsilocybinorapsilocybinproduct.
+14 (b) Acquires,possesses, andtransports psilocybinor apsilocybinproductwiththeintent
+15 toconductachemicalorotheranalysisofthepsilocybinorpsilocybinproduct.
+16 XIII. “Independent psilocybin testing laboratory agent” means an individual who holds a
+17 valid psilocybin production establishment agent registration card with a psilocybin testing
+18 laboratorydesignation.
+19 XIV. “Psilocybin administration session” means the time period from when a qualified
+20 medical provider administers psilocybin to a patient to the time the patient leaves the qualified
+21 therapyproviderlocation.
+22 XV. “Psilocybin cultivation facility” means a person that possesses psilocybin, grows or
+23 intendstogrowpsilocybin,andsellsorintendstosellpsilocybintoaqualifiedtherapyprovider.
+24 XVI. “Psilocybin cultivation facility agent” means an individual who holds a valid psilocybin
+25 productionestablishmentagentregistrationcardwithacultivationfacilitydesignation.
+26 XVII. “Psilocybin production establishment” or “establishment” means a psilocybin
+27 cultivationfacilityoranindependentpsilocybintestinglaboratory.
+28 XVIII. “Psilocybin production establishment agent registration card” means a registration
+29 card issued by the department that authorizes an individual to act as a psilocybin production
+30 establishment agent, and that designates the type of psilocybin production establishment for which
+31 anindividualisauthorizedtoactasanagent.
+32 XIX. “Qualified medical psilocybin provider” means a physician, surgeon or osteopathic
+33 physicianandsurgeonlicensedpursuanttoRSA329,aphysicianassociatelicensedpursuanttoRSA
+34 328-D, or an advanced practice registered nurse pursuant to RSA 326-B, who is registered by the
+35 departmenttorecommendtreatmentwithpsilocybin.
+36 XX. “Qualified therapy provider” means a physician and surgeon or osteopathic physician
+37 and surgeon licensed pursuant to RSA 329, a physician associate licensed pursuant to RSA 328-D,
+
+HB1796-FN-ASINTRODUCED
+-Page3-
+1 an advanced practice registered nurse under RSA 326-B, a psychologist licensed pursuant to RSA
+2 329-B, or a social worker licensed pursuant to RSA 330-A, who is registered by the department to
+3 administertreatmentwithpsilocybin.
+4 XXI. “Qualified therapy provider agent” means an individual who holds a valid qualified
+5 therapyprovideragentregistrationcard.
+6 XXII. “Qualified therapy provider agent registration card” means a registration card issued
+7 bythedepartmentthatauthorizesanindividualtoactasaqualifiedtherapyprovideragent.
+8 XXIII. “Qualifiedtherapyproviderlocation”or“providerlocation”meansafacilitywithallof
+9 thefollowing:
+10 (a) Asingle,securepublicentrance.
+11 (b) A security system with a backup power source that detects and records entry and
+12 providesnoticeofanunauthorizedentrytolawenforcementwhenthefacilityisclosed.
+13 (c) A lock or equivalent restrictive security feature on any area where the psilocybin or
+14 psilocybinproductisstoredatthefacility.
+15 126-XX:2 General Provisions. A person may knowingly or intentionally recommend, possess,
+16 use, dispense, deliver, transport, or administer psilocybin if the recommendation, possession, use,
+17 dispensing, delivery, transporting, or administering is in accordance with the provisions of this
+18 chapter.
+19 126-XX:3 Applicability. Federal Food and Drug Administration-approved products that contain
+20 psilocybin shall be exempt from this chapter, with the exception that such products shall be
+21 authorizedforuse:
+22 I. In any research conducted by state research universities or health care providers
+23 pursuanttograntsawardedthroughthemedicalpsilocybinresearchfund;and
+24 II. Byqualifiedpatientswhosetreatmentsmaybefundedthroughthemedicalpsilocybin
+25 treatmentequityfund.
+26 126-XX:4 ExemptionfromCriminalandCivilPenaltiesfortheMedicalUseofPsilocybin.
+27 I. A cultivator, therapist, clinician or qualified patient shall not be subject to arrest,
+28 prosecutionorpenaltyforparticipatingintheprogram.
+29 II. The following conduct is lawful and shall not constitute grounds for detention, search, or
+30 arrest of a person or for a violation of probation or parole, and psilocybin that relates to the conduct
+31 isnotcontrabandorsubjecttoseizureorforfeiturepursuanttoRSA318-B:
+32 (a) Acultivatororproviderpossessingortransportingnotmorethananadequatesupply
+33 ofpsilocybinformedicalpurposesasdefinedbydepartmentrule;and
+34 (b) A provider administering or a qualified patient taking psilocybin in an approved
+35 settinginaccordancewiththischapterorrulesadoptedthereunder.
+36 III. A clinician shall not be subject to arrest or prosecution or denied any right or privilege
+37 forrecommendingtheprogramorprovidingmedicalservicesauthorizedinthischapter.
+
+HB1796-FN-ASINTRODUCED
+-Page4-
+1 IV. A person shall not be subject to arrest or prosecution for a psilocybin-related offense for
+2 simply being in the presence of the medical use of psilocybin as allowed under the provisions of this
+3 chapter.
+4 V. This chapter does not apply to federal Food and Drug Administration approved clinical
+5 trials.
+6 126-XX:5 Prohibitions, Restrictions and Limitations on the Use of Psilocybin; Criminal
+7 Penalties.
+8 Participation in the program by a cultivator, provider, or qualified patient does not relieve the
+9 cultivator,provider,orqualifiedpatientfrom:
+10 I. Criminalprosecutionorcivilpenaltiesforactivitiesnotauthorizedunderthischapter;or
+11 II. Liability for damages or criminal prosecution arising out of the operation of a motor
+12 vehicleifdrivingwhileundertheinfluenceofpsilocybin.
+13 126-XX:6 MedicalUseofPsilocybinProgramEstablished.
+14 I. The medical use of psilocybin program is created in the department. In developing the
+15 program,thedepartmentshallestablish:
+16 (a) Appropriateeducationandresourcesforpatients.
+17 (b) Guidance on roles and responsibilities of qualified medical psilocybin providers,
+18 qualifiedtherapyproviders,andpsilocybincultivators.
+19 (c) Necessaryinitialandongoingtrainingforprovidersandcultivators.
+20 (d) Treatment protocols, including patient selection criteria, medical service standards,
+21 dosagestandardsandapprovedsettingsforadministrationofpsilocybintopatients.
+22 (e) Safety protocols for producing psilocybin from mushrooms, transporting, storing, and
+23 handlingpsilocybinandtreatingpatients.
+24 (f) Otherbestpracticesforcultivatorsandproviders.
+25 (g) Requirements for data collection to evaluate the program and the use of best
+26 practicesbycultivatorsandproviders.
+27 (h) Recommendation of program expansion to additional psychedelic substances proving
+28 ofmedical
+29 and/ortherapeuticvalueforpatients.
+30 (i) Other requirements, restrictions, and limitations promulgated by the department to
+31 ensureanefficaciousprogram.
+32 II. The department shall monitor cultivators and clinicians to ensure compliance with this
+33 chapter andrulespromulgatedinaccordancewiththechapter.
+34 III. The department shall collaborate with the board, state higher education institutions,
+35 and health care providers to collect and analyze data to develop best practices, and within 180 days
+36 oftheeffectivedateofthischapter,implementtheprogram.
+
+HB1796-FN-ASINTRODUCED
+-Page5-
+1 IV. The department shall collaborate with the board regarding recommended programmatic
+2 changes and expansion of the program, including consideration of additional psychedelic
+3 therapeuticsmodalities.
+4 126-XX:7 PsilocybinLicensingBoard.
+5 I. Thereiscreatedwithinthedepartmentthepsilocybinlicensingboard.
+6 II. The board shall include at minimum the following members, appointed by the
+7 commissioner:
+8 (a) Onememberofthepublicwithknowledgeofpsilocybin.
+9 (b) One member with knowledge and experience in the pharmaceutical or nutraceutical
+10 manufacturingindustry.
+11 (c) Onememberrepresentingapublicsafetyauthority.
+12 (d) One member who is a chemist or researcher with experience in manufacturing and
+13 whoisassociatedwitharesearchuniversity.
+14 (e) Onememberwhoislicensedtoprovidebehavioralhealthcareservices.
+15 (f) The commissioner or the commissioner's designee, who shall serve as the chairperson
+16 oftheboardandasanonvotingmember,excepttocastadecidingvoteintheeventofatie.
+17 III. A majority of the members constitutes a quorum, and a quorum of the members present
+18 andamajorityvoteareneededtotakeanyaction.
+19 IV. Apersonisineligibleforappointmenttotheboardifanyofthefollowingapply:
+20 (a) The person has any commercial or ownership interest in a psilocybin production
+21 establishment.
+22 (b) The person is associated with a business that has an owner, officer, director, or
+23 employee whose family member holds a license or has an interest in a psilocybin production
+24 establishment.
+25 (c) The person is employed or contracted to lobby on behalf of a psilocybin production
+26 establishment.
+27 V. The director shall ensure that no 2 members of the board are employed by or represent
+28 thesamebusinessornonprofitorganization.
+29 VI. Members of the board shall serve a term of 4 years, except that initial members of the
+30 board shall be appointed for staggered terms such that the director appoints 2 or 3 board members
+31 every2years.Thedirectorshallfillavacancyontheboardforthebalanceoftheunexpiredterm.
+32 VII. The director may remove a member of the board for cause, neglect of duty, inefficiency,
+33 ormalfeasance.
+34 VIII. Members of the board shall serve without compensation but may be reimbursed for
+35 actualexpenses.
+36 IX. Theboardshallmeetascalledbythechairpersontodoallofthefollowing:
+
+HB1796-FN-ASINTRODUCED
+-Page6-
+1 (a) Review each license application for compliance with this chapter and rules adopted
+2 bythedepartment.
+3 (b) Conductapublichearingtoconsideralicenseapplication.
+4 (c) Makeadeterminationonalicenseapplication.
+5 X. The board shall hold a public hearing to review a psilocybin production establishment’s
+6 license if the establishment changes location or as necessary based on the recommendation of the
+7 department.
+8 XI. Theboardshall:
+9 (a) Review and recommend to the department medical conditions that may benefit from
+10 themedicaluseofpsilocybin.
+11 (b) Recommend for approval programmatic expansion to additional psychedelic
+12 substancesprovingofmedicaland/ortherapeuticvalueforpatients.
+13 (c) Assist the department in establishing, monitoring, and evaluating best practices for
+14 cultivatorsandproviders.
+15 126-XX:8 License Renewal. The commissioner shall renew a license issued under this chapter
+16 onabiannualbasisifallofthefollowingapply:
+17 I. Thelicenseemeetsalloftherequirementsforinitiallicensure.
+18 II. The commissioner does not identify a significant failure of compliance with this chapter
+19 orgroundsforrevocation.
+20 III. Thelicenseepaysarenewalfeeasdeterminedbythedepartmentbyrule.
+21 126-XX:9 Reporting. The commissioner shall adopt rules under RSA 541-A for the collection of
+22 data from cultivators, providers, and qualified patients as a means to evaluate the efficacy of the
+23 medical use of psilocybin and publish an annual assessment of the program. The assessment shall
+24 consider the needs of qualified patients who live in rural areas and federal subsidized housing as
+25 longasthequalifiedpatient'splaceofresidenceiswhollywithintheexteriorboundariesofthestate.
+26 Datashallbereportedinsuchawaythatanindividualqualifiedpatientcannotbeidentified.
+27 126-XX:10 Persons Under State Supervision; Protections. A person who is serving a period of
+28 probation or parole or who is in the custody or under the supervision of the state or a local
+29 government pending trial as part of a community supervision program shall not be penalized for
+30 participationintheprogram.
+31 126-XX:11 TherapeuticPsilocybinTreatmentFundEstablished.
+32 There is established in the state treasury the "therapeutic psilocybin treatment fund", which
+33 shall be kept separate and distinct from all other funds. The nonlapsing fund shall be continually
+34 appropriated to the department for the purposes of this chapter. The fund shall consist of
+35 appropriations, grants, and revenues generated by program licensing fees. The department shall
+36 administerthefund.
+37 126-XX:12 PsilocybinProductionEstablishmentLicense.
+
+HB1796-FN-ASINTRODUCED
+-Page7-
+1 I. A person shall not operate a psilocybin production establishment unless the person holds
+2 apsilocybinproductionestablishmentlicenseissuedbythelicensingboardpursuanttothischapter.
+3 II. ThedepartmentshalladoptrulesunderRSA541-Atodevelopaprocessforsolicitingand
+4 evaluatingapplicationsforapsilocybinproductionestablishmentlicense.
+5 III. An applicant for a psilocybin production establishment license shall submit all of the
+6 following:
+7 (a) The proposed name of the establishment and the address where the establishment
+8 willbelocated,exceptasprovidedinsubparagraph(b).
+9 (b) Theboardmayissueaprovisionallicensetoanapplicantwhosubmitsanapplication
+10 that does not include the address at which the establishment will be located. The department shall
+11 convert a provisional license to a license if the provisional licensee submits documentation
+12 confirmingthattheprovisionallicenseehaspurchasedorleasedalocationmeetingtherequirements
+13 ofRSA126-XX:1,XXIII.
+14 (c) Thenameandaddressofanyindividualwhohasanyofthefollowing:
+15 (1) For a privately held company, a financial or voting interest in the proposed
+16 psilocybinproductionestablishment.
+17 (2) The power to direct the management or control of the proposed psilocybin
+18 productionestablishment.
+19 (d) An operating plan, approved by the department, that complies with RSA 126-XX:13
+20 and any laws that the municipality or county in which the person is located adopts regarding the
+21 operationofpsilocybinproductionestablishments.
+22 (e) Anapplicationfeeinanamountdeterminedbythedepartment.
+23 IV. Upon the approval of an application for a license under this section, the applicant shall
+24 pay to the department the initial licensing fee, as determined by the department by rule, and the
+25 departmentshallinformthedepartmentofpublicsafetyofthelicenseapproval.
+26 V. A psilocybin production establishment may be located at the same location as a medical
+27 cannabidiolmanufacturerifaseparatelicenseisobtainedforeach.
+28 VI. Thelicensingboardshallnotissuealicensetooperateanindependentpsilocybintesting
+29 laboratory to any person who holds a license or has an ownership interest to operate a psilocybin
+30 cultivationfacility.
+31 VII. The licensing board shall not issue a license to operate a psilocybin production
+32 establishment to an applicant if anindividual has been convicted of a felony for drug distribution, or
+33 isyoungerthan21yearsofage.
+34 VIII. The licensing board may, at the discretion of the licensing board, grant preference to
+35 anapplicantregisteredasanalternativetreatmentcenterunderRSA126-X.
+36 IX. The licensing board may revoke a license issued pursuant to this section if any of the
+37 followingapply:
+
+HB1796-FN-ASINTRODUCED
+-Page8-
+1 (a) The psilocybin production establishment does not begin operations within one year
+2 afterthedateonwhichthelicensingboardissuestheinitiallicense.
+3 (b) An individual psilocybin production establishment operated by the licensee has
+4 violatedthesameprovisionofthischapter3times.
+5 (c) An individual described in subparagraph III(c), is convicted of a felony for drug
+6 distribution.
+7 (d) The licensee fails to cooperate with an investigation of the psilocybin production
+8 establishmentconductedbythelicensingboard.
+9 (e) The psilocybin production establishment demonstrates a willful or reckless disregard
+10 fortherequirementsofthischapterortherulesofthedepartment.
+11 (f) The licensing board determines that the psilocybin production establishment no
+12 longer meets the minimum standards for licensure and operation of the psilocybin production
+13 establishment.
+14 (g) For an independent psilocybin testing laboratory, the independent psilocybin testing
+15 laboratoryfailstosubstantiallymeettheperformancestandardsadoptedbythedepartmentbyrule.
+16 X. If the municipality or county where the licensed psilocybin production establishment will
+17 be located requires a local land use permit, a person who is issued a psilocybin production
+18 establishment license under this chapter shall submit to the licensing board a copy of the licensee’s
+19 approved land use permit within 120 days after the date on which the licensing board issues the
+20 license.
+21 XI. The department shall deposit fees imposed under this section into the therapeutic
+22 psilocybintreatmentfundunderRSA126-XX:11.
+23 XII. Thedepartmentshallbeginacceptingapplicationsunderthissectionwithin180daysof
+24 theeffectivedateofthischapter.
+25 XIII. The licensing board shall not issue more than 4 licenses to operate an independent
+26 psilocybintestinglaboratory.
+27 XIV. The department may operate or partner with a research university to operate an
+28 independentpsilocybintestinglaboratory.
+29 XV. Apsilocybinproductionestablishmentlicenseshallnotbetransferableorassignable.
+30 XVI. The licensing board’s authority to issue a license under this section shall be plenary
+31 andnotsubjecttoreview.
+32 126-XX:13 Operating Plan. A person applying for a psilocybin production establishment license
+33 or license renewal shall submit to the department for the department’s review a proposed operating
+34 planthatincludesallofthefollowing:
+35 I. A description of the physical characteristics of the proposed facility or, for a psilocybin
+36 cultivation facility, no more than 2 facility locations, including a floor plan and an architectural
+37 elevation.
+
+HB1796-FN-ASINTRODUCED
+-Page9-
+1 II. A description of the credentials and experience of each officer, director, and owner of the
+2 proposedpsilocybinproductionestablishment.
+3 III. Thepsilocybinproductionestablishment’semployeetrainingstandards.
+4 IV. Asecurityplan.
+5 V. Adescriptionofthepsilocybinproductionestablishment’sinventorycontrolsystem.
+6 VI. Storage protocols to ensure that psilocybin is stored in a manner that is sanitary and
+7 preservestheintegrityofthepsilocybin.
+8 VII. Forapsilocybincultivationfacility:
+9 (a) Psilocybin cultivation practices, including the facility’s intended pesticide and
+10 fertilizeruse.
+11 (b) Squarefootageundercultivationandanticipatedpsilocybinyield.
+12 VIII. Foranindependentpsilocybintestinglaboratory:
+13 (a) Psilocybinandpsilocybinproducttestingcapacity.
+14 (b) Psilocybinandpsilocybinproducttestingequipment.
+15 (c) Testing methods, standards, practices, and procedures for testing psilocybin or
+16 psilocybinproduct.
+17 126-XX:14 PsilocybinProductionEstablishment;GeneralOperationRequirements.
+18 I. Apsilocybinproductionestablishmentshalloperateinaccordancewiththeoperatingplan
+19 submitted by the psilocybin production establishment pursuant to RSA 126-XX:13. A psilocybin
+20 production establishment shall notify the department prior to implementing a change to the
+21 establishment’s operating plan. The department shall inform the establishment of any deficiencies
+22 inthenewoperatingplan.
+23 II. A psilocybin production establishment shall operate in a facility that has all of the
+24 following:
+25 (a) Asingle,securepublicentrance.
+26 (b) Asecuritysystemwithabackuppowersourcethatdoesallofthefollowing:
+27 (1) Detectsandrecordsentryintothepsilocybinproductionestablishment.
+28 (2) Provides notice of an unauthorized entry to law enforcement when the psilocybin
+29 productionestablishmentisclosed.
+30 (3) Securesanyareawherethepsilocybinproductionestablishmentstorespsilocybin
+31 orapsilocybinproduct.
+32 126-XX:15 InventoryControlSystem.
+33 I. Each psilocybin production establishment and qualified therapy provider shall maintain
+34 aninventorycontrolsystemthatmeetsalloftherequirementsofthissection.
+35 II. Aninventorycontrolsystemshalldoallofthefollowing:
+36 (a) Track, in real time, psilocybin and psilocybin product using a unique identifier from
+37 thetimepsilocybinisreadytobeharvested.
+
+HB1796-FN-ASINTRODUCED
+-Page10-
+1 (b) Maintain in real time a record of the amount of psilocybin or psilocybin product in
+2 thepossessionoftheestablishmentorprovider.
+3 (c) Includeavideorecordingsystemthatistamperproofanddoesallofthefollowing:
+4 (1) Tracks all handling and processing of psilocybin or psilocybin product in the
+5 establishmentorproviderlocation.
+6 (2) Storeseachvideorecordforatleast45days.
+7 III. A psilocybin production establishment or qualified therapy provider shall allow the
+8 department, or a financial institution designated by the department, to validate transactions to
+9 accesstheinventorycontrolsystematanytime.
+10 IV. The department shall adopt rules pursuant to RSA 541-Ato implement this section, and
+11 the rules shall include requirements for aggregate or batch records regarding the planting and
+12 propagation of psilocybin before being tracked, and which may include compatibility standards for
+13 inventorycontrolsystems.
+14 126-XX:16 Inspections.
+15 I. The department may inspect the records and facility of a psilocybin production
+16 establishment at any time during business hours to determine if the psilocybin production
+17 establishmentcomplieswiththischapter.
+18 II. Aninspectionunderthissectionmayincludeallofthefollowing:
+19 (a) Inspection of a site, facility, vehicle, book, record, paper, document, data, and other
+20 physicalorelectronicinformation.
+21 (b) Questioningofanyrelevantindividual.
+22 (c) Observation of an independent psilocybin testing laboratory’s methods, standards,
+23 practices,andprocedures.
+24 (d) The sampling of a specimen of psilocybin or psilocybin product sufficient for testing
+25 purposes.
+26 (e) Inspection of equipment, an instrument, a tool, or machinery, including a container
+27 orlabel.
+28 III. In conducting an inspection under this section, the department may review and make
+29 copies of a book, record, paper, document, data, or other physical or electrical information, including
+30 financialdata,salesdata,shippingdata,pricingdata,andemployeedata.
+31 IV. The department may impose a fee, or a license or registration suspension or revocation,
+32 ifapsilocybinproductionestablishmentfailstocomplywiththissection.
+33 126-XX:17 PsilocybinCultivationFacility;GrowingAndHarvesting.
+34 I. A psilocybin cultivation facility shall use a unique identifier that is connected to the
+35 facility’sinventorycontrolsystemtoidentifyallofthefollowing:
+36 (a) Eachuniqueharvestofpsilocybin.
+
+HB1796-FN-ASINTRODUCED
+-Page11-
+1 (b) Each batch of psilocybin that the facility transfers to an independent psilocybin
+2 testinglaboratory.
+3 II. A psilocybin cultivation facility shall identify psilocybin biomass as psilocybin byproduct
+4 orpsilocybinproductbeforetransferringthepsilocybinbiomassfromthefacility.
+5 126-XX:18 PsilocybinCultivationFacility;Sales.
+6 I. A psilocybin cultivation facility shall not sell a product other than a psilocybin product or
+7 educationalmaterialrelatedtothemedicaluseofpsilocybin.
+8 II. A psilocybin cultivation facility shall not sell a product to a person other than a qualified
+9 therapyprovideroraregisteredagentofaqualifiedtherapyprovider.
+10 126-XX:19 PsilocybinCultivationFacility;Labeling.
+11 I. A psilocybin cultivation facility shall label a psilocybin or psilocybin product with the
+12 amountofactivepsilocybininthepsilocybinorpsilocybinproduct.
+13 II. The department may adopt rules pursuant to RSA 541-A to establish labeling
+14 requirementsforapsilocybinproduct.
+15 126-XX:20 Independent Psilocybin Testing Laboratory; Psilocybin and Psilocybin Product
+16 Testing.
+17 I. ThedepartmentshalladoptrulespursuanttoRSA541-Atodoallofthefollowing:
+18 (a) Identify the adulterant analyses required to be performed on psilocybin or psilocybin
+19 product.
+20 (b) Determinethelevelofeachadulterantthatissafeforhumanconsumption.
+21 (c) Establish protocols for a recall of psilocybin or psilocybin product by a psilocybin
+22 productionestablishment.
+23 II. The department may require an independent psilocybin testing laboratory to test for a
+24 toxin if the department receives information indicating the potential presence of a toxin, or the
+25 department’s inspector has reason to believe a toxin may be present based on the inspection of a
+26 facility.
+27 III. A psilocybin production establishment may not transfer psilocybin or psilocybin product
+28 to a qualified therapy provider until an independent psilocybin testing laboratory tests a
+29 representativesampleofthepsilocybinorpsilocybinproductasprovidedbythedepartmentbyrule.
+30 IV. Before the sale of a psilocybin product, an independent psilocybin testing laboratory
+31 shallidentifyandquantifytheamountofactivepsilocybinpresentinthepsilocybinproduct.
+32 V. The department shall adopt rules under RSA 541-A for standards, methods, practices,
+33 and procedures for the testing of psilocybin and psilocybin products by an independent psilocybin
+34 laboratory.
+35 VI. The department may require an independent psilocybin testing laboratory to participate
+36 in a proficiency evaluation that the department conducts, or that an organization that the
+37 departmentapprovesconducts.
+
+HB1796-FN-ASINTRODUCED
+-Page12-
+1 126-XX:21 IndependentPsilocybinTestingLaboratory;Inspections.
+2 I. If anindependent psilocybintesting laboratorydetermines that theresults of a laboratory
+3 testindicatethatapsilocybinorpsilocybinproductbatchmaybeunsafeforhumanuse:
+4 (a) The independent psilocybin testing laboratory shall report the laboratory test results
+5 and the psilocybin or psilocybin product batch to the department and the psilocybin cultivation
+6 facilityfromwhichthebatchoriginated.
+7 (b) The departmentshall placeaholdonthepsilocybinorpsilocybinproducts toconduct
+8 a root cause analysis of the defective batch and make a determination as to the root cause. The
+9 psilocybin cultivation facility that grew the psilocybin may appeal the determination of the
+10 department.
+11 II. If the department determines that psilocybin or psilocybin product prepared by a
+12 psilocybin cultivation establishment is unsafe for human consumption, the department may seize,
+13 embargo,ordestroythepsilocybinorpsilocybinproductbatch.
+14 III. If an independent psilocybin testing laboratory determines that the results of a lab test
+15 indicate that the active psilocybin content of psilocybin or a psilocybin product batch diverges more
+16 than 10 percent from the amount the label indicates, the psilocybin cultivation facility shall not sell
+17 the psilocybin or psilocybin product batch unless the facility replaces the incorrect label with a label
+18 thatcorrectlyindicatestheactivepsilocybincontent.
+19 126-XX:22 PsilocybinElectronicVerificationSystem.
+20 I. The department shall adopt rules under RSA 541-A for the creation and operation of an
+21 electronicverificationsystemthat,atminimum,doesallofthefollowing:
+22 (a) Allows a qualified medical psilocybin provider to access dispensing information
+23 regardingapatientofthequalifiedmedicalpsilocybinprovider,electronicallyrecommendorrenewa
+24 recommendation for psilocybin or a psilocybin product, connect with an inventory control system
+25 that a psilocybin production establishment uses to track in real time and archive purchases of any
+26 psilocybin or psilocybin product, and connect with an inventory control system that a psilocybin
+27 productionestablishmentutilizes.
+28 (b) Allows the department access as necessary to carry out the department’s functions
+29 and responsibilities under this chapter, including inspections, appeals, and licensing responsibilities
+30 related to the participation of qualified medical psilocybin providers and qualified therapy providers
+31 intherecommendationandadministrationofpsilocybin.
+32 (c) Creates a record each time a person accesses the system that identifies the person
+33 whoaccessedthesystemandtheindividualwhoserecordsthepersonaccessed.
+34 (d) Keeps a current record of the total number of individuals who have a psilocybin
+35 recommendationissued.
+36 II. The department may release limited data from the electronic verification system for the
+37 purposesofconductingresearch,issuingrequiredreports,orforotherofficialdepartmentpurposes.
+
+HB1796-FN-ASINTRODUCED
+-Page13-
+1 III. This section shall not prohibit a person who rightfully obtains information from the
+2 state electronic verification system from including the information in the person’s medical chart or
+3 fileforaccessbyapersonauthorizedtoreviewthemedicalchartorfile,providingtheinformationto
+4 a person in accordance with the requirements of the federal Health Insurance Portability and
+5 Accountability Act of 1996, Pub. L. No. 104-191, or discussing or sharing that information about the
+6 patientwiththepatient.
+7 126-XX:23 Qualified Medical Psilocybin Provider Registration; Continuing Education;
+8 TreatmentRecommendation.
+9 I. An individual shall not recommend a medical psilocybin treatment unless the department
+10 registerstheindividualasaqualifiedmedicalpsilocybinproviderunderthissection.
+11 II. The department shall, within 15 days after the date the department receives an
+12 applicationfromanindividual,registerandissueaqualifiedmedicalpsilocybinproviderregistration
+13 cardtotheindividualiftheindividualdoesallofthefollowing:
+14 (a) Providestothedepartmenttheindividual’snameandaddress.
+15 (b) Provides to the department a report detailing the individual’s completion of the
+16 applicablecontinuingeducationrequirements.
+17 (c) Provides to thedepartment evidence that the individual holds alicense that qualifies
+18 theindividualasaqualifiedmedicalpsilocybinprovider.
+19 (d) Paysanapplicationfeeasdeterminedbythedepartmentbyrule.
+20 III. Anindividual applyingfor initial registrationor renewal of aregistrationshall complete
+21 acontinuingeducationprogramasdeterminedbythedepartmentbyrule. Thecontinuingeducation
+22 program shall be offered by the department or a continuing education provider approved by the
+23 department. Thecontinuingeducationprogramshalladdressallofthefollowing:
+24 (a) Thischapter.
+25 (b) Generalinformationaboutpsilocybinunderfederalandstatelaw.
+26 (c) Thelatestscientificresearchonmedicalpsilocybin,includingrisksandbenefit.
+27 (d) Bestpracticesforrecommendingtheformanddosageofpsilocybin.
+28 (e) Systemsandreceptorsaffectedbypsilocybin.
+29 (f) Mechanismsofaction.
+30 (g) Druginteractions.
+31 (h) Diagnosticcriteria.
+32 (i) Contraindications.
+33 (j) Sideeffectsandmitigationofsideeffects.
+34 (k) Administrativesetandsetting,includingphysicalpatientsafety.
+35 (l) Integration.
+36 (m) Potentialoutcomes.
+37 (n) Ethicalconsiderations.
+
+HB1796-FN-ASINTRODUCED
+-Page14-
+1 (o) Dischargesafetyplanning.
+2 II. An applicant for initial registration shall complete 16 hours of continuing education. A
+3 qualifiedmedicalpsilocybinprovidershallcomplete4hoursofcontinuingeducationevery2years.
+4 III. A qualified medical psilocybin provider shall not recommend psilocybin to a patient, or
+5 renewarecommendationforpsilocybin,unlessthequalifiedmedicalpsilocybinproviderhasdoneall
+6 ofthefollowing:
+7 (a) Completed and documented in the patient’s medical record a thorough assessment of
+8 thepatient’sconditionandmedicalhistorybasedontheappropriatestandardofcare.
+9 (b) Verifiedthatthepatientisatleast21yearsofage.
+10 (c) Met with the patient face to face if the qualified medical psilocybin provider has not
+11 recommendedapsilocybintreatmenttothepatientinthepast.
+12 IV. Except as provided in this paragraph, an individual shall not advertise that the
+13 individual recommends medical psilocybin treatment. A qualified medical psilocybin provider, or a
+14 clinicorofficethatemploysaqualifiedmedicalpsilocybinprovider,mayadvertisethefollowing:
+15 (a) Theprovider’sorclinic’snameandlogo.
+16 (b) That the individual is registered as a qualified medical psilocybin provider and
+17 recommendsmedicalpsilocybin.
+18 (c) Ascientificstudyregardingmedicalpsilocybinuse.
+19 V. A qualified medical psilocybin provider registration card shall expire 2 years from the
+20 date the department issued the card. The department shall adopt rules under RSA 541-A for the
+21 renewalofamedicalpsilocybinproviderregistrationcard.
+22 VI. Thedepartmentmayrevokeamedicalpsilocybinproviderregistrationcardifaqualified
+23 medicalpsilocybinproviderfailstomaintaincompliancewiththissection.
+24 VII. Aqualifiedmedicalpsilocybinprovidershallnotreceiveanycompensationorbenefitfor
+25 the qualified medical psilocybin provider’s medical psilocybin treatment recommendation from a
+26 psilocybinproductionestablishmentoranowner, officer,director,boardmember,employee,or agent
+27 ofapsilocybinproductionestablishment.
+28 VIII. On or before January 1 of each year, a qualified medical provider shall report to the
+29 departmentallofthefollowing:
+30 (a) That the qualified medical psilocybin provider, or the entity that employs the
+31 qualified medical psilocybin provider, represents online or in printed material that the qualified
+32 medical psilocybin provider is a qualified medical psilocybin provider or offers medical psilocybin
+33 recommendationstopatients,ifapplicable.
+34 (b) The fee amount that the qualified medical psilocybin provider, or the entity that
+35 employs the qualified medical psilocybin provider, charges a patient for a medical psilocybin
+36 recommendation, either as an actual cash rate or, if the psilocybin provider or entity bills insurance,
+37 anaveragecashrate.
+
+HB1796-FN-ASINTRODUCED
+-Page15-
+1 126-XX:24 StandardofCare;ProviderNotLiable;NoPrivateRightofAction.
+2 I. A qualified medical psilocybin provider or a qualified therapy provider who recommends
+3 or administers psilocybin in compliance with this chapter shall not be subject to a civil or criminal
+4 penalty, or license discipline, solely for violating a federal law or regulation that prohibits
+5 recommending,prescribing,possessing,ordispensingpsilocybinorapsilocybinproduct.
+6 II. This chapter shall not be construed to reduce or negate the duty of a qualified medical
+7 psilocybin provider or qualified therapy provider to use reasonable and ordinary care in the
+8 treatmentofapatient.
+9 16-XX:25 NondiscriminationforUseofPsilocybin.
+10 I. For purposes of medical care, including an organ or tissue transplant, a patient’s use of
+11 psilocybin as provided in this chapter is the equivalent of authorized use of any other medication
+12 used at the discretion of a physician, and does not constitute the use of an illicit substance or
+13 otherwisedisqualifyanindividualfromneededmedicalcare.
+14 II.(a) Except as otherwise provided in subparagraph (b), the state or a political subdivision
+15 of the state shall treat an employee’s use of medical psilocybin as provided in this chapter in the
+16 same way the state or political subdivision treats an employee’s use of any prescribed controlled
+17 substance, and an employee’s medical psilocybin recommendation from a qualified medical
+18 psilocybin provider in the same way the state or political subdivision treats an employee’s
+19 prescriptionforanyprescribedcontrolledsubstance.
+20 (b) A state or political subdivision employee who has a valid medical psilocybin
+21 registration shall not be subject to adverse action for failing a drug test due to psilocybin or psilocin
+22 without evidence that the employee was impaired or otherwise adversely affected in the employee’s
+23 job performance due to the use of medical psilocybin. This paragraph shall not apply in any of the
+24 followingcircumstances:
+25 (1) The employee’s use of psilocybin jeopardizes federal funding, a federal security
+26 clearance,oranyotherfederalbackgrounddeterminationrequiredfortheemployee’sposition.
+27 (2) The employee’s position is dependent on a license or peace officer certification
+28 thatissubjecttofederalregulations,including18U.S.C.section922(g)(3).
+29 (3) An employee who uses medical psilocybin during the 12 hours immediately
+30 precedingtheemployee’sshiftorduringtheemployee’sshift.
+31 III. An agency of this state or a political subdivision thereof, including any law enforcement
+32 agency,shall not removeor initiateproceedings toremoveachild under theage of 18from thehome
+33 of a parent based solely upon the parent’s possession or use of psilocybin as authorized under this
+34 chapter.
+35 126-XX:26 Insurance; Coverage Requirement. This chapter shall not be construed to require an
+36 insurer, a third-party administrator, or an employer to pay for or reimburse an employee for
+37 psilocybinorpsilocybinproduct.
+
+HB1796-FN-ASINTRODUCED
+-Page16-
+1 126-XX:27 Approved Drugs. This chapter shall not be construed to restrict or otherwise affect
+2 the prescription, distribution, or dispensing of a product that the United States Food and Drug
+3 Administrationhasapproved.
+4 126-XX:28 Qualified Therapy Provider Registration; Continuing Education; Psilocybin
+5 Administration.
+6 I. An individual shall not administer a medical psilocybin treatment unless the department
+7 registerstheindividualasaqualifiedmedicalpsilocybintherapistasprovidedinthissection.
+8 II. The department shall, within 15 days after the date the department receives an
+9 application from an individual, register and issue a qualified medical psilocybin therapist
+10 registrationcardtotheindividualiftheindividualdoesallofthefollowing:
+11 (a) Providestothedepartmenttheindividual’snameandaddress.
+12 (b) Provides to the department the address of the clinic at which the individual will be
+13 administeringpsilocybintopatients.
+14 (c) Provides to the department a report detailing the individual’s completion of the
+15 applicablecontinuingeducationrequirementsdescribedinparagraphIII.
+16 (d) Certifies to the department that the individual has installed and maintains an
+17 inventorycontrolsystem.
+18 (e) Provides tothedepartment evidencethat theindividualholds alicense that qualifies
+19 theindividualasaqualifiedmedicalpsilocybinprovider.
+20 (f) Paysanapplicationfeeasdeterminedbythedepartmentbyrule.
+21 (g) Provides tothedepartment anemergency transport planfor patients who experience
+22 amedicalemergencyduringthecourseoftreatment.
+23 III.(a) An individual applying for initial registration or renewal of a registration shall
+24 complete a continuing education program as determined by the department by rule. The continuing
+25 education program shall be offered by the department or a continuing education provider approved
+26 bythedepartment.
+27 (b) Thecontinuingeducationprogramshalladdressallofthefollowing:
+28 (1) Thischapter.
+29 (2) Generalinformationaboutpsilocybinunderfederalandstatelaw.
+30 (3) Thelatestscientificresearchonmedicalpsilocybin,includingrisksandbenefits.
+31 (4) Bestpracticesforrecommendingtheformanddosageofpsilocybin.
+32 (5) Systemsandreceptorsaffectedbypsilocybin.
+33 (6) Mechanismsofaction.
+34 (7) Druginteractions.
+35 (8) Diagnosticcriteria.
+36 (9) Contraindications.
+37 (10) Sideeffectsandmitigationofsideeffects.
+
+HB1796-FN-ASINTRODUCED
+-Page17-
+1 (11) Administrativesetandsetting,includingphysicalpatientsafety.
+2 (12) Integration.
+3 (13) Potentialoutcomes.
+4 (14) Ethicalconsiderations.
+5 (15) Dischargesafetyplanning.
+6 (c) An applicant for initial registration shall complete 80 hours of continuing education.
+7 Aqualifiedtherapyprovidershallcomplete4hoursofcontinuingeducationevery2years.
+8 III. Aqualifiedtherapyprovidershallonlyadministerpsilocybintoapatientwhenallofthe
+9 followingrequirementsaremet:
+10 (a) Thepatienthasarecommendationissuedbyaqualifiedmedicalpsilocybinprovider.
+11 (b) The qualified medical therapy provider has obtained and reviewed the patient’s
+12 mentalhealthhistory.
+13 (c) The qualified therapy provider has provided the patient with a safety data sheet
+14 createdbythedepartmentwhichoutlinesthepotentialrisksofpsilocybinuse.
+15 (d) There are unexpired rescue medications on site, as determined by the department by
+16 rule.
+17 (e) The administration session is video-recorded and the video recording is preserved for
+18 one year from the date of the session, or the patient gives written, informed consent waiving the
+19 video-recordingrequirement.
+20 (f) The qualified therapy provider has a contractual relationship with a licensed
+21 physician and surgeon or osteopathic physician and surgeon who remains on call during the course
+22 oftheadministrationsessionincasethepatientrequiresnonemergencymedicalintervention.
+23 IV. Aqualifiedtherapyprovidershallonlyadministerpsilocybinorapsilocybinproductina
+24 qualifiedtherapyproviderlocation.
+25 V.(a) Except as provided in subparagraph (b), an individual shall not advertise that the
+26 individualadministersmedicalpsilocybintreatment.
+27 (b) A qualified therapy provider or clinic or office that employs a qualified therapy
+28 providermayadvertisethefollowing:
+29 (1) Theprovider’sorclinic’snameandlogo.
+30 (2) That the individual is registered as a qualified therapy provider and administers
+31 medicalpsilocybin.
+32 (3) Ascientificstudyregardingmedicalpsilocybinuse.
+33 VI. A qualified therapy provider registration card expires 2 years from the date the
+34 departmentissues thecard. The department shall adopt rules for therenewal of aqualified therapy
+35 providerregistrationcard.
+36 VII. Within 7 days of the date on which an adverse event occurs, a qualified therapy
+37 providershallsubmittothedepartmentareportcontainingallofthefollowing:
+
+HB1796-FN-ASINTRODUCED
+-Page18-
+1 (a) Theageandsexofthepatient.
+2 (b) Thepatient’spreexistinghealthconditions,ifany.
+3 (c) Theamountofpsilocybinadministeredtothepatient.
+4 (d) Factorswhichcontributedtotheadverseevent.
+5 (e) Thenatureandseverityoftheadverseevent.
+6 (f) Theultimateoutcomeoftheadverseevent.
+7 (g) The department may revoke a qualified therapy provider registration card if a
+8 qualifiedtherapyproviderfailstomaintaincompliancewiththissection.
+9 126-XX:29 QualifiedTherapyProviderAgent;Registration.
+10 I. An individual shall not act as a qualified therapy provider agent unless the department
+11 registerstheindividualasaqualifiedtherapyprovideragent,regardlessofwhethertheindividualis
+12 aseasonal,temporary,orpermanentemployee.
+13 II. The department shall, within 15 business days after the date the department receives a
+14 complete application from a qualified therapy provider agent, register and issue a qualified therapy
+15 provider agent registration card to the prospective agent who successfully passes a criminal
+16 backgroundinvestigationiftheprospectiveagentdoesallofthefollowing:
+17 (a) Providestothedepartmenttheprospectiveagent’snameandaddress.
+18 (b) Paysafeetothedepartmentinanamountdeterminedbythedepartmentbyrule.
+19 III. A qualified therapy provider agent shall comply with either a certification standard
+20 developed by the department by rule adopted under RSA 541-A. The certification standard
+21 describedinthisparagraph shallincludetraininginNewHampshiremedicalpsilocybinlaw.
+22 IV. A qualified therapy provider agent registration card shall expire 2 years from the date
+23 the department issued the card. A qualified therapy provider agent may renew the agent’s
+24 registration card if the agent is still eligible to hold a qualified therapy provider agent registration
+25 cardandpaysafeedeterminedbythedepartmentbyrule.
+26 V. A qualified therapy provider agent shall carry the individual’s qualified therapy provider
+27 agentcardwiththeagentatalltimeswhentheagentishandlingpsilocybinorpsilocybinproduct. If
+28 a qualified therapy provider agent possesses psilocybin or psilocybin product and produces the
+29 registration card in the agent’s possession, there is a rebuttable presumption that the agent
+30 possesses the psilocybin or psilocybin product legally and a law enforcement officer does not have
+31 probable cause, based solely on the agent’s possession of the psilocybin or psilocybin product, to
+32 believethattheindividualisengaginginillegalactivity.
+33 126-XX:30 Reports.
+34 I. Within 180 days of the effective date of this chapter, and by November 1 of each year
+35 thereafter,thedepartmentshallsubmitareporttothegeneralcourtincludingallofthefollowing:
+36 (a) Thenumberofpatientsforwhompsilocybinhasbeenrecommended.
+37 (b) Theageandcountyofpatients.
+
+HB1796-FN-ASINTRODUCED
+-Page19-
+1 (c) Thenumberofqualifiedmedicalpsilocybinproviders.
+2 (d) Thenumberoflicenseapplicationsandrenewalapplicationsreceived.
+3 (e) Thenumberoflicensesthedepartmenthasissuedineachcounty.
+4 (f) Thenumberoflicensesthedepartmenthasrevoked.
+5 (g) Theexpensesincurredandrevenuesgeneratedfromthemedicalpsilocybinprogram.
+6 (h) Thenumberandnatureofadverseeventsreported.
+7 II. The department shall not include personally identifying information in the report
+8 submittedpursuanttoparagraphI.
+9 III. The department shall submit a report to the general court regarding the efficacy of
+10 medicalpsilocybin,includingrecommendations,within180daysoftheeffectivedateofthischapter.
+11 126-XX:31 Enforcement.
+12 Ifapersonthatis licensedorregisteredunder thischapterviolatesaprovisionofthischapter or
+13 rules adopted by the department pursuant to this chapter, or fails to comply with an enforcement
+14 action taken under this chapter, the department may: revoke the person’s license or registration
+15 card; decline to renew the person’s license or registration card; and assess an administrative fee, as
+16 determinedbythedepartmentbyrule.
+17 126-XX:32 Contracts Enforceable. It is the public policy of this state that contracts related to
+18 the production, sale, and administration of psilocybin pursuant to this chapter shall be enforceable.
+19 It is the public policy of this state that no contract entered into by a psilocybin production
+20 establishment, qualified medical psilocybin provider, or qualified therapy provider, or its employees
+21 or agents as permitted pursuant to a valid registration, or by an entity who allows property to be
+22 used by an establishment, qualified medical psilocybin provider, or qualified therapy provider, its
+23 employees, or its agents as permitted pursuant to a valid registration, shall be unenforceable on the
+24 basis that cultivating, obtaining, manufacturing, distributing, dispensing, transporting, selling,
+25 possessing,orusingpsilocybinisprohibitedbyfederallaw.
+26 126-XX:33 Psychedelic Compounds Study. The department of health and human services shall
+27 conduct a study regarding the use of psychedelic compounds other than psilocybin in the treatment
+28 of medical conditions. The department shall submit a report to the general court, including the
+29 department’sfindingsandrecommendations,within180daysoftheeffectivedateofthischapter.
+30 4 New Subparagraph; Application of Receipts; Therapeutic Psilocybin Treatment Fund. Amend
+31 RSA6:12,I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraph:
+32 (411) Moneys deposited in the therapeutic psilocybin treatment fund as established
+33 inRSA126-XX:11.
+34 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2997
+Revised1/14/26
+HB1796-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowing the use of psilocybin in approved clinical settings to treat qualified
+medicalconditions.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) Feeandotherrevenuedepositedintothetherapeuticpsilocybinfund
+Expenditures* $0 $1.27million+ $554,000+ $580,000+
+FundingSource(s) Revenuefromthetherapeuticpsilocybinfund;potentialgeneralfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a controlled program for the medical use of psilocybin, overseen by a
+regulatory board within the Department of Health and Human Services. The purpose is to
+permitregulatedtherapeuticuseofpsilocybinforconditionsincludingmajortreatment-resistant
+depression, Post-Traumatic Stress Disorder (PTSD), substance use disorders, end-of-life care,
+and other qualified conditions as approved. The bill sets up a licensing system for cultivation,
+testing, and therapy providers, plus regulatory requirements for training, data collection,
+reporting, and continuing education. The Department would be required to study additional
+psychedelic compounds for possible therapeutic use, with annual reports on efficacy, outreach,
+and adverse events mandated, along with confidentiality protections. The program would be
+funded by licensing fees for providers, cultivation facilities, and testing laboratories, as well as
+possible grants and other revenues specifically generated by the program’s activities. Licensing
+fees from initial application, renewal, and operational changes would be deposited directly into
+the therapeutic psilocybin treatment fund, creating a non-lapsing funding stream for oversight,
+annualassessments,andexpansionactivities.
+The Department assumes that it will need $1 million to $1.25 million in upfront costs to develop
+anITsystemtomanagetheprogram. TheDepartmentfurtheranticipatesneedingthefollowing
+fivenewpositions:
+
+· One general operations manager at a cost of $71,000 in FY27, $146,000 in FY28, and
+$153,000inFY29;
+· Onemanageratacostof$58,000inFY27,$118,000inFY28,and$124,000inFY29;
+· One medical health services manager at a cost of $62,000 in FY27, $127,000 in FY28,
+and$133,000inFY29;
+· Onenetworkadministratoratacostof$40,000inFY27,$83,000inFY28,and$86,000in
+FY29;and
+· Onemanageratacostof$39,000inFY27,$80,000inFY28,and$84,000inFY29.
+The total cost of the positions identified above is $270,000 in FY27, $554,000 in FY28, and
+$580,000inFY29.
+The Department notes that since many of the responsibilities contained in the bill are new and
+outside of its traditional purview, it is possible that costs will increase, perhaps significantly,
+beyond those depicted here. In addition, although the program is to be self-funded through fee
+and other revenue, upfront costs such as the new IT system will need to be funded before such
+revenueisavailable. Forthisreason,initialcostsmayresultingeneralfundexpenditures.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

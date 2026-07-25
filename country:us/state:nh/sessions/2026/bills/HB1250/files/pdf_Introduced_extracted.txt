@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1250-FN-ASINTRODUCED
+2026SESSION
+26-2752
+06/08
+1250-FN
+HOUSEBILL
+ANACT relative to notice, documentation, and job reinstatement requirements under
+leaveofabsenceforchildbirth,postpartum,andpediatricmedicalappointments.
+SPONSORS: Rep.Berry,Hills.44
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies that employees shall give at least 15 days’ notice to take leave for childbirth-
+related medical appointments and allows employers to deny job reinstatement if doing so would
+undulydisruptoperations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1250-FN-ASINTRODUCED
+26-2752
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to notice, documentation, and job reinstatement requirements under
+leaveofabsenceforchildbirth,postpartum,andpediatricmedicalappointments.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Leave of Absence to Attend Medical Appointments for Childbirth, Postpartum Care, and
+2 InfantPediatricMedicalAppointments. AmendRSA275:37-ftoreadasfollows:
+3 275:37-f Leave of Absence to Attend Medical Appointments for Childbirth, Postpartum Care,
+4 and Infant Pediatric Medical Appointments. No employer with 20 employees or more, shall deny an
+5 employee leave from work up to a total of 25 hours to attend the employee's own medical
+6 appointments for childbirth, postpartum care, or the employee's child's pediatric medical
+7 appointments within the first year of the child's birth or adoption. In the case where both parents of
+8 a child are employees of the same employer, the parents collectively may take unpaid leave
+9 according to this section, for a total of 25 hours in their child's first year. An employer is not
+10 required to pay an employee for any time taken as leave pursuant to this section. However, an
+11 employee shall be permitted to substitute any accrued vacation time or other appropriate paid leave
+12 for any leave taken pursuant to this section provided doing so does not violate any terms of
+13 employment. When the employee returns from their own or their child's health appointments, that
+14 employee's original job shall be made available to the employee by the employer if the job is still
+15 available and doing so would not unduly disrupt the operations of the employer. An
+16 employee who wishes to request leave under this section shall provide [reasonable] at least 15
+17 calendar days' notice to the employer prior to the leave and make a reasonable effort to schedule
+18 the leave so as not to unduly disrupt the operations of the employer. An employer may ask for, and
+19 the employee shall then provide, documentation from the employee to ensure the time is being
+20 usedforitsintendedpurpose.
+21 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2752
+11/4/25
+HB1250-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to notice, documentation, and job reinstatement requirements under
+leaveofabsenceforchildbirth,postpartum,andpediatricmedicalappointments.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

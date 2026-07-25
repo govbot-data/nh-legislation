@@ -1,0 +1,283 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1749-FN-ASINTRODUCED
+2026SESSION
+26-2419
+09/08
+1749-FN
+HOUSEBILL
+ANACT reinstatingthedeathpenaltyformurderoffenses.
+SPONSORS: Rep. S. King, Coos 4; Rep. Potucek, Rock. 13; Rep. J. Aron, Sull. 4; Rep. W.
+MacDonald, Rock. 16; Rep. Kesselring, Hills. 18; Rep. T. Dolan, Rock. 16; Rep.
+Bernardy, Rock. 36; Rep. D. McGuire, Merr. 14; Rep. L. Miner, Rock. 7; Rep.
+Thackston,Ches.12
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the death penalty for capital murder and for first degree and second degree
+murder. The bill further authorizes the court, in cases where the death penalty is not imposed, to
+sentencethedefendanttolifeinprisonoranyothertermthatthecourtorders.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1749-FN-ASINTRODUCED
+26-2419
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT reinstatingthedeathpenaltyformurderoffenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CapitalMurder;DeathPenaltyReinstituted. AmendRSA630:1,IIItoreadasfollows:
+2 III. A person convicted of a capital murder [shall be sentenced to imprisonment for life
+3 without the possibility for parole] may be punished by death or imprisonment for such term as
+4 thecourtmayorder.
+5 2 FirstDegreeMurder;DeathPenalty. AmendRSA630:1-a,IIItoreadasfollows:
+6 III. A person convicted of a murder in the first degree [shall be sentenced to life
+7 imprisonment and shall not be eligible for parole at any time] may be punished by death or
+8 imprisonmentforsuchtermasthecourtmayorder.
+9 3 SecondDegreeMurder;DeathPenalty. AmendRSA630:1-b,IItoreadasfollows:
+10 II. Murder in the second degree may be punished by death [shall be punishable by
+11 imprisonmentforlife]orimprisonmentforsuchtermasthecourtmayorder.
+12 4 ProcedureinMurderSeekingDeathPenalty. AmendRSA630:5toreadasfollows:
+13 630:5 Procedurein[CapitalMurder]MurderCasesWheretheDeathPenaltyisSought.
+14 I. Whenever the state intends to seek the sentence of death for the offense of [capital]
+15 murder,theattorneyforthestate,beforetrialoracceptancebythecourtofapleaofguilty,shallfile
+16 withthecourtandserveuponthedefendant,anotice:
+17 (a) Thatthestateintheeventofconvictionwillseekthesentenceofdeath;and
+18 (b) Setting forth the aggravating factors enumerated in paragraph VII of this section
+19 and any other aggravating factors which the state will seek to prove as the basis for the death
+20 penalty. The court may permit the attorney for the state to amend this notice for good cause shown.
+21 Anysuchamendednoticeshallbeserveduponthedefendantasprovidedinthissection.
+22 II. When the attorney for the state has filed a notice as required under paragraph I and the
+23 defendant is found guilty of or pleads guilty to the offense of [capital] murder, the judge who
+24 presided at the trial or before whom the guilty plea was entered, or any other judge if the judge who
+25 presided at the trial or before whom the guilty plea was entered is unavailable, shall conduct a
+26 separate sentencing hearing to determine the punishment to be imposed. The hearing shall be
+27 conducted:
+28 (a) Beforethejurywhichdeterminedthedefendant'sguilt;
+29 (b) Beforeajuryimpaneledforthepurposeofthehearingif:
+30 (1) Thedefendantwasconvicteduponapleaofguilty;or
+
+HB1749-FN-ASINTRODUCED
+-Page2-
+1 (2) The jury which determined the defendant's guilt has been discharged for good
+2 cause;or
+3 (3) After initial imposition of a sentence under this section, redetermination of the
+4 sentenceunderthissectionisnecessary.
+5 A jury impaneled under subparagraph (b) shall consist of 12 members, unless at any time before
+6 theconclusionofthehearing,thepartiesstipulatewiththeapprovalofthecourtthatitshallconsist
+7 ofanynumberlessthan12.
+8 III. Whenadefendantisfoundguiltyoforpleadsguiltytotheoffenseof[capital]murder,no
+9 presentencereportshallbeprepared. Inthesentencinghearing,informationmaybepresentedasto
+10 matters relating to any of the aggravating or mitigating factors set forth in paragraphs VI and VII,
+11 or any other mitigating factor or any other aggravating factor for which notice has been provided
+12 under subparagraph I(b). Where information is presented relating to any of the aggravating factors
+13 setforthinparagraphVII,informationmaybepresentedrelatingtoanyotheraggravatingfactorfor
+14 which notice has been provided under subparagraph I(b). Information presented may include the
+15 trial transcript and exhibits if the hearing is held before a jury or judge not present during the trial,
+16 or at the trial judge's discretion. Any other information relevant to such mitigating or aggravating
+17 factors may be presented by either the state or the defendant, regardless of its admissibility under
+18 the rules governing admission of evidence at criminal trials, except that information may be
+19 excluded if its probative value is substantially outweighed by the danger of unfair prejudice,
+20 confusion of the issues, or misleading the jury. The state and the defendant shall be permitted to
+21 rebut any information received at the hearing and shall be given fair opportunity to present
+22 argument as to the adequacy of the information to establish the existence of any of the aggravating
+23 or mitigating factors and as to appropriateness in that case of imposing a sentence of death. The
+24 state shall open and the defendant shall conclude the argument to the jury. The burden of
+25 establishing the existence of any aggravating factor is on the state, and is not satisfied unless
+26 established beyond a reasonable doubt. The burden of establishing the existence of any mitigating
+27 factorisonthedefendant,andisnotsatisfiedunlessestablishedbyapreponderanceoftheevidence.
+28 IV. The jury shall consider all the information received during the hearing. It shall return
+29 special findings identifying any aggravating factors set forth in paragraph VII, which are found to
+30 exist. If one of the aggravating factors set forth in subparagraph VII(a) and another of the
+31 aggravating factors set forth in subparagraphs VII(b)-(j) is found to exist, a special finding
+32 identifyinganyother aggravating factor for which noticehas been provided under subparagraph I(b)
+33 may be returned. A finding with respect to a mitigating factor may be made by one or more of the
+34 members of the jury, and any member of the jury who finds the existence of a mitigating factor may
+35 considersuchafactorestablishedforpurposesofthissection,regardlessofthenumberofjurorswho
+36 concur that the factor has been established. A finding with respect to any aggravating factor must
+37 be unanimous. If an aggravating factor set forth in subparagraph VII(a) is not found to exist or an
+
+HB1749-FN-ASINTRODUCED
+-Page3-
+1 aggravating factor set forth in subparagraph VII(a) is found to exist but no other aggravating factor
+2 set forth in paragraph VII is found to exist, the court [shall] may impose a sentence of life
+3 imprisonment without possibility of parole, or imprisonment for such term as the court may
+4 order. If an aggravating factor set forth in subparagraph VII(a) and one or more of the aggravating
+5 factors set forth in subparagraph VII (b)-(j) are found to exist, the jury shall then consider whether
+6 the aggravating factors found to exist sufficiently outweigh any mitigating factor or factors found to
+7 exist, or in the absence of mitigating factors, whether the aggravating factors are themselves
+8 sufficienttojustifyasentenceofdeath. Baseduponthisconsideration,ifthejuryconcludesthatthe
+9 aggravatingfactorsoutweighthemitigatingfactorsorthattheaggravatingfactors,intheabsenceof
+10 any mitigating factors, are themselves sufficient to justify a death sentence, the jury, by unanimous
+11 vote only, may recommend that a sentence of death be imposed [rather than a sentence of life
+12 imprisonment without possibility of parole]. The jury, regardless of its findings with respect to
+13 aggravating and mitigating factors, is never required to impose a death sentence and the jury shall
+14 besoinstructed.
+15 V. Upontherecommendationthatthesentenceofdeathbeimposed,thecourtshallsentence
+16 the defendant to death. Otherwise the court [shall] may impose a sentence of life imprisonment
+17 withoutpossibilityofparole,orimprisonmentforsuchtermasthecourtmayorder.
+18 VI. In determining whether a sentence of death is to be imposed upon a defendant, the jury
+19 shallconsidermitigatingfactors,includingthefollowing:
+20 (a) The defendant's capacity to appreciate the wrongfulness of his conduct or to conform
+21 hisconducttotherequirementsoflawwassignificantlyimpaired,regardlessofwhetherthecapacity
+22 wassoimpairedastoconstituteadefensetothecharge.
+23 (b) The defendant was under unusual and substantial duress, regardless of whether the
+24 duresswasofsuchadegreeastoconstituteadefensetothecharge.
+25 (c) The defendant is punishable as an accomplice (as defined in RSA 626:8) in the
+26 offense, which was committed by another, but the defendant's participation was relatively minor,
+27 regardlessofwhethertheparticipationwassominorastoconstituteadefensetothecharge.
+28 (d) Thedefendantwasyouthful,althoughnotundertheageof18.
+29 (e) Thedefendantdidnothaveasignificantpriorcriminalrecord.
+30 (f) Thedefendantcommittedtheoffenseunderseverementaloremotionaldisturbance.
+31 (g) Another defendant or defendants, equally culpable in the crime, will not be punished
+32 bydeath.
+33 (h) Thevictimconsentedtothecriminalconductthatresultedinthevictim'sdeath.
+34 (i) Other factors in the defendant's background or character mitigate against imposition
+35 ofthedeathsentence.
+
+HB1749-FN-ASINTRODUCED
+-Page4-
+1 VII. If thedefendant is found guiltyof orpleads guiltytotheoffense of [capital] murder, the
+2 following aggravating factors are the only aggravating factors that shall be considered, unless notice
+3 ofadditionalaggravatingfactorsisprovidedundersubparagraphI(b):
+4 (a) Thedefendant:
+5 (1) Purposelykilledthevictim;
+6 (2) Purposelyinflictedseriousbodilyinjurywhichresultedinthedeathofthevictim;
+7 (3) Purposelyengagedinconductwhich:
+8 (A) The defendant knew would create a grave risk of death to a person, other
+9 thanoneoftheparticipantsintheoffense;and
+10 (B) Resultedinthedeathofthevictim.
+11 (b) The defendant has been convicted of another state or federal offense resulting in the
+12 deathofaperson,forwhichasentenceoflifeimprisonmentorasentenceofdeathwasauthorizedby
+13 law.
+14 (c) The defendant has previously been convicted of 2 or more state or federal offenses
+15 punishable by a term of imprisonment of more than one year, committed on different occasions,
+16 involvingtheinflictionof,orattemptedinflictionof,seriousbodilyinjuryuponanotherperson.
+17 (d) The defendant has previously been convicted of 2 or more state or federal offenses
+18 punishable by a term of imprisonment of more than one year, committed on different occasions,
+19 involvingthedistributionofacontrolledsubstance.
+20 (e) Inthecommissionoftheoffenseof[capital]murder,thedefendantknowinglycreated
+21 agraveriskofdeathtooneormorepersonsinadditiontothevictimsoftheoffense.
+22 (f) Thedefendantcommittedtheoffenseaftersubstantialplanningandpremeditation.
+23 (g) Thevictimwasparticularlyvulnerableduetooldage,youth,orinfirmity.
+24 (h) The defendant committed the offense in an especially heinous, cruel or depraved
+25 mannerinthatitinvolvedtortureorseriousphysicalabusetothevictim.
+26 (i) Themurderwascommittedforpecuniarygain.
+27 (j) The murder was committed for the purpose of avoiding or preventing a lawful arrest
+28 oreffectinganescapefromlawfulcustody.
+29 VIII. If apersonis convictedof theoffense of [capital] murderand thecourt does not impose
+30 the penalty of death, the court [shall] may impose a sentence of life imprisonment without
+31 possibilityofparole,orimprisonmentforsuchtermasthecourtmayorder.
+32 IX. If the jury cannot agree on the punishment within a reasonable time, the judge [shall]
+33 may impose [the] a sentence of life imprisonment without possibility of parole, or imprisonment
+34 for such term as the court may order. If the case is reversed on appeal because of error only in
+35 the presentence hearing, the new trial which may be ordered shall apply only to the issue of
+36 punishment.
+
+HB1749-FN-ASINTRODUCED
+-Page5-
+1 X. In all cases of [capital] murder where the death penalty is imposed, the judgment of
+2 conviction and the sentence of death shall be subject to automatic review by the supreme court
+3 within60daysafter certificationbythesentencingcourt oftheentirerecord unlesstimeis extended
+4 for an additional period not to exceed 30 days by the supreme court for good cause shown. Such
+5 reviewbythesupremecourtshallhavepriorityoverallothercasesandshallbeheardinaccordance
+6 withrulesadoptedbysaidcourt.
+7 XI. Withregardtothesentencethesupremecourtshalldetermine:
+8 (a) Whether thesentence of deathwas imposed under theinfluence of passion, prejudice
+9 oranyotherarbitraryfactor;and
+10 (b) Whether the evidence supports the jury's finding of an aggravating circumstance, as
+11 authorizedbylaw;and
+12 (c) Whetherthesentenceofdeathisexcessiveordisproportionatetothepenaltyimposed
+13 insimilarcases,consideringboththecrimeandthedefendant.
+14 XII. In addition to its authority regarding correction of errors, the court, with regard to
+15 reviewofdeathsentences,shallbeauthorizedto:
+16 (a) Affirmthesentenceofdeath;or
+17 (b) Setthesentenceasideandremandthecaseforresentencing.
+18 XIII. When the penalty of death is imposed, the sentence shall be that the defendant be
+19 imprisoned in the state prison at Concord until the day appointed for his execution, which shall not
+20 be within one year from the day sentence is passed. The punishment of death shall be inflicted by
+21 continuous, intravenous administration of a lethal quantity of an ultrashort-acting barbiturate in
+22 combination with a chemical paralytic agent until death is pronounced by a licensed physician
+23 accordingtoacceptedstandardsofmedicalpractice.
+24 XIV. The commissioner of corrections or his designee shall determine the substance or
+25 substances to be used and the procedures to be used in any execution, provided, however, that if for
+26 any reason the commissioner finds it to be impractical to carry out the punishment of death by
+27 administration of the required lethal substance or substances, the sentence of death may be carried
+28 out by hanging under the provisions of law for the death penalty by hanging in effect on December
+29 31,1986.
+30 XV. An execution carried out by lethal injection shall be performed by a person selected by
+31 the commissioner of the department of corrections and trained to administer the injection. The
+32 person administering the injection need not be a physician, registered nurse, or licensed practical
+33 nurse,licensedorregisteredunderthelawsofthisoranyotherstate.
+34 XVI. The infliction of the punishment of death by administration of the required lethal
+35 substance or substances in the manner required by this section shall not be construed to be the
+36 practiceof medicine, and any pharmacist or pharmaceutical supplier is authorized to dispense drugs
+
+HB1749-FN-ASINTRODUCED
+-Page6-
+1 to the commissioner of corrections or his designee, without prescription, for carrying out the
+2 provisionsofthissection,notwithstandinganyotherprovisionoflaw.
+3 XVII. The governor and council or their designee shall determine the time of performing
+4 suchexecutionand shall beresponsiblefor providing facilities for theimplementationthereof. In no
+5 event shall a sentence of death be carried out upon a pregnant woman or a person for an offense
+6 committedwhileaminor.
+7 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2419
+12/15/25
+HB1749-FN-FISCALNOTE
+ASINTRODUCED
+ANACT reinstatingthedeathpenaltyformurderoffenses.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+$0to$3,500,000 $0to$3,500,000 $0to$3,500,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+as introduced, as it is awaiting information from the Department of Justice. The Department
+was originally contacted on 11/20/25 for a fiscal note worksheet and again on 12/09/25. When
+completed,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice
+METHODOLOGY:
+ThisbillreinstatesthedeathpenaltyinNewHampshireforcapitalmurder,firstdegreemurder,
+and second degree murder. It allows the death penalty to be imposed in any murder case where
+the State files notice of its intent to seek death, and it authorizes the court to impose a sentence
+oflifeimprisonmentoranyothertermifdeathisnotimposed.
+The Judicial Branch states this bill would authorize the death penalty for a substantially larger
+category of cases than current law, including capital murder, first degree murder and second
+degree murder. Death penalty cases require intensive judicial resources throughout pretrial
+proceedings,juryselection,trial,andpost-convictionlitigation. TheBranchstatesitisunknown
+how many murder cases will qualify for death penalty litigation under this bill. If no cases are
+filed, there would be no fiscal impact. However, if one or more cases are brought, the Branch
+indicates that additional staffing specifically a Superior Court judge, a court monitor, a court
+operations specialist, and a law clerk would be needed. The Judicial Branch estimates the fiscal
+
+impact is indeterminable, but could be between $500,000 and $1,000,000 per year, beginning in
+FY 2027 as cases beginto advance through thecourts. The Branchstates it cannot absorb these
+costswithinitsoperatingbudgetandthatthebilldoesnotauthorizenewpositions.
+The Judicial Council states this bill would result in 10 to 20 new death-eligible cases per year,
+and the Council assumes most defendants would qualify for indigent defense. Because the
+current public defender contract excludes capital representation, these cases would be handled
+by assigned counsel unless the contract is amended. The Council estimates each case would
+involve significant attorney and expert expenditures. Using historical data from prior New
+Hampshire capital cases and projected future caseload volume, the Council estimates costs of
+$1,000,000 to $2,500,000 per year, depending on the number of cases pending simultaneously
+andwhethercasesproceedthroughappeals.
+AGENCIESCONTACTED:
+JudicialBranch,DepartmentofJustice,andJudicialCouncil

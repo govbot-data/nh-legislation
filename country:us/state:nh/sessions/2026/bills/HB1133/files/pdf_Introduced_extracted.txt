@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1133 -ASINTRODUCED
+2026SESSION
+26-2301
+08/09
+1133
+HOUSEBILL
+ANACT definingandregulatinglivestockguardiandogs.
+SPONSORS: Rep.Schamberg,Merr.6
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill defines livestock guardian dogs and requires that their status as such be noted at the
+time of annual dog registration with the town or city clerk. This bill also creates penalties for
+nuisancelivestockguardiandogs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1133-ASINTRODUCED
+26-2301
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT definingandregulatinglivestockguardiandogs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Livestock Guardian Dogs; Registration; Nuisance Behavior. Amend RSA 466 by
+2 insertingaftersection1-dthefollowingnewsection:
+3 466:1-e LivestockGuardianDogs.
+4 I. For the purposes of this section, “livestock guardian dog” means a dog that is specifically
+5 trained and used for the purpose of protecting livestock from predators, and that is kept primarily
+6 withlivestockinapastureorsimilarenvironment.
+7 II. At the time of annual dog registration under RSA 466:1, the owner or keeper of a
+8 livestock guardian dog may designate the dog as such on the registration form provided by the town
+9 orcityclerk.
+10 III. The owner shall provide a signed statement affirming that the dog is used for the
+11 purposeofguardinglivestock,andmayberequiredtoprovideproofoflivestockownershiporlease.
+12 IV. Thetownorcityclerkshallmaintainarecordofalldogsregisteredaslivestockguardian
+13 dogsandmayissueadistincttagornotationforsuchdesignation.
+14 V. AlivestockguardiandogshallbesubjecttotheprovisionsofRSA466:31andRSA466:31-
+15 aregardingnuisance,menace,orviciousbehavior,exceptasoutlinedinRSA466:30-c.
+16 2 New Section; Livestock Guardian Dogs. Amend RSA 466 by inserting after section 30-b the
+17 followingnewsection:
+18 466:30-c LivestockGuardianDogs.
+19 I. Notwithstanding any other provision of law, a dog may run at large while it is actively
+20 engagedintheprotection,herdingormanagementoflivestock,providedthatsuchdogis:
+21 (a) Located on a parcel of land consisting of not less than one acre per dog, with a
+22 minimumparcelsizeof5acresfortheuseofmorethan2livestockguardiandogs;
+23 (b) RegisteredwiththetownorcityasalivestockguardiandogunderRSA466:1-e.
+24 (c) Trainedorintrainingforlivestockprotection;and
+25 (d) Notexhibitingpersistentnuisancebehavior.
+26 II. A livestock guardian dog shall not be deemed to be at large for the purposes of RSA
+27 466:28, provided that the livestock guardian dog remains within the boundaries of the parcel
+28 describedinparagraphIanddoesnottrespassontoneighboringpropertiesorpublicways.
+29 III. Barking by a livestock guardian dog shall be considered excessive and subject to
+30 enforcementunderRSA466:31if:
+
+HB1133 -ASINTRODUCED
+-Page2-
+1 (a) Itcontinuesfor morethan10consecutiveminutes withoutthepresenceofapredator
+2 orlivestockdistress;
+3 (b) It occurs repeatedly between the hours of 10:00 p.m. and 6:00 a.m. without
+4 documentedpredatoractivity;or
+5 (c) Itinterfereswiththereasonableuseandenjoymentofneighboringproperties.
+6 IV. Upon verified complaint, the local animal control authority or law enforcement agency
+7 mayissue:
+8 (a) Awrittenwarningforafirstviolation.
+9 (b) A civil penalty of $150 for a second violation, and require a reduction in the number
+10 ofdogsortheimplementationofbarkmitigationmeasures.
+11 (c) A civil penalty of $500 for a third violation, and the revocation of the owner's right to
+12 allowlivestockguardiandogstorunatlargefor12months.
+13 (d) A civil penalty of $1,000 for each subsequent violation and referral of the matter to
+14 thedepartmentofagriculture,markets,andfoodforfurtherenforcement.
+15 V. Nothing in this section shall be construed to prohibit the use of livestock guardian dogs
+16 by farms operating on parcels of 10 acres or more, provided that such use does not constitute a
+17 nuisanceunderRSA466:31orotherapplicablelaw.
+18 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

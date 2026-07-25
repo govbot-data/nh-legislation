@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1006 -ASINTRODUCED
+2026SESSION
+26-2293
+06/09
+1006
+HOUSEBILL
+ANACT relativetoon-siteparkingrequirementsforaccessorydwellingunits.
+SPONSORS: Rep. Preece, Hills. 17; Rep. Maggiore, Rock. 23; Rep. Turcotte, Straf. 4; Rep. R.
+Brown,Carr.8
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that parking for accessory dwelling units be provided on-site or at a legally
+dedicated off-site location only with municipal approval, removing property owner discretion over
+parkingplacement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1006-ASINTRODUCED
+26-2293
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoon-siteparkingrequirementsforaccessorydwellingunits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 On-siteParkingRequirementforAccessoryDwellingUnits. AmendRSA674:72,IVtoreadas
+2 follows:
+3 IV. Any municipal regulation applicable to single-family dwellings shall also apply to the
+4 combination of a principal dwelling unit and an accessory dwelling unit, including but not limited to
+5 lot coverage standards and standards for maximum occupancy per bedroom consistent with policy
+6 adopted by the United States Department of Housing and Urban Development, provided that such
+7 municipal regulations shall not be more restrictive for accessory dwelling units than for any single-
+8 family use in the same zoning district. If a municipality has established regulations requiring
+9 parking for the principal dwelling unit, it may require up to one additional parking space for each
+10 accessory dwelling unit. Required parking spaces [may] shall be provided either on-site or at a
+11 legally dedicated off-site location[, at the property owner's discretion] as approved by the
+12 municipality.
+13 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

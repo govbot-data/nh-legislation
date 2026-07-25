@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1643-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2989
+05/09
+1643
+HOUSEBILL
+ANACT relativetothereportofaguardianadlitem.
+SPONSORS: Rep. Rice, Hills. 38; Rep. Noble, Hills. 2; Rep. Notter, Hills. 12; Rep. Packard,
+Rock. 16; Rep. Osborne, Rock. 2; Rep. Nelson, Rock. 13; Rep. DeSimone, Rock. 18;
+Rep.Kofalt,Hills.32;Sen.Abbas,Dist22;Sen.Sullivan,Dist18
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the authority of the court to request that the guardian ad litem's report
+propose an allocation of decision-making responsibility; a parenting plan; or a specific parenting
+schedule.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1643-VERSIONADOPTEDBYBOTHBODIES
+26-2989
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothereportofaguardianadlitem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 GuardianadLitem. AmendRSA461-A:16,I-ctoreadasfollows:
+2 I-c. Theguardianadlitemshallfileareportofhisorherinvestigationnolaterthanthedate
+3 of the final pretrial hearing. The report shall not propose any of the following [unless specifically
+4 requestedbythecourt]:
+5 (a) Anallocationofdecision-makingresponsibility;
+6 (b) Aparentingplan;or
+7 (c) Aspecificparentingschedule.
+8 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

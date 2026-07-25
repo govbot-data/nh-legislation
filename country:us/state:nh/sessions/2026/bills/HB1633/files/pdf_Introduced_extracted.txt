@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1633-FN-ASINTRODUCED
+2026SESSION
+26-3011
+09/06
+1633-FN
+HOUSEBILL
+ANACT expanding the information provided to survivors of sexual assault regarding their
+existingrights.
+SPONSORS: Rep. Read, Rock. 10; Rep. Popovici-Muller, Rock. 17; Rep. Layon, Rock. 13; Rep.
+Wheeler,Hills.33
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands the information provided to sexual assault survivors, defines sexual assault
+survivor for purposes of receiving such information, and requires certain entities to provide the
+noticeofrightstosexualassaultsurvivors.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1633-FN-ASINTRODUCED
+26-3011
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT expanding the information provided to survivors of sexual assault regarding their
+existingrights.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SexualAssaultSurvivors'Rights. AmendRSA21-M:18toreadasfollows:
+2 21-M:18 SexualAssaultSurvivors'Rights.
+3 I. In addition to the rights of a crime victim provided in RSA 21-M:8-k, a sexual assault
+4 survivorshallhavethefollowingrights:
+5 (a) The right not to be prevented from, or charged for, receiving a medical examination,
+6 including any individual element or elements of a state sexual assault evidence collection
+7 kit.
+8 (b) Therightto:
+9 (1) Have a sexual assault evidence collection kit or its probative contents preserved,
+10 without charge, for the duration of the maximum applicable statute of limitations or 20 years,
+11 whicheverisshorter;
+12 (2) Be informed of any result of a sexual assault evidence collection kit, including a
+13 DNA profile match, toxicology report, or other information collected as part of a medical forensic
+14 examination,ifsuchdisclosurewouldnotimpedeorcompromiseanongoinginvestigation;and
+15 (3) Be informed in writing of policies governing the collection and preservation of a
+16 sexualassaultevidencecollectionkit,includingtheinformationrequiredbyRSA21-M:19,IV.
+17 (c) The right, if the state intends to destroy or dispose of a sexual assault evidence
+18 collection kit or its probative contents before the expiration date of the maximum applicable statute
+19 oflimitations,to:
+20 (1) Upon written request, receive written notification from the prosecutor or
+21 appropriate state official with custody not later than 60 days before the date of the intended
+22 destructionordisposal;and
+23 (2) Upon written request, be granted further preservation of the kit or its probative
+24 contents.
+25 (d) Therighttobeinformedoftherightsunderthissection.
+26 II. Inthis[subdivision,]chapter,"sexualassaultsurvivor"means:
+27 (a) Any individual who asserts that they have been subject to an offense under
+28 RSA 632-A:2, 632-A:3, or 632-A:4 including, but not limited to, penetrative or non-
+29 penetrative sexual assault or the administering of a drug or other intoxicating substance
+30 aspartofasexualassaultwhichfallsunderthereferencedstatutes.
+
+HB1633-FN-ASINTRODUCED
+-Page2-
+1 (b) An individual reporting an attempted rape who asserts sexual contact as
+2 defined by RSA 632-A:1, IV and described within RSA 632-A:4 shall not be denied survivor
+3 rightsbecauseoflackofknowledgeofcorrectlegalterminology.
+4 (c) "Sexualassaultsurvivor"includesadeceasedvictimofsexualassault.
+5 2 New Paragraphs; Notification of Sexual Assault Survivors' Rights. Amend RSA 21-M:19 by
+6 insertingafterparagraphIIthefollowingnewparagraphs:
+7 III. The attorney general shall post prominently on the attorney general’s website the
+8 document or documents required by RSA 21-M:8-d, II which summarize the policies to inform a
+9 sexualassaultsurvivor,listedentities,andthegeneralpublicregarding:
+10 (a) RightsunderthissectionandRSA21-M:18,I.
+11 (b) Policies governing the collection and preservation of a sexual assault evidence
+12 collectionkitestablishedinRSA21-M:8-d,Iincluding:
+13 (1) Howlongafteranassaultsamples,includingblood,urineandotherevidence,are
+14 generallycollected;
+15 (2) The evidentiary value of all clothing and other material present at the time of
+16 assault;and
+17 (3) The ability to collect evidence for an assault which occurred in a location outside
+18 ofNewHampshire.
+19 (c) That sexual contact whichwould beconsidered aggravated felonious sexual assault if
+20 itwaspenetrationismisdemeanorsexualassault.
+21 IV. A health care provider, law enforcement officer, or other employee of an entity listed in
+22 paragraphI,whointhecourseoftheirprofessionalresponsibilitieshascontactwithasexualassault
+23 survivor, shall provide the individual with the document intended for sexual assault survivors
+24 provided bytheattorneygeneral pursuant toparagraphIIIor aninternallycreated document which
+25 contains,atminimum,thesamematerialinformation.
+26 3 Standardized Rape Protocol and Kit and Domestic Violence Protocol. Amend RSA 21-M:8-d to
+27 readasfollows:
+28 21-M:8-d StandardizedRapeProtocolandKitandDomesticViolenceProtocol.
+29 I. The department of justice shall adopt, pursuant to RSA 541-A, and implement rules
+30 establishing a standardized rape protocol and kit and a domestic violence protocol to be used by all
+31 physicians or hospitals in this state when providing physical examinations of victims of alleged
+32 sexualoffensesandallegeddomesticabuse,asdefinedinRSA173-B:1.
+33 II. The department of justice shall create adocument summarizing the information
+34 required by RSA 21-M:19, III so that victims of sexual assault, health care providers, and
+35 the general public can easily access the details of the protocols required in paragraph I
+36 necessarytoprotecttherightsofsexualassaultsurvivors.
+37 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3011
+12/4/25
+HB1633-FN-FISCALNOTE
+ASINTRODUCED
+ANACT expanding the information provided to survivors of sexual assault regarding their
+existingrights.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $1,158,000 $1,159,000 $1,164,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill expands the information that must be provided to sexual assault survivors regarding
+their existing rights under RSA 21-M, revises and broadens the definition of “sexual assault
+survivor,” requires the Department of Justice (DOJ) to prominently post specific sexual-assault-
+related rights and evidence-handling information on its website, and requires health care
+providers, law enforcement officers, and other listed entities to give survivors a written notice of
+rights. ThebillalsorequiresDOJtoupdateandmaintainthestandardizedrapekitprotocoland
+domesticviolenceprotocolandtocreateadocumentsummarizingtheseprocedures.
+TheDepartmentofJusticestatesthatimplementationofthebillwillrequireexpandedevidence-
+collection responsibilities, survivor notification processes, and statewide distribution of required
+written materials. DOJ estimates it will need approximately 1,000 additional sexual assault
+evidence collection kits, including tracking materials, with startup costs of about $50,000. It
+further estimates that toxicology testing costs of $551 per kit could total up to $1,002,000
+annually. These would represent ongoing annual costs for kit-related testing and coordination.
+To manage these new statutory responsibilities, DOJ anticipates requiring one new full-time
+Program Coordinator (23-2010 PARALGLS-LGL ASSTS-6 SOC23-06), for a cost of
+approximately $106,000 in FY 2027, $107,000 in FY 2028, and $112,000 in FY 2029 for this
+position.
+
+This bill does not provide funding nor does it authorize positions. If the position is authorized
+and funded for FY 2027 it is assumed the cost of the position will be included in the DOJ's FY
+2028andFY2029budgetrequest.
+AGENCIESCONTACTED:
+DepartmentofJustice

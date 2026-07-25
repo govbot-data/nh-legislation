@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1484 -ASINTRODUCED
+2026SESSION
+26-2690
+06/08
+1484
+HOUSEBILL
+ANACT establishingastateminimumwageandprovidingforincrementalincreases.
+SPONSORS: Rep. Staub, Hills. 25; Rep. D. Germana, Ches. 1; Rep. Schultz, Merr. 29; Rep.
+Seibert,Hills.21;Sen.Long,Dist20
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesastateminimumwageandprovidesforincrementalincreases.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1484-ASINTRODUCED
+26-2690
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingastateminimumwageandprovidingforincrementalincreases.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MinimumHourlyRate. RSA279:21isrepealedandreenactedtoreadasfollows:
+2 279:21 MinimumHourlyRate.
+3 I. Unless otherwise provided by statute, no person, firm, or corporation shall employ any
+4 employeeatanhourlyratelowerthanthegreaterof:
+5 (a) The minimum hourly rate established under the federal minimum wage law, as
+6 amended;or
+7 (b) Theminimumhourlyrateestablishedinparagraph II.
+8 II. Theminimumhourlyrateunderthissectionshallbe:
+9 (a) BeginningSeptember 1, 2026, $12.00 per hour.
+10 (b) BeginningJanuary 1, 2027, $14.00 per hour.
+11 (c) BeginningJanuary 1, 2028, $15.50 per hour.
+12 (d) BeginningJanuary 1, 2029, $17.00 per hour.
+13 III. Each successive rate set forth in paragraph II shall supersede the rate previously in
+14 effect,andthatrateshallremainineffectuntilamendedbyasubsequentactofthegeneralcourt.
+15 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

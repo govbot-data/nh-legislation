@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1249 -ASINTRODUCED
+2026SESSION
+26-2756
+05/09
+1249
+HOUSEBILL
+ANACT authorizing pharmacists to provide certain medical devices associated with
+prescribedmedication.
+SPONSORS: Rep. Veilleux, Hills. 34; Rep. Beauchemin, Hills. 3; Rep. S. King, Coos 4; Rep.
+Kofalt, Hills. 32; Rep. Layon, Rock. 13; Rep. M. Pearson, Rock. 34; Rep. Weber,
+Ches.5;Rep.Woods,Merr.30;Sen.Watters,Dist4
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill amends the definition of the practice of pharmacy under RSA 318 and authorizes
+pharmacists to prescribe certain prescription devices necessary for the appropriate delivery or
+administrationofaprescribeddrug.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1249-ASINTRODUCED
+26-2756
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing pharmacists to provide certain medical devices associated with
+prescribedmedication.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Pharmacists and Pharmacies; Definition of the Practice of Pharmacy Added. Amend RSA
+2 318:1,XIVtoreadasfollows:
+3 XIV. "Practice of pharmacy" means the professional acts performed by a pharmacist and
+4 shall include the interpretation and evaluation of prescription orders; the administration,
+5 compounding, dispensing, labeling and distribution of drugs and devices; the participation in drug
+6 selection and drug-related device selection; drug evaluation; utilization or regimen review; the
+7 monitoring of drug therapy and use; medication therapy management in accordance with
+8 collaborative pharmacy practice agreements; the proper and safe storage and distribution of drugs
+9 and devices, and the proper maintenance of proper records; the responsibility of advising, when
+10 necessary or when regulated, of therapeutic values, hazards, and use of drugs and devices; the
+11 initiating, ordering, administering, and analyzing of FDA approved Emergency Use Authorization
+12 SARS-CoV-2 (COVID-19) point-of-care diagnostic kits (COVID-19 tests or test kits) to detect SARS-
+13 CoV-2 or its antibodies, so long as the pharmacist has received the adequate education and training
+14 to do so; and the offering or [performing] performance of these acts, services, operations, or
+15 transactions necessary in the conduct, operation, management, and control of pharmacy. The
+16 practice of pharmacy includes the authority to prescribe certain prescription devices as
+17 providedinRSA318:47-n.
+18 2 DefinitionofPrescriptionDevice. AmendRSA318:1,XVI-atoreadasfollows:
+19 XVI-a. "Prescriptiondevice" or "legenddevice" means aninstrument, apparatus, implement,
+20 machine, contrivance, implant, or other similar or related article, including any component part or
+21 accessory, [which] that under federal or state law is restricted [for] to sale or distribution [and
+22 useonlyupon]ontheorderofalicensedpractitioner. Prescriptiondeviceincludesthosedevices
+23 describedinRSA318:47-n,I.
+24 3 New Section; Pharmacists and Pharmacies; Prescription Devices. Amend RSA 318 by
+25 insertingaftersection47-mthefollowingnewsection:
+26 318:47-n PrescriptionDevices.
+27 I. A pharmacist may prescribe and dispense the following prescription devices or supplies
+28 approved by the federal Food and Drug Administration when necessary for the appropriate delivery
+29 oradministrationofaprescribeddrugordevice:
+30 (a) Inhalationspacers;
+
+HB1249 -ASINTRODUCED
+-Page2-
+1 (b) Nebulizers;
+2 (c) Supplies for medical devices, including but not limited to continuous positive airway
+3 pressure(CPAP)machinesuppliesandinsulinpumpsupplies;
+4 (d) Normalsalineandsterilewaterforirrigationorforinjectionwithaprescriptiondrug
+5 ordevice;
+6 (e) Diabetesblood-sugartestingsupplies;and
+7 (f) Penneedlesandsyringesformedicationuse.
+8 II. A pharmacist who prescribes under this section shall comply with the standards for
+9 competentpharmacypracticeadoptedbytheboardofpharmacy.
+10 III. Whenapharmacistprescribesanddispensesadeviceunderthissection,thepharmacist
+11 shall make a reasonable effort to notify the prescribing practitioner or the patient’s primary care
+12 provider, if known, of the device prescribed and dispensed. Such notification shall not be required
+13 priortodispensing.
+14 IV. The board of pharmacy, in consultation with the board of medicine and the board of
+15 nursing,shalladoptrulesunderRSA541-Atoimplementthissection.
+16 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

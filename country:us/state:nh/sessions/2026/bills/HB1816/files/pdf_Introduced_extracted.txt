@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1816-FN-ASINTRODUCED
+2026SESSION
+26-2410
+07/08
+1816-FN
+HOUSEBILL
+ANACT relative to the intervention of the department of education into a school or school
+districtduringafinancialemergency.
+SPONSORS: Rep. Ladd, Graf. 5; Rep. Spilsbury, Sull. 3; Rep. Popovici-Muller, Rock. 17; Rep.
+Peeples,Hills.14;Rep.Kofalt,Hills.32;Sen.Ward,Dist8;Sen.Innis,Dist7
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the commissioner of the department of education to initiate and implement a
+district recovery plan if a school district's financial and operational condition is deemed a financial
+emergencybythestateboardofeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1816-FN-ASINTRODUCED
+26-2410
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the intervention of the department of education into a school or school
+districtduringafinancialemergency.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; School Performance and Accountability; Powers of the Department of Education
+2 RSA193-H:5isrepealedandreenactedtoreadasfollows:
+3 193-H:5 PowersoftheDepartmentofEducation.
+4 I. Nothinginthischaptershallbeconstruedtopermiteitherthedepartmentofeducationor
+5 the state board of education to take control of the daily operations of any local public school district
+6 or school, unless the financial and operational condition of the local public school district or school is
+7 deemedafinancial emergencybythestateboard of educationnecessitatingdepartment intervention
+8 and oversight. In such an emergency, the commissioner shall have authority to assist the school
+9 district or school in developing a recovery plan and to oversee such plan to leverage resources to
+10 addresscorefinancialneeds. Therecoveryplanmayconsider:
+11 (a) Alteringadministrativepracticesandoperatingconditions;
+12 (b) Reallocatingschooldistrictorschoolresources;
+13 (c) Renegotiatingcontractsandagreements;and
+14 (d) Department oversight of school district or school governance, organizational
+15 structure,and/oradministrativeservicesidentifiedinRSA194-C:4,IIforuptooneyear.
+16 II. Forpurposesofthissection,"schoolinfinancialemergency"or"schooldistrictinfinancial
+17 emergency" necessitates that immediate oversight by the department is imperative for the school
+18 district or school to meet its financial, operational, and instructional responsibilities for all school-
+19 age children. The state board of education shall adopt rules, pursuant to RSA 541-A, relative to
+20 implementing corrective and technical assistance to a school district or school in a state of financial
+21 emergency.
+22 III. The department of education may request up to $200,000 from the education trust fund
+23 into a non-lapsing reserve fund for the purpose of corrective and technical assistance necessary to
+24 implementadistrictfinancialemergencyrecoveryplanpursuanttoRSA193-H:5.
+25 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2410
+12/16/25
+HB1816-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the intervention of the department of education into a school or school
+districtduringafinancialemergency.
+FISCALIMPACT:
+The Office of Legislative Budget Assistant is unable to complete a fiscal note for this bill as it is
+awaiting information from the Department of Education. The Department was initially
+contactedon 11/19/25forafiscalnoteworksheet,withfollow-upcontactmadeon12/5/25. When
+completed,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+AGENCIESCONTACTED:
+DepartmentofEducation

@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1709-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0943h
+2026SESSION
+26-2669
+04/09
+1709-FN
+HOUSEBILL
+ANACT prohibiting certain unlawfully present felons from occupying or renting real
+property.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. Berry, Hills. 44; Rep. Kuttab, Rock. 17; Rep.
+Peternel, Carr. 6; Rep. Rice, Hills. 38; Rep. Perez, Rock. 16; Sen. Innis, Dist 7;
+Sen.Sullivan,Dist18
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits certain unlawfully present aliens with prior felony convictions from occupying
+or renting real property and authorizes sheriffs to arrest such individuals during service of a writ of
+possession.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1709-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0943h 26-2669
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting certain unlawfully present felons from occupying or renting real
+property.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Prohibited Occupancy or Tenancy of Real Property by Certain Illegal Aliens.
+2 AmendRSA540byinsertingaftersection30thefollowingnewsection:
+3 540:31 ProhibitedOccupancyorTenancyofRealPropertybyCertainIllegalAliens.
+4 I. An individual commits an offense if such individual is an occupant or tenant of real
+5 propertywho:
+6 (a) IsanalienillegallypresentintheUnitedStates;
+7 (b) Has previously been convicted of a felony in the United States and deported or left
+8 theUnitedStatesaftersuchconviction;and
+9 (c) The status of such individual is confirmed by the Department of Homeland Security
+10 pursuantto8UnitedStatesCode,section1252c.
+11 II. AnyindividualwhoviolatesparagraphIshallbeguiltyofaclassAmisdemeanor.
+12 III. A sheriff shall, to the extent possible and their ability to safely do so, arrest any
+13 individual discovered during service of the writ of possession under RSA 540:14 to be in violation of
+14 paragraphIorotherwisesubjecttoarrestunder8UnitedStatesCode,section1252c.
+15 IV. If any provision of this section or the application thereof to any person or circumstances
+16 is held invalid, such invalidity shall not affect other provisions or applications of the section which
+17 can be given effect without the invalid provision or application, and to this end the provisions of this
+18 sectionaredeclaredtobeseverable.
+19 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2669
+3/17/26
+HB1709-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0943h)
+ANACT prohibiting certain unlawfully present felons from occupying or renting real
+property.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

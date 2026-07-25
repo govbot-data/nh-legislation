@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1652-FN-ASINTRODUCED
+2026SESSION
+26-3100
+06/07
+1652-FN
+HOUSEBILL
+ANACT relative to expedited permitting and third-party inspections for residential and
+minorhomeimprovements.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Clarifiesproceduresandrequirementsforthird-partybuildinginspectionsandapprovals.
+II. Defines"minorhomeimprovement."
+III. Setsnewinsurancelimitsforapprovedagencies.
+IV. Allowsexpeditedreviewusingsoftwareforminorprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1652-FN-ASINTRODUCED
+26-3100
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to expedited permitting and third-party inspections for residential and
+minorhomeimprovements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Definitions. Amend 2025, 246:3, I by inserting after subparagraph (i) the
+2 followingnewsubparagraph:
+3 (j) “Minor home improvement” means the construction, reconstruction, alteration,
+4 renovation, repair, modernization, conversion, improvement, removal, or demolition of any
+5 residential structure or accessory building of a residential structure where the total value of the
+6 homeimprovementconstructionisequaltoorlessthan$100,000.
+7 2 ApprovedAgencies. Amend2025,246:4,Vtoreadasfollows:
+8 V. Anapprovedagencymayreviewconstructiondocumentsorprovideinspectionsonlyifthe
+9 approved agency maintains insurance for professional liability covering all services performed as an
+10 independent provider, unless such regulatory authority waives such requirement. Such insurance
+11 shall have minimum policy limits of $500,000 per occurrence and $1 million in the aggregate
+12 for any minor home improvement, $2 million per occurrence and $4 million in the aggregate for
+13 any project other than a minor home improvement with a construction cost of $5 million or less,
+14 and$4millionperoccurrenceand$8millionintheaggregateforanyprojectwithaconstructioncost
+15 of over $5 million. A certificate of insurance indicating the above shall be provided to the building
+16 officialbeforeservicesunderthissectionarestarted,andsuchcertificateshallrequirenotificationto
+17 thebuildingofficial14dayspriortoanycancellationorchangestothepolicy.
+18 3 ScopeofApprovedAgencyServices. Amend2025,246:6,Itoreadasfollows:
+19 I. The approved agency shall examine the construction documents, including deferred or
+20 amendeddocumentsdescribedinthisact. Forminorhomeimprovements,theapprovedagency
+21 may use automated software to review construction documents. Upon determining
+22 compliance, the approved agency shall prepare an affidavit or affidavits certifying that the
+23 documents were reviewed pursuant to this section and that to the best of the knowledge,
+24 information, and belief of the reviewer, the documents comply with the New Hampshire state
+25 buildingcodeandanyapplicablemunicipalamendments.
+26 4 MunicipalResponsibilities. Amend2025,246:9,IIIandIVtoreadasfollows:
+27 III.(a) No more than 14 calendar days after receipt of a construction document affidavit, an
+28 application for a building permit, and the payment of applicable fees, the building official shall issue
+29 thebuildingpermit or shall provideawrittennoticetotheapplicant identifyingthespecific features
+30 that do not comply with the applicable codes and regulations or the lack of sign-offs from other
+
+HB1652-FN-ASINTRODUCED
+-Page2-
+1 federal, state, or municipal agencies, as well as the specific code or regulation reference. If no
+2 written notice of deficiencies is provided within the prescribed period, the document or permit shall
+3 be deemed approved as a matter of law, and any necessary permit or permits shall be issued by the
+4 building official on the next business day. If the permit applicant submits revisions, the building
+5 official has the remainder of the tolled business days plus one business day from the date of
+6 resubmittal to issue the building permit or provide a second written notice to the permit applicant
+7 stating which of the previously identified documents or permit features remain in noncompliance
+8 with the applicable codes, with specific reference to the relevant code or regulation reference. If the
+9 building official does not provide the second written notice within the prescribed period, the
+10 construction document or building permit shall be deemed approved as a matter of law, and any
+11 necessarypermitsshallbeissuedbythebuildingofficialonthenextbusinessday.
+12 (b) For minor home improvements, construction may commence upon
+13 submissionbyanapprovedagencyofaconstructiondocumentaffidavit,anapplicationfor
+14 a building permit, and the payment of applicable fees. Notwithstanding the requirements
+15 set out in an application for a building permit or in paragraph III, the approved agency
+16 shall only be required to submit to the building official the construction documents that
+17 they have deemed necessary to review to determine whether the minor home improvement
+18 meets applicable codes pursuant to session law 2025, 246:5, III. The period for a building
+19 official to issue a building permit or provide a written notice to an applicant pursuant to
+20 paragraphIII(a)shallbe2businessdays.
+21 IV.(a) No more than 10 calendar days after the receipt of the inspection affidavit indicating
+22 the completion of all necessary inspections, and after the payment of all outstanding required fees, a
+23 certificate of occupancy or completion shall be issued by the building official, or the building official
+24 shall provide a notice to the approved agency of any specific deficiencies in the affidavit, with
+25 reference to specific code chapters and if the regulatory authority does not issue the certificate of
+26 occupancy or completion or provide notice within the required number of days, the certificate of
+27 occupancy or completion is considered granted as a matter of law and shall be issued the next
+28 businessday.
+29 (b) For minor home improvements, the period for a building official to issue a
+30 certificate of occupancy or completion or provide a written notice to the approved agency
+31 pursuanttoparagraphIV(a)shallbe2businessdays.
+32 5 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3100
+12/1/25
+HB1652-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to expedited permitting and third-party inspections for residential and
+minorhomeimprovements.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+This bill expands third party inspection services, defines minor home improvements, adjusts
+insurance limits for minor home improvements, and allows expedited review using software for
+minorprojects.
+The New Hampshire Municipal Association states the annual potential impact of additional
+costs is in the range of less than $10,000 per municipality with potentially lower amounts for
+smaller municipalities and potentially higher amounts for larger municipalities associated with
+approving inspectors for minor home improvements so these projects can be reviewed and
+approved within the two day period. Additionally, municipalities may have increased legal costs
+of more than $100,000 if a municipality misses the two day window. Ultimately, this bill’s fiscal
+impactonlocalgovernmentsisindeterminable.
+Thisbillisnotexpectedtohaveanimpactonstateorcountyrevenueorexpenditures.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation

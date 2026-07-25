@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1136 -ASINTRODUCED
+2026SESSION
+26-2289
+06/07
+1136
+HOUSEBILL
+ANACT relativetoaccessorydwellingunits.
+SPONSORS: Rep. Turcotte, Straf. 4; Rep. Kuttab, Rock. 17; Rep. B. Boyd, Hills. 12; Rep. Perez,
+Rock. 16; Rep. Terry, Belk. 7; Rep. Sirois, Hills. 32; Rep. Foote, Rock. 13; Rep.
+Nelson,Rock.13
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Allows municipalities to authorize accessory dwelling units by matter of right, conditional use
+permit,orspecialexception.
+II. PermitsmunicipalitiestoallowmorethanoneADUpersingle-familydwelling.
+III. Clarifies that if a zoningordinance contains no ADU provisions, one ADU shall bedeemed a
+permitted accessory use without municipal conditions other than building permits, if required by
+municipalordinance.
+IV. Expands ingress and egress standards to apply to all ADUs, not just attached units, and
+prohibitsmunicipalitiesfromlimitingthechoiceofaccessmethod.
+V. Allows municipalities to enforce local septic pumping ordinances while maintaining the
+prohibitiononrequiringseparatesystemsforprincipalandaccessoryunits.
+VI. Affirms municipal authority to require owner occupancy of one unit, without specifying
+whichunit,andtoestablishreasonableenforcementregulations.
+VII. Distinguishes between attached and detached ADUs for purposes of aesthetic regulation
+andsizelimits;attachedADUsmayberegulatedforaestheticcontinuitywiththeprincipaldwelling;
+detached ADUs may be subject to aesthetic standards only if such standards apply to the principal
+dwelling;andmunicipalitiesmaysetminimumandmaximumsizelimits,butmaynotrestrictADUs
+tolessthan750squarefeet.
+VIII. Allows municipalities to impose a familial relationship between occupants of the ADU and
+theprincipaldwelling.
+IX. Allows municipalities to prohibit ADUs associated with townhouses, manufactured housing
+orrented/leasedland.
+X. Prohibits condominium conveyance of an ADU separate from the principal dwelling unless
+expresslyallowedbythemunicipality.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+
+HB1136 -ASINTRODUCED
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1136-ASINTRODUCED
+26-2289
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoaccessorydwellingunits.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 AccessoryDwellingUnitsDefinitions. AmendRSA674:71toreadasfollows:
+2 674:71 Definitions.
+3 Asusedinthissubdivision:
+4 I. "Accessory dwelling unit" means a residential living unit that is located on a lot
+5 containing a single-family dwelling that provides independent living facilities for one or more
+6 persons,includingprovisionsforsleeping,eating,cooking,andsanitation,onthesameparcelofland
+7 as the principal dwelling unit it accompanies. Accessory dwelling units may be constructed at the
+8 sametimeastheprincipaldwellingunit.
+9 II. "Attached unit" means a unit that is within or physically connected to the principal
+10 dwellingunit[,orcompletelycontainedwithinapreexistingdetachedstructure].
+11 III. "Detached unit" means a unit that is neither within nor physically connected to the
+12 principaldwellingunit[,norcompletelycontainedwithinapreexistingdetachedstructure].
+13 2 AccessoryDwellingUnits. AmendRSA674:72toreadasfollows:
+14 674:72 AccessoryDwellingUnits.
+15 I. A municipality that adopts a zoning ordinance pursuant to the authority granted in this
+16 chapter shall allow one accessory dwelling units in all zoning districts that permit single-family
+17 dwellingseitherasamatterofright,byconditionalusepermitpursuanttoRSA674:21orby
+18 special exception. [One accessory dwelling unit, which may be either attached or detached, shall
+19 be allowed as a matter of right.] The municipality shall allow one accessory dwelling unit without
+20 additional requirements for lot size, except as described by this section, setbacks, aesthetic
+21 requirements, design review requirements, frontage, space limitations, or other controls beyond
+22 what would be required for a single-family dwelling without an accessory dwelling unit. The
+23 municipality may not impose greater requirements for a septic system for a single-family home with
+24 an accessory dwelling unit than is required by the department of environmental services, except
+25 that any local septic pumping ordinances shall apply. The municipality[ is not required to]
+26 may allow more than one accessory dwelling unit for any single-family dwelling. The municipality
+27 may prohibit accessory dwelling units associated with multiple single-family dwellings attached to
+28 each other, such as townhouses, and with manufactured housing as defined in RSA 674:31.
+29 The municipality may prohibit accessory dwelling units associated with rented or leased land.
+30 Subsequent condominium conveyance of any accessory dwelling unit separate from that of the
+
+HB1136 -ASINTRODUCED
+-Page2-
+1 principal dwelling unit shall be prohibited, notwithstanding the provisions of RSA 356-B:5, unless
+2 allowedbythemunicipality.
+3 II. If a zoning ordinance contains no provisions pertaining to accessory dwelling units, then
+4 one accessory dwelling unit shall be deemed a permitted accessory use, [as a matter of right,] to any
+5 single-family dwelling in the municipality, and no municipal permits or conditions shall be required
+6 otherthanbuildingpermits,ifrequiredby[statute]municipalordinance.
+7 III. [Attached] Accessory dwelling units shall have either an independent means of ingress
+8 and egress or ingress and egress through a common space shared with the principal dwelling.
+9 However,themunicipalityshallnotlimitthechoiceofingressandegress.
+10 IV. Any municipal regulation applicable to single-family dwellings shall also apply to the
+11 combination of a principal dwelling unit and an accessory dwelling unit, including but not limited to
+12 lot coverage standards and standards for maximum occupancy per bedroom consistent with policy
+13 adopted by the United States Department of Housing and Urban Development[, provided that such
+14 municipal regulations shall not be more restrictive for accessory dwelling units than for any single-
+15 family use in the same zoning district. If a municipality has established regulations requiring
+16 parking for the principal dwelling unit, it may require up to one additional parking space for each
+17 accessory dwelling unit. Required parking spaces may be provided either on-site or at a legally
+18 dedicated off-site location, at the property owner's discretion]. A municipality may require
+19 adequate parking to accommodate an accessory dwelling unit, and such parking
+20 requirements shall not be more restrictive for accessory dwelling units than for single-
+21 familydwellingsinthesamezoningdistrict.
+22 V. The applicant for a permit to construct an accessory dwelling unit shall make [adequate]
+23 necessary provisions for water supply and sewage disposal for the accessory dwelling unit in
+24 accordance with RSA 485-A:38, but separate systems shall not be required for the principal and
+25 accessory dwelling units. In order to comply with this paragraph and prior to constructing an
+26 accessory dwelling unit, an application for approval for a sewage disposal system shall be submitted
+27 in accordance with RSA 485-A as applicable. The approved sewage disposal system shall be
+28 installediftheexistingsystemhasnotreceivedconstructionapprovalandapprovaltooperateunder
+29 currentrulesorpredecessorrules,orthesystemfailsorotherwiseneedstoberepairedorreplaced.
+30 VI. Amunicipalitymayrequireowneroccupancyofoneofthedwellingunits,butitshallnot
+31 specify which unit the owner must occupy. A municipality may require that the owner demonstrate
+32 that one of the units is his or her principal place of residence, and the municipality may establish
+33 reasonableregulationstoenforcesucharequirement.
+34 VII. A municipality may [apply aesthetic standards to accessory dwelling units only if it has
+35 also applied such standards to the principal dwelling unit] establish standards for attached
+36 accessory dwelling units for the purpose of maintaining the aesthetic continuity with the
+37 principal dwelling unit as a single-family dwelling. [The total living space of the accessory
+
+HB1136 -ASINTRODUCED
+-Page3-
+1 dwelling unit shall not exceed 950 square feet unless otherwise authorized by the municipality.] A
+2 municipality may [not] also establish minimum and maximum sizes for an attached
+3 accessory dwelling unit, [restrict the total living space] provided that size may not be
+4 restrictedtolessthan750squarefeet.
+5 VIII. [A municipality shall not require a familial relationship between the occupants of an
+6 accessorydwellingunitandtheoccupantsofaprincipaldwellingunit.] Amunicipalitymayapply
+7 aesthetic standards to detached accessory dwelling units only if it has also applied such
+8 standards to the principal dwelling unit. The total living space of the detached accessory
+9 dwelling unit shall not exceed 950 square feet unless otherwise authorized by the
+10 municipality. Amunicipality may notrestrictthetotal livingspaceto lessthan750 square
+11 feet.
+12 IX. [A municipality shall not limit an accessory dwelling unit to only one bedroom.] A
+13 municipality may require a familial relationship between the occupants of an accessory
+14 dwelling unit and the occupants of a principal dwelling unit. The municipality may
+15 require that if a property has any accessory dwelling units, the units shall meet the
+16 definition of workforce housing in RSA 674:58, IV as it pertains to rental housing, and
+17 shall meet the definition of affordable in RSA 674:58, I. A municipality may require a
+18 restrictive covenant to be recorded in the registry of deeds to enforce compliance with these
+19 definitions.
+20 X. An accessory dwelling unit may be deemed a unit of workforce housing for the purpose of
+21 satisfying the municipality's regional fair share obligation under RSA 674:59, III if the unit meets
+22 thecriteriainRSA674:58,IVforrentalunits.
+23 XI. A municipality shall allow accessory dwelling units to be converted from existing
+24 structures, including but not limited to detached garages[, regardless of whether such structures
+25 violate current dimensional requirements for setbacks or lot coverage]. A municipality may
+26 require that the existing structure shall be in compliance with all other local zoning
+27 ordinancesandregulationsbeforeitcanbeconverted.
+28 XII. A municipality shall not deny the establishment of a separate electrical panel and
+29 separateelectricalservicetotheaccessorydwellingunit.
+30 3 Repeal. RSA674:73,relativetodetachedaccessorydwellingunits,isrepealed.
+31 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

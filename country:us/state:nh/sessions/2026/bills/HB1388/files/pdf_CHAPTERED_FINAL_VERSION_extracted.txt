@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER121
+HB1388-FINALVERSION
+2026SESSION
+26-3190
+08/07
+1388
+HOUSEBILL
+ANACT relativetotheformofballotforamendmentstotheconstitution.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Burnham, Straf. 2; Rep. McFarlane, Graf. 18; Rep.
+SabourinditChoiniere,Rock.30;Rep.Wood,Merr.13
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilllimitstheformofballotforamendmentstotheconstitutiontooneamendmentperquestion.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER121
+HB1388-FINALVERSION
+26-3190
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheformofballotforamendmentstotheconstitution.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 121:1 FormofBallot. AmendRSA663:3toreadasfollows:
+2 663:3 Form of Ballot. The following words shall be printed above the constitutional amendment
+3 questions on all ballots containing such questions: "Questions Relating to Constitutional Amendments
+4 Proposed by the Convention to Revise the Constitution" or "Questions Relating to Constitutional
+5 Amendments Proposed by the Legislature to Revise the Constitution," whichever is appropriate. A
+6 constitutionalquestionshallinclude,inthetextofthequestion,thetextofthearticleoftheconstitutionas
+7 it is proposed to be amended, and the results of the vote taken on ordering the proposed amendment to
+8 third reading in both the senate and the house of representatives or at the constitutional convention,
+9 whichever is appropriate. Inallcircumstances,eachconstitutionalamendmentquestionshallbe
+10 presentedinamannerthatthevoterismakingasinglechoiceonasingleconstitutionalamendment
+11 question. Undernocircumstanceshallavoterbeaskedtomakeasinglevoteonmultipleconstitutional
+12 amendmentquestions.
+121:2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:June05,2026
+EffectiveDate:June05,2026

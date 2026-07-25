@@ -1,0 +1,544 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1642-FN-ASINTRODUCED
+2026SESSION
+26-3048
+05/09
+1642-FN
+HOUSEBILL
+ANACT relativetoextremeriskprotectionorders.
+SPONSORS: Rep. Selig, Straf. 10; Rep. Horrigan, Straf. 10; Rep. Meuse, Rock. 37; Rep. Muns,
+Rock. 29; Rep. Bay, Straf. 21; Rep. Seibert, Hills. 21; Rep. Beauchemin, Hills. 3;
+Sen.Altschiller,Dist24;Sen.PerkinsKwoka,Dist21
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a procedure for issuing extreme risk protection orders to protect against
+personswhoposeanimmediateriskofharmtothemselvesorothers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1642-FN-ASINTRODUCED
+26-3048
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoextremeriskprotectionorders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose. The general court finds that allowing family or household members or
+2 law enforcement officers to petition for a court order to temporarily restrict access to firearms by
+3 individuals who are found to pose an immediate risk to themselves or others would advance public
+4 safety. Thisactshallnotapplyincasesofdomesticabuseorstalkingwherethepetitioneriseligible
+5 topetitionforreliefunderRSA173-BorRSA633:3-a.
+6 2 New Chapter; Extreme Risk Protection Orders. Amend RSA by inserting after chapter 159-F
+7 thefollowingnewchapter:
+8 CHAPTER159-G
+9 EXTREMERISKPROTECTIONORDERS
+10 159-G:1 Definitions. Inthischapter:
+11 I. “Extreme risk protection order” means a temporary, ex parte, or final order issued
+12 pursuant to this chapter to temporarily restrict access to firearms by individuals who are found to
+13 poseanimmediateorsignificantrisktothemselvesorothers.
+14 II. “Familyorhouseholdmember”means:
+15 (a) A spouse, ex-spouse, person cohabiting with another person, and a person who
+16 cohabited with another person in the preceding 24 months but who no longer shares the same
+17 residence.
+18 (b) A parent or other person related by consanguinity or affinity, other than a minor
+19 childwhoresideswiththerespondent.
+20 III. “Firearm”means anyweapon, includingastarter gun,whichwill,is designedto, or may
+21 bereadilyconvertedtoexpelaprojectilebytheactionofanexplosive.
+22 IV. “Intimate partner” means a person who is currently or who, in the preceding 24 months,
+23 has been involved in a romantic relationship with another, whether or not such relationship was
+24 eversexuallyconsummated.
+25 V. “Law enforcement officer” means a sheriff or deputy sheriff of any county, a state police
+26 officer,aconstableorpoliceofficerofanycityortown,oraconservationofficer.
+27 VI. “Petitioner” means a law enforcement officer, family or household member, or intimate
+28 partner of the respondent who files a petition for an extreme risk protection order under this
+29 chapter.
+30 VII. “Respondent”meansanindividualwhoisidentifiedastherespondentinapetitionfiled
+31 underthischapter.
+
+HB1642-FN-ASINTRODUCED
+-Page2-
+1 159-G:2 JurisdictionandVenue.
+2 I. The district division of the circuit court shall have jurisdiction over all proceedings under
+3 thischapter.
+4 II. The petitioner may commence proceedings pursuant to RSA 159-G:3 in the county or
+5 districtwhereeitherthepetitionerortherespondentresides.
+6 III. Proceedings under this chapter may be transferred to another court upon the motion of
+7 anypartyorofthecourtastheinterestsofjusticeortheconvenienceofthepartiesmayrequire.
+8 159-G:3 CommencementofProceedings;Petition;Hearing.
+9 I. A petitioner may seek relief under this chapter by filing a petition, in the county or
+10 district where the petitioner or respondent resides, alleging that the respondent poses a significant
+11 riskofcausingbodilyinjurytohimselforherselforothersbyhavingafirearmoranyammunitionin
+12 hisorhercustodyorcontrolorbypurchasing,possessing,orreceivingafirearmoranyammunition.
+13 II. Apetitionforanextremeriskprotectionordershall:
+14 (a) Be accompanied by a written affidavit, signed by the petitioner under oath. The
+15 affidavit shall contain specific factual allegations regarding the factors that give rise to petitioner’s
+16 belief that respondent poses a significant risk of causing bodily injury to himself or herself or others
+17 byhavingafirearm oranyammunitioninhisorher custodyorcontrol orbypurchasing, possessing,
+18 orreceivingafirearmoranyammunition.
+19 (b) Identify the quantities, types, and locations of all firearms and ammunition the
+20 petitionerbelievestobeintherespondent’scurrentownership,possession,custody,orcontrol.
+21 (c) Identify if there is a known existing protection order in effect against the respondent
+22 underRSA173-Boranyotherapplicablestatute.
+23 (d) Identify what steps if any have been taken to voluntarily remove firearms from the
+24 respondent.
+25 III. Any person who files a petition under this chapter containing allegations the petitioner
+26 knows to be false, or who files a petition with intent to harass the respondent, shall be subject to
+27 criminalpenalties,assetforthinRSA159-G:11.
+28 IV. Noticeof thependencyof theactionand of thefactsalleged against therespondent shall
+29 be given to the respondent, either personally or as provided in paragraph V. The petitioner shall be
+30 permitted to supplement or amend the petition only if the respondent is provided an opportunity
+31 prior to the hearing to respond to the supplemental or amended petition. All petitions filed under
+32 this chapter shall include the home and work telephone numbers of the respondent, if known.
+33 Notice of the whereabouts of the petitioner may be kept confidential by order of the court for good
+34 cause shown. Any answer by the respondent shall be filed with the court and a copy shall be
+35 providedtothepetitionerbythecourt.
+36 V. No filing fee or fee for service of process shall be charged for a petition or response under
+37 thissection, andthepetitioneror respondentmayproceedwithout legalcounsel. Alaw enforcement
+
+HB1642-FN-ASINTRODUCED
+-Page3-
+1 officer shall serve process under this section. Any proceeding under this chapter shall not preclude
+2 anyotheravailablecivilorcriminalremedy.
+3 VI. The clerk of the circuit court shall supply forms for petitions and for relief under this
+4 chapter designed to facilitate pro se proceedings. All such petitions shall contain the following
+5 statement: “I swear that the foregoing information is true and correct to the best of my knowledge.
+6 Iunderstandthatmakingafalsestatementonthispetitionwillsubjectmetocriminalpenalties.”
+7 VII. The findings of facts shall be final, but questions of law may be transferred from the
+8 circuitcourttothesuperiorcourt.
+9 VIII.(a) The court shall hold a hearing within 7 days of the filing of a petition under this
+10 sectionorwithin4daysofserviceofprocessupontherespondent,whicheveroccurslater.
+11 (b) The time frame established in this paragraph may be extended for an additional 7
+12 days upon motion by the respondent for good cause shown. A recusal by the judge or any act of God
+13 or closingof the court that interferes withtheoriginallyscheduled hearingshall not because for the
+14 dismissal of the petition. The court shall reschedule any hearing under this section in an
+15 expeditiousmanner.
+16 IX. Inanyproceedingunder this chapter, the court shall not bebound bythetechnical rules
+17 ofevidenceandmayadmitevidencewhichitconsidersrelevant,reliable,andmaterial.
+18 159-G:4 TemporaryRelief.
+19 I. A petitioner may request, and the court may enter, a temporary extreme risk protection
+20 order with or without actual notice to respondent. The court shall issue a temporary extreme risk
+21 protection order if it finds, by a preponderance of the evidence, that the respondent poses an
+22 immediate and significant risk of causing bodily injury to himself or herself or others by having a
+23 firearmoranyammunitioninhisorhercustodyorcontrolorbypurchasing,possessing,orreceiving
+24 afirearmorammunition.
+25 II. If a temporary extreme risk protection order is requested, the court shall hold a
+26 temporary ex parte risk protection order hearing in person or by telephone on the day the petition is
+27 filedoronthebusinessdayimmediatelyfollowingthedaythepetitionisfiled.
+28 III. The court shall determine, by a preponderance of the evidence, whether there is reason
+29 to believe that the respondent poses an immediate risk of causing bodily injury to himself or herself
+30 or others by having a firearm or any ammunition in his or her custody or control or by purchasing,
+31 possessing, or receiving a firearm or ammunition. The court shall consider any relevant, reliable,
+32 andmaterialevidence.
+33 IV. Temporary orders issued under this section shall prohibit the respondent from
+34 purchasing, possessing, or receiving any firearms and ammunition for the duration of the order and
+35 shall further direct the respondent to relinquish to a law enforcement officer all firearms and
+36 ammunition in the control, ownership, or possession of the respondent or any other person on behalf
+37 oftherespondent,andanylicensetocarryaloadedpistolorrevolverissuedtotherespondent under
+
+HB1642-FN-ASINTRODUCED
+-Page4-
+1 RSA 159:6, for the duration of the protective order. The court shall require proof, which may be in
+2 the form of a verbal attestation under oath or sworn affidavit, that the respondent has surrendered
+3 anyfirearmsorammunitionownedbytherespondentorinhisorhercustody,control,orpossession.
+4 V. The court may issue such temporary orders by telephone or facsimile. Such
+5 telephonically issued orders shall be made by a circuit court judge to a law enforcement officer and
+6 shall be valid in any jurisdiction in the state. Such orders shall be returnable to the circuit court
+7 where the petitioner resides, unless otherwise ordered by the issuing judge. If non-telephonic
+8 temporary orders are made ex parte, the party against whom such relief is issued may file a written
+9 request with the clerk of the court and request an expedited hearing on such orders. Such hearing
+10 shall be held no less than 3 business days and no more than 5 business days after the request is
+11 receivedbytheclerk. SuchhearingmayconstitutethefinalhearingunderRSA159-G:3,VIII.
+12 VI. A temporary extreme risk protection order shall expire upon the hearing on a final
+13 extremeriskprotectionorderunderRSA159-G:3,VIII.
+14 VII. The court may subsequently issue a search warrant authorizing a law enforcement
+15 officer to search for and seize any and all firearms and ammunition in the respondent’s possession,
+16 custodyorcontrol,ifthereisprobablecausetobelieverespondenthasfirearmsorammunitionandif
+17 the court has reason to believe that such firearms or ammunition have not been relinquished by the
+18 respondent.
+19 VIII. The court shall state the particular reasons for denying or granting the petitioner’s
+20 requestforatemporaryextremeriskprotectionorder.
+21 159-G:5 Relief.
+22 I. After notice to respondent and a hearing, and upon a showing by the petitioner that there
+23 is clear and convincing evidence that the respondent poses a significant and ongoing risk of causing
+24 bodily injury to himself or herself or others by having a firearm or any ammunition in his or her
+25 custodyorcontrolorbypurchasing,possessing,orreceivingafirearmorammunition,thecourtshall
+26 issueanextremeriskprotectionorderforaperiodnottoexceed12months.
+27 II. An extreme risk protection order issued under this section shall prohibit the respondent
+28 from purchasing, possessing, or receivinganyfirearms and ammunitionfor thedurationof the order
+29 and shall further direct the respondent to relinquish to a law enforcement officer all firearms and
+30 ammunition in the control, ownership, or possession of the respondent, and any license to carry a
+31 loadedpistolorrevolverissuedtotherespondentunderRSA159:6forthedurationoftheorder.
+32 III. In determining whether there is clear and convincing evidence to believe that the
+33 respondentposesanimmediateriskofcausingbodilyinjurytohimselforherselforothersbyhaving
+34 a firearm or any ammunition in his or her custody or control or by purchasing, possessing, or
+35 receiving a firearm or ammunition, the court shall consider any relevant, reliable, and material
+36 evidence.
+
+HB1642-FN-ASINTRODUCED
+-Page5-
+1 IV. A person, including an officer of the court, who offers evidence or recommendations
+2 relating to a petition filed under this chapter either shall present the evidence or recommendations
+3 intothecourtinaswornwrittenaffidavit,withcopiestoeachpartyandhisorherattorney,ifoneis
+4 retained,orshallpresenttheevidenceunderoathatahearingatwhichallpartiesarepresent.
+5 V. During the hearing, the court shall determine if a mental health evaluation or chemical
+6 dependency evaluation is appropriate and may order such evaluation if the court finds there is clear
+7 and convincing evidence that the respondent has a serious mental illness or recurring mental health
+8 condition that is likely to lead to the respondent being a danger to themselves or others. A mental
+9 health evaluation ordered pursuant to this paragraph shall comply with the requirements of RSA
+10 135-C.
+11 VI. The court may subsequently issue a search warrant authorizing a law enforcement
+12 officer to search for and seize all firearms and ammunition in the respondent’s possession, custody,
+13 or control, if there is probable cause to believe respondent has firearms or ammunition and if the
+14 court has probable cause to believe that such firearms or ammunition have not been relinquished by
+15 the respondent. The court shall require proof, which may be in the form of a verbal attestation
+16 under oath or sworn affidavit, that the respondent has surrendered any firearms or ammunition
+17 ownedbytherespondentorinhisorhercustody,control,orpossession.
+18 159-G:6 ContentsofExtremeRiskProtectionOrders.
+19 I. An extreme risk protection order issued under this chapter shall include all of the
+20 following:
+21 (a) Astatementofthegroundssupportingtheissuanceoftheorder.
+22 (b) Thedatetheorderwasissued.
+23 (c) Thedatetheorderexpires.
+24 (d) Whether a mental health evaluation or chemical dependency evaluation of the
+25 respondentisrequiredand,ifso,whentheresultsofsaidevaluationmustbeprovidedtothecourt.
+26 (e) Theaddressofthecourtinwhichanyresponsivepleadingshouldbefiled.
+27 (f) Adescriptionoftherequirementsforthesurrenderofallfirearmsandammunitionin
+28 thecontrol,ownership,orpossessionoftherespondentunderRSA159-G:8.
+29 (g) Thefollowingstatement:
+30 “To the subject of this extreme risk protection order: This order will remain in effect until the date
+31 notedabove. Ifyouhavenotdonesoalready,youshallsurrenderimmediatelytothe(insertnameof
+32 locallawenforcementagency)allfirearmsandammunitionthatyouownorthatareinyourcustody,
+33 control, or possession and any license to carry a loaded pistol or revolver issued to you under RSA
+34 159:6. Youmayseektheadviceofanattorneyastoanymatterconnectedwiththisorder."
+35 II. If the court issues a temporary extreme risk protection order under RSA 159-G:4, the
+36 court shall inform the respondent, in writing, that he or she is entitled to request an expedited
+
+HB1642-FN-ASINTRODUCED
+-Page6-
+1 hearing as provided in RSA 159-G:4, V. The court shall provide the respondent with a form to
+2 requestsuchahearing.
+3 III. If the court issues an extreme risk protection order under RSA 159-G:5, the court shall
+4 inform the respondent, in writing, that he or she is entitled to request a hearing to vacate the order
+5 in the manner provided in RSA 159-G:10. The court shall provide the respondent with a form to
+6 requestahearingtovacate.
+7 IV. The court shall state the particular reasons for granting or denying the petitioner’s
+8 requestforanextremeriskprotectionorder.
+9 159-G:7 Notification;ReportingofOrders.
+10 I. A copy of any order made under this chapter shall be promptly transmitted to the local
+11 lawenforcementagencyhavingjurisdictiontoenforcesuchorderand,ifsuchpersonhasbeenissued
+12 a license to carry a loaded pistol or revolver under RSA 159:6, notice shall also be promptly made to
+13 theissuingauthorityofthelicense.
+14 II. Extremeriskprotectionorders,includingtemporaryextremeriskprotectionorders, shall
+15 bepromptlyservedontherespondentbythelawenforcement officer. Modifications,extensions, and
+16 any order vacating an extreme risk protection order shall be sent to the respondent’s last address of
+17 record. The respondent shall be responsible for informing the court of any changes of address. Law
+18 enforcementagenciesshallestablishprocedureswherebyalawenforcementofficeratthesceneofan
+19 allegedviolationofsuchanordermaybeinformedoftheexistenceandtermsofsuchorder.
+20 III. The clerk of the court shall enter any order issued under this chapter into a statewide
+21 judicial information system on the same day such order is issued. The order shall remain in the
+22 informationsystemaslongastheorderremainsineffect.
+23 IV. The clerk of the court shall forward a copy of any order issued under this section the
+24 same day such order is issued to the department of safety, which in turn shall forward a copy to the
+25 Federal Bureau of Investigation, or its successor agency, for inclusion in the National Instant
+26 CriminalBackgroundCheckdatabase.
+27 V. Any court-ordered changes, extensions, or modifications to the order shall be effective
+28 upon issuance of such changes, extensions, or modifications and shall be mailed or otherwise
+29 provided to the appropriate law enforcement agency, issuing authority, and transmitted to the
+30 departmentofsafetywithin24hoursoftheentryofsuchchanges,extensions,ormodifications.
+31 159-G:8 SurrenderofFirearmsandAmmunition.
+32 I. Upon issuance of any extreme risk protection under this chapter, including a temporary
+33 ex parte extreme risk protection order, the court shall order the respondent to surrender to the local
+34 law enforcement agency all firearms and ammunition owned by the respondent or in his or her
+35 custody, control, or possession and any license to carry a loaded pistol or revolver issued to the
+36 respondentunderRSA159:6.
+
+HB1642-FN-ASINTRODUCED
+-Page7-
+1 II. The law enforcement officer serving an extreme risk protection order under this section,
+2 including a temporary extreme risk protection order, shall request that the respondent immediately
+3 surrender all firearms and ammunition owned by the respondent or in his or her custody, control, or
+4 possession and any license to carry a loaded pistol or revolver issued to the respondent under RSA
+5 159:6. The law enforcement officer shall take possession of all firearms and ammunition and any
+6 license to carry a loaded pistol or revolver issued to them under RSA 159:6, which are surrendered.
+7 Alternatively, if personal service by a law enforcement officer is not possible or is not required
+8 because the respondent was present at the extreme risk protection order hearing, the respondent
+9 shall surrender any firearms and ammunition owned by the respondent or in his or her custody,
+10 control, or possession and any license to carry a loaded pistol or revolver issued to them under RSA
+11 159:6, held by the respondent, in a safe manner to the control of the local law enforcement agency
+12 immediately after being served with the order by service or immediately after the hearing at which
+13 therespondentwaspresent.
+14 III. A law enforcement officer may, pursuant to RSA 159-G:4 and 159-G:5, seek a search
+15 warrant from a court of competent jurisdiction to search for and seize any and all firearms and
+16 ammunitionowned by the respondent or in his or her possession, custody or control if the officer has
+17 probablecausetobelievethatsaidfirearmsorammunitionhavenotbeensurrendered.
+18 IV. At the time of surrender, a law enforcement officer taking possession of any firearm or
+19 ammunition owned by the respondent or in his or her custody, control, or possession, or any license
+20 to carry a loaded pistol or revolver issued to respondent under RSA 159:6, shall issue a receipt
+21 identifying all firearms and the quantity and type of ammunition that have been surrendered, and
+22 any license surrendered and shall provide a copy of the receipt to the respondent. Within 72 hours
+23 after service of the order, the law enforcement officer serving the order shall file the original receipt
+24 withthecourtandshallensurethathisorherlawenforcementagencyretainsacopyofthereceipt.
+25 V. Notwithstanding RSA 595-A, upon the sworn statement or testimony of any person
+26 alleging that the respondent has failed to comply with the surrender required by any order issued
+27 under this chapter, the court shall determine whether probable cause exists to believe that the
+28 respondent has failed to surrender any firearms or ammunition owned by the respondent in his or
+29 hercustody,control,orpossession. Ifthecourtfindsthatprobablecauseexists,thecourtshallissue
+30 a warrant describing the firearms or ammunition owned by the respondent or in his her custody,
+31 control or possession and authorizing a search of the locations where any such firearms or
+32 ammunitionarereasonablybelievedtobefoundandtheseizureofanysuchfirearmsorammunition
+33 discoveredpursuanttosuchsearch.
+34 VI. If a person other than the respondent claims title to any firearms or ammunition
+35 surrendered or seized pursuant to this section and he or she is determined by the law enforcement
+36 agency to be the lawful owner of the firearm or ammunition, the firearm or ammunition shall be
+37 returnedtohimorher,if:
+
+HB1642-FN-ASINTRODUCED
+-Page8-
+1 (a) The lawful owner agrees to store the firearm or ammunition in a manner such that
+2 therespondentdoesnothaveaccesstoorcontrolofthefirearmorammunition;and
+3 (b) The law enforcement agency conducts a background check to determine that the
+4 lawful owner is not prohibited under state or federal law from possessing the firearm or
+5 ammunition.
+6 VII. Upon the issuance of any extreme risk protection order, the court shall order a new
+7 hearing date and require the respondent to appear no later than 3 business days after the issuance
+8 of the order. The court shall require proof that the respondent has surrendered any firearms or
+9 ammunitionowned bytherespondent or inhis or her custody, control, or possession. The court may
+10 cancel the hearing upon a satisfactory showing that the respondent is in compliance with the
+11 surrenderorder.
+12 VIII. All law enforcement agencies shall develop policies and procedures regarding the
+13 acceptance, storage, and return of firearms, ammunition, or licenses required to be surrendered
+14 underthissection.
+15 159-G:9 ReturnandDisposalofFirearmsandAmmunition.
+16 I. If an extreme risk protection order is vacated or ends without extension, a respondent
+17 may request, by motion to the court, the return of any and all firearms and ammunition that has
+18 beensurrenderedtoorseizedbythelawenforcementpursuanttothischapter. Uponreceiptofsuch
+19 a motion, the court shall schedule a hearing no later than 15 days after the expiration of the order.
+20 The court shall provide written notice to the petitioner who shall have the right to appear and be
+21 heard, and to the law enforcement agency which has control of the firearms and ammunition. The
+22 scopeofthehearingshallbelimitedto:
+23 (a) Establishing whether the respondent is subject to any state or federal law or court
+24 orderthatprohibitstherespondentfromowningorpossessingafirearmorammunition;and
+25 (b) Under circumstances where thepetitioner has requested an extensionof the extreme
+26 risk protection order, pursuant to section 10 of this chapter, whether the petitioner has established
+27 by clear and convincing evidence that the respondent continues to pose a significant risk of causing
+28 bodily injury to himself or herself or others by having a firearm or any ammunition in his or her
+29 custodyorcontrolorbypurchasing,possessing,orreceivingafirearmorammunition.
+30 II. If the court finds that the respondent is not subject to any state or federal law or court
+31 order prohibiting the ownership or possession of firearms, and, if applicable, the court denies the
+32 petitioner’s request to extend the extreme risk protection order, the court shall issue a written order
+33 directing the law enforcement agency to return the requested firearms and ammunition to the
+34 respondent.
+35 III. Law enforcement agencies shall not release firearms and ammunition without a court
+36 order granting such release. The law enforcement agency may charge the respondent a reasonable
+37 fee for the storage of any firearms and ammunition taken surrendered or seized to an extreme risk
+
+HB1642-FN-ASINTRODUCED
+-Page9-
+1 protectionorder. Thefeeshallnotexceedtheactualcostincurredbythelawenforcementagencyfor
+2 the storage of the firearms and ammunition. The respondent may make alternative arrangements
+3 with a federally-licensed firearms dealer for the storage of firearms, at the respondent’s own
+4 expense, upon approval of the court. Such firearms shall be turned over to the appropriate law
+5 enforcement agency for transfer to the storage facility. Retrieval of such firearms shall be through
+6 the law enforcement agency responsible for their transfer to the storage facility pursuant to a court
+7 orderasprescribedinthisparagraph.
+8 IV. No law enforcement agency shall be held liable for alleged damage or deterioration due
+9 tostorageortransportationtoanyfirearmsandammunitionandspecifieddeadlyweaponsheldbya
+10 lawenforcementagency,solongasduecareisused.
+11 V. If an extreme risk protection order is vacated or ends without extension, the licensing
+12 authority, if it has suspended a license to carry a loaded pistol or revolver issued to respondent
+13 under RSA 159:6 pursuant to this section, shall reinstate such license only after confirming that the
+14 respondentiscurrentlyeligibletohavesuchlicense.
+15 VI. The court shall provide written notice, sent via the United States Postal Service to the
+16 last known address of the petitioner before the return of any firearm and ammunition surrendered
+17 orseizedpursuanttothischapter.
+18 159-G:10 TerminationandExtensionofOrders.
+19 I. The respondent may submit one written request for a hearing to vacate an extreme risk
+20 protection order issued under RSA 159-G:5, starting after the date of the issuance of the order, and
+21 mayrequestoneadditionalhearingaftereveryextensionoftheorder,ifany.
+22 (a) Upon receipt of the request for a hearing to vacate an extreme risk protection order,
+23 the court shall set a date for a hearing. Notice of the request shall be served on the petitioner as
+24 provided in RSA 159-G:7. The hearing shall occur no sooner than 14 days and no later than 30 days
+25 afterthedateofserviceoftherequestuponthepetitioner.
+26 (b) The respondent shall have the burden of proving by clear and convincing evidence
+27 thattherespondent nolongerposes asignificantrisk ofcausingbodilyinjurytohimself orherself or
+28 others by having a firearm or any ammunition in his or her custody or control or by purchasing,
+29 possessing, or receiving a firearm or ammunition. The court shall consider any relevant, reliable,
+30 andmaterialevidence.
+31 (c) If the court finds after the hearing that the respondent has met his or her burden of
+32 proof,thecourtshallvacatetheorder.
+33 (d) The law enforcement agency holding any firearm or ammunition or license to carry a
+34 loaded pistol or revolver that has been surrendered or seized pursuant to this section shall be
+35 notified of the court order to vacate the extreme risk protection order. The court shall also provide
+36 noticeasrequiredbyRSA159-G:7,V.
+
+HB1642-FN-ASINTRODUCED
+-Page10-
+1 II. The court shall notify the petitioner of the impending expiration of an extreme risk
+2 protectionorder. Noticeshall be received bythe petitioner at least 30days before thedatethe order
+3 issettoexpire.
+4 III. The petitioner may, by motion, request an extension of an extreme risk protection order
+5 atanytimewithin30daysbeforetheendoftheorder.
+6 (a) Uponreceipt ofthemotiontoextend,thecourt shallscheduleahearingtobeheld no
+7 later than 14 days after the date the motion to extend is filed. The respondent shall be personally
+8 servedwithnoticeofthemotiontoextendasprovidedinRSA159-G:7.
+9 (b) In determining whether to extend an extreme risk protection order issued under this
+10 section,thecourtshallconsideranyrelevant,reliable,andmaterialevidence.
+11 (c) If thecourtfinds byclearand convincingevidencethat therequirementsfor issuance
+12 of an extreme risk protection order as provided in RSA 159-G:5 continue to be met, the court shall
+13 extendtheorder.
+14 (d) The court may extend an extreme risk protection order for a period that it deems
+15 appropriate, up to and including but not exceeding 12 months, subject to an order to vacate as
+16 providedinparagraphIortoanotherextensionorderbythecourt.
+17 (e) The court shall also provide notice of the extension of the order as required in RSA
+18 159-G:7,V.
+19 159-G:11 ViolationofExtremeRiskProtectionOrder;Penalties.
+20 I. In addition to other applicable charges and penalties, a person shall be guilty of a class A
+21 misdemeanor if such person knowingly files a petition under this chapter containing false
+22 allegations,orifsuchpersonfilesapetitionwithintenttoharasstherespondent.
+23 II. Inadditiontoother applicablecharges and penalties, apersonshall beguiltyof aclass B
+24 felony if he or she knowingly violates an extreme risk protection order issued under this chapter by
+25 having in his or her possession, custody, or control any firearm or ammunition while the order is in
+26 effect.
+27 III. A person who completes and signs an application for purchase of a firearm and who
+28 knows that such purchase is illegal because he or she is subject to an extreme risk protection order
+29 shall be guilty of a class A misdemeanor for a first offense and a class B felony for a second or
+30 subsequentoffense.
+31 159-G:12 OrdersEnforceable.
+32 I. Any extreme risk protection order issued under this chapter shall be effective throughout
+33 thestate.
+34 II. Any comparable extreme risk protection order issued by any other state, tribal, or
+35 territorial court, including an ex parte order, shall be deemed valid if the issuing court had
+36 jurisdictionover theparties and matterunder thelawof thestate,tribe, or territory,and theperson
+
+HB1642-FN-ASINTRODUCED
+-Page11-
+1 against whom the order was made was given reasonable notice and opportunity to be heard. There
+2 shallbeapresumptionofvaliditywhereanorderappearsfaciallyvalid.
+3 III. Any valid extreme risk protection order, as defined in paragraph II, shall be accorded
+4 fullfaithandcreditthroughoutthestate.
+5 159-G:13 StandardForms.
+6 I. The administrative office of the courts shall develop instructions and informational
+7 brochures, standard petition forms, and extreme risk protection order forms. The standard petition
+8 and order forms shall be developed after September 20, 2026 for use by January 1, 2027, for all
+9 petitions filed and orders issued under this chapter. The instructions, brochures, forms, and
+10 handbook shall be prepared in consultation with interested persons, judges, and law enforcement
+11 personnel. Materials shall be based on best practices and available electronically online to the
+12 public.
+13 (a) Theinstructionsshallbedesignedtoassistpetitionersincompletingthepetitionand
+14 shallincludeasampleofastandardpetitionandorderforprotectionforms.
+15 (b) The instructions and standard petition shall include a means for the petitioner to
+16 identify, with only lay knowledge, the firearms the respondent may own, possess, receive, or have in
+17 his or her custody or control. The instructions shall provide pictures of types of firearms that the
+18 petitioner may choose from to identify the relevant firearms, or an equivalent means to allow
+19 petitioners to identify firearms without requiring specific or technical knowledge regarding the
+20 firearms.
+21 (c) The informational brochure shall describe the use of and the process for obtaining,
+22 modifying, and terminating an extreme risk protection order under this chapter, and provide
+23 relevant forms. The brochure shall provide plain language explanations of these processes for both
+24 petitioners and respondents. The brochure shall also clearly explain the legal requirements and
+25 processes for the relinquishment and return of firearms pursuant to an extreme risk protection
+26 order.
+27 (d) The extreme risk protection order form shall include, in a conspicuous location,
+28 notice of criminal penalties resulting from violation of the order, and the following statement: "You
+29 have the sole responsibility to avoid or refrain from violating this order's provisions. Only the court
+30 canchangetheorderandonlyuponwrittenapplication."
+31 (e) The court staff handbook shall allow for the addition of a community resource list by
+32 thecourtclerk.
+33 II. The clerk of the circuit court may create a community resource list of crisis intervention,
+34 mental health, substance abuse, interpreter, counseling, and other relevant resources serving the
+35 county in which the court is located. The court may make the community resource list available as
+36 partoforinadditiontotheinformationalbrochuresdescribedinparagraphI.
+
+HB1642-FN-ASINTRODUCED
+-Page12-
+1 III. The administrative office of the courts shall distribute a master copy of the petition and
+2 order forms, instructions, and informational brochures to all court clerks and shall distribute a
+3 master copy of the petition and order forms to all clerks of the circuit courts. Distribution of all
+4 documents shall, at a minimum, be in an electronic format or formats accessible to all courts and
+5 courtclerksinthestate.
+6 IV. The administrative office of the courts shall determine the significant non-English-
+7 speakingorlimited-English-speakingpopulationsinthestate. Theadministratorshallthenarrange
+8 for translation of the instructions and informational brochures required by this section to be
+9 developed after September 20, 2026, whichshall contain asampleof the standard petitionand order
+10 for protection forms, into the languages spoken by those significant non-English-speaking
+11 populations and shall distribute a master copy of the translated instructions and informational
+12 brochurestoallclerksofthecircuitcourtbyJanuary1,2027.
+13 V. The administrative office of the courts shall update the instructions, brochures, standard
+14 petition, and extreme risk protection order forms, and court staff handbook as necessary, including
+15 whenchangesinthelawmakeanupdatenecessary.
+16 159-G:14 Reporting.
+17 I. No later than January 31 of each year, clerks of the circuit courts shall report to the
+18 administrativeofficeofthecourtsthefollowinginformation:
+19 (a) The total number of petitions for an extreme risk protection order, and the total
+20 numberofthosepetitionsthatrequestedtheorderbeissuedexparteduringthepreviousyear.
+21 (b) The total number of temporary extreme risk protection orders issued and the total
+22 numberdeniedduringthepreviousyear.
+23 (c) The total number of extreme risk protection orders issued and the total number
+24 deniedduringthepreviousyear.
+25 (d) The total number of extreme risk protection orders vacated upon petition by the
+26 respondentduringthepreviousyear.
+27 (e) The total number of extreme risk protection orders extended during the previous
+28 year.
+29 II. No later than April 1 of each year the administrative office of the courts shall compile
+30 and publish on its website a report which aggregates the information received pursuant to
+31 paragraphIandlistseachcategorybycountyandtypeofcourt.
+32 3 EffectiveDate.
+33 I. RSA159-G:13,asinsertedbysection2ofthisactshalltakeeffectSeptember20,2026.
+34 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3048
+12/8/25
+HB1642-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoextremeriskprotectionorders.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$250,000to $500,000to $500,000to
+$500,000 $1,000,000 $1,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates a process allowing a petitioner to request that the Circuit Court, District
+Division issue an extreme risk protection order requiring a respondent who poses an immediate
+danger to self or others to surrender firearms. The bill outlines procedures for search warrants,
+multiple hearings on short timelines, review hearings, and data reporting requirements, and
+mandatestheuseofspecializedformsandtranslatedmaterials.
+The Judicial Branch states the bill will create a new and complex case type for the District
+Division that is expected to generate an indeterminable but likely significant number of new
+filings each year. Because the bill requires rapid scheduling of hearings, short decision
+timelines, and multiple review hearings, the Branch anticipates substantial additional workload
+impacts. These accelerated timelines will displace existing scheduled matters and contribute to
+schedulingdelaysacrossother casetypes. Thebillalsorequires developmentanddistributionof
+specialized forms, the creation of handbooks, guidelines, and informational brochures,
+translation of required documents, new data entry requirements into a statewide database, and
+preparation of an annual report. The Branch notes that these responsibilities will require
+ongoing training for judges and staff. To manage these obligations, the Judicial Branch
+anticipates the need for at least one additional full-time equivalent employee to administer the
+
+program, coordinate training, and support increased case flow. Because the number of petitions
+that will be filed is unknown, the total cost is indeterminable, but the Branch estimates that
+Generalfundexpenditureswillbebetween$500,000to$1,000,000. Theeffectivedateofthis bill
+isJanuary1,2027sotheassumptionistheGeneralFundexpenditureimpactforFY2027would
+be half the cost at $250,000 to $500,000. This bill does not provide funding or authorization of
+newpositions.
+AGENCIESCONTACTED:
+JudicialBranch

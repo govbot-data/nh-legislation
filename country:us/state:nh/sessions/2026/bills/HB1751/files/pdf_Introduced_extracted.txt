@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1751-FN-ASINTRODUCED
+2026SESSION
+26-2928
+06/09
+1751-FN
+HOUSEBILL
+ANACT relativetoastartparkpublicsafetyparkingsurcharge.
+SPONSORS: Rep.Bridle,Rock.29
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a 5 percent public safety surcharge on paid parking at state park facilities
+and creates a dedicated fund to distribute collected revenues quarterly to host municipalities for
+publicsafetyservicesrelatedtoparkvisitation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1751-FN-ASINTRODUCED
+26-2928
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoastartparkpublicsafetyparkingsurcharge.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Sections; Public Safety Parking Surcharge Fund. Amend RSA 216-A by inserting after
+2 section3-pthefollowingnewsections:
+3 216-A:3-q PublicSafetyParkingSurcharge.
+4 I. In addition to any parking fees established under RSA 216-A:3-g, the department of
+5 naturaland cultural resources shall assessapublic safetysurcharge of5percent onall paid parking
+6 transactionsatstateparkfacilities.
+7 II. The surcharge shall be collected through existing department of natural and cultural
+8 resources parking infrastructure, including kiosks, mobile applications, and other authorized
+9 systems.
+10 III. All surcharge revenues shall be deposited in the public safety parking surcharge fund
+11 establishedunderRSA216-A:3-r.
+12 IV. No new criminal penalties shall be created under this section. Enforcement and
+13 remittance shall be administered through existing department of natural and cultural resources
+14 parking systems and administrative rules. The department shall ensure public transparency and
+15 operational consistency by implementing signage at affected facilities, conducting periodic audits of
+16 surcharge collections, and publishing an annual report summarizing revenues and distributions
+17 underRSA216-A:3-r.
+18 216-A:3-r PublicSafetyParkingSurchargeFundEstablished.
+19 I. The state treasurer shall establish a separate and distinct account to be known as the
+20 publicsafetyparkingsurchargefund. Theaccountshallbecontinuingandnonlapsing.
+21 II. The treasurer shall deposit in the public safety parking surcharge fund actual revenues
+22 received from the public safety parking surcharge assessed under RSA 216-A:3-j. Any federal
+23 moneys that become available for this purpose, and all donations and gifts, shall also be deposited
+24 intothisaccount.
+25 III. Funds in the public safety parking surcharge fund are hereby continually appropriated
+26 to, and may be expended by, the state treasurer for distribution on a quarterly basis to the
+27 municipality hosting each state park facility, in proportion to the surcharge revenues generated at
+28 thatfacility.
+29 IV. Funds distributed under this section shall be used by the recipient municipality solely
+30 for public safety purposes attributable to state park visitation, including police, fire, and emergency
+31 medicalservices.
+
+HB1751-FN-ASINTRODUCED
+-Page2-
+1 2 New Subparagraph; New Funding. Amend RSA 6:12, I(b) by inserting after subparagraph
+2 (410)thefollowingnewsubparagraph:
+3 (411) Moneysdepositedinthepublicsafetyparkingsurchargefundasestablishedin
+4 RSA216-A:3-r.
+5 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2928
+Revised1/5/26
+HB1751-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoastartparkpublicsafetyparkingsurcharge.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$150,000to $150,000to $150,000to
+$200,000 $200,000 $200,000
+(Surcharge) (Surcharge) (Surcharge)
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Decrease Decrease Decrease
+$0to$100,000 $0to$100,000 $0to$100,000
+(StatePark (StatePark (StatePark
+Fund) Fund) Fund)
+RevenueFund(s) PublicSafetyParkingSurchargeFundandStateParkFund
+$150,000to $150,000to $150,000to
+$200,000 $200,000 $200,000
+(Surcharge) (Surcharge) (Surcharge)
+Expenditures* $0 $5,000to $5,000to $5,000to
+$50,000 $50,000 $50,000
+(StatePark (StatePark (StatePark
+Fund) Fund) Fund)
+FundingSource(s) PublicSafetyParkingSurchargeFundandStateParkFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+$150,000to $150,000to $150,000to
+LocalRevenue $0
+$200,000 $200,000 $200,000
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill establishes a 5% public safety surcharge on all paid parking transactions at state park
+facilities. All surcharge revenue is deposited into a new Public Safety Parking Surcharge Fund,
+
+which is continually appropriated to the State Treasurer for quarterly distribution to
+municipalities hosting state parks. Funds distributed to municipalities must be used for police,
+fire,andemergencyresponseservicesattributabletostateparkvisitation.
+The Department of Natural and Cultural Resources states this bill requires the Department
+assess and collect a 5% surcharge on all paid parking at state park facilities and deposit the
+revenue into the new Public Safety Parking Surcharge Fund for quarterly distribution to host
+municipalities. Based on paid parking data from the 2023, 2024, and 2025 operating seasons,
+the Department reports average annual parking revenue of $3,083,467. Applying the 5%
+surcharge to this amount results in approximately $154,173 in annual surcharge revenue, which
+forms the Department’s estimate that $150,000 to $200,000 per year would be deposited into the
+new fund. The Department notes the surcharge may limit its ability to increase future parking
+fees because it raises the total cost charged to visitors. For example, if the Department
+determined a $3.50 hourly parking rate was appropriate, the Department would need to set its
+base fee at approximately $3.33, with the remaining $0.17 coming from the surcharge. This
+limitation on future fee adjustments could reduce revenue to the State Park Fund by an
+indeterminableamount,potentiallyupto$100,000peryear.
+The Department anticipates that implementing the surcharge will increase State Park Fund
+expenditures by an indeterminable amount within a range of $5,000 to $50,000 per year. These
+costs relate to procuring, installing, and maintaining required signage at affected facilities,
+updating parking kiosks and mobile payment applications to collect and account for the
+surcharge, conducting periodic audits of surcharge collections, and preparing the required
+annualreport.
+The Department also identifies several drafting and implementation concerns. The Department
+assumesthebill’srequirementtouse“existing”parkinginfrastructureisnotintendedtoprevent
+the Department from upgrading or expanding its parking systems; however, if interpreted as
+restrictive, this would significantly increase operational challenges and costs. The Department
+further assumes the bill does not require the Department to audit municipal use of distributed
+funds, as such a responsibility would materially increase expenditures. Lastly, the Department
+interprets the surcharge as applying only to vehicle parking fees based on the bill’s terminology.
+Ifbroaderapplicationisintended,thefiscalimpactwoulddiffersubstantially.
+The Treasury Department states this bill can be administered within the Department's existing
+operatingbudget.
+AGENCIESCONTACTED:
+DepartmentofNaturalandCulturalResourcesandTreasuryDepartment

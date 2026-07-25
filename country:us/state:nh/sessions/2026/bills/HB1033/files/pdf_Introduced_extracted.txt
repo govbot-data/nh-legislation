@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1033 -ASINTRODUCED
+2026SESSION
+26-2726
+09/05
+1033
+HOUSEBILL
+ANACT establishingacommissiontostudythelegislativebillenrollmentprocess.
+SPONSORS: Rep.Weber,Ches.5
+COMMITTEE: LegislativeAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesacommissiontostudythelegislativebillenrollmentprocess.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1033-ASINTRODUCED
+26-2726
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingacommissiontostudythelegislativebillenrollmentprocess.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;CommissiontoStudytheLegislativeBillEnrollmentProcess. AmendRSA14by
+2 insertingaftersection8thefollowingnewsection:
+3 14:8-a CommissiontoStudytheLegislativeBillEnrollmentProcess.
+4 I. There is established a commission to study the procedures for the legislative bill
+5 enrollmentprocess.
+6 II. Themembersofthecommissionshallbeasfollows:
+7 (a) Three members of the house of representatives, two of which shall be named by the
+8 speakerofthehouseofrepresentativesandoneofwhichshallbenamedbytheminorityleader.
+9 (b) Twomembersofthesenate,appointedbythepresidentofthesenate.
+10 (c) Thesenateclerk.
+11 (d) Thehouseclerk.
+12 (e) Thesecretaryofstateordesignee.
+13 III. Legislative members of the commission shall receive mileage at the legislative rate
+14 whenattendingtothedutiesofthecommission.
+15 IV. Thecommissionshall:
+16 (a) Study the current legislative bill enrollment process for handling bills from the time
+17 theyareenrolleduntiltheyreachthegovernor'sdesk.
+18 (b) Determineanypossibleimprovementstosuchprocedures.
+19 V. The members of the study commission shall elect a chairperson from among the
+20 members. The first meeting of the commission shall be called by the first-named house member.
+21 The first meeting of the commission shall be held within 45 days of the effective date of this section.
+22 Asimplemajorityofthemembersshallconstituteaquorum.
+23 VI. The commission shall report its findings and any recommendations for proposed
+24 legislation to the speaker of the house of representatives, the president of the senate, the house
+25 clerk,thesenateclerk,thegovernor,andthestatelibraryonorbeforeNovember1,2026.
+26 2 Prospective Repeal. RSA 14:8-a, relative to the commission to study the legislative bill
+27 enrollmentprocess,isrepealed.
+28 3 EffectiveDate.
+29 I. Section2ofthisactshalltakeeffectNovember30,2026.
+30 II. Theremainderofthisactshalltakeeffectuponitspassage.

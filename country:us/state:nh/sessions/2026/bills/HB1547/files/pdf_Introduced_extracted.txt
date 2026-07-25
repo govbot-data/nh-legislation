@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1547-FN-ASINTRODUCED
+2026SESSION
+26-2793
+09/06
+1547-FN
+HOUSEBILL
+ANACT relativetoappealsfromconvictionsincircuitcourtforcertainoffenses.
+SPONSORS: Rep. Johnson, Straf. 11; Rep. Potenza, Straf. 19; Rep. Gregg, Hills. 7; Rep.
+Burnham, Straf. 2; Rep. Kuttab, Rock. 17; Rep. Selig, Straf. 10; Rep. Bjelobrk,
+Graf. 5; Rep. Sabourin dit Choiniere, Rock. 30; Rep. Manos, Rock. 12; Sen.
+Sullivan,Dist18
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill requires adefendant charged withcertainoffenses toelect whethertoproceed incircuit
+court and waive his or her right to a jury trial or to immediately appeal to superior court for a jury
+trial.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1547-FN-ASINTRODUCED
+26-2793
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoappealsfromconvictionsincircuitcourtforcertainoffenses.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MisdemeanorSexualAssaultProsecutions. AmendRSA632-A:9-atoreadasfollows:
+2 632-A:9-a MisdemeanorSexualAssaultProsecutions[withVictimLessThan18YearsofAge].
+3 I. In any prosecution for a violation of RSA 632-A:4 [involving a victim less than 18 years of
+4 age at the time the prosecution is commenced, and] which is brought in the circuit court, the
+5 defendantmayelecttoeither:
+6 (a) Appeal within 30 days after the arraignment to the superior court for a jury trial
+7 pursuanttotheprovisionsofruleofcriminalprocedure21(a);or
+8 (b) Proceed with a trial in the circuit court, which will constitute a waiver of the right to
+9 ajurytrialandtherighttoappealforajurytrialpursuanttoRSA502-A:12and599:1.
+10 II. A circuit court shall not proceed with a trial under subparagraph I(b) unless it has
+11 conducted a colloquy with the defendant and finds that the defendant has knowingly, voluntarily,
+12 andintelligentlywaivedhisorherrighttoajurytrial.
+13 2 New Section; Assault Prosecutions. Amend RSA 631 by inserting after section 2-b the
+14 followingnewsection:
+15 631:2-c AssaultProsecutions.
+16 I. In any prosecution for a violation of RSA 631:2-a or 631:2-b, which is charged as a class A
+17 misdemeanorinthecircuitcourt,thedefendantmayelecttoeither:
+18 (a) Appeal within 30 days after the arraignment to the superior court for a jury trial
+19 pursuanttotheprovisionsofruleofcriminalprocedure21(a);or
+20 (b) Proceed with a trial in the circuit court, which will constitute a waiver of the right to
+21 ajurytrialandtherighttoappealforajurytrialpursuanttoRSA502-A:12and599:1.
+22 II. A circuit court shall not proceed with a trial under subparagraph I(b) unless it has
+23 conducted a colloquy with the defendant and finds that the defendant has knowingly, voluntarily,
+24 andintelligentlywaivedhisorherrighttoajurytrial.
+25 3 New Paragraph; Stalking; Prosecutions. Amend RSA 633:3-a by inserting after paragraph
+26 VIIIthefollowingnewparagraph:
+27 IX.(a) In any prosecution for a misdemeanor violation of this section in the circuit court, the
+28 defendantmayelecttoeither:
+29 (1) Appeal within 30 days after the arraignment to the superior court for a jury trial
+30 pursuanttotheprovisionsofruleofcriminalprocedure21(a);or
+
+HB1547-FN-ASINTRODUCED
+-Page2-
+1 (2) Proceed with a trial in the circuit court, which will constitute a waiver of the
+2 righttoajurytrialandtherighttoappealforajurytrialpursuanttoRSA502-A:12and599:1.
+3 (b) A circuit court shall not proceed with a trial under subparagraph IX(a)(2) unless it
+4 has conducted a colloquy with the defendant and finds that the defendant has knowingly,
+5 voluntarily,andintelligentlywaivedhisorherrighttoajurytrial.
+6 4 DistrictCourts;AppealsfromSentence. AmendRSA502-A:12,Itoreadasfollows:
+7 I. A person sentenced by a district court for a class A misdemeanor after trial or after
+8 proceedings pursuant to Rule of Criminal Procedure 21(a) may appeal therefrom to the superior
+9 court for a jury trial as provided in RSA 599, except as provided in RSA 631:2-c, 632-A:9-a, and
+10 633:3-a,IX.
+11 5 AppealsfromConvictionsinCircuitCourt. AmendRSA599:1toreadasfollows:
+12 599:1 Appeals. – Except as provided in RSA 631:2-c, 632-A:9-a, and 633:3-a, IX a person
+13 convicted by a circuit court of a class A misdemeanor, at the time the sentence is declared, may
+14 appeal therefrom to obtain a de novo jury trial in the superior court, which shall hear the appeal.
+15 Theappealshallbeenteredbythedefendant atthenext returndayunlessfor goodcauseshownthe
+16 time is extended by the superior court. If, after a jury trial in the superior court, the defendant is
+17 found guilty, the superior court shall sentence the defendant, and the defendant may appeal
+18 questionsoflawarisingtherefromtothesupremecourt. Intheeventthedefendantwaivestheright
+19 to jury trial after the case has been appealed, the superior court shall forthwith remand the case to
+20 the circuit court for imposition of the sentence originally imposed by the circuit court, and the
+21 defendant may appeal questions of law arising therefrom to the supreme court. In all misdemeanor
+22 cases which are appealed to superior court, it shall be the duty of the superior court to transmit to
+23 the justice of the circuit court, within 10 days after the case is finally disposed of, a certificate
+24 showingthefinaldispositionofthecase.
+25 6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2793
+12/2/25
+HB1547-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoappealsfromconvictionsincircuitcourtforcertainoffenses.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable
+Increase Increase
+Expenditures* $0 $0
+$500,000to $500,000to
+$1,000,000 $1,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires defendants charged with certain misdemeanor offenses to elect, early in the
+case, whether to transfer their case to Superior Court in order to preserve their right to a jury
+trial. Under current practice, most misdemeanor charges such as simple assault, domestic
+violence, sexual assault, and stalking are resolved in Circuit Court without the need for a jury
+trial. As stated by the Judicial Branch, this bill is expected to result in a substantial increase in
+the number of misdemeanor jury trials in Superior Court because defendants are likely to elect
+jurytrialrightsattheoutseteveniftheircasesultimatelyresolvewithouttrial.
+The Judicial Branch assumes this increase will require at least one additional Superior Court
+judge, one court monitor, and threecourt operations specialists, as well as increased jury-related
+costs such as juror compensation, jury summonsing, and removal of the current two-month
+annual jury hiatus. The Branch states that the number of additional jury trials cannot be
+predicted, but the bill will require additional judicial capacity and operational support. Position
+cost details are shown in the chart. The bill has an effective date of January 1, 2027 so FY 2028
+wascalculatedathalf yearsalary,benefitsandJurytrials,plusfullfit-upcosts.
+
+The total impact for all five positions (as shown in tables below) is estimated at $617,000 in FY
+2028 and $843,000 in FY 2029. These totals include staffing and operational expenses
+associated with expanded jury trial activity. The Judicial Branch also notes additional
+expenditures for jury operations, which would further increase state costs beyond the staffing
+totals.
+Title SuperiorCourtJudgex1 CourtMonitorx1
+Positions LG1S1/POSF,DENF LG22S3/HMO2,DEN2
+FiscalYear FY2028 FY2029 FY2028 FY2029
+SalariesandBenefits $264,348 $339,347 $65,306 $85,028
+Fitup $9,608 $712 $3,307 $712
+JuryTrials $95,000 $190,000 $0 $0
+Total $368,956 $530,059 $68,613 $85,740
+Title CourtOperationsSpecialistx3
+TotalCostofAll FivePositions
+Positions LG14S3/HMO2,DEN2
+FiscalYear FY2028 FY2029 FY2028 FY2029
+SalariesandBenefits $168,994 $224,863 $498,648 $649,238
+Fitup $9,922 $2,137 $22,837 $3,561
+JuryTrials $0 $0 $95,000 $190,000
+Total $178,916 $227,000 $616,485 $842,799
+Overall,theJudicialBranchstatesthefiscalimpactisindeterminablebutcouldexceed$500,000
+and be less than $1,000,000 per year, depending on the number of jury trials and operational
+needs. The Branch indicates that the bill does not provide funding for these costs and that they
+cannot be absorbed within the current operating budget. It is assumed the Branch would
+includethesecostsinitsFY2028-2029operatingbudgetifthisbillweretobecomelaw.
+AGENCIESCONTACTED:
+JudicialBranch

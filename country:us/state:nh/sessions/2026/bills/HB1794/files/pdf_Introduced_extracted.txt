@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1794-FN-ASINTRODUCED
+2026SESSION
+26-2798
+05/08
+1794-FN
+HOUSEBILL
+ANACT directing the department of health and human services to identify the impact of
+MedicaidchangesonNewHampshireresidents'accesstohealthcare.
+SPONSORS: Rep. Telerski, Hills. 11; Rep. LaMontagne, Straf. 17; Rep. Wallner, Merr. 19; Rep.
+Sorensen, Rock. 28; Rep. Nagel, Belk. 6; Rep. Lucas, Graf. 7; Rep. Weber, Ches. 5;
+Rep. Tellez, Hills. 40; Sen. Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen.
+Prentiss,Dist5
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to identify the impact of Medicaid
+changesonNewHampshireresidents'accesstohealthcare.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1794-FN-ASINTRODUCED
+26-2798
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT directing the department of health and human services to identify the impact of
+MedicaidchangesonNewHampshireresidents'accesstohealthcare.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MedicaidImpactStudy;ProtectingAccesstoAffordableHealthCareforGraniteStaters.
+2 I. The commissioner of the department of health and human services shall prepare a report
+3 detailingtheimpactofMedicaidchangesonNewHampshireresidents,including:
+4 (a) The number of Granite Staters whose health care coverage will be impacted when
+5 therecentlyenactedfederalandstatechangesgointoeffect.
+6 (b) The effect of recently enacted changes on non-profit health care organizations,
+7 includinghospitals,communityhealthcenters,communitymentalhealthcenters,andareaagencies,
+8 includingreductionsinservicesandclosuresoffacilities.
+9 (c) TheimpactontimelyaccesstocareforGraniteStaters.
+10 (d) The impact of recently enacted changes on people who are on the Choices for
+11 Independencewaiverandtheirfamilycaregivers.
+12 (e) Theimpactthat reductionsinfederalmoneywouldhaveonthestate’sbudget.
+13 (f) The ways in which the recently enacted changes will likely have a downshifting
+14 impactonlocalcommunitiesandproviders.
+15 II. TheresultingreportwouldidentifyareasinneedoffuturelegislationandassureGranite
+16 Statersreceivecomprehensiveandappropriatehealthcare.
+17 III. The commissioner shall submit an interim report to the governor, the speaker of the
+18 house of representatives, the senate president, the house clerk, the senate clerk, and the state
+19 librarybyNovember1,2026. AfinalreportshallbesubmittedbyJuly1,2027.
+20 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2798
+Revised02/10/2026
+HB1794-FN-FISCALNOTE
+ASINTRODUCED
+ANACT directing the department of health and human services to identify the impact of
+MedicaidchangesonNewHampshireresidents'accesstohealthcare.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Upto$250,000
+generalfunds;
+Expenditures* $0 $0 $0
+upto$250,000
+federalfunds
+FundingSource(s) Generalfunds,federalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill directs the Department of Health and Human Services to identify the impact of
+Medicaid changes on state residents' access to health care. The Department states that as part
+of its general duties, it routinely reports on the status of the Medicaid program which includes
+some, but not all, of the metrics included in the bill. The Department anticipates that current
+staffing levels are not sufficient for the additional workload necessary to meet all of the
+reporting requirements. As a result, the Department expects to issue a Request for Proposals
+(RFP) to procure external contractual services to fulfill these requirements. The Department
+anticipates a one-time cost of up to $500,000, of which half would be funded with general funds
+andhalfwithfederalfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

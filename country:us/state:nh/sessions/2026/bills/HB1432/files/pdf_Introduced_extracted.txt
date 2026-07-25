@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1432 -ASINTRODUCED
+2026SESSION
+26-2606
+06/08
+1432
+HOUSEBILL
+ANACT relative to electric utility rate classification and cost allocation for condominium
+associations.
+SPONSORS: Rep. Manos, Rock. 12; Rep. Cormen, Graf. 15; Rep. Knab, Rock. 12; Rep.
+Bernardy,Rock.36
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies condominium use restrictions and establishes utility billing procedures for
+sharedresidentialservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1432-ASINTRODUCED
+26-2606
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to electric utility rate classification and cost allocation for condominium
+associations.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Condominium Instruments; Contents of Declaration. Amend RSA 356-B:16, I(h) to read as
+2 follows:
+3 (h) A statement of the purposes for which the condominium and each of the units are
+4 intended and restricted as to use and whether any commercial or business enterprises are
+5 permitted;
+6 2 New Paragraph; Submetering. Amend RSA 356-B:45 by inserting after paragraph II the
+7 followingnewparagraph:
+8 II-a. Regardless of the condominium instruments, the cost for shared residential meter
+9 usageforsepticsystemsandwellpumpsshallbechargedbackbytheunitownersassociationonlyto
+10 the residential units that share each meter, even if the association is the customer of the public
+11 utility or rural electric cooperative. The chargeback shall be divided by the association among these
+12 units, ensuring that the cost is equally split according to the number of units sharing the meter. No
+13 matter what the billing or payment arrangement is between the association and its unit owners, the
+14 utilityshallprovideonlyonebillpermeteredservice.
+15 3 New Section; Public Utility Rates; Condominium Charges. Amend RSA 378 by inserting after
+16 section6thefollowingnewsection:
+17 378:6-a Condominium Charges. A condominium association under RSA 356-B, which does not
+18 permit commercial or business enterprises, may request that the public utility charge the same
+19 electricrateascondominiumresidentialunitsfordomesticsepticandwellpumpsservedbyasingle-
+20 phase electric meter. A public utility in receipt of the association request shall charge the requested
+21 ratetotheresidentialrateeffectiveforthenextbillingcycleaftertherequestisreceived. Thepublic
+22 utility is not responsible for verifying that the association meets the requirements under RSA 356-
+23 B:45,II-aor thatthemeter is servingdomestic septic andwell-pump usage and isnot beingused for
+24 commercialorbusinessenterprises.
+25 4 PublicUtility. AmendRSA362:2,IItoreadasfollows:
+26 II. For the purposes of this title only, rural electric cooperatives for which a certificate of
+27 deregulation is on file with the public utilities commission pursuant to RSA 301:57 shall not be
+28 considered public utilities; provided, however, that the provisions of RSA 362-A:1, 362-A:2, 362-A:3,
+29 362-A:4, 362-A:5, 362-A:6, 362-A:7, 362-A:8, 363-B, 371, 374:2-a, 374:26, 374:48-56, 374-A, 374-C,
+30 374-F, 378:6-a, and 378:37 shall, unless otherwise provided herein, be applicable to rural electric
+
+HB1432 -ASINTRODUCED
+-Page2-
+1 cooperatives, without regard to whether a certificate of regulation or deregulation is on file with the
+2 public utilities commission. The provisions of RSA 374-A and the provisions of RSA 374-F:3, V(b)
+3 and (f) and RSA 374-F:7 shall be applicable to rural electric cooperatives for which a certificate of
+4 deregulationisonfilewiththepublicutilitiescommissiontothesameextentasmunicipalutilities.
+5 III. A condominium association under RSA 356-B, which does not permit
+6 commercial or business enterprises, may request that the rural electric cooperative charge
+7 the same electric rate as condominium residential units for domestic septic and well
+8 pumpsservedby asingle-phase electricmeter. Arural electriccooperativeinreceiptof the
+9 association request shall charge the requested rate to the residential rate effective for the
+10 next billing cycle after the request is received. The rural electric cooperative is not
+11 responsible for verifying that the association meets the requirements under RSA 356-B:45,
+12 II-a or that the meter is serving domestic septic and well-pump usage and is not being used
+13 forcommercialorbusinessenterprises.
+14 5 NewSection;MunicipalElectricUtilities;CondominiumCharges. AmendRSA38byinserting
+15 aftersection35thefollowingnewsection:
+16 38:35-a Condominium Charges. A condominium association under RSA 356-B, which does not
+17 permit commercial or business enterprises, may request that the municipal electric utility charge
+18 the same electric rate as condominium residential units for domestic septic and well pumps served
+19 by a single-phase electric meter. A municipal electric utility in receipt of the association request
+20 shall charge the requested rate to the residential rate effective for the next billing cycle after the
+21 requestisreceived. Themunicipalelectricutilityisnotresponsibleforverifyingthattheassociation
+22 meets the requirements under RSA 356-B:45, II-a or that the meter is serving domestic septic and
+23 well-pumpusageandisnotbeingusedforcommercialorbusinessenterprises.
+24 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

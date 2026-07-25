@@ -1,0 +1,198 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1824-FN-ASINTRODUCED
+2026SESSION
+26-3105.0
+12/09
+1824-FN
+HOUSEBILL
+ANACT relativetoschooldistrictfinancialdistress.
+SPONSORS: Rep. Damon, Sull. 8; Rep. Girard, Sull. 6; Rep. Ames, Ches. 13; Rep. E. Kelly,
+Merr. 8; Rep. Cloutier, Sull. 6; Rep. Ebel, Merr. 7; Rep. Caplan, Merr. 8; Rep.
+Bricchi,Merr.15
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Authorizes the commissioner of the department of education, with the affirmation of the joint
+legislativefiscalcommittee,toenterintoloanagreementswithfinanciallyinsolventschooldistricts.
+II. Authorizes municipalities to provide financially insolvent school districts with assistance
+from existing municipal funds and increases the maximum percentage of funding available to such
+schooldistrictsthroughacontingencyfund.
+III. Establishes the school district adequacy revolving loan fund to assist school districts with
+cashflowinanticipationofadequacypayments.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1824-FN-ASINTRODUCED
+26-3105.0
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoschooldistrictfinancialdistress.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Sections; School District Financial Distress; State Assistance; Municipal Assistance.
+2 AmendRSA198byinsertingaftersection20-dthefollowingnewsections:
+3 198:20-e School District Financial Distress; State Assistance. This section provides for the
+4 financialrecoveryof schooldistrictsthatareinfinancialinsolvency.
+5 I. Forthepurposesofthissection:
+6 (a) "Department"meansdepartmentofeducation.
+7 (b) "Commissioner"meansthecommissionerofthedepartmentofeducation.
+8 (c) "Financial insolvency" means a school district whose annual expenditures have
+9 exceededtheiravailablefundingforthefiscalyear,includingbutnotlimitedtofundsmadeavailable
+10 bythestatepursuanttoRSA198andfundsfromacontingencyfundasdefinedinRSA198:4-b.
+11 (d) "Schooldistrict"meansanypublicschooldistrictorcooperativeschooldistrict.
+12 II. Where a school district is considered to be financially insolvent, the commissioner shall
+13 develop a recovery plan, which shall include a proposed loan agreement, to be submitted to the joint
+14 legislativefiscalcommitteeasdescribedinparagraphIV.
+15 III. The commissioner, when authorized by the joint legislative fiscal committee in
+16 accordance with paragraph IV, may enter into loan agreements with school districts. These
+17 agreements may include covenants and provisions for protecting and enforcing rights that in the
+18 discretion of the commissioner may be considered reasonable and proper and not in violation of law.
+19 The maximum term of the loan agreement shall be 5 years and any interest rate for said loan shall
+20 bedeterminedbyanyindexorothermethodspecifiedintheloanagreement.
+21 IV. The commissioner shall notify the joint legislative fiscal committee, established in RSA
+22 14:30-a, when a school district is considered to be financially insolvent. Within 30 days of providing
+23 this notification, the commissioner shall submit to the joint legislative fiscal committee a copy of
+24 their recovery plan for said school district. The commissioner's recovery plan shall include at a
+25 minimumtheterms ofaloanagreement,includingtheprincipal,interest rate, andanycovenants or
+26 provisionsforprotectingandenforcingrights. Uponreceiptoftherecoveryplan,thejointlegislative
+27 committee shall hold a public meeting, in accordance with RSA 91-A, relative to the authorization of
+28 the commissioner entering into a loan agreement with a financially insolvent school district. After a
+29 period for public comment, the joint legislative fiscal committee shall vote as to whether the
+30 commissioner shall be authorized to enter into such loan agreement as submitted to the committee
+31 bythecommissioner.
+
+HB1824-FN-ASINTRODUCED
+-Page2-
+1 (a) A majority of members of the joint legislative fiscal committee shall constitute a
+2 quorum.
+3 (b) A majority of members of the joint legislative fiscal committee voting in the
+4 affirmative to approve the loan agreement as submitted by the commissioner shall authorize the
+5 commissionertoenterintotheloanagreementinaccordancewithparagraphIII.
+6 (c) A majority of members of the joint legislative fiscal committee voting in the negative
+7 to approve the loan agreement as submitted by the commissioner shall constitute a denial of the
+8 recovery plan as proposed by the commissioner. Upon denial of a recovery plan, the commissioner
+9 mayresubmitanewrecoveryplantothecommitteepursuanttotheprovisionsofthissection.
+10 V. State aid relative to special education, as defined in RSA 186-C:18 is exempt from the
+11 provisionsofthissection.
+12 198:20-f School District Financial Distress; Municipal Assistance. Any municipality in which a
+13 financially insolvent school district is located, as defined in 198:20-e, I may provide emergency
+14 assistance from existing municipal funds to said school district. If a municipality elects to provide
+15 emergencyassistance, moneys provided tothe school district shall include any repayment terms and
+16 oversightrequirementsrelativetotheemergencyassistanceprovided.
+17 2 ContingencyFund; Fiscal Year Net Assessment; Percentage Increase. Amend the introductory
+18 paragraphofRSA198:4-b,IItoreadasfollows:
+19 II. Notwithstanding any other provision of law, a school district by a vote of the legislative
+20 body may authorize, indefinitely until specific rescission, the school district to retain any unused
+21 portionof the year-end unassigned general funds, from the preceding fiscal year in subsequent fiscal
+22 years, provided that the total amount of year-end unassigned general funds does not exceed, in any
+23 fiscalyear,[5]10percentofthecurrentfiscalyear'snetassessmentunderRSA198:5.
+24 3 New Subdivision. School District Stabilization Funding. Amend RSA 194 by inserting after
+25 section61thefollowingnewsubdivision:
+26 SchoolDistrictStabilizationFunding
+27 194:62 Declaration of Intent. The intent of this subdivision is to provide a targeted, temporary
+28 fiscalstabilizationmechanismthroughtheestablishmentofaschooldistrictadequacyrevolvingloan
+29 fundtoassistdistrictswithcashflowinanticipationofadequacypayments.
+30 194:63 School District Adequacy Revolving Loan Fund. There is hereby established in the
+31 department of treasury a fund to be known as the school district adequacy revolving loan fund,
+32 which shall be kept separate and distinct from all other funds. Moneys in the fund shall be
+33 nonlapsing and shall be continually appropriated to the treasury, and shall be used to provide loans
+34 toschooldistrictsaffectedbyfiscalinsolvency.
+35 194:64 Outstanding Loan Amount. At no time shall the total outstanding amount of loans made
+36 under this subdivision exceed 75 percent of total adequacy funding to be distributed to a school
+37 district,pursuanttoRSA198:41,inanygivenyear.
+
+HB1824-FN-ASINTRODUCED
+-Page3-
+1 194:65 Certification of Disclosure. Notwithstanding any other provision of law to the contrary,
+2 the school district adequacy revolving loan fund shall be considered an allowable use of the
+3 educationtrustfundpursuanttoRSA198:39. Moneysmaybeappropriatedfromtheeducationtrust
+4 fund to the school district adequacy revolving loan fund, with such funds then being loaned to the
+5 designated school district. Prior to a school district drawing upon the adequacy revolving loan fund,
+6 thegoverningbodyofaschooldistrictshallauthorizesuchuseofthefundbyanaffirmativevoteofa
+7 majority of its members present and voting. Additionally, prior to drawing any funds from the
+8 revolvingloan fund, the school board and superintendent shall file withthe department of education
+9 a certification disclosing any activity in the preceding 2 fiscal years relative to reimbursement
+10 anticipation notes issued pursuant to RSA 198:20-d. The governor is authorized to draw a warrant
+11 from the education trust fund to be placed in the school district adequacy revolving loan fund within
+12 afiscalyearnottoexceedthesumofthefollowing:
+13 I. Seventy-five percent of total adequacy funding to be distributed to a school district
+14 pursuanttoRSA198:41withinthefiscalyearofthewarrant;and
+15 II. Seventy-five percent of the total adequacy funding estimated by the department of
+16 educationtobedistributedonSeptember1ofthefollowingfiscalyearpursuantRSA198:41,IVand
+17 RSA198:42,I.
+18 194:66 Loan Terms and Interest. Loans issued from the school district adequacy revolving loan
+19 fund shall bear interest at a rate established by the state treasurer, which shall be based on the
+20 state’scurrentcostofborrowing. Aquorumofaschooldistrict'sgoverningbody,thecommissionerof
+21 the department of education, and the state treasurer shall all agree to the terms of the loan. When
+22 anadequacypaymentisduetobedistributedpursuanttoRSA198:42:
+23 I. The portion of the adequacy payment equivalent to the outstanding principal and interest
+24 balanceoftherevolvingloanshallfirstbecreditedagainstsuchbalance;and
+25 II. Any remaining adequacy payment shall then be distributed to the relevant school
+26 district.
+27 194:67 Excess Loan Funds and Loan Repayment. On 5 years from the date when funds were
+28 initially distributed to a school district, any funds borrowed from the school district adequacy
+29 revolving loan fund shall automatically transfer to the education trust fund. All funds borrowed
+30 from the school district adequacy revolving loan fund shall be repaid by the relevant school district
+31 no later than 5 years from the date when the funds were initially distributed. Notwithstanding any
+32 other provision of law, the relevant school district shall not issue or borrow funds pursuant to RSA
+33 198:20-d prior to 5 years from the date when funds from the school district adequacy revolving loan
+34 fundwereinitiallydistributedtoaschooldistrict.
+35 4 New Subparagraph; Application of Receipts; School District Adequacy Revolving Loan Fund.
+36 AmendRSA6:12,I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraph:
+
+HB1824-FN-ASINTRODUCED
+-Page4-
+1 (411) Moneys deposited in the school district adequacy revolving loan fund as
+2 establishedinRSA194:63.
+3 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3105
+Revised03/10/2026
+HB1824-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoschooldistrictfinancialdistress.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $320,000 $318,000 $334,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 Indeterminable
+LocalExpenditures $0 $0 Indeterminable
+METHODOLOGY:
+This bill establishes a process for assisting financially insolvent school districts. The bill
+authorizes the Commissioner of the Department of Education, with approval from the Joint
+Legislative Fiscal Committee, to develop recovery plans and enter into loan agreements (up to 5
+years) with such districts. It also allows municipalities to provide emergency financial
+assistance and increases the allowable school district contingency fund balance from 5% to 10%
+ofthecurrentfiscalyear’snetassessment.
+To develop and monitor insolvent school districts, enact and implement recovery plans, and
+oversee the adequacy revolving loan fund, the Department states it would need two positions
+(SOC 13-09, starting step 9), with total estimated costs of $320,000 in FY 2027, $318,000 in FY
+2028, and $334,000 in FY 2029. This bill provides neither authorization nor funding for new
+positions.
+
+The Department states that to the extent school districts expand their authority to retain fund
+balance, district local revenue may increase due to higher cash reserve holdings receiving
+interest. This would increase by an indeterminable amount starting as early as FY 2028.
+Furthermore, to the extent districts access the adequacy revolving fund, district interest
+expendituresmayincrease.
+AGENCIESCONTACTED:
+DepartmentofEducation

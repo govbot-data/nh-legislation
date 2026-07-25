@@ -1,0 +1,408 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1533-FN-ASINTRODUCED
+2026SESSION
+26-2568
+12/09
+1533-FN
+HOUSEBILL
+ANACT relative to the use of electric bicycles and alternative electric micromobility
+devices.
+SPONSORS: Rep.Aures,Merr.13;Rep.Bean,Belk.6;Rep.Wood,Merr.13
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Prohibits the operation of any electric bicycle or any alternative electric micromobility device
+onsidewalks.
+II. Prohibits the operation of any class 3 electric bicycle or class 3 alternative electric
+micromobilitydeviceonbicycleormulti-usepaths.
+III. Definesalternativeelectronicmicromobilitydevicesandclassifiessuchdevicesidenticallyto
+electricbicycleclassifications.
+IV. Establishes a learner's permitting process for individuals between the ages of 16 and 18
+seekingtooperateaclass3electricbicycleorclass3alternativeelectricmicromobilitydevice.
+V. Requiresthatallclass3electricbicyclesandclass3alternativeelectricmicromobilitydevices
+be registered with the division of motor vehicles on an annual basis and that such bicycles and
+devicespossessaspeedometerandheadlightswhileinoperation.
+VI. Limits and clarifies the ability of municipalities to issue permits and licenses relative to
+electricbicyclesandalternativeelectricmicromobilitydevices.
+VII. Establishes a penalty of impoundment of an electric bicycle or alternative electric
+micromobilitydeviceforviolationsoftheact.
+VIII. Establishes that failure to satisfy the special rules and registration requirements for
+electric bicycles or alternative electric micromobility devices shall result in such electric bicycle or
+devicebeingregulatedasanoffhighwayrecreationalvehicle.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1533-FN-ASINTRODUCED
+26-2568
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the use of electric bicycles and alternative electric micromobility
+devices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ElectricBicycles;SpecialRulesModified. AmendRSA265:144-atoreadasfollows:
+2 265:144-a ElectricBicycles.
+3 I. Except as otherwise provided in this section, electric bicycles and operators of electric
+4 bicycles shall be afforded all the rights and privileges, and shall be subject to all of the duties, of a
+5 bicycleortheoperatorofabicycle. Anelectricbicycleisavehicletothesameextentasabicycle.
+6 II. An electric bicycle or a person operating an electric bicycle shall not be subject to the
+7 provisions of this title relating to financial responsibility, drivers' licenses, certificates of title, off
+8 highway recreational vehicles, and license plates. An electric bicycle is not a motor vehicle for these
+9 purposes, with the exception of failure to satisfy the requirements of paragraph XII of this
+10 section,whichshallresultinanelectricbicyclebeingsubjecttoRSA215-A.
+11 III. On and after January 1, 2020, manufacturers and distributors of electric bicycles shall
+12 apply a label that is permanently affixed, in a prominent location, to each electric bicycle. The label
+13 shall contain the classification number, top assisted speed, and motor wattage of the electric bicycle,
+14 andshallbeprintedinArialfontinatleast9-pointtype.
+15 IV. No person shall tamper with or modify an electric bicycle so as to change the motor-
+16 powered speed capability or engagement of an electric bicycle, unless he or she appropriately
+17 replacesthelabelindicatingtheclassificationrequiredpursuanttoparagraphIII.
+18 V. An electric bicycle shall comply with the equipment and manufacturing requirements for
+19 bicycles adopted by the United States Consumer Product Safety Commission in 16 C.F.R. section
+20 1512.
+21 VI. An electric bicycle shall operate in a manner so that the electric motor is disengaged or
+22 ceasestofunctionwhentheriderstopspedalingorwhenthebrakesareapplied.
+23 VII. An electric bicycle may be operated wherever a bicycle may be operated, subject to the
+24 followinglimitations:
+25 (a) A class 1 or class 2 electric bicycle may be ridden on bicycle paths or on multi-use
+26 pathswherebicyclesarepermitted. However,acity,town,orstateagencyhavingjurisdictionovera
+27 bicycle or multi-use path may prohibit the operation of a class 1 or class 2 electric bicycle on that
+28 path.
+
+HB1533-FN-ASINTRODUCED
+-Page2-
+1 (b) A class 3 electric bicycle shall not be ridden on a bicycle or multi-use path [unless it
+2 is within or adjacent to a highway or roadway, or unless a city, town, or state agency having
+3 jurisdictionoverthepathpermitstheoperationofclass3electricbicyclesonthatpath].
+4 (c) All classes of electric bicycles shall not be ridden on sidewalks, as defined in
+5 RSA259:100.
+6 (d) All classes of electric bicycles may park on a sidewalk pursuant to RSA
+7 265:152.
+8 VIII. The provisions of paragraph VII shall not apply to a trail designated as non-motorized
+9 if such trail has a natural surface tread made by clearing and grading the native soil with no added
+10 surfacing materials. A city, town, or state agency with jurisdiction over such a trail may regulate
+11 theuseofelectricbicyclesonsuchatrail.
+12 IX. No person less than 16 years of age may operate a class 3 electric bicycle. A person less
+13 than 16 years of age may ride as a passenger on a class 3 electric bicycle that is designed to
+14 accommodate passengers. A person who is 16 years of age or older and under 18 years of age
+15 may operate a class 3 electric bicycle if they possess a learner's permit in accordance with
+16 RSA265:146-a.
+17 X. No person less than 18 years of age may ride or sit as a passenger on a class 3 electric
+18 bicycle unless he or she wears a properly-fitted and fastened bicycle helmet that meets standards
+19 provided by either the United States Consumer Product Safety Commission or the American Society
+20 forTestingandMaterials,orstandardssubsequentlyestablishedbythoseentities.
+21 XI. All class 3electric bicycles shall beequipped with a speedometer that displays the speed
+22 the bicycle is traveling in miles per hour and headlights, which are adequate to reveal a
+23 personorvehicleatadistanceof300feetahead.
+24 XII. Any class 3 electricbicycle that does not satisfy the requirements of this section
+25 and RSA 265:146-c, and if applicable, RSA 265:146-a, shall be considered an off highway
+26 recreationalvehicle(OHRV)andsubjecttotheprovisionsofRSA215-A.
+27 XIII. Violation of this section by any operator of an electric bicycle shall result in
+28 the impoundment of any electric bicycle for a period of a minimum of 15 days, but not to
+29 exceed30days.
+30 2 New Sections; Learner's Permits; Registration Processes; Established. Amend RSA 265 by
+31 insertingaftersection146thefollowingnewsections:
+32 265:146-a Class 3Electric Bicycle Learner's Permit. Uponapplication, the department of safety
+33 shall issue a class 3 electric bicycle learner's permit to a person who is 16 years of age or older and
+34 under 18 years of age. Applicants for such permit shall be required to pass a written examination
+35 preparedbythedirector. Nopersonunder18yearsofageshalloperateaclass3electricbicycleona
+36 way of this state unless such person possesses a class 3 electric bicycle learner's permit. No person
+37 shall knowingly authorize or allow the operation of a class 3 electric bicycle owned by the person or
+
+HB1533-FN-ASINTRODUCED
+-Page3-
+1 in his or her charge on a way of this state by any person under 18 years of age who does not hold a
+2 class3electricbicyclelearner'spermit.
+3 I. For the purposes of this section, "class 3 electric bicycle" has the same meaning as in RSA
+4 259:27-a,III.
+5 II. Violation of this section by any owner or operator of a class 3 electric bicycle shall result
+6 in the impoundment of the class 3 electric bicycle for a period of a minimum of 15 days, but not to
+7 exceed 30 days. Nothing in this section shall restrict the authority to issue penalties pursuant to
+8 RSA265:150,RSA265:153,oranyotherprovisionoflaw.
+9 265:146-b Class 3 Alternative Electric Micromobility Device Learner's Permit. Upon
+10 application, the department of safety shall issue a class 3 alternative electric micromobility device
+11 learner'spermittoapersonwhois16yearsofageorolderandunder18yearsofage. Applicantsfor
+12 such permit shall be required to pass a written examination prepared by the director. No person
+13 under18yearsofageshalloperateaclass3alternativeelectricmicromobilitydeviceonawayofthis
+14 state unless such person possesses a learner's permit in accordance with this section. No person
+15 shallknowinglyauthorizeorallowtheoperationofaclass3alternativeelectricmicromobilitydevice
+16 owned by the person or in his or her charge on a way of this state by any person under 18 years of
+17 agewhodoesnotholdaclass3alternativeelectricmicromobilitydevicelearner'spermit.
+18 I. Forthepurposesofthissection,"alternativeelectricmicromobility"hasthesamemeaning
+19 asinRSA259:27-b.
+20 II. Violation of this section by any owner or operator of an alternative electric micromobility
+21 deviceshallresultintheimpoundmentofthedeviceforaperiodofaminimumof15days,butnotto
+22 exceed 30 days. Nothing in this section shall restrict the authority to issue penalties pursuant to
+23 RSA265:150,RSA265:153,oranyotherprovisionoflaw.
+24 265:146-c Registration of Class 3 Electric Bicycles and Class 3 Alternative Electric
+25 Micromobility Devices. All class 3 electric bicycles and class 3 alternative electric micromobility
+26 devicesshallberegisteredwiththedivisionofmotorvehicles.
+27 I. Forthepurposesofthissection:
+28 (a) "Class 3 electric bicycle" shall have the same meaning as defined in RSA 259:27-a,
+29 III;
+30 (b) "Class 3 alternative electric micromobility device" shall have the same meaning as
+31 definedinRSA259:27-b;and
+32 (c) "Peace officer" means any sheriff or deputy sheriff, mayor or city marshal, constable,
+33 police officer or watchman, member of the national guard acting under orders while in active state
+34 service ordered by the governor under RSA 110-B:6, certified border patrol agent as defined in RSA
+35 594:26,I,orotherpersonauthorizedtomakearrestsinacriminalcase.
+36 II. An application to the division of motor vehicles to register a class 3 electric bicycle or a
+37 class 3 alternative electric micromobility device shall require the name and age of such applicant,
+
+HB1533-FN-ASINTRODUCED
+-Page4-
+1 proof of applicant's ownership of the electric bicycle or device or their authorization from the owner
+2 to operate the electric bicycle or device, and any other necessary information as determined by the
+3 director of the division of motor vehicles. The application of any person under the age of 18 years to
+4 register a class 3 electric bicycle or a class 3 alternative electric micromobility device shall be signed
+5 by such person's parent or guardian, or in the event there is no parent or guardian, then by another
+6 responsibleadult.
+7 III. The fee for registration of a class 3 electric bicycle or a class 3 alternative electric
+8 micromobility device shall be $50 per year. All fees shall be collected by the division of motor
+9 vehicles and immediately transferred to the commissioner of the department of transportation to be
+10 used for the creation and maintenance of bicycle routes, lanes, paths, or trails, pursuant to RSA
+11 230:75,XI.
+12 IV. Upon receipt of an application for registration of a class 3 electric bicycle or a class 3
+13 alternative electric micromobility device and payment of the registration fee in paragraph III, the
+14 divisionofmotorvehiclesshallissueacertificateofregistrationtotheapplicant,whichshallinclude
+15 aregistrationnumber assigned toeachelectric bicycleor alternativeelectric micromobilitydevice by
+16 thedivisionofmotorvehicles.
+17 (a) Every operator of a class 3 electric bicycle or a class 3 alternative electric
+18 micromobility device shall have the certificate of registration for each electric bicycle or device upon
+19 theirpersonortheregistrationnumberpermanentlyaffixedtoeachelectricbicycleordevice.
+20 (b) Theexpirationdateofacertificateofregistrationshallbeoneyearfollowingthedate
+21 ofissuanceofthecertificate.
+22 V. This section shall not apply to class 3 electric bicycles or class 3 alternative electric
+23 micromobility devices owned or operated by any peace officer wearing a distinctive uniform during
+24 the course of their duties. This section shall also not apply to pocket bikes, mopeds, motorcycles, or
+25 anyothermotorizedvehiclenotwithinRSA259:27-a,IIIandRSA259:27-b.
+26 VI. Except as otherwise provided, it is a violation for any person to operate a class 3 electric
+27 bicycle or a class 3 alternative electric micromobility device unless such electric bicycle or device
+28 maintainsregisteredstatuswiththedivisionofmotorvehicles,pursuanttothissection. Violationof
+29 this section by any owner or operator of a class 3 electric bicycle or class 3 alternative electric
+30 micromobilitydeviceshall result intheimpoundment of suchelectric bicycleor devicefor aperiod of
+31 aminimumof 15days,but nottoexceed 30days. Nothinginthissectionshall restricttheauthority
+32 toissuepenaltiespursuanttoRSA265:150,RSA265:153,oranyotherprovisionoflaw.
+33 3 New Section; Alternative Electric Micromobility; Defined. Amend RSA 259 by inserting after
+34 section27-athefollowingnewsection:
+35 259:27-b AlternativeElectricMicromobility. "Alternativeelectricmicromobility"shallmeanany
+36 scooter, unicycle, tricycle, skateboard, or similar device equipped with an electric motor of less than
+37 750 watts. The term shall not include any bicycle as defined in RSA 259:6; any electric bicycle as
+
+HB1533-FN-ASINTRODUCED
+-Page5-
+1 defined in RSA 259:27-a; any moped as defined in RSA 259:57; any motorcycle as defined in RSA
+2 259:63; any motor-driven cycle as defined in RSA 259:65; any neighborhood electric vehicle as
+3 defined in RSA 259:66-b; any pocket bike as defined in RSA 259:77-a; and any electric personal
+4 assistivemobilitydeviceas defined inRSA269:1. Alternative electric micromobilitydevices shall be
+5 classifiedasfollows:
+6 I. "Class 1 alternative electric micromobility device" shall mean a device equipped with a
+7 motor that provides assistance only when the rider is operating such device, and that ceases to
+8 provideassistancewhenthedevicereachesthespeedof20milesperhour.
+9 II. "Class 2 alternative electric micromobility device" shall mean a device equipped with a
+10 motor that may be used exclusively to propel the device and that is not capable of providing
+11 assistancewhenthedevicereachesthespeedof20milesperhour.
+12 III. "Class 3 alternative electric micromobility device" shall mean a device equipped with a
+13 motor that provides assistance only when the rider is operating such device and that ceases to
+14 provideassistancewhenthedevicereachesthespeedof28milesperhour.
+15 4 New Section; Alternative Electric Micromobility Devices. Amend RSA 265 by inserting after
+16 section144-athefollowingnewsection:
+17 265:144-b AlternativeElectricMicromobilityDevices.
+18 I. Exceptasotherwiseprovidedinthissection,alternativeelectricmicromobilitydevicesand
+19 operators of such devices shall be afforded all the rights and privileges, and shall be subject to all of
+20 theduties,ofanelectricbicycleortheoperatorofanelectricbicycle.
+21 II. An alternative electric micromobility device or a person operating an alternative electric
+22 micromobility device shall not be subject to the provisions of this title relating to financial
+23 responsibility, drivers' licenses, certificates of title, off highway recreational vehicles, and license
+24 plates. An alternative electric micromobility device is not a motor vehicle for these purposes, with
+25 theexceptionoffailuretosatisfytherequirementsofparagraphIXofthissection,whichshallresult
+26 inanalternativeelectricmicromobilitydevicebeingsubjecttoRSA215-A.
+27 III. An alternative electric micromobility device shall operate in a manner so that the
+28 electric motor is disengaged or ceases to function when the rider stops operating the device or when
+29 brakesareapplied.
+30 IV. Analternativeelectricmicromobilitydevicemaybeoperatedwhereveranelectricbicycle
+31 maybeoperated,subjecttothefollowinglimitations:
+32 (a) A class 1 or class 2 alternative electric micromobility device may be ridden on bicycle
+33 paths or on multi-use paths where electric bicycles are permitted. However, a city, town, or state
+34 agency having jurisdiction over a bicycle or multi-use path may prohibit the operation of a class 1 or
+35 class2alternativeelectricmicromobilitydeviceonthatpath.
+36 (b) A class 3 alternative electric micromobility device shall not be ridden on a bicycle or
+37 multi-usepath.
+
+HB1533-FN-ASINTRODUCED
+-Page6-
+1 (c) All classes of alternative electric micromobility devices shall not be ridden on
+2 sidewalks,asdefinedinRSA259:100.
+3 (d) All classes of alternative electric micromobility devices may park on a sidewalk
+4 pursuanttoRSA265:152.
+5 V. The provisions of paragraph IV shall not apply to a trail designated as non-motorized if
+6 such trail has a natural surface tread made by clearing and grading the native soil with no added
+7 surfacing materials. A city, town, or state agency with jurisdiction over such a trail may regulate
+8 theuseofalternativeelectricmicromobilitydevicesonsuchatrail.
+9 VI. No person less than 16 years of age may operate a class 3 alternative electric
+10 micromobility device. A person less than 16 years of age may ride as a passenger on a class 3
+11 alternative electric micromobility device that is designed to accommodate passengers. A person who
+12 is 16 years of age or older and under 18 years of age may operate a class 3 alternative electric
+13 micromobilitydeviceiftheypossessalearner'spermitinaccordancewithRSA265:146-b.
+14 VII. No person less than 18 years of age may ride or sit as a passenger on a class 3
+15 alternativeelectricmicromobilitydeviceunlessheorshewearsaproperly-fittedandfastenedbicycle
+16 helmet that meets standards provided by either the United States Consumer Product Safety
+17 Commission or the American Society for Testing and Materials, or standards subsequently
+18 establishedbythoseentities.
+19 VIII. All class 3 alternative electric micromobility devices shall be equipped with a
+20 speedometer that displays the speed the alternative electric micromobility device is traveling in
+21 miles per hour and headlights, which are adequate to reveal a person or vehicle at a distance of 300
+22 feetahead.
+23 IX. Any class 3 alternative electric micromobility device that does not satisfy the
+24 requirements of this section and RSA 265:146-c, and if applicable, RSA 265:146-b, shall be
+25 consideredanoffhighwayrecreationalvehicle(OHRV)andsubjecttotheprovisionsofRSA215-A.
+26 X. Violation of this section by any owner or operator of an alternative electric micromobility
+27 deviceshallresultintheimpoundmentofthedeviceforaperiodofaminimumof15days,butnotto
+28 exceed30days.
+29 5 MunicipalPermits;Clarification. AmendRSA265:146toreadasfollows:
+30 265:146 Permits. The mayor of a city, or selectmen of a town, may, in their discretion, upon any
+31 special occasion, grant permits to any persons to ride bicycles or mopeds, at any rate of speed, for a
+32 time not exceeding one day upon specified portions of the public ways of such city or town, and may
+33 annex such other reasonable conditions to such permits as they may deem proper. Nothing in this
+34 section shall restrict the division of motor vehicles' authority to issue certificates of
+35 registration for class 3 electric bicycles and class 3 alternative electric micromobility
+36 devicespursuanttoRSA265:146-c.
+
+HB1533-FN-ASINTRODUCED
+-Page7-
+1 6 Municipal Ordinances and Bylaws; Authority to Issue Licenses Removed. Amend RSA
+2 265:149toreadasfollows:
+3 265:149 Ordinances and Bylaws. Any city or town shall have the power to make ordinances,
+4 bylawsorregulationsrespectingtheuseandequipmentofbicycles,exceptmopedsasdefinedinRSA
+5 259:57,onitsways,providedthatanysuchordinances,bylawsorregulationsenactedwithrespectto
+6 such equipment shall be at least as stringent as the requirements of RSA 266:85-89. [Any city or
+7 townmayrequirethatbicycles,exceptmopedsasdefinedinRSA259:57,belicensedandmaycharge
+8 reasonablefeesforsuchlicensing.]
+9 7 New Paragraph; Commissioner of Transportation; Powers and Duties; Collection and
+10 Expenditure of Registration Fees. Amend RSA 230:75 by inserting after paragraph X the following
+11 newparagraph:
+12 XI. Shall expend moneys collected from class 3 electric bicycle and class 3 alternative
+13 electric micromobility device registration fees, as established in RSA 265:146-c, for the purposes of
+14 creatingandmaintainingbicycleroutes,lanes,paths,ortrailsinthestate.
+15 8 Off Highway Recreational Vehicles; Definition Modified. Amend RSA 215-A:1, VI to read as
+16 follows:
+17 VI. "Off highway recreational vehicle" means any mechanically propelled vehicle used for
+18 pleasureorrecreationalpurposesrunningonrubbertires,tracks,orcushionofairanddependenton
+19 the ground or surface for travel, or other unimproved terrain whether covered by ice or snow or not,
+20 where the operator sits in or on the vehicle. All legally registered motorized vehicles when used for
+21 off highway recreational purposes shall fall within the meaning of this definition; provided that,
+22 when said motor vehicle is being used for transportation purposes only, it shall be deemed that said
+23 motor vehicle is not being used for recreational purposes. For purposes of this chapter "off highway
+24 recreational vehicle" shall be abbreviated as OHRV. OHRVs shall include any pedaled vehicle
+25 equipped with a motor that is not included in the definition of electric bicycle and utility terrain
+26 vehicles, but shall not include snowmobiles as defined in RSA 215-C or electric bicycles as defined in
+27 RSA259:27-a,withtheexceptionofinapplicationtoRSA265:144-a,XII.
+28 9 Motor Vehicles; Words and Phrases Defined; Off Highway Recreational Vehicle. Amend
+29 259:69toreadasfollows:
+30 259:69 Off Highway Recreational Vehicle. "Off highway recreational vehicle" shall mean any
+31 mechanically propelled vehicle used for pleasure or recreational purposes running on rubber tires,
+32 tracks, or cushion of air and dependent on the ground or surface for travel, or other unimproved
+33 terrain whether covered by ice or snow or not, where the driver sits in or on the vehicle. All legally
+34 registered vehicles when used for off highway recreational purposes shall fall within the meaning of
+35 this definition; provided that when said vehicle is being used for transportation purposes only, it
+36 shall be deemed that said vehicle is not being used for recreational purposes. Off highway
+37 recreational vehicle shall include any pedaled vehicle equipped with a motor that is not included in
+
+HB1533-FN-ASINTRODUCED
+-Page8-
+1 the definition of electric bicycle, but shall not include snowmobiles as defined in RSA 215-C:1 or
+2 electric bicycles as defined in RSA 259:27-a, with the exception of in application to RSA
+3 265:144-a,XII.
+4 10 Application.
+5 I. The director of the division of motor vehicles shall establish a procedure for the
+6 submission and approval of applications for registration of class 3 electric bicycles and class 3
+7 alternativeelectricmicromobilitydevices,inaccordancewithRSA265:146-c.
+8 II. The commissioner of the department of safety shall establish a procedure for the
+9 submission and approval of applications for learner's permits for class 3 electric bicycles and class 3
+10 alternativeelectricmicromobilitydevices,inaccordancewithRSA265:146-aandRSA265:146-b.
+11 11 EffectiveDate. ThisactshalltakeeffectMay1,2026.
+
+LBA
+26-2568
+12/5/25
+HB1533-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the use of electric bicycles and alternative electric micromobility
+devices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $1Mto$1.2MIncreasePerYear
+RevenueFund(s) Restricted-RegistrationFeestoDOT
+Expenditures* $0 $361,000 Indeterminable
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill relates to the use of electric bicycles and alternative electric micromobility devices and
+willimpacttheDepartmentofSafetyandDepartmentofTransportation. Certainmunicipalities
+may also be impacted. It should be noted that this bill's effective date of May 1, 2026, would
+likely preceed the bill's date of passage, should it pass, and therefore pose implementation
+challenges.
+DepartmentofSafety
+The Department states this bill requires all class 3 electric bicycles and class 3 alternative
+electric micromobility devices operated on public ways to be registered annually with the
+Division of Motor Vehicles (DMV) for a $50 fee, which must be transferred to the Department of
+Transportation (DOT). The Department states that the DMV must create a registration
+
+program in MAAP, issue certificates or decals, implement a new learner’s permit in VISION,
+develop new written examination questions, create study materials and a 100-question test
+bank, and update VISION, MAAP, and IDEMIA systems. The DMV must also create new
+registration and licensing forms and train staff. Based on the estimated device population of
+20,000 class 3 devices, with annual growth of 10%, the Department has provided the following
+costandrevenueimpactsfromthisbill:
+Revenue
+FY2027:20,000x$50=$1,000,000
+FY2028:22,000x$50=$1,100,000
+FY2029:24,200x$50=$1,210,000
+Expenditures
+SystemChange/UpgradeCosts $331,000
+RegistrationCertificate/DecalProduction $9,000
+KnowledgeTest&StudyMaterialDevelopmentandPrinting $21,000
+Total $361,000
+These costs are anticipated to occur in FY 2027, however, the DMV may incur ongoing
+indeterminablecostsrelatedtothisbillinFY2028andbeyond.
+DepartmentofTransportation
+TheDepartmentnotesthatthisbillcouldimplyitisresponsibleformaintainingbicycleroutes,a
+task the Department is not currently staffed or funded to do, and a task the revenue from this
+billmaynotbesufficienttocover.
+NewHampshireMunicipalAssociation
+The Association states that under this bill, municipal police departments will be charged with
+enforcement of new statutes regarding the licensing, registration and use of class 3 alternative
+electric micromobility devices. While it is not possible to determine how many additional
+investigations or violations would be brought because of the changes contained in this bill, there
+may be increased municipal law enforcement costs associated with the changes. In addition, the
+repeal of the enabling statute allowing any city or town to require that “bicycles, except mopeds
+as defined in RSA 259:57, be licensed and may charge reasonable fees for such licensing” may
+cause a slight decrease in revenue in municipalities, if any, that have exercised this option. The
+Association states it is not aware of any municipalities that require local licenses. Overall, the
+impact of this bill is likely to be less than $10,000 in most municipalities, potentially more in
+largecities.
+
+AGENCIESCONTACTED:
+Department of Safety, Department of Transportation, and New Hampshire Municipal
+Association

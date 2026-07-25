@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House (2nd)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1483-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0163h
+26Mar2026...0960h
+2026SESSION
+26-2716
+04/09
+1483-FN
+HOUSEBILL
+ANACT creatingamotorvehiclelicenseplateforamateurradiooperators.
+SPONSORS: Rep.Ulery,Hills.13
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the creation of vanity license plates and decals that identify amateur radio
+operatorsbytheirFCCcallsignsoralightningboltsymbol.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1483-FN-ASAMENDEDBYTHEHOUSE
+5Feb2026...0163h
+26Mar2026...0960h 26-2716
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatingamotorvehiclelicenseplateforamateurradiooperators.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;VanityNumberPlates;IdentifyingDecalsforAmateurRadioOperators. Amend
+2 RSA261byinsertingaftersection89-ethefollowingnewsection:
+3 261:89-f VanityRegistrationPlatesforAmateurRadioOperators.
+4 I. The director of motor vehicles is directed to solicit designs for a vanity plate clearly
+5 identifying the owner of the vehicle to be an amateur radio operator and including the call sign of
+6 said operator who shall present Federal Communications Commission (FCC) certification as a
+7 licensedradiooperatoruponapplication.
+8 II. If the FCC-issued call sign is not displayed, the registrant may request a standard issue
+9 platefeaturingalightningboltsymboltoindicatetheirstatusasalicensedamateurradiooperator.
+10 (a) Thereshallbenoduplicationofnumbers.
+11 (b) A list of all such plate holders shall be made available to the New Hampshire
+12 department of safety, division of homeland security and emergency management, for the sole
+13 purpose of contact and coordination of such persons in a natural disaster or other public safety
+14 requirement. AllotherdataisprivilegedperRSA260:14-a.
+15 (c) Nothing in this section shall be construed to confer any special privileges, including
+16 but not limited to the use of emergency lights, exemption from traffic laws, or access to restricted
+17 areas,exceptwhenactingundertheexpressdirectionofauthorizedpublicsafetypersonnel.
+18 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2716
+04/06/2026
+HB1483-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0960h)
+ANACT creatingamotorvehiclelicenseplateforamateurradiooperators.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) GeneralFund
+Expenditures* $0 $25,000 $0 $0
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,
+costsassociatedwiththecollection/administrationofhighwayfundrevenue
+FundingSource(s)
+bytheDepartmentofSafetyisdeductedpriortofundsbeingcreditedas
+unrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill authorizes the creation of vanity license plates and decals that identify amateur radio
+operators by their Federal Communications Commission (FCC) call signs or a lightning bolt
+symbol. The Department of Safety states this would require system programming changes to
+accommodate the new plate types and the associated eligibility verification process, at an
+estimated one-time cost of approximately $25,000. Vanity plates are produced on-demand, and
+the cost of plate production, materials, and distribution is covered by existing vanity and plate
+fees. To the extent this bill would generate additional vanity plate sales, there would be an
+increase in state revenue. Demand for such plates cannot be estimated and therefore this bill's
+impactonstaterevenueisindeterminable.
+AGENCIESCONTACTED:
+DepartmentofSafety

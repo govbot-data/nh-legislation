@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1503-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2493
+07/08
+1503
+HOUSEBILL
+ANACT allowing the department of education to allocate funds to create a database of
+mapsofpublicschoolsforemergencyusecases.
+SPONSORS: Rep. Ladd, Graf. 5; Rep. Popovici-Muller, Rock. 17; Rep. Peeples, Hills. 14; Rep.
+Damon,Sull.8;Rep.Kofalt,Hills.32;Sen.Sullivan,Dist18
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the department of education to allocate funds to create a database of maps of
+publicschoolsforemergencyusecases.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1503-VERSIONADOPTEDBYBOTHBODIES
+26-2493
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing the department of education to allocate funds to create a database of
+mapsofpublicschoolsforemergencyusecases.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Education; Public School Infrastructure Fund and Public School
+2 Infrastructure Commission; Public School Infrastructure Fund. Amend RSA 198:15-y, III by
+3 insertingaftersubparagraph(g)thefollowingnewsubparagraph:
+4 (h) Enhance public school emergency readiness with critical incident mapping
+5 technology to allow emergency response personnel and internal teams to operate from a unified
+6 understanding of site-specific nomenclature and other place characteristics associated with building
+7 infrastructureandgrounds.
+8 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

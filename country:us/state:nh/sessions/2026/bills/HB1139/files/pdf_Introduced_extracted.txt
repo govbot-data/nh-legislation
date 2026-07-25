@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1139-FN-ASINTRODUCED
+2026SESSION
+26-2319
+09/08
+1139-FN
+HOUSEBILL
+ANACT relativetocriminaltrespassonsecuredpremises.
+SPONSORS: Rep.Aylward,Merr.5;Rep.Fracht,Graf.16
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill amends the definition of secured premises for the purpose of the offense of criminal
+trespass, and provides additional requirements for property owners to establish a part of their
+propertyasasecuredpremises.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1139-FN-ASINTRODUCED
+26-2319
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocriminaltrespassonsecuredpremises.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CriminalTrespass;SecuredPremises. AmendRSA635:2,III(b)(1)toreadasfollows:
+2 (1) Inanysecuredpremises, knowingthat the areaentered or remained in was
+3 asecuredpremises;
+4 2 CriminalTrespass;SecuredPremises. AmendRSA635:2,Vtoreadasfollows:
+5 V. In this section, "secured premises" means any [place] private property which is posted
+6 in a manner that complies with RSA 635:4 [prescribed by law or in a manner reasonably likely to
+7 cometo theattention of intruders], or which is fenced or otherwise enclosed in amanner designed to
+8 excludeintruders.
+9 3 UnauthorizedEntries;PrescribedMannerofPosting. AmendRSA635:4toreadasfollows:
+10 635:4 PrescribedMannerofPosting.
+11 I. Apersonmayposthislandtoprohibitcriminaltrespassandphysicalactivitiesbyposting
+12 signs of durable material with any words describing the physical activity prohibited, such as "No
+13 Hunting or Trespassing", printed with block letters no less than 2 inches in height, and with the
+14 name and address of the owner or lessee of such land. Such signs shall be posted not more than 100
+15 yards apart on all sides and shall also be posted at gates, bars and commonly used entrances. This
+16 sectionshallnotpreventanyownerfromaddingtothelanguagerequiredbythissection.
+17 II. Anoticeorsignpostedincompliancewiththissectionshall:
+18 (a) Beclearlyvisiblefromanypublicroadorcommonlyusedaccesspoint;
+19 (b) Bepostedonorwithintheboundariesofprivateproperty;and
+20 (c) Clearlycommunicatethatthepropertyisprivateandaccessisrestricted.
+21 III. Compliance with the factors in paragraph II may be considered by the finder of
+22 fact in any case where there is a dispute regarding whether a premises was adequately
+23 postedorwhetherpropernoticewasgiven.
+24 IV. In cases where access to the premises is commonly used by the public, such as
+25 walking trails, lakes, or recreational areas, landowners shall make reasonable efforts to
+26 provide access or alternative routes for lawful use where such access does not interfere
+27 withtheowner’slegitimateinterestsinrestrictingotherusesofthepremises.
+28 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2319
+11/3/25
+HB1139-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocriminaltrespassonsecuredpremises.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

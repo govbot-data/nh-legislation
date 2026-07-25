@@ -1,0 +1,157 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House (2nd)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1571-FN-A-ASAMENDEDBYTHEHOUSE
+19Feb2026...0412h
+26Mar2026...0900h
+2026SESSION
+26-2852
+12/06
+1571-FN-A
+HOUSEBILL
+ANACT requiring the department of education to review statewide academic standards
+andcurricula.
+SPONSORS: Rep. Noble, Hills. 2; Rep. Thibault, Merr. 25; Rep. Peternel, Carr. 6; Rep.
+Freeman,Belk.8;Rep.Korzen,Coos7;Rep.Belcher,Carr.4
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the department of education to revise the statewide academic standards
+decenniallybeginninginJune2026.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1571-FN-A-ASAMENDEDBYTHEHOUSE
+19Feb2026...0412h
+26Mar2026...0900h 26-2852
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to review statewide academic standards
+andcurricula.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Educational Content of an Adequate Education; Decennial Revision
+2 Required. AmendRSA193-E:2-abyinsertingafterparagraphII-athefollowingnewparagraph:
+3 II-b. The statewide academic standards, as defined in RSA 193-E:2-a, VI(b), shall be reviewed
+4 for possible revision every 10 years, beginning in June 2026. The department of education shall
+5 initiate a revision of these standards, as well as the current science standards, to ensure alignment
+6 with high-quality criteria that emphasize rigor, clarity, and relevance. The revised standards shall
+7 reflect a coherent progression of knowledge, skills, and competencies across grade levels. The
+8 development process shall include meaningful participation by students, parents, and educators,
+9 consistentwiththeintentofRSA193-C:1,III.
+10 2 New Subparagraph; Educational Content of an Adequate Education; Curriculum and
+11 Materials List Added. Amend RSA 193-E:2-a, V by inserting after subparagraph (b) the following
+12 newsubparagraphs:
+13 (c) The department shall make available a list of high quality curriculum and
+14 instructional materials based upon therevised standards from whichschool districts may select new
+15 curriculumandmaterials.
+16 (d) The state shall revise the statewide education improvement and assessment
+17 program, as established in RSA 193-C, to align with the revised standards developed pursuant to
+18 RSA193-E:2-a,II-b.
+19 3 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2852
+04/06/2026
+HB1571-FN-A-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0900h)
+ANACT requiring the department of education to review statewide academic standards and
+curricula.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$1,121,000-
+Expenditures* $0 $0 $1,792,000
+$1,221,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective July 1, 2027, requires the Department of Education to review statewide
+academic standards for possible revision every 10 years, including revising current science
+standards to ensure greater rigor, clarity, relevance, and progression of knowledge across grade
+levels. The bill also requires the Department to make available a list of high-quality curriculum
+andinstructionalmaterialsalignedwiththerevisedstandards(fromwhichdistrictsmaychoose)
+and to update the statewide education improvement and assessment program to align with the
+revisedstandards.
+To estimate the fiscal impact of this bill, the Department reviewed prior costs associated with
+statewide academic standards revisions, prevailing market rates for contracted content-area
+experts, and typical expenditures related to stakeholder engagement, publication and
+dissemination, assessment alignment, and high-quality instructional materials (HQIM) review
+and vetting. The Department also considered anticipated costs associated with hiring or filling
+Department staff positions necessary to support this work. Estimated costs were assigned by
+fiscal year based on when required activities would reasonably occur during implementation,
+recognizingthattheseactivitieswillspanthe10-yearrevisioncycle.
+TheDepartmentestimatesitwouldneedthefollowingpositionstoimplementthisbill:
+
+ One (1) Instructional Coordinator III – Science including Engineering and technologies,
+andComputerScience
+ One(1)InstructionalCoordinatorIII–SocialStudiesincludingcivics,history,Holocaust,
+andgenocideeducation
+ One(1)InstructionalCoordinatorIII–ArtsEducation&WorldLanguages
+ One(1)InstructionalCoordinatorIII–Health,Wellness&PhysicalEducation
+FiscalYear CostperPosition TotalCost
+FY2028 $123,000 $492,000
+FY2029 $124,000 $496,000
+Thisbillprovidesneitherauthorizationnorappropriationforpositions.
+In addition to the personnel costs above, the Department has identified the following costs
+relativetothisbill:
+FY2028
+CostCategory Description EstimatedCost
+Fullstandardsrevisionacrossallcontentareas,
+Contractedsubject-matter includingcoherence,verticalalignment,
+$650,000
+experts disciplinaryliteracy,andearlyfoundational
+skills
+HQIMcriteria&review DevelopNH-alignedHQIMrubrics,adoption
+$150,000
+framework processes,andcross-walkstorevisedstandards
+Educatoradvisorygroups,regionalforums,
+Stakeholderengagement&
+familyengagement,translationservices,public $125,000
+facilitation
+hearings
+Reviewertraining& Trainingfor250–300reviewers;stipendsfor
+$120,000
+stipends educatorsonHQIMandstandardsreviewpanels
+Finalediting,accessibilityremediation,
+Drafting,editing,publication
+graphic/layoutdesign,digitalrepository $75,000
+preparation
+development
+Internalcoordination& 1.0FTEacrossGovernance,Assessment,&
+$180,000
+projectmanagement Academicsformulti-contentcoordination
+FY2028Total $1,300,000
+FY2029
+CostCategory Description EstimatedCost
+Testblueprintrevisions,itemdevelopment,
+Assessmentalignment(RSA $500,000to
+validation,psychometrics,vendorcontract
+193-C) $600,000
+modifications
+Additionalstakeholder Finalhearings,publiccommentintegration,
+$40,000
+review advisoryreview
+Finalpublicationand Digital/printpublication,distribution,and
+$35,000
+dissemination requireddistrictguidance
+Technicalassistancefor Transitionguidance,webinars,HQIMalignment
+$50,000
+districts support
+
+$625,000to
+FY2029Total
+$725,000
+AGENCIESCONTACTED:
+DepartmentofEducation

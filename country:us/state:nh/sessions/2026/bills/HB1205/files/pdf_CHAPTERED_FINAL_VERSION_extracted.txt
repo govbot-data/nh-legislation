@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER51
+HB1205-FINALVERSION
+03/26/2026 1132s
+2026SESSION
+26-2591
+08/09
+1205
+HOUSEBILL
+ANACT prohibiting state and county owned lands from participating in timber carbon
+sequestrationprojects.
+SPONSORS: Rep. A. Davis, Coos 2; Rep. Tierney, Coos 1; Rep. Durkin, Coos 1; Rep. Cole, Hills.
+26
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill prohibits the enrollment of state and county owned lands in timber carbon sequestration
+projects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER51
+HB1205-FINALVERSION
+03/26/2026 1132s 26-2591
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting state and county owned lands from participating in timber carbon
+sequestrationprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 51:1 New Section; Public Land Enrollment in Timber Carbon Sequestration Prohibited. Amend RSA
+2 79byinsertingaftersection37thefollowingnewsection:
+3 79:38 Public Land Enrollment in Timber Carbon Sequestration Programs Prohibited. No fee simple
+4 ownership lands owned by the state or by a county shall be enrolled in a timber carbon sequestration
+5 program.
+51:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May08,2026
+EffectiveDate:July07,2026

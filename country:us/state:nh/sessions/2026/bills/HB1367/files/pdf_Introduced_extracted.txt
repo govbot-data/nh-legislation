@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1367-FN-ASINTRODUCED
+2026SESSION
+26-3113
+09/08
+1367-FN
+HOUSEBILL
+ANACT establishingacriminaloffenseofdoxing.
+SPONSORS: Rep. Roy, Rock. 31; Rep. Devoid, Merr. 1; Rep. D. Mannion, Rock. 25; Rep.
+Paquette, Hills. 25; Rep. Rhodes, Ches. 17; Sen. Birdsell, Dist 19; Sen. Gannon,
+Dist23
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds and defines an offense of doxing, and provides criminal and civil penalties for
+violations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1367-FN-ASINTRODUCED
+26-3113
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingacriminaloffenseofdoxing.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Doxing. Amend RSA by inserting after chapter 644-A the following new
+2 chapter:
+3 CHAPTER644-B
+4 DOXING
+5 644-B:1 Definitions.
+6 Inthischapter:
+7 I. "Doxing" means the intentional publication of another person's personal identifying
+8 information without their consent, with the intent to threaten, intimidate, harass, or cause
+9 substantialemotionaldistressorphysicalharmtothatpersonortheirimmediatefamily.
+10 II. "Patternofharassment"means2ormoreactsoveraperiodoftime,howevershort,which
+11 evidences a continuity of purpose. A pattern of harassment shall not include constitutionally
+12 protectedactivity,norshallitincludeconductthatwasnecessarytoaccomplishalegitimatepurpose
+13 independent of making contact with the targeted person. A course of conduct may include, but not
+14 belimitedto,anyofthefollowingactsoracombinationthereof:
+15 (a) Threateningthesafetyofthetargetortheirfamily.
+16 (b) Following,approaching,orconfrontingthetargetortheirfamily.
+17 (c) Appearingnearthehome,work,school,orotherlocationswherethetargetis.
+18 (d) Damagingthetarget'sproperty.
+19 III. "Personalidentifyinginformation"meansanyinformationthatcanbeusedtoidentifyor
+20 locate an individual, including but not limited to, home or work address, telephone number, email
+21 address,socialsecuritynumber,dateofbirth,financialaccountnumbers,ormedicalrecords. Itdoes
+22 not include information that is lawfully made available from public records or is part of a legitimate
+23 newsreport.
+24 IV. "Publication" means posting or disseminating information through any electronic or
+25 digitalmeans,includingtheInternet,socialmedia,oremail.
+26 V. "Immediate family" means a spouse, child, parent, sibling, or any person residing in the
+27 samehousehold.
+28 644-B:2 ProhibitedConduct.
+29 I. Apersoncommitstheoffenseofdoxingiftheperson:
+30 (a) Recklesslypublishesanotherperson'spersonalidentifyinginformation;
+
+HB1367-FN-ASINTRODUCED
+-Page2-
+1 (b) Does so with the intent to threaten, intimidate, harass, or cause substantial
+2 emotionaldistressorphysicalharmtothatpersonortheirimmediatefamily;and
+3 (c) Thepublicationcreatesareasonablefearofharmorresultsinharm.
+4 II. Thissectiondoesnotapplyto:
+5 (a) Informationpublishedwiththeconsentoftheperson.
+6 (b) Information obtained from public records or government sources and published for a
+7 lawfulpurpose.
+8 (c) Reportingofsuspectedcriminalactivitytolawenforcement.
+9 (d) Constitutionally protected speech, including journalistic activities or commentary on
+10 mattersofpublicconcern.
+11 644-B:3 Penalties.
+12 I. DoxingisaclassAmisdemeanor.
+13 II. If the doxing results in physical harm, economic loss exceeding $1,000, or is part of a
+14 patternofharassment,itisaclassBfelony.
+15 2 New Section; Civil Actions for Doxing. Amend RSA 507 by inserting after section 8-k the
+16 followingnewsection:
+17 507:8-l CivilActionforDoxing.
+18 I. A person aggrieved by a violation of RSA 644-B may bring a civil action against the
+19 violatorinsuperiorcourt.
+20 II. Remediesmayinclude:
+21 (a) Actualdamages,butnotlessthan$1,000perviolation;
+22 (b) Punitivedamagesiftheconductwaswillfulormalicious;
+23 (c) Injunctiverelieftoremovetheinformationorpreventfurtherpublication;and
+24 (d) Reasonableattorney'sfeesandcourtcosts.
+25 III. Theattorneygeneralmaybringanactiontoenforcethischapterandseekcivilpenalties
+26 upto$10,000perviolation.
+27 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3113
+11/16/25
+HB1367-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingacriminaloffenseofdoxing.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1021 -ASINTRODUCED
+2026SESSION
+26-2342
+07/05
+1021
+HOUSEBILL
+ANACT amending the date to provide written notice to a municipality of a taxpayer's
+electiontobeassessedunderthelow-incomehousingtaxcreditprogram.
+SPONSORS: Rep.Walker,Straf.19;Rep.J.MacDonald,Carr.6;Rep.Maggiore,Rock.23
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillamendsthedatetoprovidewrittennoticetoamunicipalityofataxpayer'selectiontobe
+assessedunderthelow-incomehousingtaxcreditprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1021-ASINTRODUCED
+26-2342
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT amending the date to provide written notice to a municipality of a taxpayer's
+electiontobeassessedunderthelow-incomehousingtaxcreditprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation; Appraisal of Taxable Property; Residential Property Subject to Housing Covenant
+2 UndertheLow-IncomeHousingTaxCreditProgram. AmendRSA75:1-a,Itoreadasfollows:
+3 I. To make an election for an appraisal of property subject to a housing covenant under the
+4 low-incomehousingtaxcreditprogram,thetaxpayershall,by[October1]April15precedingthetax
+5 year for which the election is sought, provide written notice to the municipality of the taxpayer's
+6 election to be assessed under this section, using a form prepared by the department of revenue
+7 administration. A property that as of April 1 of the tax year is under construction shall not be
+8 eligibletoapplyforassessmentunderthissection.
+9 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

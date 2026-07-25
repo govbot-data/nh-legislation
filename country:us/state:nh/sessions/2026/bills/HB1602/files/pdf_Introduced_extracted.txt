@@ -1,0 +1,427 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1602-FN-ASINTRODUCED
+2026SESSION
+26-3191.0
+04/09
+1602-FN
+HOUSEBILL
+ANACT creatingasafebatteryrecyclingstewardshipprogram.
+SPONSORS: Rep. Ebel, Merr. 7; Rep. Burroughs, Carr. 2; Rep. Spier, Hills. 6; Rep. Thackston,
+Ches. 12; Rep. J. Aron, Sull. 4; Rep. Barbour, Hills. 35; Rep. Bixby, Straf. 13; Rep.
+Creighton, Hills. 30; Rep. Maggiore, Rock. 23; Sen. Rosenwald, Dist 13; Sen.
+Ricciardi,Dist9;Sen.Pearl,Dist17;Sen.Avard,Dist12;Sen.Watters,Dist4
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a statewide battery stewardship program that requires safe collection,
+recycling, and management of covered batteries and battery-containing products, administered
+throughproducerparticipationandoversightbythedepartmentofenvironmentalservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1602-FN-ASINTRODUCED
+26-3191.0
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creatingasafebatteryrecyclingstewardshipprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Safe Battery Collection and Recycling Stewardship. Amend RSA 149-M by
+2 insertingaftersection64thefollowingnewsubdivision:
+3 SafeBatteryCollectionandRecyclingStewardship
+4 149-M:65 Definitions;StewardshipProgramEstablished.
+5 I. Inthissubdivision:
+6 (a) "Battery-containing product" means a product that contains or is packaged with a
+7 rechargeableorprimarybatterythatqualifiesasacoveredbattery.
+8 (b) "Battery stewardship organization" means a producer that directly implements a
+9 battery stewardship plan required under this subdivision, or one or more organizations, each with 5
+10 ormoreproducers,designatedbyagroupofproducerstoimplementsuchaplan.
+11 (c) "Collection rate" means the percentage, by weight, of covered batteries collected by a
+12 battery stewardship organization, calculated by dividing the total weight of primary and
+13 rechargeable batteries collected during the previous calendar year by the average annual weight of
+14 such batteries estimated to have been sold in New Hampshire by all producers participating in the
+15 approvedplanduringthepriorthreecalendaryears.
+16 (d) "Covered battery" means a portable battery or a medium format battery. This does
+17 notinclude:
+18 (1) Batteries contained in a medical device, as defined in 21 United States Code,
+19 section321(h) as it existed as of theeffectivedateof this section, not designed and marketed for sale
+20 orresaleprincipallytoconsumersforpersonaluse;
+21 (2) Batteriesthatcontainsanelectrolyteasafreeliquid;
+22 (3) Lead-acidbatteriesweighingmorethan11pounds;
+23 (4) Batteries in a battery-containing product that is not intended or designed to be
+24 easilyremovablefromthebattery-containingproduct;
+25 (5) Batteriesthatarebeingrecalledforsafetyreasons;and
+26 (6) Batteries designed to power a motor vehicle, part of a motor vehicle, or a
+27 component part of a motor vehicle assembled by, or for, a vehicle manufacturer or franchised dealer,
+28 includingreplacementpartsforuseinamotorvehicle.
+29 (e) "Damaged and defective batteries" means batteries identified by the producer as
+30 defectiveforsafetyreasons,orthatposeariskofheat,fire,orshortcircuit,asdescribedin49C.F.R.
+
+HB1602-FN-ASINTRODUCED
+-Page2-
+1 section 173.185(f) as of January 1, 2023, or as updated by department rule to align with federal
+2 standards.
+3 (f) "Department"meanstheNewHampshiredepartmentofenvironmentalservices.
+4 (g) “Easily removable" means designed by the manufacturer to be removed by the user
+5 withcommonlyavailablehouseholdtools.
+6 (h) "Environmentallysoundmanagementpractices"meanspracticesthat:
+7 (1) Comply with all applicable laws and rules protecting workers, public health, and
+8 theenvironment;
+9 (2) Provide for adequate record keeping, tracking, and documenting of material
+10 disposition;and
+11 (3) Include comprehensive liability coverage for a battery stewardship organization,
+12 includingenvironmentalliabilitycoveragethatiscommerciallypracticable.
+13 (i) "Mediumformatbattery"means:
+14 (1) A rechargeable battery weighing more than 11 pounds or rated above 300 watt-
+15 hoursorboth,butnotexceeding25poundsof2,000watt-hours;or
+16 (2) Aprimarybatteryweighingmorethan4.4poundsbutnotmorethan25pounds.
+17 (j) “Motor vehicle” means a self-propelled mechanical device with a vehicle identification
+18 number(VIN)manufacturedprimarilyfortransportingpeopleorpropertyprimarilyonpublic roads,
+19 streets,andhighwaysexcludingrail-boundorairbornedevices.
+20 (k) "Portablebattery"means:
+21 (1) A rechargeable battery weighing no more than 11 pounds and rated at no more
+22 than300watt-hours;or
+23 (2) Aprimarybatteryweighingnomorethan4.4pounds.
+24 (l) "Primarybattery"meansabatterythatisnotcapableofbeingrecharged.
+25 (m) "Producer" means the person responsible for compliance with requirements under
+26 this subdivision for a covered battery or battery-containing product sold, offered for sale, or
+27 distributedinorintoNewHampshire,asfollows:
+28 (1) Forcoveredbatteries:
+29 (A) If sold under the brand of battery manufacturer, the producer is the
+30 manufacturer;
+31 (B) Ifsoldunderaretailorthird-partybrand,theproduceristhebrandowner;
+32 (C) IfnopersonisidentifiedunderRSA149-M:65,I(m)(1)(A)or(B),theproducer
+33 is the licensee of a brand or trademark under which the battery is used in a commercial enterprise,
+34 sold, offered for sale, or distributed in or into New Hampshire, whether or not the trademark is
+35 registeredinNewHampshire;
+
+HB1602-FN-ASINTRODUCED
+-Page3-
+1 (D) If no person is identified in RSA 149-M:65, I(m)(1)(A) through (C) within the
+2 UnitedStates,theproduceristheimporterofrecordforthebatteryintotheUnitedStatesforuse in
+3 acommercialenterprisethatsells,offersforsale,ordistributesthebatteryinNewHampshire;
+4 (E) If no person is identified in RSA 149-M:65, I(m)(1)(A) through (D) with a
+5 commercial presence in New Hampshire, the producer is the person who first sells, offers for sale, or
+6 distributesthebatteryinorintoNewHampshire.
+7 (2) Forbattery-containingproducts:
+8 (A) If the product is sold under the brand of the product manufacturer, the
+9 produceristhemanufactureroftheproduct;
+10 (B) If the product is sold under a retail or third-party brand, the producer is the
+11 brandowner;
+12 (C) If no person is identified in RSA 149-M:65, I(m)(2)(A) or (B), the producer is
+13 the licensee of a brand or trademark under which the product is used in a commercial enterprise,
+14 sold, offered for sale, or distributed in or into New Hampshire, whether or not the trademark is
+15 registeredinNewHampshire;
+16 (D) If no person is identified in RSA 149-M:65, I(m)(2)(A) through (C) located
+17 within the United States, the producer is the importer of record for the product into the United
+18 States for use in a commercial enterprise that sells, offers for sale, or distributes the product in New
+19 Hampshire;
+20 (E) If no person is identified in RSA 149-M:65, I(m)(2)(A) through (D) with a
+21 commercial presence in New Hampshire, the producer is the person who first sells, offers for sale, or
+22 distributestheproductinorintoNewHampshire.
+23 (F) A person shall not be considered a producer if they only manufacture, sell,
+24 offer for sale, distribute, or import a battery-containing product into New Hampshire, and the
+25 batteries used in that product are supplied by a producer that is a member of a registered battery
+26 stewardship organization under this subdivision. The battery producer must provide written
+27 certification of such membership to both the product manufacturer and the battery stewardship
+28 organizationofwhichthebatteryproducerisamember.
+29 (n) "Program" means a program implemented by a battery stewardship organization
+30 underanapprovedbatterystewardshipplan.
+31 (o) "Rechargeable battery" means a battery containing one or more voltaic or galvanic
+32 cells,electricallyconnectedtoproduceenergy,anddesignedtoberecharged.
+33 (p) "Recycling"hasthesamemeaningasinRSA149-M:4,XX.
+34 (q) "Recycling efficiency rate" means the ratio of the weight of covered battery
+35 components and materials recycled by a program operator to the weight of covered batteries
+36 collected.
+
+HB1602-FN-ASINTRODUCED
+-Page4-
+1 (r) "Retailer" means a person who sells or offers for sale covered batteries or battery-
+2 containingproductsinorintoNewHampshire,includingtootherbusinesses.
+3 II. Requirement that Producers Implement a Stewardship Plan. Beginning July 1, 2028, a
+4 producer that sells, offers for sale, or distributes covered batteries or battery-containing products in
+5 or into New Hampshire shall participate in an approved New Hampshire state battery stewardship
+6 plan through participation in and appropriate funding of a battery stewardship organization. A
+7 producer that does not participate in such an organization and plan shall not sell, offer for sale, or
+8 distributecoveredbatteriesorbattery-containingproductsinorintothestate.
+9 149-M:66 RoleofRetailers.
+10 I. Beginning July 1, 2028, a retailer shall not sell, offer for sale, or distribute a covered
+11 battery or battery-containing product unless the producer of the covered battery or battery
+12 containing producthascertifiedparticipationinabatterystewardshiporganizationoperatingunder
+13 aplanapprovedbythedepartment.
+14 II. A retailer shall be deemed in compliance with subparagraph (a) if the department's
+15 publicly accessible website, as required by paragraph IX, (b)(3) of this section, as of the date the
+16 product is made available for retail sale, lists the producer or brand as participating in an approved
+17 stewardshipplan.
+18 III. Retailers of covered batteries or battery-containingproducts arenot required toserve as
+19 collection sites for a battery stewardship program. However, a retailer that elects to do so shall
+20 participate in an approved battery stewardship plan and comply with all applicable collection site
+21 requirementsestablishedunderthissubdivision.
+22 IV. A retailer selling or offering covered batteries of battery-containing products for sale in
+23 New Hampshire may provide consumers with information, supplied by a battery stewardship
+24 organization, regarding end-of-life management options for covered batteries collected by a battery
+25 stewardship organization. Such information may include in-store signage, printed materials, and
+26 otherpromotionalcontent.
+27 V. No retailer, producer, or battery stewardship organization shall charge a point-of-scale
+28 feetoconsumerstocovertheadministrativeoroperationalcostsofabatterystewardshipprogram.
+29 149-M:67 StewardshipPlanComponents.
+30 I. Eachbatterystewardshiporganizationshallsubmitastewardshipplantothedepartment
+31 for approval by January 1, 2028, for covered portable batteries, and by January 1, 2029, for covered
+32 medium format batteries. The department may extend the submission deadline for good cause
+33 shown. A battery stewardship organization may submit a revised plan to update an approved plan.
+34 Eachplanshallincludethefollowingelements:
+35 (a) A list of participating producers, battery brands, and battery-containing product
+36 brands,includingcontactinformation;
+
+HB1602-FN-ASINTRODUCED
+-Page5-
+1 (b) Adescriptionofthecoveredbatteriesandbattery-containingproductsincludedinthe
+2 plan;
+3 (c) A description of how covered batteries and battery-containing products will be
+4 managed using environmentally sound management practices, including criteria for collection sites,
+5 safety training procedures, and a list of proposed sorters, transporters, processors, and final
+6 dispositionfacilities;
+7 (d) Education and outreach efforts to inform retailers of their obligations under RSA
+8 149-M:64andtopromoteparticipationbyconsumers,retailers,andotherstakeholders;
+9 (e) Adescriptionofthefundingmechanismfortheprogram;
+10 (f) Performancegoalsforeachofthenextthreecalendaryears,consistentwithRSA149-
+11 M:64;and
+12 (g) A description of how the program will provide free, continuous, convenient, visible,
+13 and accessible collection of all covered battery chemistries and brands, including goals for the
+14 numberanddistributionofcollectionsites.
+15 II. The department shall approve or deny a submitted plan in accordance with RSA 149-
+16 M:64 within 120 days of receipt and shall notify the submitting organization in writing. If the
+17 department denies a battery stewardship plan, it shall provide the reasons for denial in writing. A
+18 denial does not preclude the organization from submitting a revised battery stewardship plan. A
+19 producershallnotbeincompliancewiththissectionunlesscoveredbyanapprovedplan.
+20 III. A battery stewardship organization shall submit a new plan to the department if there
+21 are significant changes to the methods of collection, transport, or end-of-life management not
+22 addressed in the approved plan. A battery stewardship organization shall submit a new updated
+23 batterystewardshipplanatleastonceeveryfiveyears.
+24 IV. A battery stewardship organization shall notify the department on a quarterly basis of
+25 anychanges inproducer participationof thebattery stewardship organization, includingan updated
+26 listofparticipatingproducersandbrands,ifapplicable.
+27 149-M:68 BatteryStewardshipProgramComponentsandPerformanceGoals.
+28 I. Each battery stewardship plan shall include annual performance goals to measure the
+29 effectivenessoftheprogram,including:
+30 (a) Thequantityofbatteriescollected;
+31 (b) Thepublicconvenienceandaccessibilityofthecollectionsystem;and
+32 (c) Targetedrecyclingefficiencyratesforcoveredbatteries.
+33 II. A battery stewardship organization shall not reduce or discontinue collection, education
+34 andoutreach,orotherprogramactivitiesbasedsolelyontheachievementofperformancegoals.
+35 149-M:69 FundingbyBatteryStewardshipOrganization.
+36 I. Each battery stewardship organization shall ensure adequate funding is available to fully
+37 implementitsapprovedbatterystewardshipplan,including:
+
+HB1602-FN-ASINTRODUCED
+-Page6-
+1 (a) Thecollection,transportation,andprocessingofcoveredbatteries;
+2 (b) Educationandoutreachactivities;
+3 (c) Programevaluation;and
+4 (d) Reimbursement of administrative costs to the department pursuant to RSA 149-
+5 M:65,IX.
+6 II. Abatterystewardshiporganizationimplementingaplanonbehalfofproducersshall:
+7 (a) Developasystemtocollectchargesfromparticipatingproducerstocoverthefullcost
+8 ofplanimplementation;
+9 (b) Be responsible for all costs associated with collection, transportation, processing,
+10 education, administration, department reimbursement, recycling, and end-of-life management, in
+11 accordancewiththissubdivisionandenvironmentallysoundmanagementpractice;and
+12 (c) Equitably reimburse local governments and solid waste or recyclables handling
+13 facilities for demonstrable and reasonable costs incurred as a result of serving as a collection site,
+14 includinglabor,storage,andothercostsnecessarytomeetaccessibilityandcollectionsitestandards.
+15 III. At a minimum, a battery stewardship organization shall provide each collection site
+16 withappropriatecontainersforcoveredbatteries,training,signage,safetyguidance,andeducational
+17 materials,atnocosttothecollectionsite.
+18 149-M:70 CollectionandManagementRequirements.
+19 I. Each battery stewardship organization implementing a battery stewardship plan shall
+20 provide for the collection of all covered batteries, including all chemistries and brands, on a free,
+21 continuous, convenient, visible, and accessible basis to any person, business, government entity, or
+22 organization. Except as provided in subparagraph (b)(4) of this paragraph, each stewardship plan
+23 shall allow any person or entity to deliver any chemistry and brand of covered battery to any
+24 collectionsitethatcountstowardmeetingtheplan’scollectionsitecriteria.
+25 II. Eachbatterystewardshiporganizationshall:
+26 (a) Provide suitable collection containers at each collection site, segregated from other
+27 solidwaste,ormakemutuallyagreeablealternativearrangementsforbatterycollection;
+28 (b) Ensure that each collection site complies with applicable federal, state, and local
+29 regulations and adheres to the operations manual and safety guidance provided to the collection site
+30 byabatterystewardshipplanbytheorganization;
+31 (c) Have the authority to issue warnings, suspend, or terminate collection sites or
+32 services that fail to meet site criteria in the approved battery stewardship plan or pose immediate
+33 healthorsafetyrisks;and
+34 (d) Ensure that medium format and damaged or defective batteries are collected in
+35 compliancewithallapplicableregulatoryrequirements;
+36 (e) Ensure statewide collection opportunities, with sites reasonably distributed based on
+37 geographicandpopulationdata;
+
+HB1602-FN-ASINTRODUCED
+-Page7-
+1 (f) Coordinate with other program operators and electronic waste recyclers to deliver
+2 servicesefficiently;
+3 (g) Utilizeexistingpublic and privatewastecollectionservices and facilities, where cost-
+4 effectiveandpracticable;and
+5 (h) Accept as collection sites any retailer, wholesaler, municipality, solid waste facility,
+6 household hazardous waste facility, or other entity that meets the battery stewardship plan’s
+7 criteria.
+8 III. Batterystewardshipprogramsshall:
+9 (a) Provideforthecollectionofloosecoveredbatteries;
+10 (b) Notberequiredtocollectbattery-containingproducts;
+11 (c) Not be required to collect batteries that are not easily removable by the user or that
+12 remaininaproductatthetimeofdelivery;and
+13 (d) Not be required to collect batteries or battery-containing products subject to a safety
+14 recall. A battery stewardship organization may seek reimbursement from the producer of a recalled
+15 battery or battery containing product for costs incurred in collection, transport, and processing such
+16 batteriesorbatterycontainingproducts.
+17 IV. No battery stewardship organization shall charge a fee at the point of collection for the
+18 managementofunwantedcoveredbatteries.
+19 149-M:71 ReportingRequirements.
+20 I. Each battery stewardship organization shall submit an annual report to the department
+21 detailing the implementation of its approved battery stewardship plan for the preceding calendar
+22 year. The report shall include all information required by the plan and any additional details as
+23 determinedbythedepartmentbyrule.
+24 II. The first annual report shall be submitted no later than 120 days after the completion of
+25 the first year of program implementation, and in no case later than 18 months from the date the
+26 planwasapproved. Thereafter,annualreportsshallbesubmittedwithin120daysfollowingtheend
+27 ofeachcalendaryear.
+28 III. Aproducerorbatterystewardshiporganizationsubmittinginformationorrecordstothe
+29 department under this subdivision may request that such information be treated as confidential.
+30 The department shall consider the request and, if confidentiality is not contrary to the public
+31 interest and is otherwise permissible under the New Hampshire right-to-know law, RSA 91-A, shall
+32 granttherequest.
+33 149-M:72 AdministrativeCostReimbursementandDepartmentResponsibilities.
+34 I. Eachbatterystewardshiporganizationsubmittingabatterystewardshipplan,revision,or
+35 amendment shall reimburse the department for administrative costs incurred in implementing,
+36 administering, and enforcing this chapter. The reimbursement shall be sufficient to cover the
+37 department’s full costs, including costs associated with rulemaking and other startup activities
+
+HB1602-FN-ASINTRODUCED
+-Page8-
+1 necessarypriortotheinitialplansubmissions. Nolaterthan90daysbeforeaplanisdue,andevery
+2 two years thereafter, the department shall identify its incurred costs and determine the
+3 reimbursement amount necessary to fully recover those costs. The total reimbursement collected
+4 shall not exceed the amount necessary to administer this chapter. The timing and method of
+5 paymentshallbedeterminedinconsultationwiththedepartment.
+6 II. The responsibilities of the department in implementing, administering, and enforcing
+7 underthischapterinclude,butarenotlimitedto:
+8 (a) Reviewing submitted battery stewardship plans and amendments to the battery
+9 stewardshipplansanddeterminingwhethertoapprovethem;
+10 (b) Reviewingannualreportsforcompliance;
+11 (c) Maintaining a publicly accessible website that lists producers and brands
+12 participating in approved stewardship plans and makes available each plan, amendment, and
+13 annualreportreceivedunderthischapter;
+14 (d) Upon approval of the first plan, a list of producers and brands covered by approved
+15 plans and updating the list as needed based on information provided by stewardship organizations;
+16 and
+17 (e) Providing technical assistance to producers and retailers regarding compliance with
+18 thischapter.
+19 149-M:73 Liability.
+20 I. A battery stewardship organization implementing an approved plan may bring a civil
+21 action to recover costs, damages, and fees, as specified in this paragraph from a producer that sells
+22 or otherwise makes available in New Hampshire covered batteries or battery-containing products
+23 not included in an approved plan, in violation of this subdivision. Such an action may be brought
+24 against one or more defendants, but only if the stewardship organization incurs costs in New
+25 Hampshire, including reasonable incremental administrative and promotional costs, in excess of
+26 $1,000tocollect,transport,recycle,orotherwisemanagethenoncompliantproducts.
+27 II. A battery stewardship organization may bring a civil action against a producer of a
+28 recalled battery to recover costs associated with the collection, transport, and handling of the
+29 recalledbattery.
+30 III. A battery stewardship organization implementing an approved plan may bring a civil
+31 action against another battery stewardship organization that fails to meet its collection obligations
+32 under this subdivision by failing to collect and provide for the end-of-life management of batteries,
+33 resultingin the plaintiff organization incurring costs to manage batteries that would otherwise have
+34 been the responsibility of the defendant. Recoverable costs may include the value of services
+35 rendered,legalfees,andotherrelatedexpenses.
+36 IV. A producer, or a battery stewardship organization acting on behalf of producers, that
+37 creates, participates in, or implements a battery stewardship plan shall be exempt from RSA 356
+
+HB1602-FN-ASINTRODUCED
+-Page9-
+1 and all other state laws concerning antitrust, restraint of trade, unfair trade practices, or other
+2 anticompetitive conduct, to the extent such conduct is undertaken in accordance with an approved
+3 batterystewardshipplan.
+4 149-M:74 CollectionofBatteriesIndependentofaBatteryStewardshipProgram.
+5 I. Nothing in this subdivision shall prohibit a person from offering or operating a fee-based,
+6 household collection, or mail-back program for covered portable or medium format batteries
+7 independentlyofabatterystewardshipprogram,providedthatthefollowingconditionsaremet:
+8 (a) Theperson’sservicesandfacilitiesshallcomplywithallapplicablefederal,state,and
+9 local laws and regulations, including U.S. Department of Transportation requirements and all
+10 applicableprovisionsofthedepartment;
+11 (b) All batteries collected from New Hampshire customers shall be made available to a
+12 batterystewardshiporganizationoperatingunderanapprovedbatterystewardshipplan;and
+13 (c) After consolidation of batteries at the person’s facility, the cost of transporting the
+14 batteries to the battery stewardship organization’s designated sorters or processors shall be at a
+15 battery stewardship organization. A battery stewardship organization may refuse to accept
+16 batteries from such a person or person who recycled batteries if the department is notified of the
+17 reasonfortherefusal.
+18 II. Beginning on July 1, 2028, a lithium-ion battery banned from disposal pursuant to RSA-
+19 M:27, II shall only be disposed of by delivery to a collection site or collection event operated under a
+20 batterystewardshipplanunderthisact,unlessthebatteryisregulatedashazardouswaste.
+21 149-M:75 Rulemaking;Severability.
+22 I. ThedepartmentmayadoptrulesunderRSA541-Atoimplementthissubdivision.
+23 II. Ifanyprovisionofthisactoritsapplicationtoanypersonorcircumstanceisheldinvalid,
+24 the remainder of the act or the application of the provision to other persons or circumstances is not
+25 affected.
+26 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3191
+12/5/25
+HB1602-FN-FISCALNOTE
+ASINTRODUCED
+ANACT creatingasafebatteryrecyclingstewardshipprogram.
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $31,000 $46,500 $48,500
+RevenueFund(s) SolidWasteManagementFund
+Expenditures* $0 $31,000 $46,500 $48,500
+FundingSource(s) SolidWasteManagementFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable
+LocalExpenditures $0 $0 Decrease Decrease
+($150,000) ($150,000)
+METHODOLOGY:
+This bill establishes a statewide battery stewardship program for the collection, recycling, and
+management of certain post-consumer batteries and battery-containing products. Producers of
+covered batteries must participate in an approved stewardship organization and plan, and
+retailers may not sell covered batteries from non-participating producers. A stewardship
+organization must submit plans to the Department of Environmental Services (DES) for review
+and approval beginning January 1, 2028 for portable batteries and January 1, 2029 for medium-
+format batteries. The stewardship organization funds all program operations, and DES is
+responsible for rulemaking, plan review, annual reporting oversight, maintaining a public
+producerlist,andongoingtechnicalandcomplianceassistance.
+
+The Department of Environmental Services states the bill would require additional
+administrative oversight to implement, administer, and enforce the battery stewardship
+program. DES assumes the responsibilities of reviewing initial and revised plans, approving or
+denying plans, reviewing annual reports, conducting rulemaking, maintaining a public-facing
+website of participating producers and brands, and providing technical assistance to producers
+and retailers. To administer these new responsibilities DES indicates it would require a part-
+timeEnvironmentalScientistIVposition(EnvSci4,SOC19,Band8)atapproximately20hours
+per week for a cost of $31,000 in FY 2027, $46,500 in FY 2028, and $48,500 in FY 2029. These
+expenditures would be fully reimbursed through administrative payments collected from the
+battery stewardship organization and deposited into the Solid Waste Management Fund,
+resultinginanet-neutralimpactonstatefunds.
+For local governments, DES states municipalities currently incur costs for managing waste
+batteries, including purchasing collection boxes through programs such as Call2Recycle. Under
+this bill, the stewardship organization would assume all costs for collection and disposal,
+eliminatingmunicipalexpendituresonbatterycollectionboxesandreducingsolidwastedisposal
+costs. DES estimates a minimum statewide cost avoidance of at least $150,000 per year, based
+on234municipalitieseachavoidingpurchaseofsixcollectionboxesperyearat$110perbox.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

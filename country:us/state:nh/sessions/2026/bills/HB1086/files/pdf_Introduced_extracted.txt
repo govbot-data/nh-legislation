@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1086-FN-ASINTRODUCED
+2026SESSION
+26-2571
+08/07
+1086-FN
+HOUSEBILL
+ANACT prohibitingthesaleofcertainagriculturalseedstreatedwithneonicotinoids.
+SPONSORS: Rep. J. MacDonald, Carr. 6; Rep. R. Brown, Carr. 8; Rep. Crawford, Carr. 3; Rep.
+Damon, Sull. 8; Rep. Ebel, Merr. 7; Rep. Maggiore, Rock. 23; Rep. Peternel, Carr.
+6;Rep.Rung,Hills.12
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the sale or use of corn, wheat, or soybean seeds if such seeds have been
+treated with neonictinoids and allows a seller to request a waiver from the commissioner of the
+departmentofagriculture,markets,andfoodinwriting.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1086-FN-ASINTRODUCED
+26-2571
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingthesaleofcertainagriculturalseedstreatedwithneonicotinoids.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Neonicotinoid Prohibited. Amend RSA 433:4 by inserting after paragraph II
+2 thefollowingnewparagraph:
+3 III. To sell, offer for sale, expose for sale, import into this state, or use any corn, wheat, or
+4 soybean seeds which have been treated by a neonicotinoid seed treatment. A person may receive a
+5 waivertosell,offerforsale,exposeforsale,importintothisstate,oruseanycorn,wheat,orsoybean
+6 seed treated by a neonicotinoid seed treatment by requesting one in writing from the commissioner
+7 ofthedepartmentofagriculture,markets,andfood.
+8 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2029.
+
+LBA
+26-2571
+11/6/25
+HB1086-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibitingthesaleofcertainagriculturalseedstreatedwithneonicotinoids.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

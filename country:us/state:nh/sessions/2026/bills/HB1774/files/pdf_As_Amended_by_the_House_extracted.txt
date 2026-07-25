@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1774-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0915h
+2026SESSION
+26-2849
+07/09
+1774-FN
+HOUSEBILL
+ANACT relative to qualifying scholarship granting organizations and federal workforce
+Pellgrants.
+SPONSORS: Rep. Kofalt, Hills. 32; Rep. Morse, Merr. 3; Rep. Osborne, Rock. 2; Rep. Sweeney,
+Rock. 25; Rep. Miles, Hills. 12; Rep. Noble, Hills. 2; Rep. P. Brown, Rock. 14; Rep.
+Mattson, Ches. 18; Rep. Packard, Rock. 16; Rep. McDonnell, Rock. 25; Sen. Innis,
+Dist7;Sen.Avard,Dist12
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Directs the department of revenue administration to participate in the federal income tax
+creditforcontributionsofindividualstoqualifiedscholarshipgrantingorganizations.
+II. Directsthedepartmentofeducationtocreateaqualifyingscholarshipgrantingorganizations
+list.
+III. Directs the governor to approve workforce training programs for federal Workforce Pell
+Grants.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1774-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...0915h 26-2849
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to qualifying scholarship granting organizations and federal workforce
+Pellgrants.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; The State and Its Government; General Provisions; Definitions. Amend
+2 RSA21-I:1-abyinsertingafterparagraphVthefollowingnewparagraphs:
+3 VI. “Qualifiedscholarshipgrantingorganization” meansanonprofitorganizationthat meets
+4 therequirementsof26U.S.C.section25F.
+5 VII. “Eligible workforce training programs” means programs that meet the requirements in
+6 20U.S.C.section1088(b)(3)(A)andrelatedfederalrules.
+7 2 Department of Revenue Administration; Income Tax Credit Contribution Program. The
+8 department of revenue administration shall participate in the federal income tax credit for
+9 contributions of individuals to qualified scholarship granting organizations, beginning in taxable
+10 years ending after December 31, 2026. The department shall automatically renew its participation
+11 eachsubsequenttaxableyear.
+12 3 Department of Education; Qualifying Scholarship Granting Organizations List. The
+13 department of education shall create a qualified scholarship granting organizations list and shall
+14 work with the department of revenue administration to ensure the organizations are added to the
+15 listpursuanttothedepartmentofeducation'sinternalprocedures.
+16 4 DepartmentofEducation;PublicationList. Thedepartmentofeducationshall:
+17 I. Annually submit a list of qualified scholarship granting organizations to the Secretary of
+18 theTreasuryoftheUnitedStates;
+19 II. Publishalistofqualifiedscholarshipgrantingorganizationsonitswebsite;and
+20 III. Certify its authority to submit the list required under paragraph I to the Secretary of
+21 theTreasuryoftheUnitedStates.
+22 5 State Workforce Innovation Board; Workforce Training Program Approval. The governor
+23 shall, in coordination with the state workforce innovation board, approve all workforce training
+24 programs for federal Workforce Pell Grants, if such programs satisfy the requirements of 20 U.S.C.
+25 section1070aandrelatedfederalrules.
+26 6 State Workforce Innovation Board; Approval of Funds. The state workforce innovation board
+27 shall adopt aninternal procedure, accordingto applicable federal rules, to determinethat a program
+28 meetstherequirementstobeaneligibleworkforcetrainingprogram.
+29 7 Rulemaking Prohibition. No division or department of state government shall have the
+30 authoritytoadoptorpromulgateanyruletoimplementsections1-6ofthisact.
+
+HB1774-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 8 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2849
+04/06/2026
+HB1774-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0915h)
+ANACT relative to qualifying scholarship granting organizations and federal workforce
+Pellgrants.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+as amended, as it is awaiting information from the Department of Education. The Department
+was contacted on 03/11/26 for a fiscal note worksheet. When completed, the fiscal note will be
+forwardedtotheClerk'sOffice.
+METHODOLOGY:
+Thebilldirects theDepartmentof RevenueAdministrationtoparticipateinafederalincome tax
+credit program for contributions to qualified scholarship granting organizations and requires the
+DepartmentofEducationtomaintainandpublishalistofeligibleorganizations. Italsorequires
+the Governor, in coordination with the State Workforce Innovation Board, to approve workforce
+training programs for federal Workforce Pell Grants, while prohibiting state agencies from
+adoptingrulestoimplementtheseprovisions.
+DepartmentofRevenueAdministration(DRA)
+Section 2 of this bill requires that DRA participate in the federal income tax credit for
+contributions of individuals to qualified scholarship granting organizations, beginning in taxable
+years ending after December 31, 2026, and is further required to automatically renew its
+participation each subsequent taxable year. The DRA has provided the following assumptions
+andinformationrelatedtothisbill:
+
+ DRAassumes theapplicabilitylanguage insection2is intended toapplytoyears ending
+on or after December 31, 2026, (i.e. to tax year 2026) however, as written, the exemption
+wouldnotbeapplicableto2026calendaryearfilers,onlyto2026fiscalyearfilers.
+ DRA notes that 26 U.S.C. Section 25F (g)(1)(B), provides that the election to participate
+in the federal income tax credit program “shall be made by the Governor of the State or
+bysuchotherindividual,agency,orentityasisdesignatedunderStatelawtomakesuch
+elections on behalf of the State with respect to Federal tax benefits.” DRA states it is
+unclearwhetherthisbillwouldbelegallysufficienttoempowerittomaketheelectionto
+participate.
+o To the extent DRA (or the Governor) makes a voluntary election to participate, it
+is DRA’s understanding that the tax credit for “qualified contributions” of up to
+$1,700 per tax year would be available to be claimed by individuals on their
+federal tax returns, and would be reduced by the amount “allowed as a credit on
+any State tax return of the taxpayer.” DRA states it is possible that this could
+apply to New Hampshire business tax returns filed by individual proprietors,
+where there is currently available an education tax credit under RSA 77-G of up
+to $510,000 per year, available to be carried forward for five additional years.
+The qualifying conditions with respect to scholarship organizations for both
+programs are similar enough that donations made in New Hampshire would
+likelyqualifyundereitherprogram.
+ It is not clear to DRA whether, for the state credit to be considered “allowed” for federal
+reduction purposes the credit must be claimed and/or utilized by the taxpayer.
+Depending upon the relative federal and state tax liabilities of individual taxpayers, it is
+possible that taxpayers might benefit by not claiming state credit and claiming federal
+credit (or vice versa) in a given year, and this might vary from year to year. It is also
+unclearhowcarryforwardprovisionswouldworkunderthesescenarios.
+ It is possible, but too early to tell, if participation in the federal tax credit would
+complicate administration of the State credit, due to the need to reconcile availability
+andutilizationintheeventadonationwastoqualifyunderbothprograms.
+ The Department of Treasury and the Internal Revenue Service (IRS) have announced
+their intent to issue regulations to implement this new individual tax credit provision
+but have not yet done so. Such regulations, once issued, might answer these questions
+regardingtheinteroperabilityofthefederalandstatetaxcredits.
+TheDRAstatesthisbillwouldnotresultinanyadditionaladministrativecoststhatcouldnotbe
+absorbed in its normal operating budget. The fiscal impact of the bill would be a possible
+indeterminable increase to the general and education trust funds in the form of increased
+businesstaxrevenuesduetocreditsbeingclaimedat thefederalratherthanstatelevel. DRAis
+
+unable toquantifytheimpact duetoa lack of understandingabout thefederal program and how
+itwouldinteractwiththestateprogram,andhowtaxpayerbehaviormightchange.
+DepartmentofBusinessandEconomicAffairs(DBEA)
+TheDBEAstatesthatunderthisbill:
+ The State Workforce Innovation Board (SWIB) would consult with the Governor to
+approveworkforcetrainingprogramsforfederalWorkforcePellGrants.
+ SWIBmayadoptinternalproceduresforapprovingworkforcetrainingprograms.
+ SWIB, working with the DBEA Office of Workforce Opportunity (OWO), would be
+required to ensure program compliance consistent with the federal program regulations,
+including application and evaluation standardization, program outcome reviews and
+tracking,aswellasdocumentationandrecordkeepingforFederalcompliance.
+The DBEA states this bill would necessitate the requirement of additional staff for program
+administration, compliance and analysis and related administrative cost budget funding with
+additionalITcostsandworkspaceneeds:
+ Personnel Costs - Administration of this program will require at least one (1) new full-
+time position to manage ongoing operations, coordinate with education and training
+providers, oversee eligibility and reporting, and ensure alignment with existing federal
+and state requirements. The position needed would be a Miscellaneous Business
+OperationsSpecialist(SOC13-05,startingstep6)atatotalestimatedcost(notincluding
+any office space or equipment needs) of $101,000 in FY 2027, $106,000 in FY 2028, and
+$107,000 in FY 2029. This bill provides neither appropriation nor authorization for new
+personnel.
+ Information Technology (IT) Costs - New Hampshire currently uses the NH Job
+Match System (JMS) to support workforce programs. JMS is a Modifiable Off-The-Shelf
+(MOTS) solution, designed for flexibility to meet state-specific requirements.
+Enhancements to accommodate Workforce Pell requirements would leverage the existing
+system, making this the most cost-effective and programmatically efficient approach.
+Staff, particularly within OWO, are already familiar with JMS, reducing training needs
+and supporting seamless implementation. The existing Job Match System (JMS)
+contract will require expansion to accommodate new data elements, reporting
+requirements, and system functionality associated with Workforce Pell. This will result
+in increased contract costs. The cost is indeterminable, but could be in the range of a
+one-timepurchaseofbetween$150,000and$250,000,andpossiblyanannualfee.
+
+AGENCIESCONTACTED:
+Department of Revenue Administration, Department of Business and Economic Affairs, and
+DepartmentofEducation

@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER260
+SB530-FN-FINALVERSION
+2026SESSION
+26-2137
+05/08
+530-FN
+SENATEBILL
+ANACT relativetofetaldeathreportingtotheCentersforDiseaseControl.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Pearl, Dist 17; Rep. Sorensen, Rock. 28; Rep. Lynn,
+Rock.17;Rep.Erf,Hills.28;Rep.Grote,Rock.24
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the division of vital records from releasing certain personal information when
+reportingafetaldeathtotheCDC. Thebillalsoupdatesterminologyrecordedonthefetaldeathform.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER260
+SB530-FN-FINALVERSION
+26-2137
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetofetaldeathreportingtotheCentersforDiseaseControl.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 260:1 FetalDeathReporting;InformationProvided. AmendRSA5-C:75,VIItoreadasfollows:
+2 VII. Information regarding the mother including her: full name, [maiden surname]namepriorto
+3 firstmarriageorcivilunion, date of birth, residence, race, ancestry, education, occupation, and social
+4 securitynumber.
+5 260:2 New Section; Vital Records Administration; Fetal Death; Limited Release of Information to
+6 CDC. AmendRSA5-Cbyinsertingaftersection75-athefollowingnewsection:
+7 5-C:75-b LimitedReleaseofInformationtoCDC;FetalDeath.
+8 I. When the division of vital records administration releases information on a fetal death to the
+9 CentersforDiseaseControl(CDC),itshallnotinclude:
+10 (a) Thenamesofthemotherorfather;
+11 (b) Thebirthmonthanddayofthemotherorfather;
+12 (c) Theirmedicalrecordnumbers;or
+13 (d) Their residential address, mailing address if different from the residential address, or zip
+14 code.
+15 II. Thedivisionmayreleasethemotherandfather'sbirthyearandthedateoffetaldeliverytothe
+16 CDC.
+17 260:3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:July02,2026
+EffectiveDate:July02,2026

@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1165 -ASINTRODUCED
+2026SESSION
+26-2450
+06/05
+1165
+HOUSEBILL
+ANACT relativetogenderdesignationonstate-issuedidentification.
+SPONSORS: Rep. S. King, Coos 4; Rep. Berry, Hills. 44; Rep. Cambrils, Merr. 4; Rep. Granger,
+Straf.2;Rep.Perez,Rock.16;Rep.Sellers,Graf.10;Rep.Panek,Hills.1
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes "X" or "other" as an option for gender designation by individuals for state
+identification.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1165-ASINTRODUCED
+26-2450
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetogenderdesignationonstate-issuedidentification.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 IdentificationCards. AmendRSA260:21,IIItoreadasfollows:
+2 III. The identification card shall bear the name, address, date of birth, blood type (optional),
+3 gender indicated as "M" for "male[,]" or "F" for "female," [or "X" for "other,"] veteran's status for the
+4 purposes of identification for receiving benefits and services under New Hampshire law (optional),
+5 and the picture and signature of the applicant. The identification card shall bear an approved
+6 security marking indicating that it was not issued in compliance with Public Law 109-13 and is
+7 thereforenotacceptableforfederalidentificationpurposes.
+8 2 PublicLaw109-13CompliantIdentificationCard. AmendRSA260:21-a,IItoreadasfollows:
+9 II. The identification card shall bear the name, address, date of birth, gender indicated as
+10 "M" for "male[,]" or "F" for "female,"[ or "X" for "other,"] veteran's status for the purposes of
+11 identification for receiving benefits and services under New Hampshire law (optional), organ donor
+12 status(optional),picture,andsignatureoftheapplicant.
+13 3 EnhancedIdentificationCard. AmendRSA260:21-b,IItoreadasfollows:
+14 II. The identification card shall bear the name, address, date of birth, gender indicated as
+15 "M" for "male[,]" or "F" for "female," [or "X" for "other,"] veteran's status for the purposes of
+16 identification for receiving benefits and services under New Hampshire law (optional), organ donor
+17 status(optional),picture,andsignatureoftheapplicant.
+18 4 ApplicationforLicense. AmendRSA263:5,II(b)toreadasfollows:
+19 (b) Aphysical descriptionoftheapplicant,includinggender indicatedbycheckingeither
+20 "M"for"male[,]"or"F"forfemale,"[or"X"for"other,"]height,weight,eyeandhaircolor;
+21 5 FormofLicense. AmendRSA263:40,IIandIIItoreadasfollows:
+22 II. Drivers' licenses compliant with Public Law 109-13 issued pursuant to RSA 263:14-b
+23 shall bear the name, address, date of birth, gender indicated as "M" for "male[,]" or "F" for "female,"
+24 [or "X" for "other,"] veteran's status for the purposes of identification for receiving benefits and
+25 services under New Hampshire law (optional), organ donor status (optional), picture, and signature
+26 oftheapplicant. Thedriver'slicensecardshallbearanapprovedsecuritymarkingindicatingthatit
+27 was issued in compliance with Public Law 109-13 and is therefore acceptable for federal
+28 identificationpurposes.
+29 III. Enhanced drivers' licenses issued pursuant to RSA 263:14-c shall bear the name,
+30 address, date of birth, gender indicated as "M" for "male[,]" or "F" for "female," [or "X" for "other,"]
+31 veteran's status for the purposes of identification for receiving benefits and services under New
+
+HB1165 -ASINTRODUCED
+-Page2-
+1 Hampshirelaw(optional),organdonorstatus(optional),picture,andsignatureoftheapplicant. The
+2 driver's license card shall bear an approved security marking indicating that it is an enhanced
+3 driver'slicense.
+4 6 ApplicationforCommercialDriverLicense. AmendRSA263:90,I(b)toreadasfollows:
+5 (b) Aphysical descriptionoftheapplicant,includinggender indicatedbycheckingeither
+6 "M"for"male[,]"or"F"for"female,"[or"X"for"other,"]height,weight,eyeandhaircolor;
+7 7 CommercialDriverLicense. AmendRSA263:91,I(c)toreadasfollows:
+8 (c) A physical description of the licensee including gender indicated as "M" for "male[,]"
+9 or"F"for"female,"[or"X"for"other,"]height,weight,eye,andhaircolor;
+10 8 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

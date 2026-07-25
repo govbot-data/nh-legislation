@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1504-FN-ASINTRODUCED
+2026SESSION
+26-2500
+07/09
+1504-FN
+HOUSEBILL
+ANACT prohibitingretailersfromengaginginpricegougingoncertainnecessaryproducts
+andservices.
+SPONSORS: Rep. Simpson, Rock. 33; Rep. Veilleux, Hills. 34; Rep. Gruber, Ches. 16; Rep.
+Telerski, Hills. 11; Rep. Hakken-Phillips, Graf. 12; Rep. N. Murphy, Hills. 12;
+Rep. Bixby, Straf. 13; Rep. Rung, Hills. 12; Rep. Manohar, Hills. 9; Rep.
+Weinstein,Rock.10;Sen.PerkinsKwoka,Dist21
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Prohibits retailers from raising prices on necessary goods and services, except in certain
+circumstances.
+II. Empowersanygovernmentalprosecutingauthoritytosuearetailerengagedinpricegouging
+onbehalfofthestate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1504-FN-ASINTRODUCED
+26-2500
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingretailersfromengaginginpricegougingoncertainnecessaryproducts
+andservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Prohibitionon Price Gouging. Amend RSA by insertingafter chapter 358-T the
+2 followingnewchapter:
+3 CHAPTER358-U
+4 PROHIBITIONONPRICEGOUGING
+5 358-U:1 Definitions. Asusedinthischapter:
+6 I. "Necessities" means goods and services that are necessary for the health, safety, and
+7 welfareofconsumersorthegeneralpublic.
+8 II. "Prosecuting authority" means any prosecutor with jurisdiction over the location where a
+9 retailerconductsbusiness.
+10 III. "Public utility" means a publicly-owned organization that provides essential services to
+11 thepublic.
+12 IV. "Retailer"meansanypersonofferingnecessitiesforsaletothegeneralpublic.
+13 V. "Seasonal pricing" means pricing that is consistent with historical data that shows that
+14 priceswerechargedduringthesameseasonintheprevious3years.
+15 VI. "Triggering event" means the declaration of a state of emergency or a finding of
+16 abnormalmarketdisruption,pursuanttoRSA358-U:2,V,bythegovernor.
+17 VII. An "abnormal market disruption" means a significant disruption, whether actual or
+18 imminent, to the production, distribution, or sale of goods and services in this state, which are
+19 consumed or used as a direct result of an emergency or used to preserve, protect, or sustain life,
+20 health, safety, or economic well-being of a person or his or her property. A significant disruption
+21 may result from a natural disaster, weather, acts of nature, strike, power or energy failures or
+22 shortages, civil disorder, war, terrorist attack, national or local emergency, or other extraordinary
+23 adverse circumstances. A significant market disruption can be found only if a declaration of a state
+24 of emergency, state of disaster, or similar declaration is made by the President of the United States
+25 oranissuanceofCodeRed/SevereRiskofAttackintheHomelandSecurityAdvisorySystemismade
+26 by the Department of Homeland Security, whether or not such declaration or issuance applies to
+27 NewHampshire.
+28 358-U:2 ProhibitiononPriceGouging.
+29 I. Upon a triggering event, a person shall be in violation of this chapter for selling or
+30 renting, or offering to sell or rent, any goods or services which are consumed or used as a direct
+
+HB1504-FN-ASINTRODUCED
+-Page2-
+1 result of an emergency or which are consumed or used to preserve, protect, or sustain life, health,
+2 safety,oreconomicwell-beingofpersonsortheirpropertywiththeknowledgeandintenttochargea
+3 price that is unreasonably excessive under the circumstances. This prohibition shall apply to all
+4 parties in the chain of distribution, including a manufacturer, supplier, wholesaler, distributor, or
+5 retail seller of goods or services. This prohibition shall apply in the area where the state of disaster
+6 oremergencyhasbeendeclaredortheabnormalmarketdisruptionhasbeenfound.
+7 II. Indeterminingwhetherapriceisunreasonablyexcessive,itshallbeconsideredwhether:
+8 (a) The price charged by the seller is attributable to additional costs imposed by the
+9 seller'ssupplierorothercostsofprovidingthegoodorserviceduringthetriggeringevent.
+10 (b) The price charged by the seller exceeds the seller's average price in the preceding 60
+11 days before the triggering event. If the seller did not sell or rent or offer to sell or rent the goods or
+12 service in question prior to the time of the triggering event, the price at which the goods or service
+13 was generally available in the trade area shall be used as a factor in determining if the seller is
+14 charginganunreasonablyexcessiveprice.
+15 (c) Thepricechargedbythesellerisattributabletofluctuationsinapplicablecommodity
+16 markets; fluctuations in applicable regional, national, or international market trends; or to
+17 reasonable expenses and charges for attendant business risk incurred in procuring or selling the
+18 goodsorservices.
+19 IV. For the purposes of this section, the end of a triggering event is the earlier of 45 days
+20 after the triggering event occurs or the expiration or termination of the triggering event unless the
+21 prohibitionisspecificallyextendedbythegovernor.
+22 V. The existence of an abnormal market disruption may be found and declared by the
+23 governor,pursuanttoRSA358-U:1,VII. Thedurationofanabnormalmarketdisruptionshallbe45
+24 days from the triggering event, but may be renewed by the governor if he or she finds and declares
+25 thedisruptioncontinuestoaffecttheeconomicwell-beingofstateresidentsbeyondtheinitial45-day
+26 period.
+27 358-U:3 Enforcement.
+28 I. Any governmental prosecuting authority in the jurisdiction in which the retailer conducts
+29 businessshallhavetheauthoritytoenforcethischapter bybringingactiononbehalfofthisstate, or
+30 as parens patriae on behalf of persons residing in the state, and shall be empowered to seek
+31 injunctionstoenjoinviolationsofthischapter.
+32 II. Any violation of this chapter shall constitute an unfair, abusive, and deceptive trade
+33 practicewithinthemeaningofexistinglaw. Violatorsofthischaptermayfaceacivilpenaltiesofup
+34 to $5,000 per violation. Additional penalties may be imposed for any subsequent violations of this
+35 chapter,courtorder,orinjunctionseekingtopreventpricegougingunderthischapter.
+
+HB1504-FN-ASINTRODUCED
+-Page3-
+1 III. A governmental prosecuting authority in the jurisdiction in which the retailer is located
+2 may be awarded reasonable attorney’s fees and costs if they are the prevailing party in an action
+3 takenunderthischapter.
+4 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2500
+12/2/25
+HB1504-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibitingretailersfromengaginginpricegougingoncertainnecessaryproducts
+andservices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $123,000 $230,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates RSA 358-U, prohibiting retailers and other sellers from engaging in price
+gougingonnecessitiesduringadeclaredstateofemergencyorabnormalmarketdisruption. The
+bill establishes criteria for determining whether a price is unreasonably excessive, authorizes
+governmental prosecuting authorities to seek injunctive relief, and classifies violations as unfair
+ordeceptivetradepracticessubjecttocivilpenaltiesofupto$5,000perviolation.
+The Department of Justice (DOJ) states this bill adds new enforcement responsibilities to the
+Consumer Protection and Antitrust Bureau. Because the prohibitions apply only after a
+“triggering event” defined as a declared state of emergency or abnormal market disruption, the
+complaint volume is unpredictable. DOJ anticipates an increase in complaints and
+investigations during such events, and estimates it would require one additional unclassified
+attorneyandoneadditionalparalegal(23-2010PARALGLS-LGLASSTS-4SOC23-04) beginning
+January 1, 2027. Because the bill is effective midway through FY 2028, the first-year impact
+reflects half-year personnel costs plus full fit-up expenses. The attorney position would cost
+$72,000 in FY 2028 and $138,000 in FY 2029, and the paralegal position would cost $51,000 in
+FY 2028 and $92,000 in FY 2029. The combined cost of both positions would be $123,000 in FY
+2028and$230,000inFY2029.
+
+AGENCIESCONTACTED:
+DepartmentofJustice

@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1752-FN-ASINTRODUCED
+2026SESSION
+26-2953
+08/07
+1752-FN
+HOUSEBILL
+ANACT requiring the creation of a ticket to follow timber through the harvesting and
+productionprocesstoestablishachainofcustody.
+SPONSORS: Rep.H.Howard,Straf.4;Rep.Bixby,Straf.13;Rep.Nagel,Belk.6
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the creation of a ticket to follow timber through the harvesting and production
+processtoestablishachainofcustody.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1752-FN-ASINTRODUCED
+26-2953
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the creation of a ticket to follow timber through the harvesting and
+productionprocesstoestablishachainofcustody.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Timber Harvesting; Foresting Mill Ticket Standards. Amend RSA 227-J by
+2 insertingaftersection15thefollowingnewsubdivision:
+3 ForestingMillTicketStandards
+4 227-J:16 Definitions.
+5 Inthissubdivision:
+6 I. “Changeoflanduse”meansconversionofforestlandfollowingtimberharvestingtoanon-
+7 forestuse,includingbutnotlimitedtoagriculture,residentialdevelopment,orgravelextraction.
+8 II. “Designated agent” means a person or company authorized by the landowner to act on
+9 thelandowner’sbehalffortimberharvestingactivities.
+10 III. “Director”meansthedirectorofthedivisionofforestsandlands.
+11 IV. “Forest products” means logs, pulpwood, veneer, boltwood, chips, poles, biomass, or
+12 fuelwood,butnotChristmastrees,maplesyrup,nurseryproducts,wreaths,boughs,orcones.
+13 V. “Harvester”meansapersonorcompanythatcutsorcontractstocutforestproducts.
+14 VI. “Licensedforester”meansaforesterlicensedunderRSA310-A.
+15 VII. “Lot”meansacontiguoustractofforestlandundersingleownership.
+16 VIII. “Noticeofintenttocut”meansthenotificationrequiredunderRSA79:10.
+17 IX. “Timber harvesting” means the cutting or removing of timber primarily for sale or
+18 processingintoforestproducts.
+19 X. “Landing” or “yard” means the area where forest products are assembled for storage and
+20 transport.
+21 227-J:17 NotificationRequired.
+22 I. Prior to any timber harvest for commercial purposes, the landowner or designated agent
+23 shall file a notice of intent to cut under RSA 79:10 with the municipality, and provide a copy to the
+24 divisionofforestsandlands.
+25 II. All parties named on the notice, including the landowner, agent, forester, and harvester,
+26 shallsignthenotification.
+27 227-J:18 LargeClearcutReview.
+28 I. Any proposed timber harvest exceeding 75 contiguous acres of clearcut shall require the
+29 submissionofaharvestplanpreparedbyalicensedforester.
+
+HB1752-FN-ASINTRODUCED
+-Page2-
+1 II. The plan shall ensure compliance with regeneration and erosion control standards under
+2 thischapter.
+3 III. Thedivisionofforestsandlandsmayrequireafieldreviewpriortoapproval.
+4 227-J:19 ErosionControlCertification.
+5 Persons certified in erosion and sedimentation control by the department of environmental
+6 services may file simplified notifications for harvests of 10 acres or less, provided they are directly
+7 responsibleforerosioncontrolonthesite.
+8 227-J:20 TimberHarvestinginProtectedAreas.
+9 I. Timber harvesting or associated road or gravel pit construction in wetlands, shoreland
+10 protection zones, or other environmentally sensitive areas shall require additional permits under
+11 RSA482-AandRSA483-B.
+12 II. The division of forests and lands shall coordinate with the department of environmental
+13 servicestoensurecompliance.
+14 227-J:21 In-StreamWoodPlacement.
+15 I. Projects to place wood in streams for habitat enhancement shall be approved by the
+16 divisionofforestsandlandsinconsultationwiththefishandgamedepartment.
+17 II. Atreatmentplanandsitemapshallbesubmittedwiththenoticeofintenttocut.
+18 227-J:22 Exemptions.
+19 Thefollowingactivitiesareexemptfromthenotificationrequirementsofthissubdivision,evenif
+20 forestproductsaresold:
+21 I. Removal of single trees or small groups of trees in residential or roadside settings for
+22 hazardremoval,right-of-wayclearance,orlotpreparationoflessthan2acres.
+23 II. Timberharvestedsolelyforthepersonaluseofthelandowner.
+24 227-J:23 PostingRequirement.
+25 I. Acopyoftheapprovednoticeofintenttocutoritsassignednumbershallbepostedatthe
+26 principallandingoraccesspointtotheharvestsite.
+27 II. Thenoticeshallremainposteduntilcompletionoftheharvest.
+28 227-J:24 Applicability.
+29 I. Exceptasotherwiseprovided,thissubdivisionappliestoallcommercialtimberharvesting
+30 activitiesconductedwithinthestateofNewHampshire.
+31 II. All timber harvesting activities shall comply with applicable statutes, including but not
+32 limitedto:
+33 (a) RSA79,relativetothetimbertaxandnoticeofintenttocut.
+34 (b) RSA227-GandRSA227-J,relativetoforestmanagementandtimberharvesting.
+35 (c) RSA482-A,relativetothefillanddredgeinwetlandsact.
+36 (d) RSA483-B,relativeshorelandwaterqualityprotectionact.
+37 (e) Applicablemunicipalzoningandlanduseordinances.
+
+HB1752-FN-ASINTRODUCED
+-Page3-
+1 2 DeceptiveForestryBusinessPractices. AmendRSA227-J:15,IItoreadasfollows:
+2 II. In this section, "adulterated" means varying from a standard of composition or quality
+3 prescribed by any statute providing criminal penalties for such variance, or set by established
+4 commercial usage. In this section, "mislabeled" means varying from a standard of truth or
+5 disclosure in labeling prescribed by any law providing criminal penalties for such variance, or set by
+6 established commercial usage. In this section, "scale slip" means a written or printed form or
+7 combination of forms which provide an accurate, readily understandable record containing the
+8 speciesofwoodproduct,boardfootageofeachindividuallogwhenthestandardunitofmeasurement
+9 is per thousand board feet, or tonnage or cordage whennot sold per thousand board feet, gross scale,
+10 defect, net scale, date wood was measured, information for the name of the delivery company,
+11 the name of the land owner or the land owner’s representative, and the lot number and
+12 address,andthenameofthepartyscalingthewood.
+13 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2953
+Revised1/7/26
+HB1752-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the creation of a ticket to follow timber through the harvesting and
+productionprocesstoestablishachainofcustody.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$350,000to $450,000to $450,000to
+$440,000 $700,000 $700,000
+FundingSource(s) WaterResourcesFundandGeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the creation of a ticket to follow timber through the harvesting and production
+process in order to establish a chain of custody. The bill creates new requirements for notices of
+intent to cut, establishes standards for foresting mill tickets, provides for large clearcut review,
+clarifies erosion control certification provisions, and requires coordination between the Division
+of Forests and Lands and the Department of Environmental Services when timber harvesting
+occursinwetlands,shorelandprotectionareas,orotherenvironmentallysensitivelocations.
+The Department of Environmental Services states this bill would not modify existing wetland or
+shoreland permitting requirements under RSA 482-A or RSA 483-B and therefore would not
+impact those programs. The Department indicates the primary fiscal impact would occur within
+the Alteration of Terrain Program, which administers RSA 485-A:17. The bill references a
+certification in erosion and sedimentation control; however, the Department notes that no such
+certification program currently exists. If the Department were required to establish a new
+certificationprogram,itwouldneedtodevelopstandards,trainingmaterials,testingprocedures,
+andoutreachfortheregulatedcommunity.
+
+TheDepartmentstatesthereisnofeeauthorizedinthebilltosupporttheproposedcertification,
+and no existing fee would be replaced. The Department further states there are no available
+personnel to reassign to develop and administer a new certification and training program. To
+implement these requirements, the Department estimates the need for two Environmental
+Scientist positions (19-2040 Environmental Scientists-4, SOC19-07). The cost for these two
+positions,withastart dateof January1, 2027, is estimated at $128,000inFY 2027, for apartial
+year,$230,000inFY2028,and$240,000inFY2029,fundedthroughtheWaterResourcesFund.
+The Department notes that additional costs associated with developing and administering the
+certificationprogramcannotbeestimated.
+The Department of Natural and Cultural Resources states this bill would increase state
+expenditures related to review of timber harvest plans, large clearcut review, field inspections,
+permitting,andcoordinationwithotheragenciesinenvironmentallysensitiveareas. Toperform
+these duties, the Department estimates the need for two full-time Forester positions beginning
+January 1, 2027. Due to the need to purchase a vehicle and related equipment, the Department
+estimates the cost for these two positions would be $220,000 in FY 2027 for a partial year,
+$198,000 in FY 2028, and $202,000 in FY 2029. These positions would require a General Fund
+Appropriation.
+This bill does not provide funding nor does it authorize positions. If positions are funded and
+authorized it is assumed the cost for FY 2028 and FY 2029 would be included in the
+DepartmentsFY2028andFY2029budgetrequest.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServicesandDepartmentofNaturalandCulturalResources

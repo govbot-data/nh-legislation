@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1605-FN-A-ASINTRODUCED
+2026SESSION
+26-2378
+06/08
+1605-FN-A
+HOUSEBILL
+ANACT establishing a state office for intelligence and counterintelligence within the
+executivebranch.
+SPONSORS: Rep.Belcher,Carr.4;Rep.SabourinditChoiniere,Rock.30;Rep.Terry,Belk.7
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes the state intelligence and counter-intelligence office within the department
+ofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1605-FN-A-ASINTRODUCED
+26-2378
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a state office for intelligence and counterintelligence within the
+executivebranch.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownasthe"StateCounter-IntelligenceCapacityAct."
+2 2 Findings. The general court finds that New Hampshire faces increasing threats from foreign
+3 subversion, elite capture, and hostile military, paramilitary, and intelligence operations. This
+4 includes operations by adversaries such as China, Russia, cartel infiltrations, proxies, and terrorist
+5 organizations. This act establishes a modest capacity for resilience without overreach by enabling
+6 targeted investigations, intelligence collection, and counter-intelligence activities to be pursued for
+7 prosecutionandactionincoordinationwithappropriatestateandfederalauthorities.
+8 3 New Subdivision; State Intelligence and Counter-Intelligence Office. Amend RSA 21-P by
+9 insertingaftersection71thefollowingnewsubdivision:
+10 StateIntelligenceandCounter-IntelligenceOffice
+11 21-P:72 Establishment; Placement. There is established within the department of safety the
+12 state intelligence and counter-intelligence office, consisting of 3 to 5 analysts, 2 to 5 investigators,
+13 andnecessarysupportstaff. Analystsandinvestigatorsshallhavemilitaryorequivalenttrainingin
+14 intelligenceandcounter-intelligenceskills. Supportstaffshallbelimitedtobasicofficemaintenance
+15 roles. Inthissubdivision"theoffice"meansthestateintelligenceandcounter-intelligenceoffice.
+16 21-P:73 DutiesandFocus.
+17 I. The office shall identify, investigate, analyze, and counter threats from foreign
+18 intelligence operations conducted by hostile foreign nations, including but not limited to, China and
+19 Russia, or their proxies, as well as cartels, and terrorist organizations, particularly targeting elite-
+20 captureoperations,targetingorstagingforattacksoncriticalinfrastructure,andsocietaldisruption.
+21 Those operations occurring with a physical presence in the state should be prioritized over online-
+22 onlysocial-engineeringtypeoperations.
+23 II. The office shall develop independent state-level intelligence capabilities, including
+24 verificationprocesses,tosupplementandassessthereliabilityofsharedfederalintelligence.
+25 21-P:74 Powers.
+26 I. The office shall have authority to subpoena records, coordinate with federal agencies as
+27 prudent and authorized by the governor, and recommend prosecutions to the attorney general,
+28 countyattorney,orfederalauthoritiesasappropriate.
+29 II. The office shall provide, at a minimum, quarterly briefings and annual public reports,
+30 redactedasnecessary,totheNewHampshirehouseandsenate.
+
+HB1605-FN-A-ASINTRODUCED
+-Page2-
+1 III. The office shall coordinate with federal fusion centers but shall retain independent
+2 authoritytoconductseparateassessmentstoensureobjectivityandtoidentifythreats not otherwise
+3 addressed.
+4 IV. Informationsharingwithfederalfusioncentersshallbelimitedtoverified,non-sensitive
+5 data that meets reasonable suspicion criteria under 28 C.F.R. part 23 and complies with RSA 21-
+6 U:6. Theofficeshallnot transmit personalidentifyinginformationor intelligencederived from state
+7 sources unless independently corroborated. Information received from fusion centers shall be
+8 adjudicated through an internal review process, including cross-verification against state sources
+9 andassessmentforpotentialbiasorsubversion,asdefinedindepartmentrules.
+10 4 Appropriation. There is hereby appropriated to the department of safety the sum of
+11 $6,000,000 for the biennium ending June 30, 2027, for the purpose of establishing and operating the
+12 state intelligence and counter-intelligence office under this act, including salaries, benefits, training,
+13 equipment, such as secure air-gapped and online networks, nondescript surveillance vehicles, an
+14 unarmed aerial surveillance platform, and night vision or thermal imaging devices, or both, and
+15 operational costs. The appropriation shall be drawnfirst from anyavailable general fund surplus or
+16 lapsed funds from prior appropriations, as determined by the commissioner of administrative
+17 services in consultation with the legislative budget assistant. If such funds are insufficient, the
+18 balanceshallbedrawnfromthegeneralfund. Thegovernorisauthorizedtodrawawarrantforsaid
+19 sum out of any money in the treasury not otherwise appropriated. Any unexpended funds shall not
+20 lapseandshallbeavailableforthepurposesofthisactinsubsequentfiscalyears.
+21 5 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2378
+12/8/25
+HB-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT establishing a state office for intelligence and counterintelligence within the
+executivebranch.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$1,721,000to
+Expenditures* $0 $1,088,000+ $1,102,000+
+$32,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $6,000,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the State Intelligence and Counter-Intelligence Office (Office) within the
+Department of Safety and provides $6,000,000 in general funds for operating the Office,
+includingsalaries,benefits,training,equipment,andoperationalcosts.
+TheDepartmenthasprovidedthefollowingassumptionsrelativetothisbill:
+ ThecreationofthisOfficewouldbeduplicativetotheeffortsthathaveexistedsince2010
+with the passing of NH RSA 651-F, which created the New Hampshire Information and
+Analysis Center (NHIAC). The New Hampshire Information and Analysis Center
+provides an integrated, all-crimes/all-hazards information sharing network to collect,
+analyze and disseminate information derived from multiple sources to stakeholders in a
+timelymanner,toprotectthecitizensandthecriticalinfrastructureofNewHampshire.
+o The NHIAC has long standing partnerships with the National Fusion Center
+Association, the Department of Homeland Security Office of Intelligence and
+Analysis which is embedded within the NHIAC, and the Federal Bureau of
+InvestigationJoint Terrorism Task Forcefor whichaTrooper is alreadyassigned
+as a full time Task Force Officer. The Division of State Police also has a
+Terrorism and Intelligence Unit assigned within the NHIAC. These offices
+
+alreadysharecounterintelligenceinformationwithfederal,state,local,tribaland
+territorialpartners.
+o Additionally, the NHIAC has a dedicated Counterterrorism Consultant assigned
+to the center. The consultant’s defined role is to provide intelligence regarding
+but not limited to foreign and domestic terrorist organizations, extremist
+organizations, cyber threats, infrastructure security, and counterintelligence and
+foreign threat intelligence. It is important to identify that this consultant is a
+civilian employee who does not conduct criminal investigations pertaining to any
+oftheinformationthatisshared.
+ Further conversation would need to be held to determine what authority the proposed
+Office would have to investigate the crimes defined in the bill such as Terrorism or
+Espionage as those crimes fall under the jurisdiction of a federal law enforcement
+authority.
+The Department states several areas of the potential fiscal impact of this bill are clear, while
+others remain uncertain and require additional analysis. The Department can reasonably
+estimate certain position and equipment costs; however, the operational and technical
+requirements associated with unmanned aerial systems (UAS) and specialized
+counterintelligencefunctionsintroducesignificantunknowns:
+Description FY2027 FY2028 FY2029
+PersonnelCosts(IncludingEquipment)
+Four(4)AnalystPositions(SOC13-06,Step6)
+$1,721,000 $1,088,000 $1,102,000
+Four(4)InvestigatorPositions(SOC33P-06,Step6)
+One(1)SupportStaff(SOC43-04,Step6)
+Approximately$8,500perunit,withan
+NightVisionGoggles additional$1,000perunitperfiscal
+yearforrecalibrationandmaintenance
+Approximately$10,000perunitfor
+CommercialUASUnits small-scale,commerciallyavailable
+drones
+TheDepartmentstatesthatestimates
+coulddevelopedforofficespace,
+FacilitiesandOperations
+vehicles,andtrainingprograms(notyet
+provided)
+SpecializedUASOperations
+Thebill’sdescribedfunctionalitysuggestsuseofadvancedormilitary-gradeUASplatforms,
+whichrequirelicensedandcontractedoperators. Thecostofsuchsystemsvarieswidely:
+-Military-GradeUAS:$85,000–$100,000perunitbasedoncurrentmarketsearches.
+-AdvancedPlatforms(e.g.,MQ-9Reaper):Estimatedatapproximately$30,000,000perunit.
+-OperationalCosts:Rangefrom$10toover$10,000perflighthour,dependingonmission
+complexityandplatformcapability.
+
+Mission-SpecificRequirements
+Withoutdefinedoperationalparameters,itisnotpossibletoaccuratelyforecastthelevelof
+staffing,training,orsupportinfrastructureneeded. Giventheseuncertainties,acapabilities
+andresourceassessmentshouldbeconductedtodeterminetheoperationalscope,staffing
+model,andequipmentneedsrequiredtoestablishastandaloneStateIntelligenceand
+CounterintelligenceOfficeasoutlinedinthebill. Thisanalysiswouldensurethatfuturefiscal
+estimatesaredata-drivenandalignedwiththeintendedmissionandscaleofoperations.
+AGENCIESCONTACTED:
+DepartmentofSafety

@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1728-FN-ASINTRODUCED
+2026SESSION
+26-3165
+07/06
+1728-FN
+HOUSEBILL
+ANACT requiring sufficient cybersecurity protections for critical infrastructure and
+technologyprojects.
+SPONSORS: Rep. McFarlane, Graf. 18; Rep. Cambrils, Merr. 4; Rep. Popovici-Muller, Rock. 17;
+Rep.SabourinditChoiniere,Rock.30;Rep.Vose,Rock.5;Rep.Wheeler,Hills.33;
+Sen.Pearl,Dist17
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill seeks to establish a statutory “standard of care” for operators of critical infrastructure
+technologysystemsservinglargepopulationsinNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1728-FN-ASINTRODUCED
+26-3165
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring sufficient cybersecurity protections for critical infrastructure and
+technologyprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindings. Thegeneralcourtherebyfindsthat:
+2 I. New Hampshire recognizes a duty to exercise reasonable care under all circumstances to
+3 preventforeseeableharms.
+4 II. Certain operational technology systems, if configured or maintained without due care,
+5 create foreseeable and unreasonable risks, not only to operators, but to entire communities and our
+6 nationaldefense.
+7 III. Public health, safety, and welfare requires heightened attention where failures to
+8 certain operational technology systems could cause material disruptions or harms to large numbers
+9 ofpeople.
+10 2 New Chapter; Critical Infrastructure Technology Practices. Amend RSA by inserting after
+11 chapter546-Cthefollowingnewchapter:
+12 CHAPTER546-D
+13 CRITICALINFRASTRUCTURETECHNOLOGYPRACTICES
+14 546-D:1 Definitions.
+15 I. As used in this chapter, "critical infrastructure operational technology" means the control
+16 systems, central operator-machine interfaces, and related components that directly support the
+17 provision of essential services, including drinking water supply, treatment and distribution systems,
+18 wastewater collection and treatment systems, electric power generation, transmission and
+19 distribution systems, natural gas transmission and distribution systems, communications systems,
+20 emergencyresponsesystems,andpublictransportationsystems.
+21 II. For purposes of this chapter, the use of Internet or cloud services solely for logging,
+22 telemetry or archival functions, including cybersecurity detection and analysis, shall not constitute
+23 “continuedsafeoperation.”
+24 546-D:2 StandardofCare.
+25 I. Operators of critical infrastructure operational technology systems serving more than
+26 10,000 people or 3,300 households within this state shall exercise reasonable care under all the
+27 circumstancestosecuresuchsystemsagainstforeseeablerisks,includingthosearisingfrom:
+28 (a) Direct exposure of controls, interfaces, or human-machine interfaces to the public
+29 Internet or other public networks without the interposition of firewall technologies which enforce
+
+HB1728-FN-ASINTRODUCED
+-Page2-
+1 inbound and outbound access permissions, allowing only specific access for documented reasons and
+2 denyingallotheraccessbydefault;
+3 (b) Indirect exposure through remote access solutions, including but not limited to dial-
+4 up, cellular modem, and Internet virtual private networks, that do not enforce phishing-resistant
+5 multi-factorauthenticationcontrols;
+6 (c) Lack of methods to temporarily terminate and disable remote access sessions and
+7 capabilities,includinginteractiveandsystem-to-systemremoteaccess;
+8 (d) Failuretoreasonablymaintainandpatchfirewallsandremoteaccesssystems;
+9 (e) Lackofacybersecurityincidentresponseandrecoveryplan;and
+10 (f) Dependence upon uninterrupted access to Internet or cloud services for continued
+11 safeoperationandfunctionofthesupportedcriticalinfrastructureservice.
+12 II. An operator who fails to exercise reasonable care under this section shall be liable for
+13 harms proximately caused by such failure. In determining liability, the magnitude of risk to public
+14 health and safety, the burden of taking precautions, and the degree to which the hazard was
+15 reasonablyforeseeableshallbeconsidered.
+16 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3165
+12/12/25
+HB1728-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring sufficient cybersecurity protections for critical infrastructure and
+technologyprojects.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 IndeterminableIncrease
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+This bill establishes a statutory standard of care for operators of critical infrastructure
+operational technology systems serving morethan 10,000 peopleor 3,300households. Operators
+must exercise reasonable care to secure essential services against foreseeable risks. Failure to
+meetthisstandardmayresultinliabilityforresultingharms.
+The Department of Administrative Services (DAS) reports that the Division of Risk and Benefits
+previously purchased cybersecurity insurance, but the rising costs made it unsustainable. In
+response, the Department of Information Technology (DoIT) implemented a self-insurance
+program in 2022. As a result, DAS indicates there will be no fiscal impact from this bill, since
+thestatenolongerpurchasescybersecurityinsurance.
+The Department of Information Technology indicates that they do not manage or regulate
+criticalinfrastructuresystems,andanycostsassociatedwithimplementingthelegislationwould
+fallontheinfrastructureentities.
+The New Hampshire Municipal Association (NHMA) states that municipalities operating such
+infrastructure may incur indeterminable costs ranging from $100,000 to $500,000 due to any
+necessarytechnologyupgrades. Largercitiesmayseeahighercost.
+
+The New Hampshire Association of Counties (NHAC) indicates that while the bill allows for
+litigation,thefiscalimpactiscurrentlyindeterminableduetotheunpredictabilityoflegalcosts.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServices,DepartmentofInformationTechnology,NewHampshire
+MunicipalAssociation,andNewHampshireAssociationofCounties

@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1827-FN-A-ASINTRODUCED
+2026SESSION
+26-2633
+07/09
+1827-FN-A
+HOUSEBILL
+ANACT establishing a grant program to support school districts extraordinary needs and
+fiscalcapacitydisparitiesrelativetoprovidinganadequateeducation.
+SPONSORS: Rep.Ladd,Graf.5
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a grant program to support school districts extraordinary needs and fiscal
+capacitydisparitiesrelativetoprovidinganadequateeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1827-FN-A-ASINTRODUCED
+26-2633
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a grant program to support school districts extraordinary needs and
+fiscalcapacitydisparitiesrelativetoprovidinganadequateeducation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Education; Adequate Education; Education Trust Fund; Education Grant
+2 Program; Plan and Accountability. Amend RSA 198 by inserting after section 42 the following new
+3 section:
+4 198:42-a EducationGrantProgram;PlanandAccountability.
+5 I. The grant program, pursuant to RSA 198:40-f and RSA 198:40-g, shall be designed to
+6 providefundingassistancetoeligibleschooldistrictsinsupportofacademicgrowthandachievement
+7 in grades K-12. Grant recipients may expend grant funds in a manner which best fits local
+8 educationneed. Grantfundsshallnotberestrictedortargetedtoanyspecificgroup.
+9 II. AschooldistrictreceivinggrantawardfundspursuanttoRSA198:40-fandRSA198:40-g
+10 shallsubmittothedepartmentofeducationaplanidentifyingessentialprogramsandaccountability
+11 indicators, considering educational needs and at what grade levels grant funds will be used. Grant
+12 accountability plans shall demonstrate instructional and curriculum approaches designed to
+13 contribute to academic achievement and growth. Initial grant awards shall be approved by the
+14 department and awarded for a 5-year timeframe. The department of education shall annually
+15 compute the amount of the grant. A cooperative school district that enrolls students in grades K-12
+16 shall inform the department of education of the individual member communities that qualify for the
+17 grant program and number of students enrolled in the cooperative school district from each
+18 qualifyingcommunity. Suchprocedureshallalsoapplytoschools withtuitionagreements. Where a
+19 cooperativeschooldistrictservesonlycertaingradespans,themembercommunitiesshallbeeligible
+20 to apply for grant program support for their schools that exist outside the cooperative district. The
+21 cooperative district shall also inform the department of education of the number of students from
+22 grant eligible communities attending the cooperative school district and apply for the grant. This
+23 procedureshallalsoapplytoschoolswithtuitionagreements.
+24 III. The school district shall annually use the statewide assessment, or, in consultation with
+25 the department, develop and administer its own standardized accountability grant assessment that
+26 identifies a range of learning and yields objective data showing progress toward academic growth
+27 and achievement attributable to grant funds. The school district shall submit to the department an
+28 annualgrantaccountabilityprogressreportonJanuary15ofeveryevennumberedyearcoveringthe
+29 indicators set forth in the district's grant accountability plan, to include district progress on
+30 indicators set forth in the delivery of an adequate education pursuant to RSA 193-E:3. The
+
+HB1827-FN-A-ASINTRODUCED
+-Page2-
+1 commissioner shall withhold grant funds from a school district until such time when the completed
+2 annual grant accountability report is submitted to the department in accordance with established
+3 departmentprotocolsandtimelines.
+4 IV. Thestateboardofeducationmayadoptrules,pursuanttoRSA541-A,toimplementthis
+5 section.
+6 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2633
+Revised1/20/26
+HB1827-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT establishing a grant program to support school districts extraordinary needs and
+fiscalcapacitydisparitiesrelativetoprovidinganadequateeducation.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+GrantstoDistricts
+Indeterminable
+Expenditures* $0 $0
+DOEPosition
+$120KinFY28and
+$123KinFY29
+FundingSource(s) GeneralFundandEducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 Indeterminable
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill, effective in FY 2028 (school year 2027-2028), requires districts to submit an
+accountability plan and monitor progress toward academic growth to receive targeted aid as
+identified in RSAs 198:40-f and 198:40-g. The monitoring must identify progress toward
+academic achievement growth and achievement attributable to the targeted aid grant. Districts
+failing to comply with this bill shall not receive the targeted aid grant until compliance is
+achieved.
+The Department of Education states that connecting targeted aid to accountability plans was
+previously introduced in FY 2023 adequacy and required accountability plans for districts to
+receivethistargetedaid. InFY2023,sevenoutofthe115municipalitieseligiblefortargetedaid
+
+didnotsubmitaccountabilityplans,andthereforedidnotreceivethetargetedaid. Thisresulted
+in approximately $293K out of $14.6M, or 2%, of eligible aid not being issued. Targeted aid in
+FY 2027 is approximately $169M in funding. Assuming around 2 percent of eligible awards are
+not allocated due to a lack of compliant accountability plans, then approximately $3M in
+targeted aid would not be distributed. Ultimately, it is unknown whether districts may not
+complyandhowmuchinaidmaynotbedistributed.
+TheDepartmentstatesitwouldneedtohireaninstructioncoordinator(SOC25-07,startingstep
+5) to review and track the accountability plans submitted. The estimated cost for this position,
+assumingastartdateofJuly1,2027,is$120,000inFY2028and$123,000inFY2029. Thisbill
+providesneitherauthorizationnorappropriationfornewpersonnel.
+AGENCIESCONTACTED:
+DepartmentofEducation

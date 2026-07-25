@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1050 -ASINTRODUCED
+2026SESSION
+26-2452
+06/05
+1050
+HOUSEBILL
+ANACT establishing the right to provide educational instruction in municipally zoned and
+non-zonedareas.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. Farrington, Straf. 8; Rep. Freeman, Belk. 8;
+Rep. Litchfield, Rock. 32; Rep. Mazur, Hills. 44; Rep. Noble, Hills. 2; Rep.
+Peternel, Carr. 6; Sen. Innis, Dist 7; Sen. Lang, Dist 2; Sen. Sullivan, Dist 18;
+Sen.Murphy,Dist16
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes the right to provide educational instruction to children in any designated or
+non-designatedzonewithinamunicipality,overridinganyzoningordinancesorlanduse regulations
+thatmightrestrictorprohibitsucheducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1050-ASINTRODUCED
+26-2452
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing the right to provide educational instruction in municipally zoned and
+non-zonedareas.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Learning Pod Protection. Amend RSA 674 by inserting after section 76 the
+2 followingnewsubdivision:
+3 LearningPodProtection
+4 674:77 Definitions. Inthissubdivision:
+5 I. "Learningpod"meansprovidingeducationalinstructiontovoluntarilyassociatedchildren
+6 inanydesignatedornon-designatedzonewithinamunicipality.
+7 II. "Municipallyzonedarea"meansanareadesignatedforspecificusesthroughalocal
+8 zoningordinance.
+9 III. "Non-zonedarea"referstoanyareawithinamunicipalitythatisnotsubjecttozoning
+10 ordinancesorregulations.
+11 674:78 Rights. Everyvoluntarilyassociatedchildshallhavetherighttobeeducatedinany
+12 municipallyzonedornon-zonedareawithinthemunicipality.
+13 674:79 Implementation. Notwithstanding any other law to the contrary, no zoning ordinance or
+14 land use regulation shall restrict or prohibit the provision of educational instruction in any area
+15 withinthemunicipality.
+16 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

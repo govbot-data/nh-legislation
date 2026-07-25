@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1683-FN-ASINTRODUCED
+2026SESSION
+26-3114
+04/09
+1683-FN
+HOUSEBILL
+ANACT relative to the modification of administrative rules by the joint legislative
+committeeonadministrativerules.
+SPONSORS: Rep. Potenza, Straf. 19; Rep. J. Aron, Sull. 4; Rep. Bernardy, Rock. 36; Rep.
+Comtois,Belk.7;Rep.N.Germana,Ches.15;Rep.Haskins,Rock.11;Rep.Kofalt,
+Hills.32
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires agencies to identify specific statutory authority for each administrative rule
+they adopt, establishes a biennial review process to audit rules for compliance with their enabling
+statutes, and creates a procedure for repealing or amending rules found to be inconsistent with
+statutoryauthority.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1683-FN-ASINTRODUCED
+26-3114
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the modification of administrative rules by the joint legislative
+committeeonadministrativerules.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Joint Legislative Committee on Administrative Rules; Rulemaking Limited to
+2 StatutoryAuthority. AmendRSA541-Abyinsertingaftersection3-bthefollowingnewsection:
+3 541-A:3-c LimitationtoCurrentStatutes.
+4 I. All proposed or existing administrative rules reviewed by the joint legislative committee
+5 on administrative rules (JLCAR) shall be based upon and directly supported by current statutory
+6 lawcontainedintheRevisedStatutesAnnotated(RSA).
+7 II. No rule shall be adopted, readopted, or amended unless the agency can demonstrate in
+8 writingthespecificstatutorysectionauthorizingtherule.
+9 2 New Sections; Biannual Audit of Existing Rules. Amend RSA 541-A by inserting after section
+10 22thefollowingnewsections:
+11 541-A:22-a BiannualAuditofRulesforConstitutionalityandStatutoryAuthority.
+12 I. The office of legislative services, under supervision of the joint legislative committee on
+13 administrativerules (JLCAR), shall conduct abiannualaudit of all administrativerules currentlyin
+14 effecttoensurethat:
+15 (a) Each rule is supported by a current statutory provision in the Revised Statutes
+16 Annotated(RSA);and
+17 (b) Each rule complies with the New Hampshire constitution, the United States
+18 Constitution,andapplicablestateandfederallaw.
+19 II. The results of each audit shall be reported to JLCAR and made publicly available on the
+20 generalcourtwebsite.
+21 541-A:22-b OngoingRemovalofNoncompliantRules.
+22 I. Any rule identified through the audit described in RSA 541-A:22-a, or through any other
+23 lawful review, as not based upon a current RSA or found to be unconstitutional shall be flagged for
+24 repeal.
+25 II. Upon receiving notice from joint legislative committee on administrative rules (JLCAR)
+26 thatarulehasbeenflaggedforrepealoramendment,theissuingagencyshall:
+27 (a) Immediately begin the repeal or amendment process and complete it within 90 days
+28 unlessashortertimeframeisordered;and
+29 (b) Submit a written justification within 30 days explaining the statutory authority for
+30 theruleandwhyitshouldnotberepealedoramended.
+
+HB1683-FN-ASINTRODUCED
+-Page2-
+1 III. JLCAR shall ensure that all flagged rules and the agencies’ written justifications or
+2 failure to justify are posted on the general court website for public inspection no later than 10 days
+3 afterreceipt.
+4 IV. If the agency fails to act within the time frame specified in paragraph II or fails to
+5 submitthewrittenjustification,JLCARshall:
+6 (a) Referthemattertotheattorneygeneralforenforcement;
+7 (b) Notify the governor and council and the presiding officers of the house and senate;
+8 and
+9 (c) Recommend to the house finance committee and the senate finance committee that
+10 funds appropriated to theagency for the administrationof the noncompliant rule besuspended until
+11 complianceisachieved.
+12 V. Nothing in this section shall limit JLCAR’s authority to act on noncompliant rules at any
+13 time,independentofthebiannualauditschedule.
+14 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3114
+12/8/25
+HB1683-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the modification of administrative rules by the joint legislative
+committeeonadministrativerules.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Inexcessof Inexcessof
+Expenditures* $0 $312,000
+$326,000 $337,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires that all administrative rules must be explicitly supported by current statutory
+authority and introduces a biennial audit process, overseen by the Joint Legislative Committee
+on Administrative Rules (JLCAR), to ensure compliance. If a rule lacks statutory backing or is
+found unconstitutional, agencies must repeal or amend it within 90 days or justify its validity.
+Failuretocomplymayresultinenforcementactions,includingfundingsuspensions.
+The Legislative Branch's Division of Administrative Rules anticipates a significant fiscal impact
+from the proposed legislation, which requires a biennial audit of all administrative rules for
+statutory and constitutional compliance. To meet these new mandates, the Division estimates
+state expenditures of approximately $312,000 in FY 2027, $326,000 in FY 2028, and $337,000 in
+FY 2029. These costs reflect the need to hire three staff attorneys and one administrative
+assistant to conduct audits, manage reporting, and coordinate enforcement actions.
+Administrative Rules notes that actual long-term costs could exceed $500,000 annually to
+maintain a sustainable audit process as they are unsure if the additional staffing will be
+sufficient. Theseexpensescannotbeabsorbedwithinitscurrentbudget.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+
+AGENCIESCONTACTED:
+LegislativeBranch'sDivisionofAdministrativeRules

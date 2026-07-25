@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1645 -ASINTRODUCED
+2026SESSION
+26-3058
+12/07
+1645
+HOUSEBILL
+ANACT addingadefinitionforrulesrelativetoinnovationschools.
+SPONSORS: Rep.Freeman,Belk.8;Rep.Litchfield,Rock.32
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds a definition for rules relative to innovation schools. The bill also requires that
+rulesandlawsrelatedtostudentorschoolsafetyunderthechapternotbesubjecttowaivers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1645-ASINTRODUCED
+26-3058
+12/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT addingadefinitionforrulesrelativetoinnovationschools.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewParagraph;InnovationSchools;DefinitionAdded. AmendRSA194-E:1byinsertingafter
+2 paragraphIIIthefollowingnewparagraph:
+3 IV. "Rules" means administrative rules and related state laws. "Rules," as defined in this
+4 paragraph,shallnotapplytoRSA194-E:8.
+5 2 NewSection;InnovationSchools;Applicability. AmendRSA194-Ebyinsertingaftersection8
+6 thefollowingnewsection:
+7 194-E:9 Applicability. Rules or laws in this chapter related to student or school safety shall not
+8 besubjecttowaivers.
+9 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

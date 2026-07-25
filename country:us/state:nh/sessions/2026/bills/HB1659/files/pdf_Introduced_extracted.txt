@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1659 -ASINTRODUCED
+2026SESSION
+26-2912
+06/07
+1659
+HOUSEBILL
+ANACT relativetolocalpropertytaxexemptionsforveteranswitha100percentdisability
+rating.
+SPONSORS: Rep.Dunn,Rock.16;Rep.Perez,Rock.16;Rep.Suiter,Hills.36
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a disabled veteran homestead property tax credit for permanently disabled
+veteransandveteranswithhomemodificationsrelatedtotheirservice-connecteddisabilities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1659-ASINTRODUCED
+26-2912
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolocalpropertytaxexemptionsforveteranswitha100percentdisability
+rating.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DutiesofCommissioner. AmendRSA21-J:3,XIIItoreadasfollows:
+2 XIII. Equalize annually by May 1 the valuation of the property as assessed in the several
+3 towns, cities, and unincorporated places in the state including the value of property exempt
+4 pursuant to RSA 72:37, RSA 72:37-b, RSA 72:39-a, RSA 72:39-c, RSA 72:62, RSA 72:66, RSA 72:70,
+5 RSA 72:85, and RSA 72:87, property which is subject to tax relief under RSA 79-E:4, and property
+6 which is subject to tax relief under RSA 79-E:4-a or RSA 79-E:4-b, by adding to or deducting from
+7 theaggregatevaluationofthepropertyintowns,cities,andunincorporatedplacessuchsumsas will
+8 bringsuchvaluationstothetrueandmarketvalueoftheproperty,andbymakingsuchadjustments
+9 in the value of other property from which the towns, cities, and unincorporated places receive taxes
+10 orpaymentsinlieuoftaxes,includingrenewablegenerationfacilitypropertysubjecttoapaymentin
+11 lieuoftaxesagreementunderRSA72:74andcombinedheatandpoweragriculturalfacilityproperty
+12 subject to a payment in lieu of taxes agreement under RSA 72:74-a, as may be equitable and just, so
+13 that any public taxes that may be apportioned among them shall be equal and just. In carrying out
+14 thedutytoequalize thevaluationofproperty, thecommissioner shallfollow theprocedures set forth
+15 inRSA21-J:9-a.
+16 2 ProcedureforAdoption,Modification,orRescission. AmendRSA72:27-a,Itoreadasfollows:
+17 I. Any town or city may adopt the provisions of RSA 72:28, RSA 72:28-b, RSA 72:29-a, RSA
+18 72:35,RSA72:37,RSA72:37-b,RSA72:38-b,RSA72:39-a,RSA72:39-c,RSA72:62,RSA72:66,RSA
+19 72:70,RSA72:76,RSA72:82,RSA72:85,orRSA72:87,inthefollowingmanner:
+20 3 TaxCreditforService-ConnectedTotalDisability. AmendRSA72:35,I-atoreadasfollows:
+21 I-a. The optional tax credit for service-connected permanent and total disability, upon
+22 adoptionbyacityortownpursuanttoRSA72:27-a,shallbeanamountfrom$701upto$5,000. The
+23 optional tax credit for service-connected permanent and total disability shall replace the tax credits
+24 pursuant to RSA 72:28, 72:28-b, 72:28-c, [and] 72:36-a, and 72:39-c in its entirety and shall not be
+25 inadditionthereto.
+26 4 Interpretations;Rules. AmendRSA72:36,Itoreadasfollows:
+27 I. The commissioner's interpretation of RSA 72:28, 72:28-b, 72:28-c, 72:29, 72:29-a, 72:30,
+28 72:31, 72:32, 72:33, 72:34, 72:34-a, 72:35, 72:36-a, 72:37, 72:37-a, 72:37-b, 72:38-a, 72:38-b, 72:39-a,
+29 72:39-b,72:39-c,72:41,72:62,72:66,72:70;72:85,and72:87;and
+
+HB1659 -ASINTRODUCED
+-Page2-
+1 5 New Section; Disabled Veteran Homestead Property Tax Credit. Amend RSA 72 by inserting
+2 aftersection39-bthefollowingnewsection:
+3 72:39-c DisabledVeteranHomesteadPropertyTaxCredit.
+4 I. Any city or town may adopt the homestead property tax credit established under this
+5 section by the procedure set forth in RSA 72:27-a. The credit shall be available only after the
+6 legislativebodyofthecityortownhasvotedtoadopttheexemptionorcreditasprovidedbylaw.
+7 II. The owner of a homestead shall be entitled to a property tax credit equal to the entire
+8 amount of property taxes levied on the homestead for each tax year in which the owner meets one of
+9 thefollowingcriteria:
+10 (a) Is a veteran of any branch of the armed forces of the United States who acquired the
+11 homesteadunder38U.S.C.section2101,2102,oranysuccessorprogramprovidingspeciallyadapted
+12 housingfordisabledveterans;
+13 (b) Is a veteran, as defined in RSA 21:50, who has a permanent service-connected
+14 disability rating of 100 percent, as certified by the United States Department of Veterans Affairs, or
+15 is rated permanently and totally disabled due to individual unemployability, as certified by the
+16 UnitedStatesDepartmentofVeteransAffairs;or
+17 (c) Is a former member of the national guard or reserves who meets the service
+18 requirements of RSA 21:50, and has a permanent service-connected disability rating of 100 percent,
+19 orisratedpermanentlyandtotallydisabledduetoindividualunemployability.
+20 III. For purposes of this section, “homestead” means the owner’s principal dwelling and the
+21 land surrounding it, not to exceed one acre if located within an incorporated city or densely settled
+22 area,or10acresinanyothermunicipality.
+23 IV. The credit permitted under this section shall continue to the estate of a deceased
+24 qualifyingownerforthebenefitof:
+25 (a) Asurvivingspouse,solongasthespouseremainsunmarried;or
+26 (b) Any child who is a dependent of the decedent receiving benefits under 38 U.S.C.
+27 section1301etseq.
+28 V. An owner or beneficiary who elects to claim the credit provided under this section shall
+29 not be eligible for any other real property tax exemption under RSA 72 for veterans of military
+30 service.
+31 VI. If aqualifyingowneracquires adifferent homesteadwithinthisstate, thecredit allowed
+32 under this section may be claimed for the new homestead, provided all other requirements of this
+33 sectionaremet.
+34 VII. Records identifying individuals who receive the credit under this section shall be
+35 exempt from disclosure under RSA 91-A, except as necessary for tax administration or upon request
+36 by a county or state veterans service officer for the purpose of providing information about benefits
+37 andservicesavailabletoveteransandtheirfamilies.
+
+HB1659 -ASINTRODUCED
+-Page3-
+1 VIII. Forpurposesofthissection,“permanentandtotaldisabilityratingbasedonindividual
+2 unemployability” means a condition in which the United States Department of Veterans Affairs
+3 rates a veteran as permanently and totally disabled for disability compensation under 38 C.F.R.
+4 section4.16.
+5 IX. To claim the exemption under this section, the qualifying veteran, surviving spouse, or
+6 dependent child shall file with the local assessing officials, on or before April 1 of the year in which
+7 theexemptionisfirstclaimed:
+8 (a) A copy of the United States Department of Veterans Affairs certification of disability
+9 ratingordependencyandindemnitycompensationaward.
+10 (b) Any application forms prescribed by the department of revenue administration.
+11 Once the application is approved, the exemption shall remain in effect for subsequent years without
+12 furtherfiling,unlesstheassessingofficialsrequestupdatedverification.
+13 6 EffectiveDate. ThisactshalltakeeffectApril1,2027.

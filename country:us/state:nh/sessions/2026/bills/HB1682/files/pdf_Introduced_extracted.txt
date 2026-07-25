@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1682-FN-ASINTRODUCED
+2026SESSION
+26-3112
+06/09
+1682-FN
+HOUSEBILL
+ANACT relative to registration and road access for low-capacity and low-weight battery-
+operatedvehicles.
+SPONSORS: Rep. Almy, Graf. 17; Rep. Janigian, Rock. 25; Rep. Cloutier, Sull. 6; Rep. Milz,
+Rock.13
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes registration surcharges for small battery-operated vehicles and exempts
+motorizedelectric-poweredvehiclesusedexclusivelyoff-roadfromregistrationrequirements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1682-FN-ASINTRODUCED
+26-3112
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to registration and road access for low-capacity and low-weight battery-
+operatedvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ElectricVehicleRegistrationFee. AmendRSA261:141-ctoreadasfollows:
+2 261:141-c ElectricVehicleRegistrationFeetobeCollected;Exemptions.
+3 I. Battery electric vehicles, as defined in RSA 236:132, I, shall be assessed a surcharge of
+4 $100 on annual registration, and plug-in hybrid vehicles, as defined in RSA 236:132, V shall be
+5 assessedasurchargedof$50,tobedepositedinthehighwayfund.
+6 I-a. Small battery-operated vehicles shall be assessed a surcharge of $20 on annual
+7 registration for municipal on-road use if their dry weight is under 400 pounds, and $30 for
+8 public road use other than highways if dry weight is between 401 and 1,000 pounds. The
+9 feeformunicipalon-roaduseshallbepaidtotheresident’smunicipality.
+10 I-b. The department of safety, division of motor vehicles shall determine necessary
+11 proceduresfordeterminingvehiclessubjecttothissurcharge.
+12 II. Thedivisionofmotorvehiclesandthedepartmentoftransportationshallreportannually
+13 on or before January 1 of each year to the New Hampshire transportation council, speaker,
+14 president, and chairs of house and senate transportation committees on the state surcharge
+15 revenue.
+16 III. Motorized electric-powered vehicles, including motor bicycles, mopeds, and
+17 similar devices, that are capable of speeds greater than 15 miles per hour and weigh less
+18 than400poundsshallberegisteredtooperateonmunicipalroads,uponpaymentofthefee
+19 established in this section. Notwithstanding RSA 261:40 or any other provision of law to
+20 the contrary, motorized electric-powered vehicles used exclusively off-road shall not be
+21 requiredtoberegisteredunderthischapter.
+22 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-3112
+12/2/25
+HB1682-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to registration and road access for low-capacity and low-weight battery-
+operatedvehicles.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) HighwayFund
+DepartmentofSafetyCosts
+$10,000to$100,000PerYear
+$45,000to
+Expenditures* $0
+$100,000
+ApportionmentAPayments
+IndeterminableIncrease
+HighwayFundandRestricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource(s)
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriortofunds
+beingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 IndeterminableIncrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill establishes registration surcharges for small battery-operated vehicles of $20 and $30
+dependingonvehicle weight, withproceeds paid to theresident’s municipality. The Department
+hasidentifiedthefollowingpotentialcostimpactsofthisbill:
+ Modify its systems to include new vehicle categories defined as small battery-operated
+vehiclesandmotorizedelectric-poweredvehiclesandassociatedsurchargeamounts.
+o Estimated programming, testing, and deployment costs are projected at $45,000
+basedoncurrentvendorratesandsystemdevelopmenttimelines.
+ Develop internal guidance and administrative procedures to determine eligibility for the
+surcharges, including identifying affected vehicle types, verifying vehicle weight
+
+classifications, and ensuring proper fee distribution for municipally collected fees. Minor
+stafftrainingandpubliccommunicationupdateswouldberequired.
+o These can be completed within existing resources and would not result in
+additionalcost.
+ The Department, and its municipal agents, would process new additional registrations
+because of the newly added vehicle classifications. The cost associated with producing
+and issuing each registration certificate and decal sticker is approximately $0.45 per
+transaction.
+o TheDepartmenthasnotprovidedanestimateofhowmanyvehiclesmayregister
+underthisbill,therefore,thisimpactisindeterminable.
+Ultimately,theDepartmentstatesthattheimpactonstateexpendituresasaresultofthisbillis
+indeterminable, however it would range from $45,000 to $100,000 in FY 2027 and $10,000 to
+$100,000inFY2028andbeyond.
+This bill directs revenue from the $20 annual registration for municipal on-road (<400 lbs) to
+municipalitiesandissilentonrevenuefromthe$30annualregistrationforpublicroaduseother
+than highways (401-1,000 lbs), which is assumed would be credited to the state highway fund.
+The Department has provided no estimates as to how many vehicles may be registered as a
+result of this bill, therefore, this bill’s impact onstate and local revenue is indeterminable. Also,
+pursuant to RSA 235:23 (“Apportionment A”), 12 percent of highway fund road toll and motor
+vehicle fee revenue collected is distributed to municipalities in the year following collection.
+Therefore, this bill would also increase state expenditures and local revenue by an
+indeterminableamountinFY2028andbeyond.
+The Department notes that this bill’s effective date of July 1, 2026, would not provide adequate
+time for it to make the necessary changes to implement this bill. Typically, bills impacting
+vehicleregistrationswouldbeeffectiveJanuary1.
+AGENCIESCONTACTED:
+DepartmentofSafety

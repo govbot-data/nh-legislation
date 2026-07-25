@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1155-ASAMENDEDBYTHEHOUSE
+11Mar2026...0878h
+2026SESSION
+26-2624
+07/06
+1155
+HOUSEBILL
+ANACT repealingthehomeeducationadvisorycouncil.
+SPONSORS: Rep.Peternel,Carr.6;Rep.Drago,Rock.4;Rep.Drye,Sull.7;Sen.Ward,Dist8
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillrepealsthehomeeducationadvisorycouncil.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1155-ASAMENDEDBYTHEHOUSE
+11Mar2026...0878h 26-2624
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthehomeeducationadvisorycouncil.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 HomeEducation;Rulemaking. AmendRSA193-A:3toreadasfollows:
+2 193-A:3 Rulemaking. The state board of education shall adopt rules, pursuant to RSA 541-A,
+3 relative to administering the home education program. [The state board of education shall, in
+4 addition to the provisions of RSA 541-A, submit any notice of proposed rulemaking under RSA 541-
+5 A:6 and any final proposed rule under RSA 541-A:12 to the home education advisory council
+6 establishedinRSA193-A:10forreviewandcomment.]
+7 2 Repeal. RSA193-A:10,relativetothehomeeducationadvisorycouncil,isrepealed.
+8 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.

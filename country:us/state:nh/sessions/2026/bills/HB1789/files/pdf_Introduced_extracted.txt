@@ -1,0 +1,799 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1789-FN-ASINTRODUCED
+2026SESSION
+26-2562
+08/09
+1789-FN
+HOUSEBILL
+ANACT relativetoextendedproducerresponsibility.
+SPONSORS: Rep. Parshall, Ches. 8; Rep. Bixby, Straf. 13; Rep. N. Germana, Ches. 15; Rep.
+Gruber,Ches.16;Rep.Raymond,Hills.5
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a program to enact extended producer responsibility for packaging. This bill
+also provides for oversight and management of the program through the collection of stewardship
+feesasmanagedbyproducers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1789-FN-ASINTRODUCED
+26-2562
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoextendedproducerresponsibility.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Extended Producer Responsibility. Amend RSA 149-M by inserting after
+2 section64thefollowingnewsubdivision:
+3 ExtendedProducerResponsibility
+4 149-M:65 Definitions.
+5 I. "Bio-plastic" means plastic produced from biological sources such as vegetable fats and
+6 oils, polysaccharides, sugar, proteins, or other materials that are certified or are able to be certified
+7 tobebiodegradable.
+8 II. "Brand" means any mark, word, name, symbol, design, device, or graphical element or a
+9 combination thereof, including a registered or unregistered trademark, that identifies and
+10 distinguishesaproductfromotherproducts.
+11 III. "Circular economy" means a model of production and consumption, which involves
+12 sharing, leasing, reusing, repairing, refurbishing and recycling existing materials and products as
+13 long as possible. In this way, the life cycle of products is extended. In practice, it implies reducing
+14 wastetoaminimum.
+15 IV. "Department"meansthedepartmentofenvironmentalservices.
+16 V. "Extended producer responsibility" or "EPR" means a mandatory type of product
+17 stewardship that includes, at a minimum, the requirement that the producer’s responsibility for
+18 their product extends to post-consumer management of that product and its packaging. There are 2
+19 featuresofEPRpolicy:
+20 (a) Shifting financial and management responsibility, with government oversight,
+21 upstreamtotheproducerandawayfromthepublicsector;and
+22 (b) Providing incentives to producers to incorporate environmental considerations into
+23 thedesignoftheirproductsandpackaging.
+24 VI. "Packaging" means a discrete material or category of material, regardless of
+25 recyclability, including but not limited to such material types as paper, plastic, glass, metal, or
+26 multi-material, that is used for the containment, protection, handling, delivery, transport,
+27 distribution, or presentation of another product that is sold, offered for sale, imported, or distributed
+28 inthestate. Packagingdoesnotinclude:
+29 (a) Medicaldevicesandpackagingwhichareincludedwithproductsregulatedasadrug,
+30 medicaldevice,ordietarysupplementbytheUnitedStatesFoodandDrugAdministrationunderthe
+
+HB1789-FN-ASINTRODUCED
+-Page2-
+1 Federal Food, Drug, and Cosmetic Act, 21 U.S.C. section 321 et seq., 21 C.F.R. section 3.2(e), or the
+2 DietarySupplementHealthandEducationAct;
+3 (b) Animal biologics, including vaccines, bacterins, antisera, diagnostic kits, and other
+4 products or biological origin, and other covered materials regulated by the United States
+5 DepartmentofAgricultureundertheVirus,Serum,ToxinAct,21U.S.C.sections151-159;
+6 (c) Packaging regulated by the Federal Insecticide, Fungicide, and Rodenticide Act, 7
+7 U.S.C.section136etseq.orotherapplicablefederallaw,rule,orregulation;and
+8 (d) Beverage containers subject to a returnable container deposit, if such program
+9 shouldbecomebroadlyapplicable.
+10 VII. "Packaging reduction organization" or "PRO" means the non-profit entity or entities
+11 contracted by the department and authorized to collect producer fees, assist producers with
+12 compliance with the requirements of this subdivision, provide technical assistance to producers, and
+13 implementthepackagingreductionandrecyclingprogram.
+14 VIII. "Packaging reduction and recycling program" means the program implemented by the
+15 packaging reduction organization, and overseen by the department, to reduce packaging and to
+16 assess and collect information and payments from producers based on the amount of packaging used
+17 by the producer to contain, protect, deliver, present, or distribute their products, in order to pay for
+18 the development of packaging reduction programs including, but not limited to, reusable and
+19 refillable packaging systems and infrastructure, reimbursements to local government to cover the
+20 costofpackagingrecycling,andinvestmentsineducationandoutreach.
+21 IX. "Post-consumer recycled material" means new material produced using material
+22 resulting from the recovery, separation, collection and reprocessing of material that would otherwise
+23 bedisposedoforprocessedaswasteandthatwasoriginallysoldforconsumption.
+24 X. "Producer"means:
+25 (a) A person or entity that manufactures or uses in commercial enterprise a product
+26 sold, offered for sale, contained, protected, delivered, presented, or distributed in or using packaging
+27 intothestateunderthebrandofthemanufacture;
+28 (b) Ifsubparagraph(a) doesnot apply, apersonor entitythat is notthemanufacturer of
+29 the product, but is the owner or licensee of a trademark, regardless of whether the trademark is
+30 registered, under which a product is sold, offered for sale, contained, protected, delivered, presented,
+31 ordistributedinorusingpackaging;or
+32 (c) If subparagraphs (a) and (b) do not apply, a person or entity that imports a product
+33 that is contained, protected, delivered, or presented in packaging, into theUnited States or the state
+34 foruseincommercialenterpriseinthestate. Producerincludesafranchisorofafranchiselocatedin
+35 thestatebutdoesnotincludethefranchiseeoperatingthatfranchise.
+
+HB1789-FN-ASINTRODUCED
+-Page3-
+1 XI. "Product stewardship" means minimizing health, safety, environmental and social
+2 impacts, and maximizing economic benefits of a product and its packaging throughout all lifecycle
+3 stages.
+4 XII. "Recyclable"meansaproductorpackagingmaterial:
+5 (a) That can be sorted by entities that process post-consumer materials generated in the
+6 state;
+7 (b) That has a consistent regional market for purchase by end users in the production of
+8 newproducts;and
+9 (c) Which can be recycled with minimal losses of material during processing and
+10 manufacturing.
+11 XIII. "Recycled" means the use of discarded packaging materials or products in the
+12 production of a new product or packaging in place of virgin materials. Material shall not be
+13 considered “recycled” if it is used as landfill cover. “Recycled” material does not include
+14 contaminants,residues,andotherprocesslosses.
+15 XIV. "Recycling rate" means the percentage of any given packaging type that is ultimately
+16 recycled. The recycling rate for any packaging material shall be calculated as the total weight of
+17 packaging that is recycled in a given year divided by the total weight of packaging generated.
+18 Material losses (contaminants and residues) accruing during collection, processing, and
+19 manufacturing new products do not count as recycled and should not be in the numerator of the
+20 equation.
+21 XV. "Reuse" means the return of packaging back into the economic stream for use in the
+22 same kind of application intended for the original packaging, without effectuating a change in the
+23 originalcompositionofthepackage,theidentityoftheproduct,orthecomponentsthereof.
+24 XVI. "Reuse and refill system" means a program or set of mechanisms designed to facilitate
+25 multiple uses of packaging. Mechanisms may include, but are not limited to, deposits, incentives,
+26 curbside collection, collection kiosks, refill stations, dishwashing facilities, and re-distribution
+27 networks.
+28 XVII. "Toxic substance" means a chemical or chemical class identified by a state agency,
+29 federal agency, international intergovernmental agency, accredited research university, or other
+30 scientific entity deemed authoritative by the department on the basis of credible scientific evidence
+31 asbeingoneormoreofthefollowing:
+32 (a) A chemical or chemical class that is a carcinogen, mutagen, reproductive toxicant,
+33 immunotoxin,neurotoxicant,orendocrinedisruptor.
+34 (b) Achemicalorchemicalclassthatispersistentorbioaccumulative.
+35 (c) A chemical or chemical class that may harm the normal development of a fetus or
+36 childorcauseotherdevelopmentaltoxicityinhumansorwildlife.
+37 (d) Achemicalorchemicalclassthatmayharmorgansorcauseothersystemictoxicity.
+
+HB1789-FN-ASINTRODUCED
+-Page4-
+1 (e) A chemical or chemical class that may have adverse air quality impacts, adverse
+2 ecologicalimpacts,adversesoilqualityimpacts,oradversewaterqualityimpacts.
+3 (f) A chemical or chemical class that the department has determined has equivalent
+4 toxicitytotheabovecriteria.
+5 XVIII. "Unit" means each discrete component of a package or container, including material
+6 that is used for the containment, protection, handling, delivery, transport, distribution, and
+7 presentationofaproductthatissold,offeredforsale,imported,ordistributedinthestate,including
+8 throughInternettransactions.
+9 149-M:66 PackagingReductionandRecycling.
+10 I. There is established the packaging reduction program by which producers who sell, offer
+11 forsale,ordistributeproductscontained,protected,delivered,presented,ordistributedinpackaging
+12 shall pay fees based on the quantity and type of packaging used in the state. The fees shall be used
+13 to fund the administration of this program. Producers shall also be required to make changes to the
+14 designoftheirproductsinordertomeetpackagingreductionandrecyclingrequirements.
+15 II. The department shall contract with an established non-profit packaging reduction
+16 organization, which shall collect packaging reduction, generation, and recycling information and fee
+17 payments, as described in RSA 149-M:72, from participating producers. The payments collected
+18 from producers shall be deposited into the packaging reduction fund established in RSA 149-M:73 to
+19 reimburse local governments for the costs associated with reducing and managing packaging waste,
+20 reimburse the department for their administration of the program, and to support eligible projects
+21 that reduce packaging waste by investing in packaging reduction and elimination, reuse and refill
+22 systems and programs, recycling infrastructure, and comprehensive multi-media educational
+23 programs.
+24 III. No later than 18 months after the effective date of this section, the department shall
+25 conductastatewidepackagingreduction,reuse,andrecyclingneedsassessmentasdescribedinRSA
+26 149-M:71 to determine the current state of packaging reuse, recycling, and disposal, and to identify
+27 barriers and opportunities to reduce the amount of packaging discarded and disposed of, and to
+28 increasethereusabilityandrecyclabilityofpackaging.
+29 IV. The state comptroller shall conduct an annual audit of the program, including but not
+30 limited to: the amount of money received; the amount of money sent to local governments; the
+31 amount of money used to invest in reduction recycling and reuse programs and services by the
+32 packaging reduction organization and any state offices; the amount of discarded packaging
+33 generated, reduced, and recycled; any recommendations for improvement of the program. The audit
+34 shallbeapublicdocument.
+35 149-M:67 ProducerResponsibilitiesandExemptions.
+
+HB1789-FN-ASINTRODUCED
+-Page5-
+1 I. One year after the selection of the packaging reduction organization in accordance with
+2 RSA 149-M:68, a producer shall not sell, offer for sale, or distribute into the state a product
+3 contained,protected,delivered,presented,ordistributedinpackagingunlesstheproduceris:
+4 (a) Registeredwiththepackagingreductionorganization;and
+5 (b) Infullcompliancewithallrequirementsofthissubdivision.
+6 II. Aproducershallannuallyreporttothepackagingreductionorganization:
+7 (a) The total amount, in units and by weight, of each type of packaging material sold,
+8 offeredforsale,ordistributedforsaleintothestatebytheproducerinthepriorcalendaryear;and
+9 (b) All information necessary for producer and the packaging reduction organization to
+10 meetitsobligationsunderRSA149-M:69.
+11 III. A producer shall submit, in a manner and format to be determined by the department,
+12 allfeesassessedontheproducerbythepackagingreductionorganization.
+13 IV. A producer shall annually submit, to both the department and the packaging reduction
+14 organization, a written declaration signed by the chief executive officer, verifying the producer’s
+15 compliancewith:
+16 (a) ThepackagingreductionrequirementsofRSA149-M:74;
+17 (b) ThepackagingrecyclingrequirementsofRSA149-M:75;and
+18 (c) ThetoxicsubstancereductionrequirementsofRSA149-M:76.
+19 V. A producer is exempt from the requirements and prohibitions of this subdivision in a
+20 calendaryearinwhich:
+21 (a) The producer realized less than $1,000,000 in total gross revenue during the prior
+22 calendaryear;or
+23 (b) The producer sold, offered for sale, or distributed for sale products contained,
+24 protected, delivered, presented, or distributed in or using less than one ton of packaging material in
+25 totalduringthepriorcalendaryear.
+26 VI. A producer claiming an exemption pursuant to paragraph V shall provide the
+27 department with sufficient information to demonstrate that the claimant is eligible for an
+28 exemption.
+29 149-M:68 SelectionofthePackagingReductionOrganization.
+30 I. Within one year after the adoption of rules pursuant to RSA 149-M:78, the department
+31 shallselectandenterintoacontractwithanon-profitorganizationtoactasthepackagingreduction
+32 organization(PRO)inordertooperatethepackagingreductionandrecyclingprogramforaperiodof
+33 10years.
+34 II. Consistent with applicable competitive bidding requirements under state purchasing
+35 laws and following the initial adoption of rules by department under RSA 149-M:78, the department
+36 shall issue a request for a proposal for the operation of the packaging reduction and recycling
+
+HB1789-FN-ASINTRODUCED
+-Page6-
+1 program. The proposals shall cover the 10-year operation of the program by the successful bidder
+2 andshallinclude,ataminimum,thefollowinginformation:
+3 (a) A description of how the bidder will administer the packaging reduction and
+4 recycling program, including the mechanisms and processes for providing assistance to producers to
+5 complywiththereportingrequirementsofthissubdivision;
+6 (b) The mechanisms and processes the bidder will use to compile information from
+7 participatingproducers;
+8 (c) How the bidder intends to establish and manage the packaging reduction fund,
+9 including, but not limited to, public participation, the staffing the bidder intends to use for
+10 management of the fund, and the plan for providing technical support to interested persons
+11 regardinguseofthefunds;
+12 (d) A financial assurance plan that ensures all funds held in the packaging reduction
+13 fund are immediately and exclusively forfeited and transferred to or otherwise made immediately
+14 available to the department if the packaging reduction organization contract with the department is
+15 terminatedbythedepartment,orexpires;
+16 (e) A proposed budget outlining the anticipated costs of operating the producer
+17 responsibility program, including identification of any start-up costs that will not be ongoing and a
+18 description of the method by which the bidder intends to determine and collect producer payments
+19 duringtheinitialstartupperiod;
+20 (f) A certification that the bidder will not share, except with the department,
+21 information provided to the bidder by a producer that is proprietary information and that is
+22 identifiedbytheproducer asproprietaryinformation. Thecertificationshall includeadescriptionof
+23 themethodsbywhichthebidderintendstoensuretheconfidentialityofsuchinformation;and
+24 (g) Anyotheradditionalinformationrequiredbythedepartment.
+25 149-M:69 ResponsibilitiesofthePackagingReductionOrganization.
+26 I. Thepackagingreductionorganizationshall:
+27 (a) Registerallproducers;
+28 (b) Collectandcompiledatafromproducers;
+29 (c) Collectfeesduefromproducers;
+30 (d) Reimburse the department and the state comptroller for the costs associated with
+31 conductingneedsassessments;
+32 (e) Distribute funds to reimburse local governments and private companies for the costs
+33 associated with the implementation of reduction and refill and reuse programs, collection,
+34 transportation,andrecyclingofpackagingmaterialsasrequiredbyRSA149-M:73;
+35 (f) Make recommendations to the department regarding investments toward packaging
+36 reduction,reuse,andrecyclingasrequiredbyRSA149-M:73;and
+
+HB1789-FN-ASINTRODUCED
+-Page7-
+1 (g) Offer technical support to participating producers, with an emphasis on support to
+2 small businesses, to assist them with compliance with the requirements of this subdivision,
+3 including information about procuring affordable alternatives to non-compliant packaging and
+4 reducingpackaging.
+5 II. Annually, the packaging reduction organization shall submit a report to the department
+6 that,ataminimum,shallincludethefollowinginformation:
+7 (a) Contactinformationforthepackagingreductionorganization;
+8 (b) A list of all participating producers, brand(s), and products identified by the
+9 Universal Product Code that the producer sells, offers for sale, or distributes into the state that are
+10 contained,protected,delivered,presented,ordistributedinorusingpackaging;
+11 (c) The total amount, by both weight and number of units of each type of packaging
+12 material used to contain, protect, handle, deliver, transport, distribute, or present products sold,
+13 offered for sale, or distributed into the state by each individual producer during the prior calendar
+14 year;
+15 (d) The total amount, by both weight and number of units, of each type of packaging
+16 material used to contain, protect, handle, deliver, transport, distribute, or present products sold,
+17 offeredforsale,ordistributedintothestatebyallproducersduringthepriorcalendaryear;
+18 (e) A complete accounting of all payments made to and by the packaging reduction
+19 organizationduringthepriorcalendaryear;
+20 (f) A list of producers believed to be out of compliance with the requirements of this
+21 subdivision, and the reason the packaging reduction organization believes the producer to be out of
+22 compliance. Information on non-compliant companies shall be provided to the attorney general in a
+23 timelyfashionandforpossibleenforcementactionbythatoffice;
+24 (g) A description of the educational and outreach efforts made by the packaging
+25 reduction organization in the prior calendar year, and how those efforts were designed to reduce
+26 packagingwaste,andincreasereuseandrecyclingofpackagingmaterials;
+27 (h) An assessment of whether the fee structure adopted by the department pursuant to
+28 RSA 149-M:72 has been effective in incentivizing improvements to the design of packaging material,
+29 including actual reduction of packaging, increases in reusable and refillable packaging, recycling
+30 ratesforpackagingmaterials,anddecreasesintheamountofpackaging;
+31 (i) A description of the reimbursements and expenditures made pursuant to RSA 149-
+32 M:73;and
+33 (j) Anyadditionalinformationrequiredbythedepartment.
+34 III. The packaging reduction organization shall conduct an annual review process to
+35 determinewhetherproducts andpackagingmaterials arerecyclable. Thisreview shallbeconducted
+36 in consultation with representatives of end markets, including recycled commodities brokers and
+37 manufacturers who purchase post-consumer material for use in manufacturing new products. For
+
+HB1789-FN-ASINTRODUCED
+-Page8-
+1 the purposes of calculating producer payments and municipal reimbursements, this annual process
+2 shall include a transitional period between the date the determination is finalized and the date it
+3 goesintoeffect.
+4 IV. The packaging reduction organization shall conduct public outreach and provide
+5 consumers with educational and informational materials related to reducing the amount of
+6 packagingdiscarded,recycled,anddisposedofinthestate.
+7 (a) Theoutreachandeducationshall,ataminimum,include:
+8 (1) A description of the environmental, social, economic, and environmental justice
+9 impactsassociatedwithimproperdisposalofpackagingmaterials;
+10 (2) At least 3 public hearings in geographically diverse parts of the state each year,
+11 to solicit public input on the implementation and effectiveness of the law and suggested
+12 improvements;
+13 (3) Information regarding the management of discarded packaging including reuse,
+14 recycling,composting,anddisposalbylandfillingandincineration;
+15 (4) The location and availability of curbside and drop-off collection opportunities for
+16 packagingwaste,includingdepositandtake-backprograms;
+17 (5) A description of the environmental, social, economic, and environmental justice
+18 impactsassociatedwithfailuretoreuseorrecyclepackagingmaterials;
+19 (6) Information regarding municipal reimbursement for the costs associated with
+20 packagingreuse,recycling,anddisposal;and
+21 (7) Anyotherinformationrequiredbythedepartment.
+22 (b) The public outreach and education conducted by the packaging reduction
+23 organizationshall:
+24 (1) Utilize all available forms of media, including, but not limited to, television,
+25 radio, print, electronic, and web-based media to provide information directly to residents in the
+26 state,inmultiplelanguages;
+27 (2) Be coordinated with the various local governments in the state to incorporate
+28 electronic, print, web-based and social media elements that individual local governments may elect
+29 touse,attheirdiscretion,toprovideeducationdirectlytotheirresidents;
+30 (3) Be provided to producers for inclusion on their packaging’s label to inform
+31 consumersaboutthemethodstoresponsiblyreuse,recycle,ordisposeofthepackaging;and
+32 (4) Be coordinated with other similar public outreach and education programs in the
+33 state as necessary to avoid consumer confusion and facilitate the consolidation of available
+34 resources.
+35 V. In addition to engaging in the public education and outreach required by paragraph III,
+36 the packaging reduction organization may provide producers and retailers with educational
+37 materials related to the responsible reduction, reuse, recycling, or disposal of discarded packaging.
+
+HB1789-FN-ASINTRODUCED
+-Page9-
+1 The educational and informational materials provided to the retailer under this paragraph may
+2 include, but need not be limited to, printed materials, signage, templates of materials that can be
+3 reproduced by retailers and provided thereby to consumers at the time of a product’s purchase, and
+4 advertisingmaterialsthatpromoteandencourageconsumerstoproperlyreuse,recycle,ordisposeof
+5 packagingmaterials.
+6 VI. Thepackagingreductionorganizationshallnotspendfundsonlobbyingfederal,state,or
+7 localgovernmentsorcampaigncontributionstoanycandidatesrunningforoffice.
+8 VII. At the time that the stewardship organization submits its annual report to the
+9 department of environmental services pursuant to paragraph II, the stewardship organization shall
+10 pay to the department a reasonable annual fee established by the department, not to exceed
+11 $300,000, to cover the department's costs for review of the stewardship organization's annual report
+12 and the department's costs in the prior fiscal year for its oversight, administration and enforcement
+13 of the packaging stewardship program. The annual fee required under this paragraph may include
+14 reimbursement of any costs incurred by the department in adopting rules and in administering and
+15 enforcing this section prior to the effective date of the contract entered into by the department and
+16 thestewardshiporganization.
+17 149-M:70 ResponsibilitiesoftheDepartmentofEnvironmentalServices.
+18 I. Beginning one year after the selection of the packaging reduction organization under RSA
+19 149-M:68, and annually thereafter, the department shall work with the packaging reduction
+20 organizationinreceivingreportsthat:
+21 (a) Calculate the amount of packaging that was generated during the prior calendar
+22 year;
+23 (b) Calculatetherecyclingrateforallpackagingduringthepriorcalendaryear;
+24 (c) Calculatetherecyclingrateforeachpackagingmaterialtypeduringtheprior
+25 calendaryear;and
+26 (d) Develop a list of producers believed to be out of compliance with the requirements of
+27 thissubdivision.
+28 II. In the event that the department determines that the packaging reduction organization
+29 no longer meets the requirements of this subdivision, or fails to implement and administer the
+30 requirements of this subdivision, the department shall revoke its approval of the packaging
+31 reduction organization, and shall select a new packaging reduction organization to replace it, or, in
+32 thealternative,mayelecttooperatetheprogramitself.
+33 III. The department or the attorney general shall take enforcement action against all non-
+34 compliantproducersinaccordancewithRSA149-M:79.
+35 149-M:71 StatewidePackagingReduction,Reuse,andRecyclingNeedsAssessment.
+36 I. Consistent with applicable competitive bidding requirements, within one year after
+37 adopting rules under RSA 541-A and every 5 years thereafter, the department shall issue a request
+
+HB1789-FN-ASINTRODUCED
+-Page10-
+1 for proposals to conduct a statewide packaging reduction, reuse, and recycling needs assessment,
+2 hereinafter “needs assessment,” to identify barriers and opportunities for reducing, reusing, and
+3 recycling packaging materials. The proposals shall include, at a minimum, a description of how the
+4 bidderwillconducttheneedsassessmenttoevaluatethefollowing:
+5 (a) Thecurrentrecyclingrateforeachtypeofpackagingmaterial;
+6 (b) The amount, by weight and material type, of packaging recycled at each recycling
+7 facilitythatacceptsdiscardedpackaginggeneratedinthestate;
+8 (c) The processing capacity, market conditions, and opportunities in the state and
+9 regionallyforrecyclablematerials;
+10 (d) The net cost of end-of-lifemanagement of discarded packaginginthestate, including
+11 the cost associated with the collection, transportation, sortation, recycling, landfilling, or
+12 incinerationofdiscardedpackaging;
+13 (e) The neutrality of opportunities in the recycling and reuse system for both new and
+14 underrepresentedeconomicandsociologicalgroups;
+15 (f) Currentbarriersaffectingrecyclingaccessandavailabilityinthestate;
+16 (g) Currentbarrierstothemarketabilityofrecyclablematerialsgeneratedinthestate;
+17 (h) Opportunitiesforthecreationofpackagingreuseandrefillprogramsinthestate;
+18 (i) Opportunities for the improvement of packaging recycling in the state, including the
+19 developmentofendmarketsforrecycledpackagingmaterials;
+20 (j) Current barriers affecting the creation and implementation of packaging reuse and
+21 refillprograms;and
+22 (k) Consumer education needs in the state with respect to packaging waste reduction,
+23 recycling,reducingcontaminationinrecycling,andreuseandrefillsystemsforpackaging.
+24 II. After reviewing proposals, the department shall select an applicant to perform the needs
+25 assessment. If, at the close of the competitive bidding process, the department determines that no
+26 applicant can successfully perform the needs assessment, the department shall perform the needs
+27 assessmentitself,ordesignateanotherstateagencytocompletetheassessment.
+28 III. The cost incurred by the department or its designee associated with conducting the
+29 needs assessment shall be paid for by funds from the packaging reduction and recycling fund
+30 establishedinRSA149-M:76.
+31 IV. The department shall report the results of the study to the public, the media, house of
+32 representatives,thesenate,thegovernor,thestatecomptroller,andtheattorneygeneral.
+33 149-M:72 AssessmentofFees.
+34 I. The department shall adopt rules under RSA 541-A setting forth the manner in which
+35 producerpaymentsonpackagingmaterialsshallbecalculatedandassessed.
+
+HB1789-FN-ASINTRODUCED
+-Page11-
+1 II. The payments shall be calculated based on the total amount, by weight, of each type of
+2 packaging material used to contain, protect, deliver, present, or distribute a product sold, offered for
+3 sale,ordistributedintothestatebytheproducerinthepriorcalendaryear.
+4 III. The list of packaging material types for which there is a specific fee shall include, at a
+5 minimum,thefollowingmaterialtypes:
+6 (a) Polyethyleneterephthalate(PETorPETE);
+7 (b) Highdensitypolyethylene(HDPE);
+8 (c) PolyvinylChloride(PVC);
+9 (d) Lowdensitypolyethylene(LDPE);
+10 (e) Polypropylene(PP);
+11 (f) Polystyrene(PS)includingexpandedpolystyrene;
+12 (g) Otherplasticresintypesnotspecificallyidentifiedhere;
+13 (h) Bio-plastics;
+14 (i) Paper;
+15 (j) Cardboard;
+16 (k) Wood;
+17 (l) Glass;
+18 (m) Bi-metal,steelandotherferrousmetals;
+19 (n) Aluminumandothernon-ferrousmetals;
+20 (o) Mixed materials including laminates and packaging containing more than one of the
+21 abovematerials;and
+22 (p) Anyothermaterialusedforconsumerpackaging.
+23 IV. Thefeesshallbedesignedtocover,ataminimum,thetotalcostassociatedwith:
+24 (a) The collection transportation, and management of each type of packaging material
+25 used to contain, protect, deliver, present, or distribute products sold, offered for sale, or distributed
+26 intothestatebyallproducers;
+27 (b) Thedepartment’sandotherstateagenciesadministrationofthissubdivision;
+28 (c) The packaging reduction organization’s administration of the packaging reduction
+29 andrecyclingprogram;
+30 (d) The cost associated with the development of the statewide packaging reduction,
+31 reuse,andrecyclingneedsassessmentpursuanttoRSA149-M:71;and
+32 (e) Anyotherfactorsdeterminedbythedepartment.
+33 V. The fees adopted under this section shall delineate criteria to be used to initially
+34 establishandsubsequentlyadjustproducerpaymentsinamannerthatincentivizes:
+35 (a) A reduction in the total packaging as measured by weight used by producers, and
+36 discarded by consumers, businesses, institutions, and other users. Weight reductions shall not be
+37 achievedbysubstitutingplasticforothermaterialstypes.
+
+HB1789-FN-ASINTRODUCED
+-Page12-
+1 (b) An increase in the proportion of a producer’s total packaging that is managed within
+2 areuseandrefillsystem;
+3 (c) An increase in the proportion of a producer’s total packaging that is deemed
+4 recyclableasdeterminedbyanannualreviewprocessasdescribedinRSA149-M:69,III.
+5 (d) An increase in the proportion of a producer’s total packaging that is ultimately
+6 recycled;
+7 (e) Areductionoreliminationintoxiccomponentsinpackagingmaterials;and
+8 (f) Areductioninlitterfrompackagingmaterials.
+9 VI. There shall be no fee assessed on packaging that is designed for reuse and refill and
+10 containedwithinareuseorrefillsystem.
+11 VII. Thedepartmentshallupdateandrevisethefeesevery3years.
+12 149-M:73 PackagingReductionFund.
+13 I. Thereis herebyestablished, aseparate, non-lapsing,interest-bearingfundtobeknownas
+14 thepackagingreductionfund,whichshall bemanaged bythepackagingreductionorganizationwith
+15 oversight from the department of environmental services. The packaging reduction organization
+16 shall deposit into the fund all payments received from producers in accordance with RSA 149-M:72
+17 andallpenaltiescollectedpursuanttoRSA149-M:78.
+18 II. Beginning one year after the first payment of fees by producers pursuant to RSA 149-
+19 M:72andannuallythereafter,thepackagingreductionorganizationshall:
+20 (a) Retain the portion of the fees deposited into the packaging reduction fund that are
+21 necessary to cover the costs associated with its administration of the packaging reduction and
+22 recyclingprogram.
+23 (b) Disbursetothedepartmentofenvironmentalservices,theattorneygeneral,thestate
+24 comptroller, and all other relevant state entities, funds necessary to reimburse them for the costs
+25 associated with administering and enforcing this subdivision. This reimbursement shall include
+26 costs associated with performing, revising, and updating the statewide packaging reduction, reuse,
+27 and recycling needs assessment required by RSA 149-M:71. Such reimbursement shall also cover
+28 any costs incurred by the department in adopting rules, revising rules, and administering and
+29 enforcingtherequirementsofthissubdivision.
+30 (c) Disburse funds to local governments as necessary to reimburse them for their costs
+31 incurred for the management, reduction, and recycling of packaging waste, so long as the local
+32 governments provide recycling services to all residents, businesses, schools, and institutions in their
+33 jurisdictions. Local governments that contract with private haulers and recyclers to handle the
+34 management, reduction, and recycling of packaging waste are eligible for reimbursement, so long as
+35 the private haulers or recyclers provide recycling services to all residents, businesses, schools, and
+36 institutions within the local governments’ jurisdictions. Nothing in this paragraph shall be
+37 interpretedasallowingforthereimbursementofcostsassociatedwiththedisposalofpackaging.
+
+HB1789-FN-ASINTRODUCED
+-Page13-
+1 (d) Allocate no less than 25 percent of the total funds collected per RSA 149-M:72 to
+2 projects and programs that will help achieve the packaging reduction requirements of RSA 149-
+3 M:74,andthepackagingrecyclingrequirementsofRSA149-M:75.
+4 III.(a) Funds may be used for investment in collection systems, transportation systems,
+5 reuse systems, washing systems, redistribution systems, technology for tracking and data collection,
+6 capital expenditures on new and emerging technology focused on reusable and refillable packaging,
+7 as well as equipment, and facilities, and other projects determined by the department to facilitate
+8 thegoalsandobjectivesofthissubdivision.
+9 (b) Fundsmayalsobeusedforinvestmentinpublicoutreachandeducationinwaysthat
+10 increase access and participation in packaging reduction, reuse, refill, and recycling systems
+11 throughoutthestate.
+12 (c) The packaging reduction organization shall prioritize investments for projects and
+13 programs that will directly benefit environmental justice communities, including, but not limited to,
+14 communitiesthatarehometoalandfill,incinerator,transferstation,orwaste-to-energyfacility.
+15 IV. Any investments made pursuant to RSA 149-M:73, III(c)(1-3) shall be approved by the
+16 department. The department shall approve or deny proposed investments within 90 days of receipt
+17 of a proposal from the packaging reduction organization. The investments may be approved, at the
+18 discretionofthedepartment,solongastheproposedinvestmentwill,ataminimum:
+19 (a) Increase the transition of packaging from non-reusable to reduced, reusable or
+20 refillablepackaging.
+21 (b) Increaseaccesstoreuseandrefillinfrastructureinthestate.
+22 (c) Increasethecapacityofreuseandrefillinfrastructureinthestate.
+23 (d) Provide reuse and refill instructions that are, to the extent practicable, consistent
+24 statewide, easy to understand, translated into various commonly-used languages, and easily
+25 accessible.
+26 (e) Provide for outreach and education that are coordinated across programs or regions
+27 toavoidconfusionforresidents,anddevelopedinconsultationwithlocalgovernmentandthepublic.
+28 149-M:74 PackagingReductionRequirements.
+29 I. Eachindividualproducershallmeetthefollowingrequirements:
+30 (a) Beginning 2 years after a producer first registers with the packaging reduction
+31 organization, a producer shall reduce the amount of packaging used to contain, protect, deliver,
+32 present, or distribute the products they sell, offer for sale, or distribute for sale into the state, by
+33 suchgoalsasestablishedbythedepartment. Suchgoalshallnotbelessthan5percentbyweight.
+34 (b) Beginning 5 years after a producer first registers with the packaging reduction
+35 organization, a producer shall reduce the amount of packaging used to contain, protect, deliver,
+36 present, or distribute the products they sell, offer for sale, or distribute for sale into the state, such
+37 goalsasestablishedbythedepartment. Suchgoalshallnotbelessthan20percentbyweight.
+
+HB1789-FN-ASINTRODUCED
+-Page14-
+1 (c) Beginning 10 years after a producer first registers with the packaging reduction
+2 organization, a producer shall reduce the amount of packaging used to contain, protect, deliver,
+3 present, or distribute the products they sell, offer for sale, or distribute for sale into the state, by
+4 suchgoalsasestablishedbythedepartment. Suchgoalshallnotbelessthan50percentbyweight.
+5 II. The reductions required by this section shall be measured against the total amount of
+6 packaging the producer used to contain, protect, deliver, present, or distribute the products they
+7 sold, offered for sale, or distributed for sale, during the first year the producer registered with the
+8 packagingreductionorganization.
+9 III. The reductions required by this section may be achieved by using the following
+10 strategies:
+11 (a) Eliminationofpackagingcomponents;
+12 (b) Reductionofpackagingcomponents;
+13 (c) Usingreuseandrefillsystems;and
+14 (d) Packagingrightsizing,lightweighting,andoptimization.
+15 IV. The reductions required by this section shall not be achieved by substituting plastic for
+16 othermaterials.
+17 V. In the case of a producer that enters the market with 50 percent or more by weight of its
+18 packagingbeingreusableandcontainedwithinareuseandrefillsystem,thatproducermayapplyto
+19 thedepartmentforawaiverfromthepackagingreductionrequirements.
+20 149-M:75 PackagingRecyclingRequirements.
+21 I. A producer shall ensure that the packaging used to contain, protect, deliver, present, or
+22 distributetheproductstheysell,offerforsale,ordistributeintothestate,ismadeofamaterial that
+23 meetsthefollowingrecyclingrates:
+24 (a) Notlessthan30percentwithin5yearsaftertheenactmentofthissubdivision;
+25 (b) Notlessthan50percentwithin8yearsaftertheenactmentofthissubdivision;and
+26 (c) Notlessthan70percentwithin12yearsaftertheenactmentofthissubdivision.
+27 III. The requirements of paragraph II shall not apply to reusable or refillable packaging or
+28 containers.
+29 149-M:76 ProhibitiononCertainToxicSubstancesandMaterial.
+30 I. Beginning 2 years after the adoption of rules pursuant to RSA 149-M:77, no person or
+31 entity may sell, offer for sale, or distribute into the state any packaging containing the following
+32 toxicsubstance:
+33 (a) Ortho-phthalates;
+34 (b) Bisphenols;
+35 (c) Per-andpolyfluoroalkylsubstances(PFAS);
+36 (d) Leadandleadcompounds;
+37 (e) Hexavalentchromiumandcompounds;
+
+HB1789-FN-ASINTRODUCED
+-Page15-
+1 (f) Cadmiumandcadmiumcompounds;
+2 (g) Mercuryandmercurycompoundsasnotcoveredbyexistingstatute;
+3 (h) Benzophenoneanditsderivatives;
+4 (i) Halogenatedflameretardants;
+5 (j) Perchlorate;
+6 (k) Formaldehyde;
+7 (l) Toluene;
+8 (m) Antimonyandcompounds;and
+9 (n) UV328(2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol).
+10 II. Beginning 2 years after the adoption of rules pursuant to RSA 149-M:77, no person or
+11 entityshallsell,offerforsale,ordistributeforuseinthisstateanypackagingcontaining:
+12 (a) Polyvinylchloride;
+13 (b) Polystyrene;or
+14 (c) Polycarbonate.
+15 III. Beginning 3 years after the adoption of rules pursuant to RSA 149-M:78, and every 3
+16 yearsthereafter,thedepartmentshalldesignateatleast10additionaltoxicsubstancesorfamiliesof
+17 toxic substances that shall no longer be sold, offered for sale, distributed for sale, or distributed for
+18 use in packaging in this state unless it determines there are not 10 chemicals that meet the
+19 definition of toxic substances. If the department determines there are not 10 toxic substances that
+20 meet such a definition, it shall publish a detailed statement of its findings and conclusions
+21 supportingsuchdetermination.
+22 IV. Within 180 days of designating a toxic substance, the department shall adopt rules
+23 under RSA 541-A to prohibit the newly designated toxic substance in packaging, with an effective
+24 datenolaterthan2yearsaftersuchdesignation.
+25 V. Any producer that violates this section shall be subject to a fine for each violation not to
+26 exceed $50,000 per violation. For the purposes of this section, each product line that is sold, offered
+27 forsale,ordistributedtoconsumers,viaretailcommerce,inthestate,includingthroughanInternet
+28 transactionviolationshallbeconsideredaviolation.
+29 149-M:77 Rulemaking.
+30 I. Within one year after the effective date of this subdivision the department shall adopt
+31 rules under RSA 541-A to implement, administer, and enforce this subdivision. Such rules shall
+32 include:
+33 (a) A process for contracting with the packaging reduction organization pursuant to the
+34 requirementsofRSA149-M:68;
+35 (b) A process for annually determining a schedule of producer fees and payment
+36 collectionspursuanttotherequirementsofRSA149-M:71;
+
+HB1789-FN-ASINTRODUCED
+-Page16-
+1 (c) A process for collecting all necessary information to ensure producer compliance with
+2 therequirementsofthissubdivision;
+3 (d) A process for evaluating whether a producer is in compliance with the packaging
+4 reductionrequirementsofRSA149-M:74;
+5 (e) A process for evaluating whether a producer is in compliance with the packaging
+6 recyclingrequirementsofRSA149-M:75;
+7 (f) Aprocessforevaluatingwhetheraproducerisincompliancewiththetoxicpackaging
+8 reductionrequirementsofRSA149-M:76;
+9 (g) A process for determining on an annual basis the types of packaging material that
+10 arerecyclable;
+11 (h) A process for the assessment of the packaging reduction organization and the
+12 packagingreductionandrecyclingprogram;
+13 (i) Requirements for the packaging reduction organization to conduct a representative
+14 audit of recyclable material processed and sold by facilities that process recyclable material
+15 generatedinthestateandofmunicipalsolidwastedisposedofinthestate;
+16 (j) A process for establishing and enforcing penalties for all violations of the
+17 requirementsofthissubdivision;
+18 (k) A process for determining new toxic substances in packaging pursuant to RSA 149-
+19 M:76;
+20 (l) A process for how the department will oversee and monitor the packaging reduction
+21 organization’s management of the packaging reduction fund, including a process for submitting and
+22 reviewing proposals from the packaging reduction organization regarding investments in projects
+23 andprogramsthatwillhelpachievethepackagingreductionrequirementsofRSA149-M:74,andthe
+24 packagingrecyclingrequirementsofRSA149-M:75;and
+25 (m) A process for determining whether information is proprietary information and
+26 thereforemustbehandledasconfidentialinformation.
+27 149-M:78 PenaltiesandEnforcement.
+28 I. Failure to comply with the requirements of this subdivision shall subject the packaging
+29 reduction organization or an individual producer to penalties for violations. The department and
+30 attorney general may conduct investigations, including inspecting operations, facilities, and records
+31 of producers and the packaging reduction organization, and by performing audits of producers and
+32 the packaging reduction organization, to determine whether entities are complying with the
+33 requirementsofthissubdivision.
+34 II. The department and the attorney general, shall notify the packaging reduction
+35 organizationand producers of any conduct or practicethat does not comply with the requirements of
+36 thissubdivisionandofanyinconsistenciesidentifiedinanaudit.
+
+HB1789-FN-ASINTRODUCED
+-Page17-
+1 III. The department and the attorney general, may issue a notice of violation to, and impose
+2 an administrative civil penalty not to exceed $100,000 per day per violation on any entity not in
+3 compliance with this chapter or any of rules adopted under RSA 541-A by the department for the
+4 administration of this subdivision. For the purposes of this section, each product line that is sold,
+5 offered for sale, or distributed to consumers, via retail commerce, in the state, including through an
+6 Internettransactionviolationshallbeconsideredaviolation.
+7 IV. Any funds collected under this section shall be deposited into the packaging reduction
+8 fundestablishedinRSA149-M:73.
+9 2 New Subparagraph; Application of Receipts; Dedicated Fund. Amend RSA 6:12, I(b) by
+10 insertingaftersubparagraph(410)thefollowingnewsubparagraph:
+11 (411) Moneys deposited in the packaging reduction fund established in RSA 149-
+12 M:73.
+13 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2562
+Revised2/10/26
+HB1789-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoextendedproducerresponsibility.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable
+Increase
+Indeterminable $300,000+
+Revenue $0 $0
+(GeneralFund) (PRFund)
+Indeterminable
+(GeneralFund)
+RevenueFund(s) GeneralFundandPackagingReductionFund
+Indeterminable
+Increase
+(SWMF)
+$790,000to
+$350,000 Indeterminable
+$1,290,000
+(SWMF) Increase
+(SWMF)
+$600,000to
+Expenditures* $0 $1,500,000
+(PRFund)
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+$100,000to $100,000to $100,000to
+$500,000 $500,000 $500,000
+(GeneralFund) (GeneralFund) (GeneralFund)
+SolidWasteManagementFund(SWMF),PackagingReduction(PR)Fund,
+FundingSource(s)
+andGeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+Indeterminable
+Increase
+LocalRevenue $0 $0 $0
+$500,000to
+$1,000,000
+
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill creates an extended producer responsibility program for consumer packaging. It
+requiresproducerstoregisterwithaPackagingReductionOrganization,payproducerfees,meet
+packaging reduction and recycling goals, and comply with standards adopted by the Department
+of Environmental Services (DES). The Packaging Reduction Organization, a non-profit which
+shall be contracted by DES, would collect fees and deposit into the Packaging Reduction Fund
+(RSA 149-M:73) and reimburse municipalities and state agencies for eligible recycling and
+program costs. DES would oversee rulemaking, enforcement, toxic substance restrictions,
+reporting, municipal reimbursements, and long-term program evaluation. DES expenditures for
+this new program would be supported with the new Packaging Reduction Fund. The
+Department of Justice would share enforcement responsibilities with DES and new civil
+penalties would be deposited into the General Fund. Additionally, this bill would require the
+StateComptrollertoconductanannualauditofthePackagingReductionandRecyclingprogram
+andtomaketheauditpubliclyavailable.
+The Department of Environmental Services states this bill creates substantial new
+administrative, regulatory, oversight, and enforcement responsibilities that cannot be absorbed
+within its existing budget. Producer registration fees, producer payments, and other revenues
+necessary to operate the program will be deposited into the Packaging Reduction Fund.
+Expenditures from this fund will support DES program administration, municipal
+reimbursements, compliance activities, and long-term evaluation of the packaging system.
+While most revenues to the fund are indeterminable because the number of producers subject to
+the program and the value of producer payments cannot be estimated, DES anticipates that the
+Packaging Reduction Fund will receive approximately $300,000 in FY 2029 once the program
+becomesoperational.
+To implement the requirements of the bill, DES anticipates the need for three new full-time
+positions beginning September 1, 2026 so that rulemaking, system development, and compliance
+planning may begin prior to the program start. The cost of these positions is estimated to be
+$290,000 in FY 2027, $350,000 in FY 2028, and $366,000 in FY 2029, with the FY 2029 amount
+partially offset by $300,000 in expected program revenue. Beginning in FY 2030, DES
+anticipates that all costs associated with the three positions will be fully supported by the
+PackagingReductionFund.
+DESPositionsRequested FY2027 FY2028 FY2029
+
+NaturalScientistManager(11-9120 $107,000 $130,000 $136,000
+NATRLSCIENCESMGRS-3SOC11-07)
+EnvironmentalScientist(19-2040ENV $89,000 $107,000 $111,000
+SCIENTISTS-5SOC19-08)
+MedicalScientist(19-1040MEDICAL $94,000 $113,000 $119,000
+SCIENTISTS-4SOC19-09)
+TotalSalary,BenefitsandOperational $290,000 $350,000 $366,000
+Costs
+In addition to personnel needs, this bill requires DES to complete a statewide needs assessment
+every five years. The first assessment is expected to occur in FY 2027 at an estimated cost
+between$500,000and$1,000,000. Becauseproducerrevenueswillnotbeavailableuntillaterin
+the program cycle, the needs assessment and initial personnel costs will require support from
+theSolidWasteManagementFundinFY2027andFY2028.
+DES notes that municipalities would begin receiving reimbursements from the Packaging
+Reduction Fund in FY 2029 for eligible recycling and packaging reduction costs. The value of
+these reimbursements is indeterminable, but DES estimates they may total between $500,000
+and$1,000,000inFY2029
+The Department of Justice (DOJ) states the bill establishes a complex regulatory and
+enforcement framework that will require substantial legal support. DOJ anticipates increased
+demands for rulemaking assistance, client counseling, enforcement actions, investigations,
+audits, and litigation. DOJ indicates it would likely require additional personnel, including an
+attorney, paralegal, and investigator, but did not provide a breakout of the individual position
+costsneededtoimplementthebill.
+ThisbilldoesnotfundorauthorizepositionsrequestedbyDESorDOJ.
+The Department of Administrative Services states this bill would require the State Comptroller,
+within the Division of Accounting Services, to conduct an annual audit of the Packaging
+Reduction and Recycling program, including financial and programmatic records, and to make
+theauditpubliclyavailable. TheDepartmentstatestheDivisionofAccountingServicesdoesnot
+currently perform this type of audit and that existing authority under RSA 21-I:8 is limited to
+business process audits related to accounts payable disbursements. The Department indicates
+implementation would likely require contracting with an outside audit firm and the addition of
+one full-time position within the Comptroller’s office to coordinate and oversee the audit process.
+The Department estimates the fiscal impact is indeterminable but could range from $330,000 to
+$360,000 annually, inclusive of external audit services and staffing, with the cost of the external
+audit based on a prior state contract for similar audit and consulting services. The additional
+
+positionis estimated to cost between$80,000and $110,000annuallydependingon classification.
+The Department assumes these costs would be fully reimbursed from the Packaging Reduction
+Fund established in RSA 149-M:73; however, the bill does not explicitly authorize the requested
+position or specify appropriation or transfer authority for these costs. It is assumed the audit
+wouldnotbeginuntilFY2029whenthePackagingReductionFundbeginstoreceiverevenue.
+AGENCIESCONTACTED:
+Department of Environmental Services, Department of Justice, and Department of
+AdministrativeServices

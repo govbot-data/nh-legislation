@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1278 -ASINTRODUCED
+2026SESSION
+26-2851
+07/06
+1278
+HOUSEBILL
+ANACT allowing municipalities, cities, and towns a grace period to adopt a simple-
+majoritytaxcapoverrideprocedureinperpetuity.
+SPONSORS: Rep.Turer,Rock.6;Rep.Gruber,Ches.16
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows municipalities, cities, and towns a grace period to adopt a simple-majority tax
+capoverrideprocedureinperpetuity.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1278-ASINTRODUCED
+26-2851
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowing municipalities, cities, and towns a grace period to adopt a simple-
+majoritytaxcapoverrideprocedureinperpetuity.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Municipal Budget Law; Method to Override Local Tax Cap. Amend 2025, 170:2 to read as
+2 follows:
+3 170:2 Applicability. RSA 32:5-b, as amended by section 1 of this act, shall apply to the local tax
+4 caps adopted prior to the effective date of this act and shall not require local amendment or re-
+5 adoption by the town or district; however, a municipality that adopted the provisions of RSA
+6 32:5-bprior toSeptember 13,2025may vote tore-adopttheprovisionsof RSA32:5-b,III that
+7 existed before September 13, 2025. The vote shall be taken in accordance with the
+8 provisions of RSA 39:3, RSA 31:131, and the usual procedures applicable to annual
+9 meetings and deliberative sessions of the legislative body. Such vote shall be required to
+10 takeplacepriortoJuly1,2028.
+11 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.

@@ -1,0 +1,285 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1810-FN-ASINTRODUCED
+2026SESSION
+26-3127
+08/06
+1810-FN
+HOUSEBILL
+ANACT relativetoaroadsaltfeetosupportcertifiedwinterroadmaintenancepractices.
+SPONSORS: Rep.Darby,Hills.11
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill imposes a fee on all bulk road salt, road salt mix, and brine sold in New Hampshire,
+which shall be collected and remitted annually by a certified road salt bulk seller and deposited into
+theroadsaltmitigationfund.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1810-FN-ASINTRODUCED
+26-3127
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoaroadsaltfeetosupportcertifiedwinterroadmaintenancepractices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Road Salt Fee and Mitigation Fund. Amend RSA 21-J by inserting after
+2 section49thefollowingnewsubdivision:
+3 RoadSaltFeeandMitigationFund
+4 21-J:50 RoadSaltFee.
+5 I. Inthissubdivision:
+6 (a) "Salt" means sodium chloride, calcium chloride, magnesium chloride, or any other
+7 substancecontainingchloride.
+8 (b) "Road salt" means treated road salt, untreated road salt, and solar salt sold in bulk
+9 intendedforthetreatmentofwinterroads.
+10 (c) "Road salt mix" means a mixture of road salt and salt premixed and sold in bulk for
+11 thetreatmentofwinterroads.
+12 (d) "Brine"meansaliquidsolutionofwaterandchloridecompoundsoldinbulkintended
+13 forthetreatmentofwinterroads.
+14 (e) "Sold in bulk" means that the purchase of road salt or road salt mix by the ton or by
+15 thecubicyard,orbrinesoldbythegallon.
+16 (f) "Equivalent salt ton" means the amount of road salt mix to provide one ton of road
+17 saltgiventheroadsaltmixratio,andtheamountofbrinewithonetonofdilutedroadsalt.
+18 (g) "Road salt bulk seller" means a business that sells bulk road salt, bulk road salt mix
+19 orbulkbrine.
+20 (h) "Department"meansthedepartmentofrevenueadministration.
+21 II. There shall be a fee on all bulk road salt, road salt mix, or brine sold to New Hampshire
+22 businesses, organizations, municipalities and state agencies of $4 per ton, $4 dollars per yard for
+23 road salt, and $4 dollars per equivalent salt ton for road salt mix or brine. The fee shall be paid by
+24 the road salt bulk seller who provides bulk road salt, road salt mix, or brine to New Hampshire
+25 businesses, organizations, municipalities and state agencies. The road salt bulk seller shall provide
+26 a receipt to the purchaser of bulk road salt, road salt mix, or brine indicating the fee paid by the
+27 seller.
+28 III. By April 1 of each year, the road salt bulk seller shall file a return, on a form provided
+29 by the department of revenue administration, to the department and remit payment equivalent to
+30 the rate prescribed in paragraph II for all such bulk road salt, road salt mix, or brine acquired
+31 betweenthelastdayofFebruaryoftheprioryearandfirstdayofMarchofthecurrentyear.
+
+HB1810-FN-ASINTRODUCED
+-Page2-
+1 IV. Each road salt bulk seller shall keep complete and accurate records of all bulk road salt,
+2 road salt mix, and brine sales toNew Hampshirebusinesses, organizations, municipalities and state
+3 agencies. Complete records shall be safely preserved for 3 years to insure permanency and
+4 accessibility for inspection by the commissioner of the department of revenue administration. The
+5 commissionermayexaminethebooks,papers,andrecordsofanyroadsaltbulksellerdoingbusiness
+6 in this state, to determine whether the fee imposed by this chapter has been fully paid. If, after an
+7 audit of thereturns, books, and records of aroad salt bulk seller thedepartment determines there is
+8 a deficiency with respect to the fee due under this chapter, the department shall assess the fee and
+9 all applicable additions to fee pursuant to RSA 21-J due to the state against the person liable, give
+10 noticeoftheassessmenttothepersonliable,andmakedemanduponthatpersonforpayment.
+11 V. A New Hampshire business, organization, municipality and state agency who purchases,
+12 imports, receives, or otherwise acquires bulk road salt, road salt mix, or brine from a seller other
+13 than a road salt bulk seller certified under this section and who does not have documentation to
+14 evidence fee paid under this chapter shall file a return on a form provided by the department to the
+15 department and remit payment equivalent totherateprescribed in paragraphIIbeforethefirst day
+16 ofApril ofeachyearfor allsuchbulkroad salt,road saltmix, orbrine acquiredbetweenthelast day
+17 ofFebruaryoftheprioryearandfirstdayofMarchofthecurrentyear.
+18 VI. A New Hampshire business, organization, municipality and state agency which fails to
+19 pay any amount due in paragraph V shall pay, in addition to the amount of fee due, interest as
+20 prescribedinRSA21-J:28andpenaltiesasprescribedinRSA21-J:33,VIII.
+21 VII. Fee revenue on all bulk road salt, bulk road salt mix, and brine sold in this state
+22 imposed by this section shall be deposited in the road salt mitigation fund established in RSA 489-
+23 D:2.
+24 21-J:51 RoadSaltBulkSeller;CertificationRequired.
+25 I. No road salt bulk seller shall engage in the business of selling or distributing road salt,
+26 road salt mix, or brine in this state, unless it is registered with the secretary of state, and it has
+27 obtained a road salt bulk seller certificate from the department of revenue administration. The
+28 registrationfeeshallbe$200andbevalidfor5years.
+29 II. Any person who sells bulk road salt, road salt mix, or brine without a road salt bulk
+30 sellercertificateshallbesubjecttocriminalpenaltiesasprovidedinRSA21-J:39.VI.
+31 21-J:52 Rulemaking. The department of revenue administration shall adopt rules under RSA
+32 541-Arelativetotheformsrequiredforthecollectionandadministrationofthefeeonbulkroadsalt,
+33 roadsaltmix,orbrineandforanyothermattersnecessarytocarryoutthissubdivision.
+34 2 New Chapter; Road Salt Mitigation Program. Amend RSA by inserting after chapter 489-C
+35 thefollowingnewchapter:
+36 CHAPTER489-D
+37 ROADSALTMITIGATIONPROGRAM
+
+HB1810-FN-ASINTRODUCED
+-Page3-
+1 489-D:1 RoadSaltMitigationProgram.
+2 I. There is established in the department of environmental services the road salt mitigation
+3 program. Theprogramshall:
+4 (a) Inform and educate the public of the impacts of road salt to New Hampshire water
+5 bodies,wells,andpublicwatersupplies.
+6 (b) Provide grants to the state, municipalities, and businesses in good standing with the
+7 commercial applicator certification program under RSA 489-C:2 and municipal winter maintenance
+8 certification program RSA 489-C:2-a to acquire and maintain equipment, facilities, systems, and
+9 practicestocomplywithsaidprograms.Innoinstanceshallthegrantexceedthetotaleligiblecosts.
+10 II. Thedepartmentofenvironmentalservicesshall:
+11 (a) Administer and enforce the road salt mitigation program to assist the state,
+12 municipalities, and businesses with the cost of procuring and maintaining equipment to meet the
+13 requirements of the commercial applicator certification program or municipal winter maintenance
+14 program. For purposes of this subparagraph, administration includes oversight of the grant
+15 expenditurestoensuretheyarenotmisused.
+16 (b) Awardgrantfundstoprojectsthatmeetthefollowingcriteria:
+17 (1) The project is or was necessary to comply with the commercial applicator
+18 certification RSA 489-C:2 or municipal winter maintenance certification program RSA 489-C:2-
+19 aprogram.
+20 (2) The applicant has demonstrated, to the satisfaction of the department, has
+21 received and maintained the appropriate commercial applicator certification or municipal winter
+22 maintenancecertification.
+23 III. Beginning December 1, 2026, the department of environmental services shall annually
+24 prepare and file a report with the general court evaluating the progress towards reducing salt
+25 pollution in New Hampshire water bodies and water supplies, whether it continues to provide the
+26 maximum benefit to New Hampshire citizens, and whether the department recommends any
+27 changestotheroadsaltmitigationprogram.
+28 IV. The department of environmental services shall adopt rules, under RSA 541-A, relative
+29 toadministeringtheroadsaltmitigationprogram.
+30 489-D:2 Road Salt Mitigation Program Fund. There is hereby established in the department of
+31 environmental services the road salt mitigation grant fund which shall be maintained by the state
+32 treasurer in distinct and separate custody from all other funds. The state treasurer may invest the
+33 fund in accordance with RSA 6:8. Any earnings on fund moneys shall be added to the fund. All
+34 moneys in the fund shall be nonlapsing and continually appropriated to the department of
+35 environmental services. The road salt mitigation grant fund shall be used to fund grants and
+36 reimbursements in accordance with this subdivision. Funds from fee revenue on all bulk road salt,
+37 bulk road salt mix, and brine sold in this state imposed by RSA 21-J:50, any bond proceeds, grants,
+
+HB1810-FN-ASINTRODUCED
+-Page4-
+1 legislative appropriations, donations, and other funds shall be credited to this fund. No funds from
+2 thegeneralfundshallbeusedtocoverthecostoftheroadsaltmitigationprogram.
+3 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3127
+Revised12/30/25
+HB1810-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoaroadsaltfeetosupportcertifiedwinterroadmaintenancepractices.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+IndeterminableIncrease
+Revenue $0 $0
+(estimatedat$4millionperFY)
+RevenueFund(s) RoadSaltMitigationFund
+$266,000 $354,000
+$388,000
+(GeneralFund) (GeneralFund)
+(GeneralFund)
+$785,600 $785,600
+$785,600
+(HighwayFund) (HighwayFund)
+Expenditures* $0 (HighwayFund)
+$4,000,000 $4,000,000
+$4,000,000
+(RoadSalt (RoadSalt
+(RoadSalt
+Mitigation Mitigation
+MitigationFund)
+Fund) Fund)
+FundingSource(s) GeneralFundandHighwayFundandRoadSaltMitigationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+IndeterminableIncrease
+CountyExpenditures $0
+(lessthan$10,000perFYpercounty)
+LocalRevenue $0 $0 $0 $0
+IndeterminableIncrease
+Lessthan$10,000perFY(municipalitiesthatapply
+LocalExpenditures $0 lessthan2,500tonsofsalt)
+Lessthan$100,000perFY(municipalitiesthatapply
+between2,501and25,000tonsofsalt)
+METHODOLOGY:
+This bill creates a fee of $4 per ton, yard, or equivalent ton on bulk road salt, road salt mix, and
+brine sold in New Hampshire. The fee is to be paid by bulk sellers and remitted annually to the
+Department of Revenue Administration (DRA). All sellers shall require certification which
+includes a $200 registration fee valid for 5 years. The revenue will be deposited into a newly
+
+established Road Salt Mitigation Fund, which will support grants administered by the
+Department of Environmental Services (DES) for certified winter road maintenance practices.
+The bill outlines definitions, record keeping requirements, penalties for noncompliance, and
+mandatesrulemakingbyDRAandDES. ItalsoestablishestheRoadSaltMitigationProgramto
+help municipalities and businesses comply with winter maintenance certification standards and
+requires annual reporting on the program’s effectiveness as well as to award grant funds to
+projectsthatmeetcertaincriteria.
+The Department of Environmental Services (DES) estimates that approximately $4 million will
+be deposited annually into the Road Salt Mitigation Fund beginning in FY 2028. This estimate
+isbasedonDES’scalculationthat1,000,000tons,yards,orequivalentunitsofde-icingmaterials
+are applied statewide each year, 196,000 tons by DOT, 413,000 tons by commercial contractors,
+and 391,000 tons by municipalities. These figures are rounded estimates developed in
+consultation with DOT and the NHDES Green Snow Pro Program, and may vary from year to
+year. It is assumed that these materials are restocked annually and subject to the proposed $4
+pertonfee,whichgeneratestheprojectedrevenue.
+To administer the program, DES anticipates needing one additional staff position, with
+associatedcostsof$84,000inFY2027,$108,000inFY2028,and$110,000inFY2029. DESalso
+expects to incur additional expenses related to grant awards. While the bill does not explicitly
+state whether fee revenue can be used for administrative costs, DES assumes it can and expects
+the$4 millionin annual revenue to offset these expenses. Over time, DES anticipates that costs
+incurredbyDOT,counties,andmunicipalitieswillbepartiallyoffsetthrougheligibilityforgrant
+funding.
+The Department of Revenue Administration (DRA) would administer the fee, which must be
+reported and paid annually by April 1 for the preceding tax year. The proposed definition of the
+tax year, “between the last day of February of the prior year and the first day of March of the
+current year” excludes both the start and end dates of the tax year. To prevent confusion, DRA
+recommends defining the road salt tax year as “beginning March 1 and ending February 28, or
+February 29 in leap years". Additionally, The Department of Revenue Administration (DRA)
+notesthatwhileroadsaltbulksellersarerequiredtomaintainrecordsandaresubjecttoaudits,
+the proposed legislation does not include a corresponding provision for purchasers. DRA
+recommendsthatsuchaprovisionbeaddedtoensurecomprehensiveoversightandcompliance.
+TheproposedlegislationwouldrequiretheDRAtoexpanditsRevenueInformationManagement
+System (RIMS), with an estimated one-time cost of $248,000 in FY 2027. In addition, DRA
+would need to develop forms, rules, and procedures to administer the fee, necessitating the
+
+creation of several new positions: one in the Collections Division to manage registrations and
+renewalsbeginninginFY2027;oneintheTaxpayerServicesDivisiontoprocessreturnsstarting
+in FY 2028; and one in the Audit Division beginning in FY 2028 to maintain current levels of
+auditqualityandcoverage. Abreakdownoftheassociatedpositioncostsisprovidedbelow.
+DRAESTIMATEDFISCALIMPACT(ROUNDED)
+FY2026 FY2027 FY2028
+TaxFieldAuditor1SalaryandBenefits $0 $45,000 $91,000
+ClerkIVSalaryandBenefits $56,000 $77,000 $80,000
+TaxExaminerIISalaryandBenefits $0 $36,000 $73,000
+RIMSExpansion $248,000 $0 $0
+TotalEstimatedCost $304,000 $158,000 $244,000
+The Department of Transportation (DOT) has used an average of approximately 196,400 tons
+(rounded) of rock salt annually over the last five winters. This salt is procured in bulk through
+annually bid contracts, resulting in yearly fluctuations in both vendor and price per ton. At a
+rate of $4 per ton, the projected cost increase would total $785,600, impacting the agency’s
+Winter Maintenance budget (AU 2928). This represents a 5.5% rise in the per-ton cost and a
+2.13%increaseintheoverallWinterMaintenancebudget,basedonthefive-yearaverage.
+The New Hampshire Municipal Association (NHMA) states this bill will result in an
+indeterminableincreaseinmunicipalexpenses. Formunicipalitiesapplyinglessthan2,500tons
+of road salt or its equivalent, costs are expected to be under $10,000. These expenses could be
+offset by grants awarded through the Road Salt Mitigation Program and may be further reduced
+if certified bulk road salt sellers choose not to pass the full fee on to municipalities. DES with
+data from the University of New Hampshire Technology Transfer Center states that over 200
+communities use between 300 and 5,000 tons of salt annually. With the supply subject to the $4
+per ton fee, costs are expected to range from $1,200 for small communities to $20,000 for large
+ones. Smaller communities often rely on commercial contractors for snow and ice management,
+while some use sand instead of salt, making it difficult to estimate exact costs due to varying
+usage.
+The New Hampshire Association of Counties (NHAC) states the fiscal impact of this bill to be
+under $10,000. Any county expenses related to compliance, reporting, or record keeping for the
+road salt fee and mitigation fund are expected to be minimal. Since road salt usage varies
+annually based on weather conditions, counties cannot assign a fixed cost. DES estimates that
+counties will apply about 2,500 tons of salt annually, based on data from medium-sized
+commercial contractors in the Voluntary Certified Commercial Salt Applicator Program. In FY
+2027, counties are expected to spend $5,000 each as the $4 per-ton fee applies to half of their
+
+annual salt use (1,250 tons). Starting in FY 2028, once the Salt Mitigation Fund is active,
+countiesareestimatedtoseeanannualincreaseof$10,000duetothefeeonthefull2,500tons.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Revenue Administration, Department of Transportation, Department of
+Administrative Services, Department of Environmental Services, New Hampshire Municipal
+Association, New Hampshire Association of Counties, Judicial Branch, Judicial Council,
+DepartmentofJustice, andDepartmentofCorrections

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1733 -ASINTRODUCED
+2026SESSION
+26-2774
+06/08
+1733
+HOUSEBILL
+ANACT relative to default electric service procurement and the recovery of competitive
+marketsupplycosts.
+SPONSORS: Rep.Harrington,Straf.18
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill clarifies that cost reconciliation for competitive electricity supply must occur within
+defaultserviceratesandcannotberecoveredfromcustomerswholeavedefaultservice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1733-ASINTRODUCED
+26-2774
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to default electric service procurement and the recovery of competitive
+marketsupplycosts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 RestructuringPolicyPrinciples. AmendRSA374-F:3,V(e)toreadasfollows:
+2 (e) Notwithstanding any provision of subparagraphs (b) and (c), as competitive markets
+3 develop, the commission may approve alternative means of providing transition or default services
+4 which are designed to minimize customer risk, not unduly harm the development of competitive
+5 markets, and mitigateagainst pricevolatility without creating new deferred costs, if the commission
+6 determines such means to be in the public interest. Any adjustment for over- or underpayment
+7 ("true up") of rates needed as the result of a utility procuring supply in the competitive
+8 markets shall only be done by future changes to the default service rate. No true-up shall
+9 becollectedasanonbypassablecharge.
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

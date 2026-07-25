@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1703-FN-ASINTRODUCED
+2026SESSION
+26-3158
+12/08
+1703-FN
+HOUSEBILL
+ANACT relative to establishing a registration fee for bicycles and electric bicycles using
+stateormunicipallyfundedbikepaths,trails,orroadways.
+SPONSORS: Rep.T.Walsh,Merr.10;Rep.Hill,Merr.2;Rep.Gorski,Hills.2
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a required annual registration fee for all bicycles and electric bicycles
+operating on state or municipally funded paths, trails, and roadways which bicycles and electric
+bicycles are permitted to be ridden on. The bill also establishes a penalty for failure to register and
+directs funds from said fees and penalties to the commissioner of the department of transportation
+forthecreationandmaintenanceofbicycleroutes,lanes,paths,ortrailsinthestate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1703-FN-ASINTRODUCED
+26-3158
+12/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to establishing a registration fee for bicycles and electric bicycles using
+stateormunicipallyfundedbikepaths,trails,orroadways.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Registration of Bicycles and Electric Bicycles; Penalty. Amend RSA 265 by
+2 insertingaftersection144-athefollowingnewsection:
+3 RSA 265:144-b Registration of Bicycles and Electric Bicycles; Penalty. All bicycles and electric
+4 bicycles,ifoperatedonapublicwayshallberegisteredwiththedivisionofmotorvehicles.
+5 I. Forthepurposesofthissection:
+6 (a) "Bicycle"shallhavethesamemeaningasdefinedinRSA259:6;
+7 (b) "Electricbicycle"shallhavethesamemeaningasdefinedinRSA259:27-a;and
+8 (c) "Public way" means any state or municipally funded path, trail, or roadway which
+9 bicyclesorelectricbicyclesarepermittedtobeoperatedoninaccordancewithRSA265.
+10 (d) "Peace officer" means any sheriff or deputy sheriff, mayor or city marshal, constable,
+11 police officer or watchman, member of the national guard acting under orders while in active state
+12 service ordered by the governor under RSA 110-B:6, certified border patrol agent as defined in RSA
+13 594:26,I,orotherpersonauthorizedtomakearrestsinacriminalcase.
+14 II. An application to the division of motor vehicles to register a bicycle or electric bicycle
+15 shall require the name and age of such applicant, proof of applicant's ownership of the bicycle or
+16 electric bicycle or their authorization from the owner to operate the bicycle or electric bicycle, and
+17 any other necessary information as determined by the director of the division of motor vehicles. The
+18 application of any person under the age of 18 years to register a bicycle or electric bicycle shall be
+19 signed by said person's parent or guardian, or in the event there is no parent or guardian, then by
+20 anotherresponsibleadult.
+21 III. Thefeeforregistrationofabicycleorelectricbicycleshallbe$50peryear. Allfeesshall
+22 becollectedbythedivisionofmotorvehicles andimmediatelytransferredtothecommissionerof the
+23 department of transportation to be used for the creation and maintenance of bicycle routes, lanes,
+24 paths,ortrails,pursuanttoRSA230:75,XI.
+25 IV. Uponreceiptofanapplicationforregistrationofabicycleorelectricbicycleandpayment
+26 of the registration fee in paragraph III, the division of motor vehicles shall issue a certificate of
+27 registration to the applicant, which shall include a registration number assigned to said bicycle or
+28 electricbicyclebythedivisionofmotorvehicles.
+
+HB1703-FN-ASINTRODUCED
+-Page2-
+1 (a) Every operator of a bicycle or electric bicycle shall have the certificate of registration
+2 for said bicycle or electric bicycle upon their person or the registration number permanently affixed
+3 tosaidbicycleorelectricbicycle.
+4 (b) Theexpirationdateofacertificateofregistrationshallbe1yearfollowingthedateof
+5 issuanceofthecertificate.
+6 V. Thissectionshallnotapplytobicyclesorelectricbicyclesownedoroperatedbyanypeace
+7 officer wearing a distinctive uniform during the course of their duties. This section shall also not
+8 applytopocketbikes,mopeds,motorcycles,oranyothermotorizedvehiclenotwithinRSA259:27-a.
+9 VI. Except as otherwise provided, it is a violation for any person to operate a bicycle or
+10 electricbicycleonapublicwayunlesssaidbicycleorelectricbicyclemaintainsregisteredstatuswith
+11 the division of motor vehicles, pursuant to this section. The fine for a violation of this section shall
+12 be $100 per violation. Moneys obtained from such violations shall be collected by the division of
+13 motorvehiclesandimmediatelytransferredtothecommissionerofthedepartmentoftransportation
+14 tobeusedforthecreationandmaintenanceofbicycleroutes,lanes,paths,ortrails,pursuanttoRSA
+15 230:75, XI. Nothing in this section shall restrict the division of motor vehicles' authority to issue
+16 penaltiespursuanttoRSA265:150oranyotherprovisionoflaw.
+17 2 Application. The director of the division of motor vehicles shall establish a procedure for the
+18 submission and approval of applications for registration of bicycles and electric bicycles, in
+19 accordancewithRSA265:144-b.
+20 3 Electric Bicycles; Prohibition on Registration Removed. Amend RSA 265:144-a, II to read as
+21 follows:
+22 II. An electric bicycle or a person operating an electric bicycle shall not be subject to the
+23 provisions of this title relating to financial responsibility, drivers' licenses, [registration,] certificates
+24 of title, off highway recreational vehicles, and license plates. An electric bicycle is not a motor
+25 vehicleforthesepurposes.
+26 4 MunicipalPermits;Bicycles;Clarification. AmendRSA265:146toreadasfollows:
+27 265:146 Permits. The mayor of a city, or selectmen of a town, may, in their discretion, upon any
+28 special occasion, grant permits to any persons to ride bicycles or mopeds, at any rate of speed, for a
+29 time not exceeding one day upon specified portions of the public ways of such city or town, and may
+30 annex such other reasonable conditions to such permits as they may deem proper. Nothing in this
+31 section shall restrict the division of motor vehicles authority to issue certificates of
+32 registrationforbicyclesandelectricbicyclespursuanttoRSA265:144-b.
+33 5 Municipal Ordinances and Bylaws; Authority to Issue Licenses Removed. Amend RSA
+34 265:149toreadasfollows:
+35 265:149 Ordinances and Bylaws. Any city or town shall have the power to make ordinances,
+36 bylawsorregulationsrespectingtheuseandequipmentofbicycles,exceptmopedsasdefinedinRSA
+37 259:57,onitsways,providedthatanysuchordinances,bylawsorregulationsenactedwithrespectto
+
+HB1703-FN-ASINTRODUCED
+-Page3-
+1 such equipment shall be at least as stringent as the requirements of RSA 266:85-89. [Any city or
+2 townmayrequirethatbicycles,exceptmopedsasdefinedinRSA259:57,belicensedandmaycharge
+3 reasonablefeesforsuchlicensing.]
+4 6 New Paragraph; Commissioner of Transportation; Powers and Duties; Collection and
+5 Expenditure of Registration Fees. Amend RSA 230:75 by inserting after paragraph X the following
+6 newparagraph:
+7 XI. Shallexpendmoneyscollectedfrombothbicycleandelectricbicycleregistrationfeesand
+8 penalties for violation of such required registration, as established in RSA 265:144-b, for the
+9 purposesofcreatingandmaintainingbicycleroutes,lanes,paths,ortrailsinthestate.
+10 7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3158
+12/5/25
+HB1703-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to establishing a registration fee for bicycles and electric bicycles using
+stateormunicipallyfundedbikepaths,trails,orroadways.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+RevenueFund(s) Restricted-BicycleandElectricBicycleRegistrationFeesandPenalties
+DepartmentofSafety
+$300Kto$500KinFY27,$200Kto$400KinFY28,
+and$225Kto$425KinFY29
+Expenditures* $0
+DepartmentofTransportation
+Indeterminable
+Restricted-BicycleandElectricBicycleRegistrationFeesandPenalties
+andRestricted-HighwayFundCostofCollections-Perthestateconstitution,
+FundingSource(s) costsassociatedwiththecollection/administrationofhighwayfundrevenue
+bytheDepartmentofSafetyisdeductedpriortofundsbeingcreditedas
+unrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill requires all bicycles and electric bicycles operated on a public way to be registered with
+the Division of Motor Vehicles (DMV). The DMV would be responsible for developing and
+administering a new registration program for an indeterminable number of bicycles and electric
+bicycles statewide, including establishing application procedures, issuing certificates of
+
+registration, assigning registration numbers, collecting fees, and enforcing compliance. The bill
+establishes an annual registration fee of $50, to be collected by the DMV and transferred to the
+Department of Transportation (DOT) for the creation and maintenance of bicycle routes, lanes,
+paths,ortrails.
+DepartmentofSafetyImpact
+Although the DMV would not retain revenue, the Department of Safety states it would incur
+costs associated with developing new processes, updating information systems, printing and
+mailing registration certificates, staffing customer service and enforcement operations, and
+managingfeetransfers:
+ Develop an additional registration process within the motor vehicle database (MAAP.
+Estimated programming and integration costs are projected at $150,000 for initial
+design,testing,anddeployment.
+ A new registration certificate and numbering system would be created and distributed.
+Production and materials costs are estimated at $0.45 per registration certificate and
+sticker. The total cost associated with new and renewal registrations is indeterminable,
+as the number of bicycles and electric bicycles currently operated in New Hampshire is
+unknown. (For example, if 100,000 bicycles and electric bicycles were registered, the
+estimated materials cost would total approximately $222,000 per fiscal year). These
+costswouldcomefromDMV’Soperatingbudget.
+ DMV staff would be responsible for processing the registration associated with this
+process. To offset the increase in transaction processing, the Department states it would
+need to hire three (3) additional license clerk positions (SOC 43-03) at a total cost of
+$156,000 in FY 2027, $216,000 in FY 2028, and $225,000 in FY 2029 (assuming a
+10/01/26startdate).
+DepartmentofTransportationImpact
+The Department of Transportation is unable to estimate revenues it may receive from this bill,
+without additional information on bicycle/e-bike volume. The Department notes that this bill
+could imply it is responsible for maintaining bicycle routes, a task the Department is not
+currently staffed or funded to do, and a task the revenue from this bill may not be sufficient to
+cover.
+NewHampshireMunicipalAssociation
+The Association states that under this bill, municipal police departments will be charged with
+enforcement of changes in this bill. While it is not possible to determine how many additional
+investigations or violations would be brought because of the changes contained in this bill, there
+may be increased municipal law enforcement costs associated with the changes. In addition, the
+
+repeal of the enabling statute allowing any city or town to require that “bicycles, except mopeds
+as defined in RSA 259:57, be licensed and may charge reasonable fees for such licensing” may
+cause a slight decrease in revenue in municipalities, if any, that have exercised this option. The
+Association states it is not aware of any municipalities that require local licenses. Overall, the
+impact of this bill is likely to be less than $10,000 in most municipalities, potentially more in
+largecities.
+AGENCIESCONTACTED:
+Department of Safety, Department of Transportation, and New Hampshire Municipal
+Association

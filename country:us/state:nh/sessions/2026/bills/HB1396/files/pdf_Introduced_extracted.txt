@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1396 -ASINTRODUCED
+2026SESSION
+26-3212
+08/09
+1396
+HOUSEBILL
+ANACT relativetovacanciesinstateoffices.
+SPONSORS: Rep.Sweeney,Rock.25;Rep.Berry,Hills.44
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires leaving a vacancy in the state house of representatives unfilled should one
+occur.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1396-ASINTRODUCED
+26-3212
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetovacanciesinstateoffices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Executive Councilor; State Senator; Vacancies. RSA 661:8 is repealed and reenacted to read
+2 asfollows:
+3 661:8 ExecutiveCouncilor;StateSenator.
+4 I. If a vacancy occurs in the office of executive councilor or state senator, it shall be filled as
+5 providedinpartII,articles34and62ofthestateconstitution.
+6 II. Within 21 days after proof of a vacancy or a request that a vacancy be filled, the
+7 governor, in the case of an executive council vacancy, or the governor and council, in the case of any
+8 other vacancy, shall declare that there shall be a special election, which shall be held as provided in
+9 RSA655:81and82orasprovidedinRSA661:8,III.
+10 III. No special election shall be held after March 15 of the second year of the biennium, as
+11 determinedbyRSA655:81,I.
+12 2 Delegate to State Party Convention; State Representative. Amend RSA 661:10 to read as
+13 follows:
+14 661:10 State Representative; Delegate to State Party Convention. If a vacancy occurs in the
+15 officeofstaterepresentativeordelegatetoastatepartyconvention,thevacancyshallnotbefilled.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

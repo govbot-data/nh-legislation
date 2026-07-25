@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1571-FN-A-ASINTRODUCED
+2026SESSION
+26-2852
+12/06
+1571-FN-A
+HOUSEBILL
+ANACT requiring the department of education to review statewide academic standards
+andcurriculumandmakinganappropriationtherefor.
+SPONSORS: Rep. Noble, Hills. 2; Rep. Thibault, Merr. 25; Rep. Peternel, Carr. 6; Rep.
+Freeman,Belk.8;Rep.Korzen,Coos7;Rep.Belcher,Carr.4
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresthedepartmentofeducationtorevisethestatewideacademicstandardsforthe
+learning areas of English/language arts and reading, mathematics, and science and makes an
+appropriationforsuchpurpose.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1571-FN-A-ASINTRODUCED
+26-2852
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to review statewide academic standards
+andcurriculumandmakinganappropriationtherefor.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 EducationalContentforanAdequateEducation. AmendRSA193-E:2-a,Vtoreadasfollows:
+2 V.(a) [The general court requires every 10 years the state board of education and the
+3 department of education to institute procedures for maintaining, updating, improving, and refining
+4 the minimum standards for public school approval and the curriculum frameworks for each area of
+5 education identified in paragraph I. Each school district shall be responsible for maintaining,
+6 updating,improving,andrefiningcurriculum.Thecurriculumshallpresenteducationalgoals,broad
+7 pedagogical approaches, and strategies for assisting students in the development of the skills,
+8 competencies, and knowledge called for by the minimum standards for public school approval and
+9 academicstandardsforeachareaofeducationidentifiedinparagraphI.Thecurriculumframeworks
+10 shallserveasaguideandreferencetowhatNewHampshirestudentsshouldknowandbeabletodo
+11 in each area of education identified in paragraph I. Curriculum frameworks do not establish a
+12 statewide curriculum. It is the responsibility of local teachers, administrators, and school boards to
+13 identify and implement approaches best suited for the students in their communities to acquire the
+14 skills and knowledge included in the curriculum, to determine the scope, organization, and sequence
+15 of course offerings, and to choose the methods of instruction, the activities, and the materials to be
+16 used.] The statewide academic standards, as defined in RSA 193-E:2-a, VI(b), shall be
+17 reviewed for possible revision every 10 years, beginning in June 2026. The department of
+18 education shall initiate a revision of these standards, as well as the current science
+19 standards, to ensure alignment with high-quality criteria that emphasize rigor, clarity,
+20 and relevance. The revised standards shall reflect a coherent progression of knowledge,
+21 skills, and competencies across grade levels. The development process shall include
+22 meaningful participation by students, parents, and educators, consistent with the intent of
+23 RSA193-C:1,III.
+24 (b) Thestateboardofeducationshalladoptrules,pursuanttoRSA541-A,relativetothe
+25 approvalofalternativeprogramsforgrantingcreditleadingtograduation.
+26 (c) The department shall make available a list of high quality curriculum and
+27 instructional materialsbaseduponthe revisedstandardsfrom whichschool districts shall
+28 selectnewcurriculumandmaterials.
+
+HB1571-FN-A-ASINTRODUCED
+-Page2-
+1 (d) The state shall revise the statewide education improvement and assessment
+2 program, as established in RSA 193-C, to align with the revised standards developed
+3 pursuanttoRSA193-E:2-a,V(a).
+4 2 Appropriation; Revision of Statewide Academic Standards. The sum of $1 for the fiscal year
+5 ending June 30, 2027, and the sum of $1 for the fiscal year ending June 30, 2028, are hereby
+6 appropriated to the department of education for the purpose of funding support systems for the
+7 developmentandimplementationofrevisedstatewideacademicstandardspursuanttoRSA193-E:2-
+8 a, V. The governor is authorized to draw a warrant for said sums out of any money in the treasury
+9 nototherwiseappropriated.
+10 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2852
+12/4/25
+HB1571-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT requiring the department of education to review statewide academic standards
+andcurriculumandmakinganappropriationtherefor.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$625,000to
+Expenditures* $0 $1,300,000 $600,000
+$725,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $1 $1 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Education to initiate a revision of the statewide academic
+standards for English/language arts and reading, mathematics, and science beginning in June
+2026, consistent with a 10-year revision cycle. The bill directs that the revised standards must
+align with high-quality criteria emphasizing rigor, clarity, relevance, and coherent progression
+across grade levels. The development process must also include meaningful participation from
+students, parents, and educators, consistent with RSA 193-C:1, III. Implementing the required
+revisions will involve a multi-content-area standards development process requiring substantial
+coordination, expert consultation, and stakeholder engagement. English/language arts (ELA)
+literacy, mathematics, and science standards, ensuring alignment with high-quality criteria
+across these areas will necessitate a structured, resource-intensive process. To meet the
+requirementsofthebill,theDepartmentstatesitwillneedto:
+ Conveneandcoordinatestandardsrevisioncommitteesforeachcontentarea.
+ Contract with subject-matter experts to support drafting, research alignment,
+benchmarking,andtechnicalreview.
+ Conduct stakeholder engagement, including meetings with educators,
+administrators,families,andcommunitymembers.
+ Draft,edit,publish,anddisseminaterevisedstatewideacademicstandards.
+
+ Produce and make available a list of high-quality curriculum and instructional
+materialsalignedtotherevisedstandards,asrequiredbythebill.
+o Establishing criteria and evaluation rubrics for determining HQIM alignment
+withtherevisedEnglish/languagearts,mathematics,andsciencestandards;
+o Identifying commercially available, open-source, instructional materials for
+review; convening expert panels of educators, curriculum specialists, and content
+reviewerstoconductmaterialevaluations;
+o Completing crosswalks and alignment analyses between instructional materials
+andtherevisedNHstandards;
+o Compilingfindings,recommendations,andalignmentratings;
+o Publishingastatewidelistofvettedinstructionalmaterialsfordistrictuse;and
+o Providing districts with guidance and technical assistance on selecting, adopting,
+andimplementingHQIMalignedtotherevisedstandards.
+ Coordinate alignment of the statewide education improvement and assessment
+programunderRSA193-C.
+o The revision of statewide academic standards will require corresponding updates
+to the statewide education improvement and assessment system established
+underRSA193-C. Aligningstate-levelteststotherevisedEnglish/languagearts,
+mathematics,andsciencestandardswillinvolve:
+ Updatingassessmentblueprintsandgrade-leveltestspecifications
+ Revisingand/orreplacingexistingtestitems
+ Developingnewitemsalignedtotherevisedstandards
+ Updatingscoringrubricsandperformance-leveldescriptors
+ Conductingfieldtestingandvalidationprocesses
+ Modifyingvendorcontractstoincorporatealignmentwork
+ Provideguidanceandtechnicalassistancetodistrictsduringthetransitiontorevised
+standards.
+Basedontheassumptionsdescribedabove,theDepartmentestimatesthatthisbillwillrequirea
+comprehensive revision of statewide academic standards in English/language arts and reading,
+mathematics, and science, as well as development of a statewide process for reviewing and
+identifying high-quality instructional materials (HQIM). These activities cannot be absorbed
+withintheDepartment’s existingbudget or staffingstructure. Todeterminetheestimated fiscal
+impact, the Department reviewed prior costs of statewide standards revisions, market rates for
+contracted content experts, and typical costs associated with stakeholder engagement,
+
+publication, assessment alignment, and HQIM vetting. Costs were then assigned by fiscal year
+correspondingtowhentherequiredworkwouldoccur:
+FY2027
+CostCategory Description EstimatedCost
+Fullstandardsrevisionacrossallcontentareas,
+Contractedsubject-matter includingcoherence,verticalalignment,
+$650,000
+experts disciplinaryliteracy,andearlyfoundational
+skills
+HQIMcriteria&review DevelopNH-alignedHQIMrubrics,adoption
+$150,000
+framework processes,andcross-walkstorevisedstandards
+Educatoradvisorygroups,regionalforums,
+Stakeholderengagement&
+familyengagement,translationservices,public $125,000
+facilitation
+hearings
+Reviewertraining& Trainingfor250–300reviewers;stipendsfor
+$120,000
+stipends educatorsonHQIMandstandardsreviewpanels
+Finalediting,accessibilityremediation,
+Drafting,editing,publication
+graphic/layoutdesign,digitalrepository $75,000
+preparation
+development
+Internalcoordination& 1.0FTEacrossGovernance,Assessment,&
+$180,000
+projectmanagement Academicsformulti-contentcoordination
+FY2027Total $1,300,000
+FY2028
+CostCategory Description EstimatedCost
+Testblueprintrevisions,itemdevelopment,
+Assessmentalignment(RSA $500,000to
+validation,psychometrics,vendorcontract
+193-C) $600,000
+modifications
+Additionalstakeholder Finalhearings,publiccommentintegration,
+$40,000
+review advisoryreview
+Finalpublicationand Digital/printpublication,distribution,and
+$35,000
+dissemination requireddistrictguidance
+Technicalassistancefor Transitionguidance,webinars,HQIMalignment
+$50,000
+districts support
+$625,000to
+FY2028Total
+$725,000
+FY2029
+CostCategory Description EstimatedCost
+Coachingfordistrictcurriculumleaders,
+Instructionalleadership
+principals,andteacher-leaderstosupport $250,000
+coaching&districtsupport
+transition
+Monitoring,datacollection& Fidelitymonitoring,researchpartnersupport,
+$150,000
+evaluation evaluationofimplementationimpact,reporting
+StatewidePDseries,asynchronousmodules,
+Professionallearning
+educator-facilitatoraccreditation,regional $200,000
+modules&PDrollout
+support
+FY2029Total $600,000
+Thisbillappropriates$1ineachFY2027andFY2028.
+AGENCIESCONTACTED:
+
+DepartmentofEducation

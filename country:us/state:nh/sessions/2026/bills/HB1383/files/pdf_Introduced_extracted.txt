@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1383 -ASINTRODUCED
+2026SESSION
+26-3168
+04/09
+1383
+HOUSEBILL
+ANACT relativetomethodsforoverridinglocaltaxcaps.
+SPONSORS: Rep.Turer,Rock.6;Rep.Gruber,Ches.16
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the requirement that a municipality or district must vote by official ballot to
+overridealocaltaxcap.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1383-ASINTRODUCED
+26-3168
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetomethodsforoverridinglocaltaxcaps.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Municipal Budget Law; Method to Override Local Tax Cap. Amend the introductory
+2 paragraphofRSA32:5-b,IIItoreadasfollows:
+3 III. The legislative body may override the cap by the usual procedures applicable to annual
+4 meetings of the legislative body, provided that: when a proposed appropriation will cause the
+5 amount of local taxes raised by the town or district to exceed the tax cap under this section or the
+6 total amount already raised and appropriated has caused the amount of local taxes raised by the
+7 town or district to exceed the tax cap under this section, [voting on the appropriation question shall
+8 bebyballot, except inthe caseof a legislativebody that uses an official ballot form of meeting under
+9 RSA 40:13 or under a charter adopted pursuant to RSA 49-D. If] then a 3/5 majority or the
+10 supermajority as determined under a charter pursuant to RSA 49-D of those voting on the question
+11 shall vote "yes[,]" for the appropriation [is] to be approved. Only votes in the affirmative or
+12 negative shall be included in the calculation of the 3/5 majority or the supermajority as determined
+13 underacharterpursuanttoRSA49-D.
+14 2 Applicability. RSA32:5-b,asamendedbysection1ofthisact,shallapplytothelocaltaxcaps
+15 adopted prior to the effective date of this act and shall not require local amendment or re-adoption
+16 bythetownordistrict.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

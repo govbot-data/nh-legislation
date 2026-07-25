@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1611-FN-ASINTRODUCED
+2026SESSION
+26-2538
+06/05
+1611-FN
+HOUSEBILL
+ANACT relativetothetakingofprivateproperty.
+SPONSORS: Rep.Potucek,Rock.13;Rep.Terry,Belk.7
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the state's authority to seize privately owned property during a declared
+emergency by limiting applicable circumstances, specifying procedural requirements, mandating
+documentation,andrevisingcompensationprovisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1611-FN-ASINTRODUCED
+26-2538
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothetakingofprivateproperty.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taking of Private Property; Compensation and Use. Amend RSA 4:46, I-b through V to read
+2 asfollows:
+3 I-b. This section shall not apply to personal property, real estate, or real estate
+4 improvementsownedbyorintendedforusebyindividualsorfamilies.
+5 II. Takings under this sectionshall be strictlylimited tothe necessities of the situation and
+6 when there is a documented inability to obtain alternative resources. The person proposing
+7 totake possessionof anysuch property inthe name of thestate shall present to theowner or person
+8 inpossession or control of the propertya copy of the warrant under which the personpurports to act
+9 certified by the commissioner of safety. Upon taking possession or control of such property the
+10 person shall present a receipt specifically listing the property so taken and specifically referring to
+11 thewarrantauthorizingthetaking.
+12 III. Whenever possession of any real estate or title to any personal property is taken under
+13 this section, its owner or possessor, hereinafter referred to as the claimant, shall be entitled to
+14 [damages] replacement costs, compensation for loss of use, and attorney and administrative
+15 fees needed in filing the claim on account of such taking. Upon the taking of any such property,
+16 the chief justice of the superior court is authorized to appoint a commission of 3 suitable persons to
+17 assess fair and just replacement costs, compensation for loss of use, and attorney and
+18 administrative fees needed in filing the claim [a] in cases in which the amount cannot be
+19 determined by agreement. The chief justice shall fix the per diem compensation of the members of
+20 the commission and fill any vacancies which may occur. The commission shall determine what sum
+21 shall justly compensate the claimant for the property so taken, for loss of use of the property so
+22 taken, and for attorney and administrative fees needed in filling the claim, and may in the
+23 performance of its duties hire, and the state shall pay for the services of, such skilled and
+24 disinterestedappraisersasthecommissionshalldeemnecessarytoassistitintheperformanceofits
+25 duty.
+26 IV. Any claimant aggrieved by the award made by the commission may appeal to the
+27 superior court from the decision within 60 days from the granting of the award. All final awards of
+28 judgments entered against the state in such proceedings and the fees and expenses of the
+29 commission shall be promptly paid by the state treasurer, on warrant of the governor and council,
+30 fromanymoneyinthegeneralfundofthetreasurynototherwiseappropriated.
+
+HB1611-FN-ASINTRODUCED
+-Page2-
+1 V. Thepropertytakenunderthissectionshallbeusedinsuchmannerasthegovernor,with
+2 the advice and consent of the executive council, shall deem in the best interests of the state, its
+3 inhabitants or the United States, which manner may include the sale at the prevailing market price
+4 orthegratuitousdistributionofthearticlesenumeratedinsubparagraphsI(c)(3),(4)and(5), except
+5 that the original owner of the property taken shall have the right of first refusal to
+6 purchase it back at the prevailing market prices, which is to be determined independently
+7 from any award granted pursuant to paragraph III. All moneys derived from the sale of any
+8 suchpropertyshallbepaidovertothestatetreasureranddepositedinthegeneralfundofthestate.
+9 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2538
+12/8/25
+HB1611-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothetakingofprivateproperty.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 OpenWarrant
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+asintroduced,asitisawaitinginformationfromtheGovernor'sOffice. TheOfficewasoriginally
+contactedon10/21/25andmostrecentlycontactedon11/12/25forafiscalnoteworksheet. When
+completed,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+METHODOLOGY:
+This bill makes changes to the state's authority to seize private property during a declared
+emergencyandexpandscompensationtothepropertyownertoincludereplacementcosts,lossof
+use,andattorney/administrativefees.
+The Department of Safety indicates that this bill could lead to a significant, though
+indeterminable, increase in state expenditures. By expanding the state's authority to seize
+private property, the bill would require the state to compensate property owners, potentially at
+substantial cost. Since each property is unique, the financial impact would vary case by case,
+dependingontheassessedvalueandassociatedcompensationrequirements.
+TheJudicialBranchcanabsorbanyimpactthismayhaveinit'sexistingbudget.
+AGENCIESCONTACTED:
+DepartmentofSafety,JudicialBranch,andGovernor'sOffice

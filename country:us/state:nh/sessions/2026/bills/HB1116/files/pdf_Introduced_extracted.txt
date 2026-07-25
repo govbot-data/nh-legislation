@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1116 -ASINTRODUCED
+2026SESSION
+26-2426
+09/08
+1116
+HOUSEBILL
+ANACT relativetojudicialprivilegeandrelativetothelitigationofsmallclaims.
+SPONSORS: Rep.Flanagan,Hills.45
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. States that a New Hampshire state judge may not claim judicial privilege to refuse to testify
+inacriminalproceedingwheretheyhavefirsthandknowledgeofmaterialfacts.
+II. Requires the court in small claims litigations to send notice of the claim within 10 days of its
+filing.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1116-ASINTRODUCED
+26-2426
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetojudicialprivilegeandrelativetothelitigationofsmallclaims.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Judicial Privilege. Amend RSA 516 by inserting after section 33-a the following
+2 newsection:
+3 516:33-b JudicialPrivilege.
+4 I. Inthissection,"judge"meansanyfull-timeorpart-timejudgeofthesupreme,superior,or
+5 circuit court; a retired judge who is recalled to judicial service; a full-time marital master; and any
+6 refereeorspecialmasterwhoisanofficerofthejudicialsystemandwhoperformsjudicialfunctions.
+7 II. If a court finds, based on a proffer from the subpoenaing party, that a judge possesses
+8 firsthand knowledge of any material fact that is relevant and admissible in a criminal proceeding,
+9 thejudgeshallnotbeentitledtorefusetotestifyduetoaclaimofjudicialprivilege.
+10 2 LitigationofSmallClaims;NoticetoDefendant. AmendRSA503:6,Itoreadasfollows:
+11 I. The court shall cause notice of the claim and the substance thereof to be given to the
+12 defendant, whether or not the defendant is a resident of this state, by sending, within 10 days of
+13 thefilingoftheclaim,awrittenstatementtothedefendantbypostpaidfirstclassmail,addressed
+14 to the defendant at the defendant's last known post office address and directing the defendant to
+15 indicate, in writing within 30 days from the date said notice is mailed, the defendant's desire to be
+16 heard.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

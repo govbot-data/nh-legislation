@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1655-FN-ASINTRODUCED
+2026SESSION
+26-2978
+08/07
+1655-FN
+HOUSEBILL
+ANACT establishingafundingsourceformaintainingstateowneddams.
+SPONSORS: Rep.Darby,Hills.11;Rep.Dunn,Rock.16;Rep.Malloy,Rock.24
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes fees on property that has waterfront access to a body of water created by a
+state-owneddamanddirectssuchfeestothemaintenanceofstate-owneddams.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1655-FN-ASINTRODUCED
+26-2978
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingafundingsourceformaintainingstateowneddams.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Shorefront Property Fee for State-Owned Dams. Amend RSA 77 by
+2 insertingaftersection21thefollowingnewsubdivision:
+3 ShorefrontPropertyFeeforState-OwnedDams
+4 77:22 FeeforWaterfrontPropertyonWaterbodyImpoundedbyState-OwnedDam.
+5 I. The department of revenue administration shall identify the properties and landowners
+6 with waterfront access and deeded water rights to waterbodies impounded by state-owned dams.
+7 The department shall provide each municipality with a list of such properties. The department may
+8 contract with an outside organization to collect this information. Following a conveyance of real
+9 estate with waterfront access or deeded water rights to a waterbody impounded by a state-owned
+10 dam,thegranteeshallinformthemunicipalityofthegranteemailingaddress.
+11 II. The municipality shall assess afee of $100 per year onreal estatewith waterfront access
+12 to a waterbody impounded by a state-owned dam. The moneys collected from such fee shall be
+13 deposited in the dam maintenance fund established in RSA 482:55 to be used for the operation,
+14 maintenance,andrepairofstate-owneddams.
+15 III. The municipality shall assess a fee of $50 per year on real estate with deeded water
+16 access to a waterbody impounded by a state-owned dam. The moneys collected from such fee shall
+17 be deposited in the dam maintenance fund established in RSA 482:55 to be used for the operation,
+18 maintenance,andrepairofstate-owneddams.
+19 IV. Real estate with waterfront access or deeded water rights to a waterbody impounded by
+20 a state-owned dam in current use or a working farm shall not be assessed the fee listed in
+21 paragrpahsIIandIII.
+22 V. In addition to the fees required by paragraphs II and III, the municipality may collect $5
+23 to be retained by the municipality as compensation for management, collection and disbursement of
+24 moneys collected. Each year, when submitting collected fees to the dam maintenance fund, the
+25 municipality shall provide a list of properties, owners, owner addresses, fees remitted and fee owed
+26 by not remitted to the department. The department shall seek payment for unpaid fees for
+27 properties with waterfront or deeded water rights to a waterbody impounded by a state-owned dam.
+28 Repaymentsreceivedshallbedepositedinthedammaintenancefund.
+29 VI. Interest at 8 percent per annum shall be charged upon all taxes except resident taxes,
+30 except as otherwise provided by statute, not paid on or before December 1. Interest payments
+31 received shall be deposited in the dam maintenance fund. The department may acquire a lien
+
+HB1655-FN-ASINTRODUCED
+-Page2-
+1 against land and buildings for unpaid fees owed for waterfront access or deeded water rights to a
+2 waterbody impounded by a state-owned dams. Tax liens placed according to RSA 80 shall have
+3 priority over department of environmental services liens. The department of revenue services shall
+4 administer thecollectionof fees, interests and liens for waterfront access or deeded water rights to a
+5 waterbodyimpoundedbyastate-owneddams.
+6 VII. The department shall adopt rules under RSA541-A inorder to executeand enforce this
+7 chapter.
+8 2 DamMaintenanceFund;Expenditure. AmendRSA482:57toreadasfollows:
+9 482:57 Expenditure.
+10 I. Notwithstanding other provisions of law, the commissioner of environmental services
+11 shallexpendsuchsumsfromthedammaintenancefundasarenecessaryforperformanceofworkon
+12 state-owned dams and property associated with and contiguous to state-owned dam sites, as well as
+13 noncontiguous property, such as rainfall and stream gages, that is essential to the safe operation of
+14 thedamonlyinthefollowingcategories:
+15 [I.] (a) Minor projects and emergency repairs, including emergency action plans, which may
+16 becompletedbyforceaccountmethodsbythedepartment.
+17 [II.] (b) Repair projects, which may be completed by force account methods by the
+18 department on dams and property associated with and contiguous to state-owned dam sites, as well
+19 as noncontiguous property, such as rainfall and stream gages, that is essential to the safe operation
+20 ofthedam,approvedforacquisitionbythelegislaturewiththeapprovalofgovernorandcouncil.
+21 [III.] (c) Reconstruction projects, which shall be completed by contract construction or force
+22 account on dams and property associated with and contiguous to state-owned dam sites, as well as
+23 noncontiguous property, such as rainfall and stream gages, that is essential to the safe operation of
+24 thedam,approvedforacquisitionbythelegislaturewiththeapprovalofgovernorandcouncil.
+25 II. Administration of collection of fees, interests, and liens for waterfront access or
+26 deeded water rights to a waterbody impounded by a state-owned dam shall be enforced by
+27 thedepartmentofrevenueadministration.
+28 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2978
+12/8/25
+HB1655-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingafundingsourceformaintainingstateowneddams.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $3,000,000 $3,000,000 $3,000,000
+RevenueFund(s) DamMaintenanceFund
+Indeterminable
+Increasemore Indeterminable Indeterminable
+Expenditures* $0 than$3,000,000- Increase Increase
+$3,100,000or $3,324,000+ $3,078,000+
+less
+FundingSource(s) DamMaintenanceFund/GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $180,000 $180,000 $180,000
+IndeterminableIncrease
+LocalExpenditures $0
+lessthan$10,000permunicipalityperFY
+METHODOLOGY:
+ThisbillcreatesanewfundingmechanisminresponsetothefindingsoftheCommitteetoStudy
+Alternatives for Funding the Operation, Maintenance, and Repair of State-Owned Dams,
+established under SB 549 (CH 168:3, 2024) for the maintenance of state-owned dams. It
+establishes annual fees on properties that benefit from waterbodies impounded by such dams:
+$100 for properties with direct waterfront access and $50 for those with deeded access.
+Properties in current use or classified as working farms are exempt. Municipalities may collect
+$5 to be retained by the municipality as compensation for management, collection and
+disbursement of moneys collected and are responsible for reporting collections and delinquencies
+to the Department of Revenue Administration (DRA). DRA is also tasked with enforcement,
+
+including applying interest and liens. All collected funds are directed to the Dam Maintenance
+Fund, which is managed by the Department of Environmental Services (DES) for dam-related
+expenditures.
+DES estimates the bill would generate approximately $3 million annually for the Dam
+Maintenance Fund, based on 24,000 waterfront properties and 12,000 deeded access properties
+(24,000 X $100 = $2,400,000 + 12,000 X $50 = $600,000). DES expects to spend the full amount
+collected on dam maintenance and related infrastructure. DES does not anticipate needing
+additionalstaffbutnotesthatexpendituresandrevenueswouldlikelycontinuebeyondFY2029.
+Additionally, DES highlights drafting concerns in the bill, noting that it references RSA 77,
+which has been repealed, and suggests that RSA 76 as the appropriate citation, and suggests
+clarifying language in RSA 482:77 to avoid misinterpretation regarding project approvals. RSA
+482.77, proposed as section I(a) and I(b), is misleading because as written “approved for
+acquisitionby the legislature withthe approval of governor and council” appears to indicate that
+repair and reconstruction projects first need to be acquired by the legislature with the approval
+ofgovernorandcouncil. Itmaybeclearertochangetheendingofthetwoparagraphstoread:
+“that is essential to the safe operation of the dam, approved for acquisition by the
+legislature with the approval of governor and council only can be performed on dams
+and associated properties that have been acquired by the state, provided such
+acquisition has been approved by the legislature and the governor and
+council."
+The Department of Revenue Administration states the bill would result in an indeterminable
+increase in state and local revenues and expenditures. DRA anticipates cooperation with DES,
+who can use Granite GIS to identify affected properties, however DRA would still need to
+contract with a title researcher in order to identify parcels with deeded access to the identified
+water bodies. DRA is unsure of the cost of such work and would anticipate utilizing the state’s
+RFP process to have that work performed. DRA will endeavor to obtain a cost estimate if
+needed. Additionally, DRA would require a new collections staff position beginning in FY 2028
+at a cost for salary and benefits of $38,000 in FY 2028 and $78,000 in FY 2029. Additionally,
+revenue information management system (RIMS) modifications would be necessary to collect
+this new tax type which is estimated at $248,000 in FY 2028. DRA cannot absorb these costs
+withinitscurrentbudgetandexpectstobegincollectionactivitiesinspring2028. DRAisunable
+to estimate the revenue without knowing the number of properties that would be assessed the
+fees.
+
+The New Hampshire Municipal Association states that local expenditures are estimated to
+increase less than $10,000 per municipality, for managing, collecting, and disbursing state fees
+designated for the dam maintenance fund. These costs could be reduced or potentially offset if a
+municipality opts to impose the optional $5 processing fee. The estimated local revenue is
+$180,000basedonthe36,000propertiespayingthe$5fee(36,000X$5=$180,000).
+AGENCIESCONTACTED:
+Department of Environmental Services, Department of Revenue Administration, and New
+HampshireMunicipalAssociation

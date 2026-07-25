@@ -1,0 +1,650 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1615-FN-ASINTRODUCED
+2026SESSION
+26-2634
+08/09
+1615-FN
+HOUSEBILL
+ANACT permittingconsenting adults to enter into contract-based marriage agreements as
+analternativetotherequirementofamarriagelicense.
+SPONSORS: Rep. Sabourin dit Choiniere, Rock. 30; Rep. Farrington, Straf. 8; Rep. Granger,
+Straf. 2; Rep. Drago, Rock. 4; Rep. Dupont, Hills. 20; Rep. Giasson, Hills. 29; Rep.
+Love, Rock. 13; Rep. Terry, Belk. 7; Rep. Bailey, Straf. 2; Rep. McFarlane, Graf.
+18;Sen.Murphy,Dist16
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes the legal framework for contract marriage as a private civil alternative to
+licensed marriage. This bill further defines contract marriage as a voluntary agreement enforceable
+solely under civil contract law and provides procedures for optional filing, conversion, and
+revocation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1615-FN-ASINTRODUCED
+26-2634
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT permittingconsenting adults to enter into contract-based marriage agreements as
+analternativetotherequirementofamarriagelicense.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybecitedasthe"MarriageLibertyAct."
+2 2 New Chapter; Contracted Marriage. Amend RSA by inserting after chapter 457-A the
+3 followingnewchapter:
+4 CHAPTER457-B
+5 CONTRACTEDMARRIAGE
+6 457-B:1 Definitions.
+7 Forthepurposesofthischapter,andnotwithstandinganyotherprovisionoflaw:
+8 I. "Administrative dissolution" means the removal of a licensed marriage from the state's
+9 vital records by operation of law following conversion to a contract marriage under this chapter,
+10 withoutjudicialproceedings.
+11 II. "Certificate of contract marriage" means a document executed by the parties and
+12 optionallyfiledwithastate-designatedregistry.
+13 III. "Civil jurisdiction lock" means the exclusive application of civil contract law to the
+14 formation,enforcement,anddissolutionofcontractmarriages.
+15 IV. "Contract marriage" means a legally recognized private marital agreement formed by 2
+16 consenting adults through a signed, binding contract enforceable solely in the designated civil court
+17 asprovidedinRSA457-B:3.
+18 V. "Department of state" means the New Hampshire secretary of state or any authorized
+19 divisionresponsibleforregisteringcontractmarriagedocumentsunderthischapter.
+20 VI. "Effective date" means the date specified within the contract marriage as the start or
+21 endofthecontractualrelationship.
+22 VII. “Family law” means all statutory and common law governing licensed marriage,
+23 divorce, legal separation, annulment, spousal support, child custody, parental rights, and related
+24 matters, including but not limited to RSA 457, RSA 458, RSA 461-A, RSA 490-D, and applicable
+25 doctrinesofequity.
+26 VIII. "Filing" means submissionof a document to thedepartment of state for administrative
+27 purposesonly,notconstitutingjudicialreview,recording,orapprovalunlessexpresslyprovided.
+28 IX. "Informed consent" means that each party has taken personal responsibility for all
+29 material due diligence, has received or had the opportunity to receive independent legal advice, and
+30 hasknowinglywaivedrelianceonanyimpliedprotectionsorstate-definedspousalduties.
+
+HB1615-FN-ASINTRODUCED
+-Page2-
+1 X. “Licensed marriage” means any marriage formed under RSA 457 or dissolved under RSA
+2 458, or any legal relationship that requires a state-issued marriage license and is governed by
+3 statutesconcerningmaritalstatus,divorce,legalseparation,orannulment.
+4 XI. "Plain-language presumption" means that if the contract is written in clear terms and
+5 signed voluntarily, it shall be presumed understood without regard to education level, emotional
+6 state,ordisparityofknowledge.
+7 XII. "Protected condition" means any condition designated by the parties in the contract
+8 marriage as a protected condition, including but not limited to behavioral, financial, or relational
+9 expectations,orotherlawfultermsdesignatedasconditionswithinthecontractmarriage.
+10 XIII. "Protected outcome" means a contractual remedy triggered by the occurrence or non-
+11 occurrence of a protected condition, including but not limited to termination, restitution, waiver of
+12 claim,orothercivilremedy.
+13 XIV. "Relationalexpectation"meansanytermvoluntarilyadoptedbybothparties,including
+14 butnotlimitedtoemotional,cohabitational,ordomesticconductexpectations.
+15 XV. "Termination"meanstheconclusionofacontractmarriagepursuanttoitsowntermsor
+16 mutualagreement,withoutretroactivenullification.
+17 XVI. "Void" means that a contract marriage is treated as having never been legally formed,
+18 duetofraud,misrepresentation,orlegalincapacity.
+19 XVII. "Witness" means an unrelated adult of sound mind who observes the signing of a
+20 documentandaffirmstheidentityandvoluntaryactionofthepartiessigning.
+21 XVIII. "CCM"meanscertificateofcontractmarriage,asdefinedinRSA457-B:1,II. Theuse
+22 ofthisabbreviationinsubsequentsectionsshallreferexclusivelytothatdocument.
+23 XIX. "RNCCM" means revocation notice of certificate of contract marriage, as defined in
+24 RSA 457-B:14. The use of this abbreviation in subsequent sections shall refer exclusively to that
+25 document.
+26 XX. “Designated civil court” means the courts specified in RSA 457-B:8, I(a) and (b), and
+27 expressly excludes the family division, the probate division, and any other court not expressly listed
+28 inthatsection.
+29 457-B:2 Scope.
+30 I. Acontractmarriageformedunderthischaptershallnotbeconsideredalicensedmarriage
+31 or its equivalent for any legal purpose and shall not invoke application of RSA 457, RSA 458, or
+32 relateddoctrines.
+33 II. This chapter shall not affect or modify the application of child welfare laws as defined in
+34 stateorfederalstatute.
+35 III. The terms of a contract marriage may define mutual obligations, conditions, or
+36 expectations, including personal, domestic, cohabitational, or emotional in nature, provided such
+37 termsarelawfulandvoluntarilyaccepted.
+
+HB1615-FN-ASINTRODUCED
+-Page3-
+1 IV. Nothing herein shall prohibit contractual consequences for non-performance, so long as
+2 theydonotviolatecriminalstatute.
+3 457-B:3 Formation.
+4 I. A contract marriage shall be formed upon execution of a written agreement signed by all
+5 parties,witnessedby2unrelatedadultsornotarized.
+6 II. Theagreementshall include:
+7 (a) A prominent heading or title labeling the document with the phrase "CONTRACT
+8 MARRIAGEAGREEMENTUNDERRSA457-B";
+9 (b) Anexpressdeclarationthatthepartiesintendtoformacontractmarriageunderthis
+10 chapter;
+11 (c) Acknowledgmentofinformedconsent;
+12 (d) A disclaimer of any implied spousal duties, rights, or obligations not expressly stated
+13 withinthecontract;
+14 (e) A statement that each party had access to, or affirmatively waived, the use of
+15 independentlegalcounselandmaterialdisclosure;
+16 (f) An exclusive commitment declaration section titled “Exclusive Commitment
+17 Declaration”;
+18 (g) A remedy upon violation of exclusivity section titled “Remedy Upon Violation of
+19 Exclusivity,”describingconsequencesofbreachingtheexclusivecommitmentdeclaration.
+20 III. The following language shall be deemed sufficient to satisfy each corresponding element
+21 ofparagraphII,althoughpartiesmayusesubstantiallysimilarlanguage:
+22 (a) ForsubparagraphII(a):
+23 “CONTRACTMARRIAGEAGREEMENTUNDERRSA457-B"
+24 (b) ForsubparagraphII(b):
+25 “WeherebydeclareourintenttoformacontractmarriagegovernedsolelybyRSA457-Bandthe
+26 termsofthisagreement.”
+27 (c) ForsubparagraphII(c):
+28 “Each party affirms that they have exercised informed consent as defined by RSA 457-B, and
+29 understandtherightsandobligationsestablishedbythiscontract.”
+30 (d) ForsubparagraphII(d):
+31 “We expressly waive all implied spousal duties, presumptions, and legal standards associated
+32 withlicensedmarriageorfamilylawunlessexplicitlystatedherein.”
+33 (e) ForsubparagraphII(e):
+34 “Each party affirms that they had the opportunity to consult independent legal counsel and to
+35 conductduediligence.Eachpartyeitherexercisedthatrightorvoluntarilywaivedit.”
+36 (f) ForsubparagraphII(f):
+
+HB1615-FN-ASINTRODUCED
+-Page4-
+1 "Each party affirms under penalty of perjury that they are not currently party to any other
+2 marriage, whether licensed or contractual, and that they shall not enter into any such union while
+3 thisagreementisineffect."
+4 (g) ForsubparagraphII(g):
+5 “In the event of a violation of the exclusive commitment declaration, the parties agree that
+6 appropriate remedies may apply as specified elsewhere in this agreement or as otherwise permitted
+7 underRSA457-B.”
+8 IV. The exclusive commitment declaration shall be deemed a material term of the
+9 agreement,andthefollowingshallapply:
+10 (a) Its omission may give rise to a presumption against enforceability, unless the court
+11 findsclearandconvincingevidenceofmutualintent.
+12 (b) Any false statement or breach shall render the contract voidable at the discretion of
+13 thenon-breachingparty.
+14 V. The remedy upon violation of exclusivity section shall be deemed a material term of the
+15 agreementandshalldescribe:
+16 (a) The legal and financial consequences of a breach of the exclusive commitment
+17 declaration;
+18 (b) Theremediesavailabletothenon-breachingparty.
+19 VI. The absence of any specific element listed in paragraph II shall not, by itself, void the
+20 contract marriage if the court finds clear and convincing evidence of mutual intent to form such a
+21 union,subjecttotheplain-languagepresumptiondefinedinRSA457-B:1,XI.
+22 VII. A contract marriage shall become legally enforceable upon execution, and no additional
+23 filing,ceremony,orofficialactshallberequiredforitsvalidity.
+24 VIII. Oral representations, promises, or understandings shall have no force or effect unless
+25 expresslyincorporatedintothewrittenagreement.
+26 IX. Nocourtshallinferorimplyadditionaltermsnotstatedinthecontract.
+27 X. Partiesmayincludeanynumberofprotectedconditionsorprotectedoutcomes.
+28 XI. Protected conditions may include but are not limited to: behavioral, financial, or
+29 relational expectations. Such conditions shall be enforceable only as a trigger for lawful remedies,
+30 including but not limited to financial penalties, termination, or restitution, and excluding any form
+31 ofspecificperformance.
+32 XII. Protected outcomes may include: termination, financial consequences, reversion of
+33 property,orotherlawfulremedies.
+34 XIII. Protected conditions may, but need not, be paired with one or more protected
+35 outcomes. When so paired, the occurrence or non-occurrence of the protected condition shall trigger
+36 thecorrespondingprotectedoutcome,asstatedinthecontract.
+
+HB1615-FN-ASINTRODUCED
+-Page5-
+1 XIV. The presence or absence of protected conditions or protected outcomes shall not affect
+2 theenforceabilityofthebroaderagreement.
+3 457-B:4 Duration.
+4 I. A contract marriage may specify a fixed term, renewal mechanism, or automatic
+5 expirationtriggeredbyconditionsagreeduponinwriting.
+6 II. Thepresenceor absenceofaterm limitorexpirationclause shallnotaffectthecontract’s
+7 validity.
+8 III. The agreement may authorize termination based on unmet relational expectations,
+9 providedsuchexpectationsareexpresslystatedinthecontract.
+10 IV. The agreement may further specify that such termination shall occur without additional
+11 contractualobligation,exceptasotherwiseprovidedtherein.
+12 V. Nothinginthissectionshallbeinterpretedtocompelpersonalconduct.
+13 457-B:5 ExclusivityandRemedies.
+14 I. No more than one certificate of contract marriage shall be filed by or on behalf of a given
+15 individualatanyonetime.
+16 II. The state shall reject any filing that conflicts with an active CCM unless accompanied by
+17 anRNCCMofthepriorCCM.
+18 III. A certificate of contract marriage shall be considered presumptive evidence of an
+19 exclusivecontractualspousalrelationship.
+20 IV. Where more than one CCM has been filed on behalf of the same individual, such filings
+21 shall be presumed invalid unless the department of state determines, based on the accompanying
+22 documents,thatonefiling:
+23 (a) Wassubmittedinerror;
+24 (b) Isnolongerineffect;
+25 (c) Hasbeensupersededinaccordancewiththischapter.
+26 Nothing in this section shall be construed to alter the terms, enforceability, or validity of any
+27 contractmarriage,whichshallremaingovernedsolelybythecontractitself.
+28 V. Nothing in this chapter shall render any contract marriage void or unenforceable solely
+29 byreasonofanothercontractorpre-nuptialagreement'sexistence.
+30 VI. Any contract marriage may, within its own terms, specify conditions under which it is
+31 voided,suspended,orsubordinatedduetootheragreementsmadebyeitherparty.
+32 VII. Absent such terms, simultaneous or successive contracts shall be governed by standard
+33 principlesofcontractlaw.
+34 VIII. Falsification of the date or witness attestation on any contract marriage or CCM shall
+35 constitutefraud under RSA641:3and, where intendedtomislead anofficial proceeding, mayalsobe
+36 prosecutedunderRSA641:1.
+
+HB1615-FN-ASINTRODUCED
+-Page6-
+1 IX. Upon receipt of a CCM for filing, the department of state shall review its records to
+2 determinewhethereitherpartyappearsonanyotheractiveCCM.
+3 X. Within 30 days, the department of state shall notify all parties named in the filing,
+4 confirming either that neither party appears on another active CCM, or identifying by name any
+5 individualwhodoes.
+6 XI. Any CCM found to involve a party with an active CCM already on file shall be deemed
+7 rejectedandnotconsideredfiled.
+8 457-B:6 DisputeResolution.
+9 I. A contract marriage may contain a binding arbitration clause governing breach or
+10 dissolution.
+11 II. Where such a clause is included, courts shall limit review to the grounds for vacating an
+12 arbitrationawardunderRSA542.
+13 III. Nopartymayseekequitablereliefoutsidethetermsoftheagreement.
+14 457-B:7 LegalEffect.
+15 I. A contract marriage, when formed and filed in accordance with this chapter, shall be
+16 recognized by the state of New Hampshire as a valid and lawful form of marriage, enforceable solely
+17 undertheprinciplesofcivilcontractlaw.
+18 II. A CCM duly filed with the state shall confer spousal status for administrative and
+19 documentation purposes under state jurisdiction, including but not limited to tax filings, benefits,
+20 identification,andaccesstoservicesotherwiseconditionedonmaritalstatus.
+21 III. Nothing in this section shall be construed to classify contract marriage as a licensed
+22 marriage, nor shall it authorize application of family law, or of any legal standard, doctrine, or
+23 presumption derived from licensed marriage. This section shall not be construed to override any
+24 federal statute that requires licensed marriage for a specific benefit or administrative function, but
+25 anysuchexceptionshallapplyonlytotheminimumextentrequiredforfederalcompliance.
+26 IV. No obligation, benefit, presumption, or legal standard applicable to licensed marriage
+27 shall apply to a contract marriage unless explicitly stated in the agreement by the parties. This
+28 includes, but is not limited to, doctrines of equitable distribution, alimony, marital privilege, or
+29 implieddutiesofsupport.
+30 V. No provision of RSA 457, RSA 458, or any other law concerning family court jurisdiction,
+31 domestic relations, or matrimonial doctrine shall apply to a contract marriage absent specific
+32 contractual adoption. Any attempt to apply such laws shall be grounds for immediate dismissal or
+33 mandatorytransfertoadesignatedcivilcourtunderthischapter.
+34 VI. Allpublicandprivateactorsoperatingunderthejurisdictionofthisstateshallrecognize
+35 a duly filed CCM as conferring spousal status equivalent to that of licensed marriage for purposes of
+36 documentation, benefits, and legal identification, unless otherwise limited by federal law or express
+37 contractualexclusion.
+
+HB1615-FN-ASINTRODUCED
+-Page7-
+1 VII. Nothinginthischaptershallbeconstruedtolimitorcriminalizetherightofconsenting
+2 adults to initiate, propose, or enter into a contract marriage for any lawful purpose, regardless of its
+3 duration, prior relationship, or the nature of mutual obligations, provided all terms are voluntary
+4 andlawful.
+5 VIII. Nothing in this section shall be construed to authorize enforcement of any term
+6 relatingtochildcustody,visitation,orparentalstatusexceptaspermittedunderRSA457-B:10.
+7 IX. Nomarriagelicenseorotherformofstate-issuedauthorizationshallberequiredtoenter
+8 into, recognize, file, or enforce a contract marriage, certificate of contract marriage, or any other
+9 documentunderthischapter.
+10 457-B:8 Jurisdiction.
+11 I. All proceedings arising under this chapter shall be governed by the civil jurisdiction lock
+12 defined in RSA 457-B:1, III and shall lie exclusively in the civil courts of New Hampshire and shall
+13 beheardascivilmattersunderthejurisdictionof:
+14 (a) ThesuperiorcourtofNewHampshire;or
+15 (b) The circuit court, district division, if the matter falls within its monetary or
+16 procedurallimitsunderlaw.
+17 II. The circuit court, family division and circuit court, probate division shall have no
+18 jurisdiction over any dispute, breach, or dissolution of a contract marriage. Any conflict of
+19 jurisdictioninvolvingchildrenshallberesolvedinaccordancewithRSA457-B:10.
+20 III. No proceeding arising under this chapter shall be classified or adjudicated as a
+21 marriage, divorce, annulment, or domestic relations matter under RSA 457, RSA 458, or any related
+22 provisionoflaw.
+23 IV. Any action filed under this chapter in a court other than the designated civil court shall
+24 be transferred by the receiving court to the designated civil court. No court shall decline or refuse
+25 transferonthebasisofprocedurallimitations,jurisdictionaluncertainty,ordiscretion.
+26 V. Anyproceedingunderthischapterinwhichapartyorthecourtattemptstoapply:
+27 (a) Family law, including but not limited to RSA 457, RSA 458, RSA 461-A, RSA 490-D,
+28 orrelateddoctrines;or
+29 (b) Anylegalstandard, doctrine,or presumptionderived fromlicensed marriageshall be
+30 subject to mandatory correction by the court. Upon motion by either party, or on its own initiative,
+31 thecourtshallstrikeordisregardtheimproperstandardandproceedunderthischapterexclusively.
+32 Any such attempt made in bad faith shall be subject to appropriate sanctions, including but not
+33 limitedtocostsandattorney’sfees,asdeterminedbythedesignatedcivilcourt.
+34 VI. Venue for proceedings arising from this chapter shall follow the standard rules for civil
+35 actions within the state of New Hampshire, unless the contract marriage specifies another forum
+36 withinthestatebymutualconsent.
+
+HB1615-FN-ASINTRODUCED
+-Page8-
+1 VII. Jurisdiction over the interpretation, enforcement, dissolution, or any other legal matter
+2 arising from a contract marriage formed under this chapter shall lie exclusively with the courts of
+3 NewHampshire.
+4 (a) Any party who initiates or participates in legal action to interpret, enforce, or
+5 dissolve a contract marriage formed under this chapter in any court outside the jurisdiction of New
+6 Hampshire shall be deemed in violation of the jurisdictional terms of this chapter and shall forfeit
+7 anycontractualrights,remedies,orprotectionsconferredunderRSA457-B.
+8 (b) A forfeiture due to violation described in subparagraph (a) shall not affect or
+9 diminish the contractual rights, remedies, or protections of any non-violating party to the contract
+10 marriage.
+11 (c) Any judgment issued by a court outside New Hampshire that conflicts with the civil
+12 termsofacontractmarriageformedunderthischaptershallbedeemedanactofinterferencewitha
+13 contract formed under the laws of this state and shall be afforded no recognition or enforcement by
+14 anycourtoragencyoperatingunderthejurisdictionofNewHampshire.
+15 VIII. No party shall initiate, join, or maintain any legal action arising from a contract
+16 marriage under this chapter in any court, division, or legal framework outside those expressly
+17 designated herein. Any such action shall be subject to dismissal, and the initiating party shall
+18 forfeit any remedies, claims, or defenses under RSA 457-B with respect to the matter improperly
+19 filed. Thisincludes, but isnot limited to,anyactionseekingequitable, tort-based,or statutoryrelief
+20 arisingfromterms,obligations,ordisputesgovernedbythecontractmarriage.
+21 457-B:9 EnforcementandJudicialLimits.
+22 I. A duly executed contract marriage shall be presumed valid and enforceable unless proven
+23 otherwise by clear and convincing evidence. For the purposes of this section, clear and convincing
+24 evidenceshallbeconstruedinaccordancewiththejudiciallimitsdefinedinparagraphIII.
+25 II. Thecourtshallnot reform,modify,orinsertnewterms orprovisionsintothe4corners of
+26 thecontractmarriage,orrearrangetheexistingtermsandprovisionstherein.
+27 III. Judicialreviewshallbelimitedsolelytothefollowing:
+28 (a) Whetheraterm,onitsface,compelsanactcontrarytocriminalstatute;
+29 (b) Whethertheagreementwasenteredthroughboth:
+30 (1) A documented procedural defect or omission sufficient to demonstrate
+31 deprivationofcontractualunderstanding;and
+32 (2) Substantive terms rendered unenforceable due to active concealment, duress, or
+33 materialmisrepresentationatthetimeofexecution;
+34 (c) Whethertheagreementviolatesafundamentalconstitutionalright.
+35 IV. The court shall not consider equity or public policy not explicitly enumerated in this
+36 chapter.
+37 V. AnytermnotfoundunlawfulunderparagraphIIIshallbeenforcedaswritten.
+
+HB1615-FN-ASINTRODUCED
+-Page9-
+1 VI. Evidence presented in any proceeding under this chapter shall be limited to the written
+2 terms of the contract marriage, the filed CCM (if any), and any documents expressly referenced
+3 therein, unless required to establish fraud, duress, or violation of law. No party may introduce
+4 extrinsicevidencetoimplyduties,expectations,orobligationsnotexpresslystatedinthecontract.
+5 457-B:9-a Remedies.
+6 I. The following remedies may be granted by the designated civil court for breach of a
+7 contract marriage, provided such remedies are consistent with the terms of the contract marriage
+8 anddonotcompelunlawfulconduct:
+9 (a) Monetarydamages;
+10 (b) Restitution;
+11 (c) Injunctive relief, including negative injunctions directing a party to refrain from
+12 specificconduct;
+13 (d) Terminationofthecontractmarriageinaccordancewithitsownterms;
+14 (e) Any other lawful remedy not inconsistent with this chapter provided such remedy
+15 doesnotinvokefamilylawdoctrinesorequitableconsiderationsbarredunderRSA457-B.
+16 II. Where a party has violated a term of the contract marriage involving non-monetary
+17 conduct, the designated civil court shall issue an injunction prohibiting the continuation or
+18 repetition of the conduct that constituted the breach, unless the contract marriage specifies an
+19 alternativeremedythatisbothvalidandenforceableunderthischapter. Suchinjunctivereliefshall
+20 betheprimaryremedyforbreachesinvolvingconductgovernedbyaprotectedconditionorrelational
+21 expectation as defined in RSA 457-B:1, and shall not be superseded by monetary damages except
+22 where the breach consists solely of a financial obligation. Such injunctions may prohibit ongoing
+23 conduct or prevent reasonably anticipated violations, including where the breach has not yet
+24 occurredbutisclearlythreatenedorimminent.
+25 III. No court shall order reformation, modification, or substitution of contractual terms not
+26 expressly found within the contract marriage. Any attempt to alter the terms of the contract
+27 marriagebyjudicialdiscretionshallbedeemedvoid.
+28 IV. Noremedyshallbegrantedthathasbeenexpresslydisclaimedinthecontractmarriage.
+29 V. Rescission shall not be available as a judicial remedy unless the contract marriage
+30 expresslyprovidesforit.
+31 457-B:10 ChildWelfare.
+32 I. Nothing in this chapter shall be interpreted to affect existing child welfare or support
+33 obligationsunderstateorfederallaw.
+34 II. The family division may exercise jurisdiction solely to enforce child support or ensure
+35 welfareprotections.
+
+HB1615-FN-ASINTRODUCED
+-Page10-
+1 III. All other provisions of the contract marriage shall remain enforceable in the designated
+2 civil court, including optional clauses related to education, medical decisions, or parenting
+3 agreements,providedtheydonotconflictwithapplicablelaw,includingRSA461-AandRSA169-C.
+4 IV. No clause shall be construed to create or modify legal custody, visitation rights, or
+5 parentalstatusunlessadjudicatedbyacourtofcompetentjurisdiction.
+6 V. The family division shall retain jurisdiction to modify any child support, custody, or
+7 parental responsibility order originally entered under RSA 490-D, including after conversion of a
+8 licensedmarriagetoacontractmarriagepursuanttoRSA457-B:11.
+9 457-B:11 ConversionofLicensedMarriage.
+10 I. Spouses party to a licensed marriage may, within 12 months of the effective date of this
+11 chapter,jointlyexecuteaCCMandadeclarationofconversion.
+12 II. Upon filing such documents with the department of state, the licensed marriage shall be
+13 deemed voluntarily and administratively dissolved for all state law purposes, without judicial
+14 proceedings,andimmediatelyreplacedbyacontractmarriagegovernedexclusivelybythischapter.
+15 III. No adjudication of divorce, legal separation, or annulment shall be required, and no
+16 presumption of ongoing rights, duties, or obligations shall arise from the dissolved licensed
+17 marriage,exceptasexpresslypreservedbythetermsofthenewcontractmarriage.
+18 IV. This section shall not affect any existing child support orders, child welfare obligations,
+19 orotherongoinglegalproceedingsunrelatedtothemaritalcontractitself.
+20 (a) Jurisdiction over child-related matters, including custody, visitation, and support,
+21 whether existing or arising after conversion, shall remain exclusively with the family division as
+22 providedinRSA490-Dandapplicablechildwelfarestatutes,consistentwithRSA457-B:10.
+23 (b) The conversion of a licensed marriage to a contract marriage shall have no effect on
+24 existing parenting plans, custody arrangements, or judicial authority exercised under RSA 461-A
+25 regardingparentingandchild-relatedmatters.
+26 (c) All rights and obligations pertaining to the care, custody, and support of children
+27 shall remain subject to applicable law, and may not be modified by the terms of the contract
+28 marriageexceptaspermittedunderRSA 457-B:10.
+29 (d) Nothing in this subsection shall be construed to limit the lawful authority of the
+30 familydivisionoverchild-relatedmatters.
+31 V. No cause of actionshall arise under RSA 458or related doctrines as a result of a licensed
+32 marriage dissolved pursuant to this section, except where a judicial proceeding for divorce or legal
+33 separationwasalreadycommencedpriortothefilingofthedeclarationofconversion.
+34 VI. Upon filing of a valid declaration of conversion and CCM, the state shall update its vital
+35 records within 10 business days to reflect that the parties’ licensed marriage has been dissolved for
+36 statelawpurposesasofthedateoffiling.
+
+HB1615-FN-ASINTRODUCED
+-Page11-
+1 VII. Such dissolution shall carry the same legal effect as an annulment for purposes of
+2 terminating spousal status under RSA 457 and any other applicable statute, without requiring
+3 judicialproceeding.
+4 VIII. Uponreceiptand filingof boththeCCMand declarationof conversion,thedepartment
+5 ofstateshall:
+6 (a) Record the administrative dissolution of the parties’ licensed marriage in the state’s
+7 vitalrecords;
+8 (b) Remove or update anyprior entry indicatingthat theparties are married under RSA
+9 457orRSA458;
+10 (c) Issue a notice of administrative dissolution to the parties, confirming that their
+11 licensedmarriagehasbeendissolvedforstatelawpurposesasofthedateoffiling.
+12 Noadditionalreview,investigation,orverificationshallberequired,andthedepartmentofstate
+13 shallactsolelyonthefaceoftheproperlyfileddocuments.
+14 457-B:12 CertificateofContractMarriage.
+15 I. A certificate of contract marriage may be filed with the department of state. Filing is
+16 permissiveandshallnotberequiredforenforceabilityofacontractmarriage.
+17 II. The CCM shall serve as presumptive administrative evidence that a valid contract
+18 marriage has been formed under this chapter. No additional filing, approval, or judicial action shall
+19 berequiredforrecognition.
+20 III. TheCCMshallcontainonlythefollowingfieldsandlanguage,allofwhicharerequired:
+21 (a) Fulllegalnamesoftheparties;
+22 (b) Dateofexecutionoftheunderlyingcontractmarriage;
+23 (c) A declaration stating: “The parties named herein have entered into a contract
+24 marriage governed by RSA 457-B, enforceable solely under the laws of civil contract, and not subject
+25 toRSA457orRSA458.”;
+26 (d) Signaturesoftheparties;
+27 (e) Signatureofonenotarypublicor2unrelatedadultwitnesses;
+28 (f) Currentmailingaddress,phonenumber,andemailaddressforeachparty;
+29 (g) Current mailing address, phone number, and email address for each notary or
+30 witness.
+31 IV. No agency, court, or third party operating under the jurisdiction of this state shall
+32 require additional statements, disclosures, disclaimers, or jurisdictional references as a condition of
+33 filingorrecognition.
+34 V. Any CCM that faithfully reproduces all required fields and language listed in paragraph
+35 III,withoutmaterialdeviation,shallbeconsideredvalid.
+
+HB1615-FN-ASINTRODUCED
+-Page12-
+1 VI. AfiledCCMshallbedeemedsufficientproofofspousalstatusandmayberelieduponby
+2 any state agency, court, or third party in the same manner as a marriage license, without
+3 reclassifyingtherelationshipunderRSA457orRSA458,unlessotherwiselimitedbyfederallaw.
+4 VII. The CCM shall have no bearing on the effective date of the underlying contract
+5 marriage,whichshallbedeterminedsolelybythetermsoftheagreement.
+6 VIII. No agency, court, or public actor shall impose any requirement, delay, or modification
+7 beyondthescopeofthissectionunlessexpresslyrequiredbyfederallaw.
+8 457-B:13 DeclarationofConversionRequirements.
+9 I. The declaration of conversion shall serve as presumptive evidence that the parties have
+10 voluntarily dissolved their licensed marriage and entered into a contract marriage governed by this
+11 chapter.
+12 II. The declaration of conversion shall contain only the following fields and language, all of
+13 whicharerequired:
+14 (a) Fulllegalnamesoftheparties;
+15 (b) Dateofexecutionoftheunderlyingcontractmarriage;
+16 (c) A declaration stating: “The parties named herein hereby agree to dissolve their
+17 licensed marriage for state law purposes and replace it with a contract marriage governed
+18 exclusivelybyRSA457-B.”;
+19 (d) Signaturesoftheparties;
+20 (e) Signatureofonenotarypublicor2unrelatedadultwitnesses;
+21 (f) Currentmailingaddress,phonenumber,andemailaddressforeachparty;
+22 (g) Current mailing address, phone number, and email address for each notary or
+23 witness.
+24 III. No additional filing, court proceeding, or official act shall be required to effectuate the
+25 dissolution of the licensed marriage and recognition of the contract marriage, provided the
+26 declarationofconversionandCCMareproperlyfiled.
+27 IV. No agency, court, or public actor shall impose any requirement, delay, or modification
+28 beyondthescopeofthissectionunlessexpresslyrequiredbyfederallaw.
+29 457-B:14 RevocationofCertificateofContractMarriage.
+30 I. If a CCM has been filed pursuant to RSA 457-B:12, and the underlying contract marriage
+31 is subsequently terminated or rendered void, both parties shall file a revocation notice of certificate
+32 of contract marriage with the department of state no later than 30 days from the effective date of
+33 termination or voiding as defined by the contract. If only one party is willing to sign the RNCCM,
+34 that party may instead file an affidavit attesting to the termination or voiding of the underlying
+35 contract marriage, accompanied by supporting documentation or a copy of the termination clause.
+36 The department of state shall treat such filing as provisional, subject to confirmation or rebuttal by
+37 theotherpartywithin30days.
+
+HB1615-FN-ASINTRODUCED
+-Page13-
+1 II. Upon receipt of avalid RNCCM, the department of stateshall revoke the CCM within 10
+2 business days. The revocation shall be administrative in nature and shall not constitute a review,
+3 validation, or interpretation of the underlying contract or its termination. Within 5 business days of
+4 receiving an RNCCM, the department of state shall notify both parties named in the CCM. No
+5 revocationshallbefinalizeduntilbothpartieshavebeennotifiedandthe10-business-dayrevocation
+6 periodhaselapsedwithoutobjection.
+7 III. The RNCCM shall serve solely as notice that a previously filed CCM is no longer in
+8 effect for public or administrative purposes. The filing or revocation of a CCM shall have no bearing
+9 on the legal formation, effective date, enforceability, or termination of the contract marriage itself,
+10 whichshallremaingovernedexclusivelybythetermsofthecontractmarriage.
+11 IV. The RNCCM shall contain only the following fields and language, all of which are
+12 required:
+13 (a) Fulllegalnamesoftheparties;
+14 (b) Dateofexecutionoftheunderlyingcontractmarriage;
+15 (c) A declaration stating: “The parties named herein hereby agree to revoke their
+16 previouslyfiledCertificateofContractMarriagepursuanttoRSA457-B.”;
+17 (d) Signaturesoftheparties;
+18 (e) Signatureofonenotarypublicor2unrelatedadultwitnesses;
+19 (f) Currentmailingaddress,phonenumber,andemailaddressforeachparty;
+20 (g) Current mailing address, phone number, and email address for each notary or
+21 witness.
+22 V. ARNCCMshallbevalidonlyifsignedbybothpartiesandeither:
+23 (a) Notarizedbyalicensednotarypublic;or
+24 (b) Signedinthepresenceof2unrelatedadultwitnesseswhoalsosignthenotice.
+25 VI. No agency, court, or public actor shall impose any requirement, delay, or modification
+26 beyondthescopeofthissectionunlessexpresslyrequiredbyfederallaw.
+27 457-B:15 InterstateRecognitionandAdvocacy.
+28 I. The attorney general, or their designated representative, shall advocate for contract
+29 marriage, as established under this chapter, to be recognized as a lawful and valid form of marriage
+30 for the purposes of interstate reciprocity, federal documentation, and administrative parity, to the
+31 fullextentpermittedbylaw.
+32 II. This shall include, but not be limited to, affirming the legal status of contract marriage
+33 whenever a federal agency, out-of-state authority, or other jurisdiction requests verification,
+34 classification,orauthenticationoftherelationshipunderthelawsofthisstate.
+35 III. Nothing in this section shall be construed to authorize reinterpretation, modification, or
+36 reclassification of contract marriage beyond the terms and limitations expressly provided by this
+37 chapter.
+
+HB1615-FN-ASINTRODUCED
+-Page14-
+1 457-B:16 EqualRecognitionbyPublicandRegulatedEntities.
+2 I. For all official purposes under the jurisdiction of this state, contract marriage shall be
+3 recognizedasequivalentinlegalstatustolicensedmarriage.
+4 II. Any business, organization, institution, or entity operating in this state that receives
+5 public funding, holds a state license, or claims a tax exemption or advantage under state law shall
+6 treat contract marriage and licensed marriage as equally valid forms of marital status for the
+7 purposesofpolicy,access,eligibility,benefits,accommodations,anddocumentation.
+8 III. Unequal treatment of contract marriage shall constitute a form of marital status
+9 discriminationunderRSA354-Aandanyotherapplicablenondiscriminationprovisions.
+10 IV. Nothing in this section shall be construed to limit a private entity’s ability to enforce
+11 internal standards or contractual terms, provided such enforcement does not result in unequal
+12 treatmentofpartiessolelyonthebasisofmarriagetype.
+13 457-B:17 ImplementationandAdministrativeLimitations.
+14 I. The department of state may publish standardized blank forms for the CCM, Declaration
+15 of Conversion, and RNCCM, provided such forms include only the exact content and field labels
+16 enumerated in RSA 457-B:12, RSA 457-B:13, and RSA 457-B:14, respectively. No additional text,
+17 explanatory language, disclaimers, headers, footers, or formatting cues shall be included. Use of
+18 suchformshallbestrictlyoptionalandshallhavenobearingonenforceability.
+19 II. Thedepartmentofstateshallnotpublish,issue,promote,endorse,ormakeavailableany
+20 filled-out examples, sample language, suggested phrasing, or other materials intended to serve in
+21 whole or in part as a template, model, guide, or recommendation for the contents of a contract
+22 marriage, CCM, or RNCCM. This prohibition shall apply regardless of disclaimers, example
+23 framing,orpurportedoptionality.
+24 III. No state agency shall promulgate regulations or guidance that may be construed to
+25 influence or encourage particular terms, structures, or provisions regarding contract marriages
+26 beyondthedisclosuresorwarningsexpresslyrequiredbystatute.
+27 IV. No agency or officer of the state shall promulgate rules, regulations, guidance, or
+28 proceduresthatalter,expand,restrict,orreinterpretthesubstantiveprovisionsofthischapter.
+29 V. Within30daysofthischapter’seffectivedate,thedepartmentofstateshallissuewritten
+30 notice to all clerks of court, family division personnel, and relevant state agencies advising them of
+31 the legal status, jurisdictional limits, and enforcement provisions applicable to contract marriage
+32 underthischapter.
+33 VI. Such notice shall include a summary of enforcement limits under RSA 457-B:7 through
+34 RSA457-B:9.
+35 457-B:18 Severability.
+36 If any provision of this chapter or its application is held invalid, the remaining provisions shall
+37 remainineffect.
+
+HB1615-FN-ASINTRODUCED
+-Page15-
+1 457-B:19 ControllingEffect.
+2 I. This chapter shall be construed as controlling in any matter involving the recognition,
+3 enforcement,orinterpretationofacontractmarriage.
+4 II. No law, rule, procedure, regulation, or common law doctrine shall override the terms of
+5 this chapter unless expressly required bythe Constitution of the United States or the constitution of
+6 NewHampshire.
+7 III. Theexistenceofanyotheragreementorcertificateshallnotaffecttheenforceabilityofa
+8 contractmarriage,exceptasmaybespecifiedwithinthetermsofthatcontractmarriage.
+9 IV. In the event of conflict between this chapter and any other provision of law, the
+10 provisionsofthischaptershallcontrol.
+11 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2634
+12/8/25
+HB1615-FN-FISCALNOTE
+ASINTRODUCED
+ANACT permittingconsenting adults to enter into contract-based marriage agreements as
+analternativetotherequirementofamarriagelicense.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable
+$3,800,000- Increasein Increasein
+Expenditures* $0
+$4,000,000 excessof excessof
+$310,000 $318,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 IndeterminableDecrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill establishes the Marriage Liberty Act proposing framework allowing consenting adults
+to enter into a contract-based marriage. These agreements would be governed solely by civil
+contract law and not subject tofamilylaw statutes. Additionally, thebill outlines the formation,
+enforceability, and dissolution of such contracts, including optional filing with the Secretary of
+State. Furthermore, the bill requires the Department of Justice to advocate for interstate and
+federal recognition of contract marriages and mandates equal treatment of contract and licensed
+marriagesbypublicandregulatedentities.
+The Secretary of State estimates a cost of $3.5 million to $4 million to develop and implement
+two new NH Vital Records Information Networks (NHVRIN) modules for filing and revoking
+contractmarriages. Thereisno associatedrevenue, asnofees arechargedfor filingor obtaining
+
+records. TheSecretaryofStateindicatesadditionalstaffingneedsareindeterminableandwould
+dependonthevolumeoffilings,whichwouldleadtoagreaterexpense.
+The Department of Justice (DOJ) states the fiscal impact is indeterminable due to the unclear
+scope of its advocacy responsibilities under the bill. However, the DOJ anticipates the need for
+atleastonenewattorneypositionintheCivilBureau,atacostof$137,000inFY2027,$138,000
+inFY2028,and$140,000inFY2029.
+The Judicial Branch indicates that this bill establishes a framework for contract-based marriage
+agreements and assigns jurisdiction over these civil contracts to the District Division of the
+Circuit Court or the Superior Court. Implementing this new case type would require training
+and support, including the addition of a Court Administrator overseeing both courts, at an
+estimatedcostof$169,161inFY2027,$172,617inFY2028,and$178,996inFY2029.
+The New Hampshire Municipal Association states there will be a minimal but indeterminable
+decrease in local revenue due to the potential reduction in the issuance of traditional marriage
+licenses.
+AGENCIESCONTACTED:
+Department of State, Department of Justice, Judicial Branch, and New Hampshire Municipal
+Association

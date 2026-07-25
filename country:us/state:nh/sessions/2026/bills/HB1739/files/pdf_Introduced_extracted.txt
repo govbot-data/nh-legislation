@@ -1,0 +1,229 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1739-FN-ASINTRODUCED
+2026SESSION
+26-2699
+06/08
+1739-FN
+HOUSEBILL
+ANACT relative to energy infrastructure, economic development, and workforce training
+forlarge-scaledatafacilities.
+SPONSORS: Rep. Salvi, Hills. 9; Rep. Gregg, Hills. 7; Rep. Spier, Hills. 6; Rep. Booras, Hills. 8;
+Rep. Kluger, Hills. 6; Rep. Chourasia, Hills. 11; Rep. Manohar, Hills. 9; Sen.
+Avard,Dist12
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes incentives, siting procedures, and regulatory requirements to attract data-
+center campuses and modernize the electric grid through non-gas generation, with enforceable
+agreementsandworkforcedevelopmentprovisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1739-FN-ASINTRODUCED
+26-2699
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to energy infrastructure, economic development, and workforce training
+forlarge-scaledatafacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewChapter;DATA-CENTERINVESTMENTSANDGRIDMODERNIZATION. AmendRSA
+2 162-Ubyinsertingafterchapter162thefollowingnewchapter:
+3 CHAPTER162-V
+4 DATA-CENTERINVESTMENTSANDGRIDMODERNIZATION
+5 162-V:1 Purpose. The purpose of this chapter is to attract large-scale data-center campuses to
+6 New Hampshire, modernize the electric grid through diversified non-gas generation, protect
+7 ratepayers from infrastructure costs, deliver local benefits, and strengthen workforce pipelines
+8 throughpartnershipswiththeuniversitysystemandcommunitycolleges.
+9 162-V:2 Definitions. Inthissubdivision:
+10 I. "Data-center campus" means a facility or group of facilities primarily engaged in data
+11 processing, storage, and transmission, with minimum capital investment, square footage, and job
+12 creationthresholdsestablishedbyrule.
+13 II. "Grid modernization agreement" or "GMA" means a binding agreement between a
+14 developer and the department of energy and public utilities commission that includes cost-sharing,
+15 energysourcing,andcommunitybenefitprovisions.
+16 III. "Non-gas generation" means electricity generated from nuclear, hydroelectric, solar with
+17 storage,wind,orgeothermalsources.
+18 162-V:3 Property-Tax Stabilization Agreements. Notwithstanding RSA 72:81, a municipality
+19 may offer a phased property-tax stabilization agreement or payment in lieu of taxes ("PILOT") for a
+20 qualifying data-center campus. The agreement may phase in full taxation over a period not to
+21 exceed 12 years. Eligibility criteria shall include minimum capital investment, facility size, and job
+22 creation thresholds, as defined by municipal vote and approved by the department of revenue
+23 administration.
+24 162-V:4 TransferableBusinessTaxCredit. Adeveloperofaqualifyingdata-centercampusshall
+25 beeligibleforatransferablecreditagainstthebusinessprofitstaxandbusinessenterprisetaxequal
+26 toapercentageofconstructioncosts,subjecttoastatewidecapof20percentofthetotalconstruction
+27 costs. The credit may be transferred to other New Hampshire taxpayers. The department of
+28 revenueadministrationshalladministerregistration,tracking,andtransferofcredits.
+
+HB1739-FN-ASINTRODUCED
+-Page2-
+1 162-V:5 Grid Modernization Agreement Required. As a condition of receiving any incentive
+2 under this chapter, a developer shall enter into a GMA with the department of energy and public
+3 utilitiescommission. TheGMAshallinclude:
+4 I. Fullpaymentofdirectinterconnectioncostsandadefinedshareofnetworkupgrades.
+5 II. Annualprocurementorfinancingofnon-gasgenerationequaltothefacility’sannualNew
+6 Hampshireload.
+7 III. Enrollmentingrid-stabilizingprograms,includingdemandresponse.
+8 IV. Enforcementmechanismsandclaw-backprovisions.
+9 162-V:6 Fast-TrackSiting. Thedepartment ofenergy, incoordinationwithmunicipalities, shall
+10 designate eligible industrial and brownfield zones for fast-track permitting. Projects sited in such
+11 zones shall be subject to expedited review, provided they comply with environmental standards and
+12 localzoning.
+13 162-V:7 Community Protections and Benefits. Developers shall enter into host-community
+14 agreements that include enforceable noise limits and setbacks, environmental justice screening, and
+15 residentbillcreditsfundedbynetrevenuesfromon-sitepowerexportedtothegrid.
+16 162-V:8 Workforce Development. Developers shall meet minimum job creation standards,
+17 including living wages and apprenticeship opportunities. Developers shall fund partnerships with
+18 the university system and community colleges to support certificate programs in data-center
+19 operations,powersystems,networking,andcybersecurity.
+20 162-V:9 Oversight and Enforcement. The public utilities commission and the department of
+21 energy shall oversee execution of GMAs, including compliance with cost-sharing, non-gas energy
+22 obligations,demand-responseparticipation,workforcecommitments,andenvironmentalstandards.
+23 2 New Paragraph; Data-Center Campus Development Credit. Amend 77-A:5 by inserting after
+24 paragraphXVIIthefollowingnewparagraph:
+25 XVIII. There shall be allowed a credit for qualifying data-center campus developers under
+26 RSA162-Vequal toapercentageof constructioncosts, subject toastatewidecap of20percent of the
+27 totalconstructioncosts.
+28 3 New Section; Data-Campus Development Credit. Amend 77-E by inserting after 3-f the
+29 followingnewsection:
+30 77-E:3-g Data-Campus Development Credit. There shall beallowed acredit for qualifying data-
+31 center campus developers under RSA 162-V equal to a percentage of construction costs, subject to a
+32 statewidecapof20percentofthetotalconstructioncosts.
+33 4 EffectiveDate. ThisactshalltakeeffectApril1,2026.
+
+LBA
+26-2699
+Revised1/5/26
+HB1739-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to energy infrastructure, economic development, and workforce training
+forlarge-scaledatafacilities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Decrease Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $270,000 $438,000 $457,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+Indeterminable Indeterminable Indeterminable
+LocalRevenue $0
+Increase Increase Increase
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill establishes incentives, siting procedures, and regulatory requirements to attract large-
+scale data-center campuses in New Hampshire. The bill allows municipalities to offer phased
+property-tax stabilization or PILOT agreements and creates a transferable business tax credit
+equal to a percentage of construction costs for qualifying data-center developers. The
+Department of Revenue Administration is required to administer registration, tracking, and
+transfer of the new credit and approve municipal eligibility criteria connected to local tax
+stabilizationagreements.
+The Department of Energy states this bill requires the Department to enter into and oversee
+grid modernization agreements with qualifying data center campuses as a condition of receiving
+
+tax incentives. These agreements include requirements related to cost sharing for grid
+upgrades, procurement of non gas generation, participation in grid stabilization programs,
+workforce commitments, and environmental standards. The Department states these
+responsibilities exceed its current scope of work and would require one full time utility analyst,
+one full time environmental engineer, and one full time attorney beginning January 1, 2027.
+These positions would be responsible for negotiating and monitoring grid modernization
+agreements, enforcing workforce and environmental commitments, and designating eligible
+industrial and brownfield zones for fast track permitting. The Department estimates the cost of
+these positions to be $154,000 in FY 2027 (part-year), $284,000 in FY 2028, and $297,000 in FY
+2029.
+PositionsRequestedbyDept.ofEnergy FY2027 FY2028 FY2029
+EnvironmentalEngineerx1 $46,000 $83,000 $87,000
+(17-2050CIVILENGINEERS-4-SOC17,payband5;step1)
+UtilityAnalystsx1 $59,000 $111,000 $116,000
+(13-1190MISCBUSOPSSPECS-7-SOC13,payband8;step1)
+Attorneyx1 $49,000 $90,000 $94,000
+(23-1010LAWYERS-4-SOC23,payband5;step1)
+TotalSalary,BenefitsandOperatingExpenses $154,000 $284,000 $297,000
+This bill does not provide funding or authorize the requested positions, and the Department
+states it does not have an existing funding source to support these costs, which would require a
+GeneralFundappropriation.
+The Department of Revenue Administration states this bill allows municipalities to offer phased
+property-tax stabilization agreements or PILOT agreements to data-center campuses that meet
+certain investment, square-footage, and job-creation thresholds. These thresholds must be
+“establishedbyrule,”butthebilldoesnotidentifywhichagencyisresponsibleforadoptingthose
+rules. The bill also requires municipal eligibilitycriteria to be approved by the Department, yet
+provides no standards for that approval. The Department notes that additional statutory
+guidance and explicit rulemaking authority would be needed if the Department is intended to
+defineorapproveeligibilitycriteriafordata-centercampuses.
+The bill also creates a new Data-Campus Development Credit (DCD credit) against the Business
+Profits Tax and Business Enterprise Tax. The credit is equal to a percentage of construction
+costs and subject to a statewide cap of 20 percent of total construction costs, and credits may be
+transferred to other New Hampshire taxpayers. The Department states it is unclear how the
+credit is intended to function, how the statewide cap is to be applied, or how transfers are to be
+managed. For purposes of analysis, the Department assumes a developer may claim up to 20
+percent of qualifying construction costs, limited by business tax liability, and may transfer the
+credit to any taxpayer paying business taxes in New Hampshire. The Department further
+
+assumes the credit may be taken against both business taxes independently and is not
+cascading. These assumptions require clarification. The Department states the fiscal impact of
+the DCD credit would be an indeterminable decrease in General Fund and Education Trust
+Fund revenues, because business taxpayers using the credit would reduce their BPT and BET
+liabilities. The Department is unable to estimate the decrease because it lacks information
+regarding how many data-center campuses may qualify, the value of construction expenditures,
+ortheextenttowhichcreditsmaybetransferredandfullyutilized.
+The Department also explains that the bill requires the Department to administer registration,
+tracking, and transfer of credits, which has not previously been done for any business tax credit.
+To implement this requirement, the Department would need to modify its revenue information
+management system (RIMS) to create a registry capable of recording earned credits and
+subsequent transfers. Paper processes and manual intervention may be necessary for non-
+electronic filers and for adjustments arising from amended returns or audits. Rulemaking
+authority would be required to fully implement this structure and clearly establish the audit
+responsibilities of both credit earners and credit purchasers. To administer the credit, the
+Department requires two Tax Examiner III positions beginning January 1, 2027. The cost for
+thesepositionsis$76,000inFY2027(part-year),$154,000inFY2028,and$160,000inFY2029,
+plus$40,000inone-timeprogrammingcosts.
+The Department further states that the fiscal impact of the proposed local property-tax
+agreements would be an indeterminable increase in local revenues, and potentially also in local
+andcountyexpenditures. Totheextentthatdata-center campusesaredeveloped, municipalities
+may see increased property-tax base while also necessitating provisions for new or expanded
+localandcountyservices.
+TheDepartmentalsonotesthatthebill’seffectivedateofApril1,2026appearsintendedtoalign
+with the property-tax year, but does not align with typical business-tax filing periods. The
+Department suggests that separate applicability language may be needed for the DCD credit to
+clarifywhenitmayfirstbeclaimed.
+The Public Utilities Commission states this bill will not result in a fiscal impact to the
+Commission. The Commission explains that although the bill assigns oversight responsibilities
+relating to grid modernization agreements and non-gas generation commitments, these duties
+fallwithinitsexistingregulatoryframeworkandcanbecompletedusingcurrentresources.
+The New Hampshire Municipal Association (NHMA) states this bill will have an indeterminable
+impact on municipalities. NHMA explains that data-center projects may involve substantial
+electricity usage, water demand, and infrastructure strain, which could increase local utility
+costs or require system upgrades. The Association notes that water usage is not addressed in
+
+the bill and could lead to significant future municipal expenses. NHMA states that allowing
+municipalities to offer phased property-tax stabilization agreements or PILOTs would shift the
+property-tax burden within a community. Municipalities may also incur administrative costs
+related to negotiating tax stabilization agreements, host-community agreements, and
+coordinating with the Department of Energy on designating eligible industrial and brownfield
+zones for fast-track permitting. NHMA is unable to estimate local revenue or expenditure
+impactsbecausetheeffectsdependonthelocation,scale,andnumberofprojects.
+AGENCIESCONTACTED:
+Department of Energy, Department of Revenue Administration, Public Utilities Commission,
+andNewHampshireMunicipalAssociation

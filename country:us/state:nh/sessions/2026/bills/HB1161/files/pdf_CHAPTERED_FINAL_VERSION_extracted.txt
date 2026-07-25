@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER83
+HB1161-FINALVERSION
+2026SESSION
+26-2653
+12/06
+1161
+HOUSEBILL
+ANACT removing the requirement for municipalities to have an advisory board for
+developmentdistricts.
+SPONSORS: Rep.Hicks,Merr.24;Rep.Colby,Merr.9;Rep.Fracht,Graf.16;Rep.Girard,Sull.6
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the requirement that legislative bodies of municipalities establish an advisory board
+foreachdevelopmentdistrictandinsteadpermitsthecreationofsuchboards.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER83
+HB1161-FINALVERSION
+26-2653
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removing the requirement for municipalities to have an advisory board for
+developmentdistricts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 83:1 Advisory Board; Development Districts; Requirement Removed. Amend the section heading
+2 andRSA162-K:14,Itoreadasfollows:
+3 162-K:14 OptionalAdvisoryBoard.
+4 I. The legislative body of the municipality [shall] may,inthesamemannerasthechapteris
+5 adoptedpursuanttoRSA162-K:1,create an advisory board for each development district that ensures
+6 fair representation of business and community interests. The board shall consist of such number of
+7 members appointed or elected as determined by the legislative body. A majority of members shall be
+8 ownersoroccupantsofrealpropertywithinthecommunityandatleastonemembershallbeanowneror
+9 occupant of real property within the development district. In a substantially residential development
+10 district, however, the board shall consist solely of owners or occupants of real property within the
+11 community and at least one member shall be an owner or occupant of real property within the
+12 developmentdistrict.
+83:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May22,2026
+EffectiveDate:July21,2026

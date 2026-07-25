@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1536-FN-ASINTRODUCED
+2026SESSION
+26-2595
+04/09
+1536-FN
+HOUSEBILL
+ANACT establishing penalties for unauthorized parking in designated electric vehicle and
+motorcyclespaces.
+SPONSORS: Rep.Miller,Straf. 21;Rep. Giasson,Hills. 29;Rep.St. Clair,Belk. 5;Sen. Fenton,
+Dist10
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits non-conforming vehicles from stopping, standing, or parking in a parking
+spaceproperlydesignatedforanelectricvehicle,moped,ormotorcycle.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1536-FN-ASINTRODUCED
+26-2595
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing penalties for unauthorized parking in designated electric vehicle and
+motorcyclespaces.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Stopping, Standing or Parking Prohibited in Specified Places; Electric Vehicles; Mopeds of
+2 Motorcycles. AmendRSA265:69,I(m)toreadasfollows:
+3 (m) In or overlapping into any access aisle. Notwithstanding the provisions of title LXII
+4 or any other provision of law, a person who violates the provisions of this subparagraph shall be
+5 finedaminimumof$100forafirstoffenseandaminimumof$200foreachsubsequentoffense;
+6 (n) In any parking place, whether on public or private property, specially
+7 designated for an electric vehicle by means of a sign affixed to a post or a building, clearly
+8 visible to anyone directly approaching that particular parking place, meeting the Manual
+9 on Uniform Traffic Control Devices for Streets and Highways (MUTCD) requirements to
+10 show that the space is reserved for electric vehicle charging, unless the vehicle is being
+11 actively charged. Notwithstanding the provisions of title LXII or any other provision of
+12 law, a person who violates the provisions of this subparagraph shall be fined a minimum
+13 of$62ofwhich20percentispayabletothetownorcitywheretheviolationoccurred;
+14 (o) In any parking place, whether on public or private property, specially
+15 designated for a moped or motorcycle by means of a sign affixed to a post or a building,
+16 clearly visible to anyone directly approaching that particular parking place, meeting the
+17 MUTCD requirements to show that the space is reserved for moped or motorcycle parking,
+18 unless the vehicle is a moped as defined by RSA 259:57 or motorcycle as defined by RSA
+19 259:63. Notwithstanding the provisions of title LXII or any other provision of law, a person
+20 who violates the provisions of this subparagraph shall be fined a minimum of $62 of which
+21 20percentispayabletothetownorcitywheretheviolationoccurred.
+22 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2595
+12/2/25
+HB1536-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing penalties for unauthorized parking in designated electric vehicle and
+motorcyclespaces.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableIncrease
+RevenueFund(s) HighwayFund
+Expenditures* $0 $116,000 $0 $0
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,costs
+associatedwiththecollection/administrationofhighwayfundrevenuebythe
+FundingSource(s)
+DepartmentofSafetyisdeductedpriortofundsbeingcreditedasunrestricted
+highwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 IndeterminableIncrease
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill prohibits non-conforming vehicles from stopping, standing, or parking in a parking
+space properly designated for an electric vehicle, moped, or motorcycle, and establishes a
+minimum fine of $62, with 20% of the fine going to the local municipality where the violation
+occurred, and the remaining amount assumed to be credited to the state highway fund. The
+Department of Safety states it would incur a one-time system change cost of $116,000 to
+implement the provisions of this bill. As the number of violations cannot be predicted, this bill’s
+revenueimpactonthestatehighwayfundandlocalgovernmentscannotbeestimated.
+AGENCIESCONTACTED:
+DepartmentofSafety

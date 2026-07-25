@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1198-FN-ASINTRODUCED
+2026SESSION
+26-2772
+08/07
+1198-FN
+HOUSEBILL
+ANACT establishingthepaintproductstewardshipprogram.
+SPONSORS: Rep. Ebel, Merr. 7; Rep. J. Aron, Sull. 4; Rep. Burroughs, Carr. 2; Rep. Spier,
+Hills.6;Rep.Thackston,Ches.12;Rep.Creighton,Hills.30;Rep.Bixby,Straf.13;
+Rep. Leishman, Hills. 33; Rep. M. Murray, Hills. 37; Sen. Rosenwald, Dist 13;
+Sen.Watters,Dist4;Sen.Pearl,Dist17;Sen.Avard,Dist12
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesthepaintproductstewardshipprogram.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1198-FN-ASINTRODUCED
+26-2772
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingthepaintproductstewardshipprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Paint Product Stewardship Program. Amend RSA 149-M by inserting after
+2 section64thefollowingnewsubdivision:
+3 PaintProductStewardshipProgram
+4 149-M:65 Definitions. Inthissubdivision:
+5 I. "Aerosol coating product" means a pressurized coating product containing pigments or
+6 resins dispensed by means of a propellant and packaged and sold in a disposable aerosol container
+7 for hand-held application, or for use in specialized equipment for ground traffic or marking
+8 applications.
+9 II. "Architectural paint" means interior and exterior architectural coatings sold in
+10 containersof5gallonsorless.
+11 III. "Collection site" means any location or event at which paint is accepted into a
+12 postconsumer paint stewardship program pursuant to a postconsumer paint stewardship program
+13 plan.
+14 IV. "Department"meansthedepartmentofenvironmentalservices.
+15 V. "Environmentally sound management practices" means procedures for the collection,
+16 storage, transportation, reuse, recycling, energy recovery, and disposal of paint, that comply with all
+17 applicable federal, state and local laws, including adequate record keeping, tracking and
+18 documentingofthefinaldispositionofmaterials.
+19 VI. "Postconsumerpaint"meanspaintnotusedandnolongerwantedbyapurchaser.
+20 VII. "Manufacturer" means manufacturer of a paint product who sells, offers for sale, or
+21 distributesthepaintproductinthestateunderthemanufacturer’sownnameorbrand.
+22 VIII. "Paint or paint product" means architectural paint, aerosol coating products, and
+23 additional products as defined in an approved program plan. “Paint” or “Paint product” shall not
+24 includeindustrialororiginalequipmentcoatings.
+25 IX. "Program" means a postconsumer paint stewardship program established pursuant to
+26 RSA149-M:66.
+27 X. "Representative organization" means a nonprofit organization established by a
+28 manufacturertoimplementapostconsumerpaintstewardshipprogram.
+29 XI. "Retailer" means a company that offers paint or other allied products for retail sale in
+30 thestate.
+31 149-M:66 PaintProductStewardshipProgramPlan.
+
+HB1198-FN-ASINTRODUCED
+-Page2-
+1 I. A manufacturer of paint sold at retail in New Hampshire, or representative organization,
+2 shall submit to the commissioner a plan for the establishment of a postconsumer paint product
+3 stewardshipprogramtocoverpaintproductsasdefinedinRSA149-M:65. Additionalpaintproducts
+4 maybeproposedinasubsequentprogramplaninconsultationwiththedepartment.
+5 II. Aplansubmittedtothedepartmentunderthissectionshall:
+6 (a) Providealistofparticipatingmanufacturersandbrandscoveredbyaprogram.
+7 (b) Provideinformationonthepaintproductscoveredbytheprogram.
+8 (c) Describe how paint products covered by a program will be managed using
+9 environmentallysoundmanagementpractices.
+10 (d) Describeeducationandoutreacheffortstoinformconsumersaboutaprogram.
+11 (e) Describe the assessment added to each unit of paint product sold or transferred for
+12 retailsaleortothepublicinNewHampshireasaresultofaprogram.
+13 III. Participation as a collection site is voluntary. A retailer or political subdivision that
+14 agrees to comply with any requirements that are consistent with the stewardship plan may request
+15 inwritingtoparticipateinthestewardshipplanasanapprovedcollectionsite.
+16 IV. A manufacturer may, individually or through a stewardship organization, suspend or
+17 terminateuseofanapprovedcollectionsitethatdoesnotcomplywithallapplicablestate,federal,or
+18 municipal laws and regulations or adhere to the rules and conditions imposed by the stewardship
+19 organization.
+20 149-M:67 PlanSubmissionandApproval.
+21 I. A plan required by RSA 149-M:66 shall be submitted within 12 months of the effective
+22 date of this subdivision. The department may extend the time for submission of the plan for cause
+23 shown. A manufacturer or representative organization may propose an update to an approved
+24 programplanbysubmittingarevisedprogramplanasdescribedinRSA149-M:66.
+25 II. Not later than 90 days after submission of a plan under this section, the department
+26 shall approve a plan submitted in accordance with RSA 149-M:66 and send written notification of
+27 such approval to the organization that submitted the plan upon determining that the organization
+28 submittingtheplan fulfilledtherequirementsofRSA149-M:66,II.
+29 III. If the department does not approve the plan, the department shall provide written
+30 notification to the organization that submitted the plan of the reason for the denial. Such denial
+31 shallnotprecludetheorganizationfromsubmittinganamendedplan.
+32 149-M:68 SaleofPaint. Uponthedateofimplementation:
+33 I. Amanufacturer or retailer shall not sell, or offer for sale, a paint product toany person in
+34 New Hampshire unless the manufacturer or manufacturer’s representative organization is
+35 implementinganapprovedprogramplanasrequiredbyRSA149-M:66.
+36 II. A retailer shall be in compliance with this section if, on the date the paint product was
+37 offered for sale, the manufacturer is listed on the department’s website as implementing or
+
+HB1198-FN-ASINTRODUCED
+-Page3-
+1 participating in an approved program plan, or if the paint brand is listed on the department’s
+2 websiteasbeingincludedintheprogram.
+3 III. A paint collection site authorized under the provisions of this section shall not charge
+4 anyadditionalamountforthemanagementofpaintwhenitisofferedforcollection.
+5 IV. Each manufacturer, distributor, and retailer shall include the per-container assessment
+6 amount set forth in an approved plan in the purchase price of any paint product sold in or into New
+7 Hampshire.
+8 149-M:69 AnnualReport.
+9 I. A manufacturer or representative organization implementing an approved program plan
+10 under this subdivision shall submit a report annually to the commissioner that details the program
+11 inaccordancewiththeprogramplanrequirements.
+12 II. Thefirstannualreportshallbedue120daysaftercompletionofthefirstyearofprogram
+13 implementation, and in no case later than 18 months from the date the plan was approved.
+14 Thereafter,annualreportsshallbesubmittedwithin120daysaftertheendofeachcalendaryear.
+15 149-M:70 LiabilityandDisclosure.
+16 I. A manufacturer or representative organization implementing or participating in a
+17 programshallbeexemptfromRSA356withrespecttoanyclaimofaviolationofantitrust,restraint
+18 of trade, unfair trade practice, or other anticompetitive conduct arising from conduct undertaken in
+19 accordancewithaprogram.
+20 II. Financial, production, or sales data reported to the department by a manufacturer or by
+21 the representative organization is not a public record pursuant to RSA 91-A:5, IV and rules adopted
+22 by the department pursuant thereto and shall not be subject to public inspection or disclosure. The
+23 commissioner may release a summary form of such data that does not disclose financial, production
+24 orsalesdataofthemanufacturer,retailerorrepresentativeorganization.
+25 149-M:71 AdministrativeReimbursement.
+26 I. Manufacturers and stewardship organizations shall collectively pay the department’s
+27 reasonably incurred administrative costs related to implementing this chapter. The timing and
+28 amountofadministrativepaymentsshallbedeterminedinconsultationwiththedepartment.
+29 II. No later than 90 days before a stewardship plan is required to be submitted to the
+30 department, the department shall notify each manufacturer acting individually and each
+31 representative organization of its reasonably incurred administrative costs related to implementing
+32 this chapter. This shall include reasonable actual costs associated with rulemaking and other
+33 startupactivitiesbeforethestewardshipplanissubmittedandapproved.
+34 149-M:72 Implementation. Aprogramplanshallbeimplementedwithin6monthsofthedateof
+35 approvalbythedepartment. The departmentmayextend thedateof implementationfor good cause
+36 shown. ThedepartmentmayadoptrulesunderRSA541-Atoimplementtheprogram.
+37 49-M:73 PostconsumerPaintfromHouseholdsandSmallBusinesses.
+
+HB1198-FN-ASINTRODUCED
+-Page4-
+1 I. Postconsumer paint that isotherwisedefined as hazardous wastebyRSA147-Aand rules
+2 adopted by the department pursuant thereto, and that is received at a collection site, shall be
+3 managedasuniversalwasteinaccordancewithrulesestablishedbythedepartment.
+4 II. Any person who agrees to operate a collection point and who responsibly implements
+5 environmentally sound management practices in good faith shall not be subject to penalties for the
+6 acceptance or storage of, or for any spill, leak, or discharge of collected paint, or other materials that
+7 areinadvertentlyacceptedpursuanttotheprogram,andwhichoccursdespitetheimplementationof
+8 suchpractices.
+9 III. Nothing in this section shall be construed as restricting the collection of postconsumer
+10 paint by a stewardship program where such collection is authorized under any other laws or
+11 regulations.
+12 IV. Nothing in this section shall be construed to affect any requirements applicable to
+13 facilitiesthattreat,disposeof,orrecyclepostconsumerpaintproductsunderanotherwiseapplicable
+14 law,rule,orregulation.
+15 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2772
+11/4/25
+HB1198-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingthepaintproductstewardshipprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $49,000 $48,500 $50,500
+RevenueFund(s) SolidWasteManagementFund
+Expenditures* $0 $49,000 $48,500 $50,500
+FundingSource(s) SolidWasteManagementFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable
+LocalExpenditures $0 $0 Decrease Decrease
+($150,000+) ($150,000+)
+METHODOLOGY:
+This bill would amend RSA 149-M to create a paint stewardship program, managed by
+manufacturers or a representative organization, which would submit a plan to the Department
+of Environmental Services detailing collection, management, funding through fees, and site
+distribution. The Department would oversee rulemaking, plan reviews, regulatory enforcement,
+and evaluation, with administrative costs reimbursed annually by manufacturers through a fee
+paidtotheSolidWasteManagementFund.
+The Department estimates implementing this bill would require hiring a part-time
+Environmentalist IV (SOC 19, Band 8) for approximately 20 hours per week, starting July 1,
+2026, with an expense for salary and position costs of $49,000 for FY 2027, $48,500 for FY 2028,
+and $50,500 for FY 2029 to handle rulemaking and startup activities. It is assumed the
+
+expenditures in FY 2028 and FY 2029 would be included in the Department's FY 2028 and FY
+2029 budget requests. Additionally, the costs for this position are expected to be fully covered
+by administrative fees paid by manufacturers or a representative organization and reflected in
+theincreaseinSolidWasteManagementFundrevenueabove.
+The Department also states the impact to local expenditures is an indeterminable decrease of at
+least $150,000 per a year, starting in FY 2028, for reduced expenditures in waste paint
+management as these costs would shift to the paint stewardship program. While data on
+municipal solid waste paint disposal costs are unavailable, the Department has some data on
+household hazardous waste (HHW) paint management. In FY 2024, invoices from HHW
+collection events show municipalities spent at least $150,000 on paint disposal. This figure is
+incomplete, as it onlyincludes municipalities reimbursed throughtheDepartment's HHW Grant
+Program, and some invoices combine costs, making it difficult to calculate paint-specific
+expenses. Despite these gaps, the total statewide cost is likely to be much higher, however
+$150,000servesasabaselineforpotentialsavingsunderthisbill.
+ItisassumedthatanyfiscalimpactwilloccurafterFY2026.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices

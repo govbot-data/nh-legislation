@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1089 -ASINTRODUCED
+2026SESSION
+26-2532
+04/09
+1089
+HOUSEBILL
+ANACT extending the authorization of the department of environmental services for the
+evaluationandmitigationofnewcommunitywatersystemcontaminationrisks.
+SPONSORS: Rep.Donnelly,Rock.25
+COMMITTEE: Resources,RecreationandDevelopment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill extends the authorization of the department of environmental services for the
+evaluationandmitigationofnewcommunitywatersystemcontaminationrisks.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1089-ASINTRODUCED
+26-2532
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT extending the authorization of the department of environmental services for the
+evaluationandmitigationofnewcommunitywatersystemcontaminationrisks.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DrinkingWater;ContaminationReview. AmendRSA485-C:26toreadasfollows:
+2 The department shall adopt rules pursuant to RSA 541-A specifying criteria and procedures to
+3 ensure a groundwater withdrawal less than 57,600 gallons over any 24-hour period from a new
+4 source of water for a community water system as defined by RSA 485:1-a and subject to RSA 485:8
+5 does not cause an unmitigated impact to an existing private water supply well in accordance with
+6 RSA485-C:21,V-c(a),RSA485-C:21,V-c(j),orRSA485-C:21,V-c(c).
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

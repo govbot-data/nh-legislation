@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1620-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0936h
+2026SESSION
+26-2380
+08/06
+1620
+HOUSEBILL
+ANACT requiring the removal of residential heating oil underground after 12 consecutive
+monthsofnon-useexceptincertaincircumstances.
+SPONSORS: Rep. Perez, Rock. 16; Rep. Andrus, Merr. 5; Rep. Dunn, Rock. 16; Rep. Manos,
+Rock.12
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the removal of residential heating oil underground if a change in the heating
+system removes it from use or if the owner does not intend to use it in the future except in certain
+circumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1620-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0936h 26-2380
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the removal of residential heating oil underground after 12 consecutive
+monthsofnon-useexceptincertaincircumstances.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSubdivision;ResidentialHeatingOilUndergroundStorageTanks. AmendRSA146-Aby
+2 insertingaftersection19thefollowingnewsubdivision:
+3 ResidentialHeatingOilUndergroundStorageTanks
+4 146-A:20 Underground Storage Tank; Definition. In this subdivision, “residential heating oil
+5 underground storage tank” means an underground storage tank used solely for heating a residential
+6 building.
+7 146-A:21 RemovalRequired.
+8 I. Except as provided in RSA 146-A:21, II, a residential heating oil underground storage
+9 tankshallberemoved,inaccordancewithstatefirecodeasdefinedbyRSA153:1,VI-a,ifachangein
+10 theheatingsystemremovesitfromuseoriftheownerdoesnotintendtouseitinthefuture.
+11 II. A residential heating oil underground storage tank, required to be removed under this
+12 section, may be permanently abandoned by closure in-place, in accordance with state fire code as
+13 defined by RSA 153:1, VI-a, if removing the system would undermine the integrity of any overlying
+14 structure.
+15 III. A discharge of oil discovered during the removal or closure in-place of a residential
+16 heatingoilundergroundstoragetankissubjecttoRSA146-A:4andRSA146-A:5.
+17 2 New Subparagraph; Notification Required; Conveyances of Realty. Amend RSA 477:4-d, I by
+18 insertingaftersubparagraph(d)thefollowingnewsubparagraph:
+19 (e) Information relative to the presence of a residential heating oil underground storage
+20 tank.
+21 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

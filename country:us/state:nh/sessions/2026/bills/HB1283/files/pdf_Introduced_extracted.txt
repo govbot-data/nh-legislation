@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1283-FN-ASINTRODUCED
+2026SESSION
+26-2863
+09/08
+1283-FN
+HOUSEBILL
+ANACT relativetotheuseoffacerecognitiontechnology.
+SPONSORS: Rep.Scherr,Rock.26;Rep.D.McGuire,Merr.14
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitstheuseoffacerecognitiontechnologysubjecttocertainexceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1283-FN-ASINTRODUCED
+26-2863
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseoffacerecognitiontechnology.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewChapter;FaceRecognitionTechnologyProhibited. AmendRSAbyinsertingafterchapter
+2 644-Athefollowingnewchapter:
+3 CHAPTER644-B
+4 FACERECOGNITIONTECHNOLOGYPROHIBITED
+5 644-B:1 Definitions. Inthischapter:
+6 I. "Facerecognitiontechnology"meansanautomatedorsemi-automatedprocessthatassists
+7 in identifying an individual or capturing information about an individual, based on the physical
+8 characteristicsofanindividual'sface. Itdoesnotincludetheprocessbywhichanindividualvisually
+9 identifies another individual by viewing a representation of the individual on a computer, video
+10 recording,photograph,orothermedia.
+11 II. "State" means any department, agency, bureau, or administrative unit of the state of
+12 NewHampshire,includinganycity,town,county,schooldistrict,ormunicipalentitytherein.
+13 644-B:2 Face Recognition Technology Prohibited. The state shall only use a face recognition
+14 technology if it has a warrant supported by probable cause and signed by a neutral and detached
+15 magistrate or a well-established warrant exception applies. This prohibition applies to the use of
+16 bothgovernmentalandprivatedigitalrepresentationdatabasesforfacerecognitionpurposes.
+17 644-B:3 EvidenceInadmissible.
+18 I. Any data or information collected or derived from any of the State’s own use of face
+19 recognitiontechnologyinviolationofthischaptershallbeinadmissibleinanytrial,hearing,orother
+20 proceedinginorbeforeanycourtorregulatoryagencyinthestateofNewHampshire.
+21 II. Any evidence derived from data or information collected from any use of face recognition
+22 technologyinviolationofthischaptershallbeinadmissibleinanytrial,hearing,orotherproceeding
+23 in or before any court or regulatory agency in the state of New Hampshire, unless it is sufficiently
+24 attenuated from the original violation, including but not limited to, an affirmative showing that no
+25 state official had requested, facilitated, or otherwise caused the use of face recognition technology by
+26 anentityotherthanthestateasdefinedinthischapter.
+27 644-B:4 Penalty. Any person who violates the prohibition in RSA 644-B:2 shall be guilty of a
+28 classAmisdemeanor.
+29 2 Use of Face Recognition Technology Prohibited. RSA 263:40-b is repealed and reenacted to
+30 readasfollows:
+
+HB1283-FN-ASINTRODUCED
+-Page2-
+1 263:40-b Use of Face Recognition Technology Prohibited. Notwithstanding RSA 644-B:2, the
+2 departmentshallnotallowaccesstoanyofitsdigitalrepresentationsoffacesbyanyfacerecognition
+3 technologynoritselfusefacerecognitiontechnology.
+4 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2863
+11/5/25
+HB1283-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheuseoffacerecognitiontechnology.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

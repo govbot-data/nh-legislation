@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1146 -ASINTRODUCED
+2026SESSION
+26-2456
+06/08
+1146
+HOUSEBILL
+ANACT relativetosubscriptionfeesformotorvehiclefeatures.
+SPONSORS: Rep. Colby, Merr. 9; Rep. D. Germana, Ches. 1; Rep. Manos, Rock. 12; Rep. J.
+Sullivan, Graf. 2; Rep. Wade, Straf. 15; Rep. Beauchemin, Hills. 3; Rep. Cormen,
+Graf.15;Rep.Simpson,Rock.33;Rep.Telerski,Hills.11
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits motor vehicle manufacturers, dealers, and their agents from offering or
+requiringsubscriptionfeesfortheactivationoruseofcertainmotorvehiclefeaturesthatarealready
+installedatthetimeofsaleorlease.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1146-ASINTRODUCED
+26-2456
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetosubscriptionfeesformotorvehiclefeatures.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Vehicle Feature Prohibited. Amend RSA 357-C:3 by inserting after
+2 paragraphIVthefollowingnewparagraphs:
+3 IV-a. No manufacturer, motor vehicle dealer, or agent thereof shall offer or require a
+4 subscriptionservicefortheuseoractivationofanymotorvehiclefeaturethat:
+5 (a) Utilizes components, software, or hardware already installed, enabled, or activated
+6 onthevehicleatthetimeofpurchaseorleasebytheconsumer;
+7 (b) Would function after activation without ongoing cost to the dealer, manufacturer, or
+8 anythird-partyserviceprovider;and
+9 (c) Would function as an advanced safety feature through software-dependent driver
+10 assistance.
+11 IV-b. ParagraphIV-ashallnotapplyto:
+12 (a) Dealer-supported navigation system updates, live traffic data, live agent navigation
+13 assistance, integrated streaming services, third-party satellite radio, in-vehicle Wi-Fi, roadside
+14 assistance, software-dependent driver assistance or driver automation features, or vehicle-connected
+15 servicesthatrequirecellular,wireless,ordatanetworksforongoingoperation;or
+16 (b) Any software update provided by the dealer or manufacturer if no fee is charged for
+17 anyupdatethatremediesasafety-relateddefectrequiredunderfederalorstatelaw.
+18 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

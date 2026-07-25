@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1713 -ASINTRODUCED
+2026SESSION
+26-2950
+06/09
+1713
+HOUSEBILL
+ANACT relativetozoningconformityandredevelopmentstandards.
+SPONSORS: Rep. Cole, Hills. 26; Rep. Alexander Jr., Hills. 29; Rep. J. Aron, Sull. 4; Rep. M.
+Aron, Sull. 8; Rep. A. Davis, Coos 2; Rep. Post, Hills. 42; Rep. Thackston, Ches.
+12;Rep.Miles,Hills.12
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises RSA 204-D to define eligible housing and income thresholds, authorize the
+transfer of surplus state-owned property to the New Hampshire housing finance authority for
+housing development, establish procedures for property disposition and affordability restrictions,
+andrequirerulemakingtogovernoccupancy,resale,andmixed-incomehousingstandards.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1713-ASINTRODUCED
+26-2950
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetozoningconformityandredevelopmentstandards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Definitions. AmendRSA204-D:1toreadasfollows:
+2 204-D:1 Definitions. Asusedinthischapter:
+3 I. "Authority" means the New Hampshire housing finance authority established under RSA
+4 204-C.
+5 II. "Committee" means the long range capital planning and utilization committee
+6 establishedunderRSA17-M.
+7 III. “Eligible housing” means single-family housing, multi-family housing,
+8 manufactured housing parks or other housing configurations intended to be occupied by
+9 eligible persons and subject to affordability controls under this chapter and as established
+10 byauthorityrules.
+11 IV. “Eligible person” means persons of low income and persons of moderate income
+12 asdefinedinthischapterandasestablishedbyauthorityrules.
+13 V. “Mixed income housing” means housing intended to be occupied by a
+14 combination of eligible persons and non-eligible persons in proportions established by
+15 authorityrules.
+16 VI. "Personsoflowincome"meansindividualsor[families]householdswhosegrossannual
+17 income is equal to 80 percent or less of the median income of the geographic area in which they
+18 resideasdeterminedbytheauthority.
+19 [IV.] VII. "Persons of moderate income" means individuals or [families] households whose
+20 gross annual income is equal to [120] 140 percent or less, but greater than 80 percent of the
+21 medianincome[ofthegeographicareainwhichtheyreside]asdeterminedbytheauthority.
+22 [V.]VIII. "Stateownedproperty"meansrealpropertyownedbythestateofNewHampshire
+23 andunderthejurisdictionofanydepartment,agency,orinstitutionofstategovernment.
+24 IX. “Transferred property” means state-owned property transferred to the authority
+25 underthischapter.
+26 2 TransferofProperty. RSA204-D:2isrepealedandreenactedtoreadasfollows:
+27 204-D:2 Transfer of Property. Notwithstanding the provisions of RSA 4:39-c or RSA 4:40, the
+28 governor and council may transfer surplus state owned property to the authority for the
+29 development of eligible housing. Transfer of property for this purpose shall occur under the
+30 followingprocedure:
+
+HB1713 -ASINTRODUCED
+-Page2-
+1 I. When a state agency, department, or institution of state government determines that
+2 state-owned property is surplus, it shall provide written notice to the executive director of the
+3 authorityandtothecommittee.
+4 II. The authority shall then determine if the property is suitable for use as eligible housing.
+5 If the authority concludes the property is suitable for eligible housing, the authority may notify the
+6 agencyandthecommitteethattheauthoritywishestoacquirethepropertyunderthischapter.
+7 III. If the committee determines that the property is suitable for eligible housing, the
+8 authority may request that the governor and council transfer the property, without consideration, to
+9 theauthority.
+10 IV. In addition to the notice in paragraph I, the authority may petition for the transfer of
+11 state-ownedpropertybyaskingtheheadofanydepartmentthathasjurisdictionoverpropertyifthe
+12 agency considers such property to be surplus property. The department head shall review the
+13 requestandnotifytheauthorityandthecommitteeinwritingwhetherthedepartmentconsidersthe
+14 property surplus. If deemed surplus, the process in paragraphs II and III of this section shall be
+15 followed.
+16 3 HighwayFund. RSA204-D:3isrepealedandreenactedtoreadasfollows:
+17 204-D:3 HighwayFund.
+18 I. Surplus property held by the department of transportation which was acquired with
+19 highwayfund moneysshall betransferred totheauthorityunder theprocedures setout inRSA204-
+20 D:2.
+21 II. The compensation for such property, subject to paragraph III below, may be for no
+22 consideration, if acceptable to the department of transportation; or shall be for an amount mutually
+23 acceptable to the department and the authority, provided the compensation shall not exceed the
+24 originalexpenditureforthepropertyfromthehighwayfund.
+25 III. Surpluspropertyheldbythedepartmentoftransportationwhichwasacquired,inwhole
+26 or in part, with federal or turnpike funds shall be transferred to the authority for the minimum
+27 compensationrequiredbyfederallaworcontrollingturnpikerevenuebondresolution.
+28 IV. To further the purposes of this chapter, the department of transportation shall work
+29 with the authority, and when applicable the federal highway agency, to transfer the property in the
+30 least restrictive way to provide the authority with the greatest capacity to fulfill the intent of this
+31 chapter.
+32 4 HousingConstruction. RSA204-D:4isrepealedandreenactedtoreadasfollows:
+33 204-D:4 HousingConstruction.
+34 I. Upon acquisition of the transferred property, the authority may sell, lease, or otherwise
+35 convey the transferred property for use as eligible housing, subject to the requirements in
+36 paragraphsIIandIIIbelow.
+
+HB1713 -ASINTRODUCED
+-Page3-
+1 II. The authorityshall ensure for thecontinued affordabilityofhousingunits constructed on
+2 transferred properties by obtaining contracts and recorded restrictions based on authority rules that
+3 willestablishthetypeandlengthofsuchrestrictions.
+4 III. Once a transferred property is developed, the authority shall provide the agency that
+5 controlled the property and the committee a report of the use of such transferred property, including
+6 theoccupancyrequirementsandthedetailsoftherestrictions.
+7 5 DispositionofProperty. RSA204-D:5isrepealedandreenactedtoreadasfollows:
+8 204-D:5 Disposition of Property. When the authority determines that a transferred property
+9 cannot feasibly be used for eligible housing, the authority shall so notify the committee and the
+10 agencythattransferredthepropertytoauthority. Theauthoritymaythensellorotherwisetransfer
+11 the transferred property, provided that any proceeds received by the authority above the original
+12 transferpriceshallbereturnedtothedepartmentthattransferredthepropertytotheauthority.
+13 6 Rulemaking. RSA204-D:6isrepealedandreenactedtoreadasfollows:
+14 204-D:6 Rulemaking. TheauthorityshalladoptrulesunderRSA204-C:53relativeto:
+15 I. Theincomeamountsforeligiblepersons.
+16 II. Thetypesofusesfortransferredproperty.
+17 III. The requirements related to the occupancy, resale, and affordability of eligible housing
+18 includingthetypeofrestrictionsandthetimeperiodforthoserestrictions.
+19 IV. The required percentage of units in a mixed-income housing development that must be
+20 occupiedbyeligiblepersons.
+21 V. Suchothermattersnecessaryfortheproperadministrationofthischapter.
+22 7 EffectiveDate. ThisactshalltakeeffectJuly1,2026.

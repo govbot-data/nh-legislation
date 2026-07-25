@@ -1,0 +1,330 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+11Mar2026...0850h
+06/04/2026 2134s
+2026SESSION
+26-2962
+05/06
+1735-FN
+HOUSEBILL
+ANACT relative to the practice of pharmacy, the dispensing of certain medications by
+pharmacists, and permitting treatment of certain severe illness under the right to try
+act.
+SPONSORS: Rep. Cole, Hills. 26; Rep. Kesselring, Hills. 18; Rep. Layon, Rock. 13; Rep. Notter,
+Hills.12;Rep.Reinfurt,Hills.29;Rep.D.McGuire,Merr.14;Rep.Bernardy,Rock.36;
+Rep. Ulery, Hills. 13; Rep. Morton, Hills. 39; Sen. Murphy, Dist 16; Sen. Sullivan, Dist
+18;Sen.Innis,Dist7
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Authorizes the dispensingof up to a30-day supply of noncontrolledoral anti-cancer medication by
+alicensedhealthcareprofessionallegallyauthorizedtoprescribeandadministermedicationstoapatient
+underaprovider'scareorsupervisionsubjecttocertainconditions.
+II. Amendsthedisplayrequirementsforcertainlicensesandpermits.
+III. Authorizeslicensedadvancedpharmacytechnicianstoengageinremoteprocessing.
+IV. Removes the requirement that a pharmacist's name or initials be on a label affixed to any
+controlleddrugorprescriptionissued.
+V. Amendsthedefinitionofthe"practiceofpharmacy."
+VI. Removescertainauthorityoftheboardofpharmacywithrespecttotheregulationofcollaborative
+pharmacypracticeagreements.
+VII. Limits any examination requirement for licensure as an advanced pharmacy technician to scope
+ofpractice.
+VIII. Prohibitsthepharmacyboardfromtestingapplicantsonpharmacyjurisprudenceorlaw.
+IX. Allows supervised certified pharmacy technicians to administer vaccines, and eliminates a
+requirement that vaccines be recommended by the United States Center for Disease Control and
+Prevention Advisory Committee on Immunization Practices before being administered by pharmacists,
+pharmacyinterns,licensedadvancedpharmacytechnicians,orcertifiedpharmacytechnicians.
+X. Permits treatment of certain severe illness under the right to try act and directs the department of
+health and human services to adopt any rules necessary to implement the act. The bill also makes
+amendmentoftheactcontingentuponareportbythedepartmentandapprovalbythefiscalcommittee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+11Mar2026...0850h
+06/04/2026 2134s 26-2962
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the practice of pharmacy, the dispensing of certain medications by
+pharmacists, and permitting treatment of certain severe illness under the right to try
+act.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 311:1 New Paragraph; Controlled Drug Act; Dealing In or Possessing Prescription Drugs. Amend
+2 RSA318:42byinsertingafterparagraphVII-bthefollowingnewparagraph:
+3 VII-c. The dispensing of up to a 30-day supply of noncontrolled oral anti-cancer medication by a
+4 licensed health care professional legally authorized to prescribe and administer medications to a patient
+5 underaprovider'scareorsupervisionsolongasthefollowingcriteriaaremet:
+6 (a) The dispensing clinic maintains on staff a full-time licensed pharmacist who is available
+7 forconsultationwiththeprescribingproviderandthepatient.
+8 (b) In-office dispensing is conducted in a way consistent with United States Pharmacopeia
+9 standardsaswellasallrelevantstateandfederallawsorrules.
+10 311:2 PharmacistsandPharmacies;DisplayofLicenses. AmendRSA318:28toreadasfollows:
+11 318:28 [Display] Availability of Licenses. All licenses as pharmacists shall [at all times be
+12 conspicuouslydisplayed]bereadilyretrievableinthepharmacywherethelicenseeisengagedassuch.
+13 311:3 Pharmacists and Pharmacies; Licensure of Pharmacies. Amend RSA 318:39 to read as
+14 follows:
+15 318:39 Application;Display. Applicationforapermitshallbemadeinsuchmannerandinsuchform
+16 as the board may determine. The permit shall at all times be [exposed in a conspicuous place]postedin
+17 thepharmacyforwhichitisissued.
+18 311:4 Pharmacists and Pharmacies; Licensed Pharmacists; Remote Processing. Amend RSA
+19 318:15-d,Itoreadasfollows:
+20 I. NewHampshirelicensedpharmacists,licensedadvancedpharmacytechnicians,certifiedNew
+21 Hampshirepharmacytechnicians,or registeredNewHampshirepharmacyinternsmayengageinremote
+22 processing, provided that all work requiring pharmacist supervision is supervised by a licensed
+23 pharmacistthroughelectronicorotherremotemeans.
+24 311:5 ControlledDrugAct;Labels. AmendRSA318-B:13,IItoreadasfollows:
+25 II. Wheneverapharmacistdispensesanycontrolleddrugonprescriptionissuedbyapractitioner,
+26 he or she shall affix to the container in which such drug is dispensed a label showing the name, address,
+27 and registry number of the pharmacy [and name or the initials of the pharmacist]; the name of the
+28 prescribing practitioner; the prescription identification number; the name of the patient; the date
+29 dispensed; any directions as may be stated on the prescription; and the name and strength and quantity
+30 of the drug dispensed. All drugs dispensed to a patient that have been filled using a centralized
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+-Page2-
+1 prescriptionprocessingsystemshallbearalabelcontaininganidentifiablecodethatprovidesacomplete
+2 audit trail of the dispensing of the drug and pharmaceutical care activities. No person shall alter, deface,
+3 orremoveanylabelsoaffixed.
+4 311:6 Pharmacists and Pharmacies; Definitions; Practice of Pharmacy. RSA 318:1, XIV is repealed
+5 andreenactedtoreadasfollows:
+6 XIV.(a) "Practice of pharmacy" means the scope of practice for the provision of patient care
+7 services by a pharmacist shall be based on their education, training, and experience, and determined by
+8 practicesettingandinaccordancewithgenerallyacceptedstandardsofcare,includingbutnotlimitedto:
+9 (1) Theinterpretationandevaluationofprescriptionorders;
+10 (2) The compounding, dispensing, labeling, administering, and distribution of drugs and
+11 devices;
+12 (3) Theselection,evaluation,andmonitoringofdruganddrug-relatedtherapies;
+13 (4)Theperformanceofdrugutilizationreviewsandmedicationtherapymanagement;
+14 (5) The participation in collaborative pharmacy practice and collaborative pharmacy
+15 practiceagreementsasdefinedinRSA318:1,XXVI-XXVII,andRSA318:16-a;
+16 (6) The prescribing, ordering, administering, and interpretation of laboratory tests,
+17 controlledandnoncontrolleddrugs,anddevicesinaccordancewithapplicablestateandfederallaw;
+18 (7) The education and counseling of patients and health care professionals on the
+19 therapeuticuse,potentialhazards,andoutcomesofdrugsanddevices;
+20 (8) The maintenance of appropriate records and the safe storage and handling of drugs
+21 anddevices;
+22 (9) Theinterprofessionalcommunicationwithappropriatehealthcareproviderstoensure
+23 continuityofcare;
+24 (10) Any other professional acts, services, operations, or transactions necessary to the
+25 operationandmanagementofpharmacypractice.
+26 (b) Nothinginthisparagraphshallbeconstruedtolimitorrestricttheprovisionofpatientcare
+27 services by pharmacists otherwise authorized under federal or state law or regulations, including those
+28 performedpursuanttoprotocol,collaborativepracticeagreements,orstandingorders.
+29 (c) Nothing in this paragraph shall be interpreted to permit an alteration of a prescribing
+30 clinician'sdiagnosis.
+31 311:7 PharmacyBoard;RulemakingAuthority. AmendRSA318:5-a,XVIItoreadasfollows:
+32 XVII. The education and training standards and other requirements for pharmacists who,
+33 pursuanttoprescriber-approvedprotocol,[:
+34 (a)] administer prescription medicationsoutsidetheparametersofacollaborativepharmacy
+35 practiceagreement,includinginfluenzaimmunizations.
+36 [(b) Engageincollaborativepharmacypractices.]
+37 311:8 LicensedPharmacists;StandardsforCollaborativePharmacyPractice. AmendRSA318:16-a,
+38 I(c)toreadasfollows:
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+-Page3-
+1 (c) Have the knowledge base necessary for proper monitoring, including, but not limited to,
+2 associated disease states, relevant laboratory tests, adverse events, drug and food interactions, safety,
+3 and efficacy. [Depending upon the complexity of the services being provided, the pharmacist may be
+4 required to have additional credentials or training and shall demonstrate the receipt of approval by the
+5 boardofpharmacy.]
+6 311:9 PharmacyBoard;Rulemaking;Examinations. AmendRSA318:5-a,IV(a)toreadasfollows:
+7 (a) ThesubjectstobetestedpursuanttoRSA318:19;
+8 311:10 Pharmacy Board; Rulemaking; Licensed Advanced Pharmacy Technicians. Amend RSA
+9 318:5-a,XI-c(a)toreadasfollows:
+10 (a) Requirements for licensure, including experience and education requirements. Any
+11 examinationrequirementforlicensureshallbelimitedtothescopeofpractice,andsuchrequirementshall
+12 besuspendediftheboardisunabletoverifythattheexamcomplieswithboardrequirements.
+13 311:11 PharmacistsandPharmacies;Examinations. AmendRSA318:19toreadasfollows:
+14 318:19 Examinations. Applicants for licensure as pharmacists shall, to prove their respective
+15 requisite knowledge, be examined to a properly varying degree in pharmacy-related subject areas which
+16 may include chemistry, math, pharmacology, pharmacy theory, the practice of pharmacy [and pharmacy
+17 law], and any other areas as the board may prescribe,exceptthattheboardshallnotrequireany
+18 applicanttobeexaminedonpharmacystate-specificoruniversalstateleveljurisprudenceorlaw.
+19 311:12 PharmacyBoard;EnforcementofLaw. AmendRSA318:8toreadasfollows:
+20 318:8 EnforcementofLaw.
+21 I. It shall be the duty of the board, through officials and employees appointed by it or under its
+22 supervision for that purpose, and of all peace officers within the state, and of all county attorneys, to
+23 enforce all the provisions of this chapter. When so requested, the department of health and human
+24 services and its officials and employees shall cooperate with the board in collecting and analyzing
+25 samples of drugs and medicines sold, or suspected of being sold, in violation of this chapter. The
+26 membersoftheboard,itsinspectorsandinvestigatorsshallhavefreeaccessduringbusinesshourstoall
+27 placeswheredrugs,medicines,poisonsorhypodermicdevicesareheld,stored,orofferedforsaleandto
+28 allrecordsofsaleanddispositionofdrugs.
+29 II.Itshallalsobethedutyoftheboard,throughofficialsandemployeesappointedbyitorunder
+30 itssupervisionforthatpurpose,toevaluatewhetheraspecificactiswithinthepracticeofpharmacy,or
+31 whetheranactcanbedelegatedtootherindividualsunderpharmacistsupervision. Alicenseeor
+32 registrantoftheboardofpharmacyshallindependentlydeterminewhether:
+33 (a)Theactisexpresslyprohibitedby:
+34 (1)Thischapter;
+35 (2)Thecontrolleddrugact,RSA318-B;
+36 (3)Therulesoftheboardofpharmacy;or
+37 (4)Anyotherapplicablestateorfederallawsorregulations;
+38 (b)Theactisconsistentwiththeindividual'seducation,training,andexperience;and
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+-Page4-
+1 (c)Performanceoftheactiswithintheacceptedstandardofcarethatwouldbeprovidedina
+2 similarsettingbyareasonableandprudentindividualwithsimilareducation,training,andexperience.
+3 311:13 PharmacistAdministrationofVaccines. AmendRSA318:16-b,IItoreadasfollows:
+4 II. A pharmacist, pharmacy intern, [or] licensed advanced pharmacy technician, orcertified
+5 pharmacytechnician,underthesupervisionofanon-siteimmunizingpharmacistmayadministervaccines
+6 licensedbytheUnited StatesFoodandDrug Administration[that arerecommended bytheUnited States
+7 CentersforDiseaseControlandPreventionAdvisoryCommitteeonImmunizationPractices,orsuccessor
+8 organization,]toindividuals18yearsofageorolderasorderedbyanimmunizingpharmacist.
+9 311:14 RighttoTryAct;Definitions. AmendRSA126-Z:1toreadasfollows:
+10 126-Z:1 Definitions. Inthischapter:
+11 I. "Eligible facility" means a licensed New Hampshire institution that is operating under a
+12 FederalwideAssurance("FWA")fortheProtectionofHumanSubjectsunder42U.S.C.section289(a)and
+13 45 C.F.R. part 46. Any eligible facility is subject to the FWA laws, regulations, policies, and guidelines
+14 includingrenewalsorupdates.
+15 I-a. "Eligiblepatient"meansapersontowhomallofthefollowingapply:
+16 (a) The person has been diagnosed with a terminal orqualifyingsevereillness by the
+17 person'sphysician.
+18 (b) The person has already tried or is not a candidate for eligible United States Food and
+19 DrugAdministration(FDA)approvedtreatmentoptionsfortheirdiseaseorcondition.
+20 (c) The person is unable to participate in a clinical trial involving the eligible investigational
+21 drug,biologicordevice.
+22 (d) The person has given written informed consent for the use of the investigational drug,
+23 biological product, or device or, if the patient is a minor or lacks the mental capacity to provide informed
+24 consent,aparentorlegalguardianhasgivenwritteninformedconsentonthepatient'sbehalf.
+25 (e) The physician providing access to an investigational drug, biologic, or device will not be
+26 compensateddirectlybythemanufacturerforprovidingaccesstothistherapy.
+27 I-b. "Health care provider" means a physician licensed to practice medicine in the state of New
+28 Hampshire.
+29 I-c. "Individualized investigational treatment" means drugs, biologics, or devices unique to and
+30 producedexclusivelyforuseforanindividualpatient,basedontheirowngeneticprofile,includingbutnot
+31 limited to individualized gene therapy antisense oligonucleotides (ASO), individualized neoantigen
+32 vaccines,andanyotherindividualizedtreatment.
+33 II. "Investigational drug, biologic, or device" means a drug, biologic, or device that has
+34 successfully completed phase one of a clinical trial, but has not been approved for general use by the
+35 FDAandremainsunderinvestigationinaclinicaltrial.
+36 II-a. "Otherprotectedaccess"includes:
+37 (a) "Expanded access" whereby the treating physician requests access to an investigational
+38 drug,biologic,ordevicefromtheFDAandissubjecttooversightfromanInstitutionalReviewBoard;and
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+-Page5-
+1 (b) "Off-labeluse"meansprescribinganFDAapproveddrug,biologic,ordeviceforausenot
+2 approvedforthatspecificindicationconsistentwithRSA329:17,VI-b.
+3 III. "Physician" means the licensed allopathic or osteopathic physician who is providing medical
+4 careortreatmenttotheeligiblepatientfortheterminalorqualifyingsevereillness.
+5 III-a.(a)“Qualifyingsevereillness”meansanillnessthatisbothchronicanddebilitating.
+6 (b) “Chronicanddebilitating”shallhavethesamemeaningas“severelydebilitating”defined
+7 under21C.F.R.section312.81(b).
+8 IV. "Remote signing" means the signing of any form, witnessed by a notary public or a licensed
+9 health care provider, providing written informed consent for a person diagnosed by a physician with a
+10 terminalorqualifyingsevereillnesstoparticipateinaclinicaltrialorreceiveadrug,biologic,ordevice,by
+11 thepatientor,ifthepatientisaminororlacksthementalcapacitytoprovideconsent,byaparentorlegal
+12 guardianonthepatient'sbehalf.
+13 V. "Telehealth prescreening" means any remote, real-time discussion intended, in part, to
+14 determinewhetherapersonwithaterminalorqualifyingsevereillnessmaybe:
+15 (a) Ineligibleforornotselectedtoparticipateinaclinicaltrial;or
+16 (b) Ineligibletoreceiveornotbeofferedadrug,biologic,ordevice.
+17 VI. "Terminal illness" means diseases or conditions where the likelihood of death is high unless
+18 thecourseofthediseaseisinterrupted,anddiseasesorconditionswithpotentiallyfataloutcomes,where
+19 the endpoint of a clinical trial analysis is survival, which is the definition of "life threatening" under 21
+20 C.F.R.section312.81.
+21 311:15 RighttoTry;AvailabilityofInvestigationalDrugs,Biologics,orDevices. AmendRSA126-Z:3
+22 toreadasfollows:
+23 126-Z:3 LiabilityofPhysician;Facility.
+24 I. Notwithstandinganyprovisionoflawtothecontrary,theboardofmedicineshallnotrevoke,fail
+25 to renew, or take any other action against a physician's license issued pursuant to RSA 329 based
+26 primarily on a physician's recommendation to an eligible patient regarding or prescription for or treatment
+27 withaninvestigationaldrug,biologic,ordevicepursuanttothischapter.
+28 II. Notwithstanding any provision of law to the contrary, the department of health and human
+29 servicesshallnottakeactionagainstafacilitylicensedunderRSA151basedprimarilyontheinstitution's
+30 participationinthetreatmentoruseofaninvestigationaldrug,biologic,ordeviceunderthischapter.
+31 III. Notwithstanding any provision of law to the contrary, a manufacturer of a drug, biologic, or
+32 device, a pharmacist, a health care facility, a health care provider, or a person or entity involved in the
+33 care of a patient using a drug, biologic, or device is immune from suit for any harm done to a patient
+34 resultingfromthedrug,biologic,ordeviceif:
+35 (a) The person has a terminal orqualifyingsevereillness as determined by the person's
+36 physicianandaconsultingphysician;
+37 (b) Theperson'sphysicianhasdeterminedthatthepersonhasnocomparableorsatisfactory
+38 UnitedStatesFoodandDrugAdministration(FDA)approvedtreatmentoptionsavailablenotapprovedby
+39 theFDAtotreatthediseaseorconditioninvolved;
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+-Page6-
+1 (c) Thepatienthasgivenwritteninformedconsentfortheuseofthedrug,biologic,ordevice
+2 or, if the patient is a minor or lacks the mental capacity to provide informed consent, a parent or legal
+3 guardian has given written informed consent on the patient's behalf and, if the patient is a legal adult, the
+4 consentisnotcontrarytothepriordocumentedwishesofthepatient;
+5 (d) Themanufacturer,pharmacist,facility,provider,orotherpersonorentityhasnotengaged
+6 inwillful or reckless misconduct or other badfaithconduct. "Willful or recklessmisconduct" shall include,
+7 butisnotlimitedto,anyconductintendedtohastenthedeathofthepatient;and
+8 (e) If the drug, biologic, or device is an individualized investigational treatment, it is
+9 administeredbyahealthcareproviderataneligiblefacility.
+10 311:16 PrivateCauseofAction. AmendRSA126-Z:4,IItoreadasfollows:
+11 II. Notwithstanding any provision of law to the contrary, any patient diagnosed with a terminalor
+12 qualifyingsevereillnessbyaphysician,andwhohasbeentreated,isbeingtreated,orotherwisecouldbe
+13 treatedinNewHampshirewithadrug,biologic,ordevice,andisaffectedbyaviolationofthischapter,or
+14 a health care facility or a health care provider involved in the treatment of the patient, shall be entitled to
+15 petitionthesuperiorcourtforinjunctivereliefandreasonableattorney'sfeesagainstanyregulatoryorlaw
+16 enforcementauthoritythatviolatesthischapter.
+17 311:17 TelehealthPrescreening. AmendRSA126-Z:6,Itoreadasfollows:
+18 I. Notwithstanding any regulation or provision of law to the contrary, any health care provider,
+19 while physically located in New Hampshire, may conduct a telehealth prescreening with any patient, in
+20 any state or jurisdiction, who has been diagnosed by a physician with a terminal orqualifyingsevere
+21 illness.
+22 311:18 StatutoryConstruction. AmendRSA126-Z:8toreadasfollows:
+23 126-Z:8 Statutory Construction. The general court enacts this chapter to promote maximum access
+24 by removing barriers in state law and indemnifying those involved in providing potentially life-saving or
+25 dramaticallylife-improvingtreatments and treatments to improve the quality of patients' remaining life, to
+26 incentivize health care facilities, health care providers, manufacturers of drugs, biologics and/or devices,
+27 and other persons and entities involved in the care of patients, to treat terminal andqualifyingsevere
+28 illness, whether through company-sponsored clinical trial, single-patient protocol, compassionate use
+29 protocol, or any other means of access to drugs, biologics, and/or devices which gathers information on
+30 patientoutcomes,andtomakeNewHampshireajurisdictionthatattractsandfostersclinicaltrialsandthe
+31 developmentofdrugs,biologics,anddevicesintendedtotreatterminalandqualifyingsevereillness. This
+32 chaptershallbeconstruedconsistentlywiththegeneralcourt'sstatedpurpose.
+33 311:19 New Section; Right to Try Act; Rulemaking. Amend RSA 126-Z by inserting after section 8
+34 thefollowingnewsection:
+35 126-Z:9 Rulemaking. Thecommissionerofthedepartmentofhealthandhumanservicesshalladopt,
+36 underRSA541-A,anyrulesnecessarytoimplementthischapter.
+37 311:20 DepartmentofHealthandHumanServices;LegislativeReportingRequirement. Onorbefore
+38 November 1, 2026, the commissioner of the department of health and human services shall provide a
+39 reporttothefiscalcommitteeofthegeneralcourtregardingtheamendmentofRSA126-Z,therighttotry
+
+CHAPTER311
+HB1735-FN-FINALVERSION
+-Page7-
+1 act, in sections 14-19 of this act. The report shall identify any potential loss of funding as the result of
+2 implementationofthisact.
+3 311:21 Contingency. Sections 14-19 of this act shall be contingent upon approval by the fiscal
+4 committeeofthegeneralcourtofthereportsubmittedundersection20ofthisact. Sections14-19ofthis
+5 act shall take effect on the date the chairperson of the fiscal committee certifies approval of the report to
+6 the director of the office of legislative services and the secretary of state or January 1, 2027, whichever
+7 occurs later. If the report submitted under section 20 is not approved by the fiscal committee of the
+8 generalcourt,sections14-19ofthisactshallnottakeeffect.
+9 311:22 EffectiveDate.
+10 I. Sections14-19ofthisactshalltakeeffectasprovidedinsection21ofthisact.
+11 II. Sections1-13ofthisactshalltakeeffect60daysafteritspassage.
+12 III. Theremainderofthisactshalltakeeffectuponitspassage.
+Approved:July10,2026
+EffectiveDate:
+I.Sections14-19effectiveasprovidedinsection21
+II.Sections1-13effectiveSeptember8,2026
+III.RemaindereffectiveJuly10,2026

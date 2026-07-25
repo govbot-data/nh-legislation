@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1827-FN-A-ASAMENDEDBYTHEHOUSE
+19Feb2026...0573h
+2026SESSION
+26-2633
+07/09
+1827-FN-A
+HOUSEBILL
+ANACT requiring the department of education to conduct a confidential criminal history
+recordcheckonallprospectiveeducationalpersonnel.
+SPONSORS: Rep.Ladd,Graf.5
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the department of education to conduct a confidential criminal history record
+checkonallprospectiveeducationalpersonnel.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1827-FN-A-ASAMENDEDBYTHEHOUSE
+19Feb2026...0573h 26-2633
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the department of education to conduct a confidential criminal history
+recordcheckonallprospectiveeducationalpersonnel.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Department of Education School Employee Criminal History Records Check.
+2 AmendRSA189byinsertingaftersection13-cthefollowingnewsection:
+3 189:13-d DepartmentofEducationSchoolEmployeeCriminalHistoryRecordsCheck.
+4 I. Asusedinthissection:
+5 (a) "Educational personnel" means an individual who is employed, either part time or
+6 full time, by a school administrative unit, school district, public school, public charter school, public
+7 academy, or non-public approved special education school in the state of New Hampshire who is not
+8 inapositionrequiringaneducatorcredential.
+9 (b) "Clearance" means a document issued to educational personnel that reflects that a
+10 criminalhistoryrecordcheckwascompletedandthatnoneoftheviolationslistedinRSA189:13-c,V
+11 werefound.
+12 II.(a) The department shall complete a confidential criminal history record check on all
+13 educational personnel. The criminal history record check clearance shall be valid for a period of 5
+14 years.
+15 (b) The department shall establish and implement a secure system for conducting a
+16 checkofall educationalpersonnel listedinthissectionintheNationalAssociationofStateDirectors
+17 of Teacher Education and Certification (NASDTEC) database by utilizing the applicant's social
+18 securitynumber.
+19 III.(a) Educational personnel shall submit to the department a criminal history records
+20 release form, as provided by the division of state police, which authorizes the division of state police
+21 to conduct a criminal history records check through its state records and through the Federal
+22 Bureau of Investigation and to release a report of the individual's criminal history record
+23 information, including confidential criminal history record information, to the background check
+24 coordinatorofthedepartment,asdescribedinRSA21-N:8-a,I-a.
+25 (b) Educational personnel shall submit with the release form a complete set of
+26 fingerprints taken by a qualified law enforcement agency or an authorized employee of the
+27 department of education. In the event that the first set of fingerprints is invalid due to insufficient
+28 pattern, a second set of fingerprints shall be taken in order to complete the criminal history records
+29 check. If,after2attempts,asetoffingerprintsisinvalidduetoinsufficientpattern,thedepartment
+
+HB1827-FN-A-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 may, in lieu of the criminal history records check, accept police clearance from every city, town, or
+2 countywhereanapplicantorcandidatehaslivedduringthepast10years.
+3 IV.(a) The department shall maintain the confidentiality of all criminal history records
+4 information received pursuant to this paragraph. The department shall destroy all criminal history
+5 recordinformationwithin60daysofreceivingsaidinformation.
+6 (b) The department may require educational personnel to pay the actual costs of the
+7 criminalhistoryrecordscheck.
+8 V.(a) Any person who has been charged pending disposition for or convicted of any violation
+9 or attempted violation of RSA 318-B:2 for possession of a controlled drug with the intent to sell,
+10 felonylevel,withinthelast10years,RSA630:1;630:1-a;630:1-b;630:2; 630:3;631:1;631:2; 631:2-b;
+11 632-A:2; 632-A:3; 632-A:4; 633:1; 633:7; 636:1; 638:1; 638:15-a; 639:2; 639:3; 645:1, II or III; 645:2;
+12 649-A:3; 649-A:3-a; 649-A:3-b; 649-B:3; or 649-B:4; or any violation or any attempted violation of
+13 RSA 650:2 where the act involves a child in material deemed obscene in this state, or under any
+14 statute prohibiting the same conduct in another state, territory, or possession of the United States,
+15 shallnotbegrantedaclearance,norshalltheybeemployableorcontractedinapublicschool,public
+16 charter school, public academy, or non-public approved special education school within the state of
+17 NewHampshire.
+18 (b) A school administrative unit, school district, public school, public charter school,
+19 publicacademy,ornon-publicapprovedspecialeducationschoolinthestateofNewHampshireshall
+20 not employ any individual who has had their educator license credential revoked in New Hampshire
+21 oranyotherstate.
+22 VI. The department shall adopt rules, pursuant to RSA 541-A, governing the rights of
+23 educational personnel and their ability to appeal a denial of a clearance pursuant to a charge
+24 pendingdispositionfororaconvictionofanyoftheoffensesunderparagraphV.
+25 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2633
+03/03/2026
+HB1827-FN-A-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-0573h)
+ANACT requiring the department of education to conduct a confidential criminal history
+recordcheckonallprospectiveeducationalpersonnel.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 Upto$588,000PerYear
+DepartmentofEducationCredentialingFundandDepartmentofSafety
+RevenueFund(s)
+CriminalRecordsFund
+Expenditures* $0 $0 $446,000 $340,000
+FundingSource(s) DepartmentofEducationCredentialingFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective July 1, 2027 (FY 2028), requires the Department of Education to conduct
+criminal history record checks for all non-educator credentialed individuals employed (full time
+or part time) in public schools, public academies, school administrative units (SAUs), public
+charter schools, and private special education schools. The Department currently conducts
+criminal history record checks for several categories of school-related individuals, including
+school bus drivers, Professional Educator Preparation Program (PEPP) students, and new
+applicants for educator licensure. The Department’s current fee for these checks is $100, and it
+issues clearances with a five-year validity for bus drivers and a four-year validity for PEPP
+students. The Bureau of Educator Credentialing within the Department is responsible for
+administering these checks. The Bureau is currently funded through fee revenue and receives
+nogeneralfundappropriations.
+Currently, the Department conducts approximately 3,000 checks annually, using approximately
+1.5staffpositionstoperformthiswork. Underthisbill,theDepartmentanticipatesaligningthe
+new requirement with existing procedures and processes. The Department estimates the bill
+would add approximately 20,000 individuals over a five-year period, or about 4,000 additional
+checks per year. The Department anticipates that the costs associated with additional staffing
+
+andadministrativesupportcouldbecoveredthroughtheexisting$100feepercheck,withoutthe
+needforadditionalfunding:
+DepartmentofEducation
+RestrictedRevenueandExpenditures
+FY2028 FY2029
+BureauofCredentialing
+AdditionalRevenue(4,000Checks@$100Each) $400,000 $400,000
+Costs
+Two(2)Positions(SOC13-04,StartingStep7),and
+RelatedCosts $246,000 $240,000
+OtherCosts(i.e.,ITprogrammingandsupportcosts
+aswellasinvestigative,legal,andhearingfeesfor
+appeals) $200,000 $100,000
+TotalCosts $446,000 $340,000
+TheDepartmentofSafetystatesithas awell-establishedinternalprocesstohandletheincrease
+in background checks resulting from this bill, therefore the Department expects this bill will
+have no significant impact on its expenditures. The Department charges $47 for the checks
+required by this bill, therefore this bill would increase revenue to the Criminal Records Fund up
+to$188,000($47x4,000checks)peryear.
+AGENCIESCONTACTED:
+DepartmentofEducationandDepartmentofSafety

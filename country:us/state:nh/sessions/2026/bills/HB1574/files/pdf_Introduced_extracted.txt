@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1574-FN-ASINTRODUCED
+2026SESSION
+26-2877
+12/08
+1574-FN
+HOUSEBILL
+ANACT authorizing school districts to extend free and reduced lunch benefits for special
+educationstudents.
+SPONSORS: Rep. Weinstein, Rock. 10; Rep. Cornell, Hills. 22; Rep. Selig, Straf. 10; Rep.
+Sorensen,Rock.28
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes school boards to extend free and reduced meal program eligibility for
+students with an individualized education program (IEP) that are already age 21 but attending
+schooluntil theageof 22. The bill alsodirects thestatetoreimburse school boards from thegeneral
+fundforfreeandreducedpricemealsforsucheligiblestudents.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1574-FN-ASINTRODUCED
+26-2877
+12/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing school districts to extend free and reduced lunch benefits for special
+educationstudents.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindings. Thegeneralcourtfindsthat:
+2 I. The state of New Hampshire recognizes the importance of supporting the health and
+3 nutritional needs of special education students with disabilities who, under recent changes by the
+4 departmentofeducation,maycontinuetheireducationbeyondtheageof21.
+5 II. The current system does not provide access to free and reduced lunch benefits at age 21,
+6 creatingbarrierstoaccessandpotentiallycompromisingthewell-beingofthesestudents.
+7 2 New Paragraph; Free and Reduced Meals Expanded; Special Education Students Over 21.
+8 AmendRSA189:11-abyinsertingafterparagraphIthefollowingnewparagraph:
+9 I-a. All school boards are authorized to extend eligibility for free and reduced price meals to
+10 eligible students until the completion of a student's individualized education plan (IEP) or until a
+11 student is the age of 22 years old, whichever occurs first in time. The state shall reimburse school
+12 boards through the general fund at the same reimbursement rate established by the U.S.
+13 Department of Agriculture for free and reduced price meals. For the purposes of this paragraph,
+14 "eligiblestudent"shallmeanastudentthat:
+15 (a) Hasanindividualizededucationplan(IEP),asdefinedinRSA186-C:2,III;and
+16 (b) Is 21 years of age but continuing in their individualized educational program for an
+17 additionalyearupuntilreachingtheageof22.
+18 3 Applicability. RSA 189:11-a as inserted in section 1 of this act shall apply to all eligible
+19 studentsenrolledbeginningwith the2026-2027schoolyear.
+20 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2877
+12/3/25
+HB1574-FN-FISCALNOTE
+ASINTRODUCED
+ANACT authorizing school districts to extend free and reduced lunch benefits for special
+educationstudents.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+MealReimbursementstoSchools
+Upto$145KPerYear
+Expenditures* $0
+DOEPosition
+$109KinFY27,$114KinFY28,and$119KinFY29
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 Upto$145KPerYear
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill, effective for the 2026-2027 school year, authorizes school boards to extend the Federal
+Free or Reduced Priced Meal Program eligibility only for special education students with an
+individualizededucationprogram(IEP),throughage22. Underthisbill:
+ The Department of Education will reimburse School Boards for free or reduced priced
+meals.
+ School Boards will need to develop and utilize separate applications for any student over
+theageof21todetermineeligibly,astheFederalApplicationcannotbeused.
+ The Department of Education will need to update the online claim reimbursement
+systemtoaccountformealsservednotunderthefederalmealsprogram.
+
+Toestimatethepotentialfiscalimpactofthisbill,theDepartmentofEducationhasprovidedthe
+followingassumptions:
+ The proposed legislation is not limited to School Districts who currently operate the
+Federal United State Department of Agriculture (USDA) National School Lunch
+Program.
+ Currently there are 117 students with an IEP that are age 21 and one student with an
+IEPthatisage22.
+o Itisunknowniftheabovestudentsqualifyforfreeorreducedpricedmeals.
+o Calculations will be made utilizing the current federal reimbursement for free
+meals.
+ Eachstudenteatsbothbreakfastandluncheachschoolday.
+ Thenumberofschooldaysis180.
+ The State will use the Federal Reimbursed Rates to reimburse local school districts for
+meals.
+ Currentfederalreimbursementrates(SchoolYear25-26)
+o Breakfast
+ $2.49free
+ $2.16reduced
+o Lunch
+ $4.69free
+ $4.29reduced
+ The state currently pays reimbursement for each breakfast meal served under the
+federal program at a rate of $0.03 per each free and paid meal and $0.30 per reduced
+pricedmeal.
+ Thereisnostatereimbursementforlunch.
+To provide School Boards with reimbursement for free or reduced priced meals served to
+students with an IEP aged 21 to 22 would cost approximately $144,645 per year utilizing the
+currentdata:
+o Breakfastwouldcostapproximately$53,525peryear:
+ TotalstudentswithanIEP(118)
+ FederalFreeBreakfastReimbursement($2.49)
+ StateBreakfastReimbursement($.03)
+ 180schooldays
+ Totalestimatedcostofbreakfastreimbursement
+ 118*($2.49+$0.03)*180=$53,524.80
+
+o Lunchwouldcostapproximately$91,120peryear:
+ TotalstudentswithanIEP(118)
+ FederalFreeLunchReimbursement(4.29)
+ 180schooldays
+ Totalestimatedcostoflunchreimbursement
+ 118*$4.29*180=$91,119.60
+While this bill directs that the state shall reimburse school boards through the general fund, no
+appropriationfromthegeneralfundisincludedinthebill.
+In addition to estimated reimbursements, the Department states it would need one position
+(miscellaneous business operations specialists (SOC 13-05, step 5), with an estimated total cost
+of $109,000 in FY 2027, $114,000 in FY 2028, and $119,000 in FY 2029. This bill provides
+neitherauthorizationnorappropriationfornewpersonnel.
+Lastly, using the above assumptions and calculations, the potential fiscal impact of this bill on
+local school districts is indeterminable. The cost to districts, if any, would be based on
+application development to determine eligibility, policy implementation, and actual
+participation.
+AGENCIESCONTACTED:
+DepartmentofEducation

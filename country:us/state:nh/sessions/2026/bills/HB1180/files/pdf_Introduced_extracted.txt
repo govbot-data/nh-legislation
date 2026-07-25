@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1180-FN-ASINTRODUCED
+2026SESSION
+26-2486
+06/05
+1180-FN
+HOUSEBILL
+ANACT updating the definition of the state building code to include the International
+EnergyConservationCode2024.
+SPONSORS: Rep.W.Thomas,Hills.12
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises the definition of the state building code to include the International Energy
+ConservationCode2024orasimilarcodethatachievesequivalentorgreaterenergysavings.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1180-FN-ASINTRODUCED
+26-2486
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT updating the definition of the state building code to include the International
+EnergyConservationCode2024.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StateBuildingCodes;Definitions. AmendRSA155-A:1,IVtoreadasfollows:
+2 IV. "NewHampshirebuildingcode"or"statebuildingcode"meanstheadoptionbyreference
+3 of the International Building Code 2021, the International Existing Building Code 2021, the
+4 International Plumbing Code 2021, the International Mechanical Code 2021, the International
+5 Energy Conservation Code [2018] 2024 or similar code achieving equivalent or greater energy
+6 savings, the International Swimming Pool and Spa Code 2021 and the International Residential
+7 Code 2021, as published by the International Code Council Inc., and the National Electrical Code
+8 2023, as published by the National Fire Protection Association, Inc., as reviewed and recommended
+9 by the state building code review board, including all amendments reviewed and approved by the
+10 boardasofApril11,2025,andratifiedbythelegislatureinaccordancewithRSA155-A:10.
+11 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2486
+11/3/25
+HB1180-FN-FISCALNOTE
+ASINTRODUCED
+ANACT updating the definition of the state building code to include the International
+EnergyConservationCode2024.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofSafety

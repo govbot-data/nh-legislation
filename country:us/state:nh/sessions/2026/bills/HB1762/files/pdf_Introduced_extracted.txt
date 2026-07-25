@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1762-FN-ASINTRODUCED
+2026SESSION
+26-3134
+05/08
+1762-FN
+HOUSEBILL
+ANACT relativetothecalculationofchildsupport.
+SPONSORS: Rep. Sabourin dit Choiniere, Rock. 30; Rep. Bernardy, Rock. 36; Rep. Comtois,
+Belk.7;Rep.DeRoy,Straf.3;Rep.Perez,Rock.16;Rep.Sirois,Hills.32
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises the definition of adjusted gross income, the calculation of parenting time, the
+self-supportreserveamount,andthecalculationofchildsupportunderthechildsupportguidelines.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1762-FN-ASINTRODUCED
+26-3134
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecalculationofchildsupport.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ChildSupport;DefinitionofAdjustedGrossIncome. RSA458-C:2,Iisrepealedandreenacted
+2 toreadasfollows:
+3 I.(a) “Adjustedgrossincome”meansgrossincome,less:
+4 (1) Court-ordered or administratively ordered support actually paid to others, for
+5 adultsorchildren.
+6 (2) Fiftypercentofactualself-employedtaxpaid.
+7 (3) Mandatory,notdiscretionary,retirementcontributions.
+8 (4) Actualstateincometaxpaid.
+9 (5) Amounts actually paid by the obligor for allowable child care expenses or the
+10 medicalsupportobligationfortheminorchildrentowhomthechildsupportorderapplies.
+11 (b) Iftheadjustedgrossincomeisanegativenumber,avalueofzeroshallbepresumed.
+12 2 ChildSupportGuidelines;DefinitionofParentingTimeandParentingTimeFactor. RSA458-
+13 C:2,VIII-bisrepealedandreenactedtoreadasfollows:
+14 VIII-b.(a) “Parenting time” means the number of days or overnights, or portions thereof,
+15 that the child or children are in the care, custody and control of a parent as defined in the parenting
+16 schedule pursuant to RSA 461-A:4 or otherwise specified by the court, such that the combined
+17 numberofdaysorovernightsforbothparentstotalsto365.
+18 (b) “Parenting time factor” (PTF) is the fraction of full residency costs incurred by a
+19 parentwithparentingtime,andiscalculatedto3decimalplacesofaccuracyas1.5multipliedbythe
+20 fraction of 365 days of parenting time by that parent with a maximum allowed value of 1.000. For
+21 example, for parenting time of 260 overnights, the parenting time fraction is 260/365=0.712. The
+22 PTF is 1.5 multiplied by 0.712 which equals 1.068 which exceeds one and is therefore capped at
+23 1.000.
+24 3 ChildSupportFormula. RSA458-C:3,IIisrepealedandreenactedtoreadasfollows:
+25 II.(a) The total support obligation shall be determined by multiplying the parents’ total net
+26 income, as defined in RSA 458-C:2, VI, by the appropriate percentage derived from this section and
+27 theparentingtimefactor.
+28 (b) The total child support obligation shall be divided between the parents in proportion
+29 totheirrespectiveincomesasadjusted bythis section,exceptwhenthereareincurred bytheobligee
+30 child care expenses or for the actual amount paid as the medical support obligation, for the minor
+31 childrentowhomthechildsupportorderapplies.
+
+HB1762-FN-ASINTRODUCED
+-Page2-
+1 (c) For those cases involving allowable child care expenses or medical support obligation
+2 expensesincurredbytheobligee, thesamemethodologydescribedinsubparagraphs(a) and(b) shall
+3 be used, except that as part of the determination of each parent’s share o the child support
+4 obligation,theobligee’sallowablechildcareexpensesormedicalsupportobligationexpensesshallbe
+5 deductedfromtheadjustedgrossincomeoftheobligee.
+6 (d) Childcostsforeachparentarecomposedof:
+7 (1) Totalsupportobligation.
+8 (2) Allowablechildcareexpenses.
+9 (3) Medicalsupportobligationforchildren.
+10 (e) The parental support obligation for each parent shall be determined by multiplying
+11 the fraction of total adjusted gross income for that parent by the combined child costs for both
+12 parentsandsubtractingchildcostsforthatparent. Theparentwiththepositivevalueistheobligor;
+13 theparentwiththecorrespondingnegativevalueistheobligeesuchthatthesumofbothobligations
+14 shallalwaysbezero.
+15 (f) All child support obligations calculated pursuant to this chapter shall be rounded to
+16 thenearestwholedollar.
+17 4 SelfSupportReserve. RSA458-C:3,IVisrepealedandreenactedtoreadasfollows:
+18 IV. Self-supportreserveandminimumchildsupportobligation.
+19 (a) Iftheobligorparent’sadjustedgrossincomeislessthanthesumofchildcostsforthe
+20 obligor and the self-support reserve and the court has determined that the obligor is not voluntarily
+21 unemployed or underemployed, the court shall order the child support obligation in the amount of a
+22 minimumsupportorder.
+23 (b) Iftheobligorparent’sadjustedgrossincomeisgreaterthanthesumofchildcostsfor
+24 the obligor and the self-support reserve but is lower than the payment of the parental support
+25 obligation as calculated under this chapter, the presumptive child support obligation shall be the
+26 lowervalue,butinanyeventshallbenolessthantheamountofaminimumsupportorder.
+27 5 Adjustments to the Application of Guidelines under Special Circumstances; Parenting
+28 Schedule. RSA458-C:5,I(h)(2)isrepealedandreenactedtoreadasfollows:
+29 (2) In considering requests for adjustments to the application of the child support
+30 guidelinesbasedontheparentingschedule,thecourtmayconsiderthefollowingfactors:
+31 (A) Whether the parties have agreed to the specific apportionment of variable
+32 expenses for the children, including but not limited to education, school supplies, day care,
+33 afterschool, vacation and summer care, extracurricular activities, clothing, health care coverage
+34 costsanduninsuredhealthcarecosts,andotherchild-relatedexpenses.
+35 (B) Whether the obligor parent has established that the equal or approximately
+36 equal residential responsibility will result in a reduction of any of the fixed costs of child rearing
+37 incurredbytheobligeeparent.
+
+HB1762-FN-ASINTRODUCED
+-Page3-
+1 (C) Whether the income of the lower earning parent enables that parent to meet
+2 thecostsofchildrearinginasimilarorapproximatelyequalstyletothatoftheotherparent.
+3 6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3134
+12/15/25
+HB1762-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothecalculationofchildsupport.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$290,000-
+Expenditures* $0 $0 $0
+$490,000
+FundingSource(s) 34percentgeneralfunds,66percentfederalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill revises the calculation of child support under the child support guidelines. The
+Department of Health and Human Services expects that there will be a one-time cost to upgrade
+the New England Child Support Enforcement System (NECSES), estimated at $290,000 in
+FY27. In addition, the Department notes that the child support guidelines worksheet will need
+to be redesigned to ensure the calculation properly encompasses the statute. Due to the
+complexity of the proposed changes, it is possible that outside consultation with a vendor will be
+necessary. In addition, the online child support calculator will require updating, and the
+Uniform Support Order may need to be changed. The Department notes that the Uniform
+Support Order is a Judicial Branch form and it is unclear how any such changes will impact the
+Department's work. The Department assumes that any changes to the physical forms will also
+have an impact on the NECSES system. If a vendor is deemed necessary to assist with the
+updates, the additional cost is estimated at approximately $200,000. Such costs will be funded
+with34percentstategeneralfundsand66percentfederalfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

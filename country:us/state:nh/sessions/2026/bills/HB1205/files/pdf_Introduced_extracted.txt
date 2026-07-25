@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1205 -ASINTRODUCED
+2026SESSION
+26-2591
+08/09
+1205
+HOUSEBILL
+ANACT prohibiting state and county owned lands from participating in carbon
+sequestrationprojects.
+SPONSORS: Rep. A. Davis, Coos 2; Rep. Tierney, Coos 1; Rep. Durkin, Coos 1; Rep. Cole, Hills.
+26
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the enrollment of state and county owned lands in carbon sequestration
+projects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1205-ASINTRODUCED
+26-2591
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting state and county owned lands from participating in carbon
+sequestrationprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Public Land Enrollment in Carbon Sequestration Prohibited. Amend RSA 79 by
+2 insertingaftersection37thefollowingnewsection:
+3 79:38 Public Land Enrollment in Carbon Sequestration Programs Prohibited. No land owned
+4 bythestateorbyacountyshallbeenrolledinacarbonsequestrationprogram.
+5 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

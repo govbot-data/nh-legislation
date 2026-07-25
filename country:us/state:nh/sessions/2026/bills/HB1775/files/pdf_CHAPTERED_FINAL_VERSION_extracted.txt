@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER334
+HB1775-FN-FINALVERSION
+19Feb2026...0594h
+05/07/2026 1705s
+4Jun2026...2067CofC
+4Jun2026...2193EBA
+2026SESSION
+26-2700
+06/08
+1775-FN
+HOUSEBILL
+ANACT relativetoutilityownershipofnaturalgasandnuclearpowergenerationfacilities.
+SPONSORS: Rep.Bernardy,Rock.36;Rep.D.Thomas,Rock.16;Sen.Avard,Dist12
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Expands the purpose of RSA 374-G to include investment in natural gas, hydrogen, and nuclear
+technologiesforgridreliability.
+II. Authorizeselectricutilitiestoownorinvestinsuchresourcesupto10percentofpeakload.
+III. Allowsraterecoveryeligibilityforthoseinvestments.
+IV. Repeals certain limitations on utility-funded generation equipment and prior investment
+restrictions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER334
+HB1775-FN-FINALVERSION
+19Feb2026...0594h
+05/07/2026 1705s
+4Jun2026...2067CofC
+4Jun2026...2193EBA 26-2700
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoutilityownershipofnaturalgasandnuclearpowergenerationfacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 334:1 Purpose; Electric Utility Investment in Distributed Energy Resources. Amend RSA 374-G:1 to
+2 readasfollows:
+3 374-G:1 Purpose. Distributed energy resources can increase overall energy efficiency and provide
+4 energy security and diversity by eliminating, displacing, or better managing traditional fossil fuel energy
+5 deliveries from the centralized bulk power grid, in keeping with the objectives of RSA 362-F:1. It is
+6 therefore in the public interest to stimulate investment in distributed energy resources in New Hampshire
+7 in diverse ways, including by encouraging New Hampshire electric public utilities to invest in renewable
+8 and clean distributed energy resources at the lowest reasonable cost to taxpayers benefiting the
+9 transmission and distribution system under state regulatory oversight. Reliable,dispatchable,and
+10 controllablepowergenerationmustalsobeavailabletoprovideallessentialelectricservicewhen
+11 renewabledistributedenergyresources,includingstorage,arenotsufficient. Itisthereforeinthepublic
+12 interesttostimulateinvestmentinnaturalgas,hydrogen,andnucleartechnologies,includingbattery
+13 storage,toensurereliableandefficientenergyinadditiontorenewableandcleandistributedenergy
+14 resources.Giventheabilityofnucleartechnologytoprovidereactivepower,italsoensuresgridstability
+15 andsupportsvoltageregulation.
+16 334:2 New Section; Investments in Natural Gas and Nuclear Resources. Amend RSA 374-G by
+17 insertingaftersection2thefollowingnewsection:
+18 374-G:2-a InvestmentsinNaturalGasandNuclearEnergyResources.
+19 I. Notwithstandinganyotherprovisionoflawtothecontrary,aNewHampshireelectricutilitymay
+20 invest in or own natural gas or nuclear energy resources as whole generation units, or as part of a
+21 generation unit, located on or interconnected to the local electric distribution system. No individual
+22 generationunitmayexceed5megawattsinsize.
+23 II. The cumulative name plate capacity in megawatts of natural gas and nuclear electric
+24 generation owned by or receiving investments from an electric utility under this chapter shall not exceed
+25 10percentoftheutility’stotaldistributionpeakloadinmegawatts.
+26 334:3 Rate Filing; Authorization. Amend the introductory paragraph of RSA 374-G:5, I to read as
+27 follows:
+28 I. A New Hampshire electric public utility maybeeligibletoseek rate recovery for its portion of
+29 investmentsin[distributed]naturalgasandnuclearenergyresources,inadditiontorenewabledistributed
+
+CHAPTER334
+HB1775-FN-FINALVERSION
+-Page2-
+1 energyresources,from the commission by making an appropriate rate filing. At a minimum, such filing
+2 shallincludethefollowing:
+3 334:4 Rate Filing; Authorization. Amend the introductory paragraph for RSA 374-G:5, II to read as
+4 follows:
+5 II. Prior to authorizing a utility's recovery of investments made in [distributed energy resources]
+6 natural gas or nuclear distributed energy resources, or other distributed energy resources, the
+7 commission shall determine that the utility's investment and its recovery in rates, as proposed, are in the
+8 public interest. Determination of the public interest under this [section] chaptershall include giving a
+9 balancedconsiderationandproportionalweighttoeachofthefollowingfactors:
+10 334:5 Repeal. Thefollowingarerepealed:
+11 I. RSA 374-G:3, V, relative to electric generation equipment funded by public utilities and their
+12 requirements.
+13 II. RSA374-G:4,III,relativetoinvestmentsindistributedenergyresources.
+14 334:6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:July15,2026
+EffectiveDate:September13,2026

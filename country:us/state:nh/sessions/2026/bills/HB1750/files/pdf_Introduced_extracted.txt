@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1750-FN-ASINTRODUCED
+2026SESSION
+26-2575
+05/08
+1750-FN
+HOUSEBILL
+ANACT making a supplemental appropriation to the department of health and human
+servicesfortheSupplementalNutritionAssistanceProgram(SNAP).
+SPONSORS: Rep.M.Pearson,Rock.34
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes a supplemental appropriation to the department of health and human services
+for the Supplemental Nutrition Assistance Program (SNAP) to address a budget shortfall due to a
+reductioninfederalmatchingfunds.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1750-FN-ASINTRODUCED
+26-2575
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT making a supplemental appropriation to the department of health and human
+servicesfortheSupplementalNutritionAssistanceProgram(SNAP).
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Legislative Statement. The New Hampshire general court recognizes the importance of the
+2 Supplemental Nutrition Assistance Program and its vital role in the state to reduce food insecurity.
+3 On July 4, 2025, Public Law 119-21 was signed into law, which changed the federal cost share
+4 contributionfor administrative costs tosupport stateoperations from 50percent to 25percent. New
+5 Hampshire’s operating budget for the biennium ending June 30, 2027, is projected to experience a
+6 $4,400,000 general fund impact as a result of the change in policy at the federal level. Due to the
+7 timingofthefederallegislation,thelegislaturedidnothaveanopportunitytoaddressthebudgetary
+8 impacts.
+9 2 Department of Health and Human Services; Supplemental Nutrition Assistance Program
+10 (SNAP); Appropriation. There is hereby appropriated to the department of health and human
+11 services the sum of $4,400,000 for the state fiscal year ending June 30, 2027, for the purpose of
+12 supporting the administrative cost impacts resulting from federal legislative cost-share changes to
+13 SNAP. The department may accept and expend matching federal funds without prior approval of
+14 thefiscalcommittee. Thegovernorisauthorizedtodrawawarrantforsaidsumoutofanymoneyin
+15 thetreasurynototherwiseappropriated.
+16 3 EffectiveDate. ThisactshallbeeffectiveJuly1,2026.
+
+LBA
+26-2575
+12/15/25
+HB1750-FN-FISCALNOTE
+ASINTRODUCED
+ANACT making a supplemental appropriation to the department of health and human
+servicesfortheSupplementalNutritionAssistanceProgram(SNAP).
+FISCALIMPACT: Thisbilldoesnotauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $4.4million $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $4.4million $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill makes a general fund appropriation of $4.4 million in FY27 for the purpose of
+supporting an increased state share of administrative costs for the Supplemental Nutrition
+Assistance Program (SNAP). The increased state share is attributable to federal legislation
+decreasingthefederal contributionfrom 50percent to25percent of costs. As of this writing, the
+Department of Health and Human Services has not provided any additional information relative
+tothisbill.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

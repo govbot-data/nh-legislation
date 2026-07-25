@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1112 -ASINTRODUCED
+2026SESSION
+26-2630
+06/09
+1112
+HOUSEBILL
+ANACT relativetosnowremovalresponsibilitiesinresidentialleaseagreements.
+SPONSORS: Rep. Foss, Hills. 41; Rep. Hegner, Hills. 41; Rep. J. Sullivan, Graf. 2; Rep. W.
+Thomas,Hills.12;Rep.Wade,Straf.15
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes requirements for assigning responsibility for snow and ice removal in
+residentialleaseagreements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1112-ASINTRODUCED
+26-2630
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetosnowremovalresponsibilitiesinresidentialleaseagreements.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Landlord and Tenant; Snow and Ice Removal. Amend RSA 540-A by inserting
+2 aftersection3-athefollowingnewsection:
+3 540-A:3-b SnowandIceRemovalinResidentialTenancies.
+4 I. In a residential tenancy, responsibility for snow and ice removal shall be explicitly stated
+5 inthewrittenlease.
+6 II. Unless otherwise assigned in the lease, responsibility for maintaining safe access to and
+7 clearing snow and ice from common areas, including driveways, walkways, and entryways used by
+8 multipletenants,shallrestwiththepropertyownerorlandlord.
+9 III. The landlord and tenant may agree in writing that the tenant shall perform snow and
+10 ice removal for specific areas, provided the agreement is express, voluntary, and included in the
+11 lease.
+12 IV. Nothing in this section shall affect any local ordinance imposing additional duties on
+13 propertyownersoroccupantsregardingpublicsidewalksorrightsofway.
+14 2 Applicability. This act shall apply to all residential leases entered into or renewed on or after
+15 theeffectivedateofthissection.
+16 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

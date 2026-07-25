@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1394 -ASINTRODUCED
+2026SESSION
+26-3207
+08/05
+1394
+HOUSEBILL
+ANACT enabling the municipal officers to place a proposed charter amendment on the
+ballotthatchangestheformofgovernmentofthemunicipality.
+SPONSORS: Rep.Sweeney,Rock.25
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablesthemunicipalofficerstoplaceaproposedcharteramendmentontheballotthat
+changestheformofgovernmentofthemunicipality.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1394-ASINTRODUCED
+26-3207
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling the municipal officers to place a proposed charter amendment on the
+ballotthatchangestheformofgovernmentofthemunicipality.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Charter Amendments; Procedure; Change Form of Government. Amend RSA 49-B:5, I(c)-(d)
+2 toreadasfollows:
+3 (c) Notwithstanding any other provision of law, the municipal officers may, by a
+4 vote of two-thirds of their membership, place directly on the ballot a proposed charter
+5 amendment that changes the form of government of the municipality, including but not
+6 limited to: adoption of a town council, adoption of a city form, transition between council-
+7 manager and mayor-council structures, or any other structural realignment of legislative
+8 or executive authority. Any such amendment shall be adopted upon receiving a majority of
+9 thosevotingonthequestion.
+10 (d) Each amendment shall be limited to a single subject, but more than one section of
+11 thechartermaybeamendedaslongasitisgermanetothatsubject.
+12 [(d)](e) Alternativestatementsofasingleamendmentareprohibited.
+13 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

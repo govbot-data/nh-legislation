@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER25
+HB1539-FN-FINALVERSION
+19Feb2026...0409h
+2026SESSION
+26-2605
+06/08
+1539-FN
+HOUSEBILL
+ANACT authorizing electric utilities to issue AAA-rated bonds for the purpose of storm cost
+recoveryandinfrastructureresilience.
+SPONSORS: Rep. Vose, Rock. 5; Rep. Bernardy, Rock. 36; Rep. Harrington, Straf. 18; Rep.
+Mooney, Hills. 12; Rep. Schneller, Hills. 2; Rep. D. Thomas, Rock. 16; Sen. Avard,
+Dist12;Sen.Watters,Dist4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes the securitization of storm-related electric utility costs through finance orders
+issuedbythepublicutilitiescommission.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER25
+HB1539-FN-FINALVERSION
+19Feb2026...0409h
+26-2605
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing electric utilities to issue AAA-rated bonds for the purpose of storm cost
+recoveryandinfrastructureresilience.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 25:1 New Paragraph; Declaration of Purpose and Findings. Amend RSA 369-B:1 by inserting after
+2 paragraphXVIthefollowingnewparagraph:
+3 XVII. It is in the public interest for the commission to issue a finance order that is subject to the
+4 requirementsofthischapterandthatauthorizestheissuanceofratereductionbondsthatsecuritizestorm
+5 costs.
+6 25:2 New Subparagraph; Definitions. Amend RSA 369-B:2, XIV by inserting after subparagraph (g)
+7 thefollowingnewsubparagraph:
+8 (h) Stormcosts.
+9 25:3 New Paragraph; Definitions. Amend RSA 369-B:2 by inserting after paragraph XVIII the
+10 followingnewparagraph:
+11 XIX. “Storm costs” means (i) any costs that the commission determines after a hearing to have
+12 been prudently incurred by an electric utility for preparation, restoration, and response to storm damage
+13 disrupting the normal operation of the electric system and (ii) in each case, all fees, expenses, and
+14 transaction costs incurred in connection with the issuance, servicing, retirement, or refinancing of rate
+15 reductionbondswhoseproceedsareusedtopayoffthecostsdescribedinclause(i)ofthisdefinition.
+16 25:4 Authority to Issue Finance Orders to Finance RRB Costs. Amend RSA 369-B:3, I to read as
+17 follows:
+18 I. The commission is authorized, upon the petition of an electric utility and after a hearing, to
+19 issue one or more finance orders pursuant to which rate reduction bonds shall be issued, if the
+20 commission finds that the issuance of such finance order or finance orders is in the public interest as set
+21 forth in RSA 369-B:1, IX or RSA 369-B:1, XVI, orRSA369-B:1,XVII,as applicable. Any finance order
+22 adopted pursuant to 1999, 289:3, I and II prior to the effective date of this chapter shall, following the
+23 effective date of this chapter, be deemed to be authorized by this chapter, provided the commission has
+24 madetherequiredfindingpursuanttoRSA369-B:3,IV(b).
+25 25:5 New Subparagraph; Authority to Issue Finance Orders to Finance RRB Costs. Amend RSA
+26 369-B:3,IVbyinsertingaftersubparagraph(c)thefollowingnewsubparagraph:
+27 (d) Authorize the issuance of rate reduction bonds in an amount sufficient to fund any storm
+28 costs. The net benefits of accumulated deferred income taxes relating to amounts that will be recovered
+29 through any such issuance of rate reduction bonds shall be credited to retail customers by reducing the
+30 amount of such rate reduction bonds that would otherwise be issued by the net present value of the
+
+CHAPTER25
+HB1539-FN-FINALVERSION
+-Page2-
+1 related tax cash flows, using a discount rate equal to the expected interest rate on such rate reduction
+2 bonds. Thisauthorizationisinadditiontoanyamountauthorizedinsubparagraph(a),(b),or(c).
+3 25:6 New Section; Finance Orders Concerning Storm Costs. Amend RSA 369-B by inserting after
+4 section3-bthefollowingnewsection:
+5 369-B:3-c Finance Orders with Respect to Storm Costs. An electric utility may submit to the
+6 commission an application for a finance order with respect to incurred storm costs. Storm costs shall be
+7 paidoffwiththeproceedsofratereductionbondsifthecommissiondeterminesthattheissuanceofsuch
+8 rate reduction bonds is in the public interest. A determination that such rate reduction bonds are in the
+9 public interest may be based on reasons including, but not limited to, a showing that retail customers
+10 would experience lower overall costs if such rate reduction bonds are issued, as compared to traditional
+11 recovery calculated over the same time period, or that such financing would mitigate bill impacts to retail
+12 customers as compared with alternative methods of financing or direct rate recovery of such storm costs.
+13 The commission shall issue a final decision on such application for financing of storm costs within a
+14 periodnottoexceed180daysofitsreceiptofanapplicationbyanelectricutilityforafinanceorder.
+15 25:7 EstablishmentofRRBChargetoRecoverRRBCosts. AmendRSA369-B:4,IIandIIItoreadas
+16 follows:
+17 II. The commission shall set the RRB charge, per kilowatt-hour of electricity for delivery of retail
+18 electric service, in an amount necessary and sufficient to provide for the full recovery of principal,
+19 premium,ifany,interest, and credit enhancement on the rate reduction bonds, in accordance with the
+20 amortization schedule for such bonds determined at the time of offering, as well as all other fees, costs,
+21 and charges in respect to the rate reduction bonds, based upon the electric utility's reasonable
+22 assumptions,includingsalesforecasts.
+23 III. Notwithstanding any provision of RSA 369-B:3, the commission shall approve such
+24 adjustments to the RRB charge authorized to be imposed and collected pursuant to a finance order as
+25 may be necessary to ensure timely recovery of all RRB costs that are the subject of such finance order,
+26 including, without limitation, the costs of capital associated with the provision, recovery, financing, or
+27 refinancingthereof andthecostsof issuing, servicing, andretiringtheratereductionbonds contemplated
+28 by such finance order. Such RRB charge shall be adjusted periodically, but not less frequently than
+29 annually nor more frequently than monthly, in accordance with the finance order. The commission shall
+30 provide in a finance order for a procedure for the timely approval by the commission of periodic
+31 adjustments to the RRB charge that is the subject of such finance order. The commission shall approve
+32 such adjustments within 60 days of the filing of such adjustment, or within such shorter period as the
+33 finance order may designate. These adjustments shall generally serve to reconcile the actual RRB
+34 charges collected with the RRB charges expected to have been collected during the relevant prior period
+35 in a manner such that the adjusted RRB charge will be sufficient to provide for scheduled principal,
+36 premium,ifany,interest, credit enhancement, fees and other expenses associated with rate reduction
+37 bondspayableintheperiodduringwhichsuchadjustedRRBchargewillbebilled. Theelectricutilityshall
+38 includeinsuchfilingareporttothecommissionshowingthecalculationofeachsuchadjustment.
+39 25:8 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+CHAPTER25
+HB1539-FN-FINALVERSION
+-Page3-
+Approved:April15,2026
+EffectiveDate:April15,2026

@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1697-FN-ASINTRODUCED
+2026SESSION
+26-2392
+07/06
+1697-FN
+HOUSEBILL
+ANACT exemptingcertainfirearms and firearm accessories manufactured and retained in
+NewHampshirefromfederalregulation.
+SPONSORS: Rep. Belcher, Carr. 4; Rep. Corcoran, Hills. 28; Rep. Granger, Straf. 2; Rep. Tom
+Mannion, Hills. 1; Rep. Roy, Rock. 31; Rep. Spillane, Rock. 2; Rep. McFarlane,
+Graf.18;Rep.SabourinditChoiniere,Rock.30;Rep.Perez,Rock.16
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts certain firearms and firearm accessories manufactured and retained in New
+Hampshirefromfederalregulation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1697-FN-ASINTRODUCED
+26-2392
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT exemptingcertainfirearms and firearm accessories manufactured and retained in
+NewHampshirefromfederalregulation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownandcitedasthe"FirearmsFreedomandFederalismAct."
+2 2 New Chapter; In-State Only Firearms Usage. Amend RSA by inserting after chapter 159-F
+3 thefollowingnewchapter:
+4 CHAPTER159-G
+5 IN-STATEONLYFIREARMSUSAGE
+6 159-G:1 Firearms and Accessories Exempt from Commerce Clause. Any firearm or firearm
+7 accessory manufactured in this state, including rifles, pistols, revolvers, shotguns, slides, receivers,
+8 barrels, suppressors, magazines, grips, and stocks, may be marked "For N.H. Use Only. Export is
+9 Criminal." Marked firearms and accessories shall not be possessed or exported outside this state
+10 andshallbeexemptfrominterstatecommerce.
+11 159-G:2 CriminalPenalties.
+12 I. It shall be a class B misdemeanor to export or transfer a marked firearm or firearm
+13 accessoryunderRSA159-G:1outsidethebordersofthisstate.
+14 II. It shall be a class B misdemeanor to alter, destroy, or remove "For N.H. Use Only.
+15 ExportisCriminal"markingfromfirearmsorfirearmsaccessories,unlessthefirearmoraccessoryis
+16 renderedpermanentlyinoperable.
+17 159-G:3 SerialNumberandManufacturingCertificate.
+18 I. Each marked firearm or firearm accessory shall include a unique serial number inscribed
+19 thereon,consistingofthefirstthreelettersofthecity,town,orunincorporatedplaceofmanufacture,
+20 followed by the two-digit month, two-digit day, and two-digit year of manufacture, and adding
+21 sequentialadditionaldigitsforfurtheritemsmanufacturedonthesameday.
+22 II. The manufacturer shall issue a certificate of manufacture bearing the same serial
+23 number, which a purchaser shall maintain for the duration of possession. The certificate shall
+24 include multiple lines for recording transfers of ownership, including dates and transferee
+25 information.
+26 159-G:4 Federal Regulation Exemption. Firearms and firearms accessories marked "For N.H.
+27 Use Only. Export is Criminal," that are located within this state shall be ineligible for federal
+28 regulation under Article I, Section 8, Clause 3 of the U.S. Constitution and any act of the United
+29 States Congress reliant on authority delegated under the Commerce Clause of the United States
+30 Constitution.
+
+HB1697-FN-ASINTRODUCED
+-Page2-
+1 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2392
+12/1/25
+HB1697-FN-FISCALNOTE
+ASINTRODUCED
+ANACT exemptingcertainfirearms and firearm accessories manufactured and retained in
+NewHampshirefromfederalregulation.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

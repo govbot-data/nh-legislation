@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1653 -ASINTRODUCED
+2026SESSION
+26-3066
+05/08
+1653
+HOUSEBILL
+ANACT relative to emergency medical care provided at freestanding hospital emergency
+facilities.
+SPONSORS: Rep. Telerski, Hills. 11; Rep. Ohm, Hills. 10; Rep. Sheehan, Hills. 43; Rep.
+Veilleux, Hills. 34; Rep. Hartnett, Hills. 41; Rep. Gregg, Hills. 7; Rep. Chourasia,
+Hills. 11; Rep. M. Murray, Hills. 37; Rep. Vail, Hills. 6; Sen. Rosenwald, Dist 13;
+Sen.Avard,Dist12
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill regulates transfer policies at freestanding hospital emergency facilities (FHEFs). The
+bill provides that patients receiving emergency medical care at FHEFs shall have the option to
+transfer to the acute care hospital of their choice and shall not be limited solely to the facility that
+ownsoroperatestheFHEF.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1653-ASINTRODUCED
+26-3066
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to emergency medical care provided at freestanding hospital emergency
+facilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Purpose. The purpose of this act is to ensure that patients receiving emergency medical care
+2 at freestanding hospital emergency facilities (FHEFs) are provided full and fair choice of transfer to
+3 an acute care hospital, consistent with patient needs and preferences, and not limited solely to the
+4 facility that owns or operates the FHEF. This act is intended to prevent anti-competitive practices
+5 andtoprotectpatientsafety,continuityofcare,andcommunityaccess.
+6 2 New Subdivision; Patient Choice and Transfer Practices at Freestanding Hospital Emergency
+7 Facilities. AmendRSA151byinsertingaftersection53thefollowingnewsubdivision:
+8 PatientChoiceandTransferPracticesatFreestandingHospitalEmergencyFacilities
+9 151:54 Definitions. Inthissubdivision:
+10 I. “Freestanding hospital emergency facility” or “FHEF” means a hospital geographically
+11 separate from the parent hospital, which is owned or operated, directly or indirectly, by the parent
+12 hospital and which provides emergency acute care identical to those services provided by the parent
+13 hospital.
+14 II. “Parent hospital” means the hospital which owns and operates a freestanding hospital
+15 emergencyfacility.
+16 151:55 PatientChoiceinTransfers.
+17 I. Any FHEF licensed in this state shall provide patients, or their legal representatives
+18 when applicable, with the opportunity to choose the receiving hospital when a transfer is medically
+19 necessaryandthereceivinghospitalhasthecapabilitytoaddressthepatient’sneeds.
+20 II. The FHEF shall not restrict, limit, or otherwise direct transfers exclusively to the parent
+21 hospitalaffiliatedwiththeFHEFunlessrequiredbyfederallaw.
+22 III. The FHEF shall document in the medical record the patient’s hospital choice for
+23 transfer.
+24 IV. In the event a patient is not able to choose the receiving hospital, the FHEF shall
+25 arrange transfer to the closest appropriate receiving hospital that has the capability to address the
+26 patient'sneeds.
+27 151:56 ProhibitedPractices.
+28 NoFHEF,oranyentityowningoroperatingsuchfacility,shall:
+29 I. Condition treatment or discharge upon transfer to an affiliated or parent hospital based
+30 oninsuranceorlackthereof.
+
+HB1653 -ASINTRODUCED
+-Page2-
+1 II. Engage in steering, coercion, or misleading communication designed to limit patient
+2 transferchoice.
+3 III. Execute policies or contracts with emergency medical services (EMS) providers that
+4 requireorencourageexclusivetransfertoanaffiliatedorparenthospital.
+5 151:57 EnforcementandPenalties;Rulemaking.
+6 I. The commissioner of the department of health and human services shall issue interim
+7 rules under RSA 541-A:19 to implement this subdivision, and final rules shall be adopted by June
+8 30,2027.
+9 II. A pattern of violations shall be referred to the department of justice for enforcement and
+10 shall be considered an unfair or deceptive act or practice within the meaning of RSA 358-A:2. Any
+11 rightorremedysetforthinRSA358-Amybeusedtoenforcetheprovisionsofthissubdivision.
+12 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.

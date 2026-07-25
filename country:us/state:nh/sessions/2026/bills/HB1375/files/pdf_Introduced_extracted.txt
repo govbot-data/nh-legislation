@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1375 -ASINTRODUCED
+2026SESSION
+26-3034
+06/07
+1375
+HOUSEBILL
+ANACT prohibiting landlords from charging more than one application fee per tenant
+every12months.
+SPONSORS: Rep.Read,Rock.10;Rep.Wheeler,Hills.33
+COMMITTEE: Housing
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits landlords from collecting more than one application fee from the same
+prospective tenant within a 12-month period, regardless of how many units the tenant applies for or
+leases.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1375-ASINTRODUCED
+26-3034
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting landlords from charging more than one application fee per tenant
+every12months.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Certain Specific Acts Prohibited. Amend RSA 540-A:3 by inserting after
+2 paragraphVIIIthefollowingnewparagraph:
+3 VIII-a. No landlord shall require or accept more than one application fee from the same
+4 prospective tenant within any period of 12 months, regardless of the number of rental units for
+5 which the tenant applies or leases. For purposes of this section, “application fee” means any fee or
+6 charge collected for processing a rental application, including fees for background checks, credit
+7 checks, or administrative costs, whether collected for an initial application, renewal, or for applying
+8 toanotherunitunderthesamelandlordoragent.
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

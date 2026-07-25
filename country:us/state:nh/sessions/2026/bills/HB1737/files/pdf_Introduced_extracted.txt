@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1737-FN-ASINTRODUCED
+2026SESSION
+26-2362
+09/08
+1737-FN
+HOUSEBILL
+ANACT relativeto reinstatingthe death penaltyfor certain offenses against minors under
+13yearsofage.
+SPONSORS: Rep. Belcher, Carr. 4; Rep. Perez, Rock. 16; Rep. Sirois, Hills. 32; Rep. Terry,
+Belk.7
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill defines capital offenses against a child to include certain homicide and sexual assault
+offenses against minors under 13 years of age, requires those convicted of such an offense to be
+sentencedtodeath,andrequiresanyappealtoberesolvedwithinoneyearofconviction.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1737-FN-ASINTRODUCED
+26-2362
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativeto reinstatingthe death penaltyfor certain offenses against minors under
+13yearsofage.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known as and cited to as the "Capital Offenses Against Children
+2 Act."
+3 2 Legislative Findings. The 2019 abolition of the death penalty in New Hampshire abandoned
+4 the mandate that civil government wield the sword against evil in the most terrible cases of
+5 criminality. This act restores justice by reinstating capital punishment solely for the most heinous
+6 crimesagainstminorsunder13yearsofage.
+7 3 ChapterNameChange. AmendthechapterheadingofRSA630toreadasfollows:
+8 HOMICIDEANDCAPITALOFFENSES
+9 4 New Section; Capital Offenses Against aChild. Amend RSA630byinsertingafter section 1-b
+10 thefollowingnewsection:
+11 630:1-c CapitalOffensesAgainstaChild.
+12 I. "Capitaloffenseagainstachild"means:
+13 (a) First-degreemurderasdefinedinRSA630:1-awherethevictimwasunder13years
+14 ofage;
+15 (b) Second-degree murder as defined in RSA 630:1-b where the victim was under 13
+16 yearsofage;or
+17 (c) Aggravated felonious sexual assault as defined in RSA 632-A:2 involving sexual
+18 penetrationwherethevictimisunder13yearsofage.
+19 II. Notwithstanding any other penalty prescribed by law, any person found guilty of a
+20 capital offense against a child, who was 18 years of age or older at the time of the offense, shall be
+21 sentencedtodeath.Nomitigatingoraggravatingcircumstancesmayalterthissentence.
+22 5 NewSection;ProcedureinCapitalOffenseAgainstChildCases. AmendRSA630byinserting
+23 aftersection5thefollowingnewsection:
+24 630:5-a ProcedureforCapitalOffensesAgainstaChild.
+25 I. Upon conviction of a capital offense against a child, the court shall impose the death
+26 penaltybyhanging,orbyanyothermethod deemedhumaneandexpeditiousbythecommissioner of
+27 corrections.
+28 II. Appeals shall be expedited and limited to claims of evidentiary errors or constitutional
+29 violations directly related to the guilt phase. No appeals based on proportionality, mercy, or
+
+HB1737-FN-ASINTRODUCED
+-Page2-
+1 sentencing discretion shall be permitted. The supreme court shall resolve all appeals within one
+2 yearofconviction.
+3 III. The family of the victim shall have the right to provide input during sentencing,
+4 includingstatementsontheimpactofthecrime.
+5 6 Applicability. This section shall apply prospectively to offenses committed after the effective
+6 dateofthisactandshallnotapplytooffensescommittedprior.
+7 7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2362
+12/15/25
+HB1737-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativeto reinstatingthe death penaltyfor certain offenses against minors under
+13yearsofage.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$0to $0to $0to
+$7,500,000 $7,5000,000 $7,5000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+as introduced, as it is awaiting information from the Department of Justice. The Department
+was originally contacted on 11/20/25 and then again on 12/9/25 for a fiscal note worksheet.
+Whencompleted,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice
+METHODOLOGY:
+This bill reinstates capital punishment in New Hampshire for certain offenses against minors
+under 13 years of age. It creates a new category of capital offenses against a child, including
+first-degree murder, second-degree murder, and aggravated felonious sexual assault involving
+sexual penetration where the victim is under 13. The bill mandates a death sentence for
+convicted offenders who were at least 18 at the time of the offense, establishes specific
+sentencingandappealprocedures,andrequirestheSupremeCourttoresolveappealswithinone
+yearofconviction.
+The Judicial Branch states this bill would require mandatory death sentences and expedited
+appealsforcapitaloffensesinvolvingchildrenunder13,significantlyincreasingresourcesforthe
+courts. TheJudicialBranchnotesthatin2024thislawcouldhaveappliedtoanywherebetween
+0 and 288 cases. Death penalty litigation requires substantial court resources including
+
+additional Superior Court judges, court monitors, court operations specialists, and law clerks to
+meet the bill’s strict timelines for pretrial motions, jury selection, trial, and post-conviction
+appeals. The Judicial Branch states that if no capital cases are filed, there would be no fiscal
+impact. However, because the number of cases that may arise is unknown, the total fiscal
+impact is indeterminable, but the Judicial Branch estimates that costs could be between
+$1,000,000to$5,000,000peryeardependingonthenumberofcasesfiled.
+The Judicial Council states that capital cases are not considered in the current public defender
+contract; therefore, any capital case would be assigned to private counsel. Based on Judicial
+Branch data, the Council assumes the bill may apply to at least 90 defendants per year, with
+each case lasting 2 to 3 years. The Council estimates that each capital case would cost at least
+$100,000 per year in legal and expert expenses, and costs could substantially exceed that
+amount. A comparable case for which historical data exists cost more than $3,000,000 total. As
+a result, the Council estimates State expenditures could be at least $2,500,000 per year
+depending on the number of cases pending simultaneously and whether cases proceed through
+appeals.
+AGENCIESCONTACTED:
+JudicialBranch,DepartmentofJustice,andJudicialCouncil

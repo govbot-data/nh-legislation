@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1712 -ASINTRODUCED
+2026SESSION
+26-2885
+12/09
+1712
+HOUSEBILL
+ANACT relativetocharterconversionschools.
+SPONSORS: Rep.Noble,Hills.2
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill codifies charter conversion schools within a separate section of statute, and amends the
+establishment, funding, and auditing requirements relative to charter and charter conversion
+schools.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1712-ASINTRODUCED
+26-2885
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocharterconversionschools.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;CharterConversionPublicSchools. AmendRSA194-Bbyinsertingaftersection
+2 3-athefollowingnewsection:
+3 194-B:3-b CharterConversionPublicSchools.
+4 I. "Charter conversion school" means a public school which has been authorized to become a
+5 chartered public school. That school shall continue to be managed by the school board until and
+6 unless fully authorized to become a chartered public school in accordance with the provisions of RSA
+7 194-B:3withtheexceptionofRSA194-B:3,IV(a).
+8 II. Theprocessforbecomingacharterconversionschoolshallincludethat:
+9 (a) Any existing public school may by a vote of the school board and a 2/3 majority vote
+10 taken by the school district at a regular annual meeting pursuant to RSA 195, RSA 197, or the
+11 governing charter, called for the purpose and provided that an article is inserted in the warrant for
+12 saidmeetingtobecomeacharterconversionschool.
+13 (b) All pupils attending a school which successfully converts to charter status shall be
+14 eligibleforadmissiontosuchcharteredpublicschool.
+15 (c) Nothing in this section shall be construed to limit a school district's obligation to
+16 provide special education services to all qualifying students residing in the district consistent with
+17 therequirementsofstateandfederallaw.
+18 (d) No greater than 25 percent of the membership of a school board, or one member,
+19 whichever number is greater, may simultaneously serve as members of the board of trustees of a
+20 charter or charter conversion school. No greater than 25 percent of the membership of the board of
+21 trustees of a charter or charter conversion school, or one member, whichever is greater, may
+22 simultaneously serve as members of any school board. A chartered public school board of trustees
+23 shall include no fewer than 25 percent or 2 parents of pupils attending the chartered public school,
+24 whicheverisgreater. Teachersofacharteredpublicschoolmayserveonitsboardoftrustees.
+25 III. CharterconversionschoolfundingshallbeasspecifiedinRSA194-B:11.
+26 2 CharterConversionSchoolDefinition. AmendRSA194-B:1,Vtoreadasfollows:
+27 V. "Charterconversionschool"meansapublicschoolwhichhasbeenauthorizedtobecomea
+28 chartered public school. That school continues to be managed by the school board until and unless
+29 fully authorized to become a chartered public school in accordance with the provisions of RSA 194-
+30 B:3,withtheexceptionofRSA194-B:3,IV(a).
+31 3 CharteredPublicSchools;Establishment. AmendRSA194-B:2,Itoreadasfollows:
+
+HB1712 -ASINTRODUCED
+-Page2-
+1 I. Any school district legislative body may vote to [designate] convert one or more of its
+2 schoolsasacharteredpublicschoolasdefinedinRSA194-B:1,pursuanttoRSA194-B:3,VI.
+3 4 RatificationofCharterSchoolContracts. AmendRSA194-B:3,III(e)toreadasfollows:
+4 (e) The state board shall submit 2 copies of the approved contract to the clerk of the
+5 school district who shall make the contract available for inspection by the voters of the school
+6 district. The school board shall submit a warrant article to the school district legislative body for
+7 ratification or denial without amendment. The ratification question shall be placed on the warrant
+8 ofthenextspecialorannualschooldistrictmeetingandshalltakethefollowingform:
+9 "Shall the district raise and appropriate the necessary funds and ratify the proposed contract
+10 between the __________ chartered public school and the __________ school district, for a period of 5
+11 years for initial [adoption or] charter approval and thereafter for a period of [7] 5 years for
+12 renewal, with a first year annual appropriation of $ ___ per student not to exceed $ ___ which shall
+13 be approved by the voters in the district operating budget? The first year total financial impact of a
+14 'yes'voteonthisquestionisestimatedbytheschoolboardat$___.
+15 _________Yes _________No"
+16 In districts without annual meetings, the legislative body shall have final authority to ratify or deny
+17 the state board approved contract. A ratified contract grants final authority for the chartered public
+18 schooltooperateforthelifeofitscontractandtoreceiveschooldistrictfunds.
+19 5 New Subparagraph; School District Eligibility to Apply. Amend RSA 194-B:3, V by inserting
+20 aftersubparagraph(c)thefollowingnewsubparagraph:
+21 (d) ANewHampshirepublicschooldistrict.
+22 6 Chartered Public School Program Audits Limited. Amend RSA 194-B:10, III to read as
+23 follows:
+24 III. To ensure compliance with its application and contract and applicable law, a chartered
+25 public school shall be subject to a first year program audit by the department of education or its
+26 agent, and shall be subject to a program audit [by the department of education at least once every 3
+27 yearsthereafter]afterthecharteredpublicschool'sthirdyearofoperation.
+28 7 CharterConversionSchoolFunding. AmendRSA194-B:11,I(a)toreadasfollows:
+29 (a) There shall be no tuition charge for any [pupil] resident of the state attending a
+30 charter [conversion] school [located in that pupil's resident district] except as authorized in this
+31 section for district approved charter schools receiving tuition from their resident district
+32 school. [Funding limitations in this chapter shall not be applicable to charter conversion schools
+33 located in a pupil's resident district.] For a chartered public school authorized by the school district,
+34 the pupil's resident district shall pay to such school an amount equal to not less than 80 percent of
+35 that district's average cost per pupil as determined by the department of education using the most
+36 recent available data as reported by the district to the department. For a resident pupil
+37 attending the district approved charter school, the student shall be included in the district
+
+HB1712 -ASINTRODUCED
+-Page3-
+1 adequacy ADMR for the purpose of calculating district adequacy pursuant to RSA 198:40-a
+2 and distribution of state funding according to RSA 198:42. For pupils resident in this state
+3 who attend full-time a chartered public school authorized by a school district other than the pupil's
+4 resident school district, the state shall pay tuition amounts pursuant to RSA 198:40-a directly to the
+5 chartered public school for such pupil in the chartered public school's ADMA. Nothing in this
+6 subparagraphshallalterormodifythefundingoftheVirtualLearningAcademyCharterSchool.
+7 8 EffectiveDate. Thisactshalltakeeffectuponitspassage.

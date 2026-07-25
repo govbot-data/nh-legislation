@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER38
+HB1503-FINALVERSION
+2026SESSION
+26-2493
+07/08
+1503
+HOUSEBILL
+ANACT allowingthedepartmentofeducationtoallocatefundstocreateadatabaseofmapsof
+publicschoolsforemergencyusecases.
+SPONSORS: Rep. Ladd, Graf. 5; Rep. Popovici-Muller, Rock. 17; Rep. Peeples, Hills. 14; Rep.
+Damon,Sull.8;Rep.Kofalt,Hills.32;Sen.Sullivan,Dist18
+COMMITTEE: EducationFunding
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows the department of education to allocate funds to create a database of maps of public
+schoolsforemergencyusecases.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER38
+HB1503-FINALVERSION
+26-2493
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowingthedepartmentofeducationtoallocatefundstocreateadatabaseofmapsof
+publicschoolsforemergencyusecases.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 38:1 New Subparagraph; Education; Public School Infrastructure Fund and Public School
+2 InfrastructureCommission;PublicSchoolInfrastructureFund. AmendRSA198:15-y,IIIbyinsertingafter
+3 subparagraph(g)thefollowingnewsubparagraph:
+4 (h) Enhance public school emergency readiness with critical incident mapping technology to
+5 allow emergency response personnel and internal teams to operate from a unified understanding of site-
+6 specificnomenclatureandotherplacecharacteristicsassociatedwithbuildinginfrastructureandgrounds.
+38:2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:April22,2026
+EffectiveDate:April22,2026

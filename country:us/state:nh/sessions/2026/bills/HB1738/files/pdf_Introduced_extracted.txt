@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1738-FN-ASINTRODUCED
+2026SESSION
+26-2643
+04/09
+1738-FN
+HOUSEBILL
+ANACT relativetoratepayerbenefitsfromtheregionalgreenhousegasinitiative.
+SPONSORS: Rep. Harrington, Straf. 18; Rep. McGhee, Hills. 35; Rep. Vose, Rock. 5; Sen.
+Rosenwald,Dist13;Sen.Watters,Dist4
+COMMITTEE: Science,TechnologyandEnergy
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill changes the carbon dioxide emissions budget allowances for 2027 through 2030 and
+thereafter, and creates 2 cost containment allowance levels and the trigger price at which the
+departmentreleasesallowancesforyears2027through2030andthereafter.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1738-FN-ASINTRODUCED
+26-2643
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoratepayerbenefitsfromtheregionalgreenhousegasinitiative.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Multiple Pollutant Reduction Program; Definition; Regional Organization; RGGI allowance.
+2 AmendRSA125-O:20,XIII-XVtoreadasfollows:
+3 XIII. "Regionalorganization"meansanon-profitorganizationformedbythesignatorystates
+4 to RGGI to provide technical and administrative assistance for such things as: emissions and
+5 allowance tracking, [offsets development and implementation,] allowance market monitoring, and
+6 datacollection. Theorganizationshallhavenoregulatoryorenforcementauthority.
+7 XIV. "Retire" means submitting a RGGI allowance to the department for compliance or
+8 other purpose or retaining a RGGI allowance by the department such that the allowance may never
+9 besoldorotherwiseusedagain.
+10 XV. "RGGI allowance" means a limited authorization to emit one ton of CO2 issued by the
+11 departmentorotherstatewithaprogramthatthedepartmentdeterminesisinaccordancewiththis
+12 subdivision or the RGGI program, including emissions limitations as documented by the regional
+13 organization, and shall include budget allowances[, offset allowances, and early reduction
+14 allowances].
+15 2 Carbon Dioxide Emissions Budget Trading Program. Amend RSA 125-O:21, II to read as
+16 follows:
+17 II. The program shall include a statewide budget allowance total for each year calculated as
+18 follows:
+19 [20194,184,333minusFCPBAminusSCPBA
+20 20204,079,725minusFCPBAminusSCPBA
+21 20213,960,999minusTBA
+22 20223,842,274minusTBA
+23 20233,723,549minusTBA
+24 20243,604,823minusTBA
+25 20253,486,098minusTBA]
+26 20263,367,373
+27 2027[3,248,648]2,993,220
+28 2028[3,129,922]2,619,068
+29 2029[3,011,197]2,244,915
+30 2030andthereafter[2,892,472]1,870,763
+31 3 Compliance;PermitRequired. AmendRSA125-O:22,Vtoreadasfollows:
+
+HB1738-FN-ASINTRODUCED
+-Page2-
+1 V. InadditiontotheprovisionssetforthinRSA125-O:7,anaffectedCO2sourcethatfailsto
+2 obtain and retire sufficient RGGI allowances during a compliance period, in accordance with RSA
+3 125-O:22, I, shall obtain and surrender 3 RGGI budget [or early reduction] allowances in the next
+4 compliance period for each RGGI allowance that the affected CO2 source was short in obtaining
+5 compliance.
+6 4 Cost Containment Allowances in Addition to the Budget. RSA 125-O:29, I is repealed and
+7 reenactedtoreadasfollows:
+8 I. For the purposes of cost containment, the department shall make available for sale at one
+9 or more auctions up to the following amounts of allowances, that shall be in addition to the budget
+10 allowancetotalforthegivenyearunderRSA125-O:21,II,if:
+11 (a) The CO2 allowance auction price equals or exceeds $19.50 in 2027, up to 503,667
+12 allowancesandupto503,667additionalallowancesifitequalsorexceeds$29.25;
+13 (b) The CO2 allowance auction price equals or exceeds $20.87 in 2028, up to allowances
+14 andupto503,667additionalallowancesifitequalsorexceeds$31.30;
+15 (c) The CO2 allowance auction price equals or exceeds $22.33 in 2029, up to 503,667
+16 allowancesandupto503,667additionalallowancesifitequalsorexceeds$33.49;
+17 (d) The CO2 allowance auction price equals or exceeds $23.89 in 2030, up to 503,667
+18 allowancesandupto503,667additionalallowancesifitequalsorexceeds$35.83;
+19 (e) In any year thereafter, the CO2 allowance auction price equals or exceeds 1.07
+20 multiplies by the auction price at which cost containment allowances were required to be made
+21 available in the previous calendar year rounded to the nearest whole cent, until further legislative
+22 action.
+23 5 Repeal. Thefollowingarerepealed:
+24 I. RSA 125-O:20, VII and VII-a, relative to the definition of early reduction allowances and
+25 thedefinitionofFCPBAorfirstcomplianceperiodbankedallowances.
+26 II. RSA125-O:20,X,relativetothedefinitionofoffsetallowances.
+27 III. RSA 125-O:20, XV-a, relative to the definition of second compliance period banked
+28 allowances(SCPBA).
+29 IV. RSA 125-O:20, XVIII, relative to the definition of third adjustment for banked
+30 allowances(TBA).
+31 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2643
+12/15/25
+HB1738-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoratepayerbenefitsfromtheregionalgreenhousegasinitiative.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+(seebelow) (seebelow) (seebelow)
+RevenueFund(s) EnergyEfficiencyFund
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+(seebelow) (seebelow) (seebelow)
+FundingSource(s)
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill updates New Hampshire’s participation in the Regional Greenhouse Gas Initiative by
+revising the carbon dioxide emissions allowance cap from 2027 through 2030 and maintaining
+the 2030 allowance level thereafter unless modified through a future program review. The bill
+also revises the cost containment reserve by establishing two allowance tiers and associated
+trigger prices to provide additional price controls. These changes are intended to implement the
+thirdRGGIProgramReviewasadoptedbyparticipatingstates.
+The Department of Environmental Services and the Department of Energy, which together
+administer New Hampshire’s participation in RGGI state this bill implements the third RGGI
+Program Review adopted by all participating states and updates the allowance cap trajectory
+
+beginning in 2027, resulting in larger annual reductions in allowances through 2030 than under
+current law. The bill also modifies the cost containment reserve by adding a second tier of
+allowances to provide additional consumer price protection during periods of high allowance
+prices. The Departments state that revenue from RGGI allowance auctions is deposited into the
+EnergyEfficiencyFund and is primarily used toprovide rebates toelectricity customers to offset
+the cost of allowance purchases reflected in wholesale electricity prices. In calendar year 2024,
+New Hampshire received approximately $65,800,000 in auction proceeds, of which about
+$62,600,000 was returned to ratepayers, with the remaining funds used for energy efficiency
+programsandadministrativecosts.
+The Departments explain that future RGGI auction prices are uncertain and depend on market
+conditions, making the fiscal impact of the revised allowance trajectory indeterminable.
+Economic modeling conducted as part of the RGGI Program Review indicates that if this bill is
+enacted, allowance prices under the updated program could decrease somewhat during the 2028
+through 2030 period. Under the bill, New Hampshire would continue to participate in RGGI
+auctionsandisexpectedtoreceiveauctionproceedsintherangeofapproximately$33,000,000to
+$46,000,000 per year during that period, with the majority returned to consumers through bill
+rebates. This would represent a reduction compared to historical auction revenues of
+approximately$66,000,000peryear,butwouldpreservecontinuedauctionparticipation.
+However, the Departments state that under current law, beginning in 2027, New Hampshire’s
+allowance structure would no longer align with RGGI program requirements and allowances
+would not be offered for sale at auction, resulting in the loss of all RGGI auction revenue,
+estimatedatapproximately$65,800,000annually. Whilethis billwould reduceauctionproceeds
+relativetoprioryears,itwouldavoidthecompletelossofauctionrevenueundercurrentlawand
+maintain continued ratepayer benefits through rebates, with the net impact on State, county,
+andmunicipalenergycostsremainingindeterminable.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServicesandDepartmentofEnergy

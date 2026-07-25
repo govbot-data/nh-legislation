@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1123 -ASINTRODUCED
+2026SESSION
+26-2608
+07/06
+1123
+HOUSEBILL
+ANACT requiringcertaincompaniestopostexpectedsalaryrangesonpublicjoblistings.
+SPONSORS: Rep. Wade, Straf. 15; Rep. H. Howard, Straf. 4; Rep. McDonnell, Rock. 25; Rep.
+Butler,Straf.12;Sen.Watters,Dist4
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequirescertaincompaniestopostexpectedsalaryrangesonpublicjoblistings.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1123-ASINTRODUCED
+26-2608
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringcertaincompaniestopostexpectedsalaryrangesonpublicjoblistings.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Labor; Noncompete Agreements; Salary Ranges Required In Job Postings.
+2 AmendRSA275byinsertingaftersection70-athefollowingnewsection:
+3 275:70-b SalaryRangesRequiredInJobPostings.
+4 I. Inthissection:
+5 (a) "Employer" means a person or entity that employs 50 or more employees at one or
+6 more sites in New Hampshire and includes an individual, corporation, partnership, association,
+7 nonprofit organization, group of persons, state, county, town, city, school district, or other
+8 governmentalsubdivision.
+9 (b) "Posting" means any solicitation intended to recruit job applicants for a specific
+10 available position, including recruitment done directly by an employer or indirectly through a third
+11 party, and includes any postings made electronically or via printed hard copy that specify
+12 qualificationsfordesiredapplicants.
+13 (c) "Salary range" means the minimum and maximum annual salary or hourly range of
+14 compensation, based on the employer's good faith estimate, for a job opportunity of the employer at
+15 thetimeofthepostingofanadvertisementforsuchopportunity.
+16 II.(a) An employer shall disclose in each posting for each job opening with the employer a
+17 startingsalaryrangeand ageneraldescriptionofallbenefitsand othercompensation,includingany
+18 healthorretirementbenefits,tobeofferedtoahiredjobapplicant.
+19 (b) An employer that does not plan to negotiate a salary or wage range for a position
+20 shalllistafixedpayrate.Asalaryrangeshallnotbeopenended.
+21 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1347 -ASINTRODUCED
+2026SESSION
+26-3130
+09/08
+1347
+HOUSEBILL
+ANACT relativetohealthcareprovidernetworksandreferrals.
+SPONSORS: Rep.Tellez,Hills.40;Rep.Nagel,Belk.6
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits health care facilities from refusing referrals from independent and outside
+primary care providers so long as the health care facility and specialist accept the insurance of the
+patient,andestablishespenaltiesforfailuretocomply.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1347-ASINTRODUCED
+26-3130
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetohealthcareprovidernetworksandreferrals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Health Care Referrals. Amend RSA 151 by inserting after section 9-b the
+2 followingnewsection:
+3 151:9-c HealthCareReferrals.
+4 I. No health care facility licensed under this chapter shall prohibit referrals from
+5 independent and outside primary care providers so long as the health care facility and specialist
+6 accepttheinsuranceofthepatient,pursuanttoRSA151:21,XXI.
+7 II. The attorney general shall be empowered to enforce the provisions of this section. Any
+8 healthcarefacilitythatviolatesthissectionshallbesubjectto:
+9 (a) A$100,000civilfineperviolation.
+10 (b) Lossofnonprofitstatusunderstatelaw,ifthehealthcarefacilityisanonprofit.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

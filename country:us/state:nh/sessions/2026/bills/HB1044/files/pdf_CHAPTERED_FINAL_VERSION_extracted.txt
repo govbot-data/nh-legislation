@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER48
+HB1044-FINALVERSION
+5Feb2026...0069h
+03/26/2026 1205s
+2026SESSION
+26-2403
+08/06
+1044
+HOUSEBILL
+ANACT relativetothefillingofvacanciesintheofficeofacountycommissioner.
+SPONSORS: Rep. Turcotte, Straf. 4; Rep. Burnham, Straf. 2; Rep. Bailey, Straf. 2; Rep. Walker,
+Straf. 19; Rep. DeRoy, Straf. 3; Rep. Harrington, Straf. 18; Rep. Ankarberg, Straf. 7;
+Rep. Farrington, Straf. 8; Rep. Potenza, Straf. 19; Rep. Granger, Straf. 2; Sen. Gray,
+Dist6
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires a vacancy in the office of county commissioner to be filled by the members of the
+countyconventionandallowsdistrict-basedvotingwhereapplicable.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER48
+HB1044-FINALVERSION
+5Feb2026...0069h
+03/26/2026 1205s 26-2403
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothefillingofvacanciesintheofficeofacountycommissioner.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 48:1 CountyOfficers;Vacancies. RSA661:9,IIisrepealedandreenactedtoreadasfollows:
+2 II.(a) If a vacancy occurs in the office of a county commissioner, the members of the county
+3 conventionshallfillthevacancyasfollows:
+4 (1) If voting for the commissioners in the biennial election is not by district or is not
+5 restrictedtoresidentsofthedistrict,allofthecountyconventionmembersshallvotetofillthevacancyby
+6 amajorityoftheballotscastuntilthenextbiennialelectionofcountyofficers.
+7 (2) Ifthecommissionersofthecountyinthebiennialelectionsareelectedbydistrictand
+8 voting for the commissioner is restricted to residents of the district, only members of the county
+9 conventionwhorepresentcitywardsortownsinthedistrictshallbeeligibletovote.
+10 (3) If limiting the vote to county convention members representing city wards and towns
+11 in the district results in fewer than 3 members eligible to vote for the vacancy, all members of the county
+12 conventionareeligibletovoteforthevacancy.
+13 (4) If the term filled is less than the unexpired term, then notwithstanding any provisions
+14 of RSA 653:1, VI, the commissioner district filled pursuant to this paragraph shall be added to the next
+15 biennialelectionballottobechosenbythevotersofthecountyfortheremainderoftheterm. Theperson
+16 electedshalltakeofficeatthenextmeetingofthecountycommissionersafteranyrecountiscompleted.
+17 (b) The provisions of subparagraph (a) shall apply only where the vacancy occurred no later
+18 than30daysprecedingtheprintingoftheballotsfortheprimaryelection.
+19 (c) The provisions of RSA 655:32 and RSA 655:37, relating to nominations by appropriate
+20 party committees for vacancies in an office on a primary or general election ballot, respectively, shall
+21 applytovacanciestobefilledunderthisparagraph.
+48:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May08,2026
+EffectiveDate:July07,2026

@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1108-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...1113h
+2026SESSION
+26-2548
+09/08
+1108-FN
+HOUSEBILL
+ANACT relativetotheoffenseofcriminalthreatening.
+SPONSORS: Rep. McFarlane, Graf. 18; Rep. Aures, Merr. 13; Rep. Popovici-Muller, Rock. 17;
+Rep. Noble, Hills. 2; Rep. Drew, Hills. 19; Rep. Granger, Straf. 2; Sen. Innis, Dist
+7;Sen.Murphy,Dist16
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises the standard for when a person shall not be deemed to have committed the
+offenseofcriminalthreatening,whenrespondingtocertainthreats.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1108-FN-ASAMENDEDBYTHEHOUSE
+11Mar2026...1113h 26-2548
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofcriminalthreatening.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CriminalThreatening; ActionsinResponsetoCertainThreats. RSA631:4, IVis repealed and
+2 reenactedtoreadasfollows:
+3 IV. A person who, in response to conduct that could reasonably be perceived by a person as
+4 likely to result in serious bodily injury, death, theft, unlawful intrusion, or refusal to leave after
+5 lawful trespass notice, displays a firearm or other lawful means of self-defense with the intent to
+6 deter such conduct, shall not be deemed to have committed a criminal act under this section.
+7 Nothing in this section shall be construed to limit the open carrying of firearms as otherwise
+8 permittedbylaw.
+9 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2548
+03/18/2026
+HB1108-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1113h)
+ANACT relativetotheoffenseofcriminalthreatening.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

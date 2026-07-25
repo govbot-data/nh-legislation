@@ -1,0 +1,204 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1735-FN-ASINTRODUCED
+2026SESSION
+26-2962
+05/06
+1735-FN
+HOUSEBILL
+ANACT permittingtreatmentofcertainsevereillnessundertherighttotryact.
+SPONSORS: Rep. Cole, Hills. 26; Rep. Kesselring, Hills. 18; Rep. Layon, Rock. 13; Rep. Notter,
+Hills. 12; Rep. Reinfurt, Hills. 29; Rep. D. McGuire, Merr. 14; Rep. Bernardy,
+Rock. 36; Rep. Ulery, Hills. 13; Rep. Morton, Hills. 39; Sen. Murphy, Dist 16; Sen.
+Sullivan,Dist18;Sen.Innis,Dist7
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillpermitstreatmentofcertainsevereillnessundertherighttotryact.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1735-FN-ASINTRODUCED
+26-2962
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT permittingtreatmentofcertainsevereillnessundertherighttotryact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 RighttoTryAct. AmendRSA126-Z:1through126-Z:4toreadasfollows:
+2 126-Z:1 Definitions. Inthischapter:
+3 I. "Eligible facility" means a licensed New Hampshire institution that is operating under a
+4 FederalwideAssurance("FWA")fortheProtectionofHumanSubjectsunder42U.S.C.section289(a)
+5 and 45 C.F.R. part 46. Any eligible facility is subject to the FWA laws, regulations, policies, and
+6 guidelinesincludingrenewalsorupdates.
+7 I-a. ["Eligiblepatient"meansapersontowhomallofthefollowingapply:
+8 (a) Thepersonhasbeendiagnosedwithaterminalillnessbytheperson'sphysician.
+9 (b) ThepersonhasalreadytriedorisnotacandidateforeligibleUnitedStatesFoodand
+10 DrugAdministration(FDA)approvedtreatmentoptionsfortheirdiseaseorcondition.
+11 (c) The person is unable to participate in a clinical trial involving the eligible
+12 investigationaldrug,biologicordevice.
+13 (d) The person has given written informed consent for the use of the investigational
+14 drug,biologicalproduct,or deviceor,ifthepatientisaminororlacksthementalcapacitytoprovide
+15 informed consent, a parent or legal guardian has given written informed consent on the patient's
+16 behalf.
+17 (e) The physician providing access to an investigational drug, biologic, or device will not
+18 becompensateddirectlybythemanufacturerforprovidingaccesstothistherapy.
+19 I-b.] "Health care provider" means a physician licensed to practice medicine in the state of
+20 NewHampshire.
+21 [I-c.] I-b "Individualized investigational treatment" means drugs, biologics, or devices
+22 [unique to and produced exclusively for use for an individual patient, based on their own genetic
+23 profile, including but not limited to individualized gene therapy antisense oligonucleotides (ASO),
+24 individualizedneoantigenvaccines,andanyotherindividualizedtreatment].
+25 II. ["Investigational drug, biologic, or device" means a drug, biologic, or device that has
+26 successfully completed phase one of a clinical trial, but has not been approved for general use by the
+27 FDAandremainsunderinvestigationinaclinicaltrial.
+28 II-a.]"Otherprotectedaccess"includes:
+29 (a) "Expanded access" whereby the treating physician requests access to an
+30 investigational drug, biologic, or device from the FDA and is subject to oversight from an
+31 InstitutionalReviewBoard;and
+
+HB1735-FN-ASINTRODUCED
+-Page2-
+1 (b) "Off-label use" means prescribing anFDA approved drug, biologic, or devicefor a use
+2 notapprovedforthatspecificindicationconsistentwithRSA329:17,VI-b.
+3 III. "Physician" means the licensed allopathic or osteopathic physician who is providing
+4 medicalcareortreatmenttothe[eligible]patientfortheterminalorqualifyingsevereillness.
+5 III-a.(a) “Qualifying severe illness” means an illness that is both chronic and
+6 debilitating.
+7 (b) “Chronic and debilitating” shall have the same meaning as “severely
+8 debilitating”definedunder21C.F.R.312.81(b).
+9 IV. "Remote signing" means the signing of any form, witnessed by a notary public or a
+10 licensed health care provider, providing written informed consent for a person diagnosed by a
+11 physician with a terminal or qualifying severe illness to participate in a clinical trial or receive a
+12 drug, biologic, or device, by the patient or, if the patient is a minor or lacks the mental capacity to
+13 provideconsent,byaparentorlegalguardianonthepatient'sbehalf.
+14 V. "Telehealth prescreening" means any remote, real-time discussion intended, in part, to
+15 determinewhetherapersonwithaterminalorqualifyingsevereillnessmaybe:
+16 (a) Ineligibleforornotselectedtoparticipateinaclinicaltrial;or
+17 (b) Ineligibletoreceiveornotbeofferedadrug,biologic,ordevice.
+18 VI. "Terminal illness" means diseases or conditions where the likelihood of death is high
+19 unless the course of the disease is interrupted, and diseases or conditions with potentially fatal
+20 outcomes, where the endpoint of a clinical trial analysis is survival, which is the definition of "life
+21 threatening"under21C.F.R.section312.81.
+22 126-Z:2 AvailabilityofInvestigationalDrugs,Biologics,orDevices;Costs;Coverage.
+23 I. A manufacturer [of an investigational drug, biologic, or device] may make [available an
+24 investigational] a drug, biologic, or device [to eligible patients pursuant to this chapter. A
+25 manufacturer may:] not approved by the United States Food and Drug Administration
+26 availabletopatientsiftherequirementsofRSA126-Z:3,IIIaresatisfied.
+27 I-a. Pursuanttothischapter,amanufacturermay:
+28 (a) Provide [an investigational] a drug, biologic, or device to [an eligible] a patient
+29 withoutreceivingcompensation.
+30 (b) Require[aneligible]apatienttopay[thecostsoforassociatedwiththemanufacture
+31 of the investigational] for the treatment and establish payment arrangements for the drug,
+32 biologic,ordevice.
+33 (c) Require [an eligible] a patient to participate in data collection relating to the use of
+34 the[investigational]drug,biologic,ordevice.
+35 II. This chapter shall not require a health care insurer or any state agency to provide
+36 coverageforthecostofany[investigational]drug,biologic,ordevice.
+
+HB1735-FN-ASINTRODUCED
+-Page3-
+1 III. Nothing in this chapter shall require the manufacturer of [an investigational] a drug,
+2 biologic,ordevicetoinclude[aneligible]apatientinaparticularclinicaltrialorstudy.
+3 IV. Nothing in this chapter shall require a health care provider, health care facility, or the
+4 manufacturer of [an investigational] a drug, biological product, or device, to make an experimental
+5 treatmentavailableto[aneligible]apatient.
+6 126-Z:3 LiabilityofPhysician;Facility.
+7 I. Notwithstanding any provision of law to the contrary, the board of medicine shall not
+8 revoke, fail to renew, or take any other action against a physician's license issued pursuant to RSA
+9 329 based primarily on a physician's recommendation to [an eligible] a patient regarding or
+10 prescription for or treatment with [an investigational] a drug, biologic, or device pursuant to this
+11 chapter.
+12 II. Notwithstanding any provision of law to the contrary, the department of health and
+13 human services shall not take action against a facility licensed under RSA 151 based primarily on
+14 the institution's participation in the treatment or use of [an investigational] a drug, biologic, or
+15 deviceunderthischapter.
+16 III. Notwithstandinganyprovisionoflawtothecontrary,amanufacturerofadrug,biologic,
+17 or device, a pharmacist, a health care facility, a health care provider, or a person or entity involved
+18 in the care of a patient using a drug, biologic, or device is immune from suit for any harm done to a
+19 patientresultingfromthedrug,biologic,ordeviceif:
+20 (a) The person has a terminal or qualifying severe illness as determined by the
+21 person'sphysicianandaconsultingphysician;
+22 (b) The person's physician has determined that the person has no comparable or
+23 satisfactory United States Food and Drug Administration (FDA) approved treatment options
+24 availablenotapprovedbytheFDAtotreatthediseaseorconditioninvolved;
+25 (c) The patient has given written informed consent for the use of the drug, biologic, or
+26 deviceor,ifthepatientisaminororlacksthementalcapacitytoprovideinformedconsent,aparent
+27 or legal guardian has given written informed consent on the patient's behalf and, if the patient is a
+28 legaladult,theconsentisnotcontrarytothepriordocumentedwishesofthepatient;
+29 (d) The manufacturer, pharmacist, facility, provider, or other person or entity has not
+30 engaged in willful or reckless misconduct or other bad faith conduct. "Willful or reckless
+31 misconduct" shall include, but is not limited to, any conduct intended to hasten the death of the
+32 patient;and
+33 (e) If the drug, biologic, or device is an individualized investigational treatment, it is
+34 administeredbyahealthcareprovider[at]incooperationwithaneligiblefacility.
+35 126-Z:4 PrivateCauseofAction.
+36 I. Nothing in this chapter shall be construed to create a private cause of action against any
+37 personorentityexceptasspecifiedinparagraphII.
+
+HB1735-FN-ASINTRODUCED
+-Page4-
+1 II. Notwithstanding any provision of law to the contrary, any patient diagnosed with a
+2 terminal or qualifyingsevereillnessbyaphysician,andwhohasbeentreated,isbeingtreated,or
+3 otherwise could be treated in New Hampshire with a drug, biologic, or device, and is affected by a
+4 violation of this chapter, or a health care facility or a health care provider involved in the treatment
+5 of the patient, shall be entitled to petition the superior court for injunctive relief and reasonable
+6 attorney'sfeesagainstanyregulatoryorlawenforcementauthoritythatviolatesthischapter.
+7 2 TelehealthPrescreening. AmendRSA126-Z:6,Itoreadasfollows:
+8 I. Notwithstanding any regulation or provision of law to the contrary, any health care
+9 provider, while physically located in New Hampshire, may conduct a telehealth prescreening with
+10 any patient, in any state or jurisdiction, who has been diagnosed by a physician with a terminal or
+11 qualifyingsevereillness.
+12 3 StatutoryConstruction. AmendRSA126-Z:8toreadasfollows:
+13 126-Z:8 Statutory Construction. The general court enacts this chapter to promote maximum
+14 access by removing barriers in state law and indemnifying those involved in providing potentially
+15 life-saving or dramatically life-improving treatments and treatments to improve the quality of
+16 patients' remaining life, to incentivize health care facilities, health care providers, manufacturers of
+17 drugs, biologics and/or devices, and other persons and entities involved in the care of patients, to
+18 treat terminal and qualifying severe illness, whether through company-sponsored clinical trial,
+19 single-patient protocol, compassionate use protocol, or any other means of access to drugs, biologics,
+20 and/or devices which gathers information on patient outcomes, and to make New Hampshire a
+21 jurisdiction that attracts and fosters clinical trials and the development of drugs, biologics, and
+22 devices intended to treat terminal and qualifying severe illness. This chapter shall be construed
+23 consistentlywiththegeneralcourt'sstatedpurpose.
+24 4 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2962
+12/12/25
+HB1735-FN-FISCALNOTE
+ASINTRODUCED
+ANACT permittingtreatmentofcertainsevereillnessundertherighttotryact.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

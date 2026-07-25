@@ -1,0 +1,306 @@
+Title: 
+Official Title: 
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0980h
+11Mar2026...1117h
+05/14/2026 1851s
+05/14/2026 1876s
+4Jun2026...2109CofC
+4Jun2026...2173EBA
+2026SESSION
+26-2870
+05/06
+1300
+HOUSEBILL
+ANACT establishing a school district local tax cap question for the state general elections
+of2026and2028andrelatedlimitationsoncentralofficeadministrativeexpenses
+inschooldistricts.
+SPONSORS: Rep.Ankarberg,Straf.7;Sen.Innis,Dist7
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Establishesaschooldistrictlocaltaxcapquestionforthestategeneralelectionof2026.
+II. Establisheslimitationsoncentralofficeadministrativeexpensesinschooldistricts.
+III. Requires that the commissioner of the department of revenue administration adopt rules
+relative to the school district local tax cap question and limitations on central office administrative
+expensesinschooldistricts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+11Mar2026...0980h
+11Mar2026...1117h
+05/14/2026 1851s
+05/14/2026 1876s
+4Jun2026...2109CofC
+4Jun2026...2173EBA 26-2870
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a school district local tax cap question for the state general elections
+of2026and2028andrelatedlimitationsoncentralofficeadministrativeexpenses
+inschooldistricts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Municipal Budget Law; Preparation of Budgets; School District Local Tax Cap
+2 and School Administrative Fixed Cap on Central Office Administrative Budgets. Amend RSA 32 by
+3 insertingaftersection5-hthefollowingnewsection:
+4 32:5-i School District Local Tax Cap and School Administrative Fixed Cap on Central Office
+5 AdministrativeBudgets.
+6 I. During the November 2026 and November 2028 state general elections, every town and
+7 ward inacityshall conduct avoteon alocal taxcap questionfor their school district and afixed cap
+8 on the school administrative unit central office administrative budget. The question shall appear on
+9 the ballot by operation of law and shall not require a warrant article, citizen petition, or separate
+10 locallegislativeapproval.
+11 II. The question required under paragraph I shall be printed on the state general election
+12 ballot administered pursuant to RSA 656:13, following the offices columns. If the secretary of state
+13 determines that sufficient space on the front of the state general election ballot does not permit
+14 inclusion of the question, the secretary of state shall cause the question to be printed on the reverse
+15 side of the state general election ballot and shall cause a notice to be printed on the front of the
+16 ballot directing voters to turn the ballot over to vote on the question. If the secretary of state
+17 determines that printing on the reverse side is also impracticable, the question shall be printed on a
+18 separate official ballot to be distributed, cast, collected, and counted at the same polling place and
+19 during the same hours as the state general election ballot. The secretary of state shall adopt any
+20 procedures necessary to ensure that ballot counting devices used pursuant to RSA 656:40 are
+21 programmedtoreadandcountvotescastonbothsidesoftheballotwherethereversesideisused.
+22 III. Nothing in this section shall prohibit a municipality, school board, or school
+23 administrative unit board from holding a public hearing on the question for the local tax cap and for
+24 theschooladministrativefixedcaponcentralofficeadministrativebudgets.
+25 IV. Whenever the question required under paragraph I is printed on the state general
+26 election ballot or on a separate official ballot pursuant to paragraph II, the secretary of state shall
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 ensure that said question is also included on all applicable absentee ballots consistent with RSA
+2 656:36.
+3 V. The school district local tax cap and school administrative unit fixed cap question on the
+4 ballotfortownsandwardswithanannualschooldistrictmeetingshallread:
+5 “Shall the [name of municipality] limit property tax growth for [name(s) of school district(s)]
+6 under RSA 32:5-i? If adopted for a two-year period: (1) the local property tax levy may not grow
+7 beyond the prior year’s amount, adjusted for inflation and new construction; (2) SAU central office
+8 spending may not exceed 6 percent of total school district appropriations; and (3) bonded capital
+9 costs are excluded from both limits. These caps apply only to administrative operations of the SAU
+10 central office and do not affect classroom instruction, school-based services, or other municipal
+11 expenditures. These limits may be overridden as provided in RSA 32:5-i. Adoption requires a three-
+12 fifths(3/5)majorityvote.”
+13 Towns and wards serving more than one school district shall include the names of all such school
+14 districtsinthequestion.
+15 VI.(a) The moderator of each municipality or ward in the school district shall report the
+16 resultsonthequestiontothesecretaryoftheschooladministrativeunitboardfortheschooldistrict.
+17 If a 3/5 majority of the voters voting in the municipalities and wards served by the school district
+18 approve the question, then the maximum allowable levy per the local tax cap for the district under
+19 paragraphVIIIshallbebinding.
+20 (b) The moderator of each municipality or ward in the school administrative unit shall
+21 report the results on the question to the secretary of the school administrative unit board served by
+22 the municipality or ward. If a 3/5 majority of the voters voting in the municipalities and wards
+23 served by the school administrative unit approve the question, then the SAU fixed cap for the SAU
+24 centralofficeadministrativebudgetunderparagraphIXshallbebinding.
+25 (c) The secretary of the school administrative unit board shall certify the results of the
+26 votestothedepartmentof revenueadministration. Preservationof ballotsshallbepursuanttoRSA
+27 33-A:3-a,XXXVII.
+28 VII.(a) Any10registered voters from anymunicipalityserved byaschool district, beforethe
+29 expiration of 7 days from the date of the general election, may apply in writing to the school district
+30 clerk for a recount of the ballots for the question on a school district local tax cap under this section.
+31 The secretary shall schedule a recount, to be conducted by the school board, not earlier than 5 days
+32 nor later than 10 days after the date the secretary receives the petition. The applicants for such a
+33 recountshallpaytotheschoolclerkafeeof$10forconductingtherecount.
+34 (b) Any 10 registered voters from any municipality served by a school administrative
+35 unit,beforetheexpirationof7daysfromthedateofthegeneralelection,mayapplyinwritingtothe
+36 secretary of the school administrative unit for a recount of the ballots for the question on a school
+37 administrative unit fixed cap under this section. The secretary shall schedule a recount, to be
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 conducted by the school administrative unit, not earlier than 5 days nor later than 10 days after the
+2 date the secretary receives the petition. The applicants for such a recount shall pay to the secretary
+3 oftheschooladministrativeunitboardafeeof$10forconductingtherecount.
+4 VIII.(a) Themaximumallowablelevyshallequal:
+5 Prior fiscal year property tax levy (excluding bonded capital costs as defined in paragraph XVI) × (1
+6 +inflation+netnewtaxablepropertygrowth).
+7 Bonded capital costs, as defined in paragraph XVI, shall be excluded from both the prior fiscal year
+8 property tax levy and the maximum allowable levy calculated under this paragraph. No amount
+9 attributable to bonded capital costs shall be included in the prior fiscal year levy for purposes of
+10 calculatingthemaximumallowablelevyinanysubsequentyear.
+11 (b) "Inflation" means the one year (12 month) percentage change in the Consumer Price
+12 Index for All urban Consumers, Northeast Region, as published by the Bureau of Labor Statistics,
+13 UnitedStates Departmentof Labor,usingtheamount published forthemonthof Marchintheprior
+14 fiscalyear.
+15 (c)(1) "Net new taxable property growth" means the percentage increase in assessed
+16 valuationfromtheprioryearattributableto:
+17 (A) Newconstruction;
+18 (B) Physicalexpansionorimprovementofstructures;
+19 (C) Subdivisionorredevelopmentofland;
+20 (D) Conversionfromexempttotaxablestatus;or
+21 (E) Anyphysicalchangethatincreasestaxablemarketvalue.
+22 (2) "Netnewtaxablepropertygrowth"shallnotinclude:
+23 (A) Marketappreciation;
+24 (B) Revaluationorreassessment;or
+25 (C) Changesinassessmentmethodology.
+26 (d) The departmentofrevenue administrationshall certifyannuallythenetnew taxable
+27 propertygrowthforeachtaxingjurisdiction.
+28 IX. In the municipalities and wards served by a school administrative unit where the school
+29 administrative unit fixed cap question under this section is approved by the voters, the fixed cap for
+30 school administrative unit central office administrative budgets shall be 6 percent of the sum of the
+31 total school district appropriation amounts, except costs of bonded capital projects pursuant to
+32 paragraph XVI, in the school districts comprising the SAU. “School administrative unit central
+33 office administrative budgets” means expenditures for the general management and administration
+34 of a school administrative unit. These expenditures include superintendent services; assistant or
+35 deputy superintendent services; business administration; human resources; finance; payroll;
+36 purchasing; district-level information technology administration; legal services; public relations; and
+37 other non-school-based administrative functions, regardless of physical location or building
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 assignment. The term also includes district-level curriculum directors, directors of instruction, or
+2 similarly titled positions who are not employed under a collective bargaining agreement or who do
+3 not provide direct classroom instruction for more than 50 percent of their work time, as well as any
+4 personnel reported to the department of education as employed by the central office. The term does
+5 not include school-based administrative staff; classroom instruction; instructional support services;
+6 specialeducationservices;transportation;foodservices;orfacilitiesoperationsandmaintenance.
+7 X. The legislative body may vote to exceed the school district local tax cap or the school
+8 administrativeunitfixedcapusingtheoverrideproceduresprovidedinthesesubparagraphs.
+9 (a) The provisions of this subparagraph shall apply only to districts with an annual
+10 meeting. ThelegislativebodymayoverridetheschooldistrictlocaltaxcapunderparagraphVIII,or
+11 the school administrative unit fixed cap under paragraph IX, by the usual procedures applicable to
+12 annual meetings of thelegislative body, provided that: whena proposed appropriation will cause the
+13 cap to be exceeded or the cap has already been exceeded, exclusive of bonded costs defined in
+14 paragraph XVI, voting on the appropriation question shall be by ballot, but the question shall not be
+15 placed on the official ballot used to elect officers, except in the case of a legislative body that uses an
+16 officialballotformofmeetingunderRSA40:13orunderacharteradoptedpursuanttoRSA49-D. If
+17 a 3/5 majority or the super majority as determined under a charter pursuant to RSA 49-D of those
+18 voting on the question vote "yes," the appropriation is approved. Only votes in the affirmative or
+19 negative shall be included in the calculation of the 3/5 majority or the super majority as determined
+20 underacharterpursuanttoRSA49-D.
+21 (b) The provisions of this subparagraph shall apply only to districts without an annual
+22 meeting. If the school district local tax cap has been adopted, the legislative body shall adopt a
+23 school district budget, exclusive of bonded costs defined in paragraph XVI, that does not exceed the
+24 local tax cap established under paragraph VIII, unless the legislative body overrides the cap by the
+25 supermajority defined in its charter pursuant to RSA 49-C:33, I(d) or RSA 49-D:3, I(e). If the school
+26 administrative unit fixed cap has been adopted, the legislative body overrides that cap by the
+27 supermajoritydefinedinitscharterpursuanttoRSA49-C:33,I(d)orRSA49-D:3,I(e).
+28 XI. No municipal tax rate shall be set that causes a taxing authority to exceed its certified
+29 limitsunderthissection.
+30 (a) For a school district that has adopted the school district local tax cap or a school
+31 administrative unit that has adopted the school administrative unit fixed cap under this section, the
+32 governing body shall forward, at a time and in a form prescribed by the department of revenue
+33 administration, documentation demonstrating compliance with the adopted caps. Such
+34 documentationshallinclude:
+35 (1) The computation of the school district local tax cap or school administrative unit
+36 fixedcapfortheapplicableyear;
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 (2) Proposed appropriations by the governing body and budget committee and
+2 estimated revenues going into the annual meeting, showing the estimated amount of property taxes
+3 to be raised for the school district budget or school administrative unit central office administrative
+4 budgets,orboth;
+5 (3) Appropriationsvotedbytheannualorspecialmeetingofthelegislativebody;and
+6 (4) The count of any ballot votes taken to override the school district local tax cap or
+7 schooladministrativeunitfixedcap.
+8 (b) Upon review of documentation submitted under subparagraph (a), if the
+9 commissioner of the department of revenue administration determines that the certified school
+10 district budget results in estimated taxes exceeding the adopted school administrative unit fixed cap
+11 and that no valid override vote was obtained as provided in this section, the governing body shall
+12 reduce the appropriation of the certified budget by the amount that the certified budget exceeds the
+13 cap.
+14 (c) Upon review of documentation submitted under subparagraph (a), if the
+15 commissioner of the department of revenue administration determines that the certified school
+16 administrative unit central office administrative budget results in estimated taxes exceeding the
+17 adopted school administrative unit fixed cap and that no valid override vote was obtained as
+18 provided in this section, the governing body shall reduce the appropriation of the certified budget by
+19 theamountthatthecertifiedbudgetexceedsthecap.
+20 (d) The department of revenue administration shall not approve any tax rate that
+21 exceeds the certified limit and shall withhold rate approval until the municipality demonstrates
+22 compliance either by showing the certified budget is within the certified cap or by showing a valid
+23 overridevoteinaccordancewithRSA40:13orapplicableannualmeetingprocedures.
+24 (e) Nothing in this section shall prohibit the department of revenue administration from
+25 requiring additional information, documentation, or schedules reasonably necessary to determine
+26 compliancewiththeadoptedlocaltaxcaporfixedcapunderthissection.
+27 XII. IfapprovedattheNovember2026stategeneralelection,theschooldistrictlocaltaxcap
+28 or the school administrative unit fixed cap, or both, shall apply beginning with the fiscal year 2028
+29 school district total budget or school administrative unit budget, as applicable. If approved at the
+30 November 2028 state general election, the school district local tax cap or the school administrative
+31 unit fixed cap, or both, shall apply beginning with the fiscal year 2030 school district total budget or
+32 schooladministrativeunitbudget,asapplicable.
+33 XIII. Anytaxpayer inamemberschool districtor schooldistrict oftheschool administrative
+34 unit,asapplicable,shallhavestandingtoenforcethissectioninsuperiorcourt.
+35 XIV. Nothing in this section may be construed to repeal, supersede, or diminish any
+36 property tax limitation that is more restrictive under existing law, a municipal charter, or a local
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 ordinance. Whenmorethanonepropertytaxlimitation,taxcap,localtaxcap,orbudgetcapapplies,
+2 eachapplicablelimitationmustbefullysatisfied.
+3 XV. Thissectionshalloperatesolelyasalocaltaxcaplimitationontheestimatedamountof
+4 local taxes to be raised for the fiscal year attributable to the school district or a fixed cap on the
+5 schooladministrativeunitcentralofficeadministrativebudget,asapplicable.
+6 XVI.(a) Bonded capital costs shall include principal or interest on bonds or notes only if the
+7 bonded indebtedness is issued solely for the acquisition, construction, or major structural renovation
+8 ofrealproperty,reportedpursuanttoRSA198:4-a.
+9 (b) The department of revenue administration shall certify annually the portion of debt
+10 servicethatqualifiesforexclusion.
+11 (c) Noexclusionshallapplyunlesscertifiedbythedepartment.
+12 XVII. The provisions of this section shall expire on January 1, 2032. Any school district
+13 local tax cap or school administrative unit fixed cap adopted pursuant to this section shall cease to
+14 have legal effect as of that date. The expiration of this section shall not affect the validity of any
+15 appropriation,budget,ortaxratelawfullyestablishedpriortoJanuary1,2032.
+16 2 NewParagraph;DepartmentofRevenueAdministration;RulemakingAuthority. AmendRSA
+17 21-J:13byinsertingafterparagraphXIVthefollowingnewparagraph:
+18 XV. The forms, promulgation of forms, and any other information necessary to implement
+19 theprovisionsofRSA32:5-i.
+20 3 Prospective Repeal. RSA 32:5-i, relative to the School District Local Tax Cap and School
+21 AdministrativeFixedCaponCentralOfficeAdministrativeBudgets,isrepealed.
+22 4 EffectiveDate.
+23 I. Section3ofthisactshalltakeeffectJanuary1,2032.
+24 II. TheremainderofthisactshalltakeeffectSeptember1,2026.
+
+HB1300-VERSIONADOPTEDBYBOTHBODIES
+LBA
+26-2870
+05/27/2026
+HB1300-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENTS#2026-1851sand#2026-1876s)
+ANACT establishingaschooldistrictlocaltaxcapquestionforthestategeneralelectionof
+2026 and related limitations on central office administrative expenses in school
+districts.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $100,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 PossibleIndeterminableDecrease
+LocalExpenditures $0 $0 PossibleIndeterminableDecrease
+METHODOLOGY:
+Thisbillrequiresmunicipalitiestovoteonlocaltaxcapquestionsfortheirschooldistrictand on
+the school administrative unit (SAU) central office administrative budget in the November 2026
+generalelection.Inorderforthecapstobeadoptedtheremustbea3/5majorityvoteinfavor. If
+a municipality were to adopt the school district tax cap it would be limited to annual local school
+tax increases to the prior year’s amount, adjusted for inflation and growth in taxable property
+attributable to new construction, excluding bonded capital costs. The SAU central office
+administrative tax cap would be limited to 6 percent of the combined school district
+appropriations,excludingbondedcapitalcosts,withcertainoverrideprovisions.
+TheDepartmentofRevenueAdministration(DRA)wouldberequiredto certifytaxableproperty
+growth and bonded capital costs, receive and review detailed compliance documentation from
+districts and SAUs that adopt caps, ensure no tax rate is set above certified limits, and update
+
+reportingsystemsandratesettingsoftwaretoadministerthecapsbeginningwiththefiscalyear
+2028budgetcycle. DRAanticipatesapproximately$100,000insystemupdatecosts.
+The Department of Education and DRA indicate that to the extent school districts adopt a tax
+cap,localschooldistrictrevenueandschooldistrictexpenditurescoulddecrease.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandDepartmentofEducation

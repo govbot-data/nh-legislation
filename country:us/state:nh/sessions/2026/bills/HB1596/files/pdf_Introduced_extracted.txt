@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1596-FN-ASINTRODUCED
+2026SESSION
+26-2942
+07/08
+1596-FN
+HOUSEBILL
+ANACT relativetothecollectionofcertainhealthcareprogram premiums;fundingfor the
+universitysystemofNewHampshire;andraisingthetobaccotax.
+SPONSORS: Rep.Stringham,Graf.3;Rep.Spahr,Graf.12;Rep.Burton,Straf.10
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Raisesthetobaccotax.
+II. AppropriatesmoneystotheuniversitysystemofNewHampshire.
+III. Repealsthecollectionofcertainhealthcarepremiums.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1596-FN-ASINTRODUCED
+26-2942
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothecollectionofcertainhealthcareprogram premiums;fundingfor the
+universitysystemofNewHampshire;andraisingthetobaccotax.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Taxation;TobaccoTax;TaxImposed. AmendRSA78:2,Itoreadasfollows:
+2 I. A tax on all cigarettes and little cigars sold at retail in this state is imposed upon the
+3 consumerattherateof [$1.78]$2.80 foreachpackagecontaining20cigarettesor littlecigars orat a
+4 rateproportionaltosuchrateforpackagescontainingotherthan20cigarettesorlittlecigars.
+5 2 New Section; Education; University System; Annual Appropriation. Amend RSA 187-A by
+6 insertingaftersection2-cthefollowingnewsection:
+7 187-A:2-d AnnualAppropriation. Thereisherebyappropriatedannuallythesumof$18,000,000
+8 to the university system of New Hampshire, in addition to any other sums appropriated, for deposit
+9 in account number 06-50-50-506010-1855, for the purpose of restoring higher education funding to
+10 2024 budget levels. The governor is authorized to draw a warrant for said sum out of any money in
+11 thetreasurynototherwiseappropriated.
+12 3 Repeals. Thefollowingarerepealed:
+13 I. RSA 126-A:3, IX, relative to the collection of premiums for the children’s health insurance
+14 program.
+15 II. RSA 126-AA:2-a, relative to the collection of premiums for the New Hampshire granite
+16 advantagehealthcareprogram.
+17 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2942
+12/3/25
+HB1596-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothecollectionofcertainhealthcareprogram premiums;fundingfor the
+universitysystemofNewHampshire;andraisingthetobaccotax.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Increase Increase Increase
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $34,000,000 $34,000,000 $34,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $18,000,000 $18,000,000 $18,000,000
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+Thisbillraisesthetobaccotaxfrom$1.78to$2.80perpackof20cigarettesorlittlecigarsorata
+rate proportional to such rate for packages containing other than 20 cigarettes or little cigars,
+appropriates$18,000,000ofgeneralfundsannuallytotheUniversitySystemofNewHampshire,
+and repeals the premiums for the children's health insurance program and NH granite
+advantagehealthcareprogram.
+The bill does not address tobacco stamps sold prior to July 1, 2026 and affixed to packages sold
+atretailonorafterJuly1,2026.
+The Department of Revenue Administration states this bill will increase General Fund and
+EducationTrust Fund revenue by an indeterminable amount beginning in FY 2027. Though the
+Department is not able to predict future tobacco stamp sales, it can use FY 2025 information to
+estimatetheFY2027potentialimpact.InFY2025,thereweretobaccostampsalesof82,218,000
+resulting in $146,300,000 in revenue at $1.78 per pack. Increasing the rate to $2.80 per pack
+would have yielded $230,200,000 in tobacco stamp sales revenue, an increase of $83,900,000 of
+revenue. The table below shows the estimated tobacco revenue increase and the distribution to
+theGeneralFundandEducationTrustFund.
+
+Table1:EstimatedImpactofIncreasingTobaccoStampRate(InMillions)
+TotalEstimated Portionto
+PortiontoGeneral
+FiscalYear TobaccoStamp EducationTrust
+Fund(61%)
+RevenueIncrease Fund(39%)
+FY2027 $83.9 $51.2 $32.7
+The Department would need to update all necessary tax return forms and the Revenue
+Information Management System (RIMS) relative to the change to the tobacco tax. The
+Department would be able to absorb these costs without any additions to its operating budget
+butdoesnotbelieveitcouldmakethenecessarychangesbytheeffectivedateofthisbill.
+This bill appropriates $18,000,000 of general funds annually to the University System of New
+Hampshire. Thiswillincreasestategeneralfundexpendituresby$18,000,000eachyear.
+The premiums on the insurance programs was intended to decrease general fund expenditures.
+The repeal of the premiums for the children's health insurance program will increase
+expenditures by approximately $11 million in FY 2027 and each year thereafter. The repeal of
+the premiums for the NH granite advantage health care program will increase expenditures by
+approximately$5millioninFY2027andeachyearthereafter.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

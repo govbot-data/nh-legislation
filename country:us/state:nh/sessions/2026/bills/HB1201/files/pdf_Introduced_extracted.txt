@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1201 -ASINTRODUCED
+2026SESSION
+26-2579
+04/09
+1201
+HOUSEBILL
+ANACT requiringcertainpoliticalcommitteestodisclosetheidentityoftheirdonors.
+SPONSORS: Rep.Muirhead,Graf.12;Rep.Lane,Merr.16
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires any political committee exempt from taxation to disclose the identity of its
+donors.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1201-ASINTRODUCED
+26-2579
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringcertainpoliticalcommitteestodisclosetheidentityoftheirdonors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Donor Disclosure; Mandatory Voter Notice Required. Amend RSA 664:6, VII to read as
+2 follows:
+3 VII. Anypoliticalcommitteethatis exemptfromtaxationundersections501(c)(4), 501(c)(5),
+4 or 501(c)(6) of the United States Internal Revenue Code of 1986 [may disclose, but] shall [not] be
+5 required to disclose in its itemized statement of receipts, the identity of its donors. [Any political
+6 committee affected by this section who chooses not to disclose the identity of its donors shall place
+7 thefollowingdisclosureonallcommunicationstovoters: "Thisorganizationhasanexemptionunder
+8 thefederallawandisnotrequired,andchoosesnot,todiscloseitsdonors."]
+9 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

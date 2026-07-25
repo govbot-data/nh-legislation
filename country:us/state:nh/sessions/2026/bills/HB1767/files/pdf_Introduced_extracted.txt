@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1767-FN-ASINTRODUCED
+2026SESSION
+26-2762
+06/08
+1767-FN
+HOUSEBILL
+ANACT relativetounemploymentcompensationeligibilityandweeklybenefitamounts.
+SPONSORS: Rep.Avellani,Carr.4;Rep.Labrie,Hills.2;Rep.Drago,Rock.4
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill sets the default maximum duration of unemployment benefits at 20 weeks, with an
+automatic increase to 26 weeks during periods of elevated statewide claims, and requires the
+departmentofemploymentsecuritytomonitorfilingsandpubliclyupdateeligibilitystatus.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1767-FN-ASINTRODUCED
+26-2762
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetounemploymentcompensationeligibilityandweeklybenefitamounts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Weekly Benefit Amount for Total Unemployment. RSA 282-A:25 is repealed and reenacted to
+2 readasfollows:
+3 282-A:25 WeeklyBenefitAmountforTotalUnemployment.
+4 I. The maximum number of weeks of unemployment compensation benefits for which an
+5 individualmaybeeligibleinabenefityearshallbe20.
+6 II. If, for any 3 consecutive weeks, the number of weekly unemployment claims filed
+7 statewide exceeds 4,000 per week, the maximum number of weeks in paragraph I shall increase to
+8 26 beginning with the following week. If, for any 3 consecutive weeks thereafter, the number of
+9 weeklyunemploymentclaimsbecomeslessthanorequalto4,000perweek,themaximumnumberof
+10 weeksshallrevertto20beginningwiththefollowingweek.
+11 III. Thedepartmentofemploymentsecurityshallmonitorweeklyfilings,notifythepublicof
+12 any changes to the maximum number of eligible benefit weeks, and update all public notices,
+13 informationalmaterials,andonlinesystemsaccordingly.
+14 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2762
+Revised1/12/26
+HB1767-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetounemploymentcompensationeligibilityandweeklybenefitamounts.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) UnemploymentTrustFund
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) UnemploymentTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill changes unemployment compensation eligibility by reducing the maximum duration of
+benefits from 26 weeks to 20 weeks, with an automatic increase back to 26 weeks during periods
+of elevated statewide unemployment claims. The bill also requires the Department of
+Employment Security to monitor weekly claims activity and notify the public when the
+maximumnumberofeligiblebenefitweekschanges.
+The Department of Employment Security states the fiscal impact of this bill is indeterminable.
+The bill repeals and reenacts RSA 282-A:25 but does not include the statutory benefit table that
+currently establishes maximum weekly benefit amounts based on a claimant’s prior earnings.
+Without this table, the Department would have no clear statutory authority to calculate or
+administer weekly benefit amounts, and therefore cannot estimate benefit payments, system
+impacts,oradministrativecosts.
+
+In addition, the bill would allow the maximum number of benefit weeks to fluctuate between 20
+and 26 weeks based on weekly statewide claims data. The Department states it cannot predict
+how often claims will exceed or fall below the statutory threshold, how frequently benefit
+durationswouldchangewithinayear,orhowthosechangeswouldaffecttotalbenefitpayments,
+employerreimbursementobligations,orunemploymenttaxrates.
+Because the necessary benefit table is missing and future claims levels are uncertain, the
+Department cannot determine whether the bill would increase or decrease unemployment
+compensation payments, Trust Fund balances, or employer tax rates. As a result, the fiscal
+impacttostaterevenuesandexpendituresisindeterminable.
+AGENCIESCONTACTED:
+DepartmentofEmploymentSecurity

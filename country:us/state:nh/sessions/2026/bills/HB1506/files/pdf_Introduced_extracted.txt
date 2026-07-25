@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1506 -ASINTRODUCED
+2026SESSION
+26-2507
+12/09
+1506
+HOUSEBILL
+ANACT creating an exception to the restricted uses of artificial intelligence by state
+agencies.
+SPONSORS: Rep. Cormen, Graf. 15; Rep. Donnelly, Rock. 25; Rep. D. McGuire, Merr. 14; Rep.
+Muns, Rock. 29; Rep. Preece, Hills. 17; Rep. Corcoran, Hills. 28; Sen. Prentiss,
+Dist5;Sen.Watters,Dist4
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes commissioners or heads of state agencies to apply for an exception to the
+restricted uses for which artificial intelligence may be used by state agencies. This bill also directs
+the commissioner of the department of information technology to create a procedure for processing
+and accepting requested exceptions, with the final decision on approval being made by the executive
+council.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1506-ASINTRODUCED
+26-2507
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating an exception to the restricted uses of artificial intelligence by state
+agencies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Exemptions and Exceptions. Amend RSA 5-D by inserting after section 6 the
+2 followingnewsection:
+3 5-D:7 Exemptions and Exceptions. The commissioner or head of any state agency may request
+4 an exception to the applicability of this chapter. Such requests shall include the state agency's
+5 purpose for needing the exception and any other information required by the department of
+6 information technology, pursuant to RSA 21-R:4, XXII. Upon approval of the request by the
+7 commissioner of the department of information technology, the request shall then be submitted to
+8 theexecutivecouncilforafinaldecisiononapproval.
+9 2 Procedure. The department of information technology shall establish a procedure for
+10 commissioners or heads of state agencies to submit requests for an exception to the applicability of
+11 RSA 5-D within 30 days of this act taking effect. Such procedure shall require the request specify a
+12 purposeforneedingtheexception.
+13 3 New Paragraph; Procedure for Requested Artificial Intelligence Exceptions; Duty to Establish
+14 Procedure. AmendRSA21-R:4byinsertingafterparagraphXXIthefollowingnewparagraph:
+15 XXII. Establish a procedure for the commissioners or heads of state agencies to submit
+16 requests for an exception to the applicability of RSA 5-D. Such procedure shall require the request
+17 specifyapurposeforneedingtheexception.
+18 4 New Section; Artificial Intelligence Exceptions; Decision Making Authority. Amend RSA 4 by
+19 insertingaftersection48thefollowingnewsection:
+20 4:49 Artificial Intelligence Exceptions; Decision Making Authority. The executive council shall
+21 reviewrequestsforanexceptiontotheapplicabilityofRSA5-Danddeterminewhetheranexception
+22 shallbeacceptedordenied.
+23 5 EffectiveDate. Thisactshalltakeeffectuponitspassage.

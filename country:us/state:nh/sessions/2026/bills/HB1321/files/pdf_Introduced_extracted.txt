@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1321 -ASINTRODUCED
+2026SESSION
+26-2976
+09/08
+1321
+HOUSEBILL
+ANACT relativetotheregulationoftheprovisionofelectiveintravenoustherapy.
+SPONSORS: Rep.Wade,Straf.15;Rep.H.Howard,Straf.4
+COMMITTEE: Health,HumanServicesandElderlyAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires elective intravenous therapy to be prescribed and administered by certain
+licensedmedicalprofessionals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1321-ASINTRODUCED
+26-2976
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheregulationoftheprovisionofelectiveintravenoustherapy.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Provision of Elective Intravenous Therapy. Amend RSA 329 by inserting
+2 aftersection53thefollowingnewsubdivision:
+3 ProvisionofElectiveIntravenousTherapy
+4 329:54 Definitions. As used in this subdivision, "elective intravenous therapy" means a
+5 procedure:
+6 I. To administer fluids, nutrients, medications, or blood directly into a patient's bloodstream
+7 throughavein;
+8 II. That is sought by the patient to alleviate symptoms of temporary discomfort or improve
+9 temporarywellness;and
+10 III. That is not administered in a physician's office or a health facility licensed under RSA
+11 151.
+12 329:55 ProvisionofElectiveIntravenousTherapy.
+13 Elective intravenous therapy may only be prescribed or ordered by a physician licensed under
+14 this chapter, a physician associate licensed under RSA 328-D acting within the scope of their
+15 practice, or an advanced practice registered nurse licensed under RSA 326-B acting within the scope
+16 oftheirpractice.
+17 329:56 AdministrationofElectiveIntravenousTherapy.
+18 Elective intravenous therapy may only be administered by a physician licensed under this
+19 chapter,aphysicianassociatelicensedunder RSA328-Dactingwithinthescopeoftheirpractice, an
+20 advanced practice registered nurse licensed under RSA 326-B acting within the scope of their
+21 practice,oraregisterednurselicensedunderRSA326-Bactingwithinthescopeoftheirpractice.
+22 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

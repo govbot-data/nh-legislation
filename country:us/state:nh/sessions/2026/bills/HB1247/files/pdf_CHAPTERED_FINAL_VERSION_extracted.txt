@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER91
+HB1247-FINALVERSION
+2026SESSION
+26-2739
+08/06
+1247
+HOUSEBILL
+ANACT requiring the secretary of state to create, post on the secretary of state's website, and
+otherwisedistributenoticeofproposedconstitutionalamendments.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Burnham, Straf. 2; Rep. McFarlane, Graf. 18; Rep.
+McGrath,Rock.40;Rep.MaryMurphy,Hills.27;Rep.Wood,Merr.13
+COMMITTEE: ElectionLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the secretary of state to create, post on the secretary of state's website, and
+otherwisedistributenoticeofproposedconstitutionalamendments.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER91
+HB1247-FINALVERSION
+26-2739
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring the secretary of state to create, post on the secretary of state's website, and
+otherwisedistributenoticeofproposedconstitutionalamendments.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 91:1 New Section; Notice of Constitutional Amendment Vote. Amend RSA 663 by inserting after
+2 section3-athefollowingnewsection:
+3 663:3-b Notice of Constitutional Amendment Vote. Every town and city clerk shall prominently
+4 displayanoticepreparedbythesecretaryofstateexplainingtheconstitutionalamendmentforvotersand
+5 directingvoterstothedepartmentofstate'swebsiteforadditionalinformation. Thefollowingwordsforthe
+6 headerofthenoticeshallinclude: "NoticeofQuestionsRelatingtoConstitutionalAmendmentsProposed
+7 by the Convention to Revise the Constitution" or "Notice of Questions Relating to Constitutional
+8 Amendments Proposed by the Legislature to Revise the Constitution," whichever is appropriate. The
+9 notice shall contain the scheduled date of the vote and other information about the constitutional
+10 amendment as described in RSA 663:3. The secretary of state shall maintain a webpage on the
+11 departmentofstate'swebsiteprovidingthesameinformationasthepreparednotice. Suchnoticeshallbe
+12 displayedforatleast60dayspriortothestate-widevoteontheconstitutionalamendment.
+91:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May28,2026
+EffectiveDate:July27,2026

@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1188 -ASINTRODUCED
+2026SESSION
+26-2607
+07/05
+1188
+HOUSEBILL
+ANACT relativetononcompeteagreementsforlow-wageemployees.
+SPONSORS: Rep. Wade, Straf. 15; Rep. Schultz, Merr. 29; Rep. H. Howard, Straf. 4; Rep.
+Sorensen, Rock. 28; Rep. J. Sullivan, Graf. 2; Rep. Butler, Straf. 12; Rep. Barton,
+Graf.1;Sen.Watters,Dist4;Sen.Fenton,Dist10
+COMMITTEE: Labor,IndustrialandRehabilitativeServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillexpandsrestrictionsontheuseofnon-competeagreementsforlower-incomeworkers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1188-ASINTRODUCED
+26-2607
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetononcompeteagreementsforlow-wageemployees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Labor; Noncompete Agreements; Noncompete Agreements for Low-Wage Employees
+2 Prohibited. AmendRSA275:70-atoreadasfollows:
+3 275:70-a NoncompeteAgreementsfor[Low-Wage]QualifyingEmployeesProhibited.
+4 I. Inthissection:
+5 (a) "Employer"shallhavethesamemeaningasinRSA279:1,XI.
+6 (b) "[Low-wage] Qualifying employee" means an employee who earns an hourly rate
+7 lessthanorequalto[200]500percentofthefederalminimumwage.
+8 (c) "Noncompete agreement" means an agreement between an employer and a [low-
+9 wage]qualifyingemployeethatrestrictssuch[low-wage]qualifyingemployeefromperforming:
+10 (1) Workforanotheremployerforaspecifiedperiodoftime;
+11 (2) Workinaspecifiedgeographicalarea;or
+12 (3) Work for another employer that is similar to such [low-wage] qualifying
+13 employee'sworkfortheemployerwhoisapartytotheagreement.
+14 II.(a) No employer shall require a [low-wage] qualifying employee to enter into a
+15 noncompeteagreement.
+16 (b) A noncompete agreement entered into between an employer and a [low-wage]
+17 qualifyingemployeeshallbevoidandunenforceable.
+18 (c) No employer shall require any qualifying employee to enter into an
+19 agreement that restricts the employee from working for another company for longer than
+20 12monthsfollowingterminationofemployment.
+21 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

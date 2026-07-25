@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1582-FN-ASINTRODUCED
+2026SESSION
+26-3228
+05/06
+1582-FN
+HOUSEBILL
+ANACT prohibiting the use of credit information in underwriting and rating personal
+automobile and homeowners insurance policies and prohibiting certain
+surveillancepracticesbyinsurers.
+SPONSORS: Rep.Roy,Rock.31
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the use of credit information in underwriting and rating personal automobile
+and homeowners insurance policies. The bill also prohibits the use of drones, satellites, and other
+surveillancepracticesbyinsurers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1582-FN-ASINTRODUCED
+26-3228
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the use of credit information in underwriting and rating personal
+automobile and homeowners insurance policies and prohibiting certain
+surveillancepracticesbyinsurers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+2 1 Statement of Purpose. The general court finds that the use of credit information in
+3 underwriting and rating personal automobile and homeowners insurance policies can result in
+4 unfair discrimination against consumers and that certain surveillance practices by insurers infringe
+5 on the privacy rights of property owners. The purpose of this act is to prohibit such uses and
+6 practicestoprotectNewHampshireconsumers.
+7 2 NewSection;UseofCreditInformationProhibited. AmendRSA412byinsertingaftersection
+8 15thefollowingnewsection:
+9 412:15-a UseofCreditInformationProhibited.
+10 I. Notwithstanding any other provision of law, no insurer or insurance producer may use an
+11 applicant's or insured's credit history, credit score, or any consumer report or information derived
+12 from a consumer report as a factor in underwriting, rating, renewing, cancelling, or declining to
+13 issueapolicyofpersonalautomobileinsuranceorhomeownersinsurance.
+14 II. Forthepurposesofthissection:
+15 (a) "Consumerreport"shallhavethesamemeaningasinRSA359-B:3,IV.
+16 (b) "Credit history" or "credit score" means any written, oral, or other communication of
+17 any information by a consumer reporting agency bearing on a consumer's creditworthiness, credit
+18 standing,orcreditcapacitythatisusedor expectedtobeused orcollectedinwhole orinpartfor the
+19 purposeofservingasafactorinestablishingtheconsumer'seligibilityforinsurance.
+20 III. Any violation of this section shall be deemed an unfair method of competition and an
+21 unfairanddeceptiveactorpracticeinthebusinessofinsuranceunderRSA417:4.
+22 3 UnfairInsuranceTradePractices. AmendRSA417:4,VIII(g)toreadasfollows:
+23 (g) [Charging a higher premium for private passenger automobile or homeowner
+24 insurancesolelyonthebasisofinformationobtainedfromacreditrating,acredithistory,oracredit
+25 scoring model.] Using an applicant's or insured's credit history, credit score, or any
+26 consumer report or information derived from a consumer report as a factor in
+27 underwriting, rating, renewing, cancelling, or declining to issue a policy of personal
+28 automobileinsuranceorhomeownersinsurance.
+
+HB1582-FN-ASINTRODUCED
+-Page2-
+29 4 New Sections; Unfair Insurance Trade Practices; Surveillance by Drones, Satellites, and
+30 Commercial Imagery Prohibited. Amend RSA 417 by inserting after section 4 the following new
+31 section:
+32 417:4-a UseofDroneSurveillanceProhibited.
+33 I. No insurer or insurance producer shall use any unmanned aerial vehicle or drone to
+34 conduct surveillance, inspection, or observation of private property for the purpose of underwriting,
+35 rating, renewing, cancelling, or declining to issue a policy of homeowners insurance without the
+36 expresswrittenpermissionofthepropertyowner.
+37 II. An insurer or insurance producer shall not coerce, induce, or condition the issuance,
+38 renewal, or continuation of a homeowners insurance policy, or the setting of rates, on the property
+39 owner's granting of permission for drone surveillance. Such coercion includes, but is not limited to,
+40 threatening to decline coverage, cancel an existing policy, or increase premiums if permission is not
+41 granted.
+42 III. Any permission granted under paragraph I shall be voluntary, revocable at any time,
+43 andlimitedtothespecificpurposeanddurationstatedinthewrittenagreement.
+44 IV. Any violation of this section shall be deemed an unfair method of competition and an
+45 unfairanddeceptiveactorpracticeinthebusinessofinsuranceunderRSA417:4.
+46 417:4-b UseofSatelliteorCommercialImageryProhibited.
+47 I. No insurer or insurance producer shall use any satellite imagery, aerial photography, or
+48 other commercial observation or surveillance products, including but not limited to Google Earth or
+49 similar services, as a basis to increase premiums, cancel, or decline to renew a policy of homeowners
+50 insurance.
+51 II. This section shall not prohibit the use of such imagery or products for general risk
+52 assessment purposes that do not target specific properties or result in adverse actions against
+53 individualpolicyholders.
+54 III. Any violation of this section shall be deemed an unfair method of competition and an
+55 unfairanddeceptiveactorpracticeinthebusinessofinsuranceunderRSA417:4.
+56 5 Repeal. RSA 412:15, III, relative to the use of credit reports, credit histories, and credit
+57 scoring models for purposes of underwriting and rate setting for automobile and homeowner
+58 insurancepolicies,isrepealed.
+59 6 EffectiveDate. Thisactshalltakeeffect180daysafteritspassage.
+
+LBA
+26-3228
+12/2/25
+HB1582-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibiting the use of credit information in underwriting and rating personal
+automobile and homeowners insurance policies and prohibiting certain
+surveillancepracticesbyinsurers.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Increase Increase Increase
+RevenueFund(s) GeneralFund
+Indeterminable Indeterminable Indeterminable
+(Rangenot (Rangenot (Rangenot
+Expenditures* $0
+providedby providedby providedby
+agency) agency) agency)
+FundingSource(s) NHIDAssessmentFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill prohibits insurers from using an applicant’s or insured’s credit history, credit score, or
+any consumer report as a factor in underwriting, rating, renewing, canceling, or declining to
+issue a personal automobile or homeowners insurance policy. The bill also prohibits insurers
+from using drones, satellites, or aerial imagery for the purpose of underwriting, rating, or
+renewing homeowners insurance policies without the property owner’s express written
+permission.
+The Insurance Department states nearly all insurers currently use credit information when
+underwriting and pricing personal insurance policies, and most homeowners insurers rely on
+aerial or satellite imagery as part of their underwriting and pricing processes. Because the bill
+prohibits both practices, insurers would need to make significant changes to their inspection,
+underwriting, and pricing procedures. Depending on how carriers respond, the Department
+anticipates it may need to conduct extensive regulatory oversight, including reviewing new
+underwriting and rating methodologies and opening investigations or market conduct
+examinationsifcarrierscontinuetouseprohibitedpractices.
+
+The Department states this increased oversight workload could require additional staffing, but
+the impact cannot be estimated at this time because it depends on industry response. The
+Department notes that the prohibitions in the bill would be unique among states, and carriers
+mayhavelegitimatedifficultymeetingtherequirements.
+Additionally, there could be in indeterminable increase in Insurance Premium Tax (IPT)
+revenue. Premiums for auto and homeowners insurance may increase because insurers would
+no longer be able to use credit information or certain property-inspection tools for underwriting
+and rating. Any premium increases would proportionally increase IPT revenue, which is
+depositedintotheGeneralFund.
+AGENCIESCONTACTED:
+InsuranceDepartment

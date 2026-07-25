@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1620 -ASINTRODUCED
+2026SESSION
+26-2380
+08/06
+1620
+HOUSEBILL
+ANACT establishing closure and remediation requirements for abandoned or leaking on-
+premises-use fuel oil tanks and requiring disclosure of tank status during
+propertysales.
+SPONSORS: Rep. Perez, Rock. 16; Rep. Andrus, Merr. 5; Rep. Dunn, Rock. 16; Rep. Manos,
+Rock.12
+COMMITTEE: EnvironmentandAgriculture
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes closure and remediation requirements for abandoned or leaking on-
+premises-usefueloiltanksandmandatesdisclosureoftankstatusduringpropertysales.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1620-ASINTRODUCED
+26-2380
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing closure and remediation requirements for abandoned or leaking on-
+premises-use fuel oil tanks and requiring disclosure of tank status during
+propertysales.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; On-Premises-Use Fuel Oil Tanks. Amend RSA 146-A by inserting after
+2 section19thefollowingnewsubdivision:
+3 On-Premises-UseFuelOilTanks
+4 146-A:20 Definitions. Inthissubdivision:
+5 I. “On-Premises-Use Fuel Oil Tanks” means a tank on a residential property used to store
+6 heating oil for on-premise use, which is located below ground level, including beneath a dwelling,
+7 addition,crawlspace,orgarage.
+8 II. “Abandoned”meansatankthathasnotbeeninusefor12consecutivemonths.
+9 III. “Oil tank service company” means a business that specializes in the installation,
+10 removal, replacement, maintenance, and compliance support for residential and commercial fuel oil
+11 storagetanks,includingbothabovegroundandundergroundsystems.
+12 IV. “Discharge”meansareleaseofoilintotheenvironmentasdefinedinRSA146-A:2,III.
+13 146-A:21 ClosureRequirements.
+14 I. If an on-premises-use fuel oil tank is located beneath a structure, including a house,
+15 addition,crawlspace,orgarage:
+16 (a) The property owner shall retain a certified oil tank removal company to collect soil
+17 samplesfromaroundthetank.
+18 (b) If the samples indicate a discharge, the area shall be remediated by an oil tank
+19 removalcompanyinaccordancewithdepartmentrulesandbestmanagementpractices.
+20 (c) If no discharge is detected, the tank shall be permanently closed in place by filling it
+21 withaninert,earthenmaterialsuchassandorslurryaccordingtobestmanagementpractices.
+22 II. Iftheon-premises-usefueloiltankislocatedoutsideofanystructure,thetankshallbe:
+23 (a) Removedbyanoiltankremovalcompanyusingbestmanagementpractices;and
+24 (b) Theremovalshalloccurwithin180daysofthetankbecomingabandoned.
+25 146-A:22 Disclosure. The seller of any residential property with an on-premises-use fuel oil
+26 tank shall disclose to the buyer the presence and status of such oil tank and make available to the
+27 buyer thetestresultsofsoilsampledaroundsuchtank.
+
+HB1620 -ASINTRODUCED
+-Page2-
+1 146-A:23 Rulemaking. The department of environmental services shall adopt rules under RSA
+2 541-A to implement this chapter, including standards for soil sampling, remediation, and tank
+3 closure.
+4 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1486 -ASINTRODUCED
+2026SESSION
+26-2627
+06/07
+1486
+HOUSEBILL
+ANACT prohibiting insurance companies from considering the driving record of household
+members not covered by the motor vehicle insurance policy when establishing
+policypremiums.
+SPONSORS: Rep.Read,Rock.10;Rep.Wheeler,Hills.33
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitsinsurersfrompenalizinganinsureddriverduetoaspouse’sDWIconvictionor
+licensestatusunlessthatpersonisalisteddriver.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1486-ASINTRODUCED
+26-2627
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting insurance companies from considering the driving record of household
+members not covered by the motor vehicle insurance policy when establishing
+policypremiums.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Prohibition on Insurance Requirements for Spouses of DWI Offenders. Amend
+2 RSA412byinsertingaftersection8thefollowingnewsection:
+3 412:8-a ProhibitiononInsuranceRequirementsforSpousesofDWIOffenders.
+4 I. No insurer issuing a motor vehicle liability policy in this state shall require, or impose
+5 increased premiums or other coverage conditions on, any insured solely because a spouse, household
+6 member,orrelativebymarriagehashadtheirlicensesuspendedorrevoked,orhasbeenconvictedof
+7 drivingwhileintoxicatedunderRSA265-A.
+8 II. No insurer shall require an insured to obtain a higher level of coverage, file proof of
+9 financial responsibility, or purchase any rider, endorsement, or policy solely because of the license
+10 statusordrivingrecordofaspouse,householdmember,orrelativebymarriageunlessthatpersonis
+11 anamedinsuredorlisteddriveronthesamepolicy.
+12 III. Anypolicyprovisioninviolationofthissectionshallbevoidandunenforceable.
+13 IV. Nothing in this section shall be construed to prevent an insurer from taking the driving
+14 record or license status of a named insured or listed driver into account in rating, underwriting, or
+15 policy issuance decisions, provided such underwriting is not based solely on relationship to a person
+16 withaDWIconvictionorlicensesuspensionwhoisnotanamedinsuredorlisteddriver.
+17 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

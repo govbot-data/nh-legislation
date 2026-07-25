@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1178 -ASINTRODUCED
+2026SESSION
+26-2474
+06/05
+1178
+HOUSEBILL
+ANACT relativetopermissiblewindowtintingonmotorvehicles.
+SPONSORS: Rep. Barton, Graf. 1; Rep. Farrington, Straf. 8; Rep. Thibault, Merr. 25; Rep.
+Wade,Straf.15
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows aftermarket tinting on the front side windows if they allow at least 35 percent
+lighttransmittanceandcreatesamedicalexemptionforsimilartinting.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1178-ASINTRODUCED
+26-2474
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopermissiblewindowtintingonmotorvehicles.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Tinted Glass. Amend RSA 266:58-a by inserting after paragraph VI the
+2 followingnewparagraph:
+3 VII. After-market tinting shall be permitted on the windows to the left and right of the
+4 driver, provided the windows maintain a minimum visible light transmittance of 35 percent, as
+5 measuredinaccordancewithapplicabletestingstandards.
+6 2 EquipmentWaiverforDisabled. AmendRSA266:61-a,IXtoreadasfollows:
+7 IX. The commissioner shall establish testing and measurement procedures to ensure
+8 compliance with RSA 266:58-a. The commissioner may also waive the requirements of RSA
+9 266:58-a and issue a special permit to a person who for bona fide medical reasons requires after
+10 market tinting on the windshield or on the windows to the left and right of the driver and who
+11 applies for such permit. Such waiver shall be granted in accordance with this section and shall only
+12 authorize the use of after market tinted windows with a visible light transmittance of not less than
+13 35 percent. In reviewing the application for a permit under this paragraph, the commissioner may
+14 seek the advice and recommendation of a medical review board designated by him or her for such
+15 purpose. Anymedicalcertificationordocumentationrequiredforawaiverunderthissectionmaybe
+16 provided bya medical provider licensed in this stateor bya licensed medical provider affiliated with
+17 theUnitedStatesDepartmentofVeteransAffairs(VA),regardlessofthestateoflicensure.
+18 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

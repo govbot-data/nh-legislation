@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1265 -ASINTRODUCED
+2026SESSION
+26-2482
+04/09
+1265
+HOUSEBILL
+ANACT prohibiting the construction of data centers in the state and establishing a
+committeetostudytheenvironmentalimpactofdatacenters.
+SPONSORS: Rep.Schmidt,Straf.14;Rep.W.Thomas,Hills.12;Rep.Caplan,Merr.8
+COMMITTEE: CommerceandConsumerAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits the construction of data centers in New Hampshire and establishes a
+committeetostudytheenvironmentalimpactofdatacenters.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1265-ASINTRODUCED
+26-2482
+04/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the construction of data centers in the state and establishing a
+committeetostudytheenvironmentalimpactofdatacenters.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MoratoriumonConstructionofDataCenters.
+2 No person, business, or entity shall begin construction of a new data center in the state of New
+3 Hampshire from the effective date of this act through one year following. For the purposes of this
+4 section, "data center" means a facility consisting of a large group of networked computer servers
+5 usedfortheremotestorage,processing,ordistributionoflargeamountsofdata.
+6 2 Committee Established. There is established a committee to study the environmental impact
+7 ofdatacentersbeingbuiltinNewHampshire.
+8 3 MembershipandCompensation.
+9 I. Themembersofthecommitteeshallbeasfollows:
+10 (a) Three members of the house of representatives, appointed by the speaker of the
+11 houseofrepresentatives.
+12 (b) Onememberofthesenate,appointedbythepresidentofthesenate.
+13 II. Members of the committee shall receive mileage at the legislative rate when attending to
+14 thedutiesofthecommittee.
+15 4 Duties. Thecommitteeshallstudytheenvironmentalimpactofdatacenters.
+16 5 Chairperson; Quorum. The members of the study committee shall elect a chairperson from
+17 among the members. The first meeting of the committee shall be called by the first-named house
+18 member. The first meeting of thecommitteeshall be held within45days of theeffectivedateof this
+19 section. Threemembersofthecommitteeshallconstituteaquorum.
+20 6 Report. The committee shall report its findings and any recommendations for proposed
+21 legislation to the speaker of the house of representatives, the president of the senate, the house
+22 clerk, the senate clerk, the governor, and the state library on or before November 1, 2025, and shall
+23 submitafinalreportonorbeforeNovember1,2026.
+24 7 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

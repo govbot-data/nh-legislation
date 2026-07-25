@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1526 -ASINTRODUCED
+2026SESSION
+26-2679
+09/08
+1526
+HOUSEBILL
+ANACT relative to the adopting of a municipal budget committee and electing members
+thereof.
+SPONSORS: Rep. Wherry, Hills. 13; Rep. Pauer, Hills. 36; Rep. Burnham, Straf. 2; Rep. Wood,
+Merr. 13; Rep. Sellers, Graf. 10; Rep. Freeman, Belk. 8; Rep. Mary Murphy, Hills.
+27;Rep.DeRoy,Straf.3;Rep.TomMannion,Hills.1
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Modifiestheprocedureforadopting,rescinding,andelectingamunicipalbudgetcommittee.
+II. Modifies the time frame for the appointment of initial members of a cooperative school
+districtbudgetcommittee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1526-ASINTRODUCED
+26-2679
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the adopting of a municipal budget committee and electing members
+thereof.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Municipal Budget Law; Budget Committee. RSA 32:14, III is repealed and reenacted to read
+2 asfollows:
+3 III. Voting shall be by official ballot unless the town has not adopted the official ballot, in
+4 which case the clerk shall cause the same question to be printed upon special ballots which shall be
+5 usedtodeterminethevoteofthetownattheannualmeeting.
+6 (a) If budget committee members-at-large are to be appointed by the moderator
+7 pursuant to RSA 32:15, II, the wording of the question shall be: “To assist voters in the prudent
+8 appropriation of public funds, shall we adopt the provisions of RSA 32:14 to establish a budget
+9 committeeconsistingof(number)members-at-largewhoareappointedbythemoderator?”
+10 (b) Ifbudgetcommitteemembers-at-largearetobeelectedwithinitialmembers-at-large
+11 appointed to one year terms by the moderator pursuant to RSA 32:15, III, the wording of the
+12 question shall be: “To assist voters in the prudent appropriation of public funds, shall we adopt the
+13 provisions of RSA 32:14 to establish a budget committee consisting of (number) members-at-large
+14 whoareelected,withtheinitialmembersappointedtoone-yeartermsbythemoderator?”
+15 (c) Except for a town or district that uses an official ballot form of meeting under RSA
+16 40:13 or under a charter adopted pursuant to RSA 49-D, if budget committee members-at-large are
+17 to be elected with initial members-at-large elected to one-year terms pursuant to RSA 32:15, III, the
+18 wording of the question shall be as follows: “To assist voters in the prudent appropriation of public
+19 funds, shall we adopt the provisions of RSA 32:14 to establish a budget committee consisting of
+20 (number) members-at-large who are elected, with the initial members elected to one-year terms by
+21 themeeting?”
+22 2 MunicipalBudgetLaw;Adoption. AmendRSA32:14,Vtoreadasfollows:
+23 V. A town or district which has adopted this subdivision may rescind its adoption in the
+24 manner described in paragraphs II and III, except that the wording of the question shall be:
+25 “ShallwerescindtheprovisionsofRSA32:14,eliminatingthe budgetcommitteesothatthe
+26 governing body assumes all budgetary responsibilities for the prudent appropriation of
+27 publicfunds?”.
+28 3 Municipal Budget Law; Budget Committee Membership. Amend RSA 32:15, III-IV to read as
+29 follows:
+
+HB1526 -ASINTRODUCED
+-Page2-
+1 III. If a town or district uses an official ballot form of meeting under RSA 40:13 or
+2 under a charter adopted pursuant to RSA 49-D, and the meeting decides members-at-large
+3 are to be elected, the meeting shall either elect the initial members-at-large for staggered
+4 terms as described in paragraph II at the next annual meeting, or shall authorize the
+5 moderator to appoint members-at-large to serve a one-year term until the next annual
+6 meeting, as provided in RSA 669:17. Otherwise, if the meeting decides members-at-large are to
+7 beelected,themeetingshalleitherelecttheinitialmembersforone-yeartermsbymeansotherthan
+8 byofficialballot, orshall authorizethemoderatortoappoint memberstoserveuntil thenext annual
+9 meeting, as provided in RSA 669:17. Elections for staggered terms, as described in paragraph II,
+10 shall not begin until that next annual meeting, and shall be by official ballot if the municipality has
+11 adoptedtheofficialballotsystem,assetforthinRSA669orRSA671.
+12 IV. A town or district which has adopted this subdivision may vote at any subsequent
+13 annual meeting to change the number or manner of selection of its members-at-large. No such
+14 change shall take effect until the annual meeting following the meeting at which the change was
+15 adopted. Currently elected or appointed members-at-large shall continue to serve until the
+16 endoftheircurrentterm.
+17 (a) To change the number of members-at-large, the wording of the question
+18 shall be: “Shall we change the number of budget committee members-at-large from
+19 (number)to(number)?”
+20 (b) To change the manner of selection of members-at-large, the wording of the
+21 question shall be: “Shall we change the manner of selection of budget committee members-
+22 at-large from (“appointed by moderator” or “elected by voters”) to (“elected by voters” or
+23 “appointedbymoderator”)?”
+24 4 CooperativeSchoolDistricts;BudgetCommittee. AmendRSA195:12-a,Itoreadasfollows:
+25 I. A cooperative school district at an annual meeting, under a proper article in the warrant,
+26 may vote to establish a budget committee pursuant to RSA 32:14 and may rescind such action in a
+27 like manner. The budget committee shall have the same number of members as the cooperative
+28 district school board plus one additional member from the school board as provided in this
+29 paragraph. The terms of office and manner of election of members shall be determined in the same
+30 manner as for the cooperative school board. Whenever it is voted to establish a budget committee,
+31 the moderator in the first instance shall appoint the members of the budget committee, except for
+32 the additional member appointed from the school board, within [15] 30 days of the vote establishing
+33 the committee. The members appointed by the moderator shall serve until the next annual meeting
+34 when the meeting shall elect their successors. No member of the cooperative school board shall be
+35 appointed or elected to the budget committee except that the chairperson of the cooperative school
+36 board shall appoint a member of the board to serve on the budget committee in an ex-officio, non-
+37 voting capacity. After appointment or election the budget committee shall promptly organize and
+
+HB1526 -ASINTRODUCED
+-Page3-
+1 choose a chairperson, vice-chairperson, and secretary. The secretary shall keep records of the
+2 proceedingsofthebudgetcommittee,whichshallbepublicrecordsopentopublicinspection.
+3 5 Repeal. RSA32:14,IV,relativetoprocedureifthevoteisfavorable,isrepealed.
+4 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.

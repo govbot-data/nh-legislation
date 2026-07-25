@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1806-FN-ASINTRODUCED
+2026SESSION
+26-3139
+08/07
+1806-FN
+HOUSEBILL
+ANACT relative to the list of revoked or suspended educator licenses maintained by the
+departmentofeducation.
+SPONSORS: Rep. Manohar, Hills. 9; Rep. Raymond, Hills. 5; Rep. Swanson, Hills. 5; Sen.
+Rosenwald,Dist13
+COMMITTEE: EducationPolicyandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a process for removal from the list of revoked or suspended educator licenses
+maintainedbythedepartmentofeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1806-FN-ASINTRODUCED
+26-3139
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the list of revoked or suspended educator licenses maintained by the
+departmentofeducation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Disciplinary List. Amend RSA 21-N by inserting after section 9 the following
+2 newsection:
+3 21-N:9-a ReviewandRemovalfromEducatorMisconductRegistry.
+4 I. Any individual whose educator credential was revoked or surrendered and whose
+5 revocationwas not associated withacriminal investigation, criminalconviction, or adjudicationmay
+6 petitionthedepartmentforremovalfromtheeducatormisconductregistry.
+7 II. Thepetitionshallbesubmittedinwritingtothedepartmentandinclude:
+8 (a) Astatementofthegroundsforremoval;
+9 (b) Documentationdemonstratingrehabilitation,ifapplicable;and
+10 (c) Evidencethattherevocationwasnotrelatedtocriminalconduct.
+11 III. The department shall review the petition within 90 days and may grant removal from
+12 theregistryifitfinds:
+13 (a) Therevocationwasnotbasedoncriminalconduct;
+14 (b) Theindividualposesnocurrentrisktostudentsortheeducationalenvironment;and
+15 (c) Removalisconsistentwiththepublicinterest.
+16 IV. The department shall conduct a review of the educator misconduct registry at least once
+17 every2yearsto:
+18 (a) Identifyandremoveindividualswhoareconfirmeddeceased;
+19 (b) Ensuretheaccuracyandcompletenessoftheregistry;and
+20 (c) Reportfindingstothestateboardofeducation.
+21 V. The department shall ensure that all actions taken under this sectionareconsistent with
+22 principlesoftransparencyanddueprocess,including:
+23 (a) Providingwrittennoticeofdecisionstopetitioners;
+24 (b) AllowingpetitionerstoappealdenialsunderRSA541-A;and
+25 (c) Publishing anonymized data on registry removals and reviews annually, while
+26 protectingpersonallyidentifiableinformation.
+27 VI. The state board of education shall adopt rules under RSA 541-A to implement the
+28 provisionsofthissection,including:
+29 (a) Proceduresforpetitionsubmissionandreview;
+30 (b) Criteriaforremoval;and
+
+HB1806-FN-ASINTRODUCED
+-Page2-
+1 (c) Standardsforperiodicreviewandsunseteligibility.
+2 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3139
+12/16/25
+HB1806-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the list of revoked or suspended educator licenses maintained by the
+departmentofeducation.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantisunabletocompleteafiscalnoteforthisbillasit
+is awaiting information from the Department of Education. The Department was initially
+contacted on 11/12/25 for a fiscal note worksheet, with follow-up contact made on 12/5/25.
+Whencompleted,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+AGENCIESCONTACTED:
+DepartmentofEducation

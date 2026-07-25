@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1788-FN-ASINTRODUCED
+2026SESSION
+26-2401
+07/09
+1788-FN
+HOUSEBILL
+ANACT holding state contracts with DEI provisions to be void as a matter or law and
+establishing a right of action for taxpayers where public entities or state agencies
+engagewithcontractswithDEIprovisions.
+SPONSORS: Rep. Nalevanko, Ches. 9; Rep. DeRoy, Straf. 3; Rep. Wherry, Hills. 13; Rep.
+Sweeney, Rock. 25; Rep. Cambrils, Merr. 4; Rep. Berry, Hills. 44; Sen. Ward, Dist
+8
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. RequirescourtstofindthatcontractsthatincludeDEI-relatedprovisionsarevoidasamatter
+oflaw.
+II. Allows taxpayers to sue public entities or state agencies for engaging in, or failing to
+investigateallegationsof,contractswithDEI-relatedprovisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1788-FN-ASINTRODUCED
+26-2401
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT holding state contracts with DEI provisions to be void as a matter or law and
+establishing a right of action for taxpayers where public entities or state agencies
+engagewithcontractswithDEIprovisions.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 The State and Its Government; Prohibition on Diversity, Equity, and Inclusion; Definitions.
+2 AmendRSA21-I:112,IItoreadasfollows:
+3 II. "Diversity, equity, and inclusion" or "DEI" shall mean any program, policy, training, or
+4 initiative that classifies individuals based on a characteristic identified under RSA 354-A:1 for the
+5 purpose of achieving demographic outcomes, rather than treating individuals equally under the law.
+6 DEI shall not include activities of registered student organizations, mental or physical
+7 health services by licensed professionals, bona fide qualifications based on sex, or any
+8 attempttocomplyingoodfaithwiththeAmericanswithDisabilitiesAct.
+9 2 The State and Its Government; Department of Administrative Services; Prohibition on DEI-
+10 RelatedContractProvisions. AmendRSA21-I:114toreadasfollows:
+11 21-I:114 ProhibitiononDEI-RelatedContractProvisions.
+12 I. No agencies or political subdivisions shall enter into or renew any contract that includes
+13 DEI-related provisions, including requirements for contractors to implement DEI programs, conduct
+14 DEItraining,orcomplywithDEI-relatedreportingobligations.
+15 II. Any contract made in violation of this subdivision shall be void as a matter of
+16 law. A court of competent jurisdiction shall order the full rescission of a contract in
+17 violationofthissubdivision.
+18 III. Any taxpayer shall be entitled to bring a cause of action against any public
+19 entity, state agency, or political subdivision that has violated any part of this subdivision.
+20 Any taxpayer that can demonstrate such public entity, state agency, or political
+21 subdivision has violated any provision of this subdivision shall be entitled to declaratory
+22 relief, injunctive relief, and reasonable attorney's fees in any action brought against such
+23 districtoradministrativeunit.
+24 3 Education; Prohibition on Diversity, Equity, and Inclusion in Public Schools; Definitions.
+25 AmendRSA186:71,Itoreadasfollows:
+26 I. "Diversity, equity, and inclusion" or "DEI" shall mean any program, policy, training, or
+27 initiative that classifies individuals based on a characteristic identified under RSA 354-A:1 for the
+28 purpose of achieving demographic outcomes, rather than treating individuals equally under the law.
+29 DEI shall not include activities of registered student organizations, mental or physical
+
+HB1788-FN-ASINTRODUCED
+-Page2-
+1 health services by licensed professionals, bona fide qualifications based on sex, or any
+2 attempttocomplyingoodfaithwiththeAmericanswithDisabilitiesAct.
+3 4 NewParagraphs;Education;ProhibitiononDiversity,Equity,andInclusioninPublicSchools;
+4 Interpretation and Compliance. Amend RSA 186:77 by inserting after paragraph II the following
+5 newparagraphs:
+6 III. A violation of this subdivision shall also be considered a violation of the educator code of
+7 conductmeritingdisciplinarysanctionsbythestateboardofeducation.
+8 IV. Any contract made in violation of this subdivision shall be void as a matter of law. A
+9 court of competent jurisdiction shall order the full rescission of a contract in violation of this
+10 subdivision.
+11 V. Taxpayers residing within a school district or school administrative unit shall be entitled
+12 to bring causes of action against any public school, school district, or school administrative unit that
+13 has violated any part of this subdivision. Any taxpayer that can demonstrate such school, school
+14 district, or school administrative unit has violated any provision of this subdivision shall be entitled
+15 to declaratory relief, injunctive relief, and reasonable attorney's fees in any action brought against
+16 suchdistrictoradministrativeunit.
+17 VI. The department of education shall be required to conduct good-faith investigations of a
+18 facially credible report of violations of this subdivision by any citizen residing within the school
+19 district or school administrative unit. Any taxpayer that can demonstrate that the department has
+20 engaged in a sustained pattern of categorically declining to investigate credible reports of violations
+21 of this subdivision shall be empowered to bring a cause of action against the department in superior
+22 court, and shall be entitled to declaratory relief, injunctive relief, and reasonable attorney's fees,
+23 regardless of whether the taxpayer has brought any action against the department under
+24 paragraphsIVorV.
+25 5 EffectiveDate. Thisactshalltakeeffect30daysafteritspassage.
+
+LBA
+26-2401
+Revised1/14/26
+HB1788-FN-FISCALNOTE
+ASINTRODUCED
+ANACT holding state contracts with DEI provisions to be void as a matter or law and
+establishing a right of action for taxpayers where public entities or state agencies
+engagewithcontractswithDEIprovisions.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+TheOfficeofLegislativeBudgetAssistantisunabletoprovideacompletefiscalnoteforthisbill,
+asintroduced,as itis awaitinginformationfromtheDepartment ofEducation. The Department
+was originally contacted on 11/21/25 and again on 12/5/25 for a fiscal note worksheet. When
+completed,arevisedfiscalnotewillbeforwardedtotheHouseClerk'sOffice
+METHODOLOGY:
+This bill requires courts to find that contracts that include DEI-related provisions are void as a
+matter of law and allows taxpayers to sue public entities or state agencies for engaging in, or
+failingtoinvestigateallegationsof,contractswithDEI-relatedprovisions.
+
+The Department of Justice (DOJ) states this bill voids any existing contracts by an agency or
+political subdivisions that include DEI-related provisions as well as permits a taxpayer to bring
+acauseofactiontoenforcethislaw. TheDOJstatestheyareunabletodeterminetheamountof
+additionalwork this bill would require, but estimates thefiscal impact could bebetween$10,000
+to$100,000.
+The Judicial Branch states any additional work required by this bill could be absorbed into their
+existingbudget.
+The Department of Administrative Services states this bill does not provide new funding or
+authorize new positions and therefore will have no impact on State revenues or expenditures, as
+theaffectedprovisionshavealreadybeeneliminatedfromallstatewidecontracts.
+The fiscal impact on county and local governments is indeterminable. To the extent an action is
+brought against a political subdivision expenditures at the county and local level would increase
+byanindeterminableamount.
+AGENCIESCONTACTED:
+Department of Justice, Judicial Branch, Department of Administrative Services, and
+DepartmentofEducation

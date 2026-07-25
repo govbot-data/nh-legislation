@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1308-FN-ASINTRODUCED
+2026SESSION
+26-2882
+06/09
+1308-FN
+HOUSEBILL
+ANACT relativetoincreasingthepenaltyforpassingastoppedschoolbus.
+SPONSORS: Rep. Giasson, Hills. 29; Rep. Layon, Rock. 13; Rep. Litchfield, Rock. 32; Rep.
+Markell, Rock. 18; Rep. Mazur, Hills. 44; Rep. Miller, Straf. 21; Rep. Reinfurt,
+Hills.29;Rep.SabourinditChoiniere,Rock.30
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Increases penalties for unlawfully passing a stopped school bus, authorizes use of sworn
+testimony and bus camera footage as evidence, and mandates license suspension for first and repeat
+offenses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1308-FN-ASINTRODUCED
+26-2882
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoincreasingthepenaltyforpassingastoppedschoolbus.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 OvertakingandPassingSchoolBus. AmendRSA265:54,I-aandI-btoreadasfollows:
+2 I-a. Testimonyunderoathfromtheschoolbusdriverorotherwitnessthatavehiclefailedto
+3 stop and remain stopped as required by paragraph I shall be sufficient evidence to prove that the
+4 ownerofthevehiclewasdrivingandhasviolatedtheprovisionsofparagraphI,unlesssuchevidence
+5 is rebutted or contradicted. The camera footage from the bus may be used as evidence as
+6 proofagainstthevehicleowneroroperatorandshallbemadeavailablebysubpoenatothe
+7 county attorney. Camera footage may be used for no other purpose, unless otherwise
+8 permittedbylaw.
+9 I-b. Except as provided inparagraphIV, apersonwho violates theprovisions of paragraph I
+10 shall be guilty of a [violation] class B misdemeanor and shall be fined [$150] $300 plus penalty
+11 assessment for a first offense[, and shall be fined not less than $250 nor more than $1,000 for a
+12 subsequent offense. In addition, the director may suspend the person's license to drive or
+13 nonresident driving privilege for a period of 30 days for a second or subsequent offense.] In
+14 addition, the director shall suspend the person’s license to drive or nonresident driving
+15 privilegeforaperiodof7daysforthefirstoffense.
+16 I-c. Except as provided in paragraph IV, a person who violates the provisions of
+17 paragraph I, a second or subsequent time shall be guilty of a class A misdemeanor, and
+18 shall be fined not less than $750. Unless the court determines that exceptional
+19 circumstances exist, the person's driver's license or privilege to drive shall be revoked for a
+20 periodofnotlessthan30days.
+21 I-d. Except as provided in paragraph IV, a person who violates the provisions of
+22 paragraphI,athirdorsubsequenttimeshallbeguiltyofaclassAmisdemeanor,andshall
+23 be fined not less than $750. The person shall be sentenced to a mandatory sentence of not
+24 less than 15 consecutive days in the county correctional facility. The person's driver's
+25 license or privilege to drive shall be revoked indefinitely and shall not be restored for at
+26 least one year. At the end of the minimum revocation period the person may petition the
+27 court for eligibility to reapply for a driver's license only after completing a driver safety
+28 course.
+29 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2882
+11/7/25
+HB1308-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoincreasingthepenaltyforpassingastoppedschoolbus.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

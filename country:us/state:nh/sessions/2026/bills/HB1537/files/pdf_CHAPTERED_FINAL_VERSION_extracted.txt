@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER175
+HB1537-LOCAL-FINALVERSION
+21May2026...1998EBA
+2026SESSION
+26-2599
+07/08
+1537-LOCAL
+HOUSEBILL
+ANACT relativetotheuseofhighresolutioncamerastoidentifyschoolbusstoplightviolators.
+SPONSORS: Rep.Ulery,Hills.13;Rep.Lynn,Rock.17;Rep.Layon,Rock.13;Rep.Giasson,Hills.
+29; Rep. Spillane, Rock. 2; Rep. Notter, Hills. 12; Rep. Granger, Straf. 2; Rep.
+Kesselring,Hills.18;Sen.Avard,Dist12;Sen.Birdsell,Dist19;Sen.Lang,Dist2
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsvideorecordingdevicestobeaffixedtoschoolbusstopbars.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER175
+HB1537-LOCAL-FINALVERSION
+21May2026...1998EBA 26-2599
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofhighresolutioncamerastoidentifyschoolbusstoplightviolators.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 175:1 StatementofFindings. Thegeneralcourtherebyfindsthat:
+2 I. The current method of observation and reporting of violations of school bus laws is ineffective
+3 inidentifyingthosewhorecklesslyandwillfullyendangerourchildren'slives.
+4 II. Toassistinobtainingconvictionsforegregiousviolationsofschoolbuslaws,enhancementsof
+5 thetoolsschoolbusoperatorsusewhiletransportingstudentsisrequired.
+6 III. Theinstallationof ahighresolutioncameraonaschool busstopbar mayassist inidentifying
+7 andconvictingpersonsinviolationofschoolbuslaws.
+8 175:2 New Paragraphs; Transportation; Highway Video Surveillance; Highway Surveillance
+9 Prohibited. AmendRSA236:130byinsertingafterparagraphIthefollowingnewparagraphs:
+10 I-a. "Stopbar"meansamechanicalarmthathasalarge"STOP"signattachedandflashinglights
+11 thatextendfromthesideofaschoolbus.
+12 I-b. "High resolution camera" means a camera with video recording that can record a person's
+13 facewithenoughclaritytoidentifythem.
+14 I-c. "Video continuity tracking" means a method of digitally embedding a thread into a video to
+15 verifythatavideohasnotbeenaltered.
+16 I-d. "Schoolbusdriver"meansanypersondrivingaschoolbus.
+17 I-e. "Schoolbusoperator"meansanentityowningaschoolbus.
+18 175:3 New Subparagraph; Transportation; Highway Video Surveillance; Highway Surveillance
+19 Prohibited. AmendRSA236:130,IIIbyinsertingaftersubparagraph(j)thefollowingnewsubparagraph:
+20 (k) Is undertaken for the purpose of monitoring vehicles passing stopped school buses with
+21 stopbarsengagedinboardingordischargingpassengers.
+22 (1) Such monitoring shall be in the form of a video recording device affixed to the stop
+23 barofaschoolbuswithadequatedigitalvideostoragefor2weeksofcontinuousactivation.
+24 (2) All video shall be time and date stamped digitally and video shall have continuity
+25 trackingmarkersembedded.
+26 (3) The video shall be of high enough resolution to identify drivers and shall only be
+27 activatedafterthestopisextended.
+28 (A) Any video recording shall be used for the sole purpose of supplementing
+29 observations and sworn statements of a school bus driver or operator, including for purposes of
+30 identificationofvehiclesandoperatorsresponsibleforschoolbuslawviolations.
+
+CHAPTER175
+HB1537-LOCAL-FINALVERSION
+-Page2-
+1 (B) Except in the case of damage by natural occurrence or disaster, videos shall be
+2 preserved until a town, city, municipality, state, or agency prosecutor determines if they will pursue
+3 criminalormotorvehiclechargesagainstanidentifiedpersonofinterest.
+4 (C) If a prosecutor determines that they shall press charges, the video shall be
+5 preserveduntilthecaseisresolved.
+6 (D) Ifanaccidentorinjuryoccursinvolvingtheschoolbusthatisrecorded,thevideo
+7 shall be retained for no less than 4 years to be available under subpoena by either party in any resulting
+8 tortaction.
+9 (4) Videonotneededforanyinvestigationinaccordancewiththissubparagraphshallbe
+10 erasedwithin7daysofrecording.
+11 (5) If a school bus operator chooses to install a video recording device, an easily
+12 identifiablecitationof thisstatuteshall beaffixedto thefront andrear bumper of theschool busand shall
+13 statethatexternalvideomonitoringmayoccurontheschoolbus'sstopbar.
+14 (6) Nothing in this subparagraph shall be construed to require the installation of a video
+15 recordingdeviceonaschoolbus.
+175:4 EffectiveDate. Thisactshalltakeeffect90daysafteritspassage.
+Approved:June19,2026
+EffectiveDate:September17,2026

@@ -1,0 +1,469 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1546-FN-ASINTRODUCED
+2026SESSION
+26-2789
+07/09
+1546-FN
+HOUSEBILL
+ANACT repealingthebusinessprofitstax.
+SPONSORS: Rep.Ankarberg,Straf.7;Rep.TomMannion,Hills.1;Rep.Warden,Hills.39
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrepealsthebusinessprofitstaxandallreferencesthereto.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1546-FN-ASINTRODUCED
+26-2789
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthebusinessprofitstax.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 The State and Its Government; State Treasurer; Application of Receipts. Amend RSA 6:12,
+2 I(b)(65)toreadasfollows:
+3 (65) Money received under [RSA 77-A,] RSA 77-E, RSA 78, RSA 78-A, RSA 78-B,
+4 RSA 83-F, RSA 284:44 and RSA 284:47, and from the sweepstakes fund, which shall be credited to
+5 theeducationtrustfundunderRSA198:39.
+6 2 The State and Its Government; State Treasurer; Exemptions From Certain Reporting
+7 Requirements. AmendRSA6:12-k,I(d)toreadasfollows:
+8 (d) RSA6:12,I,(b)(65),relativetomoneyreceivedunder[RSA77-A,]RSA77-E,RSA78,
+9 RSA78-A,RSA78-B,RSA83-F,RSA284:44andRSA284:47,andfromthesweepstakesfund,which
+10 shallbecreditedtotheeducationtrustfundunderRSA198:39.
+11 3 The State and Its Government; State Treasurer; Investment of Funds. Amend RSA 6:8, I-a(c)
+12 toreadasfollows:
+13 (c) The out-of-state bank pays the business enterprise tax [or business profits tax] based
+14 onitsbusinessactivityinthestateduringitsfiscalyear.
+15 4 The State and Its Government; Legislative Ethics Committee; Financial Disclosure Form.
+16 AmendRSA14-B:8,III(q)toreadasfollows:
+17 (q) NewHampshiretaxes,specifyingif[businessprofitstaxor]businessenterprisetax.
+18 5 The State and Its Government; Financial Disclosure; Form of Disclosure. Amend RSA 15-A:5,
+19 I(d)(17)toreadasfollows:
+20 (17) New Hampshire taxes, specifying if [business profits tax or] business enterprise
+21 tax.
+22 6 The State and Its Government; Department of Revenue Administration; Confidentiality of
+23 DepartmentRecords. AmendRSA21-J:14,V(d)(10)toreadasfollows:
+24 (10) An officer or employee of the insurance department, pursuant to an agreement
+25 for exchange of information between the department and the insurance department, [for the
+26 purposes of sharing information received by the department from insurance companies that claim a
+27 businessenterprisetaxcredit,pursuanttoRSA400-A:34-a,]andonlytotheextentnecessary,forthe
+28 administration and collection of tax premiums by the insurance department. The information
+29 disclosed pursuant to such exchange agreement shall not include records, files, returns, or
+30 information disclosed to officers or employees of the department by any other state, pursuant to a
+31 compact for the exchange of information between the department and any other state, unless
+
+HB1546-FN-ASINTRODUCED
+-Page2-
+1 permitted by such state or compact. Officers or employees of the insurance department, having in
+2 their custody or control any confidential taxpayer information obtained from the department
+3 pursuant to the exchange agreement authorized under this subparagraph, shall be subject to the
+4 provisionsofRSA21-J:14.
+5 7 The Stateand Its Government; Department of Revenue Administration; Penaltyfor Failure to
+6 File. AmendRSA21-J:31toreadasfollows:
+7 21-J:31 Penalty for Failure to File. Any taxpayer who fails to file a return when due, unless an
+8 extension has been granted by the department, shall pay a penalty equal to 5 percent of the amount
+9 of the tax due or $10, whichever is greater, for each month or part of a month during which the
+10 returnremainsunfiled. Thetotalamountofanypenaltyshallnot,however,exceed25percentofthe
+11 amount of the tax due or $50, whichever is greater. This penalty shall not be applied in any case in
+12 which a return is filed within the extended filing period as provided in [RSA 77-A:9,] RSA 77-E:8,
+13 RSA 83-C:6, RSA 84-A:7, or RSA 84-C:7, or the failure to file was due to reasonable cause and not
+14 willful neglect of the taxpayer. The amount of the penalty is determined by applying the
+15 percentages specified to the net amount of any tax due after crediting any timely payments made
+16 throughestimatingorothermeans.
+17 8 DepartmentofRevenueAdministration. AmendRSA21-J:33-a,Itoreadasfollows:
+18 I. Ifthereisasubstantialunderstatementoftaximposedunder[RSA77-A,]RSA77-E,RSA
+19 78-A, RSA 78-C, RSA 82-A, RSA 83-C, or RSA 84-A for any taxable period, there shall be added to
+20 the tax an amount equal to 25 percent of the amount of any underpayment attributable to such
+21 understatement.
+22 9 The State and Its Government; Department of Revenue Administration; Extension of Tax
+23 Filing Deadlines for Members of the Armed Forces and National Guard. Amend RSA 21-J:46, III to
+24 readasfollows:
+25 III. This section shall apply only to tax returns and associated payments under [RSA 77-A
+26 and]RSA77-E.
+27 10 Taxation; Tax Expenditures and Potential Liability Reports; Tax Expenditures Specified.
+28 AmendRSA71-C:2toreadasfollows:
+29 71-C:2 Tax Expenditures Specified. Tax expenditures include, but may not be limited to, the
+30 community development finance authority investment tax credit as computed in RSA 162-L:10; the
+31 economic revitalization zone tax credit as computed in RSA 162-N:6; [the research and development
+32 tax credit under RSA 77-A:5, XIII;] the Coos county job creation tax credit under RSA 77-E:3-c; the
+33 education tax credit as computed in RSA 77-G:4; the regional career and technical education center
+34 tax credit pursuant to RSA 188-E:9-a; and the exemption for qualified regenerative manufacturing
+35 companiesallowedunder[RSA77-A:1,Iand]RSA77-E:1,III.
+36 11 Taxation; Tax Expenditure and Potential Liability Reports; Tax Expenditure and Potential
+37 LiabilityReport. AmendRSA71-C:4,IandIItoreadasfollows:
+
+HB1546-FN-ASINTRODUCED
+-Page3-
+1 I. On or before December 15 of every fiscal year the commissioner of the department of
+2 revenue administration shall certify in a report to the general court and the governor an analysis of
+3 each of the past fiscal year's tax expenditures as identified in RSA 71-C:2, and other credits allowed
+4 under [RSA 77-A,] RSA 77-E, RSA 77-G, RSA 78, RSA 78-A, 78-B, RSA 82-A, RSA 84-A, RSA 84-C,
+5 andRSA400-A.
+6 II. Thereportshallbedividedintothefollowingparts:
+7 (a) Tax expenditures as determined by the joint committee on tax expenditure review
+8 underRSA71-C:3;
+9 (b) Potentialliabilitiesagainstthestate'srevenues,specifically:
+10 (1) Other credits allowed under [RSA 77-A,] RSA 77-E, RSA 77-G, RSA 78, RSA 78-
+11 A, RSA 78-B, RSA 82, RSA 82-A, RSA 83-E, RSA 84-A, RSA 84-C[, and RSA 400-A against the
+12 businessprofitstaximposedbyRSA77-A;]and
+13 (2) Creditcarryoversfromoverpaidtaxes.
+14 12 Taxation;BusinessEnterpriseTax;Definitions. AmendRSA77-E:1,Vtoreadasfollows:
+15 V. FortaxableperiodsbeginningonorafterJanuary1,2013,"compensation"means:
+16 (a) All wages, salaries, fees, bonuses, commissions, or other payments paid directly or
+17 accrued by the business enterprise in the taxable period on behalf of or for the benefit of employees,
+18 officers,ordirectorsofthebusinessenterpriseandsubjecttoorspecificallyexemptfromwithholding
+19 under section 3401 of the United States Internal Revenue Code except such payments as are made
+20 expresslyexemptfromwithholdingundersections3401(a)(1),(9),(10),(13),(14),(15),(16),(18),(19),
+21 and (20); and except any tips required to be reported by the employee to the employer under section
+22 6053(a)oftheUnitedStatesInternalRevenueCode;and
+23 [(b)TheamountofanydeductiontakenunderRSA77-A:4,IIIinthetaxableperiod;and]
+24 [(c)] (b) Any net earnings from self-employment subject to tax under section 1401 of the
+25 United States Internal Revenue Code [to the extent not included in the amount of any deduction
+26 takenunderRSA77-A:4,IIIinthetaxableperiod].
+27 13 Taxation; Business Enterprise Tax; Definitions. Amend RSA 77-E:1, XIV(b) to read as
+28 follows:
+29 (b) A qualified investment company shall limit its activities to investment or other
+30 activities consistent with its organizational purpose and those incidental to or in support of such
+31 activities provided that any such exception from investment company status by reason of section
+32 3(c)(7) is available only to issuers whose securities are owned by persons or organizations who are
+33 deemed under section 3(c)(7) or any order, regulation or interpretation thereunder not to require
+34 protection under the provisions of the Investment Company Act by reason of their size, nature,
+35 status, or sophistication. [A business organization seeking qualified investment company status
+36 shallfileanelectionpursuanttoRSA77-A:5-b.]
+
+HB1546-FN-ASINTRODUCED
+-Page4-
+1 14 Taxation; Business Profits Tax; Definitions. RSA 77-E:1, XIV-a is repealed and reenacted to
+2 readasfollows:
+3 XIV-a "Qualified regenerative manufacturing company" means any business organization
+4 whichmeetseachofthefollowingrequirementsatalltimesduringtheentiretaxableyear:
+5 (a)(1) It files with its return for the taxable year an election to be a qualified
+6 regenerativemanufacturingcompany inaccordance withRSA 77-A:5-c or has made suchelection for
+7 aprevioustaxableyear;and
+8 (2) At least 75 percent of its business activities over the course of the tax year meet
+9 the requirements for an active regenerative manufacturing business, or, in the case of a subsidiary
+10 located in New Hampshire, 75 percent of that subsidiary's business activities meet the requirements
+11 foranactiveregenerativemanufacturingbusiness.
+12 (b) For purposes of this paragraph, the term "regenerative manufacturing" means any
+13 aspect of the manufacturing of blood, tissues, tissue constructs, and organs for the purpose of
+14 researching, diagnosing, treating, or curing any disease or injury, such as (1) cell collection, culture
+15 and scale-up, (2) biomaterial selection and scale-up, (3) tissue process automation and monitoring,
+16 (4)tissuematuring,and(5)tissuepreservationandtransport.
+17 (c) For purposes of this paragraph, the term "active regenerative manufacturing
+18 business" means the conduct of any business activity the primary focus of which is any one or more
+19 ofthefollowingareas:
+20 (1) Performingresearchrelatingtoregenerativemanufacturing;
+21 (2) Performingregenerativemanufacturingactivities;
+22 (3) Researching, developing, manufacturing, or supplying technical services in
+23 support of regenerative manufacturing, such as process engineering, automation, facility set-up, and
+24 distributionservices;
+25 (4) Researching, developing, manufacturing, or supplying technologies utilized in
+26 regenerative manufacturing, such as cellular and non-cellular source materials, tools, equipment,
+27 reagents,andothersupplies;and
+28 (5) Performing any activity necessary to bring a product created through
+29 regenerative manufacturing to market, including but not limited to seeking patents, regulatory
+30 approval,performingclinicaltrials,andsales.
+31 15 Taxation; Business Enterprise Tax; Special Adjustments. Amend RSA 77-E:3, I to read as
+32 follows:
+33 I. In the case of a business enterprise, the enterprise value tax base of which includes
+34 compensation derived from self-employment income subject to tax under section 1401 of the United
+35 States Internal Revenue Code, a deduction of such amounts of compensation as are retained for use
+36 in the business enterprise[, except that no amount of compensation deducted under RSA 77-A:4, III
+
+HB1546-FN-ASINTRODUCED
+-Page5-
+1 shall be included in this deduction]. The burden shall be upon the business enterprise to show that
+2 anyamountsdeductedhaveactuallybeenretainedforuseinthebusinessenterprise.
+3 16 Taxation; Business Enterprise Tax; Apportionment. Amend RSA 77-E:4, I(a)(1) to read as
+4 follows:
+5 (1) Include the amount [of any deduction taken pursuant to RSA 77-A:4, III, the
+6 amount] relating to self-employment income and the amount relating to wages and salaries subject
+7 to or specifically exempt from withholding under section 3401 of the United States Internal Revenue
+8 Code except such payments as are made expressly exempt from withholding under sections
+9 3401(a)(1),(9),(10),(13),(14),(15),(16),(18),(19),and(20);and
+10 17 Taxation; Education Tax Credit; Definitions. RSA 77-G:1, III is repealed and reenacted to
+11 readasfollows:
+12 I. "Business organization" means any enterprise, whether corporation, partnership, limited
+13 liability company, proprietorship, association, business trust, real estate trust or other form of
+14 organization; organized for gain or profit, carrying on any business activity within the state, except
+15 such enterprises as are expressly made exempt from income taxation under the United States
+16 Internal Revenue Code. Trusts or foundations treated as grantor trusts under section 671 of the
+17 United States Internal Revenue Code shall be included in the return of their owners, and such
+18 owners shall be subject to the tax thereon to the extent such owners would be considered a business
+19 organization hereunder notwithstanding the existence of the trust or foundation. The use of
+20 consolidated returns as defined in the United States Internal Revenue Code is not permitted.
+21 Notwithstandingany other provision of this paragraph, an enterpriseshall not be characterized as a
+22 business organization and shall be excluded from taxation at the entity level if it elects to be treated
+23 as a qualified investment company or if it elects to be treated as a qualified regenerative
+24 manufacturing company. A partnership, limited liability company, estate, trust, or foundation
+25 except grantor trusts pursuant to section 671 of the United States Internal Revenue Code, "S"
+26 corporation, real estate investment trust, or any other such entity, other than an organization
+27 electing to be treated as a qualified investment company whose net income is reportable by the true
+28 owners either directly or indirectly, or an organization electing to be treated as a qualified
+29 regenerative manufacturing company, shall be subject to tax at the entity level, and no part of such
+30 earnings or loss shall be included in the calculation of the gross business profits of the owners of
+31 suchentity.
+32 18 Taxation; Education Tax Credit; Scholarship Organizations. Amend RSA 77-G:5, I(i)(2) to
+33 readasfollows:
+34 (2) Not knowingly award a scholarship to any lineal descendant or equivalent step-
+35 person of any proprietor, partner, or member of any business organization, business enterprise, or
+36 individual making a contribution to a scholarship organization and claiming a credit against the
+37 [business profits tax or] business enterprise tax, nor anylineal descendant or equivalent step-person
+
+HB1546-FN-ASINTRODUCED
+-Page6-
+1 of any officer, director, or owner of more than a 5 percent interest in any business organization,
+2 business enterprise, or individual making a contribution to a scholarship organization and claiming
+3 acreditagainstthe[businessprofitstaxor]businessenterprisetax,noranyemployeewhois among
+4 the highest-paid 20 percent of paid employees in any business organization, business enterprise, or
+5 individual making a contribution to a scholarship organization and claiming a credit against the
+6 [businessprofitstaxor]businessenterprisetax.
+7 19 Acquisition of Lands by United States; Federal Aid; Relocation Assistance and Real Property
+8 Acquisition;PaymentsnotIncomeorResources. AmendRSA124-A:12toreadasfollows:
+9 124-A:12 Payments not Income or Resources. No payment received by a displaced person under
+10 this chapter shall be considered as income for the purpose of determining the eligibility or extent of
+11 eligibility of any person for assistance under any state law or for the purposes of [RSA 77-A or] any
+12 [other]directorindirecttaxonincomeunderstatelaw.
+13 20 Public Safety and Welfare; Economic Revitalization Zone Tax Credits; Application of
+14 EconomicRevitalizationZoneTaxCredit. AmendRSA162-N:7toreadasfollows:
+15 162-N:7 Application of Economic Revitalization Zone Tax Credit. The economic revitalization
+16 zone tax credit shall be applied against the [business profits tax under RSA 77-A, and any unused
+17 portion thereof may be applied against the] business enterprise tax under RSA 77-E. Any unused
+18 portion of the credit allowed under this chapter or any eligible credit in excess of $40,000 allowed
+19 under this chapter, may be carried forward and allowed against taxes due under [RSA 77-A or] RSA
+20 77-E for 5 taxable periods from the taxable period in which the tax was paid. [For the purpose of the
+21 creditallowedunderRSA77-A:5,X,theeconomicrevitalizationzonecreditshallbeconsidered taxes
+22 paidunderRSA77-E.]
+23 21 Public Safety and Welfare; Regenerative Manufacturing Workforce Development Program;
+24 AcquisitionofStudentLoansofQualifiedNewHampshireEmployees. AmendRSA162-T:2,III(b)to
+25 readasfollows:
+26 (b) The person shall be employed to perform primarily active regenerative
+27 manufacturing business activities [as that term is defined in RSA 77-A:1, XXX] and the principal
+28 officeatwhichsuchpersonisemployedislocatedwithinNewHampshire;
+29 22 Labor; Employee Leasing Companies; Tax Credits. Amend RSA 277-B:17-a to read as
+30 follows:
+31 277-B:17-a Tax Credits. For purposes of determination [of business profits tax credits under
+32 RSA 77-A,] Coos county job creation credits under RSA 162-Q, economic revitalization zone credits
+33 under RSA 162-N, or any other available statutory tax credits provided by this state that are based
+34 on employment, leased employees shall be deemed employees solely of the client company if an
+35 election is made pursuant to RSA 77-E:13-a. A client company shall be entitled to the benefit of any
+36 such tax credit arising as the result of the employment of leased employees of such client company.
+37 Notwithstanding that the employee leasing company is the W-2 reporting employer, the client
+
+HB1546-FN-ASINTRODUCED
+-Page7-
+1 company shall continue to qualify for [business profits tax credits under RSA 77-A,] Coos county job
+2 creation credits under RSA 162-Q, economic revitalization zone credits under RSA 162-N, or any
+3 other available statutory tax credits. Leased employees working for other client companies of the
+4 employee leasing company shall not be counted together. Each employing leasing company shall
+5 provide, upon request by a client company, state agency, or department responsible for
+6 administration of any such tax credit, employment information reasonably required by such agency
+7 or department and necessary to support any request, claim, application, or other action by a client
+8 companyseekinganysuchtaxcredit. This sectionshall not applytotheadministrationof RSA282-
+9 A.
+10 23 Corporations, Associations, and Proprietors of Common Lands; Dissolution; Effect of
+11 Dissolution. AmendRSA293-A:14.05,(b)toreadasfollows:
+12 (b) Prior to making any distributions of its remaining property among its shareholders
+13 according to their interests, the corporation shall first obtain a certificate of dissolution from the
+14 departmentofrevenueadministrationinaccordancewith[RSA77-A:18and]RSA77-E:12.
+15 24 Corporations, Associations, and Proprietors of Common Lands; Dissolution; Reinstatement
+16 FollowingAdministrativeDissolution. AmendRSA293-A:14.22,(a)(4)toreadasfollows:
+17 (4) contain a certificate from the department of revenue administration in
+18 accordance with [RSA 77-A:18, III, and] RSA 77-E:12, III, if such application is received by the
+19 secretaryofstatemorethan120daysafterthenoticeofadministrativedissolutionismailed.
+20 25 Corporations, Associations, and Proprietors of Common Lands; Foreign Corporations;
+21 AuthoritytoTransactBusinessRequired. AmendRSA293-A:15.01,(d)toreadasfollows:
+22 (d) Nothing in this section shall be construed so as to preclude a determination that a
+23 foreign corporation is carrying on business activity within this state [within the meaning of RSA 77-
+24 A:1,XII].
+25 26 Corporations, Associations, and Proprietors of Common Lands; Foreign Corporations;
+26 AuthoritytoTransactBusinessRequired. AmendRSA293-A:15.20,(b)(6)toreadasfollows:
+27 (6) a statement of withdrawal from the New Hampshire department of revenue
+28 administrationinaccordancewith[RSA77-A:18,IIand]RSA77-E:12,II.
+29 27 Corporations,Associations,andProprietorsofCommonLands;TreatmentofNewHampshire
+30 InvestmentTrusts;Definitions. AmendRSA293-B:2,IVtoreadasfollows:
+31 IV. "New Hampshire investment trust" means a ["qualified investment company" as defined
+32 inRSA77-A:1,XXI]qualifiedinvestmentcompany.
+33 28 Corporations,Associations,andProprietorsofCommonLands;TreatmentofNewHampshire
+34 InvestmentTrusts;Definitions. AmendRSA293-B:2,VItoreadasfollows:
+35 VI. "Other investment entity" means an out-of-state investment entity which [meets the
+36 definition of a "qualified investment company" as defined in RSA 77-A:1, XXI] is a qualified
+
+HB1546-FN-ASINTRODUCED
+-Page8-
+1 investment company, with the exception that such other investment entity need not submit
+2 certificationtothecommissioner.
+3 29 Partnerships; Foreign Limited Liability Companies; Transactions Not Constituting Doing
+4 Business. AmendRSA304-C:174,IIItoreadasfollows:
+5 III. This section does not apply in determining the contacts or activities that may subject a
+6 foreign limited liability company to service of process or taxation in this state or to regulation under
+7 any other law of this state[, and nothing in this section shall be construed to preclude a
+8 determination that a foreign limited liability company is carrying on a business activity in this state
+9 withinthemeaningofRSA77-A:1,XII].
+10 30 Partnerships; ForeignLimited LiabilityCompanies; Appeals From Revocations. Amend RSA
+11 304-C:185,IIItoreadasfollows:
+12 III. The court may summarily order the secretary of state to reinstate the certificate of
+13 authority or may take any other action the court considers appropriate[, except that nothing in this
+14 section shall be construed to preclude a determination that a foreign limited liability company is
+15 carryingonbusinessactivitywithinthisstatewithinthemeaningofRSA77-A:1,XII].
+16 31 Insurance; Insurance Department; Credit for Business Enterprise Tax. Amend RSA 400-
+17 A:34-atoreadasfollows:
+18 400-A:34-a Credit for Business Enterprise Tax. The tax imposed under RSA 77-E shall be
+19 allowed as a credit against the taxes due under this chapter [and shall be deemed to be taxes paid
+20 pursuant to this chapter for the purposes of RSA 77-A:5, III]. Any insurer subject to taxation under
+21 this chapter shall first apply such credits as provided in this section[, and then pursuant to RSA 77-
+22 A:5,X]. ThetaxespaidpursuanttoRSA77-Ebyanindividualmemberofaunitarybusiness[within
+23 the meaning of RSA 77-A:1, XIV] shall be allowed as a credit against any other individual member's
+24 liability under this chapter, provided that such other member is also subject to the tax imposed by
+25 thischapter. TotheextentthecreditfortaxespaidpursuanttoRSA77-Eexceedsthetaxesimposed
+26 under this chapter, such excess shall be deemed to be taxes imposed under RSA 77-E [and shall be
+27 allowedasacreditagainstthetaxesdueunderRSA77-AasprovidedbyRSA77-A:5,X].
+28 32 Repeals. Thefollowingarerepealed:
+29 I. RSA21-J:45,I(a),relativetothereportingofbusinessprofitstaxes.
+30 II. RSA 21-J:28-b, VII, relative to the department of revenue administration bearing the
+31 burdenofproofonanychangetoanycompensationdeductionunderRSA77-A.
+32 III. RSA77-A,relativetothebusinessprofitstax.
+33 IV. RSA77-E:3-b,relativetounusedresearchanddevelopmenttaxcredits.
+34 V. RSA77-E:3-f,relativetounusedgranitepatronoftheartstaxcredits.
+35 VI. RSA77-E:5-a,relativetotheelectionofqualifiedinvestmentcompanystatus.
+36 VII. RSA77-E:13, relativetotheapplicationof credit forbusiness enterprisetaxagainst the
+37 businessprofitstax.
+
+HB1546-FN-ASINTRODUCED
+-Page9-
+1 VIII. RSA77-E:13-a,II,relativetoemployeeleasingcompanieseligiblefortaxcredits.
+2 IX. RSA77-G:3,relativetoequalcontributioncreditsmadetoscholarshiporganizations.
+3 X. RSA 162-L:10, I(a), relative to new investment tax credits made in combination with
+4 businessenterprisetaxcredits.
+5 XI. RSA 162-L:10, II, relative to new investment tax credit made in combination with
+6 businessenterprisetaxcredits.
+7 XII. RSA162-N:5,relativetolimitsontotaleconomicrevitalizationzonetaxcredits.
+8 XIII. RSA162-P:1,relativetotheresearchanddevelopmenttaxcreditprogramreport.
+9 XIV. RSA 188-E:9-a, IV, relative totax credits for donations to regional career and technical
+10 educationcenterprograms.
+11 XV. RSA188-E:9-a,VI,relativetotaxcredit statementsfordonations toregionalcareer and
+12 technicaleducationcenterprograms.
+13 XVI. RSA 198:39, II(a), relativeto funds certified tothe statetreasurer bythe commissioner
+14 ofthedepartmentofrevenueadministration.
+15 XVII. RSA 304-C:138, I(d), relative to a certificate mailed by the department of revenue
+16 administration.
+17 XVIII. RSA 304-C:141, I, relative to certificates of dissolution issued by the department of
+18 revenueadministration.
+19 XIX. RSA304-C:179,I(f),relativetoastatementforwithdrawalissuedbythedepartmentof
+20 revenueadministration.
+21 XX. RSA400-A:32,V,relativetotaxcreditsforcertaininsurerliability.
+22 33 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2789
+12/3/25
+HB1546-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingthebusinessprofitstax.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 IndeterminableDecrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $9,500 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill repeals the Business Profits Tax (BPT) and associated tax credits effective January 1,
+2027. The Department of Revenue Administration notes the bill does not specify which tax year
+the repeal applies. For purposes of this fiscal note, the Department assumes the first tax year
+impacted by the repeal is Tax Year (TY) 2027 (taxable periods ending on or after December 31,
+2027).
+The Department notes language should be added to the bill to effectuate the repeal without
+eliminating the ability of the Department to continue to administer and audit the tax periods
+prior to the repeal. Additionally, there may need to be further language cleanup in the statutes
+withdeletedreferences.
+The Department states this bill will decrease General Fund and Education Trust Fund revenues
+by an indeterminable amount. While the Department is not able to provide the exact fiscal
+impact,usingTY2023data,mostrecentlycompletetaxyear,withthefollowingassumptionsthe
+DepartmentisabletoprovideanestimatedimpactoftherepealoftheBPT:
+· theBPTtaxbaseinfutureyearswillbethesameasinTY2023.
+
+· To calculate FY2027 through FY2029 revenues under current law as well as the proposed
+repeal, TY2023 BPT tax base of $10.9 billion is the starting point. The applicable BPT rate
+fortaxableperiodsendingonorafterDecember31,2023,was7.5%.
+· a fiscal year is comprised of three tax years. The Department did an analysis based on prior
+years to break out the split of tax year revenue to fiscal year revenue and applied it to
+FY2027andeachyear thereafterasfollows: 12%attributabletoTY2025,69%attributableto
+TY2026,and19%attributabletoTY2027. Thetablebelowprovidesthesplits.
+Proposed
+%Applicable CurrentLaw
+FiscalYear TaxYear LawBPT
+toTaxYear BPTRates
+Rates
+TY2025 12% 7.5% 7.5%
+2027 TY2026 69% 7.5% 7.5%
+TY2027 19% 7.5% 0.0%
+TY2026 12% 7.5% 7.5%
+2028 TY2027 69% 7.5% 0.0%
+TY2028 19% 7.5% 0.0%
+TY2027and
+2029andforward 100% 0.0%
+7.5%
+forward
+Based on the assumptions above, the Department is able to provide the potential impact on
+revenuesinthetablebelow.
+BusinessProfitsTaxAllFunds-StaticAnalysisusingTY2023Liability
+CurrentLaw Estimated Estimated
+Revenue Revenuewith Fiscal Cumulative
+FiscalYear
+UsingTY2023 Proposed ImpactPer FiscalImpact
+BPTTax Legislation Year
+2027 $819,600,000 $663,900,000 ($155,700,000) ($155,700,000)
+2028 $819,600,000 $98,400,000 ($721,200,000) ($876,900,000)
+2029and $819,600,000 $0 ($819,600,000) ($1,696,500,000)
+Forward
+Further, the Department provided two additional tables - one showing impact on the General
+FundandtheothershowingtheimpactontheEducationTrustFund.
+BusinessProfitsTaxGeneralFund-StaticAnalysisusingTY2023Liability
+
+CurrentLaw Estimated Estimated
+RevenueUsing Revenuewith Fiscal Cumulative
+FiscalYear
+TY2023BPT Proposed ImpactPer FiscalImpact
+Tax Legislation Year
+2027 $500,000,000 $405,000,000 ($95,000,000) ($95,000,000)
+2028 $500,000,000 $60,000,000 ($440,000,000) ($535,000,000)
+2029and $500,000,000 $0 ($500,000,000) ($1,035,000,000)
+Forward
+BusinessProfitsTaxEducationTrustFund-StaticAnalysisusingTY2023Liability
+CurrentLaw Estimated Estimated
+Cumulative
+RevenueUsing Revenuewith Fiscal
+FiscalYear Fiscal
+TY2023BPT Proposed ImpactPer
+Impact
+Tax Legislation Year
+2027 $319,600,000 $258,900,000 ($60,700,000) ($60,700,000)
+2028 $319,600,000 $38,400,000 ($281,200,000) ($341,900,000)
+2029and $319,600,000 $0 ($319,600,000) ($661,500,000)
+Forward
+The Department states business taxpayers are allowed to carry over 500% of their prior tax
+year’s liability as an overpayment on account for future tax years. With the elimination of the
+BPT tax, carry overs from BPT only taxpayers will most likely be refunded. At the end of
+FY2025 approximately $152.8 million was estimated to be a liability. Taking the BPT split of
+75.7%forTY2023andapplyingtothepercentageofBPTonlyfilersof6.3%,thereispotentialfor
+an additional $7.3 million in forced refunds during FY 2027 and FY 2028. Refunds are issued
+fromtheGeneralFund.
+The Department states the proposed legislation would not result in any additional
+administrative costs that could not be absorbed in its operating budget other than a mail
+campaigntoinformaffectedtaxpayersoftherepealatacostofapproximately$9,500.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration

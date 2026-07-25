@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1158-FN-ASINTRODUCED
+2026SESSION
+26-2629
+09/08
+1158-FN
+HOUSEBILL
+ANACT relativetothedefinitionofintimatepartner.
+SPONSORS: Rep. Alexander Jr., Hills. 29; Rep. Kuttab, Rock. 17; Rep. Manos, Rock. 12; Rep.
+Rombeau, Hills. 2; Rep. Turer, Rock. 6; Sen. Perkins Kwoka, Dist 21; Sen.
+Reardon,Dist15
+COMMITTEE: CriminalJusticeandPublicSafety
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillexpandsthedefinitionofintimatepartnerapplicableindomesticviolencecases.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1158-FN-ASINTRODUCED
+26-2629
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothedefinitionofintimatepartner.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ProtectionofPersonsfromDomesticViolence;Definitions. AmendRSA173-B:1,XVtoreadas
+2 follows:
+3 XV. "Intimate partners" means persons currently or formerly involved in a sexual
+4 relationship, or in a romantic relationship, whether or not such relationship was ever sexually
+5 consummated.
+6 2 CriminalCode;DomesticViolence. AmendRSA631:2-b,III(b)toreadasfollows:
+7 (b) "Intimate partner" means a person with whom the actor is currently or was formerly
+8 involved in a sexual relationship, or in a romantic relationship, regardless of whether or not the
+9 relationshipwassexuallyconsummated.
+10 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2629
+11/5/25
+HB1158-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothedefinitionofintimatepartner.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation

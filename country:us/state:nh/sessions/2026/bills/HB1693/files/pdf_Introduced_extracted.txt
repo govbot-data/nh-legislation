@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB1693-FN-ASINTRODUCED
+2026SESSION
+26-2655
+08/06
+1693-FN
+HOUSEBILL
+ANACT expandingthenumberofGraftoncountycommissioners.
+SPONSORS: Rep. Barton, Graf. 1; Rep. Beaulier, Graf. 1; Rep. Bjelobrk, Graf. 5; Rep. Franz,
+Graf.6;Rep.McFarlane,Graf.18;Rep.Sellers,Graf.10
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill expands the number of Grafton county commissioners to 5 commissioners, assigns each
+commissioneradistrict,andprovidesfortheelectionandtermstherefor.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+HB1693-FN-ASINTRODUCED
+26-2655
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT expandingthenumberofGraftoncountycommissioners.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 County Commissioner Districts; Grafton County. RSA 662:4, V is repealed and reenacted to
+2 readasfollows:
+3 V. Grafton: District 1, the towns of Hanover, Lyme, Orford, Piermont, Warren, and
+4 Wentworth; District 2, the town of Enfield and the city of Lebanon; District 3, the towns of Bath,
+5 Benton, Bethlehem, Easton, Franconia, Haverhill, Landaff, Lisbon, Littleton, Lyman, Monroe, and
+6 Sugar Hill; District 4, the towns of Campton, Holderness, Lincoln, Plymouth, Thornton, Woodstock,
+7 Waterville Valley, and the unincorporated place of Livermore; District 5, the towns of Alexandria,
+8 Ashland, Bridgewater, Bristol, Canaan, Dorchester, Ellsworth, Grafton, Groton, Hebron, Orange,
+9 andRumney.
+10 2 Electedfor2-YearTerm;GraftonCounty. AmendRSA653:1,VI(j)toreadasfollows:
+11 (j) Grafton county-one county commissioner by the voters in each county commissioner
+12 district; provided that, at the [2022 state general election, the commissioner from district 3 shall be
+13 elected to a 2-year term, the commissioner from district 1 shall be elected to a 4-year term and the
+14 commissioner from district 2 shall be elected to a 2-year term] 2026 state general election, the
+15 commissioners from districts 1 and 3 shall be elected to 2-year terms. At each subsequent
+16 stategeneralelection, [2]5 commissionersshallbechoseninthecountybythevoters ofthedistricts
+17 [inwhichacommissioner'stermisexpiring;and,ofthecommissionerssochosen,oneshallservea4-
+18 year term and one shall serve a 2-year term and both shall hold their offices until their successors
+19 are chosen and qualified. Following the 2022 state general election, the 4-year term shall be rotated
+20 insequencestartingwithdistrict2]andshallbeelectedto2-yearterms.
+21 3 Application; Grafton County. The changes in Grafton county commissioner districts
+22 established by this act shall not affect constituencies or terms of office of commissioners presently in
+23 office. Thecommissionerdistrictsestablishedbythisactshallbeineffectforthepurposeofelecting
+24 commissioners at the 2028 state general election. If there shall be a vacancy in a commissioner
+25 districtforanyreasonpriortothe2028stategeneralelection,thevacancyshallbefilledasprovided
+26 inlawforGraftoncountycommissionersthatexistedforthemostrecentpriorstategeneralelection.
+27 4 EffectiveDate.
+28 I. Section1ofthisactshalltakeeffectJanuary1,2028.
+29 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2655
+12/1/25
+HB1693-FN-FISCALNOTE
+ASINTRODUCED
+ANACT expandingthenumberofGraftoncountycommissioners.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable
+CountyExpenditures $0 $0 $39,000
+Increase
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill adds two Grafton County commissioners and provides that all commissioners shall be
+electedtotwo-yearterms.
+The New Hampshire Association of Counties (NHAC) states that the additional two Grafton
+County Commissioners would increase expenditures by $38,551.47 in FY 2028 and by an
+indeterminableamounteachyearthereafter. Seethecostbreakdowninthetablebelow.
+ESTIMATEDFISCALIMPACT
+FY2028
+Salary(2positions) $12,875.00x2=$25,750.00
+Inflation(3%) $772.50
+SocialSecurity&Medicare(7.65%) $2,028.97
+Mileage&ConferenceAttendance $10,000
+TotalEstimatedCost $38,551.47
+AGENCIESCONTACTED:
+NewHampshireAssociationofCounties
+[As this bill is similar to HB 643, 2025 Session, we used the same information the
+agencyprovidedatthattimetopreparetheabovefiscalnote]
