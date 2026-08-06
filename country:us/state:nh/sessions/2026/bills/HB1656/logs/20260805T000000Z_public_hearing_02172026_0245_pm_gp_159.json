@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Public Hearing: 02/17/2026 02:45 pm GP 159",
+    "occurred_at": "2026-08-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2268&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1656"
+}
