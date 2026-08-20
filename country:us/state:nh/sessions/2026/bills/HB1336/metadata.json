@@ -246,23 +246,25 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 159-155 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jason M. Osborne",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jason M. Osborne\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joe H. Alexander",
+      "name": "Joe Alexander",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Joe H. Alexander\"}",
+      "person_id": "~{\"name\": \"Joe Alexander\"}",
       "organization_id": null
     },
     {
@@ -274,11 +276,11 @@
       "organization_id": null
     },
     {
-      "name": "Sheri Minor",
+      "name": "Jason Osborne",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Sheri Minor\"}",
+      "person_id": "~{\"name\": \"Jason Osborne\"}",
       "organization_id": null
     },
     {
@@ -290,11 +292,19 @@
       "organization_id": null
     },
     {
-      "name": "Sherri L Reinfurt",
+      "name": "Sheri Minor",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Sherri L Reinfurt\"}",
+      "person_id": "~{\"name\": \"Sheri Minor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sherri Reinfurt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sherri Reinfurt\"}",
       "organization_id": null
     }
   ],
@@ -364,7 +374,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:59:04.883014Z"
   }
 }

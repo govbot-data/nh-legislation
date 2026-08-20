@@ -149,7 +149,7 @@
       }
     },
     {
-      "description": "Ought to Pass: MA VV 05/14/2026  HJ 13",
+      "description": "Ought to Pass: MA VV 05/14/2026  HJ 13  P. 11",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -158,7 +158,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -194,23 +194,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
       }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall SB 661 Become Law: RC 23Y-1N, Veto Overridden by necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 84-216 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Sharon M. Carson",
+      "name": "Sharon Carson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sharon M. Carson\"}",
+      "person_id": "~{\"name\": \"Sharon Carson\"}",
       "organization_id": null
     },
     {
-      "name": "James P. Gray",
+      "name": "James Gray",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"James P. Gray\"}",
+      "person_id": "~{\"name\": \"James Gray\"}",
       "organization_id": null
     }
   ],
@@ -269,7 +289,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-21T19:12:12.387212Z"
   }
 }

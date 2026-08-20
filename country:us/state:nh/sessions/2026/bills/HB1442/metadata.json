@@ -224,47 +224,41 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 165-149 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Regina Birdsell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Regina Birdsell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kevin A. Avard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David C Love",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David C Love\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bill M. Gannon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erica J Layon",
+      "name": "Erica Layon",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Erica J Layon\"}",
+      "person_id": "~{\"name\": \"Erica Layon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Barbour",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Barbour\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sherri Reinfurt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sherri Reinfurt\"}",
       "organization_id": null
     },
     {
@@ -276,19 +270,11 @@
       "organization_id": null
     },
     {
-      "name": "Liz F Barbour",
+      "name": "Linda McGrath",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Liz F Barbour\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lisa R Mazur",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lisa R Mazur\"}",
+      "person_id": "~{\"name\": \"Linda McGrath\"}",
       "organization_id": null
     },
     {
@@ -300,35 +286,59 @@
       "organization_id": null
     },
     {
-      "name": "Sherri L Reinfurt",
+      "name": "Matt Sabourin dit Choini\u00e8re",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Sherri L Reinfurt\"}",
+      "person_id": "~{\"name\": \"Matt Sabourin dit Choini\\u00e8re\"}",
       "organization_id": null
     },
     {
-      "name": "Sayra Lynn DeVito",
+      "name": "Lisa Mazur",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Sayra Lynn DeVito\"}",
+      "person_id": "~{\"name\": \"Lisa Mazur\"}",
       "organization_id": null
     },
     {
-      "name": "Matt R Sabourin dit Choini\u00e8re",
+      "name": "Sayra DeVito",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Matt R Sabourin dit Choini\\u00e8re\"}",
+      "person_id": "~{\"name\": \"Sayra DeVito\"}",
       "organization_id": null
     },
     {
-      "name": "Linda McGrath",
+      "name": "David Love",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Linda McGrath\"}",
+      "person_id": "~{\"name\": \"David Love\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Birdsell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Birdsell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Avard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Gannon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Gannon\"}",
       "organization_id": null
     }
   ],
@@ -398,7 +408,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T08:03:23.715623Z"
   }
 }

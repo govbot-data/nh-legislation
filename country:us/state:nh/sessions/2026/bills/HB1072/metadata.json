@@ -154,13 +154,13 @@
       }
     },
     {
-      "description": "Enrolled (in recess of) 05/21/2026  HJ 14",
+      "description": "Enrolled (in recess of) 05/21/2026  HJ 14  P. 34",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -174,23 +174,57 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 160-159 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Brian Labrie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Labrie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Creighton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Creighton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry Giasson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henry Giasson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Granger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Granger\"}",
+      "organization_id": null
+    },
     {
       "name": "Mark Warden",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mark Warden\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James L Creighton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"James L Creighton\"}",
       "organization_id": null
     },
     {
@@ -202,35 +236,11 @@
       "organization_id": null
     },
     {
-      "name": "Keith R. Murphy",
+      "name": "Keith Murphy",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael E Granger",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michael E Granger\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brian H Labrie",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Brian H Labrie\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Henry R Giasson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Henry R Giasson\"}",
+      "person_id": "~{\"name\": \"Keith Murphy\"}",
       "organization_id": null
     }
   ],
@@ -289,7 +299,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:42:41.719767Z"
   }
 }

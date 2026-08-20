@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Veto Overridden 08/19/2026: RC 305-12 by Required Two-Thirds Vote  HJ 16",
+    "occurred_at": "2026-08-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2210&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1369"
+}

@@ -278,23 +278,43 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Veto Overridden 08/19/2026: RC 292-25 by Required Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall HB 2026 Become Law: RC 24Y-0N, Veto Overridden by necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "John R Cloutier",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"John R Cloutier\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David E Milz",
+      "name": "David Milz",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"David E Milz\"}",
+      "person_id": "~{\"name\": \"David Milz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Cloutier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Cloutier\"}",
       "organization_id": null
     }
   ],
@@ -364,7 +384,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:09:43.697775Z"
   }
 }

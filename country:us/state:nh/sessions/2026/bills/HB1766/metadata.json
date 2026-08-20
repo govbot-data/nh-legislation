@@ -276,13 +276,13 @@
       }
     },
     {
-      "description": "Enrolled Bill Amendment # 2026-2129e: AA VV (in recess of) 05/21/2026  HJ 14",
+      "description": "Enrolled Bill Amendment # 2026-2129e: AA VV (in recess of) 05/21/2026  HJ 14  P. 40",
       "date": "2026-06-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -318,17 +318,29 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Veto Overridden 08/19/2026: RC 249-56 by Required Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall HB 1766 Become Law: RC 11Y-13N, Veto Sustained, lacking the necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Peter W Bixby",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Peter W Bixby\"}",
-      "organization_id": null
-    },
     {
       "name": "Barbara Comtois",
       "classification": "primary",
@@ -338,11 +350,19 @@
       "organization_id": null
     },
     {
-      "name": "Judy F. Aron",
+      "name": "Judy Aron",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Judy F. Aron\"}",
+      "person_id": "~{\"name\": \"Judy Aron\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Bixby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Bixby\"}",
       "organization_id": null
     }
   ],
@@ -412,7 +432,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:53:45.266734Z"
   }
 }

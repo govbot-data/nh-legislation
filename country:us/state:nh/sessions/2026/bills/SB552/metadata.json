@@ -129,17 +129,17 @@
       }
     },
     {
-      "description": "Special Order to after ED&A (Rep. Lynn): MA VV 05/14/2026  HJ 13",
+      "description": "Special Order to after ED&A (Rep. Lynn): MA VV 05/14/2026  HJ 13  P. 44",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
-      "description": "Ought to Pass: MA RC 179-159 05/14/2026  HJ 13",
+      "description": "Ought to Pass: MA RC 179-159 05/14/2026  HJ 13  P. 87",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -148,7 +148,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -184,23 +184,45 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
       }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall SB 552 Become Law: RC 16Y-8N, Veto Overridden by necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 161-142 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Without Objection the Senate will take up SB 552 at the present time, 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Regina Birdsell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Regina Birdsell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kevin A. Avard",
+      "name": "Kevin Avard",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
       "organization_id": null
     },
     {
@@ -209,6 +231,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Timothy Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Birdsell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Birdsell\"}",
       "organization_id": null
     }
   ],
@@ -256,7 +286,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-21T19:04:24.880816Z"
   }
 }

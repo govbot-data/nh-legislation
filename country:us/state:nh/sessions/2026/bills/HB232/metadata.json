@@ -246,6 +246,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 166-154 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,70 +265,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Debra L DeSimone\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Maureen C. Mooney",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Maureen C. Mooney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jess Edwards",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jess Edwards\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bill M. Gannon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mark A Pearson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mark A Pearson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Paul A Terry",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Paul A Terry\"}",
-      "organization_id": null
-    },
-    {
-      "name": "JD Bernardy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"JD Bernardy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Katy Peternel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Katy Peternel\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Victoria Sullivan",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Victoria Sullivan\"}",
       "organization_id": null
     }
   ],
@@ -343,7 +289,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-08-19T13:02:05.589694Z"
   }
 }

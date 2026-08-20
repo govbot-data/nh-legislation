@@ -184,23 +184,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 193-125 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Kevin A. Avard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gregory G. Hill",
+      "name": "Gregory Hill",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gregory G. Hill\"}",
+      "person_id": "~{\"name\": \"Gregory Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Avard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
       "organization_id": null
     },
     {
@@ -275,7 +285,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:32:48.350594Z"
   }
 }

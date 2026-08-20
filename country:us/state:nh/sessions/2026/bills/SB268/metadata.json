@@ -224,6 +224,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:05Z"
       }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall SB 268 Become Law: RC 0Y-24N, Veto Sustained, lacking the necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -233,14 +243,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Timothy Lang",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Timothy Lang\"}",
       "organization_id": null
     }
   ],
@@ -265,7 +267,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:05Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-08-19T13:02:05.616674Z"
   }
 }

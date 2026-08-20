@@ -274,31 +274,43 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Veto Overridden 08/19/2026: RC 290-29 by Required Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall HB 1184 Become Law: RC 24Y-0N, Veto Overridden by necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Lisa M Freeman",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lisa M Freeman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bill M. Gannon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
-      "organization_id": null
-    },
     {
       "name": "Juliet Harvey-Bolia",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Juliet Harvey-Bolia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Freeman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Freeman\"}",
       "organization_id": null
     },
     {
@@ -318,19 +330,27 @@
       "organization_id": null
     },
     {
-      "name": "James R Thibault",
+      "name": "Matt Sabourin dit Choini\u00e8re",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"James R Thibault\"}",
+      "person_id": "~{\"name\": \"Matt Sabourin dit Choini\\u00e8re\"}",
       "organization_id": null
     },
     {
-      "name": "Matt R Sabourin dit Choini\u00e8re",
+      "name": "James Thibault",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Matt R Sabourin dit Choini\\u00e8re\"}",
+      "person_id": "~{\"name\": \"James Thibault\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Gannon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Gannon\"}",
       "organization_id": null
     }
   ],
@@ -400,7 +420,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:02:03.666533Z"
   }
 }

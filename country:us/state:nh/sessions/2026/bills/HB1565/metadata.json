@@ -318,79 +318,89 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 168-140 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jeanine M Notter",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jeanine M Notter\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Keith Michael Ammon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Keith Michael Ammon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James A Spillane",
+      "name": "James Spillane",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"James A Spillane\"}",
+      "person_id": "~{\"name\": \"James Spillane\"}",
       "organization_id": null
     },
     {
-      "name": "Brian D Cole",
+      "name": "Brian Cole",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Brian D Cole\"}",
+      "person_id": "~{\"name\": \"Brian Cole\"}",
       "organization_id": null
     },
     {
-      "name": "Terry W Roy",
+      "name": "Cyril Aures",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Terry W Roy\"}",
+      "person_id": "~{\"name\": \"Cyril Aures\"}",
       "organization_id": null
     },
     {
-      "name": "Jim A Kofalt",
+      "name": "Donald McFarlane",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jim A Kofalt\"}",
+      "person_id": "~{\"name\": \"Donald McFarlane\"}",
       "organization_id": null
     },
     {
-      "name": "Cyril Nicholas Aures",
+      "name": "Jeanine Notter",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Cyril Nicholas Aures\"}",
+      "person_id": "~{\"name\": \"Jeanine Notter\"}",
       "organization_id": null
     },
     {
-      "name": "Keith R. Murphy",
+      "name": "Jim Kofalt",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "person_id": "~{\"name\": \"Jim Kofalt\"}",
       "organization_id": null
     },
     {
-      "name": "Donald S McFarlane",
+      "name": "Keith Ammon",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Donald S McFarlane\"}",
+      "person_id": "~{\"name\": \"Keith Ammon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith Murphy\"}",
       "organization_id": null
     },
     {
@@ -457,7 +467,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T08:08:45.379983Z"
   }
 }

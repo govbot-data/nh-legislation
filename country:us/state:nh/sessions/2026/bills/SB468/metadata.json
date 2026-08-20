@@ -131,7 +131,7 @@
       }
     },
     {
-      "description": "Ought to Pass: MA VV 05/07/2026  HJ 12",
+      "description": "Ought to Pass: MA VV 05/07/2026  HJ 12  P. 11",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -140,7 +140,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -156,13 +156,13 @@
       }
     },
     {
-      "description": "Enrolled (in recess of) 05/21/2026  HJ 14",
+      "description": "Enrolled (in recess of) 05/21/2026  HJ 14  P. 34",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -176,39 +176,35 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
       }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall SB 468 Become Law: RC 16Y-8N, Veto Overridden by necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Veto Overridden 08/19/2026: RC 257-44 by Required Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Lucy McVitty Weber",
-      "classification": "cosponsor",
+      "name": "Howard Pearl",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lucy McVitty Weber\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Karen E Ebel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Karen E Ebel\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mark McLean",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mark McLean\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Daniel E. Innis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Howard Pearl\"}",
       "organization_id": null
     },
     {
@@ -220,11 +216,19 @@
       "organization_id": null
     },
     {
-      "name": "Howard Pearl",
-      "classification": "primary",
+      "name": "Daniel Innis",
+      "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Howard Pearl\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tara Reardon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tara Reardon\"}",
       "organization_id": null
     },
     {
@@ -236,11 +240,27 @@
       "organization_id": null
     },
     {
-      "name": "Tara Reardon",
+      "name": "Lucy Weber",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Tara Reardon\"}",
+      "person_id": "~{\"name\": \"Lucy Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark McLean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark McLean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Ebel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen Ebel\"}",
       "organization_id": null
     }
   ],
@@ -288,7 +308,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-21T19:18:07.831068Z"
   }
 }

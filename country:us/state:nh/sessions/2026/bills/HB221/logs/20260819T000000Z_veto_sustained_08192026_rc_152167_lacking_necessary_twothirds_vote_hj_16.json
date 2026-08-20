@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Veto Sustained 08/19/2026: RC 152-167 Lacking Necessary Two-Thirds Vote  HJ 16",
+    "occurred_at": "2026-08-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB221"
+}

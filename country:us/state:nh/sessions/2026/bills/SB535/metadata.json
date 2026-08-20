@@ -194,63 +194,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall SB 535 Become Law: RC 5Y-19N, Veto Sustained, lacking the necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "David H. Watters",
-      "classification": "cosponsor",
+      "name": "Howard Pearl",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David H. Watters\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Howard Pearl\"}",
       "organization_id": null
     },
     {
-      "name": "Peter W Bixby",
+      "name": "Kevin Avard",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Peter W Bixby\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kevin A. Avard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael I Moffett",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michael I Moffett\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Daniel E. Innis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cindy Rosenwald",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Judy F. Aron",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Judy F. Aron\"}",
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
       "organization_id": null
     },
     {
@@ -262,11 +232,27 @@
       "organization_id": null
     },
     {
-      "name": "Howard Pearl",
-      "classification": "primary",
+      "name": "David Watters",
+      "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Howard Pearl\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Watters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Innis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Rosenwald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
       "organization_id": null
     },
     {
@@ -278,27 +264,51 @@
       "organization_id": null
     },
     {
-      "name": "Cyril Nicholas Aures",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cyril Nicholas Aures\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Clayton D Wood",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Clayton D Wood\"}",
-      "organization_id": null
-    },
-    {
       "name": "David Rochefort",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David Rochefort\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Aron",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Aron\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Bixby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Bixby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Moffett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Moffett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyril Aures",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cyril Aures\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clayton Wood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clayton Wood\"}",
       "organization_id": null
     }
   ],
@@ -368,7 +378,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:42:03.331124Z"
   }
 }

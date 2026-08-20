@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Without Objection the Senate will take up SB 552 at the present time, 08/19/2026;  SJ 15",
+    "occurred_at": "2026-08-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1340&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB552"
+}

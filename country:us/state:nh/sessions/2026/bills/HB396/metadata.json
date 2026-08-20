@@ -276,6 +276,36 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 204-116 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Reconsider HB 396 (Rep. Flanagan): MA RC 187-120 08/19/2026  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 202-107 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -285,54 +315,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Barbara Comtois\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Daniel E. Innis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Judy F. Aron",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Judy F. Aron\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jim A Kofalt",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jim A Kofalt\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erica J Layon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Erica J Layon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Howard Pearl",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Howard Pearl\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael E Granger",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michael E Granger\"}",
       "organization_id": null
     }
   ],
@@ -357,7 +339,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-08-19T13:02:05.587117Z"
   }
 }

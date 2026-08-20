@@ -214,13 +214,13 @@
       }
     },
     {
-      "description": "Conferee Change: Rep. Seaworth Replaces Rep. Leishman 05/21/2026  HJ 14",
+      "description": "Conferee Change: Rep. Seaworth Replaces Rep. Leishman 05/21/2026  HJ 14  P. 32",
       "date": "2026-05-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -306,47 +306,41 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall SB 481 Become Law: RC 0Y-24N, Veto Sustained, lacking the necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "David H. Watters",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David H. Watters\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mary Jane Wallner",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mary Jane Wallner\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Peter R Leishman",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Peter R Leishman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Laura Damphousse Telerski",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Laura Damphousse Telerski\"}",
-      "organization_id": null
-    },
     {
       "name": "Cindy Rosenwald",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Long",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Long\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Watters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Watters\"}",
       "organization_id": null
     },
     {
@@ -366,11 +360,27 @@
       "organization_id": null
     },
     {
-      "name": "Pat Long",
+      "name": "Laura Telerski",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Pat Long\"}",
+      "person_id": "~{\"name\": \"Laura Telerski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Jane Wallner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary Jane Wallner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Leishman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Leishman\"}",
       "organization_id": null
     }
   ],
@@ -440,7 +450,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:01:29.208851Z"
   }
 }

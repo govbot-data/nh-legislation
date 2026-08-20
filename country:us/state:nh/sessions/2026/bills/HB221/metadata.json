@@ -298,6 +298,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 152-167 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -307,46 +317,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jeanine M Notter\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Douglas W. Thomas",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Douglas W. Thomas\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael Vose",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michael Vose\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael D Harrington",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Michael D Harrington\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James Summers",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"James Summers\"}",
-      "organization_id": null
-    },
-    {
-      "name": "JD Bernardy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"JD Bernardy\"}",
       "organization_id": null
     }
   ],
@@ -371,7 +341,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-08-19T13:02:05.647106Z"
   }
 }

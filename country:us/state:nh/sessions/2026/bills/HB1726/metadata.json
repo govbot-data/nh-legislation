@@ -164,13 +164,13 @@
       }
     },
     {
-      "description": "Enrolled Bill Amendment # 2026-2124e: AA VV (in recess of) 05/21/2026  HJ 14",
+      "description": "Enrolled Bill Amendment # 2026-2124e: AA VV (in recess of) 05/21/2026  HJ 14  P. 39",
       "date": "2026-06-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -206,17 +206,19 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 101-206 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Efstathia S Booras",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Efstathia S Booras\"}",
-      "organization_id": null
-    },
     {
       "name": "Chris Muns",
       "classification": "primary",
@@ -226,67 +228,27 @@
       "organization_id": null
     },
     {
-      "name": "Ellen D Read",
+      "name": "Efstathia Booras",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Ellen D Read\"}",
+      "person_id": "~{\"name\": \"Efstathia Booras\"}",
       "organization_id": null
     },
     {
-      "name": "Laurel Stavis",
+      "name": "Erica de Vries",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Laurel Stavis\"}",
+      "person_id": "~{\"name\": \"Erica de Vries\"}",
       "organization_id": null
     },
     {
-      "name": "Connie Boyles Lane",
+      "name": "Karen Hegner",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Connie Boyles Lane\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jim V. Maggiore",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jim V. Maggiore\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rebecca Perkins Kwoka",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Debra Altschiller",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Debra Altschiller\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David Paige",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David Paige\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erica R de Vries",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Erica R de Vries\"}",
+      "person_id": "~{\"name\": \"Karen Hegner\"}",
       "organization_id": null
     },
     {
@@ -298,11 +260,59 @@
       "organization_id": null
     },
     {
-      "name": "Karen A Hegner",
+      "name": "Connie Lane",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Karen A Hegner\"}",
+      "person_id": "~{\"name\": \"Connie Lane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Maggiore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Maggiore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Paige",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Paige\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ellen Read",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ellen Read\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laurel Stavis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laurel Stavis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debra Altschiller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debra Altschiller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Perkins Kwoka",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
       "organization_id": null
     }
   ],
@@ -372,7 +382,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:06:14.054239Z"
   }
 }

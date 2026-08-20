@@ -164,13 +164,13 @@
       }
     },
     {
-      "description": "Enrolled (in recess of) 05/21/2026  HJ 14",
+      "description": "Enrolled (in recess of) 05/21/2026  HJ 14  P. 34",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -184,71 +184,25 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Veto Sustained 08/19/2026: RC 157-152 Lacking Necessary Two-Thirds Vote  HJ 16",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Sherman A. Packard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sherman A. Packard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Debra L DeSimone",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Debra L DeSimone\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jeanine M Notter",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jeanine M Notter\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kimberly A Rice",
+      "name": "Kimberly Rice",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Kimberly A Rice\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jason M. Osborne",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jason M. Osborne\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jim A Kofalt",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jim A Kofalt\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jodi L Nelson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jodi L Nelson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Daryl Abbas",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daryl Abbas\"}",
+      "person_id": "~{\"name\": \"Kimberly Rice\"}",
       "organization_id": null
     },
     {
@@ -257,6 +211,62 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kristin Noble\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanine Notter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanine Notter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sherman Packard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sherman Packard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Osborne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Osborne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debra DeSimone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debra DeSimone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Kofalt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Kofalt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daryl Abbas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daryl Abbas\"}",
       "organization_id": null
     },
     {
@@ -312,7 +322,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:34:56.122596Z"
   }
 }

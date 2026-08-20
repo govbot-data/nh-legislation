@@ -232,23 +232,23 @@
       }
     },
     {
-      "description": "Conferee Change: Rep. Freeman Replaces Rep. Bixby 05/22/2026  HJ 14",
+      "description": "Conferee Change: Rep. Freeman Replaces Rep. Bixby 05/22/2026  HJ 14  P. 34",
       "date": "2026-05-22",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
-      "description": "Conferee Change: Rep. Alexander Jr. Replaces Rep. Freeman 05/26/2026  HJ 14",
+      "description": "Conferee Change: Rep. Alexander Jr. Replaces Rep. Freeman 05/26/2026  HJ 14  P. 35",
       "date": "2026-05-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-20T04:59:44Z"
       }
     },
     {
@@ -346,17 +346,19 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Notwithstanding the Governor's Veto, Shall SB 475 Become Law: RC 8Y-16N, Veto Sustained, lacking the necessary two-thirds vote; 08/19/2026;  SJ 15",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T04:59:44Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "David H. Watters",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David H. Watters\"}",
-      "organization_id": null
-    },
     {
       "name": "Regina Birdsell",
       "classification": "primary",
@@ -366,19 +368,11 @@
       "organization_id": null
     },
     {
-      "name": "Kevin A. Avard",
+      "name": "Kevin Avard",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cathryn A Harvey",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cathryn A Harvey\"}",
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
       "organization_id": null
     },
     {
@@ -390,19 +384,19 @@
       "organization_id": null
     },
     {
-      "name": "Daniel E. Innis",
+      "name": "Daniel Innis",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
       "organization_id": null
     },
     {
-      "name": "Wayne D. MacDonald",
+      "name": "David Watters",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Wayne D. MacDonald\"}",
+      "person_id": "~{\"name\": \"David Watters\"}",
       "organization_id": null
     },
     {
@@ -414,11 +408,27 @@
       "organization_id": null
     },
     {
-      "name": "Nicholas A Germana",
+      "name": "Nicholas Germana",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Nicholas A Germana\"}",
+      "person_id": "~{\"name\": \"Nicholas Germana\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wayne MacDonald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wayne MacDonald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cathryn Harvey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cathryn Harvey\"}",
       "organization_id": null
     }
   ],
@@ -488,7 +498,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-20T04:59:44Z",
     "text_extraction_latest_update": "2026-07-25T07:54:11.178081Z"
   }
 }
