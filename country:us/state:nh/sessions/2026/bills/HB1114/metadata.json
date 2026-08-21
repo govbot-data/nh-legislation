@@ -91,6 +91,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,107 +111,15 @@
       "primary": false,
       "person_id": "~{\"name\": \"Linda C Harriott-Gathright\"}",
       "organization_id": null
-    },
-    {
-      "name": "Rebecca Perkins Kwoka",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mary A Hakken-Phillips",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mary A Hakken-Phillips\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Heather Raymond",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Heather Raymond\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Peggy Balboni",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Peggy Balboni\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hope E Damon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Hope E Damon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Paige Beauchemin",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Paige Beauchemin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Terri O'Rorke",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Terri O'Rorke\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Janet Marie Lucas",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Janet Marie Lucas\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Thomas Oppel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Thomas Oppel\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Alice Wade",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alice Wade\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22758&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1770&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -216,7 +134,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-25T07:49:10.946113Z"
   }
 }

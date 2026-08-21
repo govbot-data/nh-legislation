@@ -149,7 +149,7 @@
       }
     },
     {
-      "description": "Lay SB439 on Table (Rep. Ammon): MA DV 304-11 05/14/2026  HJ 13",
+      "description": "Lay SB439 on Table (Rep. Ammon): MA DV 304-11 05/14/2026  HJ 13  P. 110",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -157,7 +157,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     }
   ],
@@ -169,46 +179,15 @@
       "primary": true,
       "person_id": "~{\"name\": \"Debra Altschiller\"}",
       "organization_id": null
-    },
-    {
-      "name": "Hope E Damon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Hope E Damon\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=21986&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "As Amended by the Senate",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=26060&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1435&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -223,7 +202,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-21T19:11:59.759599Z"
   }
 }

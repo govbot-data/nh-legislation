@@ -81,6 +81,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,75 +101,15 @@
       "primary": false,
       "person_id": "~{\"name\": \"John R Cloutier\"}",
       "organization_id": null
-    },
-    {
-      "name": "Kat McGhee",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kat McGhee\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wendy Ellen N Thomas",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Wendy Ellen N Thomas\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lucius Parshall",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lucius Parshall\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tony M Caplan",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Tony M Caplan\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Donovan Fenton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Donovan Fenton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Thomas H Cormen",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Thomas H Cormen\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=24500&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1932&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -174,7 +124,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-25T07:55:01.097545Z"
   }
 }

@@ -71,6 +71,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,67 +91,15 @@
       "primary": false,
       "person_id": "~{\"name\": \"David John Preece\"}",
       "organization_id": null
-    },
-    {
-      "name": "Lucius Parshall",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Lucius Parshall\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tony M Caplan",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Tony M Caplan\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Donovan Fenton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Donovan Fenton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Nicholas A Germana",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Nicholas A Germana\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James Gruber",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"James Gruber\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22742&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1896&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -156,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-25T07:50:38.526029Z"
   }
 }

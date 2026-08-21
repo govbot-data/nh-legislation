@@ -309,70 +309,35 @@
       "_processing": {
         "log_file_created": "2026-08-20T04:59:44Z"
       }
+    },
+    {
+      "description": "Enacted in accordance with Article 44 PartII of the N.H. Constitution without the signature of the governor. Chapter 338;eff.  I. Sec 2 eff 1/1/27  II. Sec 3 eff 1/1/27   III. Rem eff 1/1/28",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "John Janigian",
+      "name": "John C Janigian",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"John Janigian\"}",
+      "person_id": "~{\"name\": \"John C Janigian\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22746&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "As Amended by the Senate",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=32294&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "As Amended by the Senate (2nd)",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=32713&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Version adopted by both bodies",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=33526&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1695&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -387,7 +352,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T04:59:44Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-08-20T05:00:39.407935Z"
   }
 }

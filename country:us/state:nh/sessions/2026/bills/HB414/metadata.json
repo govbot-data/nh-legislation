@@ -123,6 +123,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -132,14 +142,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ellen D Read\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tom D Mannion",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Tom D Mannion\"}",
       "organization_id": null
     }
   ],
@@ -164,7 +166,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-08-20T13:04:09.229334Z"
   }
 }

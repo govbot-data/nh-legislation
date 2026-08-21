@@ -93,6 +93,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -103,107 +113,15 @@
       "primary": false,
       "person_id": "~{\"name\": \"Marjorie K. Smith\"}",
       "organization_id": null
-    },
-    {
-      "name": "Ellen D Read",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ellen D Read\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David James Meuse",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David James Meuse\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Debra Altschiller",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Debra Altschiller\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jodi K Newell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jodi K Newell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Alicia C Gregg",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alicia C Gregg\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zoe R Manos",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Zoe R Manos\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Loren Selig",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Loren Selig\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Paige Beauchemin",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Paige Beauchemin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erik R Johnson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Erik R Johnson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Buzz Scherr",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Buzz Scherr\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=24021&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2259&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -218,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-25T07:35:09.842662Z"
   }
 }

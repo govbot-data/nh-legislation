@@ -131,7 +131,7 @@
       }
     },
     {
-      "description": "Lay SB520 on Table (Rep. Mazur): MA RC 193-150 05/07/2026  HJ 12",
+      "description": "Lay SB520 on Table (Rep. Mazur): MA RC 193-150 05/07/2026  HJ 12  P. 34",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -139,7 +139,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     }
   ],
@@ -151,62 +161,15 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
       "organization_id": null
-    },
-    {
-      "name": "Donovan Fenton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Donovan Fenton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Debra Altschiller",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Debra Altschiller\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tara Reardon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Tara Reardon\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22045&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "As Amended by the Senate",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=30119&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1265&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -221,7 +184,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-21T19:25:06.983439Z"
   }
 }

@@ -121,7 +121,7 @@
       }
     },
     {
-      "description": "Lay SB501 on Table (Rep. W. MacDonald): MA RC 188-154 05/07/2026  HJ 12",
+      "description": "Lay SB501 on Table (Rep. W. MacDonald): MA RC 188-154 05/07/2026  HJ 12  P. 31",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -129,7 +129,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     }
   ],
@@ -141,107 +151,15 @@
       "primary": false,
       "person_id": "~{\"name\": \"David H. Watters\"}",
       "organization_id": null
-    },
-    {
-      "name": "Regina Birdsell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Regina Birdsell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kevin A. Avard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ruth Ward",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ruth Ward\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Suzanne M. Prentiss",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Suzanne M. Prentiss\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rebecca Perkins Kwoka",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Timothy Lang",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Timothy Lang\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Donovan Fenton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Donovan Fenton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Howard Pearl",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Howard Pearl\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Keith R. Murphy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tim McGough",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Tim McGough\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22076&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1285&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -256,7 +174,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-21T19:18:26.105665Z"
   }
 }

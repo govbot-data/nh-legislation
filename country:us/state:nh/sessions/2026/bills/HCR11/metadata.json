@@ -111,6 +111,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,62 +130,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Carol M McGuire\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joe Sweeney",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Joe Sweeney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Thomas C Walsh",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Thomas C Walsh\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Keith Michael Ammon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Keith Michael Ammon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Len P Turcotte",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Len P Turcotte\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gregory G. Hill",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gregory G. Hill\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Juliet Harvey-Bolia",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Juliet Harvey-Bolia\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jim A Kofalt",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jim A Kofalt\"}",
       "organization_id": null
     }
   ],
@@ -200,7 +154,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-08-20T13:04:09.331814Z"
   }
 }

@@ -83,6 +83,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,91 +103,15 @@
       "primary": false,
       "person_id": "~{\"name\": \"Diane E. Kelley\"}",
       "organization_id": null
-    },
-    {
-      "name": "JD Bernardy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"JD Bernardy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Aidan Ankarberg",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Aidan Ankarberg\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mike S Belcher",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mike S Belcher\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Shane A Sirois",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Shane A Sirois\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kelley L Potenza",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kelley L Potenza\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joseph J Barton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Joseph J Barton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Matt R Sabourin dit Choini\u00e8re",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Matt R Sabourin dit Choini\\u00e8re\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Susan G DeRoy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Susan G DeRoy\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=23137&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2303&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -192,7 +126,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-07-25T06:57:11.373429Z"
   }
 }

@@ -262,27 +262,27 @@
       }
     },
     {
-      "description": "Amendment # 2026-1451h (NT): AA RC 182-172 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1451h (NT): AA RC 182-172 04/23/2026  HJ 11  P. 37",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     },
     {
-      "description": "Amendment # 2026-1455h: AF RC 169-184 04/23/2026  HJ 11",
+      "description": "Amendment # 2026-1455h: AF RC 169-184 04/23/2026  HJ 11  P. 42",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1451h: MF RC 168-184 04/23/2026  HJ 11",
+      "description": "Ought to Pass with Amendment 2026-1451h: MF RC 168-184 04/23/2026  HJ 11  P. 45",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -291,11 +291,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     },
     {
-      "description": "Lay SB101 on Table (Rep. Sweeney): MA DV 320-32 04/23/2026  HJ 11",
+      "description": "Lay SB101 on Table (Rep. Sweeney): MA DV 320-32 04/23/2026  HJ 11  P. 47",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -303,7 +303,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     }
   ],
@@ -314,70 +324,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jason M. Osborne\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gregory G. Hill",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Gregory G. Hill\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James P. Gray",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"James P. Gray\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Daniel E. Innis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erica J Layon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Erica J Layon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Timothy Lang",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Timothy Lang\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Howard Pearl",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Howard Pearl\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Keith R. Murphy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Victoria Sullivan",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Victoria Sullivan\"}",
       "organization_id": null
     }
   ],
@@ -402,7 +348,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-08-20T13:04:09.437594Z"
   }
 }

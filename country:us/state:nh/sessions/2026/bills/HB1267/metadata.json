@@ -174,112 +174,35 @@
       "_processing": {
         "log_file_created": "2026-08-20T04:59:44Z"
       }
+    },
+    {
+      "description": "Enacted in accordance with Article 44 PartII of the N.H. Constitution without the signature of the governor. Chapter 340;eff. 01/01/2027",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Vanessa Sheehan",
+      "name": "Vanessa L Sheehan",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Vanessa Sheehan\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Travis Corcoran",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Travis Corcoran\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Susan DeRoy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Susan DeRoy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sayra DeVito",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sayra DeVito\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Melissa Litchfield",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Melissa Litchfield\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Linda McGrath",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Linda McGrath\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Diane Pauer",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Diane Pauer\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sherri Reinfurt",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sherri Reinfurt\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jeffrey Tenczar",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jeffrey Tenczar\"}",
+      "person_id": "~{\"name\": \"Vanessa L Sheehan\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22923&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Version adopted by both bodies",
-      "links": [
-        {
-          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=31058&q=billVersion",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1707&inflect=2",
+      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
       "note": ""
     }
   ],
@@ -294,7 +217,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T04:59:44Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-08-20T05:00:39.306266Z"
   }
 }

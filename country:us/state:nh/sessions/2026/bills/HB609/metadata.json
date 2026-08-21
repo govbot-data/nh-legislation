@@ -242,13 +242,13 @@
       }
     },
     {
-      "description": "Conferee Change: Rep. Layon Replaces Rep. Osborne 05/21/2026  HJ 14",
+      "description": "Conferee Change: Rep. Layon Replaces Rep. Osborne 05/21/2026  HJ 14  P. 32",
       "date": "2026-05-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
+        "log_file_created": "2026-08-21T04:41:55Z"
       }
     },
     {
@@ -322,6 +322,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T04:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,62 +341,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Erica J Layon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cyril Nicholas Aures",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cyril Nicholas Aures\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Clayton D Wood",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Clayton D Wood\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Donald S McFarlane",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Donald S McFarlane\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Matt Drew",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Matt Drew\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sayra Lynn DeVito",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sayra Lynn DeVito\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Susan G DeRoy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Susan G DeRoy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Samuel G Farrington",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Samuel G Farrington\"}",
       "organization_id": null
     }
   ],
@@ -411,7 +365,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-21T04:41:55Z",
     "text_extraction_latest_update": "2026-08-20T13:04:09.186543Z"
   }
 }
