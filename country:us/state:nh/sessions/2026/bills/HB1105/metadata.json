@@ -81,35 +81,101 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
-    },
-    {
-      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
-      "date": "2026-08-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-21T04:41:55Z"
-      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Glen C Aldrich",
+      "name": "Douglas Trottier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Douglas Trottier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glen Aldrich",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Glen C Aldrich\"}",
+      "person_id": "~{\"name\": \"Glen Aldrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Bogert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Bogert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Bordes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Bordes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Freeman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Freeman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juliet Harvey-Bolia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juliet Harvey-Bolia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheri Minor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheri Minor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy Lang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Howard Pearl",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Howard Pearl\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22749&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1726&inflect=2",
       "note": ""
     }
   ],
@@ -124,7 +190,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T04:41:55Z",
+    "logs_latest_update": "2026-08-22T04:55:43Z",
     "text_extraction_latest_update": "2026-08-21T04:42:49.270826Z"
   }
 }

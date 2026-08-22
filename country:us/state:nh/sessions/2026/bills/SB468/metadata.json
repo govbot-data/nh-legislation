@@ -196,35 +196,115 @@
       "_processing": {
         "log_file_created": "2026-08-20T04:59:44Z"
       }
-    },
-    {
-      "description": "Law Without Signature 08/19/2026; Chapter 344; Effective 08/19/2026; Art 44, Pt II, NH Constitution",
-      "date": "2026-08-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-21T04:41:55Z"
-      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Lucy McVitty Weber",
+      "name": "Howard Pearl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Howard Pearl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donovan Fenton",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Lucy McVitty Weber\"}",
+      "person_id": "~{\"name\": \"Donovan Fenton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Innis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tara Reardon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tara Reardon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yury Polozov",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yury Polozov\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lucy Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lucy Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark McLean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark McLean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Ebel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen Ebel\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22015&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Version adopted by both bodies",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=32269&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=33868&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1443&inflect=2",
       "note": ""
     }
   ],
@@ -239,7 +319,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T04:41:55Z",
+    "logs_latest_update": "2026-08-22T04:55:43Z",
     "text_extraction_latest_update": "2026-08-21T04:42:49.208417Z"
   }
 }

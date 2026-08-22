@@ -93,19 +93,41 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
-    },
-    {
-      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
-      "date": "2026-08-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-21T04:41:55Z"
-      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Carrie Sorensen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carrie Sorensen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alicia Gregg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alicia Gregg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Pearson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Pearson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Telerski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Telerski\"}",
+      "organization_id": null
+    },
     {
       "name": "Mary Jane Wallner",
       "classification": "cosponsor",
@@ -113,15 +135,67 @@
       "primary": false,
       "person_id": "~{\"name\": \"Mary Jane Wallner\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lee Ann Kluger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee Ann Kluger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alice Wade",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alice Wade\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Perkins Kwoka",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne Prentiss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzanne Prentiss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Rosenwald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=24558&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1848&inflect=2",
       "note": ""
     }
   ],
@@ -136,7 +210,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T04:41:55Z",
+    "logs_latest_update": "2026-08-22T04:55:43Z",
     "text_extraction_latest_update": "2026-08-21T04:42:49.429070Z"
   }
 }

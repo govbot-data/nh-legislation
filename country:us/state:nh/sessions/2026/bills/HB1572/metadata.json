@@ -91,35 +91,93 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
-    },
-    {
-      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
-      "date": "2026-08-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-21T04:41:55Z"
-      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jeanine M Notter",
+      "name": "Steven Kesselring",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steven Kesselring\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Cole",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jeanine M Notter\"}",
+      "person_id": "~{\"name\": \"Brian Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathleen Paquette",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathleen Paquette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erica Layon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erica Layon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanine Notter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanine Notter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda McGrath",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Linda McGrath\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Mazur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Mazur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary Murphy\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=23946&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2068&inflect=2",
       "note": ""
     }
   ],
@@ -134,7 +192,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T04:41:55Z",
+    "logs_latest_update": "2026-08-22T04:55:43Z",
     "text_extraction_latest_update": "2026-08-21T04:42:49.408422Z"
   }
 }

@@ -81,16 +81,6 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
-    },
-    {
-      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
-      "date": "2026-08-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-21T04:41:55Z"
-      }
     }
   ],
   "sponsorships": [
@@ -101,15 +91,99 @@
       "primary": true,
       "person_id": "~{\"name\": \"Barbara Comtois\"}",
       "organization_id": null
+    },
+    {
+      "name": "Judy Aron",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Aron\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Belcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Belcher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan DeRoy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan DeRoy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diane Kelley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diane Kelley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Kofalt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Kofalt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristine Perez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristine Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yury Polozov",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yury Polozov\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelley Potenza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kelley Potenza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Terry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul Terry\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=23993&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1854&inflect=2",
       "note": ""
     }
   ],
@@ -124,7 +198,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T04:41:55Z",
+    "logs_latest_update": "2026-08-22T04:55:43Z",
     "text_extraction_latest_update": "2026-08-21T04:42:49.215904Z"
   }
 }
