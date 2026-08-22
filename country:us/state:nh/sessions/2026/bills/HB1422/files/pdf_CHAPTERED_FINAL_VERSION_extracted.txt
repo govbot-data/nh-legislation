@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER342
+HB1422-FINALVERSION
+11Mar2026...0871h
+4Jun2026...2137EBA
+2026SESSION
+26-2357
+09/08
+1422
+HOUSEBILL
+ANACT relativetothetimetopetitionforanewtrial.
+SPONSORS: Rep. Tom Mannion, Hills. 1; Rep. Corcoran, Hills. 28; Rep. Sabourin dit Choiniere,
+Rock.30;Rep.Berch,Ches.6
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsadditionaltimetopetitionforanewtrialincertaincircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER342
+HB1422-FINALVERSION
+11Mar2026...0871h
+4Jun2026...2137EBA 26-2357
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothetimetopetitionforanewtrial.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 342:1 NewTrials;Time. AmendRSA526:4toreadasfollows:
+2 526:4 Time.
+3 I. A new trial shall not be granted unless the petition is filed within [three] 3years after the
+4 renditionofthejudgmentcomplainedof,orthefailureofthesuit.
+5 II.ThetimelimitinparagraphIshallnotapplyif:
+6 (a)Thepetitionerseeksanewtrialinacriminalcasethatresultedinaconvictionofafelony
+7 oraclassAmisdemeanor;
+8 (b) Thepetitioneriseitherincarcerated,subjecttothetermsofasentence,orsubjectto
+9 collateralconsequencesofthesentence;
+10 (c) Thepetitionspecificallyallegesthatthereisnewlydiscoveredevidenceandwhatthat
+11 newlydiscoveredevidenceis;and
+12 (d)Thepetitionspecificallyallegesthatthepetitionerisinnocent.
+13 III. Forpurposesofthissection,"newlydiscoveredevidence"includesevidencethatcanbe
+14 subjectedtoneworadditionalforensictesting,evidencethatcanbesubjectedtonewscientific
+15 understanding,orevidencethatwasnotavailableatthetimeoftrialbutisavailableatthetimethepetition
+16 isfiled. Acourtmaydenyapetitionforanewtrialthatisduplicativeofapriorpetitionthatwasfinally
+17 ruleduponbythecourt.
+18 IV. ForpetitionsfiledunderparagraphII,thecourtshallfirstdeterminewhetherthepetitionhas
+19 madeaprimafacieshowingunderparagraphIIbeforegrantingahearingunderRSA526:1. Ifupon
+20 review,itisdeterminedthatthepetitiondoesmakeaprimafacieshowingunderparagraphII,thecourt
+21 shallthenholdahearingand,ifthepetitionerisindigent,appointcounselforthepetitionertodetermine
+22 whethertherequirementsofRSA526:1havebeenmet. Ifuponreview,itisdeterminedthatthepetition
+23 doesnotmakeaprimafacieshowing,thecourtmaydismissthepetition.
+24 V.Nothinginthissectionisintendedtosupersedethestandardforgrantingamotionfornewtrial
+25 assetoutinRSA526:1.ForDNAevidence,RSA651-Dshallbefollowed.
+26 VI. Whenapetitionforanewtrialofacriminalconvictionisbeingconsideredbythecourt,the
+27 stateshall,uponrequest,reactivatevictimservicesforthevictimofthecrimebeingreinvestigatedduring
+28 thereinvestigationofthecase,duringthependencyoftheproceedings,and,asdeterminedbythecourt
+29 afterconsultationwiththevictimorvictimadvocate,followingfinaladjudicationofthecase.
+30 342:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+31
+32
+
+CHAPTER342
+HB1422-FINALVERSION
+-Page2-
+VETOEDJuly2,2026/VetoOverriddenAugust19,2026
+Enacted in accordance with Article 44, Part II of the N.H. Constitution, without the signature of the
+governorAugust19,2026.
+Approved:August19,2026
+EffectiveDate:January01,2027

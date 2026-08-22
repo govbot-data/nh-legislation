@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER339
+HB1184-FN-FINALVERSION
+12Mar2026...0756h
+12Mar2026...1089h
+05/07/2026 1738s
+4Jun2026...2078CofC
+2026SESSION
+26-2684
+09/05
+1184-FN
+HOUSEBILL
+ANACT relativetotheissuanceofnotrespassordersonmunicipalorschooldistrictproperty.
+SPONSORS: Rep. Harvey-Bolia, Belk. 3; Rep. Freeman, Belk. 8; Rep. Pauer, Hills. 36; Rep.
+Peternel, Carr. 6; Rep. Sabourin, Rock. 30; Rep. Thibault, Merr. 25; Sen. Gannon,
+Dist23
+COMMITTEE: MunicipalandCountyGovernment
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Establishestheprocessforissuing,extending,andappealingnotrespassordersformunicipaland
+schoolproperties.
+II. Establishes procedural safeguards for individuals affected by these orders, including the right to a
+hearingandappeal.
+III. RequiresallapplicableexistingNTOstobereviewedbythegoverningbodyandeitherreissuedor
+rescindedwithin90days,orthoseNTOsnotacteduponbecomevoid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER339
+HB1184-FN-FINALVERSION
+12Mar2026...0756h
+12Mar2026...1089h
+05/07/2026 1738s
+4Jun2026...2078CofC 26-2684
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheissuanceofnotrespassordersonmunicipalorschooldistrictproperty.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 339:1 ShortTitle. Thisactmaybecitedtoandknownasthe"NoTrespassOrdersonPublicProperty
+2 Act."
+3 339:2 NewSection;CriminalTrespass;OrderAgainstTrespassonPublicProperty. AmendRSA635
+4 byinsertingaftersection2thefollowingnewsection:
+5 635:2-a OrderAgainstTrespassonPublicProperty.
+6 I.(a) A governing body responsible for public property, or a person designated by the governing
+7 body,mayissueanemergencynotrespassorder(NTO)directingapersontoleaveornotenterspecified
+8 public property when immediate action is reasonably necessary to protect public safety, prevent
+9 substantialdisruptionofgovernmentaloperations,orpreventdamagetopublicproperty.
+10 (b) AnemergencyNTOissuedunderthisparagraphshall:
+11 (1) Beinwriting;
+12 (2) Statethedateandtimeofissuance;
+13 (3) Identifythespecificpublicpropertytowhichtheorderapplies;
+14 (4) Provideabriefstatementofthefactualbasisfortheemergencyissuance;
+15 (5) StatetheexpirationdateandtimeoftheNTO;and
+16 (6) StatethatthepersonmayrequestahearingontheNTO.
+17 (c) An emergency NTO shall be effective immediately but shall expire automatically no later
+18 than35daysafterissuance,unlessapprovedpursuanttoparagraphII.
+19 II.(a) If the governing body seeks to continue an NTO beyond the initial NTO period, the
+20 governing body shall approve the NTO by at least a majority vote taken by roll call vote at a duly noticed
+21 public meeting, or at a non-public session if permitted under RSA 91-A and requested by the individual
+22 subjecttotheNTO.
+23 (b) AnyNTOissuedorapprovedunderthissectionshallinclude:
+24 (1) Thedateofissuance;
+25 (2) Thespecificpublicpropertytowhichtheorderapplies;
+26 (3) AclearexplanationofthereasonfortheNTO;
+27 (4) ThedurationoftheNTO,nottoexceedoneyear;
+28 (5) A statement informing the individual of the right to request a hearing to contest the
+29 NTO;
+30 (6) Instructionsonhowtorequestahearing;and
+
+CHAPTER339
+HB1184-FN-FINALVERSION
+-Page2-
+1 (7) A statement informing the individual of the right to appeal an adverse decision to the
+2 superiorcourt.
+3 III.(a) An individual issued an NTO shall have the right to a hearing upon written request. The
+4 request shall be made no later than 10 days from the date of issuance or governing body approval of the
+5 NTO.
+6 (b) Thegoverningbodyshallholdthehearingatthenextregularlyscheduledmeeting.
+7 (c) If ahearing isnot heldwithin thetimeframe requiredunder this paragraph, theNTO shall
+8 beautomaticallyvacated,unlessthedelayisattributabletotheindividualrequestingthehearing.
+9 IV. Following the hearing, the governing body shall issue a written decision, which shall state
+10 whethertheNTOis:
+11 (1) Rescinded;
+12 (2) Modified;or
+13 (3) Continuedforadefinedperiod.
+14 V. An individual subject to an NTO may appeal a final decision of the governing body to the
+15 superiorcourt. Anyappealshallbefiledwithin30daysofthewrittendecision.
+16 VI. All NTOs issued under this section shall expire by operation of law upon reaching their
+17 authorizeddurationandshallnotberenewedexceptincompliancewiththissection.
+18 VII. The governing body shall review within 90 days all NTOs in effect as of the effective date of
+19 this section and reissue or rescind them in accordance with this section. If no action is taken by the
+20 governingbodyonanNTOsubjecttothisparagraphwithin90days,suchNTOshallbevoid.
+21 339:3 Repeal. RSA 635:2-a, VII, relative to the review of existing NTOs by governing bodies, is
+22 repealed.
+23 339:4 EffectiveDate.
+24 I. Section3ofthisactshalltakeeffectoneyearafteritspassage.
+25 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+26
+VETOEDJuly10,2026/VetoOverriddenAugust19,2026.
+Enacted in accordance with Article 44, Part II of the N.H. Constitution, without the signature of the
+governorAugust19,2026.
+Effective:
+I.Section3effectiveAugust19,2027
+II.RemaindereffectiveOctober18,2026
