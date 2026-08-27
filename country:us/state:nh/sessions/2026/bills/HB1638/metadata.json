@@ -77,71 +77,41 @@
       "_processing": {
         "log_file_created": "2026-08-06T06:54:10Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/09/2026 10:00 am GP 229",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "David C Lundgren",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David C Lundgren\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kevin A. Avard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mark A Pearson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mark A Pearson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gary L Woods",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Gary L Woods\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cindy Rosenwald",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wayne D. MacDonald",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Wayne D. MacDonald\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David J Nagel",
+      "name": "David Nagel",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"David J Nagel\"}",
+      "person_id": "~{\"name\": \"David Nagel\"}",
       "organization_id": null
     },
     {
-      "name": "Lilli M Walsh",
+      "name": "David Lundgren",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Lilli M Walsh\"}",
+      "person_id": "~{\"name\": \"David Lundgren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wayne MacDonald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wayne MacDonald\"}",
       "organization_id": null
     },
     {
@@ -150,6 +120,46 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Julie Miles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Pearson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Pearson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lilli Walsh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lilli Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Woods",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Woods\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Avard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Rosenwald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
       "organization_id": null
     }
   ],
@@ -186,7 +196,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T06:54:10Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-06T06:55:07.008957Z"
   }
 }

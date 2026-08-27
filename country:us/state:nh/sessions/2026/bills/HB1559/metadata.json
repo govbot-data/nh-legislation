@@ -111,41 +111,15 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
-    },
-    {
-      "description": "Executive Session: 06/15/2026 11:00 am GP 159",
-      "date": "2026-06-03",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
-      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Linda C Harriott-Gathright",
-      "classification": "cosponsor",
+      "name": "Santosh Salvi",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Linda C Harriott-Gathright\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sue A Newman",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sue A Newman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Louis C Juris",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Louis C Juris\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Santosh Salvi\"}",
       "organization_id": null
     },
     {
@@ -165,11 +139,27 @@
       "organization_id": null
     },
     {
-      "name": "Santosh Salvi",
-      "classification": "primary",
+      "name": "Linda Harriott-Gathright",
+      "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Santosh Salvi\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Linda Harriott-Gathright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Louis Juris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Louis Juris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sue Newman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sue Newman\"}",
       "organization_id": null
     },
     {
@@ -214,7 +204,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T07:42:05.675128Z"
   }
 }

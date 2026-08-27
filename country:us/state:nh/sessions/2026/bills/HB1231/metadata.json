@@ -77,15 +77,25 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/09/2026 10:00 am GP 229",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Ron C Dunn",
+      "name": "Ron Dunn",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ron C Dunn\"}",
+      "person_id": "~{\"name\": \"Ron Dunn\"}",
       "organization_id": null
     },
     {
@@ -130,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T07:41:19.914477Z"
   }
 }

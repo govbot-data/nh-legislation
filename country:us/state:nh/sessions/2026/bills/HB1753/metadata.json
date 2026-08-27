@@ -67,55 +67,65 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 09/24/2026 10:30 am GP 228",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Larry G Gagne",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Larry G Gagne\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Skip A. Rollins",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Skip A. Rollins\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael I Moffett",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michael I Moffett\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Daniel E. Innis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Terry W Roy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Terry W Roy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James L Creighton",
+      "name": "James Creighton",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"James L Creighton\"}",
+      "person_id": "~{\"name\": \"James Creighton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larry Gagne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Larry Gagne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Moffett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Moffett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Skip Rollins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Skip Rollins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Innis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
       "organization_id": null
     }
   ],
@@ -152,7 +162,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T07:23:10.040580Z"
   }
 }

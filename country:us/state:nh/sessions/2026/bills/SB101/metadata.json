@@ -305,6 +305,16 @@
       "_processing": {
         "log_file_created": "2026-08-21T04:41:55Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -318,7 +328,82 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=SI&id=1052&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=SI&id=1052&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2026-0071s",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2026-0071S",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2026-0194s",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2026-0194S",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ought to Pass with Amendment",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=html&v=SA&id=1052",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=pdf&v=SA&id=1052",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2026-1451h",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2026-1451H",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2026-1455h",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2026-1455H",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -338,7 +423,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T04:55:43Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-26T13:07:25.493628Z"
   }
 }

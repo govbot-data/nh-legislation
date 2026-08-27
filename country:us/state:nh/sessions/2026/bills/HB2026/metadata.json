@@ -298,6 +298,16 @@
       "_processing": {
         "log_file_created": "2026-08-20T04:59:44Z"
       }
+    },
+    {
+      "description": "Enacted in accordance with Article 44 PartII of the N.H. Constitution without the signature of the governor. Chapter 343;I. sec 4 eff 12/1/26  II. Sec 3 & 5 eff 1/1/27  III. Rem eff 8/19/26",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -363,6 +373,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CHAPTERED FINAL VERSION",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=34125&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -384,7 +405,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T04:59:44Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-20T05:00:39.534858Z"
   }
 }

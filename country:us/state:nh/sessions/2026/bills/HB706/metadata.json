@@ -107,6 +107,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/09/2026 10:00 am GP 229",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,18 +127,26 @@
       "primary": false,
       "person_id": "~{\"name\": \"Gaby M Grossman\"}",
       "organization_id": null
-    },
-    {
-      "name": "Alicia C Gregg",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Alicia C Gregg\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=581&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=581&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -148,7 +166,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-26T13:07:24.574706Z"
   }
 }

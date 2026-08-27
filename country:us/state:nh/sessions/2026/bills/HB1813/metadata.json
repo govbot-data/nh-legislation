@@ -97,31 +97,25 @@
       "_processing": {
         "log_file_created": "2026-08-06T06:54:10Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/09/2026 10:00 am GP 229",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Maureen C. Mooney",
-      "classification": "cosponsor",
+      "name": "Julie Miles",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Maureen C. Mooney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jose E Cambrils",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jose E Cambrils\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wayne D. MacDonald",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Wayne D. MacDonald\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julie Miles\"}",
       "organization_id": null
     },
     {
@@ -133,19 +127,27 @@
       "organization_id": null
     },
     {
-      "name": "Lilli M Walsh",
+      "name": "Jose Cambrils",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Lilli M Walsh\"}",
+      "person_id": "~{\"name\": \"Jose Cambrils\"}",
       "organization_id": null
     },
     {
-      "name": "Julie Miles",
-      "classification": "primary",
+      "name": "Wayne MacDonald",
+      "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Julie Miles\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wayne MacDonald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maureen Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maureen Mooney\"}",
       "organization_id": null
     },
     {
@@ -154,6 +156,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mary Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lilli Walsh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lilli Walsh\"}",
       "organization_id": null
     },
     {
@@ -198,7 +208,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T06:54:10Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-06T06:55:06.829883Z"
   }
 }

@@ -97,15 +97,25 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/10/2026 10:00 am GP 234",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Marjorie K. Smith",
-      "classification": "cosponsor",
+      "name": "Walter Spilsbury",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Marjorie K. Smith\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Walter Spilsbury\"}",
       "organization_id": null
     },
     {
@@ -117,19 +127,19 @@
       "organization_id": null
     },
     {
-      "name": "Walter Spilsbury",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Walter Spilsbury\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Raymond C. Peeples",
+      "name": "Raymond Peeples",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Raymond C. Peeples\"}",
+      "person_id": "~{\"name\": \"Raymond Peeples\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marjorie Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marjorie Smith\"}",
       "organization_id": null
     }
   ],
@@ -166,7 +176,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T07:06:31.300801Z"
   }
 }

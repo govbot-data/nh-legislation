@@ -97,23 +97,49 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/10/2026 10:00 am GP 234",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Susan W Almy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Susan W Almy\"}",
-      "organization_id": null
-    },
     {
       "name": "Dick Ames",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Dick Ames\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Luneau",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Luneau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hope Damon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hope Damon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Preece",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Preece\"}",
       "organization_id": null
     },
     {
@@ -125,43 +151,27 @@
       "organization_id": null
     },
     {
-      "name": "David J. Luneau",
+      "name": "Susan Almy",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"David J. Luneau\"}",
+      "person_id": "~{\"name\": \"Susan Almy\"}",
       "organization_id": null
     },
     {
-      "name": "David John Preece",
+      "name": "Mary Hakken-Phillips",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"David John Preece\"}",
+      "person_id": "~{\"name\": \"Mary Hakken-Phillips\"}",
       "organization_id": null
     },
     {
-      "name": "Cindy Rosenwald",
+      "name": "Eileen Kelly",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Eileen S Kelly",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Eileen S Kelly\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mary A Hakken-Phillips",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mary A Hakken-Phillips\"}",
+      "person_id": "~{\"name\": \"Eileen Kelly\"}",
       "organization_id": null
     },
     {
@@ -173,19 +183,11 @@
       "organization_id": null
     },
     {
-      "name": "Hope E Damon",
+      "name": "Cindy Rosenwald",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Hope E Damon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Thomas Oppel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Thomas Oppel\"}",
+      "person_id": "~{\"name\": \"Cindy Rosenwald\"}",
       "organization_id": null
     }
   ],
@@ -213,7 +215,7 @@
   ],
   "extras": {
     "LSR": "3072",
-    "_code": "5010"
+    "_code": "5019"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:nh/government",
@@ -222,7 +224,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T07:25:26.983133Z"
   }
 }

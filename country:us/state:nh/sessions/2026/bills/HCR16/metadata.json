@@ -67,15 +67,25 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Executive Session: 09/24/2026 10:30 am GP 228",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gary R Gilmore",
+      "name": "Gary Gilmore",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gary R Gilmore\"}",
+      "person_id": "~{\"name\": \"Gary Gilmore\"}",
       "organization_id": null
     }
   ],
@@ -112,7 +122,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T07:59:49.626991Z"
   }
 }

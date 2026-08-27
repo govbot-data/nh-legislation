@@ -113,6 +113,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Died on Table, Session ended 08/19/2026  HJ 16",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,7 +136,34 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=97&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=97&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2025-3078h",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2025-3078H",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -146,7 +183,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T04:55:43Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-26T13:07:23.937539Z"
   }
 }

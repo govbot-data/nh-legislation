@@ -127,9 +127,27 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/10/2026 10:00 am GP 234",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "David Luneau",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Luneau\"}",
+      "organization_id": null
+    },
     {
       "name": "Dick Ames",
       "classification": "cosponsor",
@@ -139,27 +157,11 @@
       "organization_id": null
     },
     {
-      "name": "David J. Luneau",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"David J. Luneau\"}",
-      "organization_id": null
-    },
-    {
       "name": "David Paige",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David Paige\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Thomas Oppel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Thomas Oppel\"}",
       "organization_id": null
     }
   ],
@@ -187,7 +189,7 @@
   ],
   "extras": {
     "LSR": "3178",
-    "_code": "5010"
+    "_code": "5043"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:nh/government",
@@ -196,7 +198,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T08:06:13.986199Z"
   }
 }

@@ -77,23 +77,33 @@
       "_processing": {
         "log_file_created": "2026-08-06T06:54:10Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/09/2026 10:00 am GP 229",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "David J Nagel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David J Nagel\"}",
-      "organization_id": null
-    },
     {
       "name": "Trinidad Tellez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trinidad Tellez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Nagel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Nagel\"}",
       "organization_id": null
     }
   ],
@@ -130,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T06:54:10Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-06T06:55:06.905553Z"
   }
 }

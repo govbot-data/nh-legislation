@@ -77,31 +77,25 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/09/2026 10:00 am GP 229",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Heath Howard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Heath Howard\"}",
-      "organization_id": null
-    },
     {
       "name": "Paige Beauchemin",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Paige Beauchemin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jennifer Mandelbaum",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jennifer Mandelbaum\"}",
       "organization_id": null
     },
     {
@@ -113,19 +107,11 @@
       "organization_id": null
     },
     {
-      "name": "Janet Marie Lucas",
+      "name": "Jennifer Mandelbaum",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Janet Marie Lucas\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Eleana Marie Colby",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Eleana Marie Colby\"}",
+      "person_id": "~{\"name\": \"Jennifer Mandelbaum\"}",
       "organization_id": null
     },
     {
@@ -134,6 +120,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Toni Weinstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleana  Colby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleana  Colby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Janet Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Janet Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heath Howard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heath Howard\"}",
       "organization_id": null
     }
   ],
@@ -170,7 +180,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-07-25T07:41:23.645276Z"
   }
 }

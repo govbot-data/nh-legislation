@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Enacted in accordance with Article 44 PartII of the N.H. Constitution without the signature of the governor. Chapter 343;I. sec 4 eff 12/1/26  II. Sec 3 & 5 eff 1/1/27  III. Rem eff 8/19/26",
+    "occurred_at": "2026-08-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2465&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2026"
+}

@@ -129,6 +129,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/09/2026 10:00 am GP 229",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T15:33:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,106 +149,37 @@
       "primary": false,
       "person_id": "~{\"name\": \"Skip A. Rollins\"}",
       "organization_id": null
-    },
-    {
-      "name": "Ruth Ward",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ruth Ward\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bill M. Gannon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Suzanne M. Prentiss",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Suzanne M. Prentiss\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David J Nagel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David J Nagel\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jodi K Newell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jodi K Newell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carry Spier",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Carry Spier\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Peggy Balboni",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Peggy Balboni\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Loren Selig",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Loren Selig\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hope E Damon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Hope E Damon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Paige Beauchemin",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Paige Beauchemin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jennifer Mandelbaum",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jennifer Mandelbaum\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David Rochefort",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David Rochefort\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=126&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=126&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2025-3059h",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2025-3059H",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -258,7 +199,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-08-27T15:33:32Z",
     "text_extraction_latest_update": "2026-08-26T13:07:25.900547Z"
   }
 }
