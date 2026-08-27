@@ -1,0 +1,379 @@
+Title: 
+Official Title: 
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CHAPTER343
+HB2026-FINALVERSION
+12Mar2026...0863h
+05/14/2026 1935s
+4Jun2026...2163EBA
+2026SESSION
+26-3252
+05/07
+2026
+HOUSEBILL
+ANACT relative to the state 10-year transportation improvement plan; relative to toll rate
+adjustments and periodic toll reviews for the New Hampshire turnpike system to
+support the 2027-2036 ten-year transportation plan; and relative to reconstruction of
+theGreggMillRoadBridgeinthetownofNewBoston.
+SPONSORS: Rep.Milz,Rock.13;Rep.Cloutier,Sull.6
+COMMITTEE: PublicWorksandHighways
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Adoptsthestate10-yeartransportationplanfor2027-2036.
+II. Provides for toll rate adjustmentsat specifiedturnpikeplazas tosupport projects inthe 2027–2036
+10-yeartransportationplan.
+III. Provides for periodic toll adjustments tied to the New Hampshire department of transportation's
+projectedinflationindexaspartofthestatewidetransportationimprovementprogram.
+IV. Authorizes the transfer of certain land acquired by the state under the land conservation
+investment program to the town of New Boston for the purpose of reconstructing the Gregg Mill Road
+Bridge.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER343
+HB2026-FINALVERSION
+12Mar2026...0863h
+05/14/2026 1935s
+4Jun2026...2163EBA 26-3252
+05/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the state 10-year transportation improvement plan; relative to toll rate
+adjustments and periodic toll reviews for the New Hampshire turnpike system to
+support the 2027-2036 ten-year transportation plan; and relative to reconstruction of
+theGreggMillRoadBridgeinthetownofNewBoston.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 343:1 State 10-Year Transportation Improvement Plan. The legislature hereby adopts the plan
+2 knownasthe“StateofNewHampshireTenYearTransportationImprovementPlan2027-2036"submitted
+3 bythegovernor to thelegislaturepursuant toRSA228:99and RSA240, with thefollowingrevisions, and
+4 encouragesexpeditiousimplementationoftheprojectsshowntherein.
+5 343:2 Albany; Project Added. The project named Albany project number 45469, operational and
+6 safety improvements at the intersection of NH 16, Wildwood Road and NH 113, shall be included in the
+7 2027-203610-yeartransportationimprovementsplanwith$6,824,313,andconstructionin2033.
+8 343:3 Tolls. AmendRSA237:9toreadasfollows:
+9 I. The commissioner of transportation, with the approval of the governor and council, shall
+10 establish toll rates and other charges for use of the New Hampshire turnpike system or any part of the
+11 right-of-wayandotherpropertyacquiredinconnectiontherewith. Thegovernorandcouncilshallapprove
+12 or reject the commissioner'sproposed toll rates andother chargeswithin 90days of receiving them. The
+13 tolls collected shall be deposited with the state treasurer who shall keep the same in a separate account
+14 to be used exclusively for purposes of the New Hampshire turnpike system including, without limitation,
+15 the operating expenses, construction, reconstruction, and maintenance of the New Hampshire turnpike
+16 system. All operating expenses and maintenance costs shall be paid from said account. From the
+17 balance remaining after the payment of operating expenses and maintenance costs, there shall be paid
+18 the interest and principal on the bonds issued to finance the system. No part of such revenues shall, by
+19 transfer of funds or otherwise, be diverted to any other purpose whatsoever. Fourteen days previous to
+20 thetimeanyinterestorprincipalispayable,onanygeneralobligationbondsissuedtofinancethesystem,
+21 thestatetreasurershallexaminetheexistingbalanceand,exceptasotherwiseprovidedinRSA237:10,if
+22 such balance is insufficient to make the payment, then he orsheshall notify the governor who shall
+23 immediatelydrawhisorherwarrantonthehighwayfundtocoveranydeficitandifthefundsinbothofthe
+24 above accounts are insufficient, the governor shall draw hisorherwarrant upon the state's general fund
+25 to the amount necessary to meet the payments. Any funds paid out from the state's highway fund or
+26 generalfundfortheabovepurposesshallbereimbursedfromthecollectionoftollsassoonassuchfunds
+27 are available. Any funds that have been or may be expended for any portion of the system by the
+28 department of transportation shall be repaid to said department when, in the opinion of the governor and
+29 council, sufficient funds are available. Any excess income may be used for further system extensions in
+
+CHAPTER343
+HB2026-FINALVERSION
+-Page2-
+1 accordance with RSA 237:5, II(m). No provision of this chapter shall constitute a covenant with
+2 bondholderswithrespecttothecharging,collectionordispositionoftolls.
+3 II. NotwithstandingparagraphI,RSA237:24,andanyotherprovisionoflawtothecontrary,to
+4 supporttheturnpikeprojectsincludedinthe2027-2036tenyeartransportationplanandtocover
+5 associatedoperatingexpensesandmaintenancecostsforthecentralNewHampshireturnpike,the
+6 easternNewHampshireturnpike,andtheNewHampshireturnpikesystem,thetollratesforallcash
+7 transactionsandforvehiclesusingtheNewHampshireelectronictollsystemnotlistedonafundedNew
+8 HampshireE-ZPassaccountshallbeincreasedbasedonthetollplazaandvehicleclassification. For
+9 purposesofthissection,"class"shallmeantheclassificationofvehiclesbytype,height,numberofaxles,
+10 anddualtiresestablishedbythecommissioneroftransportationinrulesadoptedunderRSA541-A.
+11 BeginningJanuary1,2027,thetollratesshallbeasfollows:
+12 (a)HooksettMain:
+13 (1)Class1:$2.00
+14 (2)Class2:$2.25
+15 (3)Class3:$2.50
+16 (4)Class4:$2.75
+17 (5)Class5:$4.00
+18 (6)Class6:$4.50
+19 (7)Class7:$5.00
+20 (8)Class8:$5.50
+21 (9)Class9:$6.00
+22 (10)Class10:$6.50
+23 (11)Class11:$7.00
+24 (12)Class12:$7.50
+25 (b)HooksettRamp:
+26 (1)Class1:$1.00
+27 (2)Class2:$1.25
+28 (3)Class3:$1.50
+29 (4)Class4:$1.75
+30 (5)Class5:$2.00
+31 (6)Class6:$2.50
+32 (7)Class7:$3.00
+33 (8)Class8:$3.50
+34 (9)Class9:$4.00
+35 (10)Class10:$4.50
+36 (11)Class11:$5.00
+37 (12)Class12:$5.50
+38 (c)BedfordMain:
+39 (1)Class1:$2.00
+
+CHAPTER343
+HB2026-FINALVERSION
+-Page3-
+1 (2)Class2:$2.25
+2 (3)Class3:$2.50
+3 (4)Class4:$2.75
+4 (5)Class5:$4.00
+5 (6)Class6:$4.50
+6 (7)Class7:$5.00
+7 (8)Class8:$5.50
+8 (9)Class9:$6.00
+9 (10)Class10:$6.50
+10 (11)Class11:$7.00
+11 (12)Class12:$7.50
+12 (d)HamptonMain:
+13 (1)Class1:$4.00
+14 (2)Class2:$4.25
+15 (3)Class3:$4.50
+16 (4)Class4:$4.75
+17 (5)Class5:$8.00
+18 (6)Class6:$8.50
+19 (7)Class7:$9.00
+20 (8)Class8:$9.50
+21 (9)Class9:$10.00
+22 (10)Class10:$10.50
+23 (11)Class11:$11.00
+24 (12)Class12:$11.50
+25 (e)HamptonSide:
+26 (1)Class1:$1.50
+27 (2)Class2:$1.75
+28 (3)Class3:$2.00
+29 (4)Class4:$2.25
+30 (5)Class5:$3.00
+31 (6)Class6:$3.50
+32 (7)Class7:$4.00
+33 (8)Class8:$4.50
+34 (9)Class9:$5.00
+35 (10)Class10:$5.50
+36 (11)Class11:$6.00
+37 (12)Class12:$6.50
+38 (f)Dover:
+39 (1)Class1:$1.50
+
+CHAPTER343
+HB2026-FINALVERSION
+-Page4-
+1 (2)Class2:$1.75
+2 (3)Class3:$2.00
+3 (4)Class4:$2.25
+4 (5)Class5:$3.00
+5 (6)Class6:$3.50
+6 (7)Class7:$4.00
+7 (8)Class8:$4.50
+8 (9)Class9:$5.00
+9 (10)Class10:$5.50
+10 (11)Class11:$6.00
+11 (12)Class12:$6.50
+12 (g)Rochester:
+13 (1)Class1:$1.50
+14 (2)Class2:$1.75
+15 (3)Class3:$2.00
+16 (4)Class4:$2.25
+17 (5)Class5:$3.00
+18 (6)Class6:$3.50
+19 (7)Class7:$4.00
+20 (8)Class8:$4.50
+21 (9)Class9:$5.00
+22 (10)Class10:$5.50
+23 (11)Class11:$6.00
+24 (12)Class12:$6.50
+25 III.NotwithstandingparagraphI,RSA237:24,andanyotherprovisionoflawtothecontrary,the
+26 tollratesforvehicleslistedonafundedNewHampshireE-ZPassaccountusingtheNewHampshire
+27 electronictollcollectionshallbebasedontollplazaandvehicleclassification,where"class"hasthesame
+28 meaningasinparagraphII.BeginningJanuary1,2027,theminimumtollratesshallbeasfollows:
+29 (a)HooksettMain:
+30 (1)Class1:$0.70
+31 (2)Class2:$0.88
+32 (3)Class3:$1.05
+33 (4)Class4:$1.23
+34 (5)Class5:$1.80
+35 (6)Class6:$2.25
+36 (7)Class7:$2.70
+37 (8)Class8:$3.15
+38 (9)Class9:$3.60
+39 (10)Class10:$4.05
+
+CHAPTER343
+HB2026-FINALVERSION
+-Page5-
+1 (11)Class11:$4.50
+2 (12)Class12:$4.95
+3 (b)HooksettRamp:
+4 (1)Class1:$0.35
+5 (2)Class2:$0.53
+6 (3)Class3:$0.70
+7 (4)Class4:$0.88
+8 (5)Class5:$0.90
+9 (6)Class6:$1.35
+10 (7)Class7:$1.80
+11 (8)Class8:$2.25
+12 (9)Class9:$2.70
+13 (10)Class10:$3.15
+14 (11)Class11:$3.60
+15 (12)Class12:$4.05
+16 (c)BedfordMain:
+17 (1)Class1:$0.70
+18 (2)Class2:$0.88
+19 (3)Class3:$1.05
+20 (4)Class4:$1.23
+21 (5)Class5:$1.80
+22 (6)Class6:$2.25
+23 (7)Class7:$2.70
+24 (8)Class8:$3.15
+25 (9)Class9:$3.60
+26 (10)Class10:$4.05
+27 (11)Class11:$4.50
+28 (12)Class12:$4.95
+29 (d)HamptonMain:
+30 (1)Class1:$1.40
+31 (2)Class2:$1.58
+32 (3)Class3:$1.75
+33 (4)Class4:$1.93
+34 (5)Class5:$3.60
+35 (6)Class6:$4.05
+36 (7)Class7:$4.50
+37 (8)Class8:$4.95
+38 (9)Class9:$5.40
+39 (10)Class10:$5.85
+
+CHAPTER343
+HB2026-FINALVERSION
+-Page6-
+1 (11)Class11:$6.30
+2 (12)Class12:$6.75
+3 (e)HamptonSide:
+4 (1)Class1:$0.53
+5 (2)Class2:$0.70
+6 (3)Class3:$0.88
+7 (4)Class4:$1.05
+8 (5)Class5:$1.35
+9 (6)Class6:$1.80
+10 (7)Class7:$2.25
+11 (8)Class8:$2.70
+12 (9)Class9:$3.15
+13 (10)Class10:$3.60
+14 (11)Class11:$4.05
+15 (12)Class12:$4.50
+16 (f)Dover:
+17 (1)Class1:$0.53
+18 (2)Class2:$0.70
+19 (3)Class3:$0.88
+20 (4)Class4:$1.05
+21 (5)Class5:$1.35
+22 (6)Class6:$1.80
+23 (7)Class7:$2.25
+24 (8)Class8:$2.70
+25 (9)Class9:$3.15
+26 (10)Class10:$3.60
+27 (11)Class11:$4.05
+28 (12)Class12:$4.50
+29 (g)Rochester:
+30 (1)Class1:$0.53
+31 (2)Class2:$0.70
+32 (3)Class3:$0.88
+33 (4)Class4:$1.05
+34 (5)Class5:$1.35
+35 (6)Class6:$1.80
+36 (7)Class7:$2.25
+37 (8)Class8:$2.70
+38 (9)Class9:$3.15
+39 (10)Class10:$3.60
+
+CHAPTER343
+HB2026-FINALVERSION
+-Page7-
+1 (11)Class11:$4.05
+2 (12)Class12:$4.50
+3 343:4 Agency Directive; Department of Transportation; New Hampshire E-Z Pass Transponder.
+4 Notwithstanding any other provision of law, for a period of 210 days, beginning December 1, 2026, the
+5 department of transportation shall issue, at no cost, a New Hampshire E-Z Pass transponder to anyone
+6 whoopensorcurrentlymaintainsafundedNewHampshireE-ZPassaccount,ifsorequestedbythenew
+7 orcurrentNewHampshireE-ZPassholder.
+8 343:5 Repeal. RSA 237:11, V, relative to the E-Z Pass discount on established tolls on any of the
+9 NewHampshireturnpikesystem,isrepealed.
+10 343:6 ManchesterI-293ProjectsAdded.
+11 I. The project named Manchester Project #16099A, to reconstruct and widen Exit 6 on I-293 in
+12 Manchester, shall be added to the 2027-2036 10-year transportation improvement plan with
+13 $146,888,734.
+14 II. The project named Manchester Project #16099B, to reconstruct and widen Exit 7 on I-293 in
+15 Manchester,shallbeaddedtothe2027-203610-yeartransportationimprovementplanwith$74,902,494.
+16 343:7 Bow-ConcordProjectAdded. TheprojectnamedBow-ConcordProject#13742: Interstate93
+17 widening from south of Interstate 89 to Merrimack River Bridge shall be added to the 2027-2036 10-year
+18 transportationimprovementplanwith$285,849,979.
+19 343:8 Projects Added. The following projects shall be added to the 2027 - 2036 10-year
+20 transportationimprovementplanwith$68,547,475:
+21 I. RandolphProject: Installationofleft-turnlaneforUS2eastboundtrafficatRandolphHillRoad
+22 andleft-turnlaneforUS2westboundtrafficatRaycrestDrive.
+23 II. Enfield Project: Construct a roundabout to address road skew/offset, reduce conflict points,
+24 reduce pedestrian crossing length and number, promote lower speeds and traffic calming, support
+25 operationalefficiency,andimprovemulti-modalsafety.
+26 III. PlymouthProject: ImprovesightdistanceandprovidebicycleandpedestrianaccessonUS3.
+27 IV. MarlboroughProject: StormwaterandPedestrianInfrastructureImprovements.
+28 V. HillsboroughProject: HennikerStreetImprovements.
+29 VI. Madbury Project: Intersection safety improvements to NH 9 and French Cross Road
+30 intersection.
+31 VII. HooksettProject: IntersectionImprovementsatI-93Exit11andHackettHillRoad.
+32 VIII. PlaistowProject: NH121A(MainStreet)andNorthAvenueintersectionimprovements.
+33 IX. NashuaProject: LedgeStreetimprovements,reconstructingapproximately200feetofCanal
+34 retainingwall,approximately475feetofguardrail,andapproximately1,000'ofsidewalk.
+35 X. Dover-Somersworth-Rochester Project # 29604: Complete streets improvements on NH 108
+36 fromIndianBrookRoadtoInnovationDrive.
+37 XI. Dunbarton Project # 43535: Improvements to the intersection of NH 113. NH 77 and Jewett
+38 Road.
+39 343:9 NewBoston;GreggMillRoadBridge;LandTransfer.
+
+CHAPTER343
+HB2026-FINALVERSION
+-Page8-
+1 I. Notwithstanding any other provision of law to the contrary, and in the interest of public safety
+2 and welfare, the following interests in land acquired by the state under the land conservation investment
+3 program,recordedatHillsboroughCountyRegistryofDeedsBook5446,Page855,shallbetransferredto
+4 thetownofNewBostonforthepurposeofreconstructingtheGreggMillRoadBridge:
+5 (a) A permanent slope and structure easement of approximately 1,550 square feet on the
+6 parcelidentifiedontheTownofNewBostonTaxMapasMap6,Lot12-1.
+7 (b) A permanent slope and structure easement of approximately 750 square feet and a
+8 temporary construction easement of approximately 1,290 square feet expiring one year from project
+9 completionontheparcelidentifiedontheTownofNewBostonTaxMapasMap6,Lot13.
+10 II. Notwithstanding any other provision of law to the contrary, the department of natural and
+11 cultural resources and the town of New Boston may agree to additional transfers under a signed
+12 memorandum of agreement that are necessary to ensure the Gregg Mill Road Bridge is reconstructed.
+13 The council on resources and development, established under RSA 162-C, shall be notified of any
+14 additionaltransferswithin60daysofexecution.
+15 III. Compensation due to the state shall be the full fair market value of the interests transferred
+16 under paragraphsI andII, asdeterminedbyan appraisal completedbyan appraiser licensedinthe state
+17 ofNewHampshireandapprovedbythedepartmentofnaturalandculturalresources. Theappraisalshall
+18 also be reviewed by the department in determining just compensation for such acquisitions. Alternative
+19 compensationin the form of replacement land may be accepted provided all parties owning an interest in
+20 the property agree to such terms. Any monetary compensation shall be deposited in the land
+21 conservation endowment fund administered by the council on resources and development pursuant to
+22 RSA162-C:7andusedforthepurposesofthelandconservationinvestmentprogram.
+23 343:10 EffectiveDate.
+24 I. Section4ofthisactshalltakeeffectDecember1,2026.
+25 II. Sections3and5ofthisactshalltakeeffectJanuary1,2027.
+26 III. Theremainderofthisactshalltakeeffectuponitspassage.
+27
+VETOEDJuly10,2026/VetoOverriddenAugust19,2026
+Enacted in accordance with Article 44, Part II of the N.H. Constitution without the signature of the
+governorAugust19,2026.
+Approved:August19,2026
+EffectiveDate:
+I.Section4effectiveDecember1,2026.
+II.Sections3&5effectiveJanuary1,2027.
+III.RemainderEffectiveAugust19,2026.
