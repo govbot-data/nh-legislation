@@ -137,13 +137,13 @@
       }
     },
     {
-      "description": "Executive Session: 06/15/2026 11:00 am GP 159",
+      "description": "==CANCELLED== Executive Session: 06/15/2026 11:00 am GP 159",
       "date": "2026-06-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-08-28T16:29:32Z"
       }
     },
     {
@@ -155,47 +155,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:06Z"
       }
+    },
+    {
+      "description": "Executive Session: 09/30/2026 10:30 am GP 234",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T16:29:32Z"
+      }
+    },
+    {
+      "description": "Full Committee Work Session: 09/30/2026 10:00 am GP 234",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T16:29:32Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "David H. Watters",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David H. Watters\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kevin A. Avard",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "John C Janigian",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"John C Janigian\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bill M. Gannon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
-      "organization_id": null
-    },
     {
       "name": "Timothy Lang",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Timothy Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Gannon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Gannon\"}",
       "organization_id": null
     },
     {
@@ -207,11 +203,19 @@
       "organization_id": null
     },
     {
-      "name": "Keith R. Murphy",
+      "name": "David Watters",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "person_id": "~{\"name\": \"David Watters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Avard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
       "organization_id": null
     },
     {
@@ -220,6 +224,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Tim McGough\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Janigian",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Janigian\"}",
       "organization_id": null
     }
   ],
@@ -267,7 +287,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-08-28T16:29:32Z",
     "text_extraction_latest_update": "2026-07-21T19:21:30.991846Z"
   }
 }

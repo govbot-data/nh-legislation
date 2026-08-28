@@ -67,55 +67,65 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 09/15/2026 10:00 am GP 234",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T16:29:32Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Daniel E. Innis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Melissa A. Litchfield",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Melissa A. Litchfield\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jodi L Nelson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jodi L Nelson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Valerie E McDonnell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Valerie E McDonnell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James R Thibault",
+      "name": "James Thibault",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"James R Thibault\"}",
+      "person_id": "~{\"name\": \"James Thibault\"}",
       "organization_id": null
     },
     {
-      "name": "Samuel G Farrington",
+      "name": "Samuel Farrington",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Samuel G Farrington\"}",
+      "person_id": "~{\"name\": \"Samuel Farrington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Litchfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Litchfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valerie McDonnell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valerie McDonnell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Innis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
       "organization_id": null
     }
   ],
@@ -152,7 +162,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-08-28T16:29:32Z",
     "text_extraction_latest_update": "2026-07-25T08:05:42.874440Z"
   }
 }

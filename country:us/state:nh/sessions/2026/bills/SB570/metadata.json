@@ -117,23 +117,33 @@
       }
     },
     {
-      "description": "Refer for Interim Study: MA VV 05/14/2026  HJ 13",
+      "description": "Refer for Interim Study: MA VV 05/14/2026  HJ 13  P. 25",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-08-28T16:29:32Z"
+      }
+    },
+    {
+      "description": "Executive Session: 09/15/2026 10:00 am GP 234",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T16:29:32Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Sharon M. Carson",
+      "name": "Sharon Carson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sharon M. Carson\"}",
+      "person_id": "~{\"name\": \"Sharon Carson\"}",
       "organization_id": null
     },
     {
@@ -189,7 +199,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:05Z",
+    "logs_latest_update": "2026-08-28T16:29:32Z",
     "text_extraction_latest_update": "2026-07-21T19:03:32.795341Z"
   }
 }
