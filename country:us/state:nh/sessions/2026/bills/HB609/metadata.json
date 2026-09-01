@@ -292,16 +292,6 @@
       }
     },
     {
-      "description": "Removed from Consent (Reps. Simpson, Telerski, Sheehan, DeRoy, E. Kelly, Barton, Comtois, Selig, Newell, R. Newman) 05/21/2026  HJ 14",
-      "date": "2026-06-02",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
-      }
-    },
-    {
       "description": "Conference Committee Report # 2026-2114c; RC 15Y-8N, Adopted; 06/04/2026;  SJ 14",
       "date": "2026-06-04",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -312,7 +302,7 @@
       }
     },
     {
-      "description": "Lay HB609 on Table (Rep. Wilhelm): MA RC 182-160 06/04/2026  HJ 15",
+      "description": "Lay HB609 on Table (Rep. Wilhelm): MA RC 182-160 06/04/2026  HJ 15  P. 29",
       "date": "2026-06-04",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -320,7 +310,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:37Z"
+        "log_file_created": "2026-09-01T10:06:52Z"
       }
     },
     {
@@ -440,7 +430,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T15:33:32Z",
+    "logs_latest_update": "2026-09-01T10:06:52Z",
     "text_extraction_latest_update": "2026-08-27T15:34:51.124898Z"
   }
 }

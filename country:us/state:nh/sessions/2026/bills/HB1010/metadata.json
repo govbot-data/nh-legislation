@@ -234,13 +234,13 @@
       }
     },
     {
-      "description": "Conferee Change: Rep. Presa Replaces Rep. Cole 05/22/2026  HJ 14",
+      "description": "Conferee Change: Rep. Presa Replaces Rep. Cole 05/22/2026  HJ 14  P. 34",
       "date": "2026-05-22",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:36Z"
+        "log_file_created": "2026-09-01T10:06:52Z"
       }
     },
     {
@@ -254,23 +254,13 @@
       }
     },
     {
-      "description": "Conference Committee Report 2026-2075c: Adopted, VV 06/04/2026  HJ 15",
+      "description": "Conference Committee Report 2026-2075c: Adopted, VV 06/04/2026  HJ 15  P. 31",
       "date": "2026-06-04",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:36Z"
-      }
-    },
-    {
-      "description": "Removed from Consent (Reps. Alexander Jr., Tom Mannion, Dumont, Giasson, Aures, DeVito, Granger, Wherry, Miles, Reinfurt) 06/02/2026  HJ 14",
-      "date": "2026-06-02",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T06:45:36Z"
+        "log_file_created": "2026-09-01T10:06:52Z"
       }
     },
     {
@@ -306,23 +296,23 @@
       }
     },
     {
-      "description": "Enrolled Bill Amendment # 2026-2185e: AA VV (in recess of) 06/04/2026  HJ 15",
+      "description": "Enrolled Bill Amendment # 2026-2185e: AA VV (in recess of) 06/04/2026  HJ 15  P. 52",
       "date": "2026-06-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:36Z"
+        "log_file_created": "2026-09-01T10:06:52Z"
       }
     },
     {
-      "description": "Enrolled (in recess of) 06/04/2026  HJ 15",
+      "description": "Enrolled (in recess of) 06/04/2026  HJ 15  P. 56",
       "date": "2026-07-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T06:45:36Z"
+        "log_file_created": "2026-09-01T10:06:52Z"
       }
     },
     {
@@ -352,27 +342,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Regina Birdsell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Regina Birdsell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jennifer M Rhodes",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jennifer M Rhodes\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Katelyn T Kuttab",
+      "name": "Katelyn Kuttab",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Katelyn T Kuttab\"}",
+      "person_id": "~{\"name\": \"Katelyn Kuttab\"}",
       "organization_id": null
     },
     {
@@ -381,6 +355,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jennifer Mandelbaum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Rhodes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Rhodes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Birdsell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Birdsell\"}",
       "organization_id": null
     }
   ],
@@ -461,7 +451,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-01T10:06:52Z",
     "text_extraction_latest_update": "2026-07-25T08:05:19.924037Z"
   }
 }
