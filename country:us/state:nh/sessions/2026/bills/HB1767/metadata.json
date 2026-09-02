@@ -107,15 +107,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Full Committee Work Session: 10/13/2026 10:00 am GP 229",
+      "date": "2026-09-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T09:04:29Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Lino M Avellani",
+      "name": "Lino Avellani",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Lino M Avellani\"}",
+      "person_id": "~{\"name\": \"Lino Avellani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Labrie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Labrie\"}",
       "organization_id": null
     },
     {
@@ -124,14 +142,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mike Drago\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brian H Labrie",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brian H Labrie\"}",
       "organization_id": null
     }
   ],
@@ -168,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-02T09:04:29Z",
     "text_extraction_latest_update": "2026-07-25T07:39:46.273216Z"
   }
 }

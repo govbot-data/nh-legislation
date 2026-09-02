@@ -169,27 +169,27 @@
       }
     },
     {
-      "description": "Amendment # 2026-1830h: AA VV 05/14/2026  HJ 13",
+      "description": "Amendment # 2026-1830h: AA VV 05/14/2026  HJ 13  P. 107",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-09-02T09:04:29Z"
       }
     },
     {
-      "description": "FLAM # 2026-1963h  (Rep. Labrie): AA VV 05/14/2026  HJ 13",
+      "description": "FLAM # 2026-1963h  (Rep. Labrie): AA VV 05/14/2026  HJ 13  P. 107",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-09-02T09:04:29Z"
       }
     },
     {
-      "description": "Ought to Pass with Amendment 2026-1830h and 1963h: MF DV 151-176 05/14/2026  HJ 13",
+      "description": "Ought to Pass with Amendment 2026-1830h and 1963h: MF DV 151-176 05/14/2026  HJ 13  P. 108",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -198,43 +198,53 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-09-02T09:04:29Z"
       }
     },
     {
-      "description": "Refer for Interim Study: MA VV 05/14/2026  HJ 13",
+      "description": "Refer for Interim Study: MA VV 05/14/2026  HJ 13  P. 108",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-09-02T09:04:29Z"
+      }
+    },
+    {
+      "description": "Full Committee Work Session: 10/13/2026 10:00 am GP 229",
+      "date": "2026-09-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T09:04:29Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Brian Seaworth",
-      "classification": "cosponsor",
+      "name": "Tim McGough",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brian Seaworth\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim McGough\"}",
       "organization_id": null
     },
     {
-      "name": "Daniel E. Innis",
+      "name": "Daniel Innis",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
       "organization_id": null
     },
     {
-      "name": "Denise Ricciardi",
+      "name": "Keith Murphy",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Denise Ricciardi\"}",
+      "person_id": "~{\"name\": \"Keith Murphy\"}",
       "organization_id": null
     },
     {
@@ -246,32 +256,66 @@
       "organization_id": null
     },
     {
-      "name": "Keith R. Murphy",
+      "name": "Denise Ricciardi",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "person_id": "~{\"name\": \"Denise Ricciardi\"}",
       "organization_id": null
     },
     {
-      "name": "Brian H Labrie",
+      "name": "Brian Labrie",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Brian H Labrie\"}",
+      "person_id": "~{\"name\": \"Brian Labrie\"}",
       "organization_id": null
     },
     {
-      "name": "Tim McGough",
-      "classification": "primary",
+      "name": "Brian Seaworth",
+      "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Tim McGough\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Seaworth\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=21938&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Amended by the Senate",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=27412&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Amended by the House",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=32844&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -291,7 +335,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:05Z",
+    "logs_latest_update": "2026-09-02T09:04:29Z",
     "text_extraction_latest_update": "2026-09-01T16:30:14.461617Z"
   }
 }
