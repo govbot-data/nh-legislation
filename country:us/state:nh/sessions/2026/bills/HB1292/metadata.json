@@ -67,39 +67,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 09/30/2026 10:00 am GP 230",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T09:25:46Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Erica Layon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Erica Layon\"}",
+      "organization_id": null
+    },
     {
       "name": "Dan McGuire",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Dan McGuire\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erica J Layon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Erica J Layon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Yury Polozov",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Yury Polozov\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cyril Nicholas Aures",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cyril Nicholas Aures\"}",
       "organization_id": null
     },
     {
@@ -111,11 +105,11 @@
       "organization_id": null
     },
     {
-      "name": "Keith R. Murphy",
+      "name": "Matt Sabourin dit Choini\u00e8re",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "person_id": "~{\"name\": \"Matt Sabourin dit Choini\\u00e8re\"}",
       "organization_id": null
     },
     {
@@ -127,19 +121,35 @@
       "organization_id": null
     },
     {
-      "name": "Sayra Lynn DeVito",
+      "name": "Sayra DeVito",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Sayra Lynn DeVito\"}",
+      "person_id": "~{\"name\": \"Sayra DeVito\"}",
       "organization_id": null
     },
     {
-      "name": "Matt R Sabourin dit Choini\u00e8re",
+      "name": "Yury Polozov",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Matt R Sabourin dit Choini\\u00e8re\"}",
+      "person_id": "~{\"name\": \"Yury Polozov\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyril Aures",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cyril Aures\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith Murphy\"}",
       "organization_id": null
     },
     {
@@ -184,7 +194,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-05T09:25:46Z",
     "text_extraction_latest_update": "2026-07-25T07:04:19.281442Z"
   }
 }

@@ -107,6 +107,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 09/30/2026 10:00 am GP 230",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T09:25:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,66 +127,26 @@
       "primary": false,
       "person_id": "~{\"name\": \"Paul S. Berch\"}",
       "organization_id": null
-    },
-    {
-      "name": "Dick H Thackston",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Dick H Thackston\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Anita D Burroughs",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Anita D Burroughs\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rebecca Perkins Kwoka",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Debra Altschiller",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Debra Altschiller\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carry Spier",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Carry Spier\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Alicia C Gregg",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alicia C Gregg\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hope E Damon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Hope E Damon\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=221&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=221&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -196,7 +166,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-05T09:25:46Z",
     "text_extraction_latest_update": "2026-09-04T16:14:10.401293Z"
   }
 }

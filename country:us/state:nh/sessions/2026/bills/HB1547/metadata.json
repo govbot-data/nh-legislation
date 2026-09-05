@@ -67,47 +67,57 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 09/30/2026 10:00 am GP 230",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T09:25:46Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Katelyn T Kuttab",
-      "classification": "cosponsor",
+      "name": "Erik Johnson",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Katelyn T Kuttab\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Erik Johnson\"}",
       "organization_id": null
     },
     {
-      "name": "Claudine R Burnham",
+      "name": "Kelley Potenza",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Claudine R Burnham\"}",
+      "person_id": "~{\"name\": \"Kelley Potenza\"}",
       "organization_id": null
     },
     {
-      "name": "Kelley L Potenza",
+      "name": "Alicia Gregg",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Kelley L Potenza\"}",
+      "person_id": "~{\"name\": \"Alicia Gregg\"}",
       "organization_id": null
     },
     {
-      "name": "Alicia C Gregg",
+      "name": "Claudine Burnham",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Alicia C Gregg\"}",
+      "person_id": "~{\"name\": \"Claudine Burnham\"}",
       "organization_id": null
     },
     {
-      "name": "Zoe R Manos",
+      "name": "Katelyn Kuttab",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Zoe R Manos\"}",
+      "person_id": "~{\"name\": \"Katelyn Kuttab\"}",
       "organization_id": null
     },
     {
@@ -119,14 +129,6 @@
       "organization_id": null
     },
     {
-      "name": "Erik R Johnson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Erik R Johnson\"}",
-      "organization_id": null
-    },
-    {
       "name": "Marie Louise Bjelobrk",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -135,11 +137,19 @@
       "organization_id": null
     },
     {
-      "name": "Matt R Sabourin dit Choini\u00e8re",
+      "name": "Matt Sabourin dit Choini\u00e8re",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Matt R Sabourin dit Choini\\u00e8re\"}",
+      "person_id": "~{\"name\": \"Matt Sabourin dit Choini\\u00e8re\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zoe Manos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zoe Manos\"}",
       "organization_id": null
     },
     {
@@ -184,7 +194,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-05T09:25:46Z",
     "text_extraction_latest_update": "2026-07-25T07:43:29.555428Z"
   }
 }
