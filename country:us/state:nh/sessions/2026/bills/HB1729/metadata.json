@@ -77,23 +77,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/06/2026 10:00 am GP 232",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "David J. Luneau",
+      "name": "David Luneau",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"David J. Luneau\"}",
+      "person_id": "~{\"name\": \"David Luneau\"}",
       "organization_id": null
     },
     {
-      "name": "Hope E Damon",
+      "name": "Hope Damon",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Hope E Damon\"}",
+      "person_id": "~{\"name\": \"Hope Damon\"}",
       "organization_id": null
     }
   ],
@@ -130,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-25T07:35:43.221588Z"
   }
 }

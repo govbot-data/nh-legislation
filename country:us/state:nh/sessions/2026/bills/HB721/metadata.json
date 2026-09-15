@@ -107,6 +107,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2026 10:10 am GP 229",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,42 +127,26 @@
       "primary": false,
       "person_id": "~{\"name\": \"Keith Michael Ammon\"}",
       "organization_id": null
-    },
-    {
-      "name": "Juliet Harvey-Bolia",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Juliet Harvey-Bolia\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kristin Noble",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kristin Noble\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael E Granger",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michael E Granger\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Victoria Sullivan",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Victoria Sullivan\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=686&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=686&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -172,7 +166,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-09-14T18:02:01.173474Z"
   }
 }

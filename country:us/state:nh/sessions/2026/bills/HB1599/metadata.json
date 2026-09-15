@@ -107,31 +107,41 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Interim Study Report: Not Recommended for Future Legislation  09/02/2026 (Vote 18-0; )",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jordan G. Ulery",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jordan G. Ulery\"}",
-      "organization_id": null
-    },
-    {
-      "name": "John C Janigian",
+      "name": "John Janigian",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"John C Janigian\"}",
+      "person_id": "~{\"name\": \"John Janigian\"}",
       "organization_id": null
     },
     {
-      "name": "Timothy Lang",
+      "name": "Cyril Aures",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Timothy Lang\"}",
+      "person_id": "~{\"name\": \"Cyril Aures\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan Ulery",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan Ulery\"}",
       "organization_id": null
     },
     {
@@ -143,11 +153,11 @@
       "organization_id": null
     },
     {
-      "name": "Cyril Nicholas Aures",
+      "name": "Timothy Lang",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Cyril Nicholas Aures\"}",
+      "person_id": "~{\"name\": \"Timothy Lang\"}",
       "organization_id": null
     }
   ],
@@ -184,7 +194,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-25T07:31:33.206169Z"
   }
 }

@@ -127,6 +127,16 @@
       "_processing": {
         "log_file_created": "2026-08-28T16:29:32Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2026 09:30 am GP 228",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -196,7 +206,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T16:29:32Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-08-28T16:30:27.185468Z"
   }
 }

@@ -77,71 +77,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2026 10:00 am GP 229",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "David H. Watters",
-      "classification": "cosponsor",
+      "name": "Alice Wade",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David H. Watters\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alice Wade\"}",
       "organization_id": null
     },
     {
-      "name": "Donovan Fenton",
+      "name": "Billie Butler",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Donovan Fenton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Debra Altschiller",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Debra Altschiller\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Valerie E McDonnell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Valerie E McDonnell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Nicholas A Germana",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Nicholas A Germana\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jodi K Newell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jodi K Newell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Trinidad Tellez",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Trinidad Tellez\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Loren Selig",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Loren Selig\"}",
+      "person_id": "~{\"name\": \"Billie Butler\"}",
       "organization_id": null
     },
     {
@@ -153,6 +115,22 @@
       "organization_id": null
     },
     {
+      "name": "Jodi Newell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Newell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Loren Selig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Loren Selig\"}",
+      "organization_id": null
+    },
+    {
       "name": "Carrie Sorensen",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -161,27 +139,59 @@
       "organization_id": null
     },
     {
-      "name": "Alice Wade",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Alice Wade\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Henry R Giasson",
+      "name": "Trinidad Tellez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Henry R Giasson\"}",
+      "person_id": "~{\"name\": \"Trinidad Tellez\"}",
       "organization_id": null
     },
     {
-      "name": "Billie Butler",
+      "name": "Nicholas Germana",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Billie Butler\"}",
+      "person_id": "~{\"name\": \"Nicholas Germana\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry Giasson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henry Giasson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valerie McDonnell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valerie McDonnell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Watters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Watters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debra Altschiller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debra Altschiller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donovan Fenton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donovan Fenton\"}",
       "organization_id": null
     }
   ],
@@ -218,7 +228,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-25T07:41:07.749083Z"
   }
 }

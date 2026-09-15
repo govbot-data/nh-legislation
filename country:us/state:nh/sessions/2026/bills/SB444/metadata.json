@@ -157,39 +157,49 @@
       }
     },
     {
-      "description": "Refer for Interim Study: MA VV 05/14/2026  HJ 13",
+      "description": "Refer for Interim Study: MA VV 05/14/2026  HJ 13  P. 2",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2026 10:10 am GP 229",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Cathryn A Harvey",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cathryn A Harvey\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Daniel E. Innis",
+      "name": "Daniel Innis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "person_id": "~{\"name\": \"Daniel Innis\"}",
       "organization_id": null
     },
     {
-      "name": "Patrick N Long",
+      "name": "Cathryn Harvey",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Patrick N Long\"}",
+      "person_id": "~{\"name\": \"Cathryn Harvey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Long",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Long\"}",
       "organization_id": null
     }
   ],
@@ -237,7 +247,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-21T19:10:31.420574Z"
   }
 }

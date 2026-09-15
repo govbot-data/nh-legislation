@@ -77,31 +77,49 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2026 10:10 am GP 229",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Brian D Cole",
+      "name": "Brian Cole",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Brian D Cole\"}",
+      "person_id": "~{\"name\": \"Brian Cole\"}",
       "organization_id": null
     },
     {
-      "name": "Lori E Korzen",
+      "name": "Dale Girard",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Lori E Korzen\"}",
+      "person_id": "~{\"name\": \"Dale Girard\"}",
       "organization_id": null
     },
     {
-      "name": "Clayton D Wood",
+      "name": "Lori Korzen",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Clayton D Wood\"}",
+      "person_id": "~{\"name\": \"Lori Korzen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Labrie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Labrie\"}",
       "organization_id": null
     },
     {
@@ -113,19 +131,11 @@
       "organization_id": null
     },
     {
-      "name": "Dale R Girard",
+      "name": "Clayton Wood",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Dale R Girard\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brian H Labrie",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brian H Labrie\"}",
+      "person_id": "~{\"name\": \"Clayton Wood\"}",
       "organization_id": null
     }
   ],
@@ -162,7 +172,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-25T06:49:32.988034Z"
   }
 }

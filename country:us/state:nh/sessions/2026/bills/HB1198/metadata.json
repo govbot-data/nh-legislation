@@ -77,71 +77,89 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2026 10:10 am GP 229",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "David H. Watters",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David H. Watters\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Peter R Leishman",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Peter R Leishman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Peter W Bixby",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Peter W Bixby\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Karen E Ebel",
+      "name": "Karen Ebel",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Karen E Ebel\"}",
+      "person_id": "~{\"name\": \"Karen Ebel\"}",
       "organization_id": null
     },
     {
-      "name": "Kevin A. Avard",
+      "name": "Judy Aron",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
+      "person_id": "~{\"name\": \"Judy Aron\"}",
       "organization_id": null
     },
     {
-      "name": "Dick H Thackston",
+      "name": "Anita Burroughs",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Dick H Thackston\"}",
+      "person_id": "~{\"name\": \"Anita Burroughs\"}",
       "organization_id": null
     },
     {
-      "name": "Anita D Burroughs",
+      "name": "Carry Spier",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Anita D Burroughs\"}",
+      "person_id": "~{\"name\": \"Carry Spier\"}",
       "organization_id": null
     },
     {
-      "name": "Megan A Murray",
+      "name": "Dick Thackston",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Megan A Murray\"}",
+      "person_id": "~{\"name\": \"Dick Thackston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Creighton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Creighton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Bixby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Bixby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Leishman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Leishman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Megan Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Megan Murray\"}",
       "organization_id": null
     },
     {
@@ -153,19 +171,11 @@
       "organization_id": null
     },
     {
-      "name": "Judy F. Aron",
+      "name": "David Watters",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Judy F. Aron\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James L Creighton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"James L Creighton\"}",
+      "person_id": "~{\"name\": \"David Watters\"}",
       "organization_id": null
     },
     {
@@ -177,11 +187,11 @@
       "organization_id": null
     },
     {
-      "name": "Carry Spier",
+      "name": "Kevin Avard",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Carry Spier\"}",
+      "person_id": "~{\"name\": \"Kevin Avard\"}",
       "organization_id": null
     }
   ],
@@ -218,7 +228,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-25T07:38:18.791065Z"
   }
 }

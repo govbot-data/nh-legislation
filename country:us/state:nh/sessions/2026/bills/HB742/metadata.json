@@ -177,6 +177,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/06/2026 10:00 am GP 232",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -187,66 +197,26 @@
       "primary": false,
       "person_id": "~{\"name\": \"Patricia Cornell\"}",
       "organization_id": null
-    },
-    {
-      "name": "David J. Luneau",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"David J. Luneau\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Stephen L Woodcock",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Stephen L Woodcock\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Suzanne M. Prentiss",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Suzanne M. Prentiss\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Muriel C Hall",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Muriel C Hall\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Donovan Fenton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Donovan Fenton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Peggy Balboni",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Peggy Balboni\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hope E Damon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Hope E Damon\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=793&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=793&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -266,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-09-14T18:02:01.347265Z"
   }
 }

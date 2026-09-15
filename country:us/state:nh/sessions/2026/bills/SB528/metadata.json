@@ -162,13 +162,23 @@
       }
     },
     {
-      "description": "Refer for Interim Study: MA VV 04/23/2026  HJ 11",
+      "description": "Refer for Interim Study: MA VV 04/23/2026  HJ 11  P. 20",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2026 10:10 am GP 229",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
       }
     }
   ],
@@ -226,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-21T19:10:47.611304Z"
   }
 }

@@ -67,15 +67,25 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/06/2026 10:00 am GP 232",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Susan W Almy",
-      "classification": "cosponsor",
+      "name": "Sallie Fellows",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Susan W Almy\"}",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sallie Fellows\"}",
       "organization_id": null
     },
     {
@@ -87,19 +97,35 @@
       "organization_id": null
     },
     {
-      "name": "Jerry M. Stringham",
+      "name": "Jerry Stringham",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jerry M. Stringham\"}",
+      "person_id": "~{\"name\": \"Jerry Stringham\"}",
       "organization_id": null
     },
     {
-      "name": "Sallie D Fellows",
-      "classification": "primary",
+      "name": "Mary Ford",
+      "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Sallie D Fellows\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary Ford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Bryer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Bryer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan Almy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan Almy\"}",
       "organization_id": null
     },
     {
@@ -108,22 +134,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Alice Wade\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Scott R Bryer",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Scott R Bryer\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mary J Ford",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mary J Ford\"}",
       "organization_id": null
     }
   ],
@@ -160,7 +170,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-25T08:06:06.870542Z"
   }
 }

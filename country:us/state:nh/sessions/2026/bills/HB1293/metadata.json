@@ -107,23 +107,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Interim Study Report: Not Recommended for Future Legislation  09/02/2026 (Vote 15-3; )",
+      "date": "2026-09-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T09:54:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Thomas C Schamberg",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Thomas C Schamberg\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bill R Bolton",
+      "name": "Bill Bolton",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Bill R Bolton\"}",
+      "person_id": "~{\"name\": \"Bill Bolton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Schamberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Schamberg\"}",
       "organization_id": null
     }
   ],
@@ -160,7 +170,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-09-15T09:54:40Z",
     "text_extraction_latest_update": "2026-07-25T07:07:54.017898Z"
   }
 }
