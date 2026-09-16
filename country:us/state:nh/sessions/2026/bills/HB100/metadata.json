@@ -87,6 +87,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Full Committee Work Session: 09/29/2026 10:00 am GP 228",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:54:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,34 +107,26 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jess Edwards\"}",
       "organization_id": null
-    },
-    {
-      "name": "Ross Berry",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ross Berry\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erica J Layon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Erica J Layon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Aidan Ankarberg",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Aidan Ankarberg\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=44&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=44&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -144,7 +146,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-16T09:54:29Z",
     "text_extraction_latest_update": "2026-09-15T16:49:05.600954Z"
   }
 }

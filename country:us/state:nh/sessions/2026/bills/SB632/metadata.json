@@ -117,31 +117,41 @@
       }
     },
     {
-      "description": "Refer for Interim Study: MA VV 04/23/2026  HJ 11",
+      "description": "Refer for Interim Study: MA VV 04/23/2026  HJ 11  P. 11",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:06Z"
+        "log_file_created": "2026-09-16T09:54:29Z"
+      }
+    },
+    {
+      "description": "Full Committee Work Session: 09/29/2026 10:00 am GP 228",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:54:29Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Tracy Anne Bricchi",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Tracy Anne Bricchi\"}",
-      "organization_id": null
-    },
     {
       "name": "Tara Reardon",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Tara Reardon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tracy Bricchi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tracy Bricchi\"}",
       "organization_id": null
     }
   ],
@@ -189,7 +199,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:06Z",
+    "logs_latest_update": "2026-09-16T09:54:29Z",
     "text_extraction_latest_update": "2026-07-21T19:21:48.561984Z"
   }
 }
