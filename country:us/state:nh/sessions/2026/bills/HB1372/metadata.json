@@ -67,6 +67,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/23/2026 10:30 am GP 230",
+      "date": "2026-09-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T09:29:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,11 +89,11 @@
       "organization_id": null
     },
     {
-      "name": "Joe H. Alexander",
+      "name": "Joe Alexander",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Joe H. Alexander\"}",
+      "person_id": "~{\"name\": \"Joe Alexander\"}",
       "organization_id": null
     },
     {
@@ -128,7 +138,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-18T09:29:51Z",
     "text_extraction_latest_update": "2026-07-25T07:03:21.269733Z"
   }
 }

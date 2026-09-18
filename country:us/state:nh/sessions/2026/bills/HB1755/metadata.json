@@ -67,31 +67,41 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/23/2026 09:30 am GP 230",
+      "date": "2026-09-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T09:29:51Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Jordan G. Ulery",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jordan G. Ulery\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Melissa A. Litchfield",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Melissa A. Litchfield\"}",
-      "organization_id": null
-    },
     {
       "name": "Yury Polozov",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Yury Polozov\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Litchfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Litchfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan Ulery",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan Ulery\"}",
       "organization_id": null
     }
   ],
@@ -128,7 +138,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-18T09:29:51Z",
     "text_extraction_latest_update": "2026-07-25T07:49:08.806636Z"
   }
 }

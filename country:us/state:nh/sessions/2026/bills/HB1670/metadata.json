@@ -77,6 +77,16 @@
       "_processing": {
         "log_file_created": "2026-08-27T15:33:32Z"
       }
+    },
+    {
+      "description": "Interim Study Report: Recommended for Future Legislation  09/16/2026 (Vote 9-0; )",
+      "date": "2026-09-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T09:29:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,7 +188,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T15:33:32Z",
+    "logs_latest_update": "2026-09-18T09:29:51Z",
     "text_extraction_latest_update": "2026-08-27T15:34:52.935113Z"
   }
 }
