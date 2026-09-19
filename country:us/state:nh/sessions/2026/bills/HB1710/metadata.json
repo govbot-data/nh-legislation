@@ -134,55 +134,65 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/23/2026 10:00 am GP 230",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T09:08:27Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Debra L DeSimone",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Debra L DeSimone\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mark A Pearson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mark A Pearson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bob J. Lynn",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bob J. Lynn\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Melissa A. Litchfield",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Melissa A. Litchfield\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jodi L Nelson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jodi L Nelson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jay D Markell",
+      "name": "Jay Markell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jay D Markell\"}",
+      "person_id": "~{\"name\": \"Jay Markell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debra DeSimone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debra DeSimone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Litchfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Litchfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Lynn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Lynn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Pearson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Pearson\"}",
       "organization_id": null
     }
   ],
@@ -219,7 +229,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-19T09:08:27Z",
     "text_extraction_latest_update": "2026-07-25T07:02:15.899700Z"
   }
 }
