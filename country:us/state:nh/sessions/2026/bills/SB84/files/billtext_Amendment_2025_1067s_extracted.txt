@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Amendment: #2025-1067s
+Media Type: application/pdf
+
+================================================================================
+
+Sen.Ricciardi,Dist9
+March18,2025
+2025-1067s
+06/09
+FloorAmendmenttoSB84-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetozoningproceduresconcerningsingle-familyresidentialuses.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 NewSection;LotSizesforSingle-FamilyResidentialUses. AmendRSA674byinsertingafter
+8 section18-athefollowingnewsections:
+9 674:18-b LotSizesforSingle-FamilyResidentialUses.
+10 MunicipalitiesmayadoptthefollowingprovisionspursuanttoRSA674:18-c:
+11 I. In a majority of land zoned to permit single-family residential uses in a municipality, for
+12 lots not serviced by municipal or community sewer infrastructure, no ordinance shall require lot
+13 sizes greater than 66,000 square feet for single-family residential uses. In determining the majority
+14 of land zoned for residential uses, the municipality shall include all areas zoned residential or any
+15 non-residentialzonedareasthatallowsingle-familyhomes.
+16 II. For lots serviced by municipal or community water infrastructure, no ordinance shall
+17 require lot sizes greater than 44,000 square feet for single-family residential uses if there is
+18 adequate water system capacity to accommodate development on such lots, unless the municipality
+19 provides empirical evidence that the water system cannot support additional homes. "Empirical
+20 evidence" means information acquired through observation or experimentation. It is evidence based
+21 onmeasurableandverifiabledata,ratherthantheoryorpersonalbeliefs.
+22 III. For lots serviced by municipal or community sewer infrastructure, no ordinance shall
+23 require lot sizes greater than 22,000 square feet for single-family residential uses if there is
+24 adequatesewagesystem capacity toaccommodatedevelopment on suchlots, unless the municipality
+25 provides empirical evidence that the sewer system cannot support additional homes. "Empirical
+26 evidence" means information acquired through observation or experimentation. It is evidence based
+27 onmeasurableandverifiabledata,ratherthantheoryorpersonalbeliefs.
+28 IV. The requirements of this section shall not be construed to limit the potential for
+29 developmentoflotscreatedpriortoJuly1,2024.
+30 V. Nothing in this section shall override or supersede applicable municipal zoning
+31 regulationsunrelatedtominimumlotsizes.
+
+FloorAmendmenttoSB84-FN
+-Page2-
+1 VI. Nothing in this section shall override or supersede applicable department of
+2 environmental services septic and well regulations, which may require applicants on a case-by-case
+3 basistohavelargerlotsizestomeettheseregulations.
+4 674:18-c LocalOptionForLotSizesforSingle-FamilyResidentialUses.
+5 I. Adoption of provisions of RSA 674:18-b shall be made pursuant to lawful authority under
+6 RSA 672 through RSA 678, or any other applicable law. Upon adoption of the provisions of RSA
+7 674:18-b, the provisions shall take effect immediately within the municipality until such time as the
+8 legislativebodyvotestorescinditsaction.
+9 II. A municipality that has adopted the provisions of RSA 674:18-b may consider rescinding
+10 itsactionasfollows:
+11 (a) Inatown,thequestionshallbeplacedonthewarrantofanannualtownmeeting
+12 undertheproceduressetoutinRSA39:3,andshallbevotedonbyballot.Inacity,thelegislative
+13 bodymayvotetoplacethequestionontheofficialballotforanyregularmunicipalelection,or,
+14 alternatively,shallplacethequestionontheofficialballotforanyregularmunicipalelectionupon
+15 submissiontothelegislativebodyofapetitionsignedby5percentoftheregisteredvoters.
+16 (b) Theselectmen,aldermen,orcitycouncilshallholdapublichearingonthequestion
+17 atleast15days,butnotmorethan30days,beforethequestionistobevotedon.Noticeofthe
+18 hearingshallbepostedinatleast2publicplacesinthemunicipalityandpublishedinanewspaper
+19 ofgeneralcirculationatleast7daysbeforethehearing.
+20 (c) Thewordingofthequestionshallbesubstantiallyasfollows:"Shallwerescindthe
+21 provisionsofRSA674:18-b,relativetolotsizesforsingle-familyresidentialuses?"
+22 III. Onorbeforeoneyearfollowingitseffectivedate,themunicipalityshallholdavoteat
+23 theannualtownmeetingorregularmunicipalelectiontodeterminewhethertocontinueorrescind
+24 theadoptionofRSA674:18-b.
+25 IV. Ifthevotetorescindisapproved,RSA674:18-bshallnolongerapplywithinthetown,
+26 effectiveimmediately.
+27 V. Ifthevotetorescindisnotapproved,theprovisionsofRSA674:18-bshallremainin
+28 effectandthequestionmaylaterbevoteduponaccordingtotheprovisionsofparagraphIIatthe
+29 nextannualtownmeetingorregularmunicipalelection.
+30 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+FloorAmendmenttoSB84-FN
+-Page3-
+2025-1067s
+AMENDEDANALYSIS
+This bill establishes maximum lot sizes for single-family residential uses based on the type of
+infrastructure available to the lot. It requires municipalities to place a question on the ballot within
+one years of the bill’s implementation to determine whether to rescind these provisions. If the ballot
+measuresucceeds,themaximumlotsizeprovisionswillnotapplywithinthatmunicipality.
