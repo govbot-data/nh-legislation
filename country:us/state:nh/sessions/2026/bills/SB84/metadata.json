@@ -239,6 +239,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:55:05Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/01/2026 10:00 am GP 231",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T09:44:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -249,42 +259,74 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jason M. Osborne\"}",
       "organization_id": null
-    },
-    {
-      "name": "Daniel E. Innis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joe H. Alexander",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Joe H. Alexander\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Keith R. Murphy",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tim McGough",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Tim McGough\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=SI&id=1016&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=SI&id=1016&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2025-0366s",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2025-0366S",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2025-1151s",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2025-1151S",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment: #2025-1067s",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billtext.aspx?sy=2026&txtFormat=amend&id=2025-1067S",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ought to Pass with Amendment",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=html&v=SA&id=1016",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=pdf&v=SA&id=1016",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -304,7 +346,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:05Z",
+    "logs_latest_update": "2026-09-23T09:44:58Z",
     "text_extraction_latest_update": "2026-09-22T16:47:15.521968Z"
   }
 }

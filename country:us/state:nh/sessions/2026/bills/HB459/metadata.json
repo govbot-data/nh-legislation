@@ -87,6 +87,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/01/2026 10:00 am GP 231",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T09:44:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,90 +107,26 @@
       "primary": false,
       "person_id": "~{\"name\": \"Dan McGuire\"}",
       "organization_id": null
-    },
-    {
-      "name": "Joe Sweeney",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Joe Sweeney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joe H. Alexander",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Joe H. Alexander\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ross Berry",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ross Berry\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Keith R. Murphy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Michael E Granger",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Michael E Granger\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jessica Grill",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jessica Grill\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Alissandra Murray",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alissandra Murray\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Patrick N Long",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Patrick N Long\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mark McConkey",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Mark McConkey\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Tara Reardon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Tara Reardon\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=893&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=893&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -200,7 +146,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-23T09:44:58Z",
     "text_extraction_latest_update": "2026-09-22T16:47:15.660679Z"
   }
 }

@@ -87,6 +87,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:37Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/01/2026 10:00 am GP 231",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T09:44:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,58 +107,26 @@
       "primary": false,
       "person_id": "~{\"name\": \"Efstathia S Booras\"}",
       "organization_id": null
-    },
-    {
-      "name": "Rebecca Perkins Kwoka",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Christal R Lloyd",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Christal R Lloyd\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Alissandra Murray",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alissandra Murray\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Loren Selig",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Loren Selig\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Allan Howland",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Allan Howland\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jennifer Mandelbaum",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jennifer Mandelbaum\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=51&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HI&id=51&txtFormat=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -168,7 +146,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:37Z",
+    "logs_latest_update": "2026-09-23T09:44:58Z",
     "text_extraction_latest_update": "2026-09-22T16:47:15.643328Z"
   }
 }
