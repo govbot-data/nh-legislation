@@ -67,63 +67,73 @@
       "_processing": {
         "log_file_created": "2026-07-25T06:45:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/14/2026 10:00 am GP 232",
+      "date": "2026-09-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:02:15Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Steven D Smith",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Steven D Smith\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bill M. Gannon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Paul A Terry",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Paul A Terry\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Melissa A. Litchfield",
+      "name": "Melissa Litchfield",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Melissa A. Litchfield\"}",
+      "person_id": "~{\"name\": \"Melissa Litchfield\"}",
       "organization_id": null
     },
     {
-      "name": "Susan M Porcelli",
+      "name": "Brian Nadeau",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Susan M Porcelli\"}",
+      "person_id": "~{\"name\": \"Brian Nadeau\"}",
       "organization_id": null
     },
     {
-      "name": "Brian G Nadeau",
+      "name": "Laurence Miner",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Brian G Nadeau\"}",
+      "person_id": "~{\"name\": \"Laurence Miner\"}",
       "organization_id": null
     },
     {
-      "name": "Laurence A Miner",
+      "name": "Paul Terry",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Laurence A Miner\"}",
+      "person_id": "~{\"name\": \"Paul Terry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan Porcelli",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan Porcelli\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Gannon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Gannon\"}",
       "organization_id": null
     }
   ],
@@ -160,7 +170,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T06:45:36Z",
+    "logs_latest_update": "2026-09-26T10:02:15Z",
     "text_extraction_latest_update": "2026-07-25T07:08:50.974991Z"
   }
 }
